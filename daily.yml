@@ -1,0 +1,33 @@
+name: Daily Report Update
+
+on:
+  schedule:
+    - cron: '45 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 下载仓库内容
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行日报脚本
+        run: python scripts/main.py
+
+      - name: 提交更新后的 docs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/
+          git commit -m "auto update report" || echo "no changes"
+          git push

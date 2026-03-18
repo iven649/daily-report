@@ -125,6 +125,7 @@ def main():
             x["display_title"] = simplify_title(x.get("title", ""))
 
     product_items = dedupe(products.get("products", []))[:6]
+
     for x in product_items:
         x["display_title"] = simplify_title(x.get("name", ""))
         x["display_summary"] = simplify_summary(x.get("summary", ""))

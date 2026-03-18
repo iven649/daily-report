@@ -14,8 +14,35 @@ def dedupe(items):
     return out
 
 def simplify_title(title: str) -> str:
-    title = (title or "").strip()
-    return " ".join(title.split())[:80]
+    import re
+
+    title = title.strip()
+
+    # 去掉常见冗余
+    title = re.sub(r'\s*[-|–|—].*$', '', title)
+
+    # 简单关键词翻译（轻量版）
+    replacements = {
+        "launch": "发布",
+        "announces": "发布",
+        "introduces": "推出",
+        "new": "新款",
+        "update": "更新",
+        "price": "价格",
+        "sale": "促销",
+        "discount": "降价",
+        "Amazon": "亚马逊",
+        "Apple": "苹果",
+        "Google": "谷歌",
+        "Nvidia": "英伟达",
+        "Spotify": "Spotify",
+    }
+
+    for k, v in replacements.items():
+        title = title.replace(k, v)
+
+    # 截断长度
+    return title[:40]
 
 def main():
     news = load_json("data/raw/news.json", {})

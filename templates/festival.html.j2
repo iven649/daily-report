@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ name }} - {{ year }}</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f5f7fa; color: #222; }
+    .container { max-width: 800px; margin: 0 auto; padding: 24px; }
+    .card { background:#fff; border-radius:16px; padding:28px; box-shadow:0 2px 10px rgba(0,0,0,.06); }
+    .muted { color:#666; }
+    li { margin-bottom: 8px; }
+    a.button { display:inline-block; background:#222; color:#fff; padding:10px 16px; border-radius:10px; text-decoration:none; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="card">
+    <div style="font-size:64px;">{{ icon }}</div>
+    <h1>{{ name }}</h1>
+    <div class="muted">{{ date_text }} · 还有 {{ countdown }} 天</div>
+
+    <h2>📜 起源</h2>
+    <p>{{ origin }}</p>
+
+    <h2>📖 简介</h2>
+    <p>{{ story }}</p>
+
+    <h2>🎭 传统/节点特征</h2>
+    <ul>
+      {% for c in customs %}
+      <li>{{ c }}</li>
+      {% endfor %}
+    </ul>
+
+    <h2>🛒 消费习惯</h2>
+    <ul>
+      {% for c in consumption %}
+      <li>{{ c }}</li>
+      {% endfor %}
+    </ul>
+
+    <h2>📋 假期/节点说明</h2>
+    <p>{{ holiday }}</p>
+
+    <p><a class="button" href="index.html">← 返回日报</a></p>
+  </div>
+</div>
+</body>
+</html>

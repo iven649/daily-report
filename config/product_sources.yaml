@@ -1,0 +1,8 @@
+sources:
+  products:
+    - name: The Verge
+      type: rss
+      url: https://www.theverge.com/rss/index.xml
+    - name: Android Authority
+      type: rss
+      url: https://www.androidauthority.com/feed/

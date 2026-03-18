@@ -1,0 +1,55 @@
+festivals:
+  - slug: qingming
+    name: 清明节
+    market: CN
+    type: traditional
+    rule: fixed
+    month: 4
+    day: 4
+
+  - slug: easter
+    name: 复活节
+    market: US
+    type: traditional
+    rule: easter
+
+  - slug: memorial-day
+    name: Memorial Day
+    market: US
+    type: promotion
+    rule: nth_weekday
+    month: 5
+    weekday: 0
+    nth_from_end: 1
+
+  - slug: prime-day
+    name: Prime Day
+    market: US
+    type: promotion
+    rule: fixed
+    month: 7
+    day: 15
+
+  - slug: back-to-school
+    name: Back to School
+    market: US
+    type: promotion
+    rule: fixed
+    month: 8
+    day: 15
+
+  - slug: zhongqiu
+    name: 中秋节
+    market: CN
+    type: traditional
+    rule: fixed
+    month: 10
+    day: 6
+
+  - slug: guoqing
+    name: 国庆节
+    market: CN
+    type: promotion
+    rule: fixed
+    month: 10
+    day: 1

@@ -1,0 +1,18 @@
+sources:
+  consumer_electronics:
+    - name: The Verge
+      type: rss
+      url: https://www.theverge.com/rss/index.xml
+    - name: Android Authority
+      type: rss
+      url: https://www.androidauthority.com/feed/
+    - name: PhoneArena
+      type: rss
+      url: https://www.phonearena.com/rss/news
+  channel_news:
+    - name: RetailWire
+      type: rss
+      url: https://retailwire.com/feed/
+    - name: Chain Store Age
+      type: rss
+      url: https://chainstoreage.com/rss.xml

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>分销日报 - 2026-03-18</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f5f7fa; color: #222; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+    .card { background: white; border-radius: 14px; padding: 20px; margin-bottom: 18px; box-shadow: 0 2px 10px rgba(0,0,0,.06);}
+    .header { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+    .badges a { text-decoration:none; background:#222; color:#fff; padding:10px 14px; border-radius:10px; margin-right:8px; display:inline-block; }
+    .grid2 { display:grid; grid-template-columns: 1fr 1fr; gap:16px; }
+    .grid3 { display:grid; grid-template-columns: repeat(3, 1fr); gap:12px; }
+    .section-title { font-size: 20px; margin-bottom: 14px; }
+    .item { padding: 12px 0; border-bottom: 1px solid #eee; }
+    .item:last-child { border-bottom: none; }
+    .source { color:#666; font-size:12px; }
+    a { color:#0a58ca; }
+    .product { border:1px solid #eee; border-radius:12px; padding:14px; background:#fff; }
+    .weather-box { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+    .muted { color:#666; }
+    @media (max-width: 900px) { .grid2, .grid3, .weather-box { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="card header">
+    <div>
+      <h1 style="margin:0;">分销日报</h1>
+      <div class="muted">2026-03-18</div>
+    </div>
+    <div class="badges">
+      
+      <a href="qingming.html">🪴 清明节 17天</a>
+      
+      <a href="easter.html">🐰 复活节 18天</a>
+      
+    </div>
+  </div>
+
+  <div class="weather-box">
+    <div class="card">
+      <h2 class="section-title">🌤️ 中国天气</h2>
+      <div id="cn-weather">加载中...</div>
+    </div>
+    <div class="card">
+      <h2 class="section-title">🌤️ 美国天气</h2>
+      <div id="us-weather">加载中...</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2 class="section-title">🕐 美国时区</h2>
+    <div class="grid3">
+      <div>东部 EST：<span id="tz-east"></span></div>
+      <div>中部 CST：<span id="tz-central"></span></div>
+      <div>山地 MST：<span id="tz-mountain"></span></div>
+      <div>太平洋 PST：<span id="tz-pacific"></span></div>
+      <div>阿拉斯加 AKST：<span id="tz-alaska"></span></div>
+      <div>夏威夷 HST：<span id="tz-hawaii"></span></div>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <h2 class="section-title">📱 今日热点</h2>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth" target="_blank">I went to the Pentagon to watch Pete Hegseth scold war reporters</a>
+        <div class="source">The Verge</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026" target="_blank">The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale</a>
+        <div class="source">The Verge</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy" target="_blank">Remedy’s live-service shooter Firebreak is getting its final major update</a>
+        <div class="source">The Verge</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows" target="_blank">Spotify adds &#8216;Exclusive Mode&#8217; audiophile feature for Windows PCs</a>
+        <div class="source">The Verge</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems" target="_blank">Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not </a>
+        <div class="source">The Verge</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing" target="_blank">Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse</a>
+        <div class="source">The Verge</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026" target="_blank">Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop</a>
+        <div class="source">The Verge</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date" target="_blank">The messiah rises in Dune: Part Three’s new trailer</a>
+        <div class="source">The Verge</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence" target="_blank">Now everyone in the US is getting Google&#8217;s personalized Gemini AI</a>
+        <div class="source">The Verge</div>
+      </div>
+      
+    </div>
+    <div class="card">
+      <h2 class="section-title">🛒 渠道新闻</h2>
+      
+      <div class="item">
+        <a href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">Target’s Tech Chief Has a Central Role in the Retailer’s Turnaround Plan</a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/" target="_blank">State lawmakers draft rounding rules as U.S. Mint stops penny production</a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://retailwire.com/top-10-retail-tech-at-etail-west-2026/" target="_blank">Top 10 Retail Tech at eTail West 2026</a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/" target="_blank">L.L.Bean Appoints Greg Elder as CEO, Prioritizes Brand Legacy and Expansion</a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://retailwire.com/starbucks-red-cup-rebellion/" target="_blank">“No Contract, No Coffee”: Starbucks’ Red Cup Day Turns Into “Red Cup Rebellion” </a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">Walmart’s Sixth CEO: John Furner to Take the Helm as McMillon Steps Down</a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/" target="_blank">Firehouse Subs Brings on Carolina Berti as CMO for U.S. and Canada</a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://retailwire.com/nike-at-a-crossroads-q1-2026-results-reveal-rebound-headwinds-and-a-strategic-reset/" target="_blank">Nike at a Crossroads: Q1 2026 Results Reveal Rebound, Headwinds, and a Strategic</a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+      <div class="item">
+        <a href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">IKEA and Best Buy Launch Shop-in-Shop Pilot Across 10 Stores in Florida and Texa</a>
+        <div class="source">RetailWire</div>
+      </div>
+      
+    </div>
+  </div>
+
+  <div class="card">
+    <h2 class="section-title">🚀 新品速递</h2>
+    <div class="grid3">
+      
+      <div class="product">
+        <div><strong>Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops</strong></div>
+        <div class="muted">The Verge · 2026-03-17T11:50</div>
+        <p>Intel has a pair of new flagship CPUs coming to a variety of pricey gaming laptops: the Core Ultra 9 290 HX Plus and Cor</p>
+        <a href="https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu" target="_blank">查看原文</a>
+      </div>
+      
+      <div class="product">
+        <div><strong>The messiah rises in Dune: Part Three’s new trailer</strong></div>
+        <div class="muted">The Verge · 2026-03-17T13:01</div>
+        <p>First comes love, then comes marriage, then comes a portentous set of twin babies in the new trailer for Dune: Part Thre</p>
+        <a href="https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date" target="_blank">查看原文</a>
+      </div>
+      
+      <div class="product">
+        <div><strong>A new Google TV projector just arrived to make streaming easier (and c</strong></div>
+        <div class="muted">Android Authority · Tue, 17 Mar 2026</div>
+        <p>Simplified streaming just got cheaper.</p>
+        <a href="https://www.androidauthority.com/wanbo-vali-1-pro-launch-3649898/" target="_blank">查看原文</a>
+      </div>
+      
+      <div class="product">
+        <div><strong>Some Galaxy S26 Ultra owners say they had to return the phone over the</strong></div>
+        <div class="muted">Android Authority · Tue, 17 Mar 2026</div>
+        <p>The users say the display is causing them eye strain, nausea, and other symptoms.</p>
+        <a href="https://www.androidauthority.com/some-galaxy-s26-ultra-eye-strain-complaints-3649803/" target="_blank">查看原文</a>
+      </div>
+      
+      <div class="product">
+        <div><strong>Gemini preps some powerful new tools for editing Nano Banana images</strong></div>
+        <div class="muted">Android Authority · Tue, 17 Mar 2026</div>
+        <p>You’ll soon be able to describe Gemini image edits as you mark them up.</p>
+        <a href="https://www.androidauthority.com/gemini-image-markup-2-3649763/" target="_blank">查看原文</a>
+      </div>
+      
+      <div class="product">
+        <div><strong>Spotify rolls out its bold new smartwatch app experience on Wear OS</strong></div>
+        <div class="muted">Android Authority · Tue, 17 Mar 2026</div>
+        <p>The update features a gesture-based navigation system and an immersive view with large album art right on your wrist.</p>
+        <a href="https://www.androidauthority.com/spotify-wear-os-app-redesign-rollout-3649744/" target="_blank">查看原文</a>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<script>
+async function loadWeather(city, id){
+  try{
+    const res = await fetch("https://wttr.in/" + city + "?format=3");
+    const text = await res.text();
+    document.getElementById(id).textContent = text;
+  }catch(e){
+    document.getElementById(id).textContent = "天气加载失败";
+  }
+}
+function updateTimezones(){
+  const now = new Date();
+  const utcH = now.getUTCHours();
+  const m = String(now.getUTCMinutes()).padStart(2,'0');
+  const zones = [
+    ['tz-east', -4], ['tz-central', -5], ['tz-mountain', -6],
+    ['tz-pacific', -7], ['tz-alaska', -8], ['tz-hawaii', -10]
+  ];
+  zones.forEach(([id, off]) => {
+    let h = utcH + off; if(h < 0) h += 24; if(h >= 24) h -= 24;
+    document.getElementById(id).textContent = h + ':' + m;
+  });
+}
+loadWeather("Shenzhen","cn-weather");
+loadWeather("Los+Angeles","us-weather");
+updateTimezones();
+setInterval(updateTimezones, 60000);
+</script>
+</body>
+</html>

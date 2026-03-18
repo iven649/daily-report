@@ -5,7 +5,6 @@ from datetime import date
 from typing import List, Dict, Any
 
 from openai import OpenAI
-
 from common import load_json, dump_json
 
 
@@ -30,7 +29,7 @@ def simplify_title(title: str) -> str:
         return ""
 
     try:
-        prompt = f"""请把下面这条新闻标题改写成简短自然的中文新闻标题。
+        prompt = f"""请把下面这条新闻或产品标题改写成简短自然的中文标题。
 
 要求：
 1. 12-18字优先，最多不超过20字
@@ -67,6 +66,49 @@ def simplify_title(title: str) -> str:
         return title[:40]
 
 
+def simplify_summary(summary: str) -> str:
+    summary = (summary or "").strip()
+    if not summary:
+        return ""
+
+    try:
+        prompt = f"""请把下面这段产品简介改写成简短自然的中文摘要。
+
+要求：
+1. 30字以内
+2. 保留核心卖点
+3. 像新品速递摘要
+4. 不要解释，不要换行
+5. 只输出中文摘要
+
+原文：
+{summary}
+"""
+
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "你是一个科技媒体编辑，擅长把英文产品描述改写成简短自然的中文摘要。"
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            temperature=0.3,
+        )
+
+        result = response.choices[0].message.content.strip()
+        result = " ".join(result.split())
+        return result[:40]
+
+    except Exception as e:
+        print(f"[WARN] AI摘要失败: {e}")
+        return summary[:80]
+
+
 def main():
     news = load_json("data/raw/news.json", {})
     products = load_json("data/raw/products.json", {"products": []})
@@ -83,6 +125,9 @@ def main():
             x["display_title"] = simplify_title(x.get("title", ""))
 
     product_items = dedupe(products.get("products", []))[:6]
+    for x in product_items:
+        x["display_title"] = simplify_title(x.get("name", ""))
+        x["display_summary"] = simplify_summary(x.get("summary", ""))
 
     payload = {
         "date": str(date.today()),

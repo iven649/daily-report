@@ -1,32 +1,515 @@
-<!-- 新品速递 -->
-<div class="card">
-  <h2>🚀 新品速递</h2>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>分销日报 - {{ date }}</title>
+  <style>
+    :root {
+      --bg: #f5f5f7;
+      --card: #ffffff;
+      --text: #111111;
+      --muted: #6b7280;
+      --line: #ececec;
+      --shadow: 0 6px 24px rgba(17, 17, 17, 0.05);
+      --radius: 20px;
+      --link: #2563eb;
+      --badge: #111111;
+    }
 
-  <div class="grid">
-    {% for item in products %}
-    <div class="product-card">
+    * {
+      box-sizing: border-box;
+    }
 
-      <!-- 标题 -->
-      <div class="title">
-        {{ item.display_title or item.name }}
-      </div>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC",
+        "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
 
-      <!-- 来源 + 时间 -->
-      <div class="meta">
-        {{ item.source }} · {{ item.date }}
-      </div>
+    a {
+      color: var(--link);
+      text-decoration: none;
+    }
 
-      <!-- 摘要 -->
-      <div class="summary">
-        {{ item.display_summary or item.summary }}
-      </div>
+    a:hover {
+      text-decoration: underline;
+    }
 
-      <!-- 链接 -->
-      <a href="{{ item.url }}" target="_blank" class="link">
-        查看原文 →
-      </a>
+    .container {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 28px 20px 56px;
+    }
 
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      border: 1px solid rgba(17, 17, 17, 0.04);
+    }
+
+    .hero {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 20px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+    }
+
+    .hero-title {
+      margin: 0;
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .hero-date {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .badges {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border-radius: 14px;
+      background: var(--badge);
+      color: #fff;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .badge:hover {
+      text-decoration: none;
+      opacity: 0.92;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .section {
+      padding: 22px 20px 20px;
+    }
+
+    .section-title {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0 0 18px;
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+
+    .weather-box {
+      min-height: 112px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .weather-status {
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 1.6;
+    }
+
+    .timezone-card {
+      padding: 22px 20px 20px;
+      margin-bottom: 18px;
+    }
+
+    .timezone-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px 18px;
+      margin-top: 8px;
+    }
+
+    .timezone-item {
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: #fafafa;
+      border: 1px solid var(--line);
+    }
+
+    .timezone-name {
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+
+    .timezone-time {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .news-wrap {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .news-card {
+      padding: 22px 20px 10px;
+      min-height: 420px;
+    }
+
+    .news-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .news-item {
+      padding: 14px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .news-item:last-child {
+      border-bottom: none;
+    }
+
+    .news-title {
+      display: inline-block;
+      font-size: 16px;
+      line-height: 1.45;
+      font-weight: 600;
+      color: #1d4ed8;
+      margin-bottom: 6px;
+    }
+
+    .news-source {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .products-card {
+      padding: 22px 20px 20px;
+    }
+
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .product-card {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px 16px;
+      background: linear-gradient(180deg, #ffffff 0%, #fcfcfc 100%);
+      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+      min-height: 240px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .product-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 28px rgba(17, 17, 17, 0.06);
+      border-color: #e5e7eb;
+    }
+
+    .product-title {
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1.4;
+      letter-spacing: -0.01em;
+      margin-bottom: 8px;
+      color: var(--text);
+    }
+
+    .product-meta {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 14px;
+    }
+
+    .product-summary {
+      color: #374151;
+      font-size: 14px;
+      line-height: 1.65;
+      flex: 1;
+      margin-bottom: 18px;
+    }
+
+    .product-link {
+      font-size: 14px;
+      font-weight: 600;
+      align-self: flex-start;
+    }
+
+    .empty-text {
+      color: var(--muted);
+      font-size: 14px;
+      padding: 10px 0 14px;
+    }
+
+    @media (max-width: 980px) {
+      .two-col,
+      .news-wrap,
+      .products-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .timezone-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .hero {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .badges {
+        justify-content: flex-start;
+      }
+
+      .news-card {
+        min-height: auto;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .container {
+        padding: 18px 14px 40px;
+      }
+
+      .hero,
+      .section,
+      .timezone-card,
+      .news-card,
+      .products-card {
+        padding-left: 16px;
+        padding-right: 16px;
+      }
+
+      .hero-title {
+        font-size: 22px;
+      }
+
+      .timezone-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .product-title {
+        font-size: 17px;
+      }
+
+      .news-title {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- 顶部 -->
+  <div class="card hero">
+    <div>
+      <h1 class="hero-title">分销日报</h1>
+      <div class="hero-date">{{ date }}</div>
     </div>
-    {% endfor %}
+
+    <div class="badges">
+      {% for f in festival_cards %}
+      <a class="badge" href="{{ f.slug }}.html">
+        <span>{{ f.icon }}</span>
+        <span>{{ f.name }} {{ f.countdown }}天</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- 天气 -->
+  <div class="two-col">
+    <div class="card section">
+      <h2 class="section-title">🌤️ 中国天气</h2>
+      <div class="weather-box">
+        <div id="cn-weather" class="weather-status">加载中...</div>
+      </div>
+    </div>
+
+    <div class="card section">
+      <h2 class="section-title">🌤️ 美国天气</h2>
+      <div class="weather-box">
+        <div id="us-weather" class="weather-status">加载中...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 时区 -->
+  <div class="card timezone-card">
+    <h2 class="section-title">🕐 美国时区</h2>
+    <div class="timezone-grid">
+      <div class="timezone-item">
+        <div class="timezone-name">东部 EST</div>
+        <div id="tz-east" class="timezone-time"></div>
+      </div>
+      <div class="timezone-item">
+        <div class="timezone-name">中部 CST</div>
+        <div id="tz-central" class="timezone-time"></div>
+      </div>
+      <div class="timezone-item">
+        <div class="timezone-name">山地 MST</div>
+        <div id="tz-mountain" class="timezone-time"></div>
+      </div>
+      <div class="timezone-item">
+        <div class="timezone-name">太平洋 PST</div>
+        <div id="tz-pacific" class="timezone-time"></div>
+      </div>
+      <div class="timezone-item">
+        <div class="timezone-name">阿拉斯加 AKST</div>
+        <div id="tz-alaska" class="timezone-time"></div>
+      </div>
+      <div class="timezone-item">
+        <div class="timezone-name">夏威夷 HST</div>
+        <div id="tz-hawaii" class="timezone-time"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 新闻 -->
+  <div class="news-wrap">
+    <div class="card news-card">
+      <h2 class="section-title">📰 今日热点</h2>
+      <div class="news-list">
+        {% if consumer_electronics %}
+          {% for item in consumer_electronics %}
+          <div class="news-item">
+            <a class="news-title" href="{{ item.url }}" target="_blank">
+              {{ item.display_title or item.title }}
+            </a>
+            <div class="news-source">{{ item.source }}</div>
+          </div>
+          {% endfor %}
+        {% else %}
+          <div class="empty-text">暂无内容</div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="card news-card">
+      <h2 class="section-title">🛒 渠道新闻</h2>
+      <div class="news-list">
+        {% if channel_news %}
+          {% for item in channel_news %}
+          <div class="news-item">
+            <a class="news-title" href="{{ item.url }}" target="_blank">
+              {{ item.display_title or item.title }}
+            </a>
+            <div class="news-source">{{ item.source }}</div>
+          </div>
+          {% endfor %}
+        {% else %}
+          <div class="empty-text">暂无内容</div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <!-- 新品速递 -->
+  <div class="card products-card">
+    <h2 class="section-title">🚀 新品速递</h2>
+
+    <div class="products-grid">
+      {% if products %}
+        {% for item in products %}
+        <div class="product-card">
+          <div class="product-title">
+            {{ item.display_title or item.name }}
+          </div>
+
+          <div class="product-meta">
+            {{ item.source }} · {{ item.date }}
+          </div>
+
+          <div class="product-summary">
+            {{ item.display_summary or item.summary }}
+          </div>
+
+          <a href="{{ item.url }}" target="_blank" class="product-link">
+            查看原文 →
+          </a>
+        </div>
+        {% endfor %}
+      {% else %}
+        <div class="empty-text">暂无新品内容</div>
+      {% endif %}
+    </div>
   </div>
 </div>
+
+<script>
+  async function loadWeather(city, id) {
+    try {
+      const res = await fetch("https://goweather.herokuapp.com/weather/" + encodeURIComponent(city));
+      const data = await res.json();
+
+      if (!data || (!data.temperature && !data.description)) {
+        document.getElementById(id).textContent = "天气获取失败";
+        return;
+      }
+
+      document.getElementById(id).textContent =
+        city + " " + (data.temperature || "") + " " + (data.description || "");
+    } catch (e) {
+      document.getElementById(id).textContent = "天气获取失败";
+    }
+  }
+
+  function updateTimezones() {
+    const now = new Date();
+    const utcH = now.getUTCHours();
+    const m = String(now.getUTCMinutes()).padStart(2, "0");
+
+    const zones = [
+      ["tz-east", -4],
+      ["tz-central", -5],
+      ["tz-mountain", -6],
+      ["tz-pacific", -7],
+      ["tz-alaska", -8],
+      ["tz-hawaii", -10]
+    ];
+
+    zones.forEach(([id, off]) => {
+      let h = utcH + off;
+      if (h < 0) h += 24;
+      if (h >= 24) h -= 24;
+      document.getElementById(id).textContent = h + ":" + m;
+    });
+  }
+
+  loadWeather("Shenzhen", "cn-weather");
+  loadWeather("Los Angeles", "us-weather");
+  updateTimezones();
+  setInterval(updateTimezones, 60000);
+</script>
+</body>
+</html>

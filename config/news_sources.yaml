@@ -9,10 +9,15 @@ sources:
     - name: PhoneArena
       type: rss
       url: https://www.phonearena.com/rss/news
-  channel_news:
-    - name: RetailWire
-      type: rss
-      url: https://retailwire.com/feed/
-    - name: Chain Store Age
-      type: rss
-      url: https://chainstoreage.com/rss.xml
+channel_news:
+  - name: TechCrunch
+    type: rss
+    url: https://techcrunch.com/feed/
+
+  - name: Business Insider
+    type: rss
+    url: https://www.businessinsider.com/rss
+
+  - name: CNBC Retail
+    type: rss
+    url: https://www.cnbc.com/id/10000115/device/rss/rss.html

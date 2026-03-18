@@ -1,8 +1,18 @@
 from __future__ import annotations
+
+import os
 from datetime import date
+from typing import List, Dict, Any
+
+from openai import OpenAI
+
 from common import load_json, dump_json
 
-def dedupe(items):
+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+
+def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     seen = set()
     out = []
     for x in items:
@@ -13,41 +23,57 @@ def dedupe(items):
         out.append(x)
     return out
 
+
 def simplify_title(title: str) -> str:
-    import re
+    title = (title or "").strip()
+    if not title:
+        return ""
 
-    title = title.strip()
+    try:
+        prompt = f"""请把下面这条新闻标题改写成简短自然的中文新闻标题。
 
-    # 去掉常见冗余
-    title = re.sub(r'\s*[-|–|—].*$', '', title)
+要求：
+1. 12-18字优先，最多不超过20字
+2. 像科技/商业媒体标题
+3. 不要书名号，不要引号
+4. 不要加解释，不要加前缀，不要换行
+5. 只输出中文标题本身
 
-    # 简单关键词翻译（轻量版）
-    replacements = {
-        "launch": "发布",
-        "announces": "发布",
-        "introduces": "推出",
-        "new": "新款",
-        "update": "更新",
-        "price": "价格",
-        "sale": "促销",
-        "discount": "降价",
-        "Amazon": "亚马逊",
-        "Apple": "苹果",
-        "Google": "谷歌",
-        "Nvidia": "英伟达",
-        "Spotify": "Spotify",
-    }
+原标题：
+{title}
+"""
 
-    for k, v in replacements.items():
-        title = title.replace(k, v)
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "你是一个资深科技媒体编辑，擅长把英文新闻标题改写成简洁自然的中文标题。"
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            temperature=0.3,
+        )
 
-    # 截断长度
-    return title[:40]
+        result = response.choices[0].message.content.strip()
+        result = " ".join(result.split())
+        return result[:20]
+
+    except Exception as e:
+        print(f"[WARN] AI标题失败: {e}")
+        return title[:40]
+
 
 def main():
     news = load_json("data/raw/news.json", {})
     products = load_json("data/raw/products.json", {"products": []})
-    festivals = load_json("data/processed/festivals.json", {"festival_cards": [], "festival_pages": []})
+    festivals = load_json(
+        "data/processed/festivals.json",
+        {"festival_cards": [], "festival_pages": []}
+    )
 
     consumer = dedupe(news.get("consumer_electronics", []))[:9]
     channel = dedupe(news.get("channel_news", []))[:9]
@@ -66,8 +92,10 @@ def main():
         "channel_news": channel,
         "products": product_items,
     }
+
     dump_json("data/processed/daily_payload.json", payload)
     print("[OK] data/processed/daily_payload.json")
+
 
 if __name__ == "__main__":
     main()

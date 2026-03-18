@@ -99,11 +99,12 @@
 <script>
 async function loadWeather(city, id){
   try{
-    const res = await fetch("https://wttr.in/" + city + "?format=3");
-    const text = await res.text();
-    document.getElementById(id).textContent = text;
+    const res = await fetch("https://goweather.herokuapp.com/weather/" + city);
+    const data = await res.json();
+    document.getElementById(id).textContent =
+      city + " " + data.temperature + " " + data.description;
   }catch(e){
-    document.getElementById(id).textContent = "天气加载失败";
+    document.getElementById(id).textContent = "天气获取失败";
   }
 }
 function updateTimezones(){
@@ -120,7 +121,7 @@ function updateTimezones(){
   });
 }
 loadWeather("Shenzhen","cn-weather");
-loadWeather("Los+Angeles","us-weather");
+loadWeather("Los Angeles","us-weather");
 updateTimezones();
 setInterval(updateTimezones, 60000);
 </script>

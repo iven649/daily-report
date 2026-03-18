@@ -23,47 +23,36 @@ def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     return out
 
 
-def simplify_title(title: str) -> str:
-    title = (title or "").strip()
-    if not title:
-        return ""
-
+def ai_generate(prompt: str, fallback: str, max_len: int = 40) -> str:
     try:
-        prompt = f"""请把下面这条新闻或产品标题改写成简短自然的中文标题。
-
-要求：
-1. 12-18字优先，最多不超过20字
-2. 像科技/商业媒体标题
-3. 不要书名号，不要引号
-4. 不要加解释，不要加前缀，不要换行
-5. 只输出中文标题本身
-
-原标题：
-{title}
-"""
-
         response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {
-                    "role": "system",
-                    "content": "你是一个资深科技媒体编辑，擅长把英文新闻标题改写成简洁自然的中文标题。"
-                },
-                {
-                    "role": "user",
-                    "content": prompt
-                }
+                {"role": "system", "content": "你是一个资深科技媒体编辑"},
+                {"role": "user", "content": prompt}
             ],
             temperature=0.3,
         )
 
         result = response.choices[0].message.content.strip()
         result = " ".join(result.split())
-        return result[:20]
+        return result[:max_len]
 
     except Exception as e:
-        print(f"[WARN] AI标题失败: {e}")
-        return title[:40]
+        print(f"[WARN] AI失败: {e}")
+        return fallback[:max_len]
+
+
+def simplify_title(title: str) -> str:
+    title = (title or "").strip()
+    if not title:
+        return ""
+
+    prompt = f"""请把下面这条标题改写成简短中文新闻标题（15字以内）：
+
+{title}
+"""
+    return ai_generate(prompt, title, 20)
 
 
 def simplify_summary(summary: str) -> str:
@@ -71,42 +60,11 @@ def simplify_summary(summary: str) -> str:
     if not summary:
         return ""
 
-    try:
-        prompt = f"""请把下面这段产品简介改写成简短自然的中文摘要。
+    prompt = f"""请把下面内容改写成30字以内中文摘要：
 
-要求：
-1. 30字以内
-2. 保留核心卖点
-3. 像新品速递摘要
-4. 不要解释，不要换行
-5. 只输出中文摘要
-
-原文：
 {summary}
 """
-
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {
-                    "role": "system",
-                    "content": "你是一个科技媒体编辑，擅长把英文产品描述改写成简短自然的中文摘要。"
-                },
-                {
-                    "role": "user",
-                    "content": prompt
-                }
-            ],
-            temperature=0.3,
-        )
-
-        result = response.choices[0].message.content.strip()
-        result = " ".join(result.split())
-        return result[:40]
-
-    except Exception as e:
-        print(f"[WARN] AI摘要失败: {e}")
-        return summary[:80]
+    return ai_generate(prompt, summary, 40)
 
 
 def main():
@@ -120,15 +78,22 @@ def main():
     consumer = dedupe(news.get("consumer_electronics", []))[:9]
     channel = dedupe(news.get("channel_news", []))[:9]
 
+    # ✅ 新闻统一处理
     for bucket in (consumer, channel):
         for x in bucket:
-            x["display_title"] = simplify_title(x.get("title", ""))
+            title = x.get("title", "")
+            x["display_title"] = simplify_title(title)
 
+    # ✅ 产品统一处理（关键修复点）
     product_items = dedupe(products.get("products", []))[:6]
 
     for x in product_items:
-        x["display_title"] = simplify_title(x.get("name", ""))
-        x["display_summary"] = simplify_summary(x.get("summary", ""))
+        name = x.get("name", "")
+        summary = x.get("summary", "")
+
+        # 强制保证字段存在
+        x["display_title"] = simplify_title(name) or name
+        x["display_summary"] = simplify_summary(summary) or summary
 
     payload = {
         "date": str(date.today()),
@@ -140,7 +105,7 @@ def main():
     }
 
     dump_json("data/processed/daily_payload.json", payload)
-    print("[OK] data/processed/daily_payload.json")
+    print("[OK] payload generated")
 
 
 if __name__ == "__main__":

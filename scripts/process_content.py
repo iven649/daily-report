@@ -148,6 +148,71 @@ def generate_takeaways(consumer_news: List[Dict[str, Any]], channel_news: List[D
         print(f"[WARN] 今日重点生成失败: {e}")
         return fallback
 
+def detect_tags(text: str, bucket: str = "") -> List[str]:
+    t = (text or "").lower()
+    tags: List[str] = []
+
+    tag_rules = [
+        ("🎧 耳机音频", [
+            "headphones", "earbuds", "earbud", "headset", "speaker",
+            "audio", "anc", "noise cancelling", "open-ear", "open ear",
+            "bone conduction", "bose", "beats", "soundcore", "jbl",
+            "sennheiser", "shokz", "sony wf", "sony wh", "airpods"
+        ]),
+        ("🏃 穿戴运动", [
+            "garmin", "smartwatch", "wearable", "fitness tracker",
+            "running watch", "health", "sports watch", "watch"
+        ]),
+        ("🚁 无人机影像", [
+            "drone", "dji", "gopro", "insta360", "osmo",
+            "action camera", "camera"
+        ]),
+        ("🛒 渠道零售", [
+            "retail", "retailer", "store", "distribution", "channel",
+            "merchant", "sell-through", "sell in"
+        ]),
+        ("🏬 平台电商", [
+            "amazon", "walmart", "best buy", "target", "costco",
+            "tiktok shop", "e-commerce", "ecommerce", "marketplace",
+            "platform"
+        ]),
+        ("🚀 新品发布", [
+            "launch", "launches", "launched", "release", "released",
+            "announces", "announced", "unveil", "unveiled", "debut",
+            "debuts", "new model", "available"
+        ]),
+        ("👔 高管组织", [
+            "ceo", "cmo", "executive", "president", "leadership",
+            "appoints", "appointed", "organization", "restructure"
+        ]),
+        ("💰 价格促销", [
+            "price", "pricing", "discount", "sale", "promotion",
+            "deal", "markdown", "coupon"
+        ]),
+    ]
+
+    for tag, keywords in tag_rules:
+        if any(kw in t for kw in keywords):
+            tags.append(tag)
+
+    # 按模块兜底补一个标签
+    if not tags and bucket == "consumer_electronics":
+        tags.append("📱 消费电子")
+    if not tags and bucket == "channel_news":
+        tags.append("🛒 渠道动态")
+    if not tags and bucket == "products":
+        tags.append("🚀 新品")
+
+    return tags[:3]
+
+
+def build_tag_text(item: Dict[str, Any], bucket: str = "") -> List[str]:
+    text = " ".join([
+        item.get("title", "") or item.get("name", ""),
+        item.get("summary", ""),
+        item.get("source", "")
+    ])
+    return detect_tags(text, bucket)
 
 def main():
     news = load_json("data/raw/news.json", {})
@@ -177,6 +242,7 @@ def main():
             keyword_conf
         )
         x["display_title"] = simplify_title(x.get("title", ""))
+        x["tags"] = build_tag_text(x, "consumer_electronics")
 
     consumer = sorted(consumer, key=lambda x: x["_score"], reverse=True)[:9]
 
@@ -188,6 +254,7 @@ def main():
             keyword_conf
         )
         x["display_title"] = simplify_title(x.get("title", ""))
+        x["tags"] = build_tag_text(x, "channel_news")
 
     channel = sorted(channel, key=lambda x: x["_score"], reverse=True)[:9]
 
@@ -198,6 +265,7 @@ def main():
         summary = x.get("summary", "")
         x["display_title"] = simplify_title(name) or name
         x["display_summary"] = simplify_summary(summary) or summary
+        x["tags"] = build_tag_text(x, "products")
 
     takeaways = generate_takeaways(consumer, channel)
 

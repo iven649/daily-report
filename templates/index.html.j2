@@ -7,21 +7,20 @@
   <style>
     :root {
       --bg: #f5f5f7;
-      --bg-2: #fafafa;
-      --card: rgba(255, 255, 255, 0.78);
+      --card: rgba(255, 255, 255, 0.86);
       --card-solid: #ffffff;
       --text: #111111;
       --muted: #6e6e73;
       --muted-2: #8e8e93;
-      --line: rgba(17, 17, 17, 0.08);
-      --line-soft: rgba(17, 17, 17, 0.05);
+      --line: rgba(17, 17, 17, 0.07);
+      --line-soft: rgba(17, 17, 17, 0.045);
       --shadow: 0 10px 30px rgba(15, 23, 42, 0.05);
       --shadow-soft: 0 4px 18px rgba(15, 23, 42, 0.035);
       --radius-2xl: 28px;
       --radius-xl: 22px;
       --radius-lg: 18px;
       --radius-md: 14px;
-      --link: #161616;
+      --link: #171717;
       --link-hover: #4b5563;
       --accent: #111111;
     }
@@ -35,8 +34,8 @@
       padding: 0;
       color: var(--text);
       background:
-        linear-gradient(to right, rgba(17,17,17,0.03) 1px, transparent 1px),
-        linear-gradient(to bottom, rgba(17,17,17,0.03) 1px, transparent 1px),
+        linear-gradient(to right, rgba(17,17,17,0.025) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(17,17,17,0.025) 1px, transparent 1px),
         linear-gradient(180deg, #fcfcfd 0%, #f5f5f7 100%);
       background-size: 40px 40px, 40px 40px, auto;
       font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI",
@@ -74,14 +73,18 @@
 
     .hero {
       display: grid;
-      grid-template-columns: 1.2fr 0.8fr;
-      gap: 22px;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 24px;
       padding: 24px;
       margin-bottom: 18px;
     }
 
     .hero-main {
-      padding: 12px 8px 6px 4px;
+      padding: 12px 6px 4px 4px;
+      min-height: 132px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
     }
 
     .eyebrow {
@@ -95,28 +98,21 @@
       font-size: 12px;
       color: var(--muted);
       margin-bottom: 18px;
+      width: fit-content;
     }
 
     .hero-title {
       margin: 0;
-      font-size: 44px;
-      line-height: 0.98;
-      letter-spacing: -0.06em;
-      font-weight: 720;
-    }
-
-    .hero-sub {
-      margin-top: 14px;
-      max-width: 640px;
-      font-size: 15px;
-      line-height: 1.8;
-      color: var(--muted);
+      font-size: 48px;
+      line-height: 0.96;
+      letter-spacing: -0.065em;
+      font-weight: 740;
     }
 
     .hero-side {
       display: flex;
       flex-direction: column;
-      gap: 16px;
+      gap: 14px;
       justify-content: space-between;
     }
 
@@ -169,10 +165,11 @@
       grid-template-columns: 0.95fr 1.05fr;
       gap: 18px;
       margin-bottom: 18px;
-      align-items: start;
+      align-items: stretch;
     }
 
-    .timezone-card {
+    .timezone-card,
+    .takeaways-card {
       padding: 22px;
       min-height: 100%;
     }
@@ -225,34 +222,47 @@
       letter-spacing: -0.05em;
     }
 
-    .intro-card {
-      padding: 22px;
-      min-height: 100%;
+    .takeaways-list {
       display: flex;
       flex-direction: column;
-      justify-content: space-between;
-    }
-
-    .intro-text {
+      gap: 14px;
       margin: 0;
-      font-size: 16px;
-      line-height: 1.9;
-      color: #2c2c2e;
-      max-width: 560px;
+      padding: 0;
+      list-style: none;
     }
 
-    .intro-divider {
-      width: 56px;
-      height: 2px;
-      background: linear-gradient(90deg, #111111 0%, rgba(17,17,17,0.15) 100%);
+    .takeaway-item {
+      display: grid;
+      grid-template-columns: 26px 1fr;
+      gap: 10px;
+      align-items: start;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--line-soft);
+    }
+
+    .takeaway-item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .takeaway-index {
+      width: 26px;
+      height: 26px;
       border-radius: 999px;
-      margin: 22px 0 18px;
+      background: #111111;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 700;
+      margin-top: 1px;
     }
 
-    .intro-note {
-      font-size: 13px;
-      color: var(--muted);
-      line-height: 1.7;
+    .takeaway-text {
+      font-size: 15px;
+      line-height: 1.9;
+      color: #1f2937;
     }
 
     .news-grid {
@@ -320,12 +330,12 @@
     .product-card {
       display: flex;
       flex-direction: column;
-      min-height: 255px;
+      min-height: 252px;
       padding: 18px;
       border-radius: var(--radius-xl);
       border: 1px solid var(--line-soft);
       background:
-        radial-gradient(circle at top right, rgba(17,17,17,0.035) 0%, transparent 36%),
+        radial-gradient(circle at top right, rgba(17,17,17,0.03) 0%, transparent 36%),
         linear-gradient(180deg, #ffffff 0%, #fcfcfc 100%);
       transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
     }
@@ -395,11 +405,7 @@
       }
 
       .hero-title {
-        font-size: 38px;
-      }
-
-      .timezone-grid {
-        grid-template-columns: 1fr 1fr 1fr;
+        font-size: 40px;
       }
     }
 
@@ -410,14 +416,14 @@
 
       .hero,
       .timezone-card,
-      .intro-card,
+      .takeaways-card,
       .news-card,
       .products-card {
         padding: 18px;
       }
 
       .hero-title {
-        font-size: 30px;
+        font-size: 32px;
       }
 
       .timezone-grid,
@@ -453,9 +459,6 @@
           <span>Daily Intelligence Brief</span>
         </div>
         <h1 class="hero-title">分销日报</h1>
-        <div class="hero-sub">
-          聚合消费电子动态、渠道侧变化与新品信息，以更克制的版式呈现当日值得关注的核心信号。
-        </div>
       </div>
 
       <div class="hero-side">
@@ -511,19 +514,26 @@
         </div>
       </div>
 
-      <div class="section-card intro-card">
-        <div>
-          <div class="section-head">
-            <h2 class="section-title">Overview</h2>
-          </div>
-          <p class="intro-text">
-            重点关注消费电子硬件、渠道侧经营信号与新品发布节奏，帮助团队更快判断哪些信息值得跟进、讨论与转化。
-          </p>
-          <div class="intro-divider"></div>
+      <div class="section-card takeaways-card">
+        <div class="section-head">
+          <h2 class="section-title">今日重点</h2>
+          <div class="section-meta">Key Takeaways</div>
         </div>
-        <div class="intro-note">
-          当前页面已简化为更高密度的阅读结构，适合晨会浏览、日报归档与链接分享。
-        </div>
+
+        <ul class="takeaways-list">
+          <li class="takeaway-item">
+            <div class="takeaway-index">1</div>
+            <div class="takeaway-text">优先关注与耳机、穿戴及运动音频相关的新品与硬件动态。</div>
+          </li>
+          <li class="takeaway-item">
+            <div class="takeaway-index">2</div>
+            <div class="takeaway-text">渠道侧重点放在零售商、平台、品牌合作及高管变化等可执行信号。</div>
+          </li>
+          <li class="takeaway-item">
+            <div class="takeaway-index">3</div>
+            <div class="takeaway-text">建议优先阅读可直接转化为销售动作、竞品判断与选品讨论的信息。</div>
+          </li>
+        </ul>
       </div>
     </div>
 

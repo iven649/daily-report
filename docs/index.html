@@ -7,21 +7,20 @@
   <style>
     :root {
       --bg: #f5f5f7;
-      --bg-2: #fafafa;
-      --card: rgba(255, 255, 255, 0.78);
+      --card: rgba(255, 255, 255, 0.86);
       --card-solid: #ffffff;
       --text: #111111;
       --muted: #6e6e73;
       --muted-2: #8e8e93;
-      --line: rgba(17, 17, 17, 0.08);
-      --line-soft: rgba(17, 17, 17, 0.05);
+      --line: rgba(17, 17, 17, 0.07);
+      --line-soft: rgba(17, 17, 17, 0.045);
       --shadow: 0 10px 30px rgba(15, 23, 42, 0.05);
       --shadow-soft: 0 4px 18px rgba(15, 23, 42, 0.035);
       --radius-2xl: 28px;
       --radius-xl: 22px;
       --radius-lg: 18px;
       --radius-md: 14px;
-      --link: #161616;
+      --link: #171717;
       --link-hover: #4b5563;
       --accent: #111111;
     }
@@ -35,8 +34,8 @@
       padding: 0;
       color: var(--text);
       background:
-        linear-gradient(to right, rgba(17,17,17,0.03) 1px, transparent 1px),
-        linear-gradient(to bottom, rgba(17,17,17,0.03) 1px, transparent 1px),
+        linear-gradient(to right, rgba(17,17,17,0.025) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(17,17,17,0.025) 1px, transparent 1px),
         linear-gradient(180deg, #fcfcfd 0%, #f5f5f7 100%);
       background-size: 40px 40px, 40px 40px, auto;
       font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI",
@@ -74,14 +73,18 @@
 
     .hero {
       display: grid;
-      grid-template-columns: 1.2fr 0.8fr;
-      gap: 22px;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 24px;
       padding: 24px;
       margin-bottom: 18px;
     }
 
     .hero-main {
-      padding: 12px 8px 6px 4px;
+      padding: 12px 6px 4px 4px;
+      min-height: 132px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
     }
 
     .eyebrow {
@@ -95,28 +98,21 @@
       font-size: 12px;
       color: var(--muted);
       margin-bottom: 18px;
+      width: fit-content;
     }
 
     .hero-title {
       margin: 0;
-      font-size: 44px;
-      line-height: 0.98;
-      letter-spacing: -0.06em;
-      font-weight: 720;
-    }
-
-    .hero-sub {
-      margin-top: 14px;
-      max-width: 640px;
-      font-size: 15px;
-      line-height: 1.8;
-      color: var(--muted);
+      font-size: 48px;
+      line-height: 0.96;
+      letter-spacing: -0.065em;
+      font-weight: 740;
     }
 
     .hero-side {
       display: flex;
       flex-direction: column;
-      gap: 16px;
+      gap: 14px;
       justify-content: space-between;
     }
 
@@ -169,10 +165,53 @@
       grid-template-columns: 0.95fr 1.05fr;
       gap: 18px;
       margin-bottom: 18px;
-      align-items: start;
+      align-items: stretch;
     }
 
-    .timezone-card {
+    .feedback-card {
+  margin-top: 18px;
+  padding: 22px;
+}
+
+.feedback-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.feedback-title {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.feedback-desc {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.feedback-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: #111111;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.15s ease;
+}
+
+.feedback-btn:hover {
+  transform: translateY(-1px);
+  opacity: 0.92;
+}
+
+    .timezone-card,
+    .takeaways-card {
       padding: 22px;
       min-height: 100%;
     }
@@ -225,34 +264,47 @@
       letter-spacing: -0.05em;
     }
 
-    .intro-card {
-      padding: 22px;
-      min-height: 100%;
+    .takeaways-list {
       display: flex;
       flex-direction: column;
-      justify-content: space-between;
-    }
-
-    .intro-text {
+      gap: 14px;
       margin: 0;
-      font-size: 16px;
-      line-height: 1.9;
-      color: #2c2c2e;
-      max-width: 560px;
+      padding: 0;
+      list-style: none;
     }
 
-    .intro-divider {
-      width: 56px;
-      height: 2px;
-      background: linear-gradient(90deg, #111111 0%, rgba(17,17,17,0.15) 100%);
+    .takeaway-item {
+      display: grid;
+      grid-template-columns: 26px 1fr;
+      gap: 10px;
+      align-items: start;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--line-soft);
+    }
+
+    .takeaway-item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .takeaway-index {
+      width: 26px;
+      height: 26px;
       border-radius: 999px;
-      margin: 22px 0 18px;
+      background: #111111;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 700;
+      margin-top: 1px;
     }
 
-    .intro-note {
-      font-size: 13px;
-      color: var(--muted);
-      line-height: 1.7;
+    .takeaway-text {
+      font-size: 15px;
+      line-height: 1.9;
+      color: #1f2937;
     }
 
     .news-grid {
@@ -320,12 +372,12 @@
     .product-card {
       display: flex;
       flex-direction: column;
-      min-height: 255px;
+      min-height: 252px;
       padding: 18px;
       border-radius: var(--radius-xl);
       border: 1px solid var(--line-soft);
       background:
-        radial-gradient(circle at top right, rgba(17,17,17,0.035) 0%, transparent 36%),
+        radial-gradient(circle at top right, rgba(17,17,17,0.03) 0%, transparent 36%),
         linear-gradient(180deg, #ffffff 0%, #fcfcfc 100%);
       transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
     }
@@ -395,11 +447,7 @@
       }
 
       .hero-title {
-        font-size: 38px;
-      }
-
-      .timezone-grid {
-        grid-template-columns: 1fr 1fr 1fr;
+        font-size: 40px;
       }
     }
 
@@ -410,14 +458,14 @@
 
       .hero,
       .timezone-card,
-      .intro-card,
+      .takeaways-card,
       .news-card,
       .products-card {
         padding: 18px;
       }
 
       .hero-title {
-        font-size: 30px;
+        font-size: 32px;
       }
 
       .timezone-grid,
@@ -453,9 +501,6 @@
           <span>Daily Intelligence Brief</span>
         </div>
         <h1 class="hero-title">分销日报</h1>
-        <div class="hero-sub">
-          聚合消费电子动态、渠道侧变化与新品信息，以更克制的版式呈现当日值得关注的核心信号。
-        </div>
       </div>
 
       <div class="hero-side">
@@ -516,19 +561,26 @@
         </div>
       </div>
 
-      <div class="section-card intro-card">
-        <div>
-          <div class="section-head">
-            <h2 class="section-title">Overview</h2>
-          </div>
-          <p class="intro-text">
-            重点关注消费电子硬件、渠道侧经营信号与新品发布节奏，帮助团队更快判断哪些信息值得跟进、讨论与转化。
-          </p>
-          <div class="intro-divider"></div>
+      <div class="section-card takeaways-card">
+        <div class="section-head">
+          <h2 class="section-title">今日重点</h2>
+          <div class="section-meta">Key Takeaways</div>
         </div>
-        <div class="intro-note">
-          当前页面已简化为更高密度的阅读结构，适合晨会浏览、日报归档与链接分享。
-        </div>
+
+        <ul class="takeaways-list">
+          <li class="takeaway-item">
+            <div class="takeaway-index">1</div>
+            <div class="takeaway-text">优先关注与耳机、穿戴及运动音频相关的新品与硬件动态。</div>
+          </li>
+          <li class="takeaway-item">
+            <div class="takeaway-index">2</div>
+            <div class="takeaway-text">渠道侧重点放在零售商、平台、品牌合作及高管变化等可执行信号。</div>
+          </li>
+          <li class="takeaway-item">
+            <div class="takeaway-index">3</div>
+            <div class="takeaway-text">建议优先阅读可直接转化为销售动作、竞品判断与选品讨论的信息。</div>
+          </li>
+        </ul>
       </div>
     </div>
 
@@ -577,7 +629,7 @@
             <div class="news-item">
               <div class="news-index">05</div>
               <a class="news-title" href="https://www.androidauthority.com/android-canary-2603-release-3650531/" target="_blank" rel="noreferrer">
-                安卓三月Canary更新上线，发现新特性
+                Android三月Canary更新上线，
               </a>
               <div class="news-source">Android Authority</div>
             </div>
@@ -601,7 +653,7 @@
             <div class="news-item">
               <div class="news-index">08</div>
               <a class="news-title" href="https://www.androidauthority.com/android-sideloading-24-hours-adb-3650540/" target="_blank" rel="noreferrer">
-                教你绕过Android 24小时侧载延迟
+                教你绕过安卓24小时侧载延迟
               </a>
               <div class="news-source">Android Authority</div>
             </div>
@@ -609,7 +661,7 @@
             <div class="news-item">
               <div class="news-index">09</div>
               <a class="news-title" href="https://www.androidauthority.com/google-tv-streamer-deal-13-3649065/" target="_blank" rel="noreferrer">
-                谷歌电视流媒体设备仅售79.99美元！
+                谷歌电视流媒体设备现仅售79.99美元！
               </a>
               <div class="news-source">Android Authority</div>
             </div>
@@ -637,7 +689,7 @@
             <div class="news-item">
               <div class="news-index">02</div>
               <a class="news-title" href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank" rel="noreferrer">
-                宜家与百思买在佛州德州试点店中店
+                宜家与百思买在佛州德州试点联合店
               </a>
               <div class="news-source">RetailWire</div>
             </div>
@@ -645,7 +697,7 @@
             <div class="news-item">
               <div class="news-index">03</div>
               <a class="news-title" href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank" rel="noreferrer">
-                塔吉特首席技术官助力零售转型
+                塔吉特科技主管助力零售转型计划
               </a>
               <div class="news-source">RetailWire</div>
             </div>
@@ -693,7 +745,7 @@
             <div class="news-item">
               <div class="news-index">09</div>
               <a class="news-title" href="https://retailwire.com/starbucks-red-cup-rebellion/" target="_blank" rel="noreferrer">
-                星巴克红杯日引发抵制，政客纷纷加入
+                星巴克红杯日引发“红杯抗议” 政客加入抵
               </a>
               <div class="news-source">RetailWire</div>
             </div>
@@ -724,7 +776,7 @@
             </div>
 
             <div class="product-summary">
-              Sony WF-1000XM6是最佳降噪无线耳塞，但因329美元的高价，难以推荐
+              索尼WF-1000XM6是最佳降噪无线耳机，但因329美元的高价难以推荐，旧款常
             </div>
 
             <a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank" rel="noreferrer" class="product-link">
@@ -737,7 +789,7 @@
             <div class="product-kicker">Product 02</div>
 
             <div class="product-title">
-              Harlowe推出360度拍摄新经济灯光
+              Harlowe推出经济型360度拍摄灯光
             </div>
 
             <div class="product-meta">
@@ -745,7 +797,7 @@
             </div>
 
             <div class="product-summary">
-              Bushman等公司已推出360度全景摄像灯，价格超300美元，超过DJI和In
+              Bushman等公司已推出360度全向摄像头灯，售价超过300美元，超出DJI和
             </div>
 
             <a href="https://www.theverge.com/tech/897360/harlowe-omni-360-omnidirectional-camera-light" target="_blank" rel="noreferrer" class="product-link">
@@ -758,7 +810,7 @@
             <div class="product-kicker">Product 03</div>
 
             <div class="product-title">
-              DJI Mini 4K售价如同入门配件
+              DJI Mini 4K价格如同入门配件
             </div>
 
             <div class="product-meta">
@@ -766,7 +818,7 @@
             </div>
 
             <div class="product-summary">
-              大疆Mini 4K无人机操作简单，适合初学者，具备高性能和易用性。
+              大疆Mini 4K无人机，操作简单，适合初学者，是一款易上手的无人机。
             </div>
 
             <a href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank" rel="noreferrer" class="product-link">
@@ -779,7 +831,7 @@
             <div class="product-kicker">Product 04</div>
 
             <div class="product-title">
-              300美元以下具避障功能的Skyrove
+              售价不到300美元的避障无人机Skyro
             </div>
 
             <div class="product-meta">
@@ -800,7 +852,7 @@
             <div class="product-kicker">Product 05</div>
 
             <div class="product-title">
-              大疆新款无人机公布上市日期
+              大疆新款无人机发布日期确定
             </div>
 
             <div class="product-meta">
@@ -808,7 +860,7 @@
             </div>
 
             <div class="product-summary">
-              大疆发布神秘短片，预告新款无人机即将推出，吸引了广泛关注。
+              DJI发布了一段神秘短片，预告其新款8K无人机Avata即将上线，吸引了广泛关注
             </div>
 
             <a href="https://dronedj.com/2026/03/11/dji-avata-360-drone-launch/" target="_blank" rel="noreferrer" class="product-link">
@@ -829,7 +881,7 @@
             </div>
 
             <div class="product-summary">
-              谷歌将推出强制开发者验证，届时安装某些Android应用需遵循“高级流程”。
+              谷歌将推出强制开发者验证，届时安装某些安卓应用需遵循“高级流程”。
             </div>
 
             <a href="https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process" target="_blank" rel="noreferrer" class="product-link">
@@ -841,6 +893,26 @@
         
       </div>
     </div>
+    
+    <!-- 反馈 -->
+<div class="section-card feedback-card">
+  <div class="feedback-inner">
+
+    <div class="feedback-text">
+      <div class="feedback-title">反馈与建议</div>
+      <div class="feedback-desc">
+        欢迎提交你对日报内容与结构的建议，帮助我们持续优化信息质量。
+      </div>
+    </div>
+
+    <a href="你的GoogleForm链接"
+       target="_blank"
+       class="feedback-btn">
+       提交反馈 →
+    </a>
+
+  </div>
+</div>
 
   </div>
 

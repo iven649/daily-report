@@ -483,6 +483,59 @@
   </div>
 
   <!-- 天气 -->
+  <div class="two-col">
+    <div class="card section">
+      <h2 class="section-title">🌤️ 中国天气</h2>
+
+      <div class="weather-search-wrap">
+        <input
+          id="cn-city-input"
+          class="weather-search-input"
+          type="text"
+          placeholder="搜索中国城市"
+          autocomplete="off"
+        />
+        <div id="cn-city-dropdown" class="weather-dropdown"></div>
+      </div>
+
+      <div class="weather-current-card">
+        <div id="cn-weather-icon" class="weather-current-icon">☀️</div>
+        <div class="weather-current-main">
+          <div id="cn-weather-city" class="weather-current-city">深圳</div>
+          <div id="cn-weather-temp" class="weather-current-temp">加载中...</div>
+          <div id="cn-weather-desc" class="weather-current-desc"></div>
+        </div>
+      </div>
+
+      <div id="cn-weather-forecast" class="weather-forecast-grid"></div>
+    </div>
+
+    <div class="card section">
+      <h2 class="section-title">🌤️ 美国天气</h2>
+
+      <div class="weather-search-wrap">
+        <input
+          id="us-city-input"
+          class="weather-search-input"
+          type="text"
+          placeholder="Search US city"
+          autocomplete="off"
+        />
+        <div id="us-city-dropdown" class="weather-dropdown"></div>
+      </div>
+
+      <div class="weather-current-card">
+        <div id="us-weather-icon" class="weather-current-icon">☀️</div>
+        <div class="weather-current-main">
+          <div id="us-weather-city" class="weather-current-city">Los Angeles</div>
+          <div id="us-weather-temp" class="weather-current-temp">Loading...</div>
+          <div id="us-weather-desc" class="weather-current-desc"></div>
+        </div>
+      </div>
+
+      <div id="us-weather-forecast" class="weather-forecast-grid"></div>
+    </div>
+  </div>
 
   <!-- 时区 -->
   <div class="card timezone-card">
@@ -531,7 +584,7 @@
           
           <div class="news-item">
             <a class="news-title" href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank">
-              索尼WF-1000XM6耳塞降价30美元
+              索尼WF-1000XM6耳机降价30美元
             </a>
             <div class="news-source">The Verge</div>
           </div>
@@ -552,14 +605,14 @@
           
           <div class="news-item">
             <a class="news-title" href="https://www.androidauthority.com/android-canary-2603-release-3650531/" target="_blank">
-              安卓三月Canary更新上线，发现新特性
+              Android三月Canary更新发布，
             </a>
             <div class="news-source">Android Authority</div>
           </div>
           
           <div class="news-item">
             <a class="news-title" href="https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally" target="_blank">
-              SteamOS 3.8更新：新增功能，支
+              SteamOS 3.8更新：新增功能支持
             </a>
             <div class="news-source">The Verge</div>
           </div>
@@ -573,7 +626,7 @@
           
           <div class="news-item">
             <a class="news-title" href="https://www.androidauthority.com/android-sideloading-24-hours-adb-3650540/" target="_blank">
-              教你绕过Android 24小时侧载延迟
+              教你绕过安卓24小时侧载延迟
             </a>
             <div class="news-source">Android Authority</div>
           </div>
@@ -595,66 +648,66 @@
         
           
           <div class="news-item">
-            <a class="news-title" href="https://www.businessinsider.com/oil-prices-crude-lng-iran-brent-steve-hanke-ali-hormuz-2026-3" target="_blank">
-              哈克：伊朗或将对美“重拳出击”
+            <a class="news-title" href="https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/" target="_blank">
+              L.L.Bean任命Greg Elder
+            </a>
+            <div class="news-source">RetailWire</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">
+              宜家与百思买在佛州德州试点联合店铺
+            </a>
+            <div class="news-source">RetailWire</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">
+              塔吉特科技负责人助力零售转型计划
+            </a>
+            <div class="news-source">RetailWire</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">
+              沃尔玛第六任CEO：约翰·弗纳接任麦克米
+            </a>
+            <div class="news-source">RetailWire</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://retailwire.com/top-10-retail-tech-at-etail-west-2026/" target="_blank">
+              2026 eTail West十大零售科
+            </a>
+            <div class="news-source">RetailWire</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/" target="_blank">
+              Firehouse Subs任命Caro
+            </a>
+            <div class="news-source">RetailWire</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3" target="_blank">
+              Snowflake进行裁员以调整战略
             </a>
             <div class="news-source">Business Insider</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/" target="_blank">
-              Polymarket与美职棒达成合作协议
+            <a class="news-title" href="https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/" target="_blank">
+              州立法者拟定舍入规则 美铸币局停产一分币
             </a>
-            <div class="news-source">TechCrunch</div>
+            <div class="news-source">RetailWire</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/" target="_blank">
-              亚马逊收购楼梯爬行送货机器人公司Rivr
+            <a class="news-title" href="https://retailwire.com/starbucks-red-cup-rebellion/" target="_blank">
+              “无合同无咖啡”：星巴克红杯日引发抵制潮
             </a>
-            <div class="news-source">TechCrunch</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/" target="_blank">
-              云计算公司CEO：2027年在线机器人流
-            </a>
-            <div class="news-source">TechCrunch</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/" target="_blank">
-              Bluesky更换CEO后获1亿美元B轮
-            </a>
-            <div class="news-source">TechCrunch</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.businessinsider.com/audit-val-verde-pegasus-school-china-2026-3" target="_blank">
-              审计揭露加州与中国寄宿学校关系问题
-            </a>
-            <div class="news-source">Business Insider</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.businessinsider.com/uber-autonomous-vehicles-driverless-cancelled-project-catching-up-waymo-tesla-2026-3" target="_blank">
-              优步放弃无人驾驶，面临代价。
-            </a>
-            <div class="news-source">Business Insider</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.businessinsider.com/hr-leaders-growing-concern-ai-2026-3" target="_blank">
-              HR高管担忧加大AI投入风险
-            </a>
-            <div class="news-source">Business Insider</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.businessinsider.com/student-loan-borrowers-transferring-treasury-education-department-dismantling-debt-repayment-2026-3" target="_blank">
-              数百万学生贷款账户转至财政部
-            </a>
-            <div class="news-source">Business Insider</div>
+            <div class="news-source">RetailWire</div>
           </div>
           
         
@@ -671,7 +724,7 @@
         
         <div class="product-card">
           <div class="product-title">
-            索尼WF-1000XM6耳机现降价30美
+            索尼WF-1000XM6耳机现已优惠30
           </div>
 
           <div class="product-meta">
@@ -679,7 +732,7 @@
           </div>
 
           <div class="product-summary">
-            索尼WF-1000XM6是最佳降噪无线耳塞，但因329美元的高价，难以推荐于24
+            Sony WF-1000XM6是最佳降噪无线耳塞，但因329美元的高价难以推荐，
           </div>
 
           <a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank" class="product-link">
@@ -697,7 +750,7 @@
           </div>
 
           <div class="product-summary">
-            Bushman等公司已推出360度全向摄像灯，售价超300美元，超过DJI和In
+            Bushman等公司已推出360度全景摄像灯，售价超过300美元，超出DJI和I
           </div>
 
           <a href="https://www.theverge.com/tech/897360/harlowe-omni-360-omnidirectional-camera-light" target="_blank" class="product-link">
@@ -707,7 +760,7 @@
         
         <div class="product-card">
           <div class="product-title">
-            大疆Mini 4K现已成平价配件
+            DJI Mini 4K售价如同入门配件
           </div>
 
           <div class="product-meta">
@@ -715,7 +768,7 @@
           </div>
 
           <div class="product-summary">
-            大疆Mini 4K是一款操作简单、适合初学者的无人机。
+            大疆Mini 4K是一款易于操作、适合初学者的无人机，具备出色的拍摄性能。
           </div>
 
           <a href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank" class="product-link">
@@ -725,7 +778,7 @@
         
         <div class="product-card">
           <div class="product-title">
-            299美元避障无人机Skyrover S
+            售价不到300美元的避障无人机Skyro
           </div>
 
           <div class="product-meta">
@@ -743,7 +796,7 @@
         
         <div class="product-card">
           <div class="product-title">
-            大疆新款无人机公布上市日期
+            大疆新款无人机发布日期确定
           </div>
 
           <div class="product-meta">
@@ -751,7 +804,7 @@
           </div>
 
           <div class="product-summary">
-            DJI发布神秘短片，预告新款8K无人机Avata即将于3月26日推出。
+            大疆发布神秘短片，预告新款8K无人机Avata即将于3月26日上市。
           </div>
 
           <a href="https://dronedj.com/2026/03/11/dji-avata-360-drone-launch/" target="_blank" class="product-link">
@@ -769,7 +822,7 @@
           </div>
 
           <div class="product-summary">
-            谷歌将推出强制开发者验证，届时安装某些安卓应用需遵循“高级流程”。
+            谷歌将推出强制开发者验证，届时安装某些Android应用需遵循“高级流程”。
           </div>
 
           <a href="https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process" target="_blank" class="product-link">

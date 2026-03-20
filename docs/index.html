@@ -7,7 +7,6 @@
   <style>
     :root {
       --bg: #f5f5f7;
-      --bg-soft: #fafafb;
       --card: rgba(255, 255, 255, 0.86);
       --card-solid: #ffffff;
       --text: #111111;
@@ -24,7 +23,6 @@
       --radius-sm: 12px;
       --link: #171717;
       --link-hover: #4b5563;
-      --accent: #111111;
       --tag-bg: #f3f4f6;
       --tag-text: #4b5563;
     }
@@ -139,29 +137,107 @@
       letter-spacing: -0.04em;
     }
 
-    .festival-list {
+    .festival-panel {
+      background: rgba(255,255,255,0.74);
+      border: 1px solid rgba(17,17,17,0.06);
+      border-radius: var(--radius-xl);
+      padding: 16px;
+    }
+
+    .festival-panel-head {
       display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-    }
-
-    .festival-pill {
-      display: inline-flex;
       align-items: center;
-      gap: 8px;
-      padding: 12px 14px;
-      border-radius: 999px;
-      background: #111111;
-      color: #ffffff;
-      font-size: 14px;
-      font-weight: 600;
-      box-shadow: 0 8px 18px rgba(17,17,17,0.12);
-      transition: transform 0.16s ease, opacity 0.16s ease;
+      justify-content: space-between;
+      margin-bottom: 12px;
     }
 
-    .festival-pill:hover {
+    .festival-panel-title {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+
+    .festival-panel-sub {
+      font-size: 12px;
+      color: var(--muted-2);
+    }
+
+    .festival-focus-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .festival-focus-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 12px;
+      border-radius: 16px;
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+      border: 1px solid var(--line-soft);
+      transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+    }
+
+    .festival-focus-item:hover {
       transform: translateY(-1px);
-      opacity: 0.95;
+      box-shadow: 0 12px 24px rgba(15, 23, 42, 0.05);
+      border-color: rgba(17,17,17,0.08);
+    }
+
+    .festival-focus-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .festival-focus-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f7f7f8;
+      border: 1px solid var(--line-soft);
+      font-size: 20px;
+      flex-shrink: 0;
+    }
+
+    .festival-focus-meta {
+      min-width: 0;
+    }
+
+    .festival-focus-name {
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 3px;
+    }
+
+    .festival-focus-type {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .festival-focus-right {
+      text-align: right;
+      flex-shrink: 0;
+    }
+
+    .festival-focus-count {
+      font-size: 24px;
+      line-height: 1;
+      font-weight: 720;
+      letter-spacing: -0.04em;
+    }
+
+    .festival-focus-unit {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 4px;
     }
 
     .dashboard-row {
@@ -503,12 +579,16 @@
         grid-template-columns: 1fr;
       }
 
-      .festival-list {
-        gap: 10px;
+      .festival-panel {
+        padding: 14px;
       }
 
-      .festival-pill {
-        font-size: 13px;
+      .festival-focus-item {
+        padding: 11px 11px;
+      }
+
+      .festival-focus-count {
+        font-size: 22px;
       }
 
       .news-title {
@@ -529,7 +609,6 @@
 <body>
   <div class="page">
 
-    <!-- 顶部 -->
     <div class="glass hero">
       <div class="hero-main">
         <div class="eyebrow">
@@ -544,23 +623,95 @@
           <div class="date-value">2026-03-20</div>
         </div>
 
-        <div class="festival-list">
-          
-          <a class="festival-pill" href="qingming.html">
-            <span>🪴</span>
-            <span>清明节 15天</span>
-          </a>
-          
-          <a class="festival-pill" href="easter.html">
-            <span>🐰</span>
-            <span>复活节 16天</span>
-          </a>
-          
+        <div class="festival-panel">
+          <div class="festival-panel-head">
+            <div class="festival-panel-title">Festival Focus</div>
+            <div class="festival-panel-sub">近期节点</div>
+          </div>
+
+          <div class="festival-focus-list">
+            
+            <a class="festival-focus-item" href="qingming.html">
+              <div class="festival-focus-left">
+                <div class="festival-focus-icon">🪴</div>
+                <div class="festival-focus-meta">
+                  <div class="festival-focus-name">清明节</div>
+                  <div class="festival-focus-type">
+                    
+                      中国节点
+                    
+                  </div>
+                </div>
+              </div>
+
+              <div class="festival-focus-right">
+                <div class="festival-focus-count">15</div>
+                <div class="festival-focus-unit">天</div>
+              </div>
+            </a>
+            
+            <a class="festival-focus-item" href="easter.html">
+              <div class="festival-focus-left">
+                <div class="festival-focus-icon">🐰</div>
+                <div class="festival-focus-meta">
+                  <div class="festival-focus-name">复活节</div>
+                  <div class="festival-focus-type">
+                    
+                      美国节点
+                    
+                  </div>
+                </div>
+              </div>
+
+              <div class="festival-focus-right">
+                <div class="festival-focus-count">16</div>
+                <div class="festival-focus-unit">天</div>
+              </div>
+            </a>
+            
+            <a class="festival-focus-item" href="jd-618.html">
+              <div class="festival-focus-left">
+                <div class="festival-focus-icon">📦</div>
+                <div class="festival-focus-meta">
+                  <div class="festival-focus-name">618</div>
+                  <div class="festival-focus-type">
+                    
+                      营销节点
+                    
+                  </div>
+                </div>
+              </div>
+
+              <div class="festival-focus-right">
+                <div class="festival-focus-count">90</div>
+                <div class="festival-focus-unit">天</div>
+              </div>
+            </a>
+            
+            <a class="festival-focus-item" href="prime-day.html">
+              <div class="festival-focus-left">
+                <div class="festival-focus-icon">🛒</div>
+                <div class="festival-focus-meta">
+                  <div class="festival-focus-name">Prime Day</div>
+                  <div class="festival-focus-type">
+                    
+                      营销节点
+                    
+                  </div>
+                </div>
+              </div>
+
+              <div class="festival-focus-right">
+                <div class="festival-focus-count">117</div>
+                <div class="festival-focus-unit">天</div>
+              </div>
+            </a>
+            
+          </div>
         </div>
       </div>
     </div>
 
-    <!-- 顶部辅助区 -->
     <div class="dashboard-row">
       <div class="section-card timezone-card">
         <div class="section-head">
@@ -607,17 +758,17 @@
             
             <li class="takeaway-item">
               <div class="takeaway-index">1</div>
-              <div class="takeaway-text">新款Android智能手表有望成为电池续航的新标杆，可能引发市场竞争格局变化。</div>
+              <div class="takeaway-text">新款Android智能手表有望成为电池续航的新标杆，市场竞争将愈发激烈。</div>
             </li>
             
             <li class="takeaway-item">
               <div class="takeaway-index">2</div>
-              <div class="takeaway-text">索尼WF-1000XM6耳塞降价促销，或将刺激消费者购买欲望，提升品牌市场份额。</div>
+              <div class="takeaway-text">索尼WF-1000XM6耳机降价促销，可能刺激消费者购买欲望，提升销量。</div>
             </li>
             
             <li class="takeaway-item">
               <div class="takeaway-index">3</div>
-              <div class="takeaway-text">谷歌新推出的应用侧载功能增强了安全性，可能会影响用户对Android生态的信任度。</div>
+              <div class="takeaway-text">谷歌推出新方式安全侧载Android应用，将增强用户体验并减少诈骗风险。</div>
             </li>
             
           
@@ -625,7 +776,6 @@
       </div>
     </div>
 
-    <!-- 新闻 -->
     <div class="news-grid">
       <div class="section-card news-card">
         <div class="section-head">
@@ -742,7 +892,7 @@
             <div class="news-item">
               <div class="news-index">07</div>
               <a class="news-title" href="https://www.androidauthority.com/thomson-google-tv-streamer-rival-3650599/" target="_blank" rel="noreferrer">
-                新款Google TV竞争者：进步与挑战
+                新款Google TV竞争者：前进两步，
               </a>
 
               
@@ -759,7 +909,7 @@
             <div class="news-item">
               <div class="news-index">08</div>
               <a class="news-title" href="https://www.androidauthority.com/android-sideloading-24-hours-adb-3650540/" target="_blank" rel="noreferrer">
-                教你绕过安卓24小时侧载延迟
+                教你快速绕过Android侧载24小时延
               </a>
 
               
@@ -902,7 +1052,7 @@
             <div class="news-item">
               <div class="news-index">06</div>
               <a class="news-title" href="https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/" target="_blank" rel="noreferrer">
-                火屋子三明治任命Carolina Ber
+                Firehouse Subs任命Caro
               </a>
 
               
@@ -955,7 +1105,7 @@
             <div class="news-item">
               <div class="news-index">09</div>
               <a class="news-title" href="https://retailwire.com/starbucks-red-cup-rebellion/" target="_blank" rel="noreferrer">
-                星巴克红杯日引发“反抗”，政客加入抵制行
+                “无合同无咖啡”：星巴克红杯日引发抵制行
               </a>
 
               
@@ -974,7 +1124,6 @@
       </div>
     </div>
 
-    <!-- 新品速递 -->
     <div class="section-card products-card">
       <div class="section-head">
         <h2 class="section-title">🚀 新品速递</h2>
@@ -987,7 +1136,7 @@
             <div class="product-kicker">Product 01</div>
 
             <div class="product-title">
-              索尼WF-1000XM6耳机现已优惠30
+              索尼WF-1000XM6耳塞降价30美元
             </div>
 
             <div class="product-meta">
@@ -1005,7 +1154,7 @@
             
 
             <div class="product-summary">
-              索尼WF-1000XM6是最佳降噪无线耳塞，但因329美元的价格难以推荐，前代产
+              索尼WF-1000XM6是最佳降噪无线耳塞，但因329美元的高价，难以推荐于24
             </div>
 
             <a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank" rel="noreferrer" class="product-link">
@@ -1018,7 +1167,7 @@
             <div class="product-kicker">Product 02</div>
 
             <div class="product-title">
-              Harlowe推出经济型360度拍摄照明
+              Harlowe推出360度拍摄经济型照明
             </div>
 
             <div class="product-meta">
@@ -1036,7 +1185,7 @@
             
 
             <div class="product-summary">
-              Bushman等公司已推出360度全景摄像灯，售价超300美元，超过DJI和In
+              Bushman等公司已推出360度全向摄像灯，售价超300美元，超过DJI和In
             </div>
 
             <a href="https://www.theverge.com/tech/897360/harlowe-omni-360-omnidirectional-camera-light" target="_blank" rel="noreferrer" class="product-link">
@@ -1049,7 +1198,7 @@
             <div class="product-kicker">Product 03</div>
 
             <div class="product-title">
-              大疆Mini 4K现售价如同入门配件
+              大疆Mini 4K现已成平价配件
             </div>
 
             <div class="product-meta">
@@ -1067,7 +1216,7 @@
             
 
             <div class="product-summary">
-              大疆Mini 4K无人机是最易上手的入门级无人机，适合初学者使用。
+              大疆Mini 4K无人机是一款易于操作、适合初学者的无人机。
             </div>
 
             <a href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank" rel="noreferrer" class="product-link">
@@ -1111,7 +1260,7 @@
             <div class="product-kicker">Product 05</div>
 
             <div class="product-title">
-              大疆期待已久的无人机发布日期确定
+              大疆新款无人机发布日期确定
             </div>
 
             <div class="product-meta">
@@ -1129,7 +1278,7 @@
             
 
             <div class="product-summary">
-              DJI发布了首个神秘短片，预告即将推出的新款无人机。
+              大疆发布神秘短片，预告即将推出新款无人机，吸引众多关注。
             </div>
 
             <a href="https://dronedj.com/2026/03/11/dji-avata-360-drone-launch/" target="_blank" rel="noreferrer" class="product-link">
@@ -1160,7 +1309,7 @@
             
 
             <div class="product-summary">
-              谷歌将推出强制开发者验证，安装某些Android应用需遵循“高级流程”。
+              谷歌将推出强制开发者验证，届时安装某些Android应用需遵循“高级流程”。
             </div>
 
             <a href="https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process" target="_blank" rel="noreferrer" class="product-link">
@@ -1173,7 +1322,6 @@
       </div>
     </div>
 
-    <!-- 反馈 -->
     <div class="section-card feedback-card">
       <div class="feedback-inner">
         <div>

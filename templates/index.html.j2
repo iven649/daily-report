@@ -123,17 +123,147 @@
       letter-spacing: -0.01em;
     }
 
-    .weather-box {
-      min-height: 112px;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
+    .weather-search-wrap {
+      position: relative;
+      margin-bottom: 16px;
     }
 
-    .weather-status {
-      font-size: 18px;
-      font-weight: 600;
-      line-height: 1.6;
+    .weather-search-input {
+      width: 100%;
+      height: 46px;
+      border: 1px solid var(--line);
+      background: #fafafa;
+      border-radius: 14px;
+      padding: 0 14px;
+      font-size: 14px;
+      color: var(--text);
+      outline: none;
+      transition: all 0.2s ease;
+    }
+
+    .weather-search-input:focus {
+      border-color: #d4d4d8;
+      background: #fff;
+      box-shadow: 0 0 0 4px rgba(17, 17, 17, 0.03);
+    }
+
+    .weather-dropdown {
+      position: absolute;
+      top: 52px;
+      left: 0;
+      right: 0;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(17, 17, 17, 0.08);
+      overflow: hidden;
+      z-index: 20;
+      display: none;
+      max-height: 240px;
+      overflow-y: auto;
+    }
+
+    .weather-dropdown.show {
+      display: block;
+    }
+
+    .weather-dropdown-item {
+      padding: 12px 14px;
+      font-size: 14px;
+      cursor: pointer;
+      color: var(--text);
+      background: #fff;
+      transition: background 0.15s ease;
+    }
+
+    .weather-dropdown-item:hover {
+      background: #f7f7f8;
+    }
+
+    .weather-current-card {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px 16px;
+      margin-bottom: 14px;
+    }
+
+    .weather-current-icon {
+      width: 56px;
+      height: 56px;
+      border-radius: 16px;
+      background: #f7f7f8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      border: 1px solid var(--line);
+      flex-shrink: 0;
+    }
+
+    .weather-current-main {
+      min-width: 0;
+      flex: 1;
+    }
+
+    .weather-current-city {
+      font-size: 17px;
+      font-weight: 700;
+      margin-bottom: 4px;
+      letter-spacing: -0.01em;
+    }
+
+    .weather-current-temp {
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 4px;
+    }
+
+    .weather-current-desc {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .weather-forecast-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    .weather-forecast-item {
+      border: 1px solid var(--line);
+      background: #fafafa;
+      border-radius: 16px;
+      padding: 14px 10px;
+      text-align: center;
+    }
+
+    .weather-forecast-day {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .weather-forecast-icon {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+
+    .weather-forecast-temp {
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .weather-forecast-desc {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.4;
     }
 
     .timezone-card {
@@ -348,21 +478,6 @@
   </div>
 
   <!-- 天气 -->
-  <div class="two-col">
-    <div class="card section">
-      <h2 class="section-title">🌤️ 中国天气</h2>
-      <div class="weather-box">
-        <div id="cn-weather" class="weather-status">加载中...</div>
-      </div>
-    </div>
-
-    <div class="card section">
-      <h2 class="section-title">🌤️ 美国天气</h2>
-      <div class="weather-box">
-        <div id="us-weather" class="weather-status">加载中...</div>
-      </div>
-    </div>
-  </div>
 
   <!-- 时区 -->
   <div class="card timezone-card">
@@ -467,21 +582,229 @@
 </div>
 
 <script>
-  async function loadWeather(city, id) {
-    try {
-      const res = await fetch("https://goweather.herokuapp.com/weather/" + encodeURIComponent(city));
-      const data = await res.json();
+  const WEATHER_CITY_OPTIONS = {
+    cn: [
+      "Shenzhen", "Beijing", "Shanghai", "Guangzhou", "Hangzhou",
+      "Chengdu", "Wuhan", "Xiamen", "Nanjing", "Suzhou"
+    ],
+    us: [
+      "Los Angeles", "New York", "Seattle", "San Francisco", "Chicago",
+      "Austin", "Boston", "Miami", "Dallas", "Denver"
+    ]
+  };
 
-      if (!data || (!data.temperature && !data.description)) {
-        document.getElementById(id).textContent = "天气获取失败";
+  const WEATHER_CITY_LABELS = {
+    "Shenzhen": "深圳",
+    "Beijing": "北京",
+    "Shanghai": "上海",
+    "Guangzhou": "广州",
+    "Hangzhou": "杭州",
+    "Chengdu": "成都",
+    "Wuhan": "武汉",
+    "Xiamen": "厦门",
+    "Nanjing": "南京",
+    "Suzhou": "苏州",
+    "Los Angeles": "Los Angeles",
+    "New York": "New York",
+    "Seattle": "Seattle",
+    "San Francisco": "San Francisco",
+    "Chicago": "Chicago",
+    "Austin": "Austin",
+    "Boston": "Boston",
+    "Miami": "Miami",
+    "Dallas": "Dallas",
+    "Denver": "Denver"
+  };
+
+  function weatherIconFromCode(code) {
+    const c = Number(code);
+
+    if ([0].includes(c)) return "☀️";
+    if ([1, 2].includes(c)) return "⛅";
+    if ([3].includes(c)) return "☁️";
+    if ([45, 48].includes(c)) return "🌫️";
+    if ([51, 53, 55, 56, 57].includes(c)) return "🌦️";
+    if ([61, 63, 65, 66, 67, 80, 81, 82].includes(c)) return "🌧️";
+    if ([71, 73, 75, 77, 85, 86].includes(c)) return "❄️";
+    if ([95, 96, 99].includes(c)) return "⛈️";
+
+    return "⛅";
+  }
+
+  function weatherDescFromCode(code) {
+    const c = Number(code);
+
+    const map = {
+      0: "晴朗",
+      1: "基本晴",
+      2: "局部多云",
+      3: "阴天",
+      45: "雾",
+      48: "冻雾",
+      51: "小毛雨",
+      53: "毛雨",
+      55: "大毛雨",
+      56: "冻毛雨",
+      57: "强冻毛雨",
+      61: "小雨",
+      63: "中雨",
+      65: "大雨",
+      66: "冻雨",
+      67: "强冻雨",
+      71: "小雪",
+      73: "中雪",
+      75: "大雪",
+      77: "雪粒",
+      80: "阵雨",
+      81: "强阵雨",
+      82: "暴雨",
+      85: "阵雪",
+      86: "强阵雪",
+      95: "雷暴",
+      96: "雷暴伴小冰雹",
+      99: "雷暴伴大冰雹"
+    };
+
+    return map[c] || "天气未知";
+  }
+
+  async function geocodeCity(city) {
+    const url = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(city)}&count=1&language=zh&format=json`;
+    const res = await fetch(url);
+    const data = await res.json();
+
+    if (!data || !data.results || !data.results.length) {
+      throw new Error("city not found");
+    }
+
+    return data.results[0];
+  }
+
+  async function fetchWeatherByCity(city) {
+    const geo = await geocodeCity(city);
+    const lat = geo.latitude;
+    const lon = geo.longitude;
+
+    const weatherUrl =
+      `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}` +
+      `&current=temperature_2m,weather_code` +
+      `&daily=weather_code,temperature_2m_max,temperature_2m_min` +
+      `&timezone=auto`;
+
+    const res = await fetch(weatherUrl);
+    const data = await res.json();
+
+    return {
+      cityLabel: WEATHER_CITY_LABELS[city] || geo.name || city,
+      current: data.current,
+      daily: data.daily
+    };
+  }
+
+  function renderWeather(type, payload) {
+    const iconEl = document.getElementById(`${type}-weather-icon`);
+    const cityEl = document.getElementById(`${type}-weather-city`);
+    const tempEl = document.getElementById(`${type}-weather-temp`);
+    const descEl = document.getElementById(`${type}-weather-desc`);
+    const forecastEl = document.getElementById(`${type}-weather-forecast`);
+
+    const current = payload.current || {};
+    const daily = payload.daily || {};
+
+    cityEl.textContent = payload.cityLabel || "";
+    tempEl.textContent = current.temperature_2m != null ? `${current.temperature_2m}°C` : "天气获取失败";
+    descEl.textContent = weatherDescFromCode(current.weather_code);
+    iconEl.textContent = weatherIconFromCode(current.weather_code);
+
+    const days = (daily.time || []).slice(0, 3);
+    const maxs = daily.temperature_2m_max || [];
+    const mins = daily.temperature_2m_min || [];
+    const codes = daily.weather_code || [];
+
+    const labels = ["今天", "明天", "后天"];
+
+    forecastEl.innerHTML = days.map((_, i) => {
+      const code = codes[i];
+      const icon = weatherIconFromCode(code);
+      const desc = weatherDescFromCode(code);
+      const max = maxs[i] != null ? Math.round(maxs[i]) : "-";
+      const min = mins[i] != null ? Math.round(mins[i]) : "-";
+
+      return `
+        <div class="weather-forecast-item">
+          <div class="weather-forecast-day">${labels[i] || ""}</div>
+          <div class="weather-forecast-icon">${icon}</div>
+          <div class="weather-forecast-temp">${max}° / ${min}°</div>
+          <div class="weather-forecast-desc">${desc}</div>
+        </div>
+      `;
+    }).join("");
+  }
+
+  async function updateWeather(type, city) {
+    try {
+      const payload = await fetchWeatherByCity(city);
+      renderWeather(type, payload);
+    } catch (e) {
+      document.getElementById(`${type}-weather-city`).textContent = city;
+      document.getElementById(`${type}-weather-temp`).textContent = "天气获取失败";
+      document.getElementById(`${type}-weather-desc`).textContent = "";
+      document.getElementById(`${type}-weather-icon`).textContent = "⚠️";
+      document.getElementById(`${type}-weather-forecast`).innerHTML = "";
+    }
+  }
+
+  function bindWeatherSearch(type, defaultCity) {
+    const input = document.getElementById(`${type}-city-input`);
+    const dropdown = document.getElementById(`${type}-city-dropdown`);
+    const options = WEATHER_CITY_OPTIONS[type];
+
+    function renderDropdown(keyword = "") {
+      const list = options.filter(city =>
+        city.toLowerCase().includes(keyword.toLowerCase())
+      );
+
+      if (!list.length) {
+        dropdown.innerHTML = "";
+        dropdown.classList.remove("show");
         return;
       }
 
-      document.getElementById(id).textContent =
-        city + " " + (data.temperature || "") + " " + (data.description || "");
-    } catch (e) {
-      document.getElementById(id).textContent = "天气获取失败";
+      dropdown.innerHTML = list.map(city => `
+        <div class="weather-dropdown-item" data-city="${city}">
+          ${WEATHER_CITY_LABELS[city] || city}
+        </div>
+      `).join("");
+
+      dropdown.classList.add("show");
     }
+
+    input.addEventListener("focus", () => {
+      renderDropdown(input.value.trim());
+    });
+
+    input.addEventListener("input", () => {
+      renderDropdown(input.value.trim());
+    });
+
+    dropdown.addEventListener("mousedown", (e) => {
+      const item = e.target.closest(".weather-dropdown-item");
+      if (!item) return;
+
+      const city = item.getAttribute("data-city");
+      input.value = WEATHER_CITY_LABELS[city] || city;
+      dropdown.classList.remove("show");
+      updateWeather(type, city);
+    });
+
+    document.addEventListener("click", (e) => {
+      if (!dropdown.contains(e.target) && e.target !== input) {
+        dropdown.classList.remove("show");
+      }
+    });
+
+    updateWeather(type, defaultCity);
+    input.value = WEATHER_CITY_LABELS[defaultCity] || defaultCity;
   }
 
   function updateTimezones() {
@@ -506,8 +829,8 @@
     });
   }
 
-  loadWeather("Shenzhen", "cn-weather");
-  loadWeather("Los Angeles", "us-weather");
+  bindWeatherSearch("cn", "Shenzhen");
+  bindWeatherSearch("us", "Los Angeles");
   updateTimezones();
   setInterval(updateTimezones, 60000);
 </script>

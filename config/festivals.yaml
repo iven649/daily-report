@@ -1,55 +1,256 @@
 festivals:
+  # ===== China =====
+  - slug: spring-festival
+    name: 春节
+    market: CN
+    type: traditional
+    priority: 5
+    rule: fixed
+    month: 2
+    day: 17
+    icon: "🧧"
+
+  - slug: lantern-festival
+    name: 元宵节
+    market: CN
+    type: traditional
+    priority: 3
+    rule: fixed
+    month: 3
+    day: 3
+    icon: "🏮"
+
   - slug: qingming
     name: 清明节
     market: CN
     type: traditional
+    priority: 3
     rule: fixed
     month: 4
     day: 4
+    icon: "🌿"
+
+  - slug: labor-day-cn
+    name: 劳动节
+    market: CN
+    type: holiday
+    priority: 3
+    rule: fixed
+    month: 5
+    day: 1
+    icon: "🛠️"
+
+  - slug: dragon-boat
+    name: 端午节
+    market: CN
+    type: traditional
+    priority: 4
+    rule: fixed
+    month: 6
+    day: 19
+    icon: "🚣"
+
+  - slug: qixi
+    name: 七夕
+    market: CN
+    type: traditional
+    priority: 2
+    rule: fixed
+    month: 8
+    day: 19
+    icon: "💗"
+
+  - slug: mid-autumn
+    name: 中秋节
+    market: CN
+    type: traditional
+    priority: 5
+    rule: fixed
+    month: 9
+    day: 25
+    icon: "🌕"
+
+  - slug: national-day-cn
+    name: 国庆节
+    market: CN
+    type: holiday
+    priority: 5
+    rule: fixed
+    month: 10
+    day: 1
+    icon: "🇨🇳"
+
+  # ===== United States =====
+  - slug: valentines-day
+    name: 情人节
+    market: US
+    type: holiday
+    priority: 3
+    rule: fixed
+    month: 2
+    day: 14
+    icon: "❤️"
 
   - slug: easter
     name: 复活节
     market: US
     type: traditional
+    priority: 4
     rule: easter
+    icon: "🥚"
+
+  - slug: mothers-day
+    name: 母亲节
+    market: US
+    type: holiday
+    priority: 4
+    rule: nth_weekday
+    month: 5
+    weekday: 6   # Sunday
+    nth: 2
+    icon: "🌸"
 
   - slug: memorial-day
     name: Memorial Day
     market: US
-    type: promotion
+    type: holiday
+    priority: 4
     rule: nth_weekday
     month: 5
-    weekday: 0
-    nth_from_end: 1
+    weekday: 0   # Monday
+    nth: -1      # last Monday
+    icon: "🇺🇸"
+
+  - slug: fathers-day
+    name: 父亲节
+    market: US
+    type: holiday
+    priority: 3
+    rule: nth_weekday
+    month: 6
+    weekday: 6   # Sunday
+    nth: 3
+    icon: "👔"
+
+  - slug: independence-day
+    name: 独立日
+    market: US
+    type: holiday
+    priority: 5
+    rule: fixed
+    month: 7
+    day: 4
+    icon: "🎆"
+
+  - slug: labor-day-us
+    name: Labor Day
+    market: US
+    type: holiday
+    priority: 4
+    rule: nth_weekday
+    month: 9
+    weekday: 0   # Monday
+    nth: 1
+    icon: "🛍️"
+
+  - slug: halloween
+    name: 万圣节
+    market: US
+    type: holiday
+    priority: 4
+    rule: fixed
+    month: 10
+    day: 31
+    icon: "🎃"
+
+  - slug: thanksgiving
+    name: 感恩节
+    market: US
+    type: holiday
+    priority: 5
+    rule: nth_weekday
+    month: 11
+    weekday: 3   # Thursday
+    nth: 4
+    icon: "🦃"
+
+  - slug: christmas
+    name: 圣诞节
+    market: US
+    type: holiday
+    priority: 5
+    rule: fixed
+    month: 12
+    day: 25
+    icon: "🎄"
+
+  # ===== Commerce / Campaign =====
+  - slug: jd-618
+    name: 618
+    market: ECOM
+    type: campaign
+    priority: 5
+    rule: fixed
+    month: 6
+    day: 18
+    icon: "📦"
 
   - slug: prime-day
     name: Prime Day
-    market: US
-    type: promotion
+    market: ECOM
+    type: campaign
+    priority: 4
     rule: fixed
     month: 7
     day: 15
+    icon: "⚡"
 
   - slug: back-to-school
-    name: Back to School
-    market: US
-    type: promotion
+    name: 返校季
+    market: ECOM
+    type: campaign
+    priority: 4
     rule: fixed
     month: 8
     day: 15
+    icon: "🎒"
 
-  - slug: zhongqiu
-    name: 中秋节
-    market: CN
-    type: traditional
+  - slug: double-11
+    name: 双11
+    market: ECOM
+    type: campaign
+    priority: 5
     rule: fixed
-    month: 10
-    day: 6
+    month: 11
+    day: 11
+    icon: "🛒"
 
-  - slug: guoqing
-    name: 国庆节
-    market: CN
-    type: promotion
+  - slug: black-friday
+    name: 黑五
+    market: ECOM
+    type: campaign
+    priority: 5
+    rule: relative_to
+    ref_slug: thanksgiving
+    offset_days: 1
+    icon: "🖤"
+
+  - slug: cyber-monday
+    name: 网一
+    market: ECOM
+    type: campaign
+    priority: 5
+    rule: relative_to
+    ref_slug: thanksgiving
+    offset_days: 4
+    icon: "💻"
+
+  - slug: double-12
+    name: 双12
+    market: ECOM
+    type: campaign
+    priority: 4
     rule: fixed
-    month: 10
-    day: 1
+    month: 12
+    day: 12
+    icon: "🧾"

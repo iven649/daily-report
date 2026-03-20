@@ -99,54 +99,60 @@ def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
     return result
 
 
-def generate_takeaways(consumer_news: List[Dict[str, Any]], channel_news: List[Dict[str, Any]]) -> List[str]:
-    consumer_titles = [x.get("title", "") for x in consumer_news[:5] if x.get("title")]
-    channel_titles = [x.get("title", "") for x in channel_news[:5] if x.get("title")]
+def generate_takeaways(consumer, channel, products):
+    try:
+        consumer_titles = [x.get("display_title") or x.get("title") for x in consumer[:6]]
+        channel_titles = [x.get("display_title") or x.get("title") for x in channel[:6]]
+        product_titles = [x.get("display_title") or x.get("name") for x in products[:6]]
 
-    prompt = f"""你是消费电子行业分析师，请基于以下新闻生成 3 条「今日重点」。
+        prompt = f"""
+你是消费电子行业分析师，请基于以下信息生成【今日重点】。
 
 要求：
-1. 中文
-2. 每条 18-28 字左右
-3. 不是简单复述标题，而是提炼方向和判断
-4. 适合出现在部门日报首页
-5. 只输出 3 行，不要加解释
+1. 输出3-5条
+2. 每条一句话
+3. 必须有“判断”（不是复述）
+4. 用中文
+5. 每条 ≤ 30字
+6. 风格：像内部业务简报
 
-【今日热点】
+重点关注：
+- 耳机 / 音频（最高优先级）
+- 渠道变化（平台/零售）
+- 新品趋势
+
+今日热点：
 {consumer_titles}
 
-【渠道新闻】
+渠道新闻：
 {channel_titles}
+
+新品：
+{product_titles}
 """
 
-    fallback = [
-        "关注消费电子硬件与音频新品动态",
-        "关注渠道侧平台与零售变化信号",
-        "优先跟进可转化为销售动作的信息",
-    ]
-
-    try:
-        response = client.chat.completions.create(
+        resp = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "你是一个资深消费电子行业编辑，擅长写部门日报总结。"},
+                {"role": "system", "content": "你是资深消费电子行业分析师"},
                 {"role": "user", "content": prompt}
             ],
             temperature=0.4,
         )
 
-        text = response.choices[0].message.content.strip()
-        lines = [line.strip(" -•1234567890.、") for line in text.splitlines() if line.strip()]
-        lines = [x for x in lines if x]
+        text = resp.choices[0].message.content.strip()
 
-        if len(lines) >= 3:
-            return lines[:3]
+        lines = [
+            x.strip("•-1234567890. ")
+            for x in text.split("\n")
+            if x.strip()
+        ]
 
-        return fallback
+        return lines[:5]
 
     except Exception as e:
-        print(f"[WARN] 今日重点生成失败: {e}")
-        return fallback
+        print("[WARN] 今日重点生成失败", e)
+        return []
 
 def detect_tags(text: str, bucket: str = "") -> List[str]:
     t = (text or "").lower()
@@ -276,7 +282,7 @@ def main():
         "consumer_electronics": consumer,
         "channel_news": channel,
         "products": product_items,
-        "takeaways": takeaways,
+        "takeaways": generate_takeaways(consumer, channel, product_items),
     }
 
     dump_json("data/processed/daily_payload.json", payload)

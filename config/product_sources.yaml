@@ -1,8 +1,101 @@
 sources:
   products:
-    - name: The Verge
-      type: rss
-      url: https://www.theverge.com/rss/index.xml
+    # 第一优先：耳机 / 音频 / 穿戴 / 手机硬件
     - name: Android Authority
       type: rss
       url: https://www.androidauthority.com/feed/
+      priority: 10
+
+    - name: The Verge Tech
+      type: rss
+      url: https://www.theverge.com/rss/tech/index.xml
+      priority: 9
+
+    - name: The Verge Front Page
+      type: rss
+      url: https://www.theverge.com/rss/front-page/index.xml
+      priority: 8
+
+    # 第二优先：无人机 / 运动相机
+    - name: DroneDJ
+      type: rss
+      url: https://dronedj.com/feed/
+      priority: 8
+
+    # 第三优先：泛消费电子补充
+    - name: TechCrunch
+      type: rss
+      url: https://techcrunch.com/feed/
+      priority: 6
+
+keywords:
+  high:
+    # 耳机/音频
+    - headphones
+    - earbuds
+    - earbud
+    - headset
+    - speaker
+    - audio
+    - noise cancelling
+    - anc
+    - open-ear
+    - open ear
+    - bone conduction
+    - garmin
+    - bose
+    - beats
+    - soundcore
+    - sony
+    - jbl
+    - sennheiser
+    - shokz
+
+    # 无人机 / 运动相机
+    - drone
+    - dji
+    - action camera
+    - gopro
+    - insta360
+    - osmo
+    - camera
+
+  medium:
+    # 手机 / 穿戴 / 硬件
+    - smartwatch
+    - wearable
+    - fitness tracker
+    - phone
+    - smartphone
+    - pixel
+    - galaxy
+    - chip
+    - laptop
+    - tablet
+    - bluetooth
+    - wireless
+    - battery
+
+  trigger:
+    # 只有命中这些“发布类词”才更像新品
+    - launch
+    - launches
+    - launched
+    - release
+    - releases
+    - released
+    - announce
+    - announces
+    - announced
+    - unveil
+    - unveils
+    - unveiled
+    - debuts
+    - debut
+    - reveals
+    - revealed
+    - specs
+    - pricing
+    - price
+    - available
+    - availability

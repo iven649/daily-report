@@ -37,9 +37,3 @@ jobs:
           git commit -m "auto update report" || echo "no changes"
           git push
 
-      - name: 发送钉钉
-        env:
-          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
-          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
-          REPORT_URL: ${{ secrets.REPORT_URL }}
-        run: python scripts/send_dingtalk.py

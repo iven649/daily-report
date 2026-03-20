@@ -1,491 +1,557 @@
-content:
-  spring-festival:
-    icon: "🧧"
-    origin: "春节是中国最重要的传统节日，源于农历新年更替与岁首迎新的习俗，承载团圆、辞旧迎新与家族联结的文化意义。"
-    story: "围绕春节形成了完整的节庆周期，从腊月备年货到除夕守岁，再到正月拜年，既是家庭团聚节点，也是全年消费与礼赠的重要起点。"
-    customs:
-      - "贴春联与年画"
-      - "除夕守岁"
-      - "拜年与发红包"
-      - "家庭团圆饭"
-      - "走亲访友"
-    consumption:
-      - "礼盒与礼赠商品"
-      - "聚餐与食品饮料"
-      - "智能设备与家电焕新"
-      - "出行与返乡服务"
-      - "节前大促与年货采购"
-    holiday: "春节通常对应中国全年最长、最重要的公共假期之一，具体放假安排以当年官方通知为准。"
-    business_focus:
-      - "重点关注礼赠、送礼场景与节前备货节奏"
-      - "适合做家庭团聚、健康陪伴、长续航等产品沟通"
-      - "节前是转化高峰，节后适合做开工焕新主题"
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ name }} - 节日专题</title>
+  <style>
+    :root {
+      --bg: #f5f5f7;
+      --card: rgba(255, 255, 255, 0.88);
+      --card-solid: #ffffff;
+      --text: #111111;
+      --muted: #6e6e73;
+      --muted-2: #8e8e93;
+      --line: rgba(17, 17, 17, 0.07);
+      --line-soft: rgba(17, 17, 17, 0.045);
+      --shadow: 0 10px 30px rgba(15, 23, 42, 0.05);
+      --shadow-soft: 0 4px 18px rgba(15, 23, 42, 0.035);
+      --radius-2xl: 28px;
+      --radius-xl: 22px;
+      --radius-lg: 18px;
+      --radius-md: 14px;
+      --black: #111111;
+      --accent-bg: #f7f7f8;
+    }
 
-  lantern-festival:
-    icon: "🏮"
-    origin: "元宵节是春节之后的重要传统节日，象征团圆、圆满与年节收尾。"
-    story: "元宵节既延续春节的喜庆氛围，也常被视为新春消费尾声与节庆礼赠的最后一波窗口。"
-    customs:
-      - "赏花灯"
-      - "猜灯谜"
-      - "吃元宵/汤圆"
-      - "城市夜游"
-    consumption:
-      - "节庆食品"
-      - "夜间消费"
-      - "城市商业活动"
-      - "节后礼赠补充消费"
-    holiday: "元宵节通常不是独立公共假期，但会带动线下商业活动与城市夜间消费。"
-    business_focus:
-      - "适合承接春节后半程营销"
-      - "可结合团圆、家庭、夜生活场景延续传播"
-      - "节后库存消化与促销活动可以在该节点完成收口"
+    * {
+      box-sizing: border-box;
+    }
 
-  qingming:
-    icon: "🌿"
-    origin: "清明节起源于中国古代寒食传统，后与清明节气融合，成为兼具祭祖与踏青意义的重要节日。"
-    story: "清明节兼具纪念先人和春日出游两种属性，既有肃穆的一面，也带动了近郊旅游、鲜花与时令食品消费。"
-    customs:
-      - "扫墓祭祖"
-      - "踏青郊游"
-      - "插柳戴柳"
-      - "放风筝"
-    consumption:
-      - "祭祀用品"
-      - "鲜花与代祭扫服务"
-      - "青团与时令食品"
-      - "周边短途出游"
-    holiday: "中国通常围绕清明节形成短假期安排，以当年官方通知为准。"
-    business_focus:
-      - "消费更偏低调务实，适合陪伴、健康、户外轻出行表达"
-      - "近郊出游和车载、户外、运动类场景可重点关注"
-      - "不适合过度张扬的节庆营销表达"
+    html, body {
+      margin: 0;
+      padding: 0;
+      color: var(--text);
+      background:
+        linear-gradient(to right, rgba(17,17,17,0.025) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(17,17,17,0.025) 1px, transparent 1px),
+        linear-gradient(180deg, #fcfcfd 0%, #f5f5f7 100%);
+      background-size: 40px 40px, 40px 40px, auto;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI",
+        "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
 
-  labor-day-cn:
-    icon: "🛠️"
-    origin: "中国劳动节是重要公共假期之一，通常伴随春夏之交的集中出游与消费释放。"
-    story: "五一假期往往是上半年较强的线下消费窗口，旅游、商圈、数码促销和假期场景需求会同步上升。"
-    customs:
-      - "假期出游"
-      - "朋友聚会"
-      - "商圈消费"
-      - "短途出行"
-    consumption:
-      - "旅行与住宿"
-      - "数码与户外装备"
-      - "商场促销"
-      - "餐饮娱乐"
-    holiday: "劳动节通常形成连续假期，是中国上半年重要公共休假与消费节点。"
-    business_focus:
-      - "适合推广通勤、出行、运动与户外相关产品"
-      - "线下零售与电商会同步加大促销力度"
-      - "适合拉动节前预售与假期爆发式成交"
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
 
-  dragon-boat:
-    icon: "🚣"
-    origin: "端午节是中国传统节日，围绕纪念屈原、驱邪避疫与夏季时令文化形成。"
-    story: "端午节点兼具传统礼俗和家庭场景属性，也常带动礼盒、短途出行与节令食品消费。"
-    customs:
-      - "吃粽子"
-      - "赛龙舟"
-      - "挂艾草与香囊"
-      - "家庭聚餐"
-    consumption:
-      - "粽子与礼盒"
-      - "健康与养生产品"
-      - "周边旅游"
-      - "节日礼赠"
-    holiday: "端午节通常对应中国法定假期，具体放假安排以官方通知为准。"
-    business_focus:
-      - "适合做礼赠、健康、陪伴与传统文化结合营销"
-      - "夏季户外与运动场景产品可同步借势"
-      - "礼盒与节庆包装有较高接受度"
+    .page {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 28px 20px 60px;
+    }
 
-  qixi:
-    icon: "💗"
-    origin: "七夕是中国传统爱情节日，源于牛郎织女传说，近年来也逐渐演化为礼赠消费节点。"
-    story: "七夕在消费层面常被视作中国情人节，适合承接情侣礼赠、个护美妆、数码配件和轻奢送礼需求。"
-    customs:
-      - "情侣约会"
-      - "送礼表达"
-      - "节日营销"
-    consumption:
-      - "情侣礼品"
-      - "饰品与配件"
-      - "个护与香氛"
-      - "数码礼赠"
-    holiday: "七夕不是法定假期，但具备较强的礼赠营销属性。"
-    business_focus:
-      - "适合双人场景、礼赠场景与节日限定表达"
-      - "高颜值、轻奢感、纪念意义产品更容易获得关注"
-      - "适合作为下半年礼赠节点预热"
+    .glass {
+      background: var(--card);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.65);
+      box-shadow: var(--shadow);
+      border-radius: var(--radius-2xl);
+    }
 
-  mid-autumn:
-    icon: "🌕"
-    origin: "中秋节是中国重要传统团圆节日，以赏月、家庭团聚和礼赠文化为核心。"
-    story: "中秋节既有强烈的家庭属性，也有很成熟的礼品市场，是品牌做团圆、陪伴与节日礼盒传播的重要节点。"
-    customs:
-      - "赏月"
-      - "吃月饼"
-      - "家庭团聚"
-      - "走亲访友"
-    consumption:
-      - "月饼礼盒"
-      - "礼赠商品"
-      - "节庆包装"
-      - "短途旅行"
-    holiday: "中秋节通常是中国法定假期之一，具体放假安排以官方通知为准。"
-    business_focus:
-      - "礼赠需求明确，适合重点布局节日礼盒和送礼沟通"
-      - "家庭陪伴、团圆与中高端表达都更有空间"
-      - "可与国庆假期前后消费形成联动"
+    .card {
+      background: var(--card-solid);
+      border: 1px solid var(--line-soft);
+      border-radius: var(--radius-xl);
+      box-shadow: var(--shadow-soft);
+    }
 
-  national-day-cn:
-    icon: "🇨🇳"
-    origin: "国庆节是中国的重要公共节假日，也是全年最强的出游与零售消费节点之一。"
-    story: "国庆假期叠加秋季旅游与商圈活动，往往会带动旅行、数码、礼赠与家庭场景消费的集中释放。"
-    customs:
-      - "黄金周出游"
-      - "家庭聚会"
-      - "线下活动"
-      - "商圈促销"
-    consumption:
-      - "旅行相关"
-      - "礼品零售"
-      - "数码焕新"
-      - "促销大盘增长"
-    holiday: "国庆节通常形成中国全年重要长假之一。"
-    business_focus:
-      - "适合出行、运动、影音、车载与耐用消费品营销"
-      - "线下门店、商场与平台活动密集，适合联动投放"
-      - "适合作为Q4大促前的重要预热节点"
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
 
-  valentines-day:
-    icon: "❤️"
-    origin: "情人节是全球广泛认知的爱情主题节日，在美国及海外市场具备稳定的礼赠和节庆消费属性。"
-    story: "情人节常带动情侣礼赠、约会消费和节庆限定营销，是上半年礼品消费的重要窗口之一。"
-    customs:
-      - "情侣送礼"
-      - "约会晚餐"
-      - "节日表达"
-    consumption:
-      - "礼品与饰品"
-      - "个护香氛"
-      - "鲜花与巧克力"
-      - "数码礼赠"
-    holiday: "情人节不是联邦公共假日，但节庆营销成熟，消费氛围强。"
-    business_focus:
-      - "适合强调礼物属性、设计感与情绪价值"
-      - "情侣场景与限量包装更容易形成节日记忆点"
-      - "适合作为上半年品牌内容营销节点"
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.72);
+      border: 1px solid rgba(17,17,17,0.06);
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 600;
+    }
 
-  easter:
-    icon: "🥚"
-    origin: "复活节是西方重要节日之一，常与春季、新生、家庭团聚相关。"
-    story: "在西方文化语境中，复活节兼具宗教意义与大众消费节庆属性，也常成为春季家庭消费与儿童礼品消费节点。"
-    customs:
-      - "彩蛋游戏"
-      - "复活节兔子"
-      - "家庭聚会"
-      - "教堂礼拜"
-    consumption:
-      - "糖果与巧克力"
-      - "儿童礼品"
-      - "家庭聚餐"
-      - "春季短途出行"
-    holiday: "复活节不是美国统一联邦假日，但学校、教会和零售市场通常会有节庆活动。"
-    business_focus:
-      - "适合家庭、亲子、春季焕新的表达"
-      - "可关注线下零售节庆陈列和儿童礼赠需求"
-      - "适合作为春季内容营销补充节点"
+    .hero {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 22px;
+      padding: 26px;
+      margin-bottom: 18px;
+      min-height: 300px;
+    }
 
-  mothers-day:
-    icon: "🌸"
-    origin: "母亲节是美国重要的礼赠节日之一，围绕感谢母亲和家庭表达形成稳定消费。"
-    story: "母亲节通常带动礼品、鲜花、珠宝、护理和生活方式品类的集中推广，也是品牌做温情沟通的重要节点。"
-    customs:
-      - "送花与送礼"
-      - "家庭聚餐"
-      - "节日祝福"
-    consumption:
-      - "鲜花与礼盒"
-      - "护理与个护产品"
-      - "珠宝与配饰"
-      - "家庭场景礼物"
-    holiday: "母亲节不是联邦公共假日，但零售和平台通常会集中推出节日活动。"
-    business_focus:
-      - "适合做情感表达与礼赠场景沟通"
-      - "高颜值、轻高端、健康陪伴类产品更适合借势"
-      - "适合联动社媒和UGC内容传播"
+    .hero-left {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 248px;
+    }
 
-  memorial-day:
-    icon: "🇺🇸"
-    origin: "Memorial Day 是美国纪念阵亡军人的节日。"
-    story: "该节点也被视为美国夏季消费季的开端，大量零售促销活动会在此期间启动。"
-    customs:
-      - "纪念活动"
-      - "家庭烧烤"
-      - "户外出游"
-    consumption:
-      - "家电折扣"
-      - "户外用品"
-      - "服装促销"
-      - "家庭耐用品"
-    holiday: "美国重要公共假日之一。"
-    business_focus:
-      - "适合关注美国夏季消费启动信号"
-      - "平台和零售商常在此节点开启大力度折扣"
-      - "适合承接户外、出行、运动和家庭设备需求"
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.72);
+      border: 1px solid rgba(17,17,17,0.06);
+      font-size: 12px;
+      color: var(--muted);
+      width: fit-content;
+      margin-bottom: 18px;
+    }
 
-  fathers-day:
-    icon: "👔"
-    origin: "父亲节是美国重要礼赠节日，通常围绕家庭表达、实用礼物和男性消费展开。"
-    story: "父亲节礼品偏向实用型、功能型与兴趣型产品，适合品牌围绕户外、电子、工具与运动场景展开营销。"
-    customs:
-      - "赠送礼物"
-      - "家庭聚会"
-      - "户外活动"
-    consumption:
-      - "电子产品"
-      - "户外运动用品"
-      - "男士护理"
-      - "实用型礼物"
-    holiday: "父亲节不是联邦公共假日，但礼赠属性明确。"
-    business_focus:
-      - "适合做实用礼物和兴趣导向产品推荐"
-      - "电子、运动、户外和高耐用品类更适配"
-      - "适合做中高客单礼赠引导"
+    .hero-title-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 12px;
+    }
 
-  independence-day:
-    icon: "🎆"
-    origin: "独立日是美国最重要的国家节日之一，具有强烈的爱国庆典和夏季户外消费属性。"
-    story: "独立日前后，美国会出现大规模促销、户外聚会与家庭庆祝活动，是夏季重要消费节点。"
-    customs:
-      - "烟花庆典"
-      - "家庭烧烤"
-      - "户外聚会"
-      - "节庆装饰"
-    consumption:
-      - "户外用品"
-      - "烧烤相关"
-      - "家居与庭院商品"
-      - "节庆促销"
-    holiday: "美国联邦公共假日，线下零售与平台活动通常较为活跃。"
-    business_focus:
-      - "适合关注美国节中家庭消费和户外场景"
-      - "户外音频、运动、旅行和便携类产品更容易被关注"
-      - "适合作为夏季大促与Prime Day前的预热节点"
+    .hero-icon {
+      width: 64px;
+      height: 64px;
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f7f7f8;
+      border: 1px solid var(--line-soft);
+      font-size: 30px;
+      flex-shrink: 0;
+    }
 
-  labor-day-us:
-    icon: "🛍️"
-    origin: "Labor Day 是美国夏季结束前的重要公共假日，也常被视为返校季后期与秋季消费启动节点。"
-    story: "零售商通常会围绕 Labor Day 做家居、家电、服饰和数码促销，具有较强的消费承接作用。"
-    customs:
-      - "假期出游"
-      - "家庭聚会"
-      - "季末促销"
-    consumption:
-      - "家居家电"
-      - "服装鞋类"
-      - "数码折扣"
-      - "返校补购"
-    holiday: "美国联邦公共假日。"
-    business_focus:
-      - "适合观察暑期结束后的消费转向"
-      - "平台和零售商会推动季末折扣，适合价格战观察"
-      - "可承接返校季尾声和秋季新品切换"
+    .hero-title {
+      margin: 0;
+      font-size: 42px;
+      line-height: 1;
+      letter-spacing: -0.06em;
+      font-weight: 760;
+    }
 
-  halloween:
-    icon: "🎃"
-    origin: "万圣节是美国极具氛围感的节庆节点，兼具娱乐、家庭和零售属性。"
-    story: "万圣节会显著带动节庆装饰、糖果、服饰、派对和家庭娱乐消费，也是Q4节庆营销的重要预热。"
-    customs:
-      - "Trick-or-Treat"
-      - "节日装扮"
-      - "家庭派对"
-      - "主题装饰"
-    consumption:
-      - "糖果零食"
-      - "服饰与装扮"
-      - "派对用品"
-      - "家庭娱乐消费"
-    holiday: "不是联邦公共假日，但节庆消费氛围非常强。"
-    business_focus:
-      - "适合做年轻人、家庭与社交场景的内容表达"
-      - "Q4节庆氛围开始升温，可为黑五与圣诞预热"
-      - "有利于制造话题内容和视觉化传播"
+    .hero-desc {
+      font-size: 16px;
+      line-height: 1.9;
+      color: #374151;
+      max-width: 650px;
+      margin-top: 12px;
+    }
 
-  thanksgiving:
-    icon: "🦃"
-    origin: "感恩节是美国最重要的家庭团聚节日之一，也是全年零售高峰季的关键起点。"
-    story: "感恩节前后，家庭聚餐、旅行与集中购物需求叠加，同时为黑五和网一拉开序幕。"
-    customs:
-      - "家庭聚餐"
-      - "火鸡晚餐"
-      - "节日出行"
-      - "节前购物"
-    consumption:
-      - "食品与家庭采购"
-      - "礼品与家居"
-      - "旅行交通"
-      - "黑五预热消费"
-    holiday: "美国联邦公共假日，是Q4消费季的核心节点。"
-    business_focus:
-      - "适合把它视为黑五前的关键预热节点"
-      - "家庭消费与礼赠消费会提前升温"
-      - "可重点观察平台预热、广告投放与价格信号"
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 22px;
+    }
 
-  christmas:
-    icon: "🎄"
-    origin: "圣诞节是欧美市场最核心的节庆消费节点之一，兼具宗教、家庭与礼赠属性。"
-    story: "圣诞季覆盖时间长、消费强度高，是全年礼品、电子、家居、玩具与节庆装饰最重要的窗口之一。"
-    customs:
-      - "交换礼物"
-      - "家庭团聚"
-      - "节庆装饰"
-      - "假日旅行"
-    consumption:
-      - "礼品采购"
-      - "电子消费"
-      - "玩具与家居"
-      - "节庆装饰与食品"
-    holiday: "美国联邦公共假日，也是欧美零售全年最重要节庆节点之一。"
-    business_focus:
-      - "礼赠属性最强，适合高客单和精选产品布局"
-      - "适合提前做内容种草、礼单推荐和促销节奏安排"
-      - "对渠道库存、价格和履约能力要求较高"
+    .meta-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: #ffffff;
+      border: 1px solid var(--line-soft);
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 600;
+    }
 
-  jd-618:
-    icon: "📦"
-    origin: "618是中国上半年最重要的大促节点之一，已从平台店庆演化为全行业营销节点。"
-    story: "618往往带动平台流量、价格竞争、品牌联动与类目集中爆发，是观察上半年消费电子竞争的重要窗口。"
-    customs:
-      - "平台大促"
-      - "品牌联合促销"
-      - "预售与尾款"
-      - "跨平台比价"
-    consumption:
-      - "3C数码"
-      - "家电"
-      - "智能硬件"
-      - "个护与日用"
-    holiday: "非公共假日，为中国上半年最重要的电商营销节点之一。"
-    business_focus:
-      - "适合重点观察音频、穿戴和智能硬件价格带变化"
-      - "竞品活动、投放策略和平台资源位变化都值得跟踪"
-      - "适合作为上半年销售与品牌表现的重要复盘节点"
+    .hero-right {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
 
-  prime-day:
-    icon: "⚡"
-    origin: "Prime Day 是 Amazon 主导的重要电商大促节点。"
-    story: "Prime Day 通常会带动平台流量、品牌折扣、跨渠道价格联动及广告竞争加剧，是北美电商观察的重要窗口。"
-    customs:
-      - "平台限时折扣"
-      - "品牌联动促销"
-      - "会员专属活动"
-    consumption:
-      - "3C数码"
-      - "家居家电"
-      - "个护与日用品"
-      - "智能硬件"
-    holiday: "非公共假日，为重要电商营销节点。"
-    business_focus:
-      - "重点关注 Amazon 价格带、竞品折扣和广告竞争"
-      - "适合观察北美渠道价格是否外溢到其他平台"
-      - "Prime Day 常是Q3增长与库存管理的关键节点"
+    .info-card {
+      background: rgba(255,255,255,0.78);
+      border: 1px solid rgba(17,17,17,0.06);
+      border-radius: var(--radius-xl);
+      padding: 18px;
+    }
 
-  back-to-school:
-    icon: "🎒"
-    origin: "返校季是美国暑期结束前后的重要消费节点。"
-    story: "家长和学生会集中采购学习、电子和服饰用品，对耳机、电脑、平板和日常配件类商品拉动明显。"
-    customs:
-      - "返校采购"
-      - "文具清单准备"
-      - "校园装备更新"
-    consumption:
-      - "耳机与电脑"
-      - "文具与背包"
-      - "服装鞋帽"
-      - "宿舍用品"
-    holiday: "非公共假日，为重要季节性消费节点。"
-    business_focus:
-      - "音频设备、电脑配件和学习场景产品更值得关注"
-      - "适合做学生和家长双重沟通"
-      - "可作为秋季新品和平台活动的承接节点"
+    .info-label {
+      font-size: 12px;
+      color: var(--muted-2);
+      margin-bottom: 6px;
+    }
 
-  double-11:
-    icon: "🛒"
-    origin: "双11是中国全年最重要的电商大促节点之一，已成为全行业营销与价格竞争的代表性时点。"
-    story: "双11覆盖预售、尾款、跨店满减、直播与品牌投放等完整链路，是全年消费电子竞争最激烈的窗口之一。"
-    customs:
-      - "预售抢购"
-      - "跨店满减"
-      - "直播带货"
-      - "全渠道促销"
-    consumption:
-      - "3C数码"
-      - "家电家居"
-      - "美妆个护"
-      - "生活方式品类"
-    holiday: "非公共假日，为中国全年最重要的大促营销节点之一。"
-    business_focus:
-      - "重点关注竞品价格、平台资源位和直播节奏"
-      - "适合做全年价格策略与品牌表现复盘"
-      - "是年底销售冲刺的核心战场"
+    .info-value {
+      font-size: 26px;
+      line-height: 1.1;
+      font-weight: 720;
+      letter-spacing: -0.04em;
+    }
 
-  black-friday:
-    icon: "🖤"
-    origin: "黑五是美国感恩节后的核心零售促销节点，也是全球知名的消费狂欢日。"
-    story: "黑五以大力度折扣、库存清理和礼赠季开端著称，广泛影响电子、家居、服饰与平台价格竞争。"
-    customs:
-      - "门店排队抢购"
-      - "平台大折扣"
-      - "礼物季采购"
-    consumption:
-      - "电子产品"
-      - "家居家电"
-      - "服饰鞋类"
-      - "礼赠商品"
-    holiday: "非联邦公共假日，但在零售层面是全年最关键的销售节点之一。"
-    business_focus:
-      - "北美价格竞争最集中、最透明的时段之一"
-      - "适合重点跟踪耳机、穿戴、影音与竞品大促动作"
-      - "会直接影响Q4渠道策略、库存周转与广告预算"
+    .focus-card {
+      padding: 20px;
+      border-radius: var(--radius-xl);
+      background:
+        radial-gradient(circle at top right, rgba(17,17,17,0.03) 0%, transparent 36%),
+        linear-gradient(180deg, #ffffff 0%, #fcfcfc 100%);
+      border: 1px solid var(--line-soft);
+      min-height: 100%;
+    }
 
-  cyber-monday:
-    icon: "💻"
-    origin: "网一是黑五后的在线零售核心节点，更偏线上电商与数字化消费场景。"
-    story: "Cyber Monday 进一步放大线上购买行为，对电子产品、平台广告和即时转化能力要求更高。"
-    customs:
-      - "线上抢购"
-      - "限时闪促"
-      - "数字化营销"
-    consumption:
-      - "电子产品"
-      - "在线专属折扣"
-      - "智能硬件"
-      - "数码配件"
-    holiday: "非公共假日，是美国线上零售高峰的重要节点。"
-    business_focus:
-      - "适合观察线上平台的价格、广告和转化效率"
-      - "对消费电子尤其是耳机、穿戴类产品更敏感"
-      - "可与黑五联动看作一整个促销窗口"
+    .focus-title {
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 12px;
+      color: var(--muted);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
 
-  double-12:
-    icon: "🧾"
-    origin: "双12是中国双11之后的重要补充型大促节点，通常承担促销延续、库存消化与年末冲刺功能。"
-    story: "双12的声量通常弱于双11，但对部分品牌和平台来说仍是年末重要的补量窗口。"
-    customs:
-      - "平台折扣延续"
-      - "年末清仓"
-      - "补购需求"
-    consumption:
-      - "日常快消"
-      - "数码尾货"
-      - "礼赠补购"
-      - "居家与小家电"
-    holiday: "非公共假日，为年末重要营销节点。"
-    business_focus:
-      - "适合承接双11后尾量与库存管理"
-      - "更适合促销型、补购型和长尾产品"
-      - "对渠道清货和年末目标冲刺有实际价值"
+    .focus-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .focus-item {
+      display: grid;
+      grid-template-columns: 24px 1fr;
+      gap: 10px;
+      align-items: start;
+      font-size: 15px;
+      line-height: 1.8;
+      color: #1f2937;
+    }
+
+    .focus-index {
+      width: 24px;
+      height: 24px;
+      border-radius: 999px;
+      background: var(--black);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 700;
+      margin-top: 2px;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .section-card {
+      padding: 22px;
+    }
+
+    .section-title {
+      margin: 0 0 14px;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      font-weight: 700;
+    }
+
+    .section-text {
+      font-size: 15px;
+      line-height: 1.9;
+      color: #374151;
+    }
+
+    .list-card {
+      padding: 22px;
+    }
+
+    .list-title {
+      margin: 0 0 14px;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      font-weight: 700;
+    }
+
+    .clean-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .clean-item {
+      display: grid;
+      grid-template-columns: 10px 1fr;
+      gap: 12px;
+      align-items: start;
+      font-size: 15px;
+      line-height: 1.85;
+      color: #1f2937;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--line-soft);
+    }
+
+    .clean-item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: #111111;
+      margin-top: 10px;
+    }
+
+    .wide-card {
+      padding: 22px;
+      margin-bottom: 18px;
+    }
+
+    .holiday-note {
+      font-size: 15px;
+      line-height: 1.9;
+      color: #374151;
+    }
+
+    .footer-note {
+      text-align: center;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 10px;
+    }
+
+    @media (max-width: 1024px) {
+      .hero,
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-title {
+        font-size: 36px;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .page {
+        padding: 18px 14px 40px;
+      }
+
+      .hero,
+      .section-card,
+      .list-card,
+      .wide-card,
+      .focus-card {
+        padding: 18px;
+      }
+
+      .hero-title {
+        font-size: 30px;
+      }
+
+      .hero-title-row {
+        align-items: flex-start;
+      }
+
+      .hero-icon {
+        width: 56px;
+        height: 56px;
+        font-size: 26px;
+      }
+
+      .info-value {
+        font-size: 22px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+
+    <div class="topbar">
+      <a class="back-link" href="index.html">
+        <span>←</span>
+        <span>返回日报首页</span>
+      </a>
+    </div>
+
+    <div class="glass hero">
+      <div class="hero-left">
+        <div>
+          <div class="eyebrow">
+            <span>Festival Brief</span>
+          </div>
+
+          <div class="hero-title-row">
+            <div class="hero-icon">{{ icon }}</div>
+            <h1 class="hero-title">{{ name }}</h1>
+          </div>
+
+          <div class="hero-desc">
+            {{ story or origin }}
+          </div>
+
+          <div class="hero-meta">
+            {% if market %}
+            <div class="meta-pill">
+              <span>
+                {% if market == "CN" %}
+                  中国市场
+                {% elif market == "US" %}
+                  美国市场
+                {% else %}
+                  营销节点
+                {% endif %}
+              </span>
+            </div>
+            {% endif %}
+
+            {% if type %}
+            <div class="meta-pill">
+              <span>
+                {% if type == "traditional" %}
+                  传统节日
+                {% elif type == "holiday" %}
+                  公共节日
+                {% elif type == "campaign" %}
+                  营销节点
+                {% else %}
+                  节点信息
+                {% endif %}
+              </span>
+            </div>
+            {% endif %}
+
+            {% if date %}
+            <div class="meta-pill">
+              <span>{{ date }}</span>
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-right">
+        <div class="info-card">
+          <div class="info-label">Date</div>
+          <div class="info-value">{{ date }}</div>
+        </div>
+
+        <div class="info-card">
+          <div class="info-label">Countdown</div>
+          <div class="info-value">{{ countdown }} 天</div>
+        </div>
+
+        <div class="focus-card">
+          <div class="focus-title">Business Focus</div>
+          <ul class="focus-list">
+            {% if business_focus %}
+              {% for item in business_focus %}
+              <li class="focus-item">
+                <div class="focus-index">{{ loop.index }}</div>
+                <div>{{ item }}</div>
+              </li>
+              {% endfor %}
+            {% else %}
+              <li class="focus-item">
+                <div class="focus-index">1</div>
+                <div>关注该节点对应的消费节奏、平台活动与礼赠需求变化。</div>
+              </li>
+            {% endif %}
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="layout">
+      <div class="card section-card">
+        <h2 class="section-title">节日起源</h2>
+        <div class="section-text">
+          {{ origin }}
+        </div>
+      </div>
+
+      <div class="card section-card">
+        <h2 class="section-title">节日故事</h2>
+        <div class="section-text">
+          {{ story }}
+        </div>
+      </div>
+    </div>
+
+    <div class="layout">
+      <div class="card list-card">
+        <h2 class="list-title">传统习俗 / 典型活动</h2>
+        <ul class="clean-list">
+          {% if customs %}
+            {% for item in customs %}
+            <li class="clean-item">
+              <div class="dot"></div>
+              <div>{{ item }}</div>
+            </li>
+            {% endfor %}
+          {% else %}
+            <li class="clean-item">
+              <div class="dot"></div>
+              <div>该节点通常会带动节庆活动、礼赠或主题消费。</div>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="card list-card">
+        <h2 class="list-title">消费特征</h2>
+        <ul class="clean-list">
+          {% if consumption %}
+            {% for item in consumption %}
+            <li class="clean-item">
+              <div class="dot"></div>
+              <div>{{ item }}</div>
+            </li>
+            {% endfor %}
+          {% else %}
+            <li class="clean-item">
+              <div class="dot"></div>
+              <div>该节点通常伴随礼赠、平台活动或零售流量波动。</div>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="card wide-card">
+      <h2 class="section-title">放假 / 节奏说明</h2>
+      <div class="holiday-note">
+        {{ holiday }}
+      </div>
+    </div>
+
+    <div class="footer-note">
+      Festival Detail Page · Daily Intelligence Brief
+    </div>
+
+  </div>
+</body>
+</html>

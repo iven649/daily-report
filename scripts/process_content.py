@@ -101,6 +101,54 @@ def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
         result[s["name"]] = s.get("priority", 0)
     return result
 
+def generate_takeaways(consumer_news: List[Dict[str, Any]], channel_news: List[Dict[str, Any]]) -> List[str]:
+    consumer_titles = [x.get("title", "") for x in consumer_news[:5] if x.get("title")]
+    channel_titles = [x.get("title", "") for x in channel_news[:5] if x.get("title")]
+
+    prompt = f"""你是消费电子行业分析师，请基于以下新闻生成 3 条「今日重点」。
+
+要求：
+1. 中文
+2. 每条 18-28 字左右
+3. 不是简单复述标题，而是提炼方向和判断
+4. 适合出现在部门日报首页
+5. 只输出 3 行，不要加解释
+
+【今日热点】
+{consumer_titles}
+
+【渠道新闻】
+{channel_titles}
+"""
+
+    fallback = [
+        "关注消费电子硬件与音频新品动态",
+        "关注渠道侧平台与零售变化信号",
+        "优先跟进可转化为销售动作的信息",
+    ]
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "你是一个资深消费电子行业编辑，擅长写部门日报总结。"},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.4,
+        )
+
+        text = response.choices[0].message.content.strip()
+        lines = [line.strip(" -•1234567890.、") for line in text.splitlines() if line.strip()]
+        lines = [x for x in lines if x]
+
+        if len(lines) >= 3:
+            return lines[:3]
+
+        return fallback
+
+    except Exception as e:
+        print(f"[WARN] 今日重点生成失败: {e}")
+        return fallback
 
 def main():
     news = load_json("data/raw/news.json", {})

@@ -478,6 +478,59 @@
   </div>
 
   <!-- 天气 -->
+  <div class="two-col">
+    <div class="card section">
+      <h2 class="section-title">🌤️ 中国天气</h2>
+
+      <div class="weather-search-wrap">
+        <input
+          id="cn-city-input"
+          class="weather-search-input"
+          type="text"
+          placeholder="搜索中国城市"
+          autocomplete="off"
+        />
+        <div id="cn-city-dropdown" class="weather-dropdown"></div>
+      </div>
+
+      <div class="weather-current-card">
+        <div id="cn-weather-icon" class="weather-current-icon">☀️</div>
+        <div class="weather-current-main">
+          <div id="cn-weather-city" class="weather-current-city">深圳</div>
+          <div id="cn-weather-temp" class="weather-current-temp">加载中...</div>
+          <div id="cn-weather-desc" class="weather-current-desc"></div>
+        </div>
+      </div>
+
+      <div id="cn-weather-forecast" class="weather-forecast-grid"></div>
+    </div>
+
+    <div class="card section">
+      <h2 class="section-title">🌤️ 美国天气</h2>
+
+      <div class="weather-search-wrap">
+        <input
+          id="us-city-input"
+          class="weather-search-input"
+          type="text"
+          placeholder="Search US city"
+          autocomplete="off"
+        />
+        <div id="us-city-dropdown" class="weather-dropdown"></div>
+      </div>
+
+      <div class="weather-current-card">
+        <div id="us-weather-icon" class="weather-current-icon">☀️</div>
+        <div class="weather-current-main">
+          <div id="us-weather-city" class="weather-current-city">Los Angeles</div>
+          <div id="us-weather-temp" class="weather-current-temp">Loading...</div>
+          <div id="us-weather-desc" class="weather-current-desc"></div>
+        </div>
+      </div>
+
+      <div id="us-weather-forecast" class="weather-forecast-grid"></div>
+    </div>
+  </div>
 
   <!-- 时区 -->
   <div class="card timezone-card">

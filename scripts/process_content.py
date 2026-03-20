@@ -2,11 +2,11 @@ from __future__ import annotations
 
 import os
 from datetime import date
-from typing import List, Dict, Any
+from typing import Any, Dict, List
 
 from openai import OpenAI
-from common import load_json, dump_json, load_yaml
 
+from common import dump_json, load_json, load_yaml
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
@@ -29,7 +29,7 @@ def ai_generate(prompt: str, fallback: str, max_len: int = 40) -> str:
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "你是一个资深科技媒体编辑"},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": prompt},
             ],
             temperature=0.3,
         )
@@ -67,7 +67,12 @@ def simplify_summary(summary: str) -> str:
     return ai_generate(prompt, summary, 40)
 
 
-def score_item(item: Dict[str, Any], bucket: str, source_priority: Dict[str, int], keyword_conf: Dict[str, Any]) -> int:
+def score_item(
+    item: Dict[str, Any],
+    bucket: str,
+    source_priority: Dict[str, int],
+    keyword_conf: Dict[str, Any],
+) -> int:
     title = (item.get("title") or item.get("name") or "").lower()
     source = item.get("source", "")
     score = 0
@@ -99,27 +104,25 @@ def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
     return result
 
 
-def generate_takeaways(consumer, channel, products):
-    try:
-        consumer_titles = [x.get("display_title") or x.get("title") for x in consumer[:6]]
-        channel_titles = [x.get("display_title") or x.get("title") for x in channel[:6]]
-        product_titles = [x.get("display_title") or x.get("name") for x in products[:6]]
+def generate_takeaways(
+    consumer_news: List[Dict[str, Any]],
+    channel_news: List[Dict[str, Any]],
+    products: List[Dict[str, Any]],
+) -> List[str]:
+    consumer_titles = [x.get("display_title") or x.get("title", "") for x in consumer_news[:6]]
+    channel_titles = [x.get("display_title") or x.get("title", "") for x in channel_news[:6]]
+    product_titles = [x.get("display_title") or x.get("name", "") for x in products[:6]]
 
-        prompt = f"""
-你是消费电子行业分析师，请基于以下信息生成【今日重点】。
+    prompt = f"""你是消费电子行业分析师，请基于以下信息生成【今日重点】。
 
 要求：
 1. 输出3-5条
 2. 每条一句话
-3. 必须有“判断”（不是复述）
+3. 必须有“判断”，不是简单复述标题
 4. 用中文
-5. 每条 ≤ 30字
-6. 风格：像内部业务简报
-
-重点关注：
-- 耳机 / 音频（最高优先级）
-- 渠道变化（平台/零售）
-- 新品趋势
+5. 每条控制在30字以内
+6. 风格像内部业务简报
+7. 优先关注耳机/音频、渠道变化、新品趋势
 
 今日热点：
 {consumer_titles}
@@ -131,77 +134,108 @@ def generate_takeaways(consumer, channel, products):
 {product_titles}
 """
 
-        resp = client.chat.completions.create(
+    fallback = [
+        "音频与消费电子新品仍是今日关注重点",
+        "渠道侧更值得关注平台与零售动态变化",
+        "建议优先跟进可转化为销售动作的信息",
+    ]
+
+    try:
+        response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "你是资深消费电子行业分析师"},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": prompt},
             ],
             temperature=0.4,
         )
 
-        text = resp.choices[0].message.content.strip()
-
+        text = response.choices[0].message.content.strip()
         lines = [
-            x.strip("•-1234567890. ")
-            for x in text.split("\n")
+            x.strip().lstrip("-•").lstrip("1234567890.、").strip()
+            for x in text.splitlines()
             if x.strip()
         ]
 
-        return lines[:5]
+        lines = [x for x in lines if x]
+        return lines[:5] if lines else fallback
 
     except Exception as e:
-        print("[WARN] 今日重点生成失败", e)
-        return []
+        print(f"[WARN] 今日重点生成失败: {e}")
+        return fallback
+
 
 def detect_tags(text: str, bucket: str = "") -> List[str]:
     t = (text or "").lower()
     tags: List[str] = []
 
     tag_rules = [
-        ("🎧 耳机音频", [
-            "headphones", "earbuds", "earbud", "headset", "speaker",
-            "audio", "anc", "noise cancelling", "open-ear", "open ear",
-            "bone conduction", "bose", "beats", "soundcore", "jbl",
-            "sennheiser", "shokz", "sony wf", "sony wh", "airpods"
-        ]),
-        ("🏃 穿戴运动", [
-            "garmin", "smartwatch", "wearable", "fitness tracker",
-            "running watch", "health", "sports watch", "watch"
-        ]),
-        ("🚁 无人机影像", [
-            "drone", "dji", "gopro", "insta360", "osmo",
-            "action camera", "camera"
-        ]),
-        ("🛒 渠道零售", [
-            "retail", "retailer", "store", "distribution", "channel",
-            "merchant", "sell-through", "sell in"
-        ]),
-        ("🏬 平台电商", [
-            "amazon", "walmart", "best buy", "target", "costco",
-            "tiktok shop", "e-commerce", "ecommerce", "marketplace",
-            "platform"
-        ]),
-        ("🚀 新品发布", [
-            "launch", "launches", "launched", "release", "released",
-            "announces", "announced", "unveil", "unveiled", "debut",
-            "debuts", "new model", "available"
-        ]),
-        ("👔 高管组织", [
-            "ceo", "cmo", "executive", "president", "leadership",
-            "appoints", "appointed", "organization", "restructure"
-        ]),
-        ("💰 价格促销", [
-            "price", "pricing", "discount", "sale", "promotion",
-            "deal", "markdown", "coupon"
-        ]),
+        (
+            "🎧 耳机音频",
+            [
+                "headphones", "earbuds", "earbud", "headset", "speaker",
+                "audio", "anc", "noise cancelling", "open-ear", "open ear",
+                "bone conduction", "bose", "beats", "soundcore", "jbl",
+                "sennheiser", "shokz", "sony wf", "sony wh", "airpods",
+            ],
+        ),
+        (
+            "🏃 穿戴运动",
+            [
+                "garmin", "smartwatch", "wearable", "fitness tracker",
+                "running watch", "health", "sports watch", "watch",
+            ],
+        ),
+        (
+            "🚁 无人机影像",
+            [
+                "drone", "dji", "gopro", "insta360", "osmo",
+                "action camera", "camera",
+            ],
+        ),
+        (
+            "🛒 渠道零售",
+            [
+                "retail", "retailer", "store", "distribution", "channel",
+                "merchant", "sell-through", "sell in",
+            ],
+        ),
+        (
+            "🏬 平台电商",
+            [
+                "amazon", "walmart", "best buy", "target", "costco",
+                "tiktok shop", "e-commerce", "ecommerce", "marketplace",
+                "platform",
+            ],
+        ),
+        (
+            "🚀 新品发布",
+            [
+                "launch", "launches", "launched", "release", "released",
+                "announces", "announced", "unveil", "unveiled", "debut",
+                "debuts", "new model", "available",
+            ],
+        ),
+        (
+            "👔 高管组织",
+            [
+                "ceo", "cmo", "executive", "president", "leadership",
+                "appoints", "appointed", "organization", "restructure",
+            ],
+        ),
+        (
+            "💰 价格促销",
+            [
+                "price", "pricing", "discount", "sale", "promotion",
+                "deal", "markdown", "coupon",
+            ],
+        ),
     ]
 
     for tag, keywords in tag_rules:
         if any(kw in t for kw in keywords):
             tags.append(tag)
 
-    # 按模块兜底补一个标签
     if not tags and bucket == "consumer_electronics":
         tags.append("📱 消费电子")
     if not tags and bucket == "channel_news":
@@ -213,19 +247,22 @@ def detect_tags(text: str, bucket: str = "") -> List[str]:
 
 
 def build_tag_text(item: Dict[str, Any], bucket: str = "") -> List[str]:
-    text = " ".join([
-        item.get("title", "") or item.get("name", ""),
-        item.get("summary", ""),
-        item.get("source", "")
-    ])
+    text = " ".join(
+        [
+            item.get("title", "") or item.get("name", ""),
+            item.get("summary", ""),
+            item.get("source", ""),
+        ]
+    )
     return detect_tags(text, bucket)
 
-def main():
+
+def main() -> None:
     news = load_json("data/raw/news.json", {})
     products = load_json("data/raw/products.json", {"products": []})
     festivals = load_json(
         "data/processed/festivals.json",
-        {"festival_cards": [], "festival_pages": []}
+        {"festival_cards": [], "festival_pages": []},
     )
     config = load_yaml("config/news_sources.yaml")
 
@@ -245,7 +282,7 @@ def main():
             x,
             "consumer_electronics",
             consumer_source_priority,
-            keyword_conf
+            keyword_conf,
         )
         x["display_title"] = simplify_title(x.get("title", ""))
         x["tags"] = build_tag_text(x, "consumer_electronics")
@@ -257,7 +294,7 @@ def main():
             x,
             "channel_news",
             channel_source_priority,
-            keyword_conf
+            keyword_conf,
         )
         x["display_title"] = simplify_title(x.get("title", ""))
         x["tags"] = build_tag_text(x, "channel_news")

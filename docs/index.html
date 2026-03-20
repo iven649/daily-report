@@ -9,12 +9,18 @@
       --bg: #f5f5f7;
       --card: #ffffff;
       --text: #111111;
-      --muted: #6b7280;
-      --line: #ececec;
-      --shadow: 0 6px 24px rgba(17, 17, 17, 0.05);
-      --radius: 20px;
-      --link: #2563eb;
-      --badge: #111111;
+      --muted: #6e6e73;
+      --muted-2: #8e8e93;
+      --line: #e8e8ed;
+      --shadow: 0 10px 30px rgba(15, 23, 42, 0.04);
+      --radius-xl: 24px;
+      --radius-lg: 20px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+      --link: #1d1d1f;
+      --link-hover: #4b5563;
+      --surface: #fafafa;
+      --surface-2: #f7f7f8;
     }
 
     * {
@@ -26,278 +32,136 @@
       padding: 0;
       background: var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC",
-        "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI",
+        "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
       -webkit-font-smoothing: antialiased;
       text-rendering: optimizeLegibility;
     }
 
     a {
-      color: var(--link);
+      color: inherit;
       text-decoration: none;
     }
 
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .container {
+    .page {
       max-width: 1180px;
       margin: 0 auto;
-      padding: 28px 20px 56px;
+      padding: 28px 20px 52px;
     }
 
     .card {
       background: var(--card);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
       border: 1px solid rgba(17, 17, 17, 0.04);
+      box-shadow: var(--shadow);
+      border-radius: var(--radius-xl);
     }
 
     .hero {
       display: flex;
-      justify-content: space-between;
       align-items: flex-start;
-      gap: 20px;
-      padding: 22px 24px;
+      justify-content: space-between;
+      gap: 24px;
+      padding: 26px 28px;
       margin-bottom: 18px;
     }
 
     .hero-title {
       margin: 0;
-      font-size: 24px;
+      font-size: 32px;
+      line-height: 1.05;
+      letter-spacing: -0.04em;
       font-weight: 700;
-      letter-spacing: -0.02em;
     }
 
     .hero-date {
-      margin-top: 6px;
+      margin-top: 10px;
       color: var(--muted);
       font-size: 15px;
+      font-weight: 500;
     }
 
-    .badges {
+    .festival-badges {
       display: flex;
-      gap: 12px;
       flex-wrap: wrap;
+      gap: 12px;
       justify-content: flex-end;
     }
 
-    .badge {
+    .festival-badge {
       display: inline-flex;
       align-items: center;
       gap: 8px;
       padding: 10px 14px;
-      border-radius: 14px;
-      background: var(--badge);
-      color: #fff;
+      border-radius: 999px;
+      background: #111111;
+      color: #ffffff;
       font-size: 14px;
       font-weight: 600;
-      text-decoration: none;
       white-space: nowrap;
+      transition: transform 0.15s ease, opacity 0.15s ease;
     }
 
-    .badge:hover {
-      text-decoration: none;
-      opacity: 0.92;
-    }
-
-    .two-col {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 18px;
-      margin-bottom: 18px;
-    }
-
-    .section {
-      padding: 22px 20px 20px;
-    }
-
-    .section-title {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      margin: 0 0 18px;
-      font-size: 16px;
-      font-weight: 700;
-      letter-spacing: -0.01em;
-    }
-
-    .weather-search-wrap {
-      position: relative;
-      margin-bottom: 16px;
-    }
-
-    .weather-search-input {
-      width: 100%;
-      height: 46px;
-      border: 1px solid var(--line);
-      background: #fafafa;
-      border-radius: 14px;
-      padding: 0 14px;
-      font-size: 14px;
-      color: var(--text);
-      outline: none;
-      transition: all 0.2s ease;
-    }
-
-    .weather-search-input:focus {
-      border-color: #d4d4d8;
-      background: #fff;
-      box-shadow: 0 0 0 4px rgba(17, 17, 17, 0.03);
-    }
-
-    .weather-dropdown {
-      position: absolute;
-      top: 52px;
-      left: 0;
-      right: 0;
-      background: #fff;
-      border: 1px solid var(--line);
-      border-radius: 14px;
-      box-shadow: 0 10px 30px rgba(17, 17, 17, 0.08);
-      overflow: hidden;
-      z-index: 20;
-      display: none;
-      max-height: 240px;
-      overflow-y: auto;
-    }
-
-    .weather-dropdown.show {
-      display: block;
-    }
-
-    .weather-dropdown-item {
-      padding: 12px 14px;
-      font-size: 14px;
-      cursor: pointer;
-      color: var(--text);
-      background: #fff;
-      transition: background 0.15s ease;
-    }
-
-    .weather-dropdown-item:hover {
-      background: #f7f7f8;
-    }
-
-    .weather-current-card {
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
-      border: 1px solid var(--line);
-      border-radius: 18px;
-      padding: 18px 16px;
-      margin-bottom: 14px;
-    }
-
-    .weather-current-icon {
-      width: 56px;
-      height: 56px;
-      border-radius: 16px;
-      background: #f7f7f8;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 28px;
-      border: 1px solid var(--line);
-      flex-shrink: 0;
-    }
-
-    .weather-current-main {
-      min-width: 0;
-      flex: 1;
-    }
-
-    .weather-current-city {
-      font-size: 17px;
-      font-weight: 700;
-      margin-bottom: 4px;
-      letter-spacing: -0.01em;
-    }
-
-    .weather-current-temp {
-      font-size: 24px;
-      font-weight: 700;
-      line-height: 1.2;
-      margin-bottom: 4px;
-    }
-
-    .weather-current-desc {
-      font-size: 13px;
-      color: var(--muted);
-      line-height: 1.5;
-    }
-
-    .weather-forecast-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
-    }
-
-    .weather-forecast-item {
-      border: 1px solid var(--line);
-      background: #fafafa;
-      border-radius: 16px;
-      padding: 14px 10px;
-      text-align: center;
-    }
-
-    .weather-forecast-day {
-      font-size: 12px;
-      color: var(--muted);
-      margin-bottom: 8px;
-    }
-
-    .weather-forecast-icon {
-      font-size: 24px;
-      margin-bottom: 8px;
-    }
-
-    .weather-forecast-temp {
-      font-size: 14px;
-      font-weight: 700;
-      margin-bottom: 4px;
-    }
-
-    .weather-forecast-desc {
-      font-size: 12px;
-      color: var(--muted);
-      line-height: 1.4;
+    .festival-badge:hover {
+      transform: translateY(-1px);
+      opacity: 0.94;
     }
 
     .timezone-card {
-      padding: 22px 20px 20px;
+      padding: 24px 24px 22px;
       margin-bottom: 18px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .section-title {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      font-weight: 700;
+    }
+
+    .section-note {
+      color: var(--muted-2);
+      font-size: 13px;
     }
 
     .timezone-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 14px 18px;
-      margin-top: 8px;
+      gap: 14px;
     }
 
     .timezone-item {
-      padding: 12px 14px;
-      border-radius: 14px;
-      background: #fafafa;
+      background: var(--surface);
       border: 1px solid var(--line);
+      border-radius: var(--radius-md);
+      padding: 14px 14px 12px;
+      min-height: 84px;
     }
 
-    .timezone-name {
-      color: var(--muted);
+    .timezone-label {
       font-size: 12px;
-      margin-bottom: 6px;
+      color: var(--muted);
+      margin-bottom: 10px;
+      font-weight: 500;
     }
 
-    .timezone-time {
-      font-size: 18px;
+    .timezone-value {
+      font-size: 28px;
+      line-height: 1;
+      letter-spacing: -0.04em;
       font-weight: 700;
-      letter-spacing: -0.02em;
+      color: var(--text);
     }
 
-    .news-wrap {
+    .news-layout {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 18px;
@@ -305,18 +169,17 @@
     }
 
     .news-card {
-      padding: 22px 20px 10px;
-      min-height: 420px;
+      padding: 24px 24px 8px;
+      min-height: 460px;
     }
 
     .news-list {
       display: flex;
       flex-direction: column;
-      gap: 0;
     }
 
     .news-item {
-      padding: 14px 0;
+      padding: 16px 0;
       border-bottom: 1px solid var(--line);
     }
 
@@ -326,20 +189,32 @@
 
     .news-title {
       display: inline-block;
-      font-size: 16px;
+      font-size: 17px;
       line-height: 1.45;
+      letter-spacing: -0.01em;
       font-weight: 600;
-      color: #1d4ed8;
-      margin-bottom: 6px;
+      color: var(--link);
+      transition: color 0.15s ease;
+      margin-bottom: 8px;
     }
 
-    .news-source {
-      color: var(--muted);
+    .news-title:hover {
+      color: var(--link-hover);
+    }
+
+    .news-meta {
       font-size: 13px;
+      color: var(--muted);
+    }
+
+    .empty-text {
+      color: var(--muted);
+      font-size: 14px;
+      padding: 12px 0 18px;
     }
 
     .products-card {
-      padding: 22px 20px 20px;
+      padding: 24px;
     }
 
     .products-grid {
@@ -349,60 +224,61 @@
     }
 
     .product-card {
-      border: 1px solid var(--line);
-      border-radius: 18px;
-      padding: 18px 16px;
-      background: linear-gradient(180deg, #ffffff 0%, #fcfcfc 100%);
-      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
-      min-height: 240px;
       display: flex;
       flex-direction: column;
+      min-height: 248px;
+      padding: 18px 18px 16px;
+      border-radius: var(--radius-lg);
+      background: linear-gradient(180deg, #ffffff 0%, #fbfbfc 100%);
+      border: 1px solid var(--line);
+      transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
     }
 
     .product-card:hover {
       transform: translateY(-2px);
-      box-shadow: 0 10px 28px rgba(17, 17, 17, 0.06);
-      border-color: #e5e7eb;
+      box-shadow: 0 14px 30px rgba(15, 23, 42, 0.05);
+      border-color: #e3e3e8;
     }
 
     .product-title {
       font-size: 18px;
+      line-height: 1.42;
+      letter-spacing: -0.02em;
       font-weight: 700;
-      line-height: 1.4;
-      letter-spacing: -0.01em;
-      margin-bottom: 8px;
+      margin-bottom: 10px;
       color: var(--text);
     }
 
     .product-meta {
-      color: var(--muted);
       font-size: 13px;
+      color: var(--muted);
       margin-bottom: 14px;
     }
 
     .product-summary {
-      color: #374151;
-      font-size: 14px;
-      line-height: 1.65;
       flex: 1;
+      font-size: 14px;
+      line-height: 1.68;
+      color: #3f3f46;
       margin-bottom: 18px;
     }
 
     .product-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
       font-size: 14px;
       font-weight: 600;
-      align-self: flex-start;
+      color: var(--link);
+      transition: color 0.15s ease;
     }
 
-    .empty-text {
-      color: var(--muted);
-      font-size: 14px;
-      padding: 10px 0 14px;
+    .product-link:hover {
+      color: var(--link-hover);
     }
 
     @media (max-width: 980px) {
-      .two-col,
-      .news-wrap,
+      .news-layout,
       .products-grid {
         grid-template-columns: 1fr;
       }
@@ -416,7 +292,7 @@
         align-items: flex-start;
       }
 
-      .badges {
+      .festival-badges {
         justify-content: flex-start;
       }
 
@@ -426,674 +302,408 @@
     }
 
     @media (max-width: 640px) {
-      .container {
+      .page {
         padding: 18px 14px 40px;
       }
 
       .hero,
-      .section,
       .timezone-card,
       .news-card,
       .products-card {
-        padding-left: 16px;
-        padding-right: 16px;
-      }
-      .weather-current-card {
-        padding: 16px 14px;
-      }
-
-      .weather-forecast-grid {
-        grid-template-columns: 1fr;
+        padding-left: 18px;
+        padding-right: 18px;
       }
 
       .hero-title {
-        font-size: 22px;
+        font-size: 28px;
       }
 
       .timezone-grid {
         grid-template-columns: 1fr;
       }
 
-      .product-title {
-        font-size: 17px;
+      .timezone-value {
+        font-size: 24px;
       }
 
       .news-title {
-        font-size: 15px;
+        font-size: 16px;
+      }
+
+      .product-title {
+        font-size: 17px;
       }
     }
   </style>
 </head>
 <body>
-<div class="container">
+  <div class="page">
 
-  <!-- 顶部 -->
-  <div class="card hero">
-    <div>
-      <h1 class="hero-title">分销日报</h1>
-      <div class="hero-date">2026-03-20</div>
-    </div>
-
-    <div class="badges">
-      
-      <a class="badge" href="qingming.html">
-        <span>🪴</span>
-        <span>清明节 15天</span>
-      </a>
-      
-      <a class="badge" href="easter.html">
-        <span>🐰</span>
-        <span>复活节 16天</span>
-      </a>
-      
-    </div>
-  </div>
-
-  <!-- 天气 -->
-  <div class="two-col">
-    <div class="card section">
-      <h2 class="section-title">🌤️ 中国天气</h2>
-
-      <div class="weather-search-wrap">
-        <input
-          id="cn-city-input"
-          class="weather-search-input"
-          type="text"
-          placeholder="搜索中国城市"
-          autocomplete="off"
-        />
-        <div id="cn-city-dropdown" class="weather-dropdown"></div>
+    <!-- 顶部 -->
+    <div class="card hero">
+      <div>
+        <h1 class="hero-title">分销日报</h1>
+        <div class="hero-date">2026-03-20</div>
       </div>
 
-      <div class="weather-current-card">
-        <div id="cn-weather-icon" class="weather-current-icon">☀️</div>
-        <div class="weather-current-main">
-          <div id="cn-weather-city" class="weather-current-city">深圳</div>
-          <div id="cn-weather-temp" class="weather-current-temp">加载中...</div>
-          <div id="cn-weather-desc" class="weather-current-desc"></div>
+      <div class="festival-badges">
+        
+        <a class="festival-badge" href="qingming.html">
+          <span>🪴</span>
+          <span>清明节 15天</span>
+        </a>
+        
+        <a class="festival-badge" href="easter.html">
+          <span>🐰</span>
+          <span>复活节 16天</span>
+        </a>
+        
+      </div>
+    </div>
+
+    <!-- 美国时区 -->
+    <div class="card timezone-card">
+      <div class="section-header">
+        <h2 class="section-title">🕐 美国时区</h2>
+        <div class="section-note">每分钟自动刷新</div>
+      </div>
+
+      <div class="timezone-grid">
+        <div class="timezone-item">
+          <div class="timezone-label">东部 EST</div>
+          <div id="tz-east" class="timezone-value">--:--</div>
+        </div>
+        <div class="timezone-item">
+          <div class="timezone-label">中部 CST</div>
+          <div id="tz-central" class="timezone-value">--:--</div>
+        </div>
+        <div class="timezone-item">
+          <div class="timezone-label">山地 MST</div>
+          <div id="tz-mountain" class="timezone-value">--:--</div>
+        </div>
+        <div class="timezone-item">
+          <div class="timezone-label">太平洋 PST</div>
+          <div id="tz-pacific" class="timezone-value">--:--</div>
+        </div>
+        <div class="timezone-item">
+          <div class="timezone-label">阿拉斯加 AKST</div>
+          <div id="tz-alaska" class="timezone-value">--:--</div>
+        </div>
+        <div class="timezone-item">
+          <div class="timezone-label">夏威夷 HST</div>
+          <div id="tz-hawaii" class="timezone-value">--:--</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 新闻 -->
+    <div class="news-layout">
+      <div class="card news-card">
+        <div class="section-header">
+          <h2 class="section-title">📰 今日热点</h2>
+        </div>
+
+        <div class="news-list">
+          
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.androidauthority.com/oneplus-watch-4-leaked-specs-3650635/" target="_blank" rel="noreferrer">
+                新款安卓智能手表或成电池之王
+              </a>
+              <div class="news-meta">Android Authority</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank" rel="noreferrer">
+                索尼WF-1000XM6耳机降价30美元
+              </a>
+              <div class="news-meta">The Verge</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.androidauthority.com/samsung-galaxy-watch-8-classic-deal-4-3650559/" target="_blank" rel="noreferrer">
+                三星最美智能手表降价48%！
+              </a>
+              <div class="news-meta">Android Authority</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/" target="_blank" rel="noreferrer">
+                谷歌推出安全侧载安卓应用新方式
+              </a>
+              <div class="news-meta">TechCrunch</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.androidauthority.com/android-canary-2603-release-3650531/" target="_blank" rel="noreferrer">
+                Android三月Canary更新上线，
+              </a>
+              <div class="news-meta">Android Authority</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally" target="_blank" rel="noreferrer">
+                SteamOS 3.8更新：新增功能支持
+              </a>
+              <div class="news-meta">The Verge</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.androidauthority.com/thomson-google-tv-streamer-rival-3650599/" target="_blank" rel="noreferrer">
+                新款Google TV竞争者：进步与挑战
+              </a>
+              <div class="news-meta">Android Authority</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.androidauthority.com/android-sideloading-24-hours-adb-3650540/" target="_blank" rel="noreferrer">
+                教你绕过安卓24小时侧载延迟
+              </a>
+              <div class="news-meta">Android Authority</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.androidauthority.com/google-tv-streamer-deal-13-3649065/" target="_blank" rel="noreferrer">
+                谷歌电视流媒体设备现仅售79.99美元！
+              </a>
+              <div class="news-meta">Android Authority</div>
+            </div>
+            
+          
         </div>
       </div>
 
-      <div id="cn-weather-forecast" class="weather-forecast-grid"></div>
-    </div>
+      <div class="card news-card">
+        <div class="section-header">
+          <h2 class="section-title">🛒 渠道新闻</h2>
+        </div>
 
-    <div class="card section">
-      <h2 class="section-title">🌤️ 美国天气</h2>
-
-      <div class="weather-search-wrap">
-        <input
-          id="us-city-input"
-          class="weather-search-input"
-          type="text"
-          placeholder="Search US city"
-          autocomplete="off"
-        />
-        <div id="us-city-dropdown" class="weather-dropdown"></div>
-      </div>
-
-      <div class="weather-current-card">
-        <div id="us-weather-icon" class="weather-current-icon">☀️</div>
-        <div class="weather-current-main">
-          <div id="us-weather-city" class="weather-current-city">Los Angeles</div>
-          <div id="us-weather-temp" class="weather-current-temp">Loading...</div>
-          <div id="us-weather-desc" class="weather-current-desc"></div>
+        <div class="news-list">
+          
+            
+            <div class="news-item">
+              <a class="news-title" href="https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/" target="_blank" rel="noreferrer">
+                L.L.Bean任命Greg Elder
+              </a>
+              <div class="news-meta">RetailWire</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank" rel="noreferrer">
+                宜家与百思买在佛州德州试点店中店
+              </a>
+              <div class="news-meta">RetailWire</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank" rel="noreferrer">
+                塔吉特首席技术官助力零售转型
+              </a>
+              <div class="news-meta">RetailWire</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank" rel="noreferrer">
+                沃尔玛新任CEO：约翰·弗纳接任麦克米伦
+              </a>
+              <div class="news-meta">RetailWire</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://retailwire.com/top-10-retail-tech-at-etail-west-2026/" target="_blank" rel="noreferrer">
+                2026 eTail West十大零售科
+              </a>
+              <div class="news-meta">RetailWire</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/" target="_blank" rel="noreferrer">
+                Firehouse Subs任命Caro
+              </a>
+              <div class="news-meta">RetailWire</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3" target="_blank" rel="noreferrer">
+                Snowflake进行裁员，调整公司战略
+              </a>
+              <div class="news-meta">Business Insider</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/" target="_blank" rel="noreferrer">
+                美国铸币局停产一分币，州立法者拟定舍入规
+              </a>
+              <div class="news-meta">RetailWire</div>
+            </div>
+            
+            <div class="news-item">
+              <a class="news-title" href="https://retailwire.com/starbucks-red-cup-rebellion/" target="_blank" rel="noreferrer">
+                星巴克“红杯日”引发抗议，政客加入抵制
+              </a>
+              <div class="news-meta">RetailWire</div>
+            </div>
+            
+          
         </div>
       </div>
-
-      <div id="us-weather-forecast" class="weather-forecast-grid"></div>
     </div>
-  </div>
 
-  <!-- 时区 -->
-  <div class="card timezone-card">
-    <h2 class="section-title">🕐 美国时区</h2>
-    <div class="timezone-grid">
-      <div class="timezone-item">
-        <div class="timezone-name">东部 EST</div>
-        <div id="tz-east" class="timezone-time"></div>
+    <!-- 新品速递 -->
+    <div class="card products-card">
+      <div class="section-header">
+        <h2 class="section-title">🚀 新品速递</h2>
       </div>
-      <div class="timezone-item">
-        <div class="timezone-name">中部 CST</div>
-        <div id="tz-central" class="timezone-time"></div>
-      </div>
-      <div class="timezone-item">
-        <div class="timezone-name">山地 MST</div>
-        <div id="tz-mountain" class="timezone-time"></div>
-      </div>
-      <div class="timezone-item">
-        <div class="timezone-name">太平洋 PST</div>
-        <div id="tz-pacific" class="timezone-time"></div>
-      </div>
-      <div class="timezone-item">
-        <div class="timezone-name">阿拉斯加 AKST</div>
-        <div id="tz-alaska" class="timezone-time"></div>
-      </div>
-      <div class="timezone-item">
-        <div class="timezone-name">夏威夷 HST</div>
-        <div id="tz-hawaii" class="timezone-time"></div>
-      </div>
-    </div>
-  </div>
 
-  <!-- 新闻 -->
-  <div class="news-wrap">
-    <div class="card news-card">
-      <h2 class="section-title">📰 今日热点</h2>
-      <div class="news-list">
+      <div class="products-grid">
         
           
-          <div class="news-item">
-            <a class="news-title" href="https://www.androidauthority.com/oneplus-watch-4-leaked-specs-3650635/" target="_blank">
-              新款安卓智能手表或成电池之王
-            </a>
-            <div class="news-source">Android Authority</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank">
+          <div class="product-card">
+            <div class="product-title">
               索尼WF-1000XM6耳机降价30美元
+            </div>
+
+            <div class="product-meta">
+              The Verge Tech · 2026-03-19T17:25:00-04:00
+            </div>
+
+            <div class="product-summary">
+              索尼WF-1000XM6是最佳降噪无线耳塞，但因329美元的高价难以推荐，前代常
+            </div>
+
+            <a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank" rel="noreferrer" class="product-link">
+              <span>查看原文</span>
+              <span>→</span>
             </a>
-            <div class="news-source">The Verge</div>
           </div>
           
-          <div class="news-item">
-            <a class="news-title" href="https://www.androidauthority.com/samsung-galaxy-watch-8-classic-deal-4-3650559/" target="_blank">
-              三星最美智能手表降价48%！
+          <div class="product-card">
+            <div class="product-title">
+              Harlowe推出360度拍摄经济照明方
+            </div>
+
+            <div class="product-meta">
+              The Verge Tech · 2026-03-19T11:30:20-04:00
+            </div>
+
+            <div class="product-summary">
+              Bushman等公司已推出360度全向摄像灯，售价超过300美元，超出DJI和I
+            </div>
+
+            <a href="https://www.theverge.com/tech/897360/harlowe-omni-360-omnidirectional-camera-light" target="_blank" rel="noreferrer" class="product-link">
+              <span>查看原文</span>
+              <span>→</span>
             </a>
-            <div class="news-source">Android Authority</div>
           </div>
           
-          <div class="news-item">
-            <a class="news-title" href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/" target="_blank">
-              谷歌推出新方式安全侧载安卓应用
+          <div class="product-card">
+            <div class="product-title">
+              大疆Mini 4K现已成平价配件
+            </div>
+
+            <div class="product-meta">
+              DroneDJ · Thu, 19 Mar 2026 12:15:54
+            </div>
+
+            <div class="product-summary">
+              大疆Mini 4K无人机，操作简单，适合初学者，是一款易上手的无人机。
+            </div>
+
+            <a href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank" rel="noreferrer" class="product-link">
+              <span>查看原文</span>
+              <span>→</span>
             </a>
-            <div class="news-source">TechCrunch</div>
           </div>
           
-          <div class="news-item">
-            <a class="news-title" href="https://www.androidauthority.com/android-canary-2603-release-3650531/" target="_blank">
-              Android三月Canary更新上线，
+          <div class="product-card">
+            <div class="product-title">
+              299美元避障无人机Skyrover S
+            </div>
+
+            <div class="product-meta">
+              DroneDJ · Sat, 07 Mar 2026 07:52:00
+            </div>
+
+            <div class="product-summary">
+              一款售价低于300美元的无人机，具备DJI级别的功能，听起来令人难以置信。
+            </div>
+
+            <a href="https://dronedj.com/2026/03/06/skyrover-s1-drone-obstacle-avoidance/" target="_blank" rel="noreferrer" class="product-link">
+              <span>查看原文</span>
+              <span>→</span>
             </a>
-            <div class="news-source">Android Authority</div>
           </div>
           
-          <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally" target="_blank">
-              SteamOS 3.8更新：新增功能支持
+          <div class="product-card">
+            <div class="product-title">
+              大疆新款无人机公布发布日期
+            </div>
+
+            <div class="product-meta">
+              DroneDJ · Wed, 11 Mar 2026 11:56:58
+            </div>
+
+            <div class="product-summary">
+              大疆发布神秘短片，预告新款无人机即将推出，引发广泛关注。
+            </div>
+
+            <a href="https://dronedj.com/2026/03/11/dji-avata-360-drone-launch/" target="_blank" rel="noreferrer" class="product-link">
+              <span>查看原文</span>
+              <span>→</span>
             </a>
-            <div class="news-source">The Verge</div>
           </div>
           
-          <div class="news-item">
-            <a class="news-title" href="https://www.androidauthority.com/thomson-google-tv-streamer-rival-3650599/" target="_blank">
-              新款Google TV竞争者：进步与挑战
+          <div class="product-card">
+            <div class="product-title">
+              谷歌推安卓侧载新规：强制等待期
+            </div>
+
+            <div class="product-meta">
+              The Verge Tech · 2026-03-19T13:00:33-04:00
+            </div>
+
+            <div class="product-summary">
+              谷歌将推出强制开发者验证，届时安装某些Android应用需遵循“高级流程”。
+            </div>
+
+            <a href="https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process" target="_blank" rel="noreferrer" class="product-link">
+              <span>查看原文</span>
+              <span>→</span>
             </a>
-            <div class="news-source">Android Authority</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.androidauthority.com/android-sideloading-24-hours-adb-3650540/" target="_blank">
-              教你绕过Android 24小时侧载延迟
-            </a>
-            <div class="news-source">Android Authority</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.androidauthority.com/google-tv-streamer-deal-13-3649065/" target="_blank">
-              谷歌电视流媒体设备仅售79.99美元！
-            </a>
-            <div class="news-source">Android Authority</div>
           </div>
           
         
       </div>
     </div>
 
-    <div class="card news-card">
-      <h2 class="section-title">🛒 渠道新闻</h2>
-      <div class="news-list">
-        
-          
-          <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/" target="_blank">
-              L.L.Bean任命Greg Elder
-            </a>
-            <div class="news-source">RetailWire</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">
-              宜家与百思买在佛州德州试点店中店合作
-            </a>
-            <div class="news-source">RetailWire</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">
-              塔吉特科技主管助力零售转型计划
-            </a>
-            <div class="news-source">RetailWire</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">
-              沃尔玛新任CEO：约翰·弗纳接任麦克米伦
-            </a>
-            <div class="news-source">RetailWire</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/top-10-retail-tech-at-etail-west-2026/" target="_blank">
-              2026年eTail West十大零售科
-            </a>
-            <div class="news-source">RetailWire</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/" target="_blank">
-              Firehouse Subs任命Caro
-            </a>
-            <div class="news-source">RetailWire</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3" target="_blank">
-              Snowflake进行裁员以调整战略
-            </a>
-            <div class="news-source">Business Insider</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/" target="_blank">
-              州立法者拟定新舍入规则 美铸币局停产一分
-            </a>
-            <div class="news-source">RetailWire</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/starbucks-red-cup-rebellion/" target="_blank">
-              星巴克红杯日引发“反抗”，政客参与抵制
-            </a>
-            <div class="news-source">RetailWire</div>
-          </div>
-          
-        
-      </div>
-    </div>
   </div>
 
-  <!-- 新品速递 -->
-  <div class="card products-card">
-    <h2 class="section-title">🚀 新品速递</h2>
+  <script>
+    function updateTimezones() {
+      const now = new Date();
+      const utcHour = now.getUTCHours();
+      const minute = String(now.getUTCMinutes()).padStart(2, "0");
 
-    <div class="products-grid">
-      
-        
-        <div class="product-card">
-          <div class="product-title">
-            索尼WF-1000XM6耳机降价30美元
-          </div>
+      const zones = [
+        ["tz-east", -4],
+        ["tz-central", -5],
+        ["tz-mountain", -6],
+        ["tz-pacific", -7],
+        ["tz-alaska", -8],
+        ["tz-hawaii", -10]
+      ];
 
-          <div class="product-meta">
-            The Verge Tech · 2026-03-19T17:25:00-04:00
-          </div>
+      zones.forEach(([id, offset]) => {
+        let hour = utcHour + offset;
+        if (hour < 0) hour += 24;
+        if (hour >= 24) hour -= 24;
 
-          <div class="product-summary">
-            索尼WF-1000XM6是最佳降噪无线耳塞，但因329美元的高价，难以推荐，旧款
-          </div>
-
-          <a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank" class="product-link">
-            查看原文 →
-          </a>
-        </div>
-        
-        <div class="product-card">
-          <div class="product-title">
-            Harlowe推出360度拍摄更经济照明
-          </div>
-
-          <div class="product-meta">
-            The Verge Tech · 2026-03-19T11:30:20-04:00
-          </div>
-
-          <div class="product-summary">
-            Bushman等公司已推出360度全景摄像灯，售价超过300美元，超出DJI和I
-          </div>
-
-          <a href="https://www.theverge.com/tech/897360/harlowe-omni-360-omnidirectional-camera-light" target="_blank" class="product-link">
-            查看原文 →
-          </a>
-        </div>
-        
-        <div class="product-card">
-          <div class="product-title">
-            大疆Mini 4K现售价如同入门配件
-          </div>
-
-          <div class="product-meta">
-            DroneDJ · Thu, 19 Mar 2026 12:15:54
-          </div>
-
-          <div class="product-summary">
-            大疆Mini 4K是一款易于操作、适合初学者的无人机。
-          </div>
-
-          <a href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank" class="product-link">
-            查看原文 →
-          </a>
-        </div>
-        
-        <div class="product-card">
-          <div class="product-title">
-            300美元以下具避障功能的Skyrove
-          </div>
-
-          <div class="product-meta">
-            DroneDJ · Sat, 07 Mar 2026 07:52:00
-          </div>
-
-          <div class="product-summary">
-            一款售价低于300美元的无人机，具备DJI级别的功能，听起来令人难以置信。
-          </div>
-
-          <a href="https://dronedj.com/2026/03/06/skyrover-s1-drone-obstacle-avoidance/" target="_blank" class="product-link">
-            查看原文 →
-          </a>
-        </div>
-        
-        <div class="product-card">
-          <div class="product-title">
-            大疆新款无人机公布发售日期
-          </div>
-
-          <div class="product-meta">
-            DroneDJ · Wed, 11 Mar 2026 11:56:58
-          </div>
-
-          <div class="product-summary">
-            DJI发布了首个神秘预告片，展示了即将推出的全新无人机。
-          </div>
-
-          <a href="https://dronedj.com/2026/03/11/dji-avata-360-drone-launch/" target="_blank" class="product-link">
-            查看原文 →
-          </a>
-        </div>
-        
-        <div class="product-card">
-          <div class="product-title">
-            谷歌推出安卓侧载新规：强制等待期
-          </div>
-
-          <div class="product-meta">
-            The Verge Tech · 2026-03-19T13:00:33-04:00
-          </div>
-
-          <div class="product-summary">
-            谷歌将推出强制开发者验证，届时安装特定Android应用需遵循“高级流程”。
-          </div>
-
-          <a href="https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process" target="_blank" class="product-link">
-            查看原文 →
-          </a>
-        </div>
-        
-      
-    </div>
-  </div>
-</div>
-
-<script>
-  const WEATHER_CITY_OPTIONS = {
-    cn: [
-      "Shenzhen", "Beijing", "Shanghai", "Guangzhou", "Hangzhou",
-      "Chengdu", "Wuhan", "Xiamen", "Nanjing", "Suzhou"
-    ],
-    us: [
-      "Los Angeles", "New York", "Seattle", "San Francisco", "Chicago",
-      "Austin", "Boston", "Miami", "Dallas", "Denver"
-    ]
-  };
-
-  const WEATHER_CITY_LABELS = {
-    "Shenzhen": "深圳",
-    "Beijing": "北京",
-    "Shanghai": "上海",
-    "Guangzhou": "广州",
-    "Hangzhou": "杭州",
-    "Chengdu": "成都",
-    "Wuhan": "武汉",
-    "Xiamen": "厦门",
-    "Nanjing": "南京",
-    "Suzhou": "苏州",
-    "Los Angeles": "Los Angeles",
-    "New York": "New York",
-    "Seattle": "Seattle",
-    "San Francisco": "San Francisco",
-    "Chicago": "Chicago",
-    "Austin": "Austin",
-    "Boston": "Boston",
-    "Miami": "Miami",
-    "Dallas": "Dallas",
-    "Denver": "Denver"
-  };
-
-  function weatherIconFromCode(code) {
-    const c = Number(code);
-
-    if ([0].includes(c)) return "☀️";
-    if ([1, 2].includes(c)) return "⛅";
-    if ([3].includes(c)) return "☁️";
-    if ([45, 48].includes(c)) return "🌫️";
-    if ([51, 53, 55, 56, 57].includes(c)) return "🌦️";
-    if ([61, 63, 65, 66, 67, 80, 81, 82].includes(c)) return "🌧️";
-    if ([71, 73, 75, 77, 85, 86].includes(c)) return "❄️";
-    if ([95, 96, 99].includes(c)) return "⛈️";
-
-    return "⛅";
-  }
-
-  function weatherDescFromCode(code) {
-    const c = Number(code);
-
-    const map = {
-      0: "晴朗",
-      1: "基本晴",
-      2: "局部多云",
-      3: "阴天",
-      45: "雾",
-      48: "冻雾",
-      51: "小毛雨",
-      53: "毛雨",
-      55: "大毛雨",
-      56: "冻毛雨",
-      57: "强冻毛雨",
-      61: "小雨",
-      63: "中雨",
-      65: "大雨",
-      66: "冻雨",
-      67: "强冻雨",
-      71: "小雪",
-      73: "中雪",
-      75: "大雪",
-      77: "雪粒",
-      80: "阵雨",
-      81: "强阵雨",
-      82: "暴雨",
-      85: "阵雪",
-      86: "强阵雪",
-      95: "雷暴",
-      96: "雷暴伴小冰雹",
-      99: "雷暴伴大冰雹"
-    };
-
-    return map[c] || "天气未知";
-  }
-
-  async function geocodeCity(city) {
-    const url = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(city)}&count=1&language=zh&format=json`;
-    const res = await fetch(url);
-    const data = await res.json();
-
-    if (!data || !data.results || !data.results.length) {
-      throw new Error("city not found");
+        document.getElementById(id).textContent = `${hour}:${minute}`;
+      });
     }
 
-    return data.results[0];
-  }
-
-  async function fetchWeatherByCity(city) {
-    const geo = await geocodeCity(city);
-    const lat = geo.latitude;
-    const lon = geo.longitude;
-
-    const weatherUrl =
-      `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}` +
-      `&current=temperature_2m,weather_code` +
-      `&daily=weather_code,temperature_2m_max,temperature_2m_min` +
-      `&timezone=auto`;
-
-    const res = await fetch(weatherUrl);
-    const data = await res.json();
-
-    return {
-      cityLabel: WEATHER_CITY_LABELS[city] || geo.name || city,
-      current: data.current,
-      daily: data.daily
-    };
-  }
-
-  function renderWeather(type, payload) {
-    const iconEl = document.getElementById(`${type}-weather-icon`);
-    const cityEl = document.getElementById(`${type}-weather-city`);
-    const tempEl = document.getElementById(`${type}-weather-temp`);
-    const descEl = document.getElementById(`${type}-weather-desc`);
-    const forecastEl = document.getElementById(`${type}-weather-forecast`);
-
-    const current = payload.current || {};
-    const daily = payload.daily || {};
-
-    cityEl.textContent = payload.cityLabel || "";
-    tempEl.textContent = current.temperature_2m != null ? `${current.temperature_2m}°C` : "天气获取失败";
-    descEl.textContent = weatherDescFromCode(current.weather_code);
-    iconEl.textContent = weatherIconFromCode(current.weather_code);
-
-    const days = (daily.time || []).slice(0, 3);
-    const maxs = daily.temperature_2m_max || [];
-    const mins = daily.temperature_2m_min || [];
-    const codes = daily.weather_code || [];
-
-    const labels = ["今天", "明天", "后天"];
-
-    forecastEl.innerHTML = days.map((_, i) => {
-      const code = codes[i];
-      const icon = weatherIconFromCode(code);
-      const desc = weatherDescFromCode(code);
-      const max = maxs[i] != null ? Math.round(maxs[i]) : "-";
-      const min = mins[i] != null ? Math.round(mins[i]) : "-";
-
-      return `
-        <div class="weather-forecast-item">
-          <div class="weather-forecast-day">${labels[i] || ""}</div>
-          <div class="weather-forecast-icon">${icon}</div>
-          <div class="weather-forecast-temp">${max}° / ${min}°</div>
-          <div class="weather-forecast-desc">${desc}</div>
-        </div>
-      `;
-    }).join("");
-  }
-
-  async function updateWeather(type, city) {
-    try {
-      const payload = await fetchWeatherByCity(city);
-      renderWeather(type, payload);
-    } catch (e) {
-      document.getElementById(`${type}-weather-city`).textContent = city;
-      document.getElementById(`${type}-weather-temp`).textContent = "天气获取失败";
-      document.getElementById(`${type}-weather-desc`).textContent = "";
-      document.getElementById(`${type}-weather-icon`).textContent = "⚠️";
-      document.getElementById(`${type}-weather-forecast`).innerHTML = "";
-    }
-  }
-
-  function bindWeatherSearch(type, defaultCity) {
-    const input = document.getElementById(`${type}-city-input`);
-    const dropdown = document.getElementById(`${type}-city-dropdown`);
-    const options = WEATHER_CITY_OPTIONS[type];
-
-    function renderDropdown(keyword = "") {
-      const list = options.filter(city =>
-        city.toLowerCase().includes(keyword.toLowerCase())
-      );
-
-      if (!list.length) {
-        dropdown.innerHTML = "";
-        dropdown.classList.remove("show");
-        return;
-      }
-
-      dropdown.innerHTML = list.map(city => `
-        <div class="weather-dropdown-item" data-city="${city}">
-          ${WEATHER_CITY_LABELS[city] || city}
-        </div>
-      `).join("");
-
-      dropdown.classList.add("show");
-    }
-
-    input.addEventListener("focus", () => {
-      renderDropdown(input.value.trim());
-    });
-
-    input.addEventListener("input", () => {
-      renderDropdown(input.value.trim());
-    });
-
-    dropdown.addEventListener("mousedown", (e) => {
-      const item = e.target.closest(".weather-dropdown-item");
-      if (!item) return;
-
-      const city = item.getAttribute("data-city");
-      input.value = WEATHER_CITY_LABELS[city] || city;
-      dropdown.classList.remove("show");
-      updateWeather(type, city);
-    });
-
-    document.addEventListener("click", (e) => {
-      if (!dropdown.contains(e.target) && e.target !== input) {
-        dropdown.classList.remove("show");
-      }
-    });
-
-    updateWeather(type, defaultCity);
-    input.value = WEATHER_CITY_LABELS[defaultCity] || defaultCity;
-  }
-
-  function updateTimezones() {
-    const now = new Date();
-    const utcH = now.getUTCHours();
-    const m = String(now.getUTCMinutes()).padStart(2, "0");
-
-    const zones = [
-      ["tz-east", -4],
-      ["tz-central", -5],
-      ["tz-mountain", -6],
-      ["tz-pacific", -7],
-      ["tz-alaska", -8],
-      ["tz-hawaii", -10]
-    ];
-
-    zones.forEach(([id, off]) => {
-      let h = utcH + off;
-      if (h < 0) h += 24;
-      if (h >= 24) h -= 24;
-      document.getElementById(id).textContent = h + ":" + m;
-    });
-  }
-
-  bindWeatherSearch("cn", "Shenzhen");
-  bindWeatherSearch("us", "Los Angeles");
-  updateTimezones();
-  setInterval(updateTimezones, 60000);
-</script>
+    updateTimezones();
+    setInterval(updateTimezones, 60000);
+  </script>
 </body>
 </html>

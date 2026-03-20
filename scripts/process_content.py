@@ -72,10 +72,8 @@ def score_item(item: Dict[str, Any], bucket: str, source_priority: Dict[str, int
     source = item.get("source", "")
     score = 0
 
-    # 来源优先级
     score += source_priority.get(source, 0) * 10
 
-    # 关键词优先级
     bucket_keywords = keyword_conf.get(bucket, {})
     high_keywords = bucket_keywords.get("high", [])
     medium_keywords = bucket_keywords.get("medium", [])
@@ -88,7 +86,6 @@ def score_item(item: Dict[str, Any], bucket: str, source_priority: Dict[str, int
         if kw.lower() in title:
             score += 10
 
-    # 轻度惩罚：太长太泛的标题
     if len(title) > 120:
         score -= 5
 
@@ -100,6 +97,7 @@ def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
     for s in source_list:
         result[s["name"]] = s.get("priority", 0)
     return result
+
 
 def generate_takeaways(consumer_news: List[Dict[str, Any]], channel_news: List[Dict[str, Any]]) -> List[str]:
     consumer_titles = [x.get("title", "") for x in consumer_news[:5] if x.get("title")]
@@ -150,6 +148,7 @@ def generate_takeaways(consumer_news: List[Dict[str, Any]], channel_news: List[D
         print(f"[WARN] 今日重点生成失败: {e}")
         return fallback
 
+
 def main():
     news = load_json("data/raw/news.json", {})
     products = load_json("data/raw/products.json", {"products": []})
@@ -170,7 +169,6 @@ def main():
     )
     keyword_conf = config.get("keywords", {})
 
-    # 打分排序：今日热点
     for x in consumer:
         x["_score"] = score_item(
             x,
@@ -182,7 +180,6 @@ def main():
 
     consumer = sorted(consumer, key=lambda x: x["_score"], reverse=True)[:9]
 
-    # 打分排序：渠道新闻
     for x in channel:
         x["_score"] = score_item(
             x,
@@ -194,7 +191,6 @@ def main():
 
     channel = sorted(channel, key=lambda x: x["_score"], reverse=True)[:9]
 
-    # 新品速递
     product_items = dedupe(products.get("products", []))[:6]
 
     for x in product_items:
@@ -203,6 +199,8 @@ def main():
         x["display_title"] = simplify_title(name) or name
         x["display_summary"] = simplify_summary(summary) or summary
 
+    takeaways = generate_takeaways(consumer, channel)
+
     payload = {
         "date": str(date.today()),
         "festival_cards": festivals.get("festival_cards", []),
@@ -210,6 +208,7 @@ def main():
         "consumer_electronics": consumer,
         "channel_news": channel,
         "products": product_items,
+        "takeaways": takeaways,
     }
 
     dump_json("data/processed/daily_payload.json", payload)

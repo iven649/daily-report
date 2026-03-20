@@ -168,6 +168,48 @@
       align-items: stretch;
     }
 
+    .feedback-card {
+  margin-top: 18px;
+  padding: 22px;
+}
+
+.feedback-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.feedback-title {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.feedback-desc {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.feedback-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: #111111;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.15s ease;
+}
+
+.feedback-btn:hover {
+  transform: translateY(-1px);
+  opacity: 0.92;
+}
+
     .timezone-card,
     .takeaways-card {
       padding: 22px;
@@ -619,6 +661,26 @@
         {% endif %}
       </div>
     </div>
+    
+    <!-- 反馈 -->
+<div class="section-card feedback-card">
+  <div class="feedback-inner">
+
+    <div class="feedback-text">
+      <div class="feedback-title">反馈与建议</div>
+      <div class="feedback-desc">
+        欢迎提交你对日报内容与结构的建议，帮助我们持续优化信息质量。
+      </div>
+    </div>
+
+    <a href="你的GoogleForm链接"
+       target="_blank"
+       class="feedback-btn">
+       提交反馈 →
+    </a>
+
+  </div>
+</div>
 
   </div>
 

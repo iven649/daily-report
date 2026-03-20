@@ -5,7 +5,7 @@ from datetime import date
 from typing import List, Dict, Any
 
 from openai import OpenAI
-from common import load_json, dump_json
+from common import load_json, dump_json, load_yaml
 
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -67,6 +67,41 @@ def simplify_summary(summary: str) -> str:
     return ai_generate(prompt, summary, 40)
 
 
+def score_item(item: Dict[str, Any], bucket: str, source_priority: Dict[str, int], keyword_conf: Dict[str, Any]) -> int:
+    title = (item.get("title") or item.get("name") or "").lower()
+    source = item.get("source", "")
+    score = 0
+
+    # 来源优先级
+    score += source_priority.get(source, 0) * 10
+
+    # 关键词优先级
+    bucket_keywords = keyword_conf.get(bucket, {})
+    high_keywords = bucket_keywords.get("high", [])
+    medium_keywords = bucket_keywords.get("medium", [])
+
+    for kw in high_keywords:
+        if kw.lower() in title:
+            score += 30
+
+    for kw in medium_keywords:
+        if kw.lower() in title:
+            score += 10
+
+    # 轻度惩罚：太长太泛的标题
+    if len(title) > 120:
+        score -= 5
+
+    return score
+
+
+def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
+    result = {}
+    for s in source_list:
+        result[s["name"]] = s.get("priority", 0)
+    return result
+
+
 def main():
     news = load_json("data/raw/news.json", {})
     products = load_json("data/raw/products.json", {"products": []})
@@ -74,24 +109,49 @@ def main():
         "data/processed/festivals.json",
         {"festival_cards": [], "festival_pages": []}
     )
+    config = load_yaml("config/news_sources.yaml")
 
-    consumer = dedupe(news.get("consumer_electronics", []))[:9]
-    channel = dedupe(news.get("channel_news", []))[:9]
+    consumer = dedupe(news.get("consumer_electronics", []))
+    channel = dedupe(news.get("channel_news", []))
 
-    # ✅ 新闻统一处理
-    for bucket in (consumer, channel):
-        for x in bucket:
-            title = x.get("title", "")
-            x["display_title"] = simplify_title(title)
+    consumer_source_priority = build_source_priority(
+        config["sources"].get("consumer_electronics", [])
+    )
+    channel_source_priority = build_source_priority(
+        config["sources"].get("channel_news", [])
+    )
+    keyword_conf = config.get("keywords", {})
 
-    # ✅ 产品统一处理（关键修复点）
+    # 打分排序：今日热点
+    for x in consumer:
+        x["_score"] = score_item(
+            x,
+            "consumer_electronics",
+            consumer_source_priority,
+            keyword_conf
+        )
+        x["display_title"] = simplify_title(x.get("title", ""))
+
+    consumer = sorted(consumer, key=lambda x: x["_score"], reverse=True)[:9]
+
+    # 打分排序：渠道新闻
+    for x in channel:
+        x["_score"] = score_item(
+            x,
+            "channel_news",
+            channel_source_priority,
+            keyword_conf
+        )
+        x["display_title"] = simplify_title(x.get("title", ""))
+
+    channel = sorted(channel, key=lambda x: x["_score"], reverse=True)[:9]
+
+    # 新品速递
     product_items = dedupe(products.get("products", []))[:6]
 
     for x in product_items:
         name = x.get("name", "")
         summary = x.get("summary", "")
-
-        # 强制保证字段存在
         x["display_title"] = simplify_title(name) or name
         x["display_summary"] = simplify_summary(summary) or summary
 

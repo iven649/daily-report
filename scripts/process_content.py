@@ -273,8 +273,6 @@ def main():
         x["display_summary"] = simplify_summary(summary) or summary
         x["tags"] = build_tag_text(x, "products")
 
-    takeaways = generate_takeaways(consumer, channel)
-
     payload = {
         "date": str(date.today()),
         "festival_cards": festivals.get("festival_cards", []),

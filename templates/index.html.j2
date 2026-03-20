@@ -7,7 +7,7 @@
   <style>
     :root {
       --bg: #f5f5f7;
-      --card: rgba(255, 255, 255, 0.86);
+      --card: rgba(255, 255, 255, 0.88);
       --card-solid: #ffffff;
       --text: #111111;
       --muted: #6e6e73;
@@ -25,6 +25,7 @@
       --link-hover: #4b5563;
       --tag-bg: #f3f4f6;
       --tag-text: #4b5563;
+      --black: #111111;
     }
 
     * {
@@ -75,18 +76,19 @@
 
     .hero {
       display: grid;
-      grid-template-columns: 1.15fr 0.85fr;
+      grid-template-columns: 1.18fr 0.82fr;
       gap: 24px;
       padding: 24px;
       margin-bottom: 18px;
+      min-height: 300px;
     }
 
     .hero-main {
-      padding: 12px 6px 4px 4px;
-      min-height: 132px;
       display: flex;
       flex-direction: column;
-      justify-content: flex-end;
+      justify-content: space-between;
+      min-height: 252px;
+      padding: 6px 2px 2px 2px;
     }
 
     .eyebrow {
@@ -99,16 +101,56 @@
       border: 1px solid rgba(17,17,17,0.06);
       font-size: 12px;
       color: var(--muted);
-      margin-bottom: 18px;
       width: fit-content;
+      margin-bottom: 18px;
     }
 
-    .hero-title {
-      margin: 0;
+    .hero-kicker {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--muted-2);
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    .hero-insight {
+      font-size: 40px;
+      line-height: 1.18;
+      font-weight: 760;
+      letter-spacing: -0.055em;
+      max-width: 680px;
+      margin-bottom: 14px;
+    }
+
+    .hero-sub {
+      font-size: 15px;
+      line-height: 1.85;
+      color: var(--muted);
+      max-width: 560px;
+    }
+
+    .hero-footer {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 30px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line-soft);
+    }
+
+    .hero-brand {
       font-size: 48px;
       line-height: 0.96;
       letter-spacing: -0.065em;
       font-weight: 740;
+    }
+
+    .hero-date-inline {
+      color: var(--muted);
+      font-size: 14px;
+      white-space: nowrap;
     }
 
     .hero-side {
@@ -551,8 +593,12 @@
         grid-template-columns: 1fr;
       }
 
-      .hero-title {
-        font-size: 40px;
+      .hero-insight {
+        font-size: 34px;
+      }
+
+      .hero-brand {
+        font-size: 38px;
       }
     }
 
@@ -570,8 +616,25 @@
         padding: 18px;
       }
 
-      .hero-title {
+      .hero-main {
+        min-height: auto;
+      }
+
+      .hero-insight {
+        font-size: 28px;
+      }
+
+      .hero-sub {
+        font-size: 14px;
+      }
+
+      .hero-brand {
         font-size: 32px;
+      }
+
+      .hero-footer {
+        flex-direction: column;
+        align-items: flex-start;
       }
 
       .timezone-grid,
@@ -611,10 +674,32 @@
 
     <div class="glass hero">
       <div class="hero-main">
-        <div class="eyebrow">
-          <span>Daily Intelligence Brief</span>
+        <div>
+          <div class="eyebrow">
+            <span>Daily Intelligence Brief</span>
+          </div>
+
+          <div class="hero-kicker">Top Insight</div>
+
+          <div class="hero-insight">
+            {% if takeaways and takeaways[0] %}
+              {{ takeaways[0] }}
+            {% else %}
+              今日暂无核心判断
+            {% endif %}
+          </div>
+
+          {% if takeaways|length > 1 %}
+          <div class="hero-sub">
+            {{ takeaways[1] }}
+          </div>
+          {% endif %}
         </div>
-        <h1 class="hero-title">分销日报</h1>
+
+        <div class="hero-footer">
+          <div class="hero-brand">分销日报</div>
+          <div class="hero-date-inline">{{ date }}</div>
+        </div>
       </div>
 
       <div class="hero-side">

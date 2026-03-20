@@ -7,7 +7,7 @@
   <style>
     :root {
       --bg: #f5f5f7;
-      --card: rgba(255, 255, 255, 0.86);
+      --card: rgba(255, 255, 255, 0.88);
       --card-solid: #ffffff;
       --text: #111111;
       --muted: #6e6e73;
@@ -25,6 +25,7 @@
       --link-hover: #4b5563;
       --tag-bg: #f3f4f6;
       --tag-text: #4b5563;
+      --black: #111111;
     }
 
     * {
@@ -75,18 +76,19 @@
 
     .hero {
       display: grid;
-      grid-template-columns: 1.15fr 0.85fr;
+      grid-template-columns: 1.18fr 0.82fr;
       gap: 24px;
       padding: 24px;
       margin-bottom: 18px;
+      min-height: 300px;
     }
 
     .hero-main {
-      padding: 12px 6px 4px 4px;
-      min-height: 132px;
       display: flex;
       flex-direction: column;
-      justify-content: flex-end;
+      justify-content: space-between;
+      min-height: 252px;
+      padding: 6px 2px 2px 2px;
     }
 
     .eyebrow {
@@ -99,16 +101,56 @@
       border: 1px solid rgba(17,17,17,0.06);
       font-size: 12px;
       color: var(--muted);
-      margin-bottom: 18px;
       width: fit-content;
+      margin-bottom: 18px;
     }
 
-    .hero-title {
-      margin: 0;
+    .hero-kicker {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--muted-2);
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    .hero-insight {
+      font-size: 40px;
+      line-height: 1.18;
+      font-weight: 760;
+      letter-spacing: -0.055em;
+      max-width: 680px;
+      margin-bottom: 14px;
+    }
+
+    .hero-sub {
+      font-size: 15px;
+      line-height: 1.85;
+      color: var(--muted);
+      max-width: 560px;
+    }
+
+    .hero-footer {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 30px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line-soft);
+    }
+
+    .hero-brand {
       font-size: 48px;
       line-height: 0.96;
       letter-spacing: -0.065em;
       font-weight: 740;
+    }
+
+    .hero-date-inline {
+      color: var(--muted);
+      font-size: 14px;
+      white-space: nowrap;
     }
 
     .hero-side {
@@ -551,8 +593,12 @@
         grid-template-columns: 1fr;
       }
 
-      .hero-title {
-        font-size: 40px;
+      .hero-insight {
+        font-size: 34px;
+      }
+
+      .hero-brand {
+        font-size: 38px;
       }
     }
 
@@ -570,8 +616,25 @@
         padding: 18px;
       }
 
-      .hero-title {
+      .hero-main {
+        min-height: auto;
+      }
+
+      .hero-insight {
+        font-size: 28px;
+      }
+
+      .hero-sub {
+        font-size: 14px;
+      }
+
+      .hero-brand {
         font-size: 32px;
+      }
+
+      .hero-footer {
+        flex-direction: column;
+        align-items: flex-start;
       }
 
       .timezone-grid,
@@ -611,10 +674,30 @@
 
     <div class="glass hero">
       <div class="hero-main">
-        <div class="eyebrow">
-          <span>Daily Intelligence Brief</span>
+        <div>
+          <div class="eyebrow">
+            <span>Daily Intelligence Brief</span>
+          </div>
+
+          <div class="hero-kicker">Top Insight</div>
+
+          <div class="hero-insight">
+            
+              索尼WF-1000XM6耳机降价，可能刺激市场需求，提升销量表现。
+            
+          </div>
+
+          
+          <div class="hero-sub">
+            三星智能手表大幅降价，显示出市场竞争加剧，消费者选择将增多。
+          </div>
+          
         </div>
-        <h1 class="hero-title">分销日报</h1>
+
+        <div class="hero-footer">
+          <div class="hero-brand">分销日报</div>
+          <div class="hero-date-inline">2026-03-20</div>
+        </div>
       </div>
 
       <div class="hero-side">
@@ -758,27 +841,27 @@
             
             <li class="takeaway-item">
               <div class="takeaway-index">1</div>
-              <div class="takeaway-text">索尼WF-1000XM6耳机降价30美元，预计将进一步提升市场竞争力。</div>
+              <div class="takeaway-text">索尼WF-1000XM6耳机降价，可能刺激市场需求，提升销量表现。</div>
             </li>
             
             <li class="takeaway-item">
               <div class="takeaway-index">2</div>
-              <div class="takeaway-text">新品趋势显示，360度拍摄设备逐渐成为音频外设的搭配选择。</div>
+              <div class="takeaway-text">三星智能手表大幅降价，显示出市场竞争加剧，消费者选择将增多。</div>
             </li>
             
             <li class="takeaway-item">
               <div class="takeaway-index">3</div>
-              <div class="takeaway-text">渠道变化中，宜家与百思买的合作可能会影响音频产品的零售布局。</div>
+              <div class="takeaway-text">宜家与百思买合作试点，表明渠道创新将成为未来零售转型的关键。</div>
             </li>
             
             <li class="takeaway-item">
               <div class="takeaway-index">4</div>
-              <div class="takeaway-text">新任沃尔玛CEO可能会推动更具创新性的消费电子销售策略。</div>
+              <div class="takeaway-text">新款安卓智能手表电池性能突出，或将引领智能穿戴设备的新趋势。</div>
             </li>
             
             <li class="takeaway-item">
               <div class="takeaway-index">5</div>
-              <div class="takeaway-text">安卓侧载新规将影响耳机与音频应用的生态发展，需密切关注。</div>
+              <div class="takeaway-text">DJI新款无人机发布在即，预计将吸引摄影爱好者的关注，推动市场热度。</div>
             </li>
             
           
@@ -868,7 +951,7 @@
             <div class="news-item">
               <div class="news-index">05</div>
               <a class="news-title" href="https://www.androidauthority.com/android-canary-2603-release-3650531/" target="_blank" rel="noreferrer">
-                Android三月Canary更新上线，
+                安卓三月Canary更新上线，发现新特性
               </a>
 
               
@@ -902,7 +985,7 @@
             <div class="news-item">
               <div class="news-index">07</div>
               <a class="news-title" href="https://www.androidauthority.com/thomson-google-tv-streamer-rival-3650599/" target="_blank" rel="noreferrer">
-                新款Google TV竞争者：进步与挑战
+                新款Google TV竞争者：前进两步，
               </a>
 
               
@@ -919,7 +1002,7 @@
             <div class="news-item">
               <div class="news-index">08</div>
               <a class="news-title" href="https://www.androidauthority.com/android-sideloading-24-hours-adb-3650540/" target="_blank" rel="noreferrer">
-                教你绕过Android 24小时侧载延迟
+                教你快速绕过Android侧载24小时限
               </a>
 
               
@@ -936,7 +1019,7 @@
             <div class="news-item">
               <div class="news-index">09</div>
               <a class="news-title" href="https://www.androidauthority.com/google-tv-streamer-deal-13-3649065/" target="_blank" rel="noreferrer">
-                谷歌电视播放器现仅售79.99美元！
+                谷歌电视流媒体设备现仅售79.99美元！
               </a>
 
               
@@ -984,7 +1067,7 @@
             <div class="news-item">
               <div class="news-index">02</div>
               <a class="news-title" href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank" rel="noreferrer">
-                宜家与百思买在佛州德州试点店中店
+                宜家与百思买在佛州德州试点店中店合作
               </a>
 
               
@@ -1005,7 +1088,7 @@
             <div class="news-item">
               <div class="news-index">03</div>
               <a class="news-title" href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank" rel="noreferrer">
-                塔吉特科技负责人助力零售转型
+                塔吉特首席技术官助力零售转型
               </a>
 
               
@@ -1024,7 +1107,7 @@
             <div class="news-item">
               <div class="news-index">04</div>
               <a class="news-title" href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank" rel="noreferrer">
-                沃尔玛新任CEO：约翰·弗纳接任麦克米伦
+                沃尔玛第六任CEO：约翰·弗纳接任麦克米
               </a>
 
               
@@ -1081,7 +1164,7 @@
             <div class="news-item">
               <div class="news-index">07</div>
               <a class="news-title" href="https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3" target="_blank" rel="noreferrer">
-                Snowflake进行裁员以调整战略
+                Snowflake进行裁员，调整公司战略
               </a>
 
               
@@ -1115,7 +1198,7 @@
             <div class="news-item">
               <div class="news-index">09</div>
               <a class="news-title" href="https://retailwire.com/starbucks-red-cup-rebellion/" target="_blank" rel="noreferrer">
-                “无合同无咖啡”：星巴克红杯日引发抵制行
+                星巴克红杯日引发“反抗”，政客加入抵制
               </a>
 
               
@@ -1164,7 +1247,7 @@
             
 
             <div class="product-summary">
-              索尼WF-1000XM6是最佳降噪无线耳塞，但因329美元的价格难以推荐，旧款常
+              索尼WF-1000XM6是最佳降噪无线耳塞，但因329美元的高价，难以推荐于24
             </div>
 
             <a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank" rel="noreferrer" class="product-link">
@@ -1195,7 +1278,7 @@
             
 
             <div class="product-summary">
-              Bushman等公司已推出360度全景摄像灯，售价超过300美元，超出DJI和I
+              Bushman等公司已推出360度全向摄像灯，售价超过300美元，超出DJI和I
             </div>
 
             <a href="https://www.theverge.com/tech/897360/harlowe-omni-360-omnidirectional-camera-light" target="_blank" rel="noreferrer" class="product-link">
@@ -1226,7 +1309,7 @@
             
 
             <div class="product-summary">
-              大疆Mini 4K无人机，操作简单，适合初学者，是一款易于上手的航拍设备。
+              大疆Mini 4K是一款易于操作、适合初学者的无人机。
             </div>
 
             <a href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank" rel="noreferrer" class="product-link">
@@ -1239,7 +1322,7 @@
             <div class="product-kicker">Product 04</div>
 
             <div class="product-title">
-              300美元以下的避障无人机：Skyrov
+              299美元避障无人机Skyrover S
             </div>
 
             <div class="product-meta">
@@ -1270,7 +1353,7 @@
             <div class="product-kicker">Product 05</div>
 
             <div class="product-title">
-              大疆新款无人机发布日期确定
+              大疆新款无人机公布发布日期
             </div>
 
             <div class="product-meta">
@@ -1288,7 +1371,7 @@
             
 
             <div class="product-summary">
-              DJI发布了神秘短片，预告其新款8K无人机Avata即将于3月26日推出。
+              大疆发布神秘短片，预告即将推出的全新产品，吸引了众多关注。
             </div>
 
             <a href="https://dronedj.com/2026/03/11/dji-avata-360-drone-launch/" target="_blank" rel="noreferrer" class="product-link">
@@ -1319,7 +1402,7 @@
             
 
             <div class="product-summary">
-              谷歌将推出强制开发者验证，届时安装某些Android应用需遵循“高级流程”。
+              谷歌将推出强制开发者验证，届时某些Android应用安装需遵循“高级流程”。
             </div>
 
             <a href="https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process" target="_blank" rel="noreferrer" class="product-link">

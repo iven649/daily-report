@@ -3,22 +3,109 @@ sources:
     - name: The Verge
       type: rss
       url: https://www.theverge.com/rss/index.xml
+      priority: 10
+
     - name: Android Authority
       type: rss
       url: https://www.androidauthority.com/feed/
+      priority: 9
+
     - name: PhoneArena
       type: rss
       url: https://www.phonearena.com/rss/news
+      priority: 8
+
+    - name: TechCrunch
+      type: rss
+      url: https://techcrunch.com/feed/
+      priority: 6
 
   channel_news:
     - name: RetailWire
       type: rss
       url: https://retailwire.com/feed/
+      priority: 10
 
     - name: Chain Store Age
       type: rss
       url: https://chainstoreage.com/rss.xml
+      priority: 9
+
+    - name: Business Insider
+      type: rss
+      url: https://www.businessinsider.com/rss
+      priority: 7
 
     - name: TechCrunch
       type: rss
       url: https://techcrunch.com/feed/
+      priority: 6
+
+keywords:
+  consumer_electronics:
+    high:
+      - garmin
+      - bose
+      - beats
+      - soundcore
+      - sony
+      - airpods
+      - earbuds
+      - headphones
+      - wearables
+      - smartwatch
+      - fitness tracker
+      - audio
+      - speaker
+      - chip
+      - qualcomm
+      - apple
+      - samsung
+      - google
+      - android
+      - pixel
+
+    medium:
+      - ai
+      - launch
+      - release
+      - update
+      - new
+      - smart
+      - bluetooth
+      - wireless
+      - battery
+      - premium
+
+  channel_news:
+    high:
+      - amazon
+      - walmart
+      - best buy
+      - target
+      - costco
+      - tiktok shop
+      - retail
+      - ecommerce
+      - e-commerce
+      - store
+      - expansion
+      - ceo
+      - cmo
+      - channel
+      - distribution
+      - partnership
+      - sales
+      - earnings
+
+    medium:
+      - growth
+      - platform
+      - brand
+      - shop
+      - merchant
+      - fulfillment
+      - pricing
+      - consumer
+      - market
+      - strategy

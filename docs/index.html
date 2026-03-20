@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>分销日报 - 2026-03-19</title>
+  <title>分销日报 - 2026-03-20</title>
   <style>
     :root {
       --bg: #f5f5f7;
@@ -123,17 +123,147 @@
       letter-spacing: -0.01em;
     }
 
-    .weather-box {
-      min-height: 112px;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
+    .weather-search-wrap {
+      position: relative;
+      margin-bottom: 16px;
     }
 
-    .weather-status {
-      font-size: 18px;
-      font-weight: 600;
-      line-height: 1.6;
+    .weather-search-input {
+      width: 100%;
+      height: 46px;
+      border: 1px solid var(--line);
+      background: #fafafa;
+      border-radius: 14px;
+      padding: 0 14px;
+      font-size: 14px;
+      color: var(--text);
+      outline: none;
+      transition: all 0.2s ease;
+    }
+
+    .weather-search-input:focus {
+      border-color: #d4d4d8;
+      background: #fff;
+      box-shadow: 0 0 0 4px rgba(17, 17, 17, 0.03);
+    }
+
+    .weather-dropdown {
+      position: absolute;
+      top: 52px;
+      left: 0;
+      right: 0;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(17, 17, 17, 0.08);
+      overflow: hidden;
+      z-index: 20;
+      display: none;
+      max-height: 240px;
+      overflow-y: auto;
+    }
+
+    .weather-dropdown.show {
+      display: block;
+    }
+
+    .weather-dropdown-item {
+      padding: 12px 14px;
+      font-size: 14px;
+      cursor: pointer;
+      color: var(--text);
+      background: #fff;
+      transition: background 0.15s ease;
+    }
+
+    .weather-dropdown-item:hover {
+      background: #f7f7f8;
+    }
+
+    .weather-current-card {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px 16px;
+      margin-bottom: 14px;
+    }
+
+    .weather-current-icon {
+      width: 56px;
+      height: 56px;
+      border-radius: 16px;
+      background: #f7f7f8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      border: 1px solid var(--line);
+      flex-shrink: 0;
+    }
+
+    .weather-current-main {
+      min-width: 0;
+      flex: 1;
+    }
+
+    .weather-current-city {
+      font-size: 17px;
+      font-weight: 700;
+      margin-bottom: 4px;
+      letter-spacing: -0.01em;
+    }
+
+    .weather-current-temp {
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 4px;
+    }
+
+    .weather-current-desc {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .weather-forecast-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    .weather-forecast-item {
+      border: 1px solid var(--line);
+      background: #fafafa;
+      border-radius: 16px;
+      padding: 14px 10px;
+      text-align: center;
+    }
+
+    .weather-forecast-day {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .weather-forecast-icon {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+
+    .weather-forecast-temp {
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .weather-forecast-desc {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.4;
     }
 
     .timezone-card {
@@ -334,40 +464,25 @@
   <div class="card hero">
     <div>
       <h1 class="hero-title">分销日报</h1>
-      <div class="hero-date">2026-03-19</div>
+      <div class="hero-date">2026-03-20</div>
     </div>
 
     <div class="badges">
       
       <a class="badge" href="qingming.html">
         <span>🪴</span>
-        <span>清明节 16天</span>
+        <span>清明节 15天</span>
       </a>
       
       <a class="badge" href="easter.html">
         <span>🐰</span>
-        <span>复活节 17天</span>
+        <span>复活节 16天</span>
       </a>
       
     </div>
   </div>
 
   <!-- 天气 -->
-  <div class="two-col">
-    <div class="card section">
-      <h2 class="section-title">🌤️ 中国天气</h2>
-      <div class="weather-box">
-        <div id="cn-weather" class="weather-status">加载中...</div>
-      </div>
-    </div>
-
-    <div class="card section">
-      <h2 class="section-title">🌤️ 美国天气</h2>
-      <div class="weather-box">
-        <div id="us-weather" class="weather-status">加载中...</div>
-      </div>
-    </div>
-  </div>
 
   <!-- 时区 -->
   <div class="card timezone-card">
@@ -408,66 +523,66 @@
         
           
           <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant" target="_blank">
-              FBI购买美国人位置信息
+            <a class="news-title" href="https://www.androidauthority.com/oneplus-watch-4-leaked-specs-3650635/" target="_blank">
+              新款安卓智能手表或成电池之王
+            </a>
+            <div class="news-source">Android Authority</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank">
+              索尼WF-1000XM6耳塞降价30美元
             </a>
             <div class="news-source">The Verge</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out" target="_blank">
-              亚马逊拒绝承担邮局倒闭责任
+            <a class="news-title" href="https://www.androidauthority.com/samsung-galaxy-watch-8-classic-deal-4-3650559/" target="_blank">
+              三星最美智能手表降价48%！
+            </a>
+            <div class="news-source">Android Authority</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/" target="_blank">
+              谷歌推出安全侧载安卓应用新方式
+            </a>
+            <div class="news-source">TechCrunch</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://www.androidauthority.com/android-canary-2603-release-3650531/" target="_blank">
+              安卓三月Canary更新上线，发现新特性
+            </a>
+            <div class="news-source">Android Authority</div>
+          </div>
+          
+          <div class="news-item">
+            <a class="news-title" href="https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally" target="_blank">
+              SteamOS 3.8更新：新增功能，支
             </a>
             <div class="news-source">The Verge</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media" target="_blank">
-              国会考虑废除互联网法律
+            <a class="news-title" href="https://www.androidauthority.com/thomson-google-tv-streamer-rival-3650599/" target="_blank">
+              新款Google TV竞争者：进步与挑战
             </a>
-            <div class="news-source">The Verge</div>
+            <div class="news-source">Android Authority</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/gadgets/897056/hoto-pixeldrive-electric-screwdriver-amazon-big-spring-sale-deal" target="_blank">
-              Hoto电动螺丝刀降价25%
+            <a class="news-title" href="https://www.androidauthority.com/android-sideloading-24-hours-adb-3650540/" target="_blank">
+              教你绕过Android 24小时侧载延迟
             </a>
-            <div class="news-source">The Verge</div>
+            <div class="news-source">Android Authority</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals" target="_blank">
-              当前MacBook超值优惠推荐
+            <a class="news-title" href="https://www.androidauthority.com/google-tv-streamer-deal-13-3649065/" target="_blank">
+              谷歌电视流媒体设备现仅售79.99美元！
             </a>
-            <div class="news-source">The Verge</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket" target="_blank">
-              大卫·萨克斯对伊朗警告遭忽视
-            </a>
-            <div class="news-source">The Verge</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/tech/896989/robinhood-social-network-beta" target="_blank">
-              Robinhood推出社交网络功能
-            </a>
-            <div class="news-source">The Verge</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer" target="_blank">
-              ChatGPT未能治愈狗狗癌症
-            </a>
-            <div class="news-source">The Verge</div>
-          </div>
-          
-          <div class="news-item">
-            <a class="news-title" href="https://www.theverge.com/gadgets/896899/kasa-smart-wi-fi-plug-slim-amazon-early-big-spring-sale-deal-sale" target="_blank">
-              Kasa Matter智能插头现售11美
-            </a>
-            <div class="news-source">The Verge</div>
+            <div class="news-source">Android Authority</div>
           </div>
           
         
@@ -480,66 +595,66 @@
         
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">
-              塔吉特科技主管助力零售转型
+            <a class="news-title" href="https://www.businessinsider.com/oil-prices-crude-lng-iran-brent-steve-hanke-ali-hormuz-2026-3" target="_blank">
+              哈克：伊朗或将对美“重拳出击”
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">Business Insider</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/" target="_blank">
-              美国铸币局停产一分币，州立法者拟定舍入规
+            <a class="news-title" href="https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/" target="_blank">
+              Polymarket与美职棒达成合作协议
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">TechCrunch</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/top-10-retail-tech-at-etail-west-2026/" target="_blank">
-              2026 eTail West十大零售科
+            <a class="news-title" href="https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/" target="_blank">
+              亚马逊收购楼梯爬行送货机器人公司Rivr
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">TechCrunch</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/" target="_blank">
-              L.L.Bean任命Greg Elder
+            <a class="news-title" href="https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/" target="_blank">
+              云计算公司CEO：2027年在线机器人流
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">TechCrunch</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/starbucks-red-cup-rebellion/" target="_blank">
-              “无合同无咖啡”：星巴克红杯日引发抵制行
+            <a class="news-title" href="https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/" target="_blank">
+              Bluesky更换CEO后获1亿美元B轮
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">TechCrunch</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">
-              沃尔玛第六任CEO：约翰·弗纳接任麦克米
+            <a class="news-title" href="https://www.businessinsider.com/audit-val-verde-pegasus-school-china-2026-3" target="_blank">
+              审计揭露加州与中国寄宿学校关系问题
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">Business Insider</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/" target="_blank">
-              Firehouse Subs任命Caro
+            <a class="news-title" href="https://www.businessinsider.com/uber-autonomous-vehicles-driverless-cancelled-project-catching-up-waymo-tesla-2026-3" target="_blank">
+              优步放弃无人驾驶，面临代价。
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">Business Insider</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/nike-at-a-crossroads-q1-2026-results-reveal-rebound-headwinds-and-a-strategic-reset/" target="_blank">
-              耐克2026年Q1业绩：复苏与挑战并存
+            <a class="news-title" href="https://www.businessinsider.com/hr-leaders-growing-concern-ai-2026-3" target="_blank">
+              HR高管担忧加大AI投入风险
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">Business Insider</div>
           </div>
           
           <div class="news-item">
-            <a class="news-title" href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">
-              宜家与百思买在佛州德州试点店中店
+            <a class="news-title" href="https://www.businessinsider.com/student-loan-borrowers-transferring-treasury-education-department-dismantling-debt-repayment-2026-3" target="_blank">
+              数百万学生贷款账户转至财政部
             </a>
-            <div class="news-source">RetailWire</div>
+            <div class="news-source">Business Insider</div>
           </div>
           
         
@@ -556,108 +671,108 @@
         
         <div class="product-card">
           <div class="product-title">
-            MWC展会惊艳手机发布，配400mm变焦
+            索尼WF-1000XM6耳机现降价30美
           </div>
 
           <div class="product-meta">
-            Android Authority · Wed, 18 Mar 2026
+            The Verge Tech · 2026-03-19T17:25:00-04:00
           </div>
 
           <div class="product-summary">
-            vivo X300 Ultra预计将在三月底发布，提供三种颜色和四种存储版本。
+            索尼WF-1000XM6是最佳降噪无线耳塞，但因329美元的高价，难以推荐于24
           </div>
 
-          <a href="https://www.androidauthority.com/vivo-x300-ultra-launch-date-leak-3650160/" target="_blank" class="product-link">
+          <a href="https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale" target="_blank" class="product-link">
             查看原文 →
           </a>
         </div>
         
         <div class="product-card">
           <div class="product-title">
-            Spotify新音质升级有重大权衡
+            Harlowe推出360度拍摄经济照明方
           </div>
 
           <div class="product-meta">
-            Android Authority · Wed, 18 Mar 2026
+            The Verge Tech · 2026-03-19T11:30:20-04:00
           </div>
 
           <div class="product-summary">
-            Spotify的独占模式承诺提供更清晰的音质，但用户需接受一定的限制。
+            Bushman等公司已推出360度全向摄像灯，售价超300美元，超过DJI和In
           </div>
 
-          <a href="https://www.androidauthority.com/spotify-exclusive-mode-desktop-3650293/" target="_blank" class="product-link">
+          <a href="https://www.theverge.com/tech/897360/harlowe-omni-360-omnidirectional-camera-light" target="_blank" class="product-link">
             查看原文 →
           </a>
         </div>
         
         <div class="product-card">
           <div class="product-title">
-            调查显示：用户厌恶YouTube新广告
+            大疆Mini 4K现已成平价配件
           </div>
 
           <div class="product-meta">
-            Android Authority · Wed, 18 Mar 2026
+            DroneDJ · Thu, 19 Mar 2026 12:15:54
           </div>
 
           <div class="product-summary">
-            YouTube用户普遍厌恶无法跳过的广告，这一现象令人意外。
+            大疆Mini 4K是一款操作简单、适合初学者的无人机。
           </div>
 
-          <a href="https://www.androidauthority.com/youtube-unskippable-ads-poll-3650247/" target="_blank" class="product-link">
+          <a href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank" class="product-link">
             查看原文 →
           </a>
         </div>
         
         <div class="product-card">
           <div class="product-title">
-            AT&T推出AI助手新应用，前景如何？
+            299美元避障无人机Skyrover S
           </div>
 
           <div class="product-meta">
-            Android Authority · Wed, 18 Mar 2026
+            DroneDJ · Sat, 07 Mar 2026 07:52:00
           </div>
 
           <div class="product-summary">
-            AT&T推出新中心，配备AI助手，旨在提升用户体验，受到客户喜爱。
+            一款售价低于300美元的无人机，具备DJI级别的功能，令人难以置信。
           </div>
 
-          <a href="https://www.androidauthority.com/att-rolls-out-new-app-3650259/" target="_blank" class="product-link">
+          <a href="https://dronedj.com/2026/03/06/skyrover-s1-drone-obstacle-avoidance/" target="_blank" class="product-link">
             查看原文 →
           </a>
         </div>
         
         <div class="product-card">
           <div class="product-title">
-            reMarkable新功能革新笔记体验
+            大疆新款无人机公布上市日期
           </div>
 
           <div class="product-meta">
-            Android Authority · Wed, 18 Mar 2026
+            DroneDJ · Wed, 11 Mar 2026 11:56:58
           </div>
 
           <div class="product-summary">
-            “发送到Miro”功能简化了将笔记转移到电脑的过程。
+            DJI发布神秘短片，预告新款8K无人机Avata即将于3月26日推出。
           </div>
 
-          <a href="https://www.androidauthority.com/remarkable-tablet-send-to-miro-3650186/" target="_blank" class="product-link">
+          <a href="https://dronedj.com/2026/03/11/dji-avata-360-drone-launch/" target="_blank" class="product-link">
             查看原文 →
           </a>
         </div>
         
         <div class="product-card">
           <div class="product-title">
-            Fairphone Gen 6用户提前迎
+            谷歌推出安卓侧载新规：强制等待期
           </div>
 
           <div class="product-meta">
-            Android Authority · Wed, 18 Mar 2026
+            The Verge Tech · 2026-03-19T13:00:33-04:00
           </div>
 
           <div class="product-summary">
-            首个七个承诺更新提前发布。
+            谷歌将推出强制开发者验证，届时安装某些安卓应用需遵循“高级流程”。
           </div>
 
-          <a href="https://www.androidauthority.com/fairphone-gen-6-android-16-early-3650136/" target="_blank" class="product-link">
+          <a href="https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process" target="_blank" class="product-link">
             查看原文 →
           </a>
         </div>
@@ -668,21 +783,229 @@
 </div>
 
 <script>
-  async function loadWeather(city, id) {
-    try {
-      const res = await fetch("https://goweather.herokuapp.com/weather/" + encodeURIComponent(city));
-      const data = await res.json();
+  const WEATHER_CITY_OPTIONS = {
+    cn: [
+      "Shenzhen", "Beijing", "Shanghai", "Guangzhou", "Hangzhou",
+      "Chengdu", "Wuhan", "Xiamen", "Nanjing", "Suzhou"
+    ],
+    us: [
+      "Los Angeles", "New York", "Seattle", "San Francisco", "Chicago",
+      "Austin", "Boston", "Miami", "Dallas", "Denver"
+    ]
+  };
 
-      if (!data || (!data.temperature && !data.description)) {
-        document.getElementById(id).textContent = "天气获取失败";
+  const WEATHER_CITY_LABELS = {
+    "Shenzhen": "深圳",
+    "Beijing": "北京",
+    "Shanghai": "上海",
+    "Guangzhou": "广州",
+    "Hangzhou": "杭州",
+    "Chengdu": "成都",
+    "Wuhan": "武汉",
+    "Xiamen": "厦门",
+    "Nanjing": "南京",
+    "Suzhou": "苏州",
+    "Los Angeles": "Los Angeles",
+    "New York": "New York",
+    "Seattle": "Seattle",
+    "San Francisco": "San Francisco",
+    "Chicago": "Chicago",
+    "Austin": "Austin",
+    "Boston": "Boston",
+    "Miami": "Miami",
+    "Dallas": "Dallas",
+    "Denver": "Denver"
+  };
+
+  function weatherIconFromCode(code) {
+    const c = Number(code);
+
+    if ([0].includes(c)) return "☀️";
+    if ([1, 2].includes(c)) return "⛅";
+    if ([3].includes(c)) return "☁️";
+    if ([45, 48].includes(c)) return "🌫️";
+    if ([51, 53, 55, 56, 57].includes(c)) return "🌦️";
+    if ([61, 63, 65, 66, 67, 80, 81, 82].includes(c)) return "🌧️";
+    if ([71, 73, 75, 77, 85, 86].includes(c)) return "❄️";
+    if ([95, 96, 99].includes(c)) return "⛈️";
+
+    return "⛅";
+  }
+
+  function weatherDescFromCode(code) {
+    const c = Number(code);
+
+    const map = {
+      0: "晴朗",
+      1: "基本晴",
+      2: "局部多云",
+      3: "阴天",
+      45: "雾",
+      48: "冻雾",
+      51: "小毛雨",
+      53: "毛雨",
+      55: "大毛雨",
+      56: "冻毛雨",
+      57: "强冻毛雨",
+      61: "小雨",
+      63: "中雨",
+      65: "大雨",
+      66: "冻雨",
+      67: "强冻雨",
+      71: "小雪",
+      73: "中雪",
+      75: "大雪",
+      77: "雪粒",
+      80: "阵雨",
+      81: "强阵雨",
+      82: "暴雨",
+      85: "阵雪",
+      86: "强阵雪",
+      95: "雷暴",
+      96: "雷暴伴小冰雹",
+      99: "雷暴伴大冰雹"
+    };
+
+    return map[c] || "天气未知";
+  }
+
+  async function geocodeCity(city) {
+    const url = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(city)}&count=1&language=zh&format=json`;
+    const res = await fetch(url);
+    const data = await res.json();
+
+    if (!data || !data.results || !data.results.length) {
+      throw new Error("city not found");
+    }
+
+    return data.results[0];
+  }
+
+  async function fetchWeatherByCity(city) {
+    const geo = await geocodeCity(city);
+    const lat = geo.latitude;
+    const lon = geo.longitude;
+
+    const weatherUrl =
+      `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}` +
+      `&current=temperature_2m,weather_code` +
+      `&daily=weather_code,temperature_2m_max,temperature_2m_min` +
+      `&timezone=auto`;
+
+    const res = await fetch(weatherUrl);
+    const data = await res.json();
+
+    return {
+      cityLabel: WEATHER_CITY_LABELS[city] || geo.name || city,
+      current: data.current,
+      daily: data.daily
+    };
+  }
+
+  function renderWeather(type, payload) {
+    const iconEl = document.getElementById(`${type}-weather-icon`);
+    const cityEl = document.getElementById(`${type}-weather-city`);
+    const tempEl = document.getElementById(`${type}-weather-temp`);
+    const descEl = document.getElementById(`${type}-weather-desc`);
+    const forecastEl = document.getElementById(`${type}-weather-forecast`);
+
+    const current = payload.current || {};
+    const daily = payload.daily || {};
+
+    cityEl.textContent = payload.cityLabel || "";
+    tempEl.textContent = current.temperature_2m != null ? `${current.temperature_2m}°C` : "天气获取失败";
+    descEl.textContent = weatherDescFromCode(current.weather_code);
+    iconEl.textContent = weatherIconFromCode(current.weather_code);
+
+    const days = (daily.time || []).slice(0, 3);
+    const maxs = daily.temperature_2m_max || [];
+    const mins = daily.temperature_2m_min || [];
+    const codes = daily.weather_code || [];
+
+    const labels = ["今天", "明天", "后天"];
+
+    forecastEl.innerHTML = days.map((_, i) => {
+      const code = codes[i];
+      const icon = weatherIconFromCode(code);
+      const desc = weatherDescFromCode(code);
+      const max = maxs[i] != null ? Math.round(maxs[i]) : "-";
+      const min = mins[i] != null ? Math.round(mins[i]) : "-";
+
+      return `
+        <div class="weather-forecast-item">
+          <div class="weather-forecast-day">${labels[i] || ""}</div>
+          <div class="weather-forecast-icon">${icon}</div>
+          <div class="weather-forecast-temp">${max}° / ${min}°</div>
+          <div class="weather-forecast-desc">${desc}</div>
+        </div>
+      `;
+    }).join("");
+  }
+
+  async function updateWeather(type, city) {
+    try {
+      const payload = await fetchWeatherByCity(city);
+      renderWeather(type, payload);
+    } catch (e) {
+      document.getElementById(`${type}-weather-city`).textContent = city;
+      document.getElementById(`${type}-weather-temp`).textContent = "天气获取失败";
+      document.getElementById(`${type}-weather-desc`).textContent = "";
+      document.getElementById(`${type}-weather-icon`).textContent = "⚠️";
+      document.getElementById(`${type}-weather-forecast`).innerHTML = "";
+    }
+  }
+
+  function bindWeatherSearch(type, defaultCity) {
+    const input = document.getElementById(`${type}-city-input`);
+    const dropdown = document.getElementById(`${type}-city-dropdown`);
+    const options = WEATHER_CITY_OPTIONS[type];
+
+    function renderDropdown(keyword = "") {
+      const list = options.filter(city =>
+        city.toLowerCase().includes(keyword.toLowerCase())
+      );
+
+      if (!list.length) {
+        dropdown.innerHTML = "";
+        dropdown.classList.remove("show");
         return;
       }
 
-      document.getElementById(id).textContent =
-        city + " " + (data.temperature || "") + " " + (data.description || "");
-    } catch (e) {
-      document.getElementById(id).textContent = "天气获取失败";
+      dropdown.innerHTML = list.map(city => `
+        <div class="weather-dropdown-item" data-city="${city}">
+          ${WEATHER_CITY_LABELS[city] || city}
+        </div>
+      `).join("");
+
+      dropdown.classList.add("show");
     }
+
+    input.addEventListener("focus", () => {
+      renderDropdown(input.value.trim());
+    });
+
+    input.addEventListener("input", () => {
+      renderDropdown(input.value.trim());
+    });
+
+    dropdown.addEventListener("mousedown", (e) => {
+      const item = e.target.closest(".weather-dropdown-item");
+      if (!item) return;
+
+      const city = item.getAttribute("data-city");
+      input.value = WEATHER_CITY_LABELS[city] || city;
+      dropdown.classList.remove("show");
+      updateWeather(type, city);
+    });
+
+    document.addEventListener("click", (e) => {
+      if (!dropdown.contains(e.target) && e.target !== input) {
+        dropdown.classList.remove("show");
+      }
+    });
+
+    updateWeather(type, defaultCity);
+    input.value = WEATHER_CITY_LABELS[defaultCity] || defaultCity;
   }
 
   function updateTimezones() {
@@ -707,8 +1030,8 @@
     });
   }
 
-  loadWeather("Shenzhen", "cn-weather");
-  loadWeather("Los Angeles", "us-weather");
+  bindWeatherSearch("cn", "Shenzhen");
+  bindWeatherSearch("us", "Los Angeles");
   updateTimezones();
   setInterval(updateTimezones, 60000);
 </script>

@@ -139,12 +139,6 @@
       padding: 16px 18px;
     }
 
-    .mini-label {
-      font-size: 12px;
-      color: var(--muted-2);
-      margin-bottom: 8px;
-    }
-
     .mini-value {
       font-size: 16px;
       line-height: 1.65;
@@ -233,11 +227,6 @@
       letter-spacing: -0.02em;
     }
 
-    .section-meta {
-      font-size: 12px;
-      color: var(--muted-2);
-    }
-
     .headline-list {
       display: flex;
       flex-direction: column;
@@ -264,6 +253,11 @@
       line-height: 1.55;
       font-weight: 650;
       margin-bottom: 8px;
+      display: inline-block;
+    }
+
+    .headline-title:hover {
+      color: #4d5157;
     }
 
     .headline-note {
@@ -374,6 +368,11 @@
       line-height: 1.45;
       font-weight: 680;
       margin-bottom: 8px;
+      display: inline-block;
+    }
+
+    .product-title:hover {
+      color: #4d5157;
     }
 
     .product-meta {
@@ -431,6 +430,23 @@
       color: #5a5f67;
     }
 
+    .feedback-list {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 6px;
+    }
+
+    .feedback-card {
+      padding: 16px;
+      border-radius: 18px;
+      border: 1px solid var(--line-soft);
+      background: #fafafa;
+      font-size: 14px;
+      line-height: 1.8;
+      color: #2f3238;
+    }
+
     @media (max-width: 1120px) {
       .hero-grid,
       .section-row {
@@ -439,7 +455,8 @@
       .watch-grid {
         grid-template-columns: repeat(2, 1fr);
       }
-      .product-grid {
+      .product-grid,
+      .feedback-list {
         grid-template-columns: 1fr 1fr;
       }
       .tz-grid {
@@ -459,7 +476,8 @@
       }
       .product-grid,
       .watch-grid,
-      .tz-grid {
+      .tz-grid,
+      .feedback-list {
         grid-template-columns: 1fr;
       }
     }
@@ -491,7 +509,6 @@
           <div style="margin-top:18px;">
             <div class="section-head" style="margin-bottom:10px;">
               <h2 class="section-title" style="font-size:16px;">美国 6 时区</h2>
-              <div class="section-meta">业务协作参考</div>
             </div>
             <div class="tz-grid">
               {% for tz in us_timezones %}
@@ -506,7 +523,6 @@
 
         <div class="mini-stack">
           <div class="mini-card">
-            <div class="mini-label">节日与营销节点</div>
             <div class="festival-list">
               {% for f in festival_cards %}
               <a class="festival-link" href="{{ f.slug }}.html">
@@ -518,7 +534,6 @@
           </div>
 
           <div class="mini-card">
-            <div class="mini-label">最重要新闻</div>
             <div class="mini-value">
               {% if lead_story %}
                 {{ lead_story.display_title or lead_story.title or lead_story.name }}
@@ -536,7 +551,6 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">头条三条</h2>
-          <div class="section-meta">老板速览</div>
         </div>
         <div class="headline-list">
           {% for item in headline_trio %}
@@ -554,7 +568,6 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">今日重点</h2>
-          <div class="section-meta">一句话判断</div>
         </div>
         <ul class="signal-list">
           {% for item in takeaways %}
@@ -568,7 +581,6 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">机会提示</h2>
-          <div class="section-meta">值得跟进</div>
         </div>
         <ul class="signal-list">
           {% for item in opportunity_signals %}
@@ -580,7 +592,6 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">风险提示</h2>
-          <div class="section-meta">优先关注</div>
         </div>
         <ul class="signal-list">
           {% for item in risk_signals %}
@@ -593,7 +604,6 @@
     <section class="card section-card" style="margin-bottom:18px;">
       <div class="section-head">
         <h2 class="section-title">竞品 / 平台动态</h2>
-        <div class="section-meta">命中监控对象</div>
       </div>
       <div class="watch-grid">
         {% for entity in monitored_entities %}
@@ -614,7 +624,6 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">消费电子</h2>
-          <div class="section-meta">品牌 / 产品 / 趋势</div>
         </div>
 
         {% for item in consumer_electronics %}
@@ -641,7 +650,6 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">渠道 / 平台</h2>
-          <div class="section-meta">电商 / 零售 / 合作</div>
         </div>
 
         {% for item in channel_news %}
@@ -666,10 +674,9 @@
       </section>
     </div>
 
-    <section class="card section-card">
+    <section class="card section-card" style="margin-bottom:18px;">
       <div class="section-head">
         <h2 class="section-title">新品速递</h2>
-        <div class="section-meta">新品 / 发布 / 趋势补充</div>
       </div>
 
       <div class="product-grid">
@@ -687,6 +694,17 @@
           <div class="product-summary">{{ item.display_summary or item.summary }}</div>
           <div class="news-note">{{ item.business_note }}</div>
         </article>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="card section-card">
+      <div class="section-head">
+        <h2 class="section-title">意见反馈</h2>
+      </div>
+      <div class="feedback-list">
+        {% for item in feedback_items %}
+        <div class="feedback-card">{{ item }}</div>
         {% endfor %}
       </div>
     </section>

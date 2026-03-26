@@ -6,8 +6,14 @@ from typing import Any, Dict, List, Optional
 
 from openai import OpenAI
 
-from common import dump_json, load_json, load_yaml, logger
-
+from common import (
+    build_dedupe_key,
+    dump_json,
+    is_meaningful_text,
+    load_json,
+    load_yaml,
+    logger,
+)
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 client: Optional[OpenAI] = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
@@ -16,18 +22,35 @@ client: Optional[OpenAI] = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else
 def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     seen = set()
     out = []
+
     for x in items:
-        key = (x.get("title") or x.get("name"), x.get("url"))
+        title = x.get("title") or x.get("name", "")
+        summary = x.get("summary", "")
+        key = build_dedupe_key(title=title, url=x.get("url", ""), summary=summary)
+
         if key in seen:
             continue
         seen.add(key)
+        out.append(x)
+
+    return out
+
+
+def filter_valid_items(items: List[Dict[str, Any]], title_field: str) -> List[Dict[str, Any]]:
+    out = []
+    for x in items:
+        title = x.get(title_field, "")
+        url = x.get("url", "")
+        if not is_meaningful_text(title, 6):
+            continue
+        if not url:
+            continue
         out.append(x)
     return out
 
 
 def ai_generate(prompt: str, fallback: str, max_len: int = 40) -> str:
     if client is None:
-        logger.warning("OPENAI_API_KEY not found, fallback text will be used")
         return fallback[:max_len]
 
     try:
@@ -80,7 +103,9 @@ def score_item(
     keyword_conf: Dict[str, Any],
 ) -> int:
     title = (item.get("title") or item.get("name") or "").lower()
+    summary = (item.get("summary") or "").lower()
     source = item.get("source", "")
+    text = f"{title} {summary}"
     score = 0
 
     score += source_priority.get(source, 0) * 10
@@ -90,11 +115,11 @@ def score_item(
     medium_keywords = bucket_keywords.get("medium", [])
 
     for kw in high_keywords:
-        if kw.lower() in title:
+        if kw.lower() in text:
             score += 30
 
     for kw in medium_keywords:
-        if kw.lower() in title:
+        if kw.lower() in text:
             score += 10
 
     if len(title) > 120:
@@ -115,6 +140,12 @@ def generate_takeaways(
     channel_news: List[Dict[str, Any]],
     products: List[Dict[str, Any]],
 ) -> List[str]:
+    if not consumer_news and not channel_news and not products:
+        return [
+            "今日抓取内容较少，建议重点复核数据源状态",
+            "当前更适合关注节日节点与后续补充更新",
+        ]
+
     consumer_titles = [x.get("display_title") or x.get("title", "") for x in consumer_news[:6]]
     channel_titles = [x.get("display_title") or x.get("title", "") for x in channel_news[:6]]
     product_titles = [x.get("display_title") or x.get("name", "") for x in products[:6]]
@@ -147,7 +178,6 @@ def generate_takeaways(
     ]
 
     if client is None:
-        logger.warning("OPENAI_API_KEY not found, fallback takeaways will be used")
         return fallback
 
     try:
@@ -266,6 +296,32 @@ def build_tag_text(item: Dict[str, Any], bucket: str = "") -> List[str]:
     return detect_tags(text, bucket)
 
 
+def build_placeholder_item(title: str, bucket: str) -> Dict[str, Any]:
+    return {
+        "title": title,
+        "display_title": title,
+        "summary": "",
+        "url": "#",
+        "source": "system",
+        "bucket": bucket,
+        "tags": ["📭 暂无更新"],
+        "_score": -1,
+    }
+
+
+def build_placeholder_product(title: str) -> Dict[str, Any]:
+    return {
+        "name": title,
+        "display_title": title,
+        "display_summary": "当前新品源暂无有效更新",
+        "summary": "",
+        "url": "#",
+        "source": "system",
+        "tags": ["📭 暂无更新"],
+        "_score": -1,
+    }
+
+
 def main() -> None:
     news = load_json("data/raw/news.json", {})
     products = load_json("data/raw/products.json", {"products": []})
@@ -275,12 +331,22 @@ def main() -> None:
     )
     config = load_yaml("config/news_sources.yaml")
 
-    consumer = dedupe(news.get("consumer_electronics", []))
-    channel = dedupe(news.get("channel_news", []))
+    consumer = filter_valid_items(
+        dedupe(news.get("consumer_electronics", [])),
+        "title",
+    )
+    channel = filter_valid_items(
+        dedupe(news.get("channel_news", [])),
+        "title",
+    )
+    product_items = filter_valid_items(
+        dedupe(products.get("products", [])),
+        "name",
+    )
 
     logger.info(
         f"Loaded raw content | consumer={len(consumer)}, "
-        f"channel={len(channel)}, products={len(products.get('products', []))}"
+        f"channel={len(channel)}, products={len(product_items)}"
     )
 
     consumer_source_priority = build_source_priority(
@@ -315,14 +381,22 @@ def main() -> None:
 
     channel = sorted(channel, key=lambda x: x["_score"], reverse=True)[:9]
 
-    product_items = dedupe(products.get("products", []))[:6]
-
+    product_items = product_items[:6]
     for x in product_items:
         name = x.get("name", "")
         summary = x.get("summary", "")
         x["display_title"] = simplify_title(name) or name
         x["display_summary"] = simplify_summary(summary) or summary
         x["tags"] = build_tag_text(x, "products")
+
+    if not consumer:
+        consumer = [build_placeholder_item("今日消费电子新闻暂无有效更新", "consumer_electronics")]
+
+    if not channel:
+        channel = [build_placeholder_item("今日渠道新闻暂无有效更新", "channel_news")]
+
+    if not product_items:
+        product_items = [build_placeholder_product("今日新品暂无有效更新")]
 
     payload = {
         "date": str(date.today()),

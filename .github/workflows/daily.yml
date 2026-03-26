@@ -29,6 +29,11 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/main.py
 
+      - name: 同步 dist 到 docs
+        run: |
+          rm -rf docs/*
+          cp -r dist/* docs/
+
       - name: 提交更新后的 docs
         run: |
           git config user.name "github-actions"

@@ -11,14 +11,15 @@ from common import (
     is_meaningful_text,
     load_yaml,
     logger,
+    parse_datetime,
 )
 
 MAX_PER_SOURCE = 12
 
 
-def clean_title(title: str) -> str:
-    title = (title or "").replace("\n", " ").strip()
-    return " ".join(title.split())
+def clean_text(text: str) -> str:
+    text = (text or "").replace("\n", " ").strip()
+    return " ".join(text.split())
 
 
 def fetch_rss(url: str) -> List[Dict]:
@@ -26,22 +27,25 @@ def fetch_rss(url: str) -> List[Dict]:
     items = []
 
     for e in feed.entries[:MAX_PER_SOURCE]:
-        title = clean_title(getattr(e, "title", ""))
+        title = clean_text(getattr(e, "title", ""))
         link = getattr(e, "link", "")
-        published = getattr(e, "published", "")
-        summary = getattr(e, "summary", "") or getattr(e, "description", "") or ""
+        published = clean_text(getattr(e, "published", ""))
+        summary = clean_text(getattr(e, "summary", "") or getattr(e, "description", ""))
 
         if not is_meaningful_text(title, 6):
             continue
         if not link:
             continue
 
+        published_dt = parse_datetime(published)
+
         items.append(
             {
                 "title": title,
-                "summary": " ".join(summary.split())[:280],
+                "summary": summary[:320],
                 "url": link,
                 "published": published,
+                "published_iso": published_dt.isoformat() if published_dt else "",
             }
         )
 
@@ -58,10 +62,8 @@ def dedupe_news_items(items: List[Dict]) -> List[Dict]:
             url=item.get("url", ""),
             summary=item.get("summary", ""),
         )
-
         if key in seen:
             continue
-
         seen.add(key)
         out.append(item)
 
@@ -100,9 +102,7 @@ def main() -> None:
                 logger.warning(f"News source failed: {source['name']} -> {e}")
 
         deduped = dedupe_news_items(bucket_items)
-        logger.info(
-            f"Bucket {bucket} raw={len(bucket_items)} deduped={len(deduped)}"
-        )
+        logger.info(f"Bucket {bucket} raw={len(bucket_items)} deduped={len(deduped)}")
         result[bucket] = deduped
 
     total = len(result["consumer_electronics"]) + len(result["channel_news"])

@@ -139,12 +139,6 @@
       padding: 16px 18px;
     }
 
-    .mini-label {
-      font-size: 12px;
-      color: var(--muted-2);
-      margin-bottom: 8px;
-    }
-
     .mini-value {
       font-size: 16px;
       line-height: 1.65;
@@ -233,11 +227,6 @@
       letter-spacing: -0.02em;
     }
 
-    .section-meta {
-      font-size: 12px;
-      color: var(--muted-2);
-    }
-
     .headline-list {
       display: flex;
       flex-direction: column;
@@ -264,6 +253,11 @@
       line-height: 1.55;
       font-weight: 650;
       margin-bottom: 8px;
+      display: inline-block;
+    }
+
+    .headline-title:hover {
+      color: #4d5157;
     }
 
     .headline-note {
@@ -374,6 +368,11 @@
       line-height: 1.45;
       font-weight: 680;
       margin-bottom: 8px;
+      display: inline-block;
+    }
+
+    .product-title:hover {
+      color: #4d5157;
     }
 
     .product-meta {
@@ -431,6 +430,23 @@
       color: #5a5f67;
     }
 
+    .feedback-list {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 6px;
+    }
+
+    .feedback-card {
+      padding: 16px;
+      border-radius: 18px;
+      border: 1px solid var(--line-soft);
+      background: #fafafa;
+      font-size: 14px;
+      line-height: 1.8;
+      color: #2f3238;
+    }
+
     @media (max-width: 1120px) {
       .hero-grid,
       .section-row {
@@ -439,7 +455,8 @@
       .watch-grid {
         grid-template-columns: repeat(2, 1fr);
       }
-      .product-grid {
+      .product-grid,
+      .feedback-list {
         grid-template-columns: 1fr 1fr;
       }
       .tz-grid {
@@ -459,7 +476,8 @@
       }
       .product-grid,
       .watch-grid,
-      .tz-grid {
+      .tz-grid,
+      .feedback-list {
         grid-template-columns: 1fr;
       }
     }
@@ -475,23 +493,22 @@
         <div>
           <div class="eyebrow">North America Watchboard · 美国优先，中国次之</div>
           <h1 class="hero-title">北美业务情报日报</h1>
-          <div class="hero-subtitle">2026-03-26 08:20 UTC · 24h后开始降权 · AI 已启用</div>
+          <div class="hero-subtitle">2026-03-26 08:50 UTC · 24h后开始降权 · AI 已启用</div>
 
           <div class="lead-summary">
-            Sonos Ace降价25%将提升销量，亚马逊春季大促将对音频市场竞争格局产生重
+            亚马逊一小时送货服务将加剧零售竞争，沃尔玛等需加快电商转型以应对压力。
           </div>
 
           <div class="top-meta">
             <div class="pill">📅 2026-03-26</div>
             <div class="pill">📰 消费电子 10</div>
             <div class="pill">🏬 渠道 10</div>
-            <div class="pill">🚀 新品 6</div>
+            <div class="pill">🚀 新品 1</div>
           </div>
 
           <div style="margin-top:18px;">
             <div class="section-head" style="margin-bottom:10px;">
               <h2 class="section-title" style="font-size:16px;">美国 6 时区</h2>
-              <div class="section-meta">业务协作参考</div>
             </div>
             <div class="tz-grid">
               
@@ -531,7 +548,6 @@
 
         <div class="mini-stack">
           <div class="mini-card">
-            <div class="mini-label">节日与营销节点</div>
             <div class="festival-list">
               
               <a class="festival-link" href="easter.html">
@@ -558,10 +574,9 @@
           </div>
 
           <div class="mini-card">
-            <div class="mini-label">最重要新闻</div>
             <div class="mini-value">
               
-                Sonos Ace在亚马逊春季大促中降价25%
+                亚马逊一小时送货施压沃尔玛等零售商
               
             </div>
           </div>
@@ -574,16 +589,15 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">头条三条</h2>
-          <div class="section-meta">老板速览</div>
         </div>
         <div class="headline-list">
           
           <div class="headline-item">
             <div class="headline-rank">Top 1</div>
-            <a class="headline-title" href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-              Sonos Ace在亚马逊春季大促中降价25%
+            <a class="headline-title" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">
+              亚马逊一小时送货施压沃尔玛等零售商
             </a>
-            <div class="headline-note">亚马逊春季大促是提升Sony耳机销量的关键时机。</div>
+            <div class="headline-note">亚马逊一小时送达服务对零售商构成压力，需加速电商转型。</div>
           </div>
           
           <div class="headline-item">
@@ -591,15 +605,15 @@
             <a class="headline-title" href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
               Sonos Ace在亚马逊春季大促中降价25%
             </a>
-            <div class="headline-note">亚马逊春季大促为Sony耳机提供了显著折扣，提升品牌曝光。</div>
+            <div class="headline-note">亚马逊春季大促为Sony耳机提供了良好的销售机会，需抓住市场热度。</div>
           </div>
           
           <div class="headline-item">
             <div class="headline-rank">Top 3</div>
-            <a class="headline-title" href="https://dronedj.com/2026/03/19/djis-smallest-drone-just-hit-its-lowest-price-again/" target="_blank">
-              大疆最小无人机再次降价至新低
+            <a class="headline-title" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">
+              H2O Audio Tri Run评测：开放耳机
             </a>
-            <div class="headline-note">DJI小型无人机在亚马逊降价，有助于提升销量和市场份额。</div>
+            <div class="headline-note">H2O Audio Tri Run耳机性价比高，适合注重性价比的消费者。</div>
           </div>
           
         </div>
@@ -608,19 +622,18 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">今日重点</h2>
-          <div class="section-meta">一句话判断</div>
         </div>
         <ul class="signal-list">
           
-          <li class="signal-item">Sonos Ace降价25%将提升其在竞争激烈的音频市场的销量，可能对其他品牌形成压力。</li>
+          <li class="signal-item">亚马逊一小时送货将加剧零售商竞争，沃尔玛需迅速调整策略以应对压力。</li>
           
-          <li class="signal-item">Spotify允许艺术家审核发布，或将增强用户对平台内容的信任，推动更多创作者入驻。</li>
+          <li class="signal-item">Sonos Ace降价25%可能吸引更多消费者，竞争对手需加快促销以保持市场份额。</li>
           
-          <li class="signal-item">亚马逊春季大促的精选优惠将吸引更多消费者，可能影响其他电商平台的流量和销售策略。</li>
+          <li class="signal-item">骨传导耳机降价20%将刺激市场需求，品牌需关注用户体验以提升销量。</li>
           
-          <li class="signal-item">宜家与百思买的店中店合作模式，可能为零售商提供新的增长机会，值得关注其后续表现。</li>
+          <li class="signal-item">Best Buy与亚马逊的科技优惠竞争激烈，消费者将受益于更具吸引力的价格。</li>
           
-          <li class="signal-item">Meta裁员可能影响其消费电子产品的研发进程，竞争对手需抓住这一机会加速市场布局。</li>
+          <li class="signal-item">FedEx与OneRail同日送达服务将提升电商效率，传统零售商需加快物流升级。</li>
           
         </ul>
       </section>
@@ -630,15 +643,14 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">机会提示</h2>
-          <div class="section-meta">值得跟进</div>
         </div>
         <ul class="signal-list">
           
-          <li class="signal-item">亚马逊春季大促为Sony耳机提供显著折扣，管理层应抓住这一时机提升销量和品牌曝光。</li>
+          <li class="signal-item">亚马逊一小时送达服务对零售商构成压力，需加速电商转型以提升市场竞争力。</li>
           
-          <li class="signal-item">DJI Mini 4K以平价配件价格推出，有望吸引更多入门用户，建议加大市场推广力度以扩大用户基础。</li>
+          <li class="signal-item">利用亚马逊春季大促的热度，Sony耳机降价25%为品牌提供了良好的销售机会，需积极推广以吸引消费者。</li>
           
-          <li class="signal-item">大疆无人机降价可能改变市场竞争格局，管理层需评估调整定价策略以维护品牌形象和市场份额。</li>
+          <li class="signal-item">H2O Audio Tri Run耳机性价比高，适合注重性价比的消费者，需加强品牌营销以拓展目标市场。</li>
           
         </ul>
       </section>
@@ -646,15 +658,14 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">风险提示</h2>
-          <div class="section-meta">优先关注</div>
         </div>
         <ul class="signal-list">
           
-          <li class="signal-item">Sonos Ace降价25%可能导致竞争对手价格战，影响整体利润率。</li>
+          <li class="signal-item">亚马逊一小时送货服务加剧了零售商的竞争压力，需加速电商转型以维持市场份额。</li>
           
-          <li class="signal-item">大疆无人机降价至新低，可能引发市场价格下滑，影响品牌价值。</li>
+          <li class="signal-item">Best Buy与亚马逊的促销竞争日益激烈，若未能及时调整策略，可能导致销售下滑。</li>
           
-          <li class="signal-item">Target技术转型成功与否将直接影响其电商销售增长，需密切关注实施效果。</li>
+          <li class="signal-item">亚马逊和沃尔玛因违规销售被罚，可能对品牌信誉造成长期负面影响，需加强合规管理。</li>
           
         </ul>
       </section>
@@ -663,52 +674,15 @@
     <section class="card section-card" style="margin-bottom:18px;">
       <div class="section-head">
         <h2 class="section-title">竞品 / 平台动态</h2>
-        <div class="section-meta">命中监控对象</div>
       </div>
       <div class="watch-grid">
         
         <div class="watch-card">
           <div class="watch-name">Amazon</div>
-          <div class="watch-type">渠道 · 6 条命中</div>
+          <div class="watch-type">渠道 · 13 条命中</div>
           <div class="watch-links">
             
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
-            
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">DJI</div>
-          <div class="watch-type">品牌 · 5 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://dronedj.com/2026/03/19/djis-smallest-drone-just-hit-its-lowest-price-again/" target="_blank">大疆最小无人机再次降价至新低</a>
-            
-            <a href="https://dronedj.com/2026/03/26/dji-avata-360-us-launch/" target="_blank">大疆Avata 360无人机在美上市延迟</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">Target</div>
-          <div class="watch-type">渠道 · 2 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">Target首席技术官助力零售商转型计划</a>
-            
-            <a href="https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones" target="_blank">Spotify允许艺术家手动审核发布以打击AI伪</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">Sony</div>
-          <div class="watch-type">品牌 · 2 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">亚马逊一小时送货施压沃尔玛等零售商</a>
             
             <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
             
@@ -717,32 +691,82 @@
         
         <div class="watch-card">
           <div class="watch-name">headphone</div>
-          <div class="watch-type">品类 · 2 条命中</div>
+          <div class="watch-type">品类 · 7 条命中</div>
           <div class="watch-links">
             
             <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
             
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">H2O Audio Tri Run评测：开放耳机</a>
             
           </div>
         </div>
         
         <div class="watch-card">
           <div class="watch-name">Walmart</div>
-          <div class="watch-type">渠道 · 1 条命中</div>
+          <div class="watch-type">渠道 · 5 条命中</div>
           <div class="watch-links">
             
-            <a href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">沃尔玛新任CEO：约翰·弗纳接替麦克米伦</a>
+            <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">亚马逊一小时送货施压沃尔玛等零售商</a>
+            
+            <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaW91dWxqVF83b3h2QUZtRF9HTUlaS29JZ2wxME1ZSjVkVDBlSGtFMmNraVVBMTZkTmNpTFRzSkpEdW16U1V4b21mUUNXZmN6Y083VVh1MzdINVdjUlJVZllFclhfaElPbFJjUF8ydi1VNVhDZzBmLVlBdUMxWGpYLUNaNkI5dWVXSG5xSmVLT2xPcHBJbEIza2FxampENWtLekVwUWxxTUE?oc=5" target="_blank">亚马逊和沃尔玛因售禁用制冷剂在华盛顿被罚</a>
+            
+          </div>
+        </div>
+        
+        <div class="watch-card">
+          <div class="watch-name">Sony</div>
+          <div class="watch-type">品牌 · 3 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            
+            <a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMHVXYzFSVjJhb0h3bVpPMWtZOHVBZjdEb0VSeERZN1lVSFBIT3NvR0JYM2J2RHpnbXhRTmxxS3gzOV80bE5qc1U5VEhrVWpNS2owV3dPdWt0LU02RmlkOVVjQ1EzS2h1bWlJbXAtYnVMa1FCQW0xc0hsTzVUTjdxZlE2MDYwdXhfZmJUaWYzS3BIS0ZYOFkyM1M1UGhhV2JSdGtkSEhiZ05hNHRvWEZpVXNpN192ZUUyUExaR3ZSYWhFZUwyZG8xTnB0UzJjVkhIS3FwUWZaRjNTd2FfU3FmOUt4ZWc3cXVnQ1E?oc=5" target="_blank">索尼发布新款BRAVIA家庭影院音响系列</a>
             
           </div>
         </div>
         
         <div class="watch-card">
           <div class="watch-name">Best Buy</div>
+          <div class="watch-type">渠道 · 2 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNajBOR1kyVEgzS3BUdXdvbF9WQXdYTTJpT0w3RUZ0aWtIR2lzVUNBSl81dVBNTW9YNnBRa1VNNVFtcVFBZ2xPQkRpemN2TFBHY1JZMmpPazEwUnV4STJkTmRuYkljcTdjcGZFNXl3YklaXzFXUEhITlQ2Zjc1OW1iYWVjSUVkWDZsbnFmSzdvMzVmeHJhQ1FubVRGUQ?oc=5" target="_blank">今日Best Buy与亚马逊竞争的科技优惠值得关</a>
+            
+            <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWpPbm5oQ2xNQ0FyLTNWMGljeHlGeEVBUVJEYnprblNMOG1FcUc0dVc2OXBkMkRRYUVjLTlkcnViMU55T0VYU0s3SHFtbEwwNzA3Z2dOa204YzloREVmNW9WM09yTS1qU3NhWDRab2pOZ2lpR1o5VFdiXzhxY1pKX2VFb3k3bE5FNUxwS3p2cFdocmpzRDRBWE5WTFk?oc=5" target="_blank">今日Best Buy与亚马逊的科技优惠值得关注</a>
+            
+          </div>
+        </div>
+        
+        <div class="watch-card">
+          <div class="watch-name">Costco</div>
+          <div class="watch-type">渠道 · 2 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU90WVJSVnhrX0VxdWhsSzRqODZaSnF2VGZ5dW9VbFBKSXJCQkFJM0RJZExYWWtWc3B1Rk95OUlZQm5oaFNwbkFXV0R2Tkw3aWhJbTBNOEVndDdTOVNLWE5NNVhZSkhXNjlrVDIwalM0bVZfYU1uUjdCOEU1SVF1eFBRYmxHVmRy?oc=5" target="_blank">亚马逊欲在芝加哥郊区挑战好市多</a>
+            
+            <a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUJmMlJ0c044aC1iVlBIY3hsOEh5NUE3WTg2aVJjZnl3UW80LWVZdHYwUk5SUVdZUy00Ti1pN3cyUlo5LXJPaFdWSERIS1M3SGJOMk1mbVNERGhWMEotVUJRMDJjN29lWFZaeG1TajExLW1XclZERkZwYmlja0EzS1h6Y01hZjNXa3NoN24zN2NaWTZaSkhN?oc=5" target="_blank">全食、Trader Joe's、Costco、W</a>
+            
+          </div>
+        </div>
+        
+        <div class="watch-card">
+          <div class="watch-name">bone conduction</div>
+          <div class="watch-type">品类 · 2 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnBoVWR5NWNpc3VsLWxncE0yRHpUSHkwZldIZnpfdnZ5aHJSVlpfZ0R4dmtLQVNLZ2FGWEFWazJ3Z05TZE1RWUpISnRpbmcyWnlXWFphMHFZZlFQNGR4YmNfV1NwOGxJV2ZBT2dRYTRDVWNqNk1QUGZ0NXNvSHI3YTlBTVkzX29iVGw5YWFxR01ZQ3hLM0JDSFA0aWxsZkVa?oc=5" target="_blank">亚马逊春季大促：骨传导耳机降价20%</a>
+            
+            <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1BkQS1xV2N4a2dCcDVSc0VtZVlCVjExZTFQWTU5WC1JdFhNNkpydW5uVS1EamY2MklpalR1Y2NYQ0FLal8tYnMzYmE5NVl4ZDBPWGliMXQwMVZ3dV9PTzlCLWFnWExUUWk2ajFnZWtnRTZGUjhlUU9yU0I4dUdoeWJuS0Nvdw?oc=5" target="_blank">Suunto骨传导耳机：专注听音不失联</a>
+            
+          </div>
+        </div>
+        
+        <div class="watch-card">
+          <div class="watch-name">Target</div>
           <div class="watch-type">渠道 · 1 条命中</div>
           <div class="watch-links">
             
-            <a href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">宜家与百思买在佛州和德州试点店中店合作</a>
+            <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBPeTV2RFlNNk9IRmFOVFgxbXFHT0pvSDJjZjJtNUMtSHdNdUlhMFYxdktrWjdGTl9ZaTUwRGFqU1JXOHNDRGw4ekdiZElzWFJxX29DUHpqTWZ0RTZMeUFLc21TcTA2NDMwcFQ2WEVyQVJGT0lBcEHSAXtBVV95cUxPd1YydWFqX1F5eDNwY05Qa3U1b2JjUlhNS1pMc2dfTU9rV1loY1FYcFZyQ1gtUThNWDJ1V0lPbTNLZnVvSGhSWHNTM3J1R1hhRzQxVTJ2M3A2Y092cm9Xd0k2ZkxaYUVzZWhwbndiUk45QThmb3RMVTZfNFU?oc=5" target="_blank">亚马逊和塔吉特促销Apple笔记本和耳机</a>
             
           </div>
         </div>
@@ -754,7 +778,6 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">消费电子</h2>
-          <div class="section-meta">品牌 / 产品 / 趋势</div>
         </div>
 
         
@@ -777,109 +800,109 @@
             <span class="tag">💰 价格促销</span>
             
           </div>
-          <div class="news-note">亚马逊春季大促是提升Sony耳机销量的关键时机。</div>
+          <div class="news-note">亚马逊春季大促为Sony耳机提供了良好的销售机会，需抓住市场热度。</div>
         </article>
         
         <article class="news-item">
-          <a class="news-title" href="https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones" target="_blank">
-            Spotify允许艺术家手动审核发布以打击AI伪
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">
+            H2O Audio Tri Run评测：开放耳机
           </a>
           <div class="news-meta">
-            <span>The Verge</span>
+            <span>Google News - Audio Wearable Watch</span>
+            <span>近3天</span>
+            <span>中</span>
+            <span>品牌营销</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🏃 运动穿戴</span>
+            
+          </div>
+          <div class="news-note">H2O Audio Tri Run耳机性价比高，适合注重性价比的消费者。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnBoVWR5NWNpc3VsLWxncE0yRHpUSHkwZldIZnpfdnZ5aHJSVlpfZ0R4dmtLQVNLZ2FGWEFWazJ3Z05TZE1RWUpISnRpbmcyWnlXWFphMHFZZlFQNGR4YmNfV1NwOGxJV2ZBT2dRYTRDVWNqNk1QUGZ0NXNvSHI3YTlBTVkzX29iVGw5YWFxR01ZQ3hLM0JDSFA0aWxsZkVa?oc=5" target="_blank">
+            亚马逊春季大促：骨传导耳机降价20%
+          </a>
+          <div class="news-meta">
+            <span>Google News - Audio Wearable Watch</span>
             <span>24h内</span>
             <span>高</span>
             <span>电商</span>
           </div>
           <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🏃 运动穿戴</span>
             
             <span class="tag">🏬 平台电商</span>
             
-            <span class="tag">🚀 新品发布</span>
-            
           </div>
-          <div class="news-note">Spotify新功能可保护艺术家，提升品牌信任度，减少假冒作品影响。</div>
+          <div class="news-note">亚马逊春季大促销对骨传导耳机销售影响显著，需抓住机会。</div>
         </article>
         
         <article class="news-item">
-          <a class="news-title" href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">
-            亚马逊春季大促精选优惠汇总
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGtSbjZKN1FjNnlndHJDVS1mVGhWMERLWmE3U2YwSFNpLW0wS3dpYURMdjhtakVySTRzSGpQN1ViNjJPYV9BdUJLbkxuZWpldlpmeENUZ2lVaVhhVzN2NE5fTk55RnBGaHZqUmJfQ1VWelp1eVpxS1U0OERXLXo1S1ZVU1JNWmxEdGdaWWVhSWs?oc=5" target="_blank">
+            森海塞尔消费部门再度出售 - Headphone
           </a>
           <div class="news-meta">
-            <span>The Verge</span>
+            <span>Google News - Competitor Watch</span>
+            <span>近3天</span>
+            <span>高</span>
+            <span>品牌营销</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+          </div>
+          <div class="news-note">Sennheiser消费部门再次出售，可能影响品牌形象和市场份额。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1CLTBhcEk3WlhvbkFYZVdJZ3RtWU9xbmlNelBMLVVncWNIU2JKSnRGQVVjRFFoaFBfckJjYXVXU0pYcFp3dmUwNmxmRUJNLVM4Y1hveS1EWjl6U1ZqUElka09qOVVHbHBJOUwyRGNYZVZ5UmpHODA5Mm9mbw?oc=5" target="_blank">
+            亚马逊春季促销：20美元以下耳机推荐
+          </a>
+          <div class="news-meta">
+            <span>Google News - Audio Wearable Watch</span>
             <span>24h内</span>
             <span>高</span>
             <span>电商</span>
           </div>
           <div class="tag-row">
             
-            <span class="tag">🛒 渠道零售</span>
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🏃 运动穿戴</span>
             
             <span class="tag">🏬 平台电商</span>
             
-            <span class="tag">💰 价格促销</span>
-            
           </div>
-          <div class="news-note">亚马逊春季大促为电商团队提供了重要的销售机会，需抓住时机提升销量。</div>
+          <div class="news-note">亚马逊春季促销活动为耳机类产品提供了良好的销售机会。</div>
         </article>
         
         <article class="news-item">
-          <a class="news-title" href="https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale" target="_blank">
-            Fanttik X9 Pro便携式胎压泵降至数月
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1BkQS1xV2N4a2dCcDVSc0VtZVlCVjExZTFQWTU5WC1JdFhNNkpydW5uVS1EamY2MklpalR1Y2NYQ0FLal8tYnMzYmE5NVl4ZDBPWGliMXQwMVZ3dV9PTzlCLWFnWExUUWk2ajFnZWtnRTZGUjhlUU9yU0I4dUdoeWJuS0Nvdw?oc=5" target="_blank">
+            Suunto骨传导耳机：专注听音不失联
           </a>
           <div class="news-meta">
-            <span>The Verge</span>
-            <span>24h内</span>
+            <span>Google News - Audio Wearable Watch</span>
+            <span>近7天</span>
             <span>高</span>
-            <span>电商</span>
+            <span>品牌营销</span>
           </div>
           <div class="tag-row">
             
-            <span class="tag">🏬 平台电商</span>
+            <span class="tag">🎧 耳机音频</span>
             
-            <span class="tag">💰 价格促销</span>
-            
-          </div>
-          <div class="news-note">Fanttik X9 Pro充气泵降价，有助于提升电商销量和品牌曝光。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse" target="_blank">
-            迪士尼在元宇宙和AI投资遇挫
-          </a>
-          <div class="news-meta">
-            <span>The Verge</span>
-            <span>24h内</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🚀 新品发布</span>
-            
-            <span class="tag">💰 价格促销</span>
+            <span class="tag">🏃 运动穿戴</span>
             
           </div>
-          <div class="news-note">迪士尼在元宇宙和AI领域的投资面临挑战，影响电商业务发展。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://www.androidauthority.com/amazon-kindle-ereader-deal-3652015/" target="_blank">
-            亚马逊Kindle降价15美元！数月首度折扣
-          </a>
-          <div class="news-meta">
-            <span>Android Authority</span>
-            <span>24h内</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🏬 平台电商</span>
-            
-            <span class="tag">💰 价格促销</span>
-            
-          </div>
-          <div class="news-note">亚马逊Kindle首次降价，电商销售机会显著，需抓住促销时机。</div>
+          <div class="news-note">Suunto的骨传导耳机创新性强，适合运动市场，能提升品牌知名度。</div>
         </article>
         
       </section>
@@ -887,17 +910,16 @@
       <section class="card section-card">
         <div class="section-head">
           <h2 class="section-title">渠道 / 平台</h2>
-          <div class="section-meta">电商 / 零售 / 合作</div>
         </div>
 
         
         <article class="news-item">
-          <a class="news-title" href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">
-            Target首席技术官助力零售商转型计划
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">
+            亚马逊一小时送货施压沃尔玛等零售商
           </a>
           <div class="news-meta">
-            <span>RetailWire</span>
-            <span>较早内容</span>
+            <span>Google News - Retail Platforms</span>
+            <span>近3天</span>
             <span>高</span>
             <span>电商</span>
           </div>
@@ -908,16 +930,80 @@
             <span class="tag">🏬 平台电商</span>
             
           </div>
-          <div class="news-note">Target的技术改进是其复苏计划的核心，电商团队需关注技术驱动的销售增长。</div>
+          <div class="news-note">亚马逊一小时送达服务对零售商构成压力，需加速电商转型。</div>
         </article>
         
         <article class="news-item">
-          <a class="news-title" href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">
-            沃尔玛新任CEO：约翰·弗纳接替麦克米伦
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNajBOR1kyVEgzS3BUdXdvbF9WQXdYTTJpT0w3RUZ0aWtIR2lzVUNBSl81dVBNTW9YNnBRa1VNNVFtcVFBZ2xPQkRpemN2TFBHY1JZMmpPazEwUnV4STJkTmRuYkljcTdjcGZFNXl3YklaXzFXUEhITlQ2Zjc1OW1iYWVjSUVkWDZsbnFmSzdvMzVmeHJhQ1FubVRGUQ?oc=5" target="_blank">
+            今日Best Buy与亚马逊竞争的科技优惠值得关
           </a>
           <div class="news-meta">
-            <span>RetailWire</span>
-            <span>较早内容</span>
+            <span>Google News - US Retail Audio</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+          </div>
+          <div class="news-note">Best Buy与亚马逊的竞争促销对电商销售至关重要，需关注市场动态。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWpPbm5oQ2xNQ0FyLTNWMGljeHlGeEVBUVJEYnprblNMOG1FcUc0dVc2OXBkMkRRYUVjLTlkcnViMU55T0VYU0s3SHFtbEwwNzA3Z2dOa204YzloREVmNW9WM09yTS1qU3NhWDRab2pOZ2lpR1o5VFdiXzhxY1pKX2VFb3k3bE5FNUxwS3p2cFdocmpzRDRBWE5WTFk?oc=5" target="_blank">
+            今日Best Buy与亚马逊的科技优惠值得关注
+          </a>
+          <div class="news-meta">
+            <span>Google News - US Retail Audio</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+          </div>
+          <div class="news-note">Best Buy在与亚马逊竞争中展现出强劲的技术交易，需关注其电商策略。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaW91dWxqVF83b3h2QUZtRF9HTUlaS29JZ2wxME1ZSjVkVDBlSGtFMmNraVVBMTZkTmNpTFRzSkpEdW16U1V4b21mUUNXZmN6Y083VVh1MzdINVdjUlJVZllFclhfaElPbFJjUF8ydi1VNVhDZzBmLVlBdUMxWGpYLUNaNkI5dWVXSG5xSmVLT2xPcHBJbEIza2FxampENWtLekVwUWxxTUE?oc=5" target="_blank">
+            亚马逊和沃尔玛因售禁用制冷剂在华盛顿被罚
+          </a>
+          <div class="news-meta">
+            <span>Google News - Retail Platforms</span>
+            <span>近3天</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+          </div>
+          <div class="news-note">亚马逊和沃尔玛因销售禁用制冷剂被罚，影响电商信誉。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9UbHJDcG1ja25jNWVtYmFQWXgxTlpWaXJvV0w5Q3ZNb3lDSHJQX0NnaWJmdFZlcTZJdDQ2SnB2TmFHRW9nRVJTbkZsR21yUmFkR1BxbEZxYnQ2NkZvd1ZMcDlNWTB6cENDN0pHVEtOcGZmM1ZvanJv?oc=5" target="_blank">
+            FedEx与OneRail推出同日送达，亚马逊沃
+          </a>
+          <div class="news-meta">
+            <span>Google News - Retail Platforms</span>
+            <span>近3天</span>
             <span>高</span>
             <span>电商</span>
           </div>
@@ -930,16 +1016,16 @@
             <span class="tag">🚀 新品发布</span>
             
           </div>
-          <div class="news-note">沃尔玛CEO更换可能影响电商战略，需关注其对市场的影响。</div>
+          <div class="news-note">FedEx推出同日送达服务，提升电商竞争力，需关注物流效率。</div>
         </article>
         
         <article class="news-item">
-          <a class="news-title" href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">
-            宜家与百思买在佛州和德州试点店中店合作
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU90WVJSVnhrX0VxdWhsSzRqODZaSnF2VGZ5dW9VbFBKSXJCQkFJM0RJZExYWWtWc3B1Rk95OUlZQm5oaFNwbkFXV0R2Tkw3aWhJbTBNOEVndDdTOVNLWE5NNVhZSkhXNjlrVDIwalM0bVZfYU1uUjdCOEU1SVF1eFBRYmxHVmRy?oc=5" target="_blank">
+            亚马逊欲在芝加哥郊区挑战好市多
           </a>
           <div class="news-meta">
-            <span>RetailWire</span>
-            <span>较早内容</span>
+            <span>Google News - Retail Platforms</span>
+            <span>近7天</span>
             <span>高</span>
             <span>电商</span>
           </div>
@@ -949,174 +1035,50 @@
             
             <span class="tag">🏬 平台电商</span>
             
-            <span class="tag">🚀 新品发布</span>
-            
           </div>
-          <div class="news-note">IKEA与Best Buy合作在店内设立小型商店，有助于提升品牌曝光和销售。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/" target="_blank">
-            VITL获750万美元，升级现金支付诊所开方服务
-          </a>
-          <div class="news-meta">
-            <span>TechCrunch</span>
-            <span>24h内</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🏬 平台电商</span>
-            
-          </div>
-          <div class="news-note">VITL通过电子处方市场抓住现金支付诊所的增长机会，提升电商业务潜力。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/" target="_blank">
-            Meta裁员数百人
-          </a>
-          <div class="news-meta">
-            <span>TechCrunch</span>
-            <span>24h内</span>
-            <span>高</span>
-            <span>品牌营销</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道动态</span>
-            
-          </div>
-          <div class="news-note">Meta裁员将影响品牌营销团队，需调整策略以应对人力资源减少。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/" target="_blank">
-            美国铸币局停产一分币，州立法者拟定新规则
-          </a>
-          <div class="news-meta">
-            <span>RetailWire</span>
-            <span>较早内容</span>
-            <span>中</span>
-            <span>渠道销售</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-          </div>
-          <div class="news-note">美铸币局停止生产便士，可能影响现金交易的定价策略。</div>
+          <div class="news-note">亚马逊在芝加哥郊区的扩张将对电商市场产生重大影响，需关注竞争动态。</div>
         </article>
         
       </section>
     </div>
 
-    <section class="card section-card">
+    <section class="card section-card" style="margin-bottom:18px;">
       <div class="section-head">
         <h2 class="section-title">新品速递</h2>
-        <div class="section-meta">新品 / 发布 / 趋势补充</div>
       </div>
 
       <div class="product-grid">
         
         <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-            Sonos Ace在亚马逊春季大促中降价25%
+          <a class="product-title" href="#" target="_blank">
+            今日新品暂无有效更新
           </a>
-          <div class="product-meta">The Verge Tech · 24h内 · 高</div>
+          <div class="product-meta">system · 时间未知 · 中</div>
           <div class="tag-row">
             
-            <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🏬 平台电商</span>
+            <span class="tag">📭 暂无更新</span>
             
           </div>
-          <div class="product-summary">亚马逊第三届春季大促销提供多款电子产品，索尼WH-1000XM6降价超60美元，但降噪耳机选</div>
-          <div class="news-note">亚马逊春季大促为Sony耳机提供了显著折扣，提升品牌曝光。</div>
+          <div class="product-summary">当前新品源暂无有效更新</div>
+          <div class="news-note">今日新品缺乏有效更新，影响品牌营销策略的制定。</div>
         </article>
         
-        <article class="product-card">
-          <a class="product-title" href="https://dronedj.com/2026/03/19/djis-smallest-drone-just-hit-its-lowest-price-again/" target="_blank">
-            大疆最小无人机再次降价至新低
-          </a>
-          <div class="product-meta">DroneDJ · 近7天 · 高</div>
-          <div class="tag-row">
-            
-            <span class="tag">🚁 无人机影像</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-            <span class="tag">💰 价格促销</span>
-            
-          </div>
-          <div class="product-summary">大疆最新款小型无人机在亚马逊降价，提升市场竞争力。</div>
-          <div class="news-note">DJI小型无人机在亚马逊降价，有助于提升销量和市场份额。</div>
-        </article>
+      </div>
+    </section>
+
+    <section class="card section-card">
+      <div class="section-head">
+        <h2 class="section-title">意见反馈</h2>
+      </div>
+      <div class="feedback-list">
         
-        <article class="product-card">
-          <a class="product-title" href="https://dronedj.com/2026/03/26/dji-avata-360-us-launch/" target="_blank">
-            大疆Avata 360无人机在美上市延迟
-          </a>
-          <div class="product-meta">DroneDJ · 24h内 · 高</div>
-          <div class="tag-row">
-            
-            <span class="tag">🚁 无人机影像</span>
-            
-            <span class="tag">🚀 新品发布</span>
-            
-          </div>
-          <div class="product-summary">DJI 360°无人机全球发布已启动，但美国市场可能面临延迟。</div>
-          <div class="news-note">DJI Avata 360无人机在美国的推迟发布可能影响品牌形象和销售。</div>
-        </article>
+        <div class="feedback-card">这期日报最有价值的是哪一块？</div>
         
-        <article class="product-card">
-          <a class="product-title" href="https://dronedj.com/2026/03/25/dji-drone-deals-lowest-discount/" target="_blank">
-            DJI全面下调无人机价格
-          </a>
-          <div class="product-meta">DroneDJ · 24h内 · 高</div>
-          <div class="tag-row">
-            
-            <span class="tag">🚁 无人机影像</span>
-            
-            <span class="tag">💰 价格促销</span>
-            
-          </div>
-          <div class="product-summary">DJI无人机价格出现异常波动，市场动态值得关注。</div>
-          <div class="news-note">DJI大幅降价可能影响品牌形象和市场竞争格局。</div>
-        </article>
+        <div class="feedback-card">哪些内容你觉得太多、太少，或还缺失？</div>
         
-        <article class="product-card">
-          <a class="product-title" href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank">
-            大疆Mini 4K现已成平价配件价格
-          </a>
-          <div class="product-meta">DroneDJ · 近7天 · 高</div>
-          <div class="tag-row">
-            
-            <span class="tag">🚁 无人机影像</span>
-            
-            <span class="tag">💰 价格促销</span>
-            
-          </div>
-          <div class="product-summary">大疆推出Mini 4K无人机，专为初学者设计，操作简便，适合入门用户。</div>
-          <div class="news-note">DJI Mini 4K以预算配件的价格推出，可能吸引更多入门用户。</div>
-        </article>
+        <div class="feedback-card">哪些品牌 / 平台 / 品类应该被提升到更高优先级？</div>
         
-        <article class="product-card">
-          <a class="product-title" href="https://dronedj.com/2026/03/23/dji-insta360-lawsuit-patent-drone/" target="_blank">
-            大疆起诉Insta360，Avata 360无人
-          </a>
-          <div class="product-meta">DroneDJ · 近3天 · 高</div>
-          <div class="tag-row">
-            
-            <span class="tag">🚁 无人机影像</span>
-            
-            <span class="tag">🚀 新品发布</span>
-            
-          </div>
-          <div class="product-summary">DJI即将发布首款360度FPV无人机，市场期待其创新表现。</div>
-          <div class="news-note">DJI起诉Insta360，可能影响品牌形象和市场竞争力。</div>
-        </article>
+        <div class="feedback-card">哪些判断不够准确，应该怎么改？</div>
         
       </div>
     </section>

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 from pathlib import Path
 from typing import Any
 
@@ -62,3 +63,44 @@ def setup_logging() -> logging.Logger:
 
 
 logger = setup_logging()
+
+
+def normalize_text(text: str) -> str:
+    text = (text or "").strip().lower()
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = text.replace("&amp;", "and")
+    text = re.sub(r"[\r\n\t]+", " ", text)
+    text = re.sub(r"[^a-z0-9\u4e00-\u9fff ]+", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def canonical_title(text: str) -> str:
+    text = normalize_text(text)
+
+    # 去掉常见媒体标题尾巴，增强跨媒体去重
+    separators = [" | ", " - ", " — ", " – ", ":"]
+    for sep in separators:
+        if sep in text:
+            left = text.split(sep)[0].strip()
+            if len(left) >= 12:
+                text = left
+
+    stopwords = {
+        "the", "a", "an", "new", "latest", "review", "hands on", "vs",
+        "how to", "why", "what", "you", "your", "this", "that",
+    }
+    tokens = [t for t in text.split() if t not in stopwords]
+    return " ".join(tokens[:16]).strip()
+
+
+def build_dedupe_key(title: str, url: str = "", summary: str = "") -> str:
+    ct = canonical_title(title)
+    cs = normalize_text(summary)
+    summary_part = " ".join(cs.split()[:12])
+    return f"{ct} || {summary_part}"
+
+
+def is_meaningful_text(text: str, min_len: int = 8) -> bool:
+    cleaned = normalize_text(text)
+    return len(cleaned) >= min_len

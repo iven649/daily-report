@@ -1,138 +1,234 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>北美业务情报日报 - {{ date }}</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-        "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
-      background: #f5f5f7;
-      color: #111;
-    }
+<title>北美业务情报日报</title>
 
-    .container {
-      max-width: 1200px;
-      margin: auto;
-      padding: 24px;
-    }
+<style>
+body {
+  margin: 0;
+  background: #f5f5f7;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+    "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: #111;
+}
 
-    h2 {
-      margin: 0 0 12px;
-    }
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 28px;
+}
 
-    .card {
-      background: white;
-      border-radius: 16px;
-      padding: 20px;
-      margin-bottom: 20px;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.05);
-    }
+.card {
+  background: #fff;
+  border-radius: 22px;
+  padding: 24px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.06);
+  margin-bottom: 20px;
+  transition: 0.2s ease;
+}
 
-    .grid-2 {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
-    }
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 36px rgba(0,0,0,0.08);
+}
 
-    .entity {
-      border: 1px solid #eee;
-      border-radius: 12px;
-      padding: 12px;
-    }
+h1 {
+  margin: 0;
+  font-size: 28px;
+  font-weight: 700;
+}
 
-    .news-item {
-      margin-bottom: 14px;
-      border-bottom: 1px solid #eee;
-      padding-bottom: 10px;
-    }
+h2 {
+  margin: 0 0 14px;
+  font-size: 18px;
+  font-weight: 600;
+}
 
-    .tag {
-      display: inline-block;
-      padding: 4px 8px;
-      background: #f1f1f1;
-      border-radius: 999px;
-      font-size: 12px;
-      margin-right: 6px;
-    }
+.meta {
+  color: #6e6e73;
+  font-size: 13px;
+}
 
-    .note {
-      margin-top: 6px;
-      font-size: 13px;
-      color: #444;
-    }
+.top-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 16px;
+}
 
-    .product {
-      border: 1px solid #eee;
-      border-radius: 12px;
-      padding: 12px;
-    }
+.summary {
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 10px;
+}
 
-  </style>
+.timezones {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.tz {
+  font-size: 13px;
+  color: #555;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.news-item {
+  padding: 14px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.title {
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.title a {
+  text-decoration: none;
+  color: #111;
+}
+
+.title a:hover {
+  color: #555;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 11px;
+  padding: 4px 8px;
+  background: #f2f2f2;
+  border-radius: 999px;
+  margin-right: 6px;
+}
+
+.note {
+  font-size: 13px;
+  color: #444;
+  margin-top: 6px;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 14px;
+}
+
+.product {
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.product-title {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.small {
+  font-size: 12px;
+  color: #777;
+}
+
+</style>
 </head>
 
 <body>
 <div class="container">
 
-  <!-- 标题 -->
-  <div class="card">
-    <h1>北美业务情报日报</h1>
-    <div>日期：{{ date }}</div>
-    <div>生成时间：{{ generated_at }}</div>
-    <div>市场：{{ market_focus }}</div>
-  </div>
+<!-- 顶部 -->
+<div class="card">
+  <div class="top-grid">
 
-  <!-- 今日重点 -->
-  <div class="card">
-    <h2>今日重点</h2>
-    <ul>
-      {% for item in takeaways %}
-      <li>{{ item }}</li>
-      {% endfor %}
-    </ul>
-  </div>
+    <div>
+      <h1>北美业务情报日报</h1>
+      <div class="meta">
+        {{ date }} · {{ market_focus }}
+      </div>
 
-  <!-- 重点监控对象（已修复） -->
-  <div class="card">
-    <h2>重点监控对象</h2>
-    <div class="grid-2">
-      {% for entity in monitored_entities %}
-      <div class="entity">
-        <strong>{{ entity["name"] }}</strong>
-        <div style="font-size:12px;color:#888;">
-          {{ entity["type"] }} · {{ entity["count"] }} 条
-        </div>
+      <div class="summary">
+        {{ takeaways[0] if takeaways else "今日暂无重点" }}
+      </div>
 
-        <div style="margin-top:8px;">
-          {% for item in entity["items"] %}
-          <div>
-            <a href="{{ item.url }}" target="_blank">
-              {{ item.display_title or item.title or item.name }}
-            </a>
-          </div>
-          {% endfor %}
-        </div>
+      <div class="timezones">
+        <div class="tz">🇺🇸 ET：实时参考</div>
+        <div class="tz">🇺🇸 CT：实时参考</div>
+        <div class="tz">🇺🇸 MT：实时参考</div>
+        <div class="tz">🇺🇸 PT：实时参考</div>
+        <div class="tz">🇺🇸 AKT：实时参考</div>
+        <div class="tz">🇺🇸 HST：实时参考</div>
+      </div>
+    </div>
+
+    <div>
+      <h2>节日节点</h2>
+      {% for f in festival_cards %}
+      <div class="small">
+        {{ f.name }} · {{ f.countdown }}天
       </div>
       {% endfor %}
     </div>
+
+  </div>
+</div>
+
+<!-- 中间 -->
+<div class="grid-2">
+
+  <!-- 消费电子 -->
+  <div class="card">
+    <h2>消费电子</h2>
+
+    {% for item in consumer_electronics %}
+    <div class="news-item">
+      <div class="title">
+        <a href="{{ item.url }}" target="_blank">
+          {{ item.display_title or item.title }}
+        </a>
+      </div>
+
+      <div class="meta">
+        {{ item.source }} · {{ item.freshness_label }}
+      </div>
+
+      <div>
+        {% for tag in item.tags %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+
+      <div class="note">{{ item.business_note }}</div>
+    </div>
+    {% endfor %}
   </div>
 
   <!-- 渠道 -->
   <div class="card">
-    <h2>渠道与平台变化</h2>
+    <h2>渠道 / 平台</h2>
 
-    {% for item in channel_watch %}
+    {% for item in channel_news %}
     <div class="news-item">
-      <a href="{{ item.url }}" target="_blank">
-        {{ item.display_title or item.title }}
-      </a>
+      <div class="title">
+        <a href="{{ item.url }}" target="_blank">
+          {{ item.display_title or item.title }}
+        </a>
+      </div>
 
-      <div style="font-size:12px;color:#888;">
+      <div class="meta">
         {{ item.source }} · {{ item.freshness_label }}
-        · {{ item.impact_area }} · {{ item.importance }}
       </div>
 
       <div>
@@ -141,97 +237,35 @@
         {% endfor %}
       </div>
 
-      <div class="note">
-        <strong>业务：</strong>{{ item.business_note }}
-      </div>
-      <div class="note">
-        <strong>动作：</strong>{{ item.suggested_action }}
-      </div>
+      <div class="note">{{ item.business_note }}</div>
     </div>
     {% endfor %}
-
   </div>
 
-  <!-- 消费电子 -->
-  <div class="card">
-    <h2>消费电子重点</h2>
+</div>
 
-    {% for item in consumer_electronics %}
-    <div class="news-item">
-      <a href="{{ item.url }}" target="_blank">
-        {{ item.display_title or item.title }}
-      </a>
+<!-- 新品 -->
+<div class="card">
+  <h2>新品速递</h2>
 
-      <div style="font-size:12px;color:#888;">
+  <div class="product-grid">
+    {% for item in products %}
+    <div class="product">
+      <div class="product-title">
+        {{ item.display_title or item.name }}
+      </div>
+
+      <div class="small">
         {{ item.source }} · {{ item.freshness_label }}
-        · {{ item.impact_area }} · {{ item.importance }}
-      </div>
-
-      <div>
-        {% for tag in item.tags %}
-        <span class="tag">{{ tag }}</span>
-        {% endfor %}
       </div>
 
       <div class="note">
-        <strong>业务：</strong>{{ item.business_note }}
-      </div>
-      <div class="note">
-        <strong>动作：</strong>{{ item.suggested_action }}
+        {{ item.business_note }}
       </div>
     </div>
     {% endfor %}
-
   </div>
-
-  <!-- 新品 -->
-  <div class="card">
-    <h2>新品速览</h2>
-
-    <div class="grid-2">
-      {% for item in products %}
-      <div class="product">
-        <strong>{{ item.display_title or item.name }}</strong>
-
-        <div style="font-size:12px;color:#888;">
-          {{ item.source }} · {{ item.freshness_label }}
-        </div>
-
-        <div style="margin-top:6px;">
-          {{ item.display_summary or item.summary }}
-        </div>
-
-        <div class="note">
-          <strong>业务：</strong>{{ item.business_note }}
-        </div>
-
-        <div class="note">
-          <strong>动作：</strong>{{ item.suggested_action }}
-        </div>
-
-        <div style="margin-top:8px;">
-          <a href="{{ item.url }}" target="_blank">查看原文</a>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-
-  </div>
-
-  <!-- 节日 -->
-  <div class="card">
-    <h2>节日与营销节点</h2>
-
-    <div class="grid-2">
-      {% for f in festival_cards %}
-      <div>
-        <strong>{{ f.name }}</strong>
-        <div>{{ f.date }} · 还有 {{ f.countdown }} 天</div>
-      </div>
-      {% endfor %}
-    </div>
-
-  </div>
+</div>
 
 </div>
 </body>

@@ -1,767 +1,255 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>北美业务情报日报 - {{ date }}</title>
-  <style>
-    :root {
-      --bg: #f5f5f7;
-      --card: #ffffff;
-      --text: #111111;
-      --muted: #6e6e73;
-      --muted-2: #8e8e93;
-      --line-soft: rgba(17, 17, 17, 0.05);
-      --shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
-      --shadow-hover: 0 14px 36px rgba(0, 0, 0, 0.08);
-      --radius-xxl: 28px;
-      --radius-xl: 22px;
-      --radius-lg: 18px;
-      --tag-bg: #f2f2f4;
-      --tag-text: #55585f;
-    }
-
-    * { box-sizing: border-box; }
-
-    body {
-      margin: 0;
-      background: linear-gradient(180deg, #fcfcfd 0%, #f5f5f7 100%);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
-        "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
-      -webkit-font-smoothing: antialiased;
-      text-rendering: optimizeLegibility;
-    }
-
-    a {
-      color: inherit;
-      text-decoration: none;
-    }
-
-    .page {
-      max-width: 1240px;
-      margin: 0 auto;
-      padding: 28px 20px 60px;
-    }
-
-    .card {
-      background: var(--card);
-      border: 1px solid var(--line-soft);
-      border-radius: var(--radius-xxl);
-      box-shadow: var(--shadow);
-      transition: transform 0.18s ease, box-shadow 0.18s ease;
-    }
-
-    .card:hover {
-      transform: translateY(-2px);
-      box-shadow: var(--shadow-hover);
-    }
-
-    .hero {
-      padding: 24px;
-      margin-bottom: 18px;
-    }
-
-    .hero-grid {
-      display: grid;
-      grid-template-columns: 1.45fr 0.75fr;
-      gap: 18px;
-    }
-
-    .hero-title {
-      font-size: 34px;
-      line-height: 1.08;
-      letter-spacing: -0.045em;
-      font-weight: 760;
-      margin: 0 0 12px;
-    }
-
-    .lead-summary {
-      font-size: 24px;
-      line-height: 1.42;
-      letter-spacing: -0.03em;
-      font-weight: 650;
-      margin: 0 0 18px;
-      max-width: 760px;
-    }
-
-    .top-meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-bottom: 18px;
-    }
-
-    .pill {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 8px 12px;
-      border-radius: 999px;
-      background: #f6f6f7;
-      border: 1px solid var(--line-soft);
-      color: var(--muted);
-      font-size: 12px;
-    }
-
-    .mini-stack {
-      display: flex;
-      flex-direction: column;
-      gap: 14px;
-    }
-
-    .mini-card {
-      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
-      border: 1px solid var(--line-soft);
-      border-radius: var(--radius-xl);
-      padding: 16px 18px;
-    }
-
-    .festival-list {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-
-    .festival-link {
-      display: block;
-      padding: 12px 14px;
-      border-radius: 16px;
-      background: #fafafa;
-      border: 1px solid var(--line-soft);
-      transition: background 0.16s ease, transform 0.16s ease;
-    }
-
-    .festival-link:hover {
-      background: #f3f3f4;
-      transform: translateY(-1px);
-    }
-
-    .festival-name {
-      font-size: 14px;
-      font-weight: 650;
-      margin-bottom: 4px;
-    }
-
-    .festival-meta {
-      font-size: 12px;
-      color: var(--muted);
-    }
-
-    .section-head {
-      display: flex;
-      align-items: baseline;
-      justify-content: space-between;
-      gap: 10px;
-      margin-bottom: 14px;
-    }
-
-    .section-title {
-      margin: 0;
-      font-size: 18px;
-      line-height: 1.2;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-    }
-
-    .timezone-block {
-      margin-top: 8px;
-    }
-
-    .bj-time {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 10px 14px;
-      border-radius: 16px;
-      background: #fafafa;
-      border: 1px solid var(--line-soft);
-      font-size: 14px;
-      font-weight: 600;
-      margin-bottom: 14px;
-    }
-
-    .tz-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 10px;
-    }
-
-    .tz-link {
-      display: block;
-      padding: 12px 14px;
-      border-radius: 16px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
-      transition: background 0.16s ease, transform 0.16s ease;
-    }
-
-    .tz-link:hover {
-      background: #f3f3f4;
-      transform: translateY(-1px);
-    }
-
-    .tz-abbr {
-      font-size: 14px;
-      font-weight: 700;
-      margin-bottom: 4px;
-    }
-
-    .tz-name {
-      font-size: 12px;
-      color: var(--muted);
-      margin-bottom: 6px;
-    }
-
-    .tz-time {
-      font-size: 13px;
-      color: #2d3138;
-      font-weight: 600;
-    }
-
-    .section-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 18px;
-      margin-bottom: 18px;
-    }
-
-    .section-card {
-      padding: 22px;
-    }
-
-    .headline-list {
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .headline-item {
-      padding: 14px;
-      border: 1px solid var(--line-soft);
-      border-radius: 18px;
-      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
-    }
-
-    .headline-rank {
-      font-size: 11px;
-      color: var(--muted-2);
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      margin-bottom: 8px;
-    }
-
-    .headline-title {
-      font-size: 16px;
-      line-height: 1.55;
-      font-weight: 650;
-      margin-bottom: 8px;
-      display: inline-block;
-    }
-
-    .headline-title:hover {
-      color: #4d5157;
-    }
-
-    .headline-note {
-      font-size: 13px;
-      line-height: 1.75;
-      color: #3a3d44;
-    }
-
-    .signal-list {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .signal-item {
-      padding: 14px 14px 14px 16px;
-      border-radius: 18px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
-      font-size: 14px;
-      line-height: 1.8;
-      color: #25272d;
-    }
-
-    .news-item {
-      padding: 16px 0;
-      border-bottom: 1px solid var(--line-soft);
-    }
-
-    .news-item:last-child {
-      border-bottom: none;
-      padding-bottom: 0;
-    }
-
-    .news-title {
-      display: inline-block;
-      font-size: 16px;
-      line-height: 1.56;
-      letter-spacing: -0.015em;
-      font-weight: 620;
-      margin-bottom: 7px;
-    }
-
-    .news-title:hover {
-      color: #4d5157;
-    }
-
-    .news-meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px 10px;
-      margin-bottom: 8px;
-      color: var(--muted);
-      font-size: 12px;
-    }
-
-    .tag-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 8px;
-    }
-
-    .tag {
-      display: inline-flex;
-      align-items: center;
-      padding: 5px 9px;
-      border-radius: 999px;
-      background: var(--tag-bg);
-      color: var(--tag-text);
-      font-size: 11px;
-      font-weight: 600;
-      border: 1px solid rgba(17, 17, 17, 0.04);
-    }
-
-    .news-note {
-      font-size: 13px;
-      color: #42454b;
-      line-height: 1.8;
-    }
-
-    .product-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 16px;
-      margin-top: 4px;
-    }
-
-    .product-card {
-      min-height: 230px;
-      padding: 18px;
-      border: 1px solid var(--line-soft);
-      border-radius: 20px;
-      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
-      transition: transform 0.16s ease, box-shadow 0.16s ease;
-    }
-
-    .product-card:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 14px 26px rgba(0, 0, 0, 0.06);
-    }
-
-    .product-title {
-      font-size: 17px;
-      line-height: 1.45;
-      font-weight: 680;
-      margin-bottom: 8px;
-      display: inline-block;
-    }
-
-    .product-title:hover {
-      color: #4d5157;
-    }
-
-    .product-meta {
-      font-size: 12px;
-      color: var(--muted);
-      margin-bottom: 10px;
-    }
-
-    .product-summary {
-      font-size: 14px;
-      color: #44484f;
-      line-height: 1.75;
-      margin-bottom: 12px;
-    }
-
-    .watch-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 12px;
-      margin-top: 4px;
-    }
-
-    .watch-card {
-      padding: 14px;
-      border-radius: 18px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
-    }
-
-    .watch-name {
-      font-size: 15px;
-      font-weight: 680;
-      margin-bottom: 4px;
-    }
-
-    .watch-type {
-      font-size: 11px;
-      color: var(--muted-2);
-      margin-bottom: 8px;
-    }
-
-    .watch-links {
-      display: flex;
-      flex-direction: column;
-      gap: 7px;
-    }
-
-    .watch-links a {
-      font-size: 12px;
-      line-height: 1.5;
-      color: #31343a;
-    }
-
-    .watch-links a:hover {
-      color: #5a5f67;
-    }
-
-    .feedback-link {
-      display: block;
-      padding: 18px 20px;
-      border-radius: 20px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
-      font-size: 15px;
-      line-height: 1.8;
-      color: #2f3238;
-      transition: background 0.16s ease, transform 0.16s ease;
-    }
-
-    .feedback-link:hover {
-      background: #f3f3f4;
-      transform: translateY(-1px);
-    }
-
-    @media (max-width: 1120px) {
-      .hero-grid,
-      .section-row {
-        grid-template-columns: 1fr;
-      }
-      .watch-grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
-      .product-grid {
-        grid-template-columns: 1fr 1fr;
-      }
-      .tz-grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
-    }
-
-    @media (max-width: 720px) {
-      .page {
-        padding: 18px 14px 40px;
-      }
-      .hero-title {
-        font-size: 28px;
-      }
-      .lead-summary {
-        font-size: 21px;
-      }
-      .product-grid,
-      .watch-grid,
-      .tz-grid {
-        grid-template-columns: 1fr;
-      }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>北美业务情报日报</title>
+
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont;
+  background: #f5f5f7;
+  margin: 0;
+}
+
+.page {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  border-radius: 24px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.section-head {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.section-jump {
+  font-size: 18px;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 999px;
+  transition: 0.2s;
+}
+
+.section-jump:hover {
+  background: #f0f0f0;
+  transform: translateY(-1px);
+}
+
+.section-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.news-item {
+  padding: 12px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.product-card {
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.tz-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.tz-link {
+  display: block;
+  padding: 10px;
+  border-radius: 12px;
+  background: #fafafa;
+}
+
+.feedback-link {
+  display: block;
+  padding: 20px;
+  background: #fafafa;
+  border-radius: 16px;
+  text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#section-consumer,
+#section-channel,
+#section-products,
+#section-watch {
+  scroll-margin-top: 100px;
+}
+</style>
 </head>
 
 <body>
-  <div class="page">
 
-    <section class="card hero">
-      <div class="hero-grid">
+<div class="page">
 
-        <div>
-          <h1 class="hero-title">北美业务情报日报</h1>
+<!-- HEADER -->
+<div class="card">
+  <h1>北美业务情报日报</h1>
 
-          <div class="lead-summary">
-            {{ lead_summary }}
-          </div>
+  <h2>{{ lead_summary }}</h2>
 
-          <div class="top-meta">
-            <div class="pill">📅 {{ date }}</div>
-            <div class="pill">📰 消费电子 {{ status.consumer_count }}</div>
-            <div class="pill">🏬 渠道 {{ status.channel_count }}</div>
-            <div class="pill">🚀 新品 {{ status.product_count }}</div>
-          </div>
+  <!-- 时区 -->
+  <div>
+    <div>北京时间: <span id="bj"></span></div>
 
-          <div class="timezone-block">
-            <div class="section-head" style="margin-bottom:10px;">
-              <h2 class="section-title" style="font-size:16px;">北京时间 / 美国 6 时区</h2>
-            </div>
-
-            <div class="bj-time">
-              <span>🇨🇳 北京时间</span>
-              <span id="beijing-time">--</span>
-            </div>
-
-            <div class="tz-grid">
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/new-york">
-                <div class="tz-abbr">ET</div>
-                <div class="tz-name">Eastern</div>
-                <div class="tz-time" id="tz-et">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/chicago">
-                <div class="tz-abbr">CT</div>
-                <div class="tz-name">Central</div>
-                <div class="tz-time" id="tz-ct">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/denver">
-                <div class="tz-abbr">MT</div>
-                <div class="tz-name">Mountain</div>
-                <div class="tz-time" id="tz-mt">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/los-angeles">
-                <div class="tz-abbr">PT</div>
-                <div class="tz-name">Pacific</div>
-                <div class="tz-time" id="tz-pt">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/anchorage">
-                <div class="tz-abbr">AKT</div>
-                <div class="tz-name">Alaska</div>
-                <div class="tz-time" id="tz-akt">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/honolulu">
-                <div class="tz-abbr">HST</div>
-                <div class="tz-name">Hawaii</div>
-                <div class="tz-time" id="tz-hst">--</div>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="mini-stack">
-          <div class="mini-card">
-            <div class="festival-list">
-              {% for f in festival_cards %}
-              <a class="festival-link" href="{{ f.slug }}.html">
-                <div class="festival-name">{{ f.icon or "🎉" }} {{ f.name }}</div>
-                <div class="festival-meta">{{ f.date }} · 还有 {{ f.countdown }} 天</div>
-              </a>
-              {% endfor %}
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-    <div class="section-row">
-      <section class="card section-card">
-        <div class="section-head">
-          <h2 class="section-title">头条三条</h2>
-        </div>
-        <div class="headline-list">
-          {% for item in headline_trio %}
-          <div class="headline-item">
-            <div class="headline-rank">Top {{ loop.index }}</div>
-            <a class="headline-title" href="{{ item.url }}" target="_blank">
-              {{ item.display_title or item.title or item.name }}
-            </a>
-            <div class="headline-note">{{ item.business_note }}</div>
-          </div>
-          {% endfor %}
-        </div>
-      </section>
-
-      <section class="card section-card">
-        <div class="section-head">
-          <h2 class="section-title">今日重点</h2>
-        </div>
-        <ul class="signal-list">
-          {% for item in takeaways %}
-          <li class="signal-item">{{ item }}</li>
-          {% endfor %}
-        </ul>
-      </section>
-    </div>
-
-    <div class="section-row">
-      <section class="card section-card">
-        <div class="section-head">
-          <h2 class="section-title">机会提示</h2>
-        </div>
-        <ul class="signal-list">
-          {% for item in opportunity_signals %}
-          <li class="signal-item">{{ item }}</li>
-          {% endfor %}
-        </ul>
-      </section>
-
-      <section class="card section-card">
-        <div class="section-head">
-          <h2 class="section-title">风险提示</h2>
-        </div>
-        <ul class="signal-list">
-          {% for item in risk_signals %}
-          <li class="signal-item">{{ item }}</li>
-          {% endfor %}
-        </ul>
-      </section>
-    </div>
-
-    <section class="card section-card" style="margin-bottom:18px;">
-      <div class="section-head">
-        <h2 class="section-title">竞品 / 平台动态</h2>
-      </div>
-      <div class="watch-grid">
-        {% for entity in monitored_entities %}
-        <div class="watch-card">
-          <div class="watch-name">{{ entity["name"] }}</div>
-          <div class="watch-type">{{ entity["type"] }} · {{ entity["count"] }} 条命中</div>
-          <div class="watch-links">
-            {% for item in entity["items"] %}
-            <a href="{{ item.url }}" target="_blank">{{ item.display_title or item.title or item.name }}</a>
-            {% endfor %}
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </section>
-
-    <div class="section-row">
-      <section class="card section-card">
-        <div class="section-head">
-          <h2 class="section-title">消费电子</h2>
-        </div>
-
-        {% for item in consumer_electronics %}
-        <article class="news-item">
-          <a class="news-title" href="{{ item.url }}" target="_blank">
-            {{ item.display_title or item.title }}
-          </a>
-          <div class="news-meta">
-            <span>{{ item.source }}</span>
-            <span>{{ item.freshness_label }}</span>
-            <span>{{ item.importance }}</span>
-            <span>{{ item.impact_area }}</span>
-          </div>
-          <div class="tag-row">
-            {% for tag in item.tags %}
-            <span class="tag">{{ tag }}</span>
-            {% endfor %}
-          </div>
-          <div class="news-note">{{ item.business_note }}</div>
-        </article>
-        {% endfor %}
-      </section>
-
-      <section class="card section-card">
-        <div class="section-head">
-          <h2 class="section-title">渠道 / 平台</h2>
-        </div>
-
-        {% for item in channel_news %}
-        <article class="news-item">
-          <a class="news-title" href="{{ item.url }}" target="_blank">
-            {{ item.display_title or item.title }}
-          </a>
-          <div class="news-meta">
-            <span>{{ item.source }}</span>
-            <span>{{ item.freshness_label }}</span>
-            <span>{{ item.importance }}</span>
-            <span>{{ item.impact_area }}</span>
-          </div>
-          <div class="tag-row">
-            {% for tag in item.tags %}
-            <span class="tag">{{ tag }}</span>
-            {% endfor %}
-          </div>
-          <div class="news-note">{{ item.business_note }}</div>
-        </article>
-        {% endfor %}
-      </section>
-    </div>
-
-    <section class="card section-card" style="margin-bottom:18px;">
-      <div class="section-head">
-        <h2 class="section-title">新品速递</h2>
-      </div>
-
-      <div class="product-grid">
-        {% for item in products %}
-        <article class="product-card">
-          <a class="product-title" href="{{ item.url }}" target="_blank">
-            {{ item.display_title or item.name }}
-          </a>
-          <div class="product-meta">{{ item.source }} · {{ item.freshness_label }} · {{ item.importance }}</div>
-          <div class="tag-row">
-            {% for tag in item.tags %}
-            <span class="tag">{{ tag }}</span>
-            {% endfor %}
-          </div>
-          <div class="product-summary">{{ item.display_summary or item.summary }}</div>
-          <div class="news-note">{{ item.business_note }}</div>
-        </article>
-        {% endfor %}
-      </div>
-    </section>
-
-    <section class="card section-card">
-      <div class="section-head">
-        <h2 class="section-title">意见反馈</h2>
-      </div>
-      <a
-        class="feedback-link"
-        href="https://docs.google.com/forms/d/e/1FAIpQLSdyWZwDTGRplMGv6EWojLPp3VjaKpsv_DqKaS0XyXiayPf7hg/viewform?usp=dialog"
-        target="_blank"
-      >
-        点击填写反馈表单，告诉我你希望增加、删除或调整的内容。
+    <div class="tz-grid">
+      <a class="tz-link" href="https://www.timeanddate.com/worldclock/usa/new-york" target="_blank">
+        ET <div id="et"></div>
       </a>
-    </section>
 
+      <a class="tz-link" href="https://www.timeanddate.com/worldclock/usa/chicago" target="_blank">
+        CT <div id="ct"></div>
+      </a>
+
+      <a class="tz-link" href="https://www.timeanddate.com/worldclock/usa/denver" target="_blank">
+        MT <div id="mt"></div>
+      </a>
+
+      <a class="tz-link" href="https://www.timeanddate.com/worldclock/usa/los-angeles" target="_blank">
+        PT <div id="pt"></div>
+      </a>
+
+      <a class="tz-link" href="https://www.timeanddate.com/worldclock/usa/anchorage" target="_blank">
+        AKT <div id="akt"></div>
+      </a>
+
+      <a class="tz-link" href="https://www.timeanddate.com/worldclock/usa/honolulu" target="_blank">
+        HST <div id="hst"></div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- 4 BLOCKS -->
+<div class="section-row">
+
+  <div class="card">
+    <div class="section-head">
+      <a class="section-jump" href="#section-watch">头条三条</a>
+    </div>
+    {% for item in headline_trio %}
+    <div class="news-item">
+      {{ item.display_title }}
+    </div>
+    {% endfor %}
   </div>
 
-  <script>
-    function formatTime(timeZone) {
-      return new Intl.DateTimeFormat("zh-CN", {
-        timeZone,
-        hour: "2-digit",
-        minute: "2-digit",
-        second: "2-digit",
-        hour12: false,
-        month: "2-digit",
-        day: "2-digit"
-      }).format(new Date());
-    }
+  <div class="card">
+    <div class="section-head">
+      <a class="section-jump" href="#section-consumer">今日重点</a>
+    </div>
+    {% for item in takeaways %}
+    <div>{{ item }}</div>
+    {% endfor %}
+  </div>
 
-    function updateTimes() {
-      document.getElementById("beijing-time").textContent = formatTime("Asia/Shanghai");
-      document.getElementById("tz-et").textContent = formatTime("America/New_York");
-      document.getElementById("tz-ct").textContent = formatTime("America/Chicago");
-      document.getElementById("tz-mt").textContent = formatTime("America/Denver");
-      document.getElementById("tz-pt").textContent = formatTime("America/Los_Angeles");
-      document.getElementById("tz-akt").textContent = formatTime("America/Anchorage");
-      document.getElementById("tz-hst").textContent = formatTime("Pacific/Honolulu");
-    }
+</div>
 
-    updateTimes();
-    setInterval(updateTimes, 1000);
-  </script>
+<div class="section-row">
+
+  <div class="card">
+    <div class="section-head">
+      <a class="section-jump" href="#section-products">机会提示</a>
+    </div>
+    {% for item in opportunity_signals %}
+    <div>{{ item }}</div>
+    {% endfor %}
+  </div>
+
+  <div class="card">
+    <div class="section-head">
+      <a class="section-jump" href="#section-channel">风险提示</a>
+    </div>
+    {% for item in risk_signals %}
+    <div>{{ item }}</div>
+    {% endfor %}
+  </div>
+
+</div>
+
+<!-- 监控 -->
+<div id="section-watch" class="card">
+  <h2>竞品 / 平台动态</h2>
+</div>
+
+<!-- 消费电子 -->
+<div id="section-consumer" class="card">
+  <h2>消费电子</h2>
+  {% for item in consumer_electronics %}
+  <div class="news-item">{{ item.display_title }}</div>
+  {% endfor %}
+</div>
+
+<!-- 渠道 -->
+<div id="section-channel" class="card">
+  <h2>渠道 / 平台</h2>
+  {% for item in channel_news %}
+  <div class="news-item">{{ item.display_title }}</div>
+  {% endfor %}
+</div>
+
+<!-- 新品 -->
+<div id="section-products" class="card">
+  <h2>新品速递</h2>
+
+  <div class="product-grid">
+    {% for item in products %}
+    <div class="product-card">
+      {{ item.display_title }}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- FEEDBACK -->
+<div class="card">
+  <a class="feedback-link"
+     href="https://docs.google.com/forms/d/e/1FAIpQLSdyWZwDTGRplMGv6EWojLPp3VjaKpsv_DqKaS0XyXiayPf7hg/viewform?usp=dialog"
+     target="_blank">
+     点击提交反馈
+  </a>
+</div>
+
+</div>
+
+<script>
+function t(tz){return new Intl.DateTimeFormat("zh-CN",{timeZone:tz,hour:"2-digit",minute:"2-digit"}).format(new Date())}
+
+function u(){
+  bj.textContent=t("Asia/Shanghai")
+  et.textContent=t("America/New_York")
+  ct.textContent=t("America/Chicago")
+  mt.textContent=t("America/Denver")
+  pt.textContent=t("America/Los_Angeles")
+  akt.textContent=t("America/Anchorage")
+  hst.textContent=t("Pacific/Honolulu")
+}
+
+u();setInterval(u,1000)
+</script>
+
 </body>
 </html>

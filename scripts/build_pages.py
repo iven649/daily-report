@@ -1,21 +1,27 @@
 from __future__ import annotations
-from datetime import datetime
-from jinja2 import Environment, FileSystemLoader, select_autoescape
-from common import ROOT, load_json
 
-def main():
+from datetime import datetime
+
+from jinja2 import Environment, FileSystemLoader, select_autoescape
+
+from common import ROOT, load_json, logger
+
+
+def main() -> None:
     payload = load_json("data/processed/daily_payload.json", {})
+
     env = Environment(
         loader=FileSystemLoader(str(ROOT / "templates")),
-        autoescape=select_autoescape(["html", "xml"])
+        autoescape=select_autoescape(["html", "xml"]),
     )
 
-    dist = ROOT / "docs"
-    dist.mkdir(exist_ok=True)
+    output_dir = ROOT / "docs"
+    output_dir.mkdir(exist_ok=True)
 
     tpl = env.get_template("index.html.j2")
     html = tpl.render(**payload)
-    (dist / "index.html").write_text(html, encoding="utf-8")
+    (output_dir / "index.html").write_text(html, encoding="utf-8")
+    logger.info("Saved docs/index.html")
 
     festival_tpl = env.get_template("festival.html.j2")
     for f in payload.get("festival_pages", []):
@@ -32,11 +38,10 @@ def main():
             consumption=f.get("consumption", []),
             holiday=f.get("holiday", ""),
         )
-        (dist / f"{f['slug']}.html").write_text(html, encoding="utf-8")
+        output_path = output_dir / f"{f['slug']}.html"
+        output_path.write_text(html, encoding="utf-8")
+        logger.info(f"Saved docs/{f['slug']}.html")
 
-    print("[OK] dist/index.html")
-    for f in payload.get("festival_pages", []):
-        print(f"[OK] dist/{f['slug']}.html")
 
 if __name__ == "__main__":
     main()

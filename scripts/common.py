@@ -3,8 +3,10 @@ from __future__ import annotations
 import json
 import logging
 import re
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
-from typing import Any
+from typing import Any, Optional
 
 import yaml
 
@@ -58,37 +60,32 @@ def setup_logging() -> logging.Logger:
     logger.addHandler(console_handler)
     logger.addHandler(file_handler)
     logger.propagate = False
-
     return logger
 
 
 logger = setup_logging()
 
 
+def now_utc() -> datetime:
+    return datetime.now(timezone.utc)
+
+
 def normalize_text(text: str) -> str:
     text = (text or "").strip().lower()
     text = re.sub(r"<[^>]+>", " ", text)
     text = text.replace("&amp;", "and")
+    text = text.replace("’", "'")
     text = re.sub(r"[\r\n\t]+", " ", text)
-    text = re.sub(r"[^a-z0-9\u4e00-\u9fff ]+", " ", text)
+    text = re.sub(r"[^a-z0-9\u4e00-\u9fff' ]+", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
 
 def canonical_title(text: str) -> str:
     text = normalize_text(text)
-
-    # 去掉常见媒体标题尾巴，增强跨媒体去重
-    separators = [" | ", " - ", " — ", " – ", ":"]
-    for sep in separators:
-        if sep in text:
-            left = text.split(sep)[0].strip()
-            if len(left) >= 12:
-                text = left
-
     stopwords = {
-        "the", "a", "an", "new", "latest", "review", "hands on", "vs",
-        "how to", "why", "what", "you", "your", "this", "that",
+        "the", "a", "an", "new", "latest", "review", "hands", "on", "vs",
+        "how", "to", "why", "what", "you", "your", "this", "that",
     }
     tokens = [t for t in text.split() if t not in stopwords]
     return " ".join(tokens[:16]).strip()
@@ -104,3 +101,48 @@ def build_dedupe_key(title: str, url: str = "", summary: str = "") -> str:
 def is_meaningful_text(text: str, min_len: int = 8) -> bool:
     cleaned = normalize_text(text)
     return len(cleaned) >= min_len
+
+
+def parse_datetime(value: str) -> Optional[datetime]:
+    if not value:
+        return None
+
+    value = value.strip()
+    if not value:
+        return None
+
+    try:
+        dt = parsedate_to_datetime(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    try:
+        candidate = value.replace("Z", "+00:00")
+        dt = datetime.fromisoformat(candidate)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def hours_since(dt: Optional[datetime]) -> Optional[float]:
+    if dt is None:
+        return None
+    delta = now_utc() - dt
+    return delta.total_seconds() / 3600
+
+
+def freshness_label(hours: Optional[float]) -> str:
+    if hours is None:
+        return "时间未知"
+    if hours <= 24:
+        return "24h内"
+    if hours <= 72:
+        return "近3天"
+    if hours <= 168:
+        return "近7天"
+    return "较早内容"

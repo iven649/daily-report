@@ -16,8 +16,9 @@ from common import (
     load_json,
     load_yaml,
     logger,
-    now_utc,
     normalize_text,
+    now_utc,
+    parse_datetime,
 )
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -106,14 +107,14 @@ def simplify_title(title: str) -> str:
 
     prompt = f"""请把下面标题改写成简短中文标题，适合北美业务日报使用。
 要求：
-1. 15字以内
+1. 18字以内
 2. 避免空话
 3. 尽量保留品牌/平台/关键信息
 
 标题：
 {title}
 """
-    return ai_generate(prompt, title, 20)
+    return ai_generate(prompt, title, 24)
 
 
 def simplify_summary(summary: str) -> str:
@@ -123,14 +124,14 @@ def simplify_summary(summary: str) -> str:
 
     prompt = f"""请把下面内容改写成中文摘要。
 要求：
-1. 35字以内
+1. 40字以内
 2. 偏业务信息，不要泛化
 3. 适合日报卡片展示
 
 内容：
 {summary}
 """
-    return ai_generate(prompt, summary, 40)
+    return ai_generate(prompt, summary, 46)
 
 
 def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
@@ -251,7 +252,7 @@ def fallback_business_note(item: Dict[str, Any]) -> str:
     area = item.get("impact_area", "品牌营销")
 
     if channels:
-        return f"北美渠道侧出现与{' / '.join(channels[:2])}相关的可跟进信号，优先评估对{area}的影响。"
+        return f"北美渠道侧出现与{' / '.join(channels[:2])}相关信号，优先评估对{area}的影响。"
     if brands:
         return f"{' / '.join(brands[:2])}相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。"
     if categories:
@@ -288,8 +289,8 @@ def enrich_item_with_ai(item: Dict[str, Any]) -> Dict[str, Any]:
     prompt = f"""请基于以下北美消费电子行业信息输出 JSON：
 {{
   "importance": "高/中/低",
-  "business_note": "一句中文业务意义，40字以内",
-  "suggested_action": "一句中文建议动作，40字以内"
+  "business_note": "一句中文业务意义，45字以内",
+  "suggested_action": "一句中文建议动作，45字以内"
 }}
 
 要求：
@@ -314,8 +315,8 @@ def enrich_item_with_ai(item: Dict[str, Any]) -> Dict[str, Any]:
         return item
 
     item["importance"] = result.get("importance") or fallback_importance(item.get("_score", 0))
-    item["business_note"] = (result.get("business_note") or fallback_business_note(item))[:60]
-    item["suggested_action"] = (result.get("suggested_action") or fallback_suggested_action(item))[:60]
+    item["business_note"] = (result.get("business_note") or fallback_business_note(item))[:70]
+    item["suggested_action"] = (result.get("suggested_action") or fallback_suggested_action(item))[:70]
     return item
 
 
@@ -352,15 +353,10 @@ def score_item(
     if bucket == "consumer_electronics" and hits["brands"]:
         score += 12
 
-    hours = hours_since(now_utc() if False else None)
-    published_iso = item.get("published_iso", "")
     parsed_hours = None
+    published_iso = item.get("published_iso", "")
     if published_iso:
-        try:
-            from common import parse_datetime
-            parsed_hours = hours_since(parse_datetime(published_iso))
-        except Exception:
-            parsed_hours = None
+        parsed_hours = hours_since(parse_datetime(published_iso))
 
     score += freshness_score(parsed_hours, freshness_conf)
     score += market_bias_score(text)
@@ -445,6 +441,83 @@ def generate_takeaways(
         return fallback
 
 
+def generate_lead_summary(lead_story: Optional[Dict[str, Any]], takeaways: List[str]) -> str:
+    if lead_story is None:
+        return "今日暂无足够强的头条信号，建议重点关注后续更新。"
+
+    fallback = takeaways[0] if takeaways else (lead_story.get("business_note") or "北美市场今日重点仍集中在平台与竞品变化。")
+    prompt = f"""请基于以下信息生成一句适合放在日报顶部的总判断。
+要求：
+1. 中文
+2. 30字以内
+3. 要像老板能一眼看懂的总结
+4. 不要只是改写标题
+
+头条标题：{lead_story.get("display_title") or lead_story.get("title") or lead_story.get("name")}
+业务意义：{lead_story.get("business_note", "")}
+今日重点候选：{takeaways[:3]}
+"""
+    return ai_generate(prompt, fallback, 40)
+
+
+def generate_signal_block(
+    signal_name: str,
+    items: List[Dict[str, Any]],
+    mode: str,
+) -> List[str]:
+    if not items:
+        return ["今日暂无足够信号。"]
+
+    source_lines = []
+    for item in items[:6]:
+        source_lines.append(
+            f"- {item.get('display_title') or item.get('title') or item.get('name')} | "
+            f"{item.get('impact_area', '')} | {item.get('business_note', '')}"
+        )
+
+    prompt = f"""你是北美消费电子业务分析师，请输出 {signal_name}。
+要求：
+1. 输出 2-3 条
+2. 每条一句中文
+3. 不能空泛
+4. 必须适合管理层快速看
+5. 如果是{mode}，要体现{mode}的业务判断
+
+素材：
+{source_lines}
+"""
+
+    fallback = []
+    for item in items[:2]:
+        if mode == "机会":
+            fallback.append(item.get("business_note") or "北美市场出现值得跟进的新机会。")
+        else:
+            fallback.append(item.get("suggested_action") or "建议关注潜在风险信号。")
+
+    if client is None:
+        return fallback[:3] if fallback else ["今日暂无足够信号。"]
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "你是资深北美消费电子行业分析师"},
+                {"role": "user", "content": prompt},
+            ],
+            temperature=0.35,
+        )
+        text = (response.choices[0].message.content or "").strip()
+        lines = [
+            x.strip().lstrip("-•").lstrip("1234567890.、").strip()
+            for x in text.splitlines()
+            if x.strip()
+        ]
+        return lines[:3] if lines else (fallback[:3] if fallback else ["今日暂无足够信号。"])
+    except Exception as e:
+        logger.warning(f"{signal_name} generation failed: {e}")
+        return fallback[:3] if fallback else ["今日暂无足够信号。"]
+
+
 def build_placeholder_item(title: str, bucket: str) -> Dict[str, Any]:
     return {
         "title": title,
@@ -510,6 +583,17 @@ def build_entity_watchlist(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     return result[:8]
 
 
+def build_us_timezones() -> List[Dict[str, str]]:
+    return [
+        {"name": "Eastern", "abbr": "ET"},
+        {"name": "Central", "abbr": "CT"},
+        {"name": "Mountain", "abbr": "MT"},
+        {"name": "Pacific", "abbr": "PT"},
+        {"name": "Alaska", "abbr": "AKT"},
+        {"name": "Hawaii", "abbr": "HST"},
+    ]
+
+
 def main() -> None:
     news = load_json("data/raw/news.json", {})
     products = load_json("data/raw/products.json", {"products": []})
@@ -518,7 +602,9 @@ def main() -> None:
         {"festival_cards": [], "festival_pages": []},
     )
     news_config = load_yaml("config/news_sources.yaml")
+    product_config = load_yaml("config/product_sources.yaml")
     monitoring_conf = load_yaml("config/monitoring.yaml")
+
     freshness_conf = monitoring_conf.get("freshness", {})
     monitoring = monitoring_conf.get("monitoring", {})
 
@@ -537,9 +623,10 @@ def main() -> None:
         news_config["sources"].get("channel_news", [])
     )
     keyword_conf = news_config.get("keywords", {})
-    product_keyword_conf = load_yaml("config/product_sources.yaml").get("keywords", {})
+
+    product_keyword_conf = product_config.get("keywords", {})
     product_source_priority = build_source_priority(
-        load_yaml("config/product_sources.yaml")["sources"].get("products", [])
+        product_config["sources"].get("products", [])
     )
 
     for x in consumer:
@@ -604,21 +691,36 @@ def main() -> None:
     if not product_items:
         product_items = [build_placeholder_product("今日新品暂无有效更新")]
 
-    lead_candidates = sorted(consumer + channel + product_items, key=lambda x: x.get("_score", 0), reverse=True)
-    lead_story = lead_candidates[0] if lead_candidates else None
+    all_ranked = sorted(consumer + channel + product_items, key=lambda x: x.get("_score", 0), reverse=True)
+    lead_story = all_ranked[0] if all_ranked else None
+    headline_trio = all_ranked[:3]
 
-    display_items = []
-    for section in [consumer[:5], channel[:5], product_items[:4]]:
-        display_items.extend(section)
+    enrich_pool: List[Dict[str, Any]] = []
+    for section in [consumer[:6], channel[:6], product_items[:6], headline_trio]:
+        for item in section:
+            if item not in enrich_pool:
+                enrich_pool.append(item)
 
-    for item in display_items:
+    for item in enrich_pool:
         enrich_item_with_ai(item)
 
-    if lead_story and lead_story not in display_items:
-        enrich_item_with_ai(lead_story)
-
     monitored_entities = build_entity_watchlist(consumer + channel + product_items)
-    channel_watch = [x for x in channel if x.get("impact_area") in ["电商", "渠道销售"]][:5]
+
+    opportunity_source = sorted(
+        [x for x in all_ranked if x.get("importance") in ["高", "中"] and x.get("impact_area") in ["电商", "品牌营销"]],
+        key=lambda x: x.get("_score", 0),
+        reverse=True,
+    )
+    risk_source = sorted(
+        [x for x in all_ranked if x.get("impact_area") in ["渠道销售", "电商"]],
+        key=lambda x: x.get("_score", 0),
+        reverse=True,
+    )
+
+    takeaways = generate_takeaways(lead_story, consumer, channel, product_items)
+    lead_summary = generate_lead_summary(lead_story, takeaways)
+    opportunity_signals = generate_signal_block("机会提示", opportunity_source, "机会")
+    risk_signals = generate_signal_block("风险提示", risk_source, "风险")
 
     payload = {
         "date": str(date.today()),
@@ -627,13 +729,17 @@ def main() -> None:
         "openai_enabled": bool(client),
         "festival_cards": festivals.get("festival_cards", []),
         "festival_pages": festivals.get("festival_pages", []),
+        "us_timezones": build_us_timezones(),
         "lead_story": lead_story,
+        "lead_summary": lead_summary,
+        "headline_trio": headline_trio,
         "consumer_electronics": consumer[:6],
         "channel_news": channel[:6],
-        "channel_watch": channel_watch,
         "products": product_items,
         "monitored_entities": monitored_entities,
-        "takeaways": generate_takeaways(lead_story, consumer, channel, product_items),
+        "takeaways": takeaways,
+        "opportunity_signals": opportunity_signals,
+        "risk_signals": risk_signals,
         "status": {
             "consumer_count": len(consumer),
             "channel_count": len(channel),

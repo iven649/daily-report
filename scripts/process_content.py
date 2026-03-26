@@ -24,6 +24,8 @@ from common import (
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 client: Optional[OpenAI] = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
+MAX_DISPLAY_AGE_HOURS = 24 * 45  # 45天以上的内容直接不展示，避免过旧文章混入
+
 
 def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     seen = set()
@@ -193,6 +195,20 @@ def freshness_score(hours: Optional[float], conf: Dict[str, Any]) -> int:
     if hours <= hard_limit:
         return -15
     return -60
+
+
+def is_too_old(item: Dict[str, Any]) -> bool:
+    published_iso = item.get("published_iso", "")
+    if not published_iso:
+        return False
+    hours = hours_since(parse_datetime(published_iso))
+    if hours is None:
+        return False
+    return hours > MAX_DISPLAY_AGE_HOURS
+
+
+def filter_recent_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    return [x for x in items if not is_too_old(x)]
 
 
 def detect_tags(text: str, bucket: str = "") -> List[str]:
@@ -594,6 +610,23 @@ def build_us_timezones() -> List[Dict[str, str]]:
     ]
 
 
+def pick_headline_trio(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    picked: List[Dict[str, Any]] = []
+    seen_keys = set()
+
+    for item in sorted(items, key=lambda x: x.get("_score", 0), reverse=True):
+        title = item.get("display_title") or item.get("title") or item.get("name", "")
+        key = build_dedupe_key(title=title, summary=item.get("summary", ""))
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+        picked.append(item)
+        if len(picked) >= 3:
+            break
+
+    return picked
+
+
 def main() -> None:
     news = load_json("data/raw/news.json", {})
     products = load_json("data/raw/products.json", {"products": []})
@@ -611,6 +644,10 @@ def main() -> None:
     consumer = filter_valid_items(dedupe(news.get("consumer_electronics", [])), "title")
     channel = filter_valid_items(dedupe(news.get("channel_news", [])), "title")
     product_items = filter_valid_items(dedupe(products.get("products", [])), "name")
+
+    consumer = filter_recent_items(consumer)
+    channel = filter_recent_items(channel)
+    product_items = filter_recent_items(product_items)
 
     logger.info(
         f"Loaded raw content | consumer={len(consumer)}, channel={len(channel)}, products={len(product_items)}"
@@ -691,18 +728,21 @@ def main() -> None:
     if not product_items:
         product_items = [build_placeholder_product("今日新品暂无有效更新")]
 
-    all_ranked = sorted(consumer + channel + product_items, key=lambda x: x.get("_score", 0), reverse=True)
-    lead_story = all_ranked[0] if all_ranked else None
-    headline_trio = all_ranked[:3]
-
     enrich_pool: List[Dict[str, Any]] = []
-    for section in [consumer[:6], channel[:6], product_items[:6], headline_trio]:
+    for section in [consumer[:6], channel[:6], product_items[:6]]:
         for item in section:
             if item not in enrich_pool:
                 enrich_pool.append(item)
 
     for item in enrich_pool:
         enrich_item_with_ai(item)
+
+    all_ranked = sorted(consumer + channel + product_items, key=lambda x: x.get("_score", 0), reverse=True)
+    headline_trio = pick_headline_trio(all_ranked)
+    lead_story = headline_trio[0] if headline_trio else (all_ranked[0] if all_ranked else None)
+
+    if lead_story and lead_story not in enrich_pool:
+        enrich_item_with_ai(lead_story)
 
     monitored_entities = build_entity_watchlist(consumer + channel + product_items)
 
@@ -740,6 +780,12 @@ def main() -> None:
         "takeaways": takeaways,
         "opportunity_signals": opportunity_signals,
         "risk_signals": risk_signals,
+        "feedback_items": [
+            "这期日报最有价值的是哪一块？",
+            "哪些内容你觉得太多、太少，或还缺失？",
+            "哪些品牌 / 平台 / 品类应该被提升到更高优先级？",
+            "哪些判断不够准确，应该怎么改？",
+        ],
         "status": {
             "consumer_count": len(consumer),
             "channel_count": len(channel),

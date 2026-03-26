@@ -1,0 +1,48 @@
+market:
+  primary: US
+  secondary: CN
+  timezone_label: America/Los_Angeles
+
+freshness:
+  decay_after_hours: 24
+  normal_window_hours: 72
+  soft_limit_hours: 168
+  hard_limit_hours: 336
+
+monitoring:
+  brands:
+    - Shokz
+    - Bose
+    - Sony
+    - JBL
+    - Beats
+    - Sennheiser
+    - Garmin
+    - DJI
+    - JLab
+
+  channels:
+    - Amazon
+    - Best Buy
+    - Walmart
+    - Target
+    - Costco
+    - Sam's Club
+    - Fleet Feet
+    - REI
+
+  categories:
+    - open-ear
+    - bone conduction
+    - sports headphones
+    - earbuds
+    - wearable
+    - action camera
+    - headphone
+    - UAV
+
+business:
+  teams:
+    - 电商
+    - 品牌营销
+    - 渠道销售

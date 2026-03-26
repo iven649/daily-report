@@ -254,13 +254,6 @@
       font-weight: 600;
     }
 
-    .business-row {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 18px;
-      margin-bottom: 18px;
-    }
-
     .section-row {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -512,10 +505,6 @@
         grid-template-columns: 1fr;
       }
 
-      .business-row {
-        grid-template-columns: 1fr;
-      }
-
       .watch-grid {
         grid-template-columns: repeat(2, 1fr);
       }
@@ -637,7 +626,7 @@
       </div>
     </section>
 
-    <div class="business-row">
+    <div class="section-row">
       <section class="card section-card">
         <div class="section-head section-head-center">
           <a class="section-jump" href="#section-watch">头条三条</a>
@@ -655,6 +644,19 @@
         </div>
       </section>
 
+      <section class="card section-card">
+        <div class="section-head section-head-center">
+          <a class="section-jump" href="#section-consumer">今日重点</a>
+        </div>
+        <ul class="signal-list">
+          {% for item in takeaways %}
+          <li class="signal-item">{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+    </div>
+
+    <div class="section-row">
       <section class="card section-card">
         <div class="section-head section-head-center">
           <a class="section-jump" href="#section-products">机会提示</a>

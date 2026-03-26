@@ -1,11 +1,17 @@
 from __future__ import annotations
 
 import time
-from typing import Dict, Any, List
+from typing import Any, Dict, List
 
 import feedparser
 
-from common import load_yaml, dump_json, logger
+from common import (
+    build_dedupe_key,
+    dump_json,
+    is_meaningful_text,
+    load_yaml,
+    logger,
+)
 
 
 def normalize(text: str) -> str:
@@ -23,7 +29,6 @@ def score_product_item(
     text = f"{title} {summary}"
 
     score = 0
-
     score += source_priority.get(source, 0) * 10
 
     trigger_keywords = keyword_conf.get("trigger", [])
@@ -50,10 +55,10 @@ def score_product_item(
     audio_keywords = [
         "headphones", "earbuds", "earbud", "headset", "speaker", "audio",
         "noise cancelling", "anc", "open-ear", "open ear", "bone conduction",
-        "bose", "beats", "soundcore", "sony", "jbl", "sennheiser", "shokz"
+        "bose", "beats", "soundcore", "sony", "jbl", "sennheiser", "shokz",
     ]
     drone_camera_keywords = [
-        "drone", "dji", "action camera", "gopro", "insta360", "osmo", "camera"
+        "drone", "dji", "action camera", "gopro", "insta360", "osmo", "camera",
     ]
 
     audio_hits = sum(1 for kw in audio_keywords if kw in text)
@@ -88,6 +93,11 @@ def fetch_rss(source: Dict[str, Any]) -> List[Dict[str, Any]]:
         link = getattr(entry, "link", "")
         published = getattr(entry, "published", "")
 
+        if not is_meaningful_text(title, 6):
+            continue
+        if not link:
+            continue
+
         items.append(
             {
                 "name": title,
@@ -104,12 +114,18 @@ def fetch_rss(source: Dict[str, Any]) -> List[Dict[str, Any]]:
 def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     seen = set()
     out = []
+
     for x in items:
-        key = (x.get("name"), x.get("url"))
+        key = build_dedupe_key(
+            title=x.get("name", ""),
+            url=x.get("url", ""),
+            summary=x.get("summary", ""),
+        )
         if key in seen:
             continue
         seen.add(key)
         out.append(x)
+
     return out
 
 
@@ -131,6 +147,7 @@ def main() -> None:
         except Exception as e:
             logger.warning(f"Product source failed: {source['name']} -> {e}")
 
+    raw_count = len(products)
     products = dedupe(products)
 
     for item in products:
@@ -146,8 +163,8 @@ def main() -> None:
 
     dump_json("data/raw/products.json", result)
     logger.info(
-        f"Saved data/raw/products.json | kept={len(result['products'])}, "
-        f"raw_after_dedupe={len(products)}"
+        f"Saved data/raw/products.json | raw={raw_count}, "
+        f"deduped={len(products)}, kept={len(result['products'])}"
     )
 
 

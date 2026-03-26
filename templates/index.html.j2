@@ -11,15 +11,12 @@
       --text: #111111;
       --muted: #6e6e73;
       --muted-2: #8e8e93;
-      --line: rgba(17, 17, 17, 0.08);
       --line-soft: rgba(17, 17, 17, 0.05);
       --shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
       --shadow-hover: 0 14px 36px rgba(0, 0, 0, 0.08);
       --radius-xxl: 28px;
       --radius-xl: 22px;
       --radius-lg: 18px;
-      --radius-md: 14px;
-      --radius-sm: 12px;
       --tag-bg: #f2f2f4;
       --tag-text: #55585f;
     }
@@ -71,32 +68,12 @@
       gap: 18px;
     }
 
-    .eyebrow {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 7px 12px;
-      border-radius: 999px;
-      background: #f7f7f8;
-      border: 1px solid var(--line-soft);
-      color: var(--muted);
-      font-size: 12px;
-      margin-bottom: 14px;
-    }
-
     .hero-title {
       font-size: 34px;
       line-height: 1.08;
       letter-spacing: -0.045em;
       font-weight: 760;
-      margin: 0 0 10px;
-    }
-
-    .hero-subtitle {
-      color: var(--muted);
-      font-size: 14px;
-      line-height: 1.8;
-      margin-bottom: 16px;
+      margin: 0 0 12px;
     }
 
     .lead-summary {
@@ -112,6 +89,7 @@
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
+      margin-bottom: 18px;
     }
 
     .pill {
@@ -137,12 +115,6 @@
       border: 1px solid var(--line-soft);
       border-radius: var(--radius-xl);
       padding: 16px 18px;
-    }
-
-    .mini-value {
-      font-size: 16px;
-      line-height: 1.65;
-      font-weight: 600;
     }
 
     .festival-list {
@@ -176,41 +148,6 @@
       color: var(--muted);
     }
 
-    .tz-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 10px;
-    }
-
-    .tz-item {
-      padding: 12px 14px;
-      border-radius: 16px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
-    }
-
-    .tz-abbr {
-      font-size: 14px;
-      font-weight: 700;
-      margin-bottom: 4px;
-    }
-
-    .tz-name {
-      font-size: 12px;
-      color: var(--muted);
-    }
-
-    .section-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 18px;
-      margin-bottom: 18px;
-    }
-
-    .section-card {
-      padding: 22px;
-    }
-
     .section-head {
       display: flex;
       align-items: baseline;
@@ -225,6 +162,72 @@
       line-height: 1.2;
       font-weight: 700;
       letter-spacing: -0.02em;
+    }
+
+    .timezone-block {
+      margin-top: 8px;
+    }
+
+    .bj-time {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border-radius: 16px;
+      background: #fafafa;
+      border: 1px solid var(--line-soft);
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 14px;
+    }
+
+    .tz-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+
+    .tz-link {
+      display: block;
+      padding: 12px 14px;
+      border-radius: 16px;
+      border: 1px solid var(--line-soft);
+      background: #fafafa;
+      transition: background 0.16s ease, transform 0.16s ease;
+    }
+
+    .tz-link:hover {
+      background: #f3f3f4;
+      transform: translateY(-1px);
+    }
+
+    .tz-abbr {
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .tz-name {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .tz-time {
+      font-size: 13px;
+      color: #2d3138;
+      font-weight: 600;
+    }
+
+    .section-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .section-card {
+      padding: 22px;
     }
 
     .headline-list {
@@ -430,21 +433,21 @@
       color: #5a5f67;
     }
 
-    .feedback-list {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      margin-top: 6px;
-    }
-
-    .feedback-card {
-      padding: 16px;
-      border-radius: 18px;
+    .feedback-link {
+      display: block;
+      padding: 18px 20px;
+      border-radius: 20px;
       border: 1px solid var(--line-soft);
       background: #fafafa;
-      font-size: 14px;
+      font-size: 15px;
       line-height: 1.8;
       color: #2f3238;
+      transition: background 0.16s ease, transform 0.16s ease;
+    }
+
+    .feedback-link:hover {
+      background: #f3f3f4;
+      transform: translateY(-1px);
     }
 
     @media (max-width: 1120px) {
@@ -455,8 +458,7 @@
       .watch-grid {
         grid-template-columns: repeat(2, 1fr);
       }
-      .product-grid,
-      .feedback-list {
+      .product-grid {
         grid-template-columns: 1fr 1fr;
       }
       .tz-grid {
@@ -476,8 +478,7 @@
       }
       .product-grid,
       .watch-grid,
-      .tz-grid,
-      .feedback-list {
+      .tz-grid {
         grid-template-columns: 1fr;
       }
     }
@@ -491,9 +492,7 @@
       <div class="hero-grid">
 
         <div>
-          <div class="eyebrow">North America Watchboard · {{ market_focus }}</div>
           <h1 class="hero-title">北美业务情报日报</h1>
-          <div class="hero-subtitle">{{ generated_at }} · {{ status.freshness_rule }} · AI {% if openai_enabled %}已启用{% else %}降级模式{% endif %}</div>
 
           <div class="lead-summary">
             {{ lead_summary }}
@@ -506,17 +505,52 @@
             <div class="pill">🚀 新品 {{ status.product_count }}</div>
           </div>
 
-          <div style="margin-top:18px;">
+          <div class="timezone-block">
             <div class="section-head" style="margin-bottom:10px;">
-              <h2 class="section-title" style="font-size:16px;">美国 6 时区</h2>
+              <h2 class="section-title" style="font-size:16px;">北京时间 / 美国 6 时区</h2>
             </div>
+
+            <div class="bj-time">
+              <span>🇨🇳 北京时间</span>
+              <span id="beijing-time">--</span>
+            </div>
+
             <div class="tz-grid">
-              {% for tz in us_timezones %}
-              <div class="tz-item">
-                <div class="tz-abbr">{{ tz.abbr }}</div>
-                <div class="tz-name">{{ tz.name }}</div>
-              </div>
-              {% endfor %}
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/new-york">
+                <div class="tz-abbr">ET</div>
+                <div class="tz-name">Eastern</div>
+                <div class="tz-time" id="tz-et">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/chicago">
+                <div class="tz-abbr">CT</div>
+                <div class="tz-name">Central</div>
+                <div class="tz-time" id="tz-ct">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/denver">
+                <div class="tz-abbr">MT</div>
+                <div class="tz-name">Mountain</div>
+                <div class="tz-time" id="tz-mt">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/los-angeles">
+                <div class="tz-abbr">PT</div>
+                <div class="tz-name">Pacific</div>
+                <div class="tz-time" id="tz-pt">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/anchorage">
+                <div class="tz-abbr">AKT</div>
+                <div class="tz-name">Alaska</div>
+                <div class="tz-time" id="tz-akt">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/honolulu">
+                <div class="tz-abbr">HST</div>
+                <div class="tz-name">Hawaii</div>
+                <div class="tz-time" id="tz-hst">--</div>
+              </a>
             </div>
           </div>
         </div>
@@ -530,16 +564,6 @@
                 <div class="festival-meta">{{ f.date }} · 还有 {{ f.countdown }} 天</div>
               </a>
               {% endfor %}
-            </div>
-          </div>
-
-          <div class="mini-card">
-            <div class="mini-value">
-              {% if lead_story %}
-                {{ lead_story.display_title or lead_story.title or lead_story.name }}
-              {% else %}
-                今日暂无头条
-              {% endif %}
             </div>
           </div>
         </div>
@@ -702,13 +726,42 @@
       <div class="section-head">
         <h2 class="section-title">意见反馈</h2>
       </div>
-      <div class="feedback-list">
-        {% for item in feedback_items %}
-        <div class="feedback-card">{{ item }}</div>
-        {% endfor %}
-      </div>
+      <a
+        class="feedback-link"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSdyWZwDTGRplMGv6EWojLPp3VjaKpsv_DqKaS0XyXiayPf7hg/viewform?usp=dialog"
+        target="_blank"
+      >
+        点击填写反馈表单，告诉我你希望增加、删除或调整的内容。
+      </a>
     </section>
 
   </div>
+
+  <script>
+    function formatTime(timeZone) {
+      return new Intl.DateTimeFormat("zh-CN", {
+        timeZone,
+        hour: "2-digit",
+        minute: "2-digit",
+        second: "2-digit",
+        hour12: false,
+        month: "2-digit",
+        day: "2-digit"
+      }).format(new Date());
+    }
+
+    function updateTimes() {
+      document.getElementById("beijing-time").textContent = formatTime("Asia/Shanghai");
+      document.getElementById("tz-et").textContent = formatTime("America/New_York");
+      document.getElementById("tz-ct").textContent = formatTime("America/Chicago");
+      document.getElementById("tz-mt").textContent = formatTime("America/Denver");
+      document.getElementById("tz-pt").textContent = formatTime("America/Los_Angeles");
+      document.getElementById("tz-akt").textContent = formatTime("America/Anchorage");
+      document.getElementById("tz-hst").textContent = formatTime("Pacific/Honolulu");
+    }
+
+    updateTimes();
+    setInterval(updateTimes, 1000);
+  </script>
 </body>
 </html>

@@ -4,754 +4,1123 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>北美业务情报日报 - 2026-03-26</title>
-
   <style>
+    :root {
+      --bg: #f5f5f7;
+      --card: #ffffff;
+      --text: #111111;
+      --muted: #6e6e73;
+      --muted-2: #8e8e93;
+      --line: rgba(17, 17, 17, 0.08);
+      --line-soft: rgba(17, 17, 17, 0.05);
+      --shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+      --shadow-hover: 0 14px 36px rgba(0, 0, 0, 0.08);
+      --radius-xxl: 28px;
+      --radius-xl: 22px;
+      --radius-lg: 18px;
+      --radius-md: 14px;
+      --radius-sm: 12px;
+      --tag-bg: #f2f2f4;
+      --tag-text: #55585f;
+    }
+
+    * { box-sizing: border-box; }
+
     body {
       margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-        "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
-      background: #f5f5f7;
-      color: #111;
+      background: linear-gradient(180deg, #fcfcfd 0%, #f5f5f7 100%);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+        "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
     }
 
-    .container {
-      max-width: 1200px;
-      margin: auto;
-      padding: 24px;
+    a {
+      color: inherit;
+      text-decoration: none;
     }
 
-    h2 {
-      margin: 0 0 12px;
+    .page {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 28px 20px 60px;
     }
 
     .card {
-      background: white;
-      border-radius: 16px;
-      padding: 20px;
-      margin-bottom: 20px;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+      background: var(--card);
+      border: 1px solid var(--line-soft);
+      border-radius: var(--radius-xxl);
+      box-shadow: var(--shadow);
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
     }
 
-    .grid-2 {
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-hover);
+    }
+
+    .hero {
+      padding: 24px;
+      margin-bottom: 18px;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.45fr 0.75fr;
+      gap: 18px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: #f7f7f8;
+      border: 1px solid var(--line-soft);
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 14px;
+    }
+
+    .hero-title {
+      font-size: 34px;
+      line-height: 1.08;
+      letter-spacing: -0.045em;
+      font-weight: 760;
+      margin: 0 0 10px;
+    }
+
+    .hero-subtitle {
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.8;
+      margin-bottom: 16px;
+    }
+
+    .lead-summary {
+      font-size: 24px;
+      line-height: 1.42;
+      letter-spacing: -0.03em;
+      font-weight: 650;
+      margin: 0 0 18px;
+      max-width: 760px;
+    }
+
+    .top-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: #f6f6f7;
+      border: 1px solid var(--line-soft);
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .mini-stack {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .mini-card {
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+      border: 1px solid var(--line-soft);
+      border-radius: var(--radius-xl);
+      padding: 16px 18px;
+    }
+
+    .mini-label {
+      font-size: 12px;
+      color: var(--muted-2);
+      margin-bottom: 8px;
+    }
+
+    .mini-value {
+      font-size: 16px;
+      line-height: 1.65;
+      font-weight: 600;
+    }
+
+    .festival-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .festival-link {
+      display: block;
+      padding: 12px 14px;
+      border-radius: 16px;
+      background: #fafafa;
+      border: 1px solid var(--line-soft);
+      transition: background 0.16s ease, transform 0.16s ease;
+    }
+
+    .festival-link:hover {
+      background: #f3f3f4;
+      transform: translateY(-1px);
+    }
+
+    .festival-name {
+      font-size: 14px;
+      font-weight: 650;
+      margin-bottom: 4px;
+    }
+
+    .festival-meta {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .tz-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+
+    .tz-item {
+      padding: 12px 14px;
+      border-radius: 16px;
+      border: 1px solid var(--line-soft);
+      background: #fafafa;
+    }
+
+    .tz-abbr {
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .tz-name {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .section-row {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 16px;
+      gap: 18px;
+      margin-bottom: 18px;
     }
 
-    .entity {
-      border: 1px solid #eee;
-      border-radius: 12px;
-      padding: 12px;
+    .section-card {
+      padding: 22px;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+
+    .section-title {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.2;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .section-meta {
+      font-size: 12px;
+      color: var(--muted-2);
+    }
+
+    .headline-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .headline-item {
+      padding: 14px;
+      border: 1px solid var(--line-soft);
+      border-radius: 18px;
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+    }
+
+    .headline-rank {
+      font-size: 11px;
+      color: var(--muted-2);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .headline-title {
+      font-size: 16px;
+      line-height: 1.55;
+      font-weight: 650;
+      margin-bottom: 8px;
+    }
+
+    .headline-note {
+      font-size: 13px;
+      line-height: 1.75;
+      color: #3a3d44;
+    }
+
+    .signal-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .signal-item {
+      padding: 14px 14px 14px 16px;
+      border-radius: 18px;
+      border: 1px solid var(--line-soft);
+      background: #fafafa;
+      font-size: 14px;
+      line-height: 1.8;
+      color: #25272d;
     }
 
     .news-item {
-      margin-bottom: 14px;
-      border-bottom: 1px solid #eee;
-      padding-bottom: 10px;
+      padding: 16px 0;
+      border-bottom: 1px solid var(--line-soft);
+    }
+
+    .news-item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .news-title {
+      display: inline-block;
+      font-size: 16px;
+      line-height: 1.56;
+      letter-spacing: -0.015em;
+      font-weight: 620;
+      margin-bottom: 7px;
+    }
+
+    .news-title:hover {
+      color: #4d5157;
+    }
+
+    .news-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 10px;
+      margin-bottom: 8px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 8px;
     }
 
     .tag {
-      display: inline-block;
-      padding: 4px 8px;
-      background: #f1f1f1;
+      display: inline-flex;
+      align-items: center;
+      padding: 5px 9px;
       border-radius: 999px;
-      font-size: 12px;
-      margin-right: 6px;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      font-size: 11px;
+      font-weight: 600;
+      border: 1px solid rgba(17, 17, 17, 0.04);
     }
 
-    .note {
-      margin-top: 6px;
+    .news-note {
       font-size: 13px;
-      color: #444;
+      color: #42454b;
+      line-height: 1.8;
     }
 
-    .product {
-      border: 1px solid #eee;
-      border-radius: 12px;
-      padding: 12px;
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-top: 4px;
     }
 
+    .product-card {
+      min-height: 230px;
+      padding: 18px;
+      border: 1px solid var(--line-soft);
+      border-radius: 20px;
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+      transition: transform 0.16s ease, box-shadow 0.16s ease;
+    }
+
+    .product-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 14px 26px rgba(0, 0, 0, 0.06);
+    }
+
+    .product-title {
+      font-size: 17px;
+      line-height: 1.45;
+      font-weight: 680;
+      margin-bottom: 8px;
+    }
+
+    .product-meta {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .product-summary {
+      font-size: 14px;
+      color: #44484f;
+      line-height: 1.75;
+      margin-bottom: 12px;
+    }
+
+    .watch-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-top: 4px;
+    }
+
+    .watch-card {
+      padding: 14px;
+      border-radius: 18px;
+      border: 1px solid var(--line-soft);
+      background: #fafafa;
+    }
+
+    .watch-name {
+      font-size: 15px;
+      font-weight: 680;
+      margin-bottom: 4px;
+    }
+
+    .watch-type {
+      font-size: 11px;
+      color: var(--muted-2);
+      margin-bottom: 8px;
+    }
+
+    .watch-links {
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+    }
+
+    .watch-links a {
+      font-size: 12px;
+      line-height: 1.5;
+      color: #31343a;
+    }
+
+    .watch-links a:hover {
+      color: #5a5f67;
+    }
+
+    @media (max-width: 1120px) {
+      .hero-grid,
+      .section-row {
+        grid-template-columns: 1fr;
+      }
+      .watch-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .product-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+      .tz-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding: 18px 14px 40px;
+      }
+      .hero-title {
+        font-size: 28px;
+      }
+      .lead-summary {
+        font-size: 21px;
+      }
+      .product-grid,
+      .watch-grid,
+      .tz-grid {
+        grid-template-columns: 1fr;
+      }
+    }
   </style>
 </head>
 
 <body>
-<div class="container">
+  <div class="page">
 
-  <!-- 标题 -->
-  <div class="card">
-    <h1>北美业务情报日报</h1>
-    <div>日期：2026-03-26</div>
-    <div>生成时间：2026-03-26 07:49 UTC</div>
-    <div>市场：美国优先，中国次之</div>
-  </div>
+    <section class="card hero">
+      <div class="hero-grid">
 
-  <!-- 今日重点 -->
-  <div class="card">
-    <h2>今日重点</h2>
-    <ul>
-      
-      <li>Sonos Ace降价可能刺激市场竞争，其他品牌需加速调整定价策略以保持吸引力。</li>
-      
-      <li>亚马逊春季大促的成功将推动更多电商平台跟进，促使价格战加剧。</li>
-      
-      <li>Target的技术转型计划将提升其在线购物体验，可能吸引更多消费者回流。</li>
-      
-      <li>宜家与百思买的合作模式值得关注，或为其他零售商提供新的渠道灵感。</li>
-      
-      <li>大疆无人机降价趋势表明，市场对高性价比产品的需求持续增长。</li>
-      
-    </ul>
-  </div>
+        <div>
+          <div class="eyebrow">North America Watchboard · 美国优先，中国次之</div>
+          <h1 class="hero-title">北美业务情报日报</h1>
+          <div class="hero-subtitle">2026-03-26 08:20 UTC · 24h后开始降权 · AI 已启用</div>
 
-  <!-- 重点监控对象（已修复） -->
-  <div class="card">
-    <h2>重点监控对象</h2>
-    <div class="grid-2">
-      
-      <div class="entity">
-        <strong>Amazon</strong>
-        <div style="font-size:12px;color:#888;">
-          渠道 · 7 条
+          <div class="lead-summary">
+            Sonos Ace降价25%将提升销量，亚马逊春季大促将对音频市场竞争格局产生重
+          </div>
+
+          <div class="top-meta">
+            <div class="pill">📅 2026-03-26</div>
+            <div class="pill">📰 消费电子 10</div>
+            <div class="pill">🏬 渠道 10</div>
+            <div class="pill">🚀 新品 6</div>
+          </div>
+
+          <div style="margin-top:18px;">
+            <div class="section-head" style="margin-bottom:10px;">
+              <h2 class="section-title" style="font-size:16px;">美国 6 时区</h2>
+              <div class="section-meta">业务协作参考</div>
+            </div>
+            <div class="tz-grid">
+              
+              <div class="tz-item">
+                <div class="tz-abbr">ET</div>
+                <div class="tz-name">Eastern</div>
+              </div>
+              
+              <div class="tz-item">
+                <div class="tz-abbr">CT</div>
+                <div class="tz-name">Central</div>
+              </div>
+              
+              <div class="tz-item">
+                <div class="tz-abbr">MT</div>
+                <div class="tz-name">Mountain</div>
+              </div>
+              
+              <div class="tz-item">
+                <div class="tz-abbr">PT</div>
+                <div class="tz-name">Pacific</div>
+              </div>
+              
+              <div class="tz-item">
+                <div class="tz-abbr">AKT</div>
+                <div class="tz-name">Alaska</div>
+              </div>
+              
+              <div class="tz-item">
+                <div class="tz-abbr">HST</div>
+                <div class="tz-name">Hawaii</div>
+              </div>
+              
+            </div>
+          </div>
         </div>
 
-        <div style="margin-top:8px;">
-          
-          <div>
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-              Sonos Ace在亚马逊春季大促中降价
-            </a>
+        <div class="mini-stack">
+          <div class="mini-card">
+            <div class="mini-label">节日与营销节点</div>
+            <div class="festival-list">
+              
+              <a class="festival-link" href="easter.html">
+                <div class="festival-name">🥚 复活节</div>
+                <div class="festival-meta">2026-04-05 · 还有 10 天</div>
+              </a>
+              
+              <a class="festival-link" href="mothers-day.html">
+                <div class="festival-name">🌸 母亲节</div>
+                <div class="festival-meta">2026-05-10 · 还有 45 天</div>
+              </a>
+              
+              <a class="festival-link" href="jd-618.html">
+                <div class="festival-name">📦 618</div>
+                <div class="festival-meta">2026-06-18 · 还有 84 天</div>
+              </a>
+              
+              <a class="festival-link" href="prime-day.html">
+                <div class="festival-name">⚡ Prime Day</div>
+                <div class="festival-meta">2026-07-15 · 还有 111 天</div>
+              </a>
+              
+            </div>
           </div>
-          
-          <div>
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-              Sonos Ace在亚马逊春季大促中降价
-            </a>
+
+          <div class="mini-card">
+            <div class="mini-label">最重要新闻</div>
+            <div class="mini-value">
+              
+                Sonos Ace在亚马逊春季大促中降价25%
+              
+            </div>
           </div>
-          
         </div>
+
       </div>
-      
-      <div class="entity">
-        <strong>DJI</strong>
-        <div style="font-size:12px;color:#888;">
-          品牌 · 5 条
-        </div>
+    </section>
 
-        <div style="margin-top:8px;">
-          
-          <div>
-            <a href="https://dronedj.com/2026/03/19/djis-smallest-drone-just-hit-its-lowest-price-again/" target="_blank">
-              大疆最小无人机再降价
-            </a>
-          </div>
-          
-          <div>
-            <a href="https://dronedj.com/2026/03/26/dji-avata-360-us-launch/" target="_blank">
-              大疆Avata 360无人机美国发售推迟
-            </a>
-          </div>
-          
+    <div class="section-row">
+      <section class="card section-card">
+        <div class="section-head">
+          <h2 class="section-title">头条三条</h2>
+          <div class="section-meta">老板速览</div>
         </div>
-      </div>
-      
-      <div class="entity">
-        <strong>Target</strong>
-        <div style="font-size:12px;color:#888;">
-          渠道 · 2 条
-        </div>
-
-        <div style="margin-top:8px;">
+        <div class="headline-list">
           
-          <div>
-            <a href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">
-              Target技术负责人助力零售转型计划
+          <div class="headline-item">
+            <div class="headline-rank">Top 1</div>
+            <a class="headline-title" href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
+              Sonos Ace在亚马逊春季大促中降价25%
             </a>
+            <div class="headline-note">亚马逊春季大促是提升Sony耳机销量的关键时机。</div>
           </div>
           
-          <div>
-            <a href="https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones" target="_blank">
-              Spotify允许艺术家手动审核发布以打
+          <div class="headline-item">
+            <div class="headline-rank">Top 2</div>
+            <a class="headline-title" href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
+              Sonos Ace在亚马逊春季大促中降价25%
             </a>
+            <div class="headline-note">亚马逊春季大促为Sony耳机提供了显著折扣，提升品牌曝光。</div>
           </div>
           
-        </div>
-      </div>
-      
-      <div class="entity">
-        <strong>Sony</strong>
-        <div style="font-size:12px;color:#888;">
-          品牌 · 2 条
-        </div>
-
-        <div style="margin-top:8px;">
-          
-          <div>
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-              Sonos Ace在亚马逊春季大促中降价
+          <div class="headline-item">
+            <div class="headline-rank">Top 3</div>
+            <a class="headline-title" href="https://dronedj.com/2026/03/19/djis-smallest-drone-just-hit-its-lowest-price-again/" target="_blank">
+              大疆最小无人机再次降价至新低
             </a>
-          </div>
-          
-          <div>
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-              Sonos Ace在亚马逊春季大促中降价
-            </a>
-          </div>
-          
-        </div>
-      </div>
-      
-      <div class="entity">
-        <strong>headphone</strong>
-        <div style="font-size:12px;color:#888;">
-          品类 · 2 条
-        </div>
-
-        <div style="margin-top:8px;">
-          
-          <div>
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-              Sonos Ace在亚马逊春季大促中降价
-            </a>
-          </div>
-          
-          <div>
-            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-              Sonos Ace在亚马逊春季大促中降价
-            </a>
+            <div class="headline-note">DJI小型无人机在亚马逊降价，有助于提升销量和市场份额。</div>
           </div>
           
         </div>
-      </div>
-      
-      <div class="entity">
-        <strong>Walmart</strong>
-        <div style="font-size:12px;color:#888;">
-          渠道 · 1 条
-        </div>
+      </section>
 
-        <div style="margin-top:8px;">
+      <section class="card section-card">
+        <div class="section-head">
+          <h2 class="section-title">今日重点</h2>
+          <div class="section-meta">一句话判断</div>
+        </div>
+        <ul class="signal-list">
           
-          <div>
-            <a href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">
-              沃尔玛新任CEO：约翰·弗纳接任麦克米伦
-            </a>
+          <li class="signal-item">Sonos Ace降价25%将提升其在竞争激烈的音频市场的销量，可能对其他品牌形成压力。</li>
+          
+          <li class="signal-item">Spotify允许艺术家审核发布，或将增强用户对平台内容的信任，推动更多创作者入驻。</li>
+          
+          <li class="signal-item">亚马逊春季大促的精选优惠将吸引更多消费者，可能影响其他电商平台的流量和销售策略。</li>
+          
+          <li class="signal-item">宜家与百思买的店中店合作模式，可能为零售商提供新的增长机会，值得关注其后续表现。</li>
+          
+          <li class="signal-item">Meta裁员可能影响其消费电子产品的研发进程，竞争对手需抓住这一机会加速市场布局。</li>
+          
+        </ul>
+      </section>
+    </div>
+
+    <div class="section-row">
+      <section class="card section-card">
+        <div class="section-head">
+          <h2 class="section-title">机会提示</h2>
+          <div class="section-meta">值得跟进</div>
+        </div>
+        <ul class="signal-list">
+          
+          <li class="signal-item">亚马逊春季大促为Sony耳机提供显著折扣，管理层应抓住这一时机提升销量和品牌曝光。</li>
+          
+          <li class="signal-item">DJI Mini 4K以平价配件价格推出，有望吸引更多入门用户，建议加大市场推广力度以扩大用户基础。</li>
+          
+          <li class="signal-item">大疆无人机降价可能改变市场竞争格局，管理层需评估调整定价策略以维护品牌形象和市场份额。</li>
+          
+        </ul>
+      </section>
+
+      <section class="card section-card">
+        <div class="section-head">
+          <h2 class="section-title">风险提示</h2>
+          <div class="section-meta">优先关注</div>
+        </div>
+        <ul class="signal-list">
+          
+          <li class="signal-item">Sonos Ace降价25%可能导致竞争对手价格战，影响整体利润率。</li>
+          
+          <li class="signal-item">大疆无人机降价至新低，可能引发市场价格下滑，影响品牌价值。</li>
+          
+          <li class="signal-item">Target技术转型成功与否将直接影响其电商销售增长，需密切关注实施效果。</li>
+          
+        </ul>
+      </section>
+    </div>
+
+    <section class="card section-card" style="margin-bottom:18px;">
+      <div class="section-head">
+        <h2 class="section-title">竞品 / 平台动态</h2>
+        <div class="section-meta">命中监控对象</div>
+      </div>
+      <div class="watch-grid">
+        
+        <div class="watch-card">
+          <div class="watch-name">Amazon</div>
+          <div class="watch-type">渠道 · 6 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            
+            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            
           </div>
-          
         </div>
-      </div>
-      
-      <div class="entity">
-        <strong>Best Buy</strong>
-        <div style="font-size:12px;color:#888;">
-          渠道 · 1 条
-        </div>
-
-        <div style="margin-top:8px;">
-          
-          <div>
-            <a href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">
-              宜家与百思买在佛州德州试点店中店
-            </a>
+        
+        <div class="watch-card">
+          <div class="watch-name">DJI</div>
+          <div class="watch-type">品牌 · 5 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://dronedj.com/2026/03/19/djis-smallest-drone-just-hit-its-lowest-price-again/" target="_blank">大疆最小无人机再次降价至新低</a>
+            
+            <a href="https://dronedj.com/2026/03/26/dji-avata-360-us-launch/" target="_blank">大疆Avata 360无人机在美上市延迟</a>
+            
           </div>
-          
         </div>
-      </div>
-      
-    </div>
-  </div>
-
-  <!-- 渠道 -->
-  <div class="card">
-    <h2>渠道与平台变化</h2>
-
-    
-    <div class="news-item">
-      <a href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">
-        Target技术负责人助力零售转型计划
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        RetailWire · 较早内容
-        · 电商 · 高
-      </div>
-
-      <div>
         
-        <span class="tag">🛒 渠道零售</span>
+        <div class="watch-card">
+          <div class="watch-name">Target</div>
+          <div class="watch-type">渠道 · 2 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">Target首席技术官助力零售商转型计划</a>
+            
+            <a href="https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones" target="_blank">Spotify允许艺术家手动审核发布以打击AI伪</a>
+            
+          </div>
+        </div>
         
-        <span class="tag">🏬 平台电商</span>
+        <div class="watch-card">
+          <div class="watch-name">Sony</div>
+          <div class="watch-type">品牌 · 2 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            
+            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            
+          </div>
+        </div>
         
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>Target的技术改进对电商销售至关重要，需密切关注其实施效果。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>建议加强与Target的合作，优化电商平台技术支持。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">
-        沃尔玛新任CEO：约翰·弗纳接任麦克米伦
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        RetailWire · 较早内容
-        · 电商 · 高
-      </div>
-
-      <div>
+        <div class="watch-card">
+          <div class="watch-name">headphone</div>
+          <div class="watch-type">品类 · 2 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            
+            <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
+            
+          </div>
+        </div>
         
-        <span class="tag">🛒 渠道零售</span>
+        <div class="watch-card">
+          <div class="watch-name">Walmart</div>
+          <div class="watch-type">渠道 · 1 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">沃尔玛新任CEO：约翰·弗纳接替麦克米伦</a>
+            
+          </div>
+        </div>
         
-        <span class="tag">🏬 平台电商</span>
-        
-        <span class="tag">🚀 新品发布</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>沃尔玛CEO更换可能影响电商策略和市场竞争格局。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>密切关注沃尔玛电商动态，调整营销策略。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">
-        宜家与百思买在佛州德州试点店中店
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        RetailWire · 较早内容
-        · 电商 · 高
-      </div>
-
-      <div>
-        
-        <span class="tag">🛒 渠道零售</span>
-        
-        <span class="tag">🏬 平台电商</span>
-        
-        <span class="tag">🚀 新品发布</span>
+        <div class="watch-card">
+          <div class="watch-name">Best Buy</div>
+          <div class="watch-type">渠道 · 1 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">宜家与百思买在佛州和德州试点店中店合作</a>
+            
+          </div>
+        </div>
         
       </div>
+    </section>
 
-      <div class="note">
-        <strong>业务：</strong>IKEA与Best Buy合作，提升电商渠道销售潜力，增强品牌曝光。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>建议加强线上营销，吸引更多消费者关注此合作项目。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/" target="_blank">
-        苹果重塑开发者平台，新增100项指标与工
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        TechCrunch · 24h内
-        · 渠道销售 · 高
-      </div>
-
-      <div>
-        
-        <span class="tag">🛒 渠道零售</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>Apple更新开发者平台，有助于提升渠道销售效率和开发者满意度。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>建议加强与开发者的沟通，利用新工具优化销售策略。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/" target="_blank">
-        VITL获750万美元升级现金支付诊所服
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        TechCrunch · 24h内
-        · 电商 · 高
-      </div>
-
-      <div>
-        
-        <span class="tag">🏬 平台电商</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>VITL在现金支付诊所市场的崛起为电商带来新机遇。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>加大对VITL平台的电商推广力度，吸引更多用户。
-      </div>
-    </div>
-    
-
-  </div>
-
-  <!-- 消费电子 -->
-  <div class="card">
-    <h2>消费电子重点</h2>
-
-    
-    <div class="news-item">
-      <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
-        Sonos Ace在亚马逊春季大促中降价
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        The Verge · 24h内
-        · 电商 · 高
-      </div>
-
-      <div>
-        
-        <span class="tag">🎧 耳机音频</span>
-        
-        <span class="tag">🏬 平台电商</span>
-        
-        <span class="tag">💰 价格促销</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>亚马逊春季大促是提升Sony耳机销量的良机。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>加强电商平台的品牌宣传，提升销量。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones" target="_blank">
-        Spotify允许艺术家手动审核发布以打
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        The Verge · 24h内
-        · 电商 · 高
-      </div>
-
-      <div>
-        
-        <span class="tag">🏬 平台电商</span>
-        
-        <span class="tag">🚀 新品发布</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>Spotify新功能可提升艺术家信任度，减少假冒作品影响。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>建议加强与Spotify的合作，推广艺术家认证机制。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">
-        亚马逊春季大促精选优惠汇总
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        The Verge · 24h内
-        · 电商 · 高
-      </div>
-
-      <div>
-        
-        <span class="tag">🛒 渠道零售</span>
-        
-        <span class="tag">🏬 平台电商</span>
-        
-        <span class="tag">💰 价格促销</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>亚马逊春季大促为电商带来销售机会，需抓住时机。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>加强电商推广，利用促销吸引消费者购买。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals" target="_blank">
-        Woot今日Switch 2手柄及游戏降
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        The Verge · 24h内
-        · 电商 · 高
-      </div>
-
-      <div>
-        
-        <span class="tag">🏃 运动穿戴</span>
-        
-        <span class="tag">🏬 平台电商</span>
-        
-        <span class="tag">💰 价格促销</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>Woot促销活动可提升电商销售，吸引更多消费者关注。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>利用此促销加强品牌营销，提升产品曝光率。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale" target="_blank">
-        Fanttik X9 Pro便携式充气泵
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        The Verge · 24h内
-        · 电商 · 高
-      </div>
-
-      <div>
-        
-        <span class="tag">🏬 平台电商</span>
-        
-        <span class="tag">💰 价格促销</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>Fanttik X9 Pro充气泵降价，有助于提升电商销售业绩。
-      </div>
-      <div class="note">
-        <strong>动作：</strong>在电商平台加大促销力度，吸引更多消费者购买。
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <a href="https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse" target="_blank">
-        迪士尼在元宇宙与AI投资遇挫
-      </a>
-
-      <div style="font-size:12px;color:#888;">
-        The Verge · 24h内
-        · 电商 · 
-      </div>
-
-      <div>
-        
-        <span class="tag">🚀 新品发布</span>
-        
-        <span class="tag">💰 价格促销</span>
-        
-      </div>
-
-      <div class="note">
-        <strong>业务：</strong>
-      </div>
-      <div class="note">
-        <strong>动作：</strong>
-      </div>
-    </div>
-    
-
-  </div>
-
-  <!-- 新品 -->
-  <div class="card">
-    <h2>新品速览</h2>
-
-    <div class="grid-2">
-      
-      <div class="product">
-        <strong>Sonos Ace在亚马逊春季大促中降价</strong>
-
-        <div style="font-size:12px;color:#888;">
-          The Verge Tech · 24h内
+    <div class="section-row">
+      <section class="card section-card">
+        <div class="section-head">
+          <h2 class="section-title">消费电子</h2>
+          <div class="section-meta">品牌 / 产品 / 趋势</div>
         </div>
 
-        <div style="margin-top:6px;">
-          亚马逊第三届春季大促销，电子书阅读器和RGB台灯优惠明显，但降噪耳机选择较少，索
+        
+        <article class="news-item">
+          <a class="news-title" href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
+            Sonos Ace在亚马逊春季大促中降价25%
+          </a>
+          <div class="news-meta">
+            <span>The Verge</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+            <span class="tag">💰 价格促销</span>
+            
+          </div>
+          <div class="news-note">亚马逊春季大促是提升Sony耳机销量的关键时机。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones" target="_blank">
+            Spotify允许艺术家手动审核发布以打击AI伪
+          </a>
+          <div class="news-meta">
+            <span>The Verge</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🏬 平台电商</span>
+            
+            <span class="tag">🚀 新品发布</span>
+            
+          </div>
+          <div class="news-note">Spotify新功能可保护艺术家，提升品牌信任度，减少假冒作品影响。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">
+            亚马逊春季大促精选优惠汇总
+          </a>
+          <div class="news-meta">
+            <span>The Verge</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+            <span class="tag">💰 价格促销</span>
+            
+          </div>
+          <div class="news-note">亚马逊春季大促为电商团队提供了重要的销售机会，需抓住时机提升销量。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale" target="_blank">
+            Fanttik X9 Pro便携式胎压泵降至数月
+          </a>
+          <div class="news-meta">
+            <span>The Verge</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🏬 平台电商</span>
+            
+            <span class="tag">💰 价格促销</span>
+            
+          </div>
+          <div class="news-note">Fanttik X9 Pro充气泵降价，有助于提升电商销量和品牌曝光。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse" target="_blank">
+            迪士尼在元宇宙和AI投资遇挫
+          </a>
+          <div class="news-meta">
+            <span>The Verge</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🚀 新品发布</span>
+            
+            <span class="tag">💰 价格促销</span>
+            
+          </div>
+          <div class="news-note">迪士尼在元宇宙和AI领域的投资面临挑战，影响电商业务发展。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://www.androidauthority.com/amazon-kindle-ereader-deal-3652015/" target="_blank">
+            亚马逊Kindle降价15美元！数月首度折扣
+          </a>
+          <div class="news-meta">
+            <span>Android Authority</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🏬 平台电商</span>
+            
+            <span class="tag">💰 价格促销</span>
+            
+          </div>
+          <div class="news-note">亚马逊Kindle首次降价，电商销售机会显著，需抓住促销时机。</div>
+        </article>
+        
+      </section>
+
+      <section class="card section-card">
+        <div class="section-head">
+          <h2 class="section-title">渠道 / 平台</h2>
+          <div class="section-meta">电商 / 零售 / 合作</div>
         </div>
 
-        <div class="note">
-          <strong>业务：</strong>亚马逊春季大促为Sony耳机提供了重要的销售机会。
-        </div>
-
-        <div class="note">
-          <strong>动作：</strong>加强电商渠道的促销策略，提升销量。
-        </div>
-
-        <div style="margin-top:8px;">
-          <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">查看原文</a>
-        </div>
-      </div>
-      
-      <div class="product">
-        <strong>大疆最小无人机再降价</strong>
-
-        <div style="font-size:12px;color:#888;">
-          DroneDJ · 近7天
-        </div>
-
-        <div style="margin-top:6px;">
-          DJI最小无人机在亚马逊降价，进一步提升市场竞争力。
-        </div>
-
-        <div class="note">
-          <strong>业务：</strong>DJI小型无人机降价，有助于提升电商销售额。
-        </div>
-
-        <div class="note">
-          <strong>动作：</strong>加强在亚马逊的品牌营销，吸引更多消费者关注。
-        </div>
-
-        <div style="margin-top:8px;">
-          <a href="https://dronedj.com/2026/03/19/djis-smallest-drone-just-hit-its-lowest-price-again/" target="_blank">查看原文</a>
-        </div>
-      </div>
-      
-      <div class="product">
-        <strong>大疆Avata 360无人机美国发售推迟</strong>
-
-        <div style="font-size:12px;color:#888;">
-          DroneDJ · 24h内
-        </div>
-
-        <div style="margin-top:6px;">
-          DJI 360°无人机全球发布已启动，但美国买家可能面临延迟。
-        </div>
-
-        <div class="note">
-          <strong>业务：</strong>DJI Avata 360无人机在美国的推迟发布将影响品牌形象和销售。
-        </div>
-
-        <div class="note">
-          <strong>动作：</strong>加大品牌营销力度，提前预热消费者期待。
-        </div>
-
-        <div style="margin-top:8px;">
-          <a href="https://dronedj.com/2026/03/26/dji-avata-360-us-launch/" target="_blank">查看原文</a>
-        </div>
-      </div>
-      
-      <div class="product">
-        <strong>大疆全面下调无人机价格</strong>
-
-        <div style="font-size:12px;color:#888;">
-          DroneDJ · 24h内
-        </div>
-
-        <div style="margin-top:6px;">
-          DJI无人机价格出现异常波动，市场动态引发关注。
-        </div>
-
-        <div class="note">
-          <strong>业务：</strong>DJI大幅降价将影响市场竞争格局，需及时调整策略。
-        </div>
-
-        <div class="note">
-          <strong>动作：</strong>加强电商平台促销，提升品牌曝光和销量。
-        </div>
-
-        <div style="margin-top:8px;">
-          <a href="https://dronedj.com/2026/03/25/dji-drone-deals-lowest-discount/" target="_blank">查看原文</a>
-        </div>
-      </div>
-      
-      <div class="product">
-        <strong>大疆Mini 4K现价如预算配件</strong>
-
-        <div style="font-size:12px;color:#888;">
-          DroneDJ · 近7天
-        </div>
-
-        <div style="margin-top:6px;">
-          大疆Mini 4K无人机发布，定位初学者，具备易操作性和高性价比。
-        </div>
-
-        <div class="note">
-          <strong>业务：</strong>
-        </div>
-
-        <div class="note">
-          <strong>动作：</strong>
-        </div>
-
-        <div style="margin-top:8px;">
-          <a href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank">查看原文</a>
-        </div>
-      </div>
-      
-      <div class="product">
-        <strong>大疆起诉Insta360，Avata 3</strong>
-
-        <div style="font-size:12px;color:#888;">
-          DroneDJ · 近3天
-        </div>
-
-        <div style="margin-top:6px;">
-          DJI即将发布首款360度FPV无人机，市场竞争加剧。
-        </div>
-
-        <div class="note">
-          <strong>业务：</strong>
-        </div>
-
-        <div class="note">
-          <strong>动作：</strong>
-        </div>
-
-        <div style="margin-top:8px;">
-          <a href="https://dronedj.com/2026/03/23/dji-insta360-lawsuit-patent-drone/" target="_blank">查看原文</a>
-        </div>
-      </div>
-      
+        
+        <article class="news-item">
+          <a class="news-title" href="https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/" target="_blank">
+            Target首席技术官助力零售商转型计划
+          </a>
+          <div class="news-meta">
+            <span>RetailWire</span>
+            <span>较早内容</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+          </div>
+          <div class="news-note">Target的技术改进是其复苏计划的核心，电商团队需关注技术驱动的销售增长。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/" target="_blank">
+            沃尔玛新任CEO：约翰·弗纳接替麦克米伦
+          </a>
+          <div class="news-meta">
+            <span>RetailWire</span>
+            <span>较早内容</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+            <span class="tag">🚀 新品发布</span>
+            
+          </div>
+          <div class="news-note">沃尔玛CEO更换可能影响电商战略，需关注其对市场的影响。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://retailwire.com/ikea-best-buy-pilot-florida-texas/" target="_blank">
+            宜家与百思买在佛州和德州试点店中店合作
+          </a>
+          <div class="news-meta">
+            <span>RetailWire</span>
+            <span>较早内容</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+            <span class="tag">🚀 新品发布</span>
+            
+          </div>
+          <div class="news-note">IKEA与Best Buy合作在店内设立小型商店，有助于提升品牌曝光和销售。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/" target="_blank">
+            VITL获750万美元，升级现金支付诊所开方服务
+          </a>
+          <div class="news-meta">
+            <span>TechCrunch</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🏬 平台电商</span>
+            
+          </div>
+          <div class="news-note">VITL通过电子处方市场抓住现金支付诊所的增长机会，提升电商业务潜力。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/" target="_blank">
+            Meta裁员数百人
+          </a>
+          <div class="news-meta">
+            <span>TechCrunch</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>品牌营销</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🛒 渠道动态</span>
+            
+          </div>
+          <div class="news-note">Meta裁员将影响品牌营销团队，需调整策略以应对人力资源减少。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/" target="_blank">
+            美国铸币局停产一分币，州立法者拟定新规则
+          </a>
+          <div class="news-meta">
+            <span>RetailWire</span>
+            <span>较早内容</span>
+            <span>中</span>
+            <span>渠道销售</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+          </div>
+          <div class="news-note">美铸币局停止生产便士，可能影响现金交易的定价策略。</div>
+        </article>
+        
+      </section>
     </div>
 
-  </div>
+    <section class="card section-card">
+      <div class="section-head">
+        <h2 class="section-title">新品速递</h2>
+        <div class="section-meta">新品 / 发布 / 趋势补充</div>
+      </div>
 
-  <!-- 节日 -->
-  <div class="card">
-    <h2>节日与营销节点</h2>
-
-    <div class="grid-2">
-      
-      <div>
-        <strong>复活节</strong>
-        <div>2026-04-05 · 还有 10 天</div>
+      <div class="product-grid">
+        
+        <article class="product-card">
+          <a class="product-title" href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">
+            Sonos Ace在亚马逊春季大促中降价25%
+          </a>
+          <div class="product-meta">The Verge Tech · 24h内 · 高</div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+          </div>
+          <div class="product-summary">亚马逊第三届春季大促销提供多款电子产品，索尼WH-1000XM6降价超60美元，但降噪耳机选</div>
+          <div class="news-note">亚马逊春季大促为Sony耳机提供了显著折扣，提升品牌曝光。</div>
+        </article>
+        
+        <article class="product-card">
+          <a class="product-title" href="https://dronedj.com/2026/03/19/djis-smallest-drone-just-hit-its-lowest-price-again/" target="_blank">
+            大疆最小无人机再次降价至新低
+          </a>
+          <div class="product-meta">DroneDJ · 近7天 · 高</div>
+          <div class="tag-row">
+            
+            <span class="tag">🚁 无人机影像</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+            <span class="tag">💰 价格促销</span>
+            
+          </div>
+          <div class="product-summary">大疆最新款小型无人机在亚马逊降价，提升市场竞争力。</div>
+          <div class="news-note">DJI小型无人机在亚马逊降价，有助于提升销量和市场份额。</div>
+        </article>
+        
+        <article class="product-card">
+          <a class="product-title" href="https://dronedj.com/2026/03/26/dji-avata-360-us-launch/" target="_blank">
+            大疆Avata 360无人机在美上市延迟
+          </a>
+          <div class="product-meta">DroneDJ · 24h内 · 高</div>
+          <div class="tag-row">
+            
+            <span class="tag">🚁 无人机影像</span>
+            
+            <span class="tag">🚀 新品发布</span>
+            
+          </div>
+          <div class="product-summary">DJI 360°无人机全球发布已启动，但美国市场可能面临延迟。</div>
+          <div class="news-note">DJI Avata 360无人机在美国的推迟发布可能影响品牌形象和销售。</div>
+        </article>
+        
+        <article class="product-card">
+          <a class="product-title" href="https://dronedj.com/2026/03/25/dji-drone-deals-lowest-discount/" target="_blank">
+            DJI全面下调无人机价格
+          </a>
+          <div class="product-meta">DroneDJ · 24h内 · 高</div>
+          <div class="tag-row">
+            
+            <span class="tag">🚁 无人机影像</span>
+            
+            <span class="tag">💰 价格促销</span>
+            
+          </div>
+          <div class="product-summary">DJI无人机价格出现异常波动，市场动态值得关注。</div>
+          <div class="news-note">DJI大幅降价可能影响品牌形象和市场竞争格局。</div>
+        </article>
+        
+        <article class="product-card">
+          <a class="product-title" href="https://dronedj.com/2026/03/19/dji-mini-drone-deal-price/" target="_blank">
+            大疆Mini 4K现已成平价配件价格
+          </a>
+          <div class="product-meta">DroneDJ · 近7天 · 高</div>
+          <div class="tag-row">
+            
+            <span class="tag">🚁 无人机影像</span>
+            
+            <span class="tag">💰 价格促销</span>
+            
+          </div>
+          <div class="product-summary">大疆推出Mini 4K无人机，专为初学者设计，操作简便，适合入门用户。</div>
+          <div class="news-note">DJI Mini 4K以预算配件的价格推出，可能吸引更多入门用户。</div>
+        </article>
+        
+        <article class="product-card">
+          <a class="product-title" href="https://dronedj.com/2026/03/23/dji-insta360-lawsuit-patent-drone/" target="_blank">
+            大疆起诉Insta360，Avata 360无人
+          </a>
+          <div class="product-meta">DroneDJ · 近3天 · 高</div>
+          <div class="tag-row">
+            
+            <span class="tag">🚁 无人机影像</span>
+            
+            <span class="tag">🚀 新品发布</span>
+            
+          </div>
+          <div class="product-summary">DJI即将发布首款360度FPV无人机，市场期待其创新表现。</div>
+          <div class="news-note">DJI起诉Insta360，可能影响品牌形象和市场竞争力。</div>
+        </article>
+        
       </div>
-      
-      <div>
-        <strong>母亲节</strong>
-        <div>2026-05-10 · 还有 45 天</div>
-      </div>
-      
-      <div>
-        <strong>618</strong>
-        <div>2026-06-18 · 还有 84 天</div>
-      </div>
-      
-      <div>
-        <strong>Prime Day</strong>
-        <div>2026-07-15 · 还有 111 天</div>
-      </div>
-      
-    </div>
+    </section>
 
   </div>
-
-</div>
 </body>
 </html>

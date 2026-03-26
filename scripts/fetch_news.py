@@ -1,10 +1,17 @@
 from __future__ import annotations
 
 import time
+from typing import Dict, List
 
 import feedparser
 
-from common import load_yaml, dump_json, logger
+from common import (
+    build_dedupe_key,
+    dump_json,
+    is_meaningful_text,
+    load_yaml,
+    logger,
+)
 
 MAX_PER_SOURCE = 12
 
@@ -14,20 +21,51 @@ def clean_title(title: str) -> str:
     return " ".join(title.split())
 
 
-def fetch_rss(url: str):
+def fetch_rss(url: str) -> List[Dict]:
     feed = feedparser.parse(url)
     items = []
 
     for e in feed.entries[:MAX_PER_SOURCE]:
+        title = clean_title(getattr(e, "title", ""))
+        link = getattr(e, "link", "")
+        published = getattr(e, "published", "")
+        summary = getattr(e, "summary", "") or getattr(e, "description", "") or ""
+
+        if not is_meaningful_text(title, 6):
+            continue
+        if not link:
+            continue
+
         items.append(
             {
-                "title": clean_title(getattr(e, "title", "")),
-                "url": getattr(e, "link", ""),
-                "published": getattr(e, "published", ""),
+                "title": title,
+                "summary": " ".join(summary.split())[:280],
+                "url": link,
+                "published": published,
             }
         )
 
     return items
+
+
+def dedupe_news_items(items: List[Dict]) -> List[Dict]:
+    seen = set()
+    out = []
+
+    for item in items:
+        key = build_dedupe_key(
+            title=item.get("title", ""),
+            url=item.get("url", ""),
+            summary=item.get("summary", ""),
+        )
+
+        if key in seen:
+            continue
+
+        seen.add(key)
+        out.append(item)
+
+    return out
 
 
 def main() -> None:
@@ -42,6 +80,8 @@ def main() -> None:
         sources = conf.get("sources", {}).get(bucket, [])
         logger.info(f"Fetching news bucket={bucket}, sources={len(sources)}")
 
+        bucket_items = []
+
         for source in sources:
             if source.get("type") != "rss":
                 logger.warning(
@@ -54,10 +94,16 @@ def main() -> None:
                 for x in items:
                     x["source"] = source["name"]
                     x["bucket"] = bucket
-                result[bucket].extend(items)
+                bucket_items.extend(items)
                 logger.info(f"Fetched {len(items)} items from {source['name']}")
             except Exception as e:
                 logger.warning(f"News source failed: {source['name']} -> {e}")
+
+        deduped = dedupe_news_items(bucket_items)
+        logger.info(
+            f"Bucket {bucket} raw={len(bucket_items)} deduped={len(deduped)}"
+        )
+        result[bucket] = deduped
 
     total = len(result["consumer_electronics"]) + len(result["channel_news"])
     dump_json("data/raw/news.json", result)

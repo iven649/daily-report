@@ -1,90 +1,142 @@
 sources:
-  products:
-    - name: Android Authority
+  consumer_electronics:
+    - name: The Verge
       type: rss
-      url: https://www.androidauthority.com/feed/
+      url: "https://www.theverge.com/rss/index.xml"
       priority: 10
-
-    - name: The Verge Tech
-      type: rss
-      url: https://www.theverge.com/rss/tech/index.xml
-      priority: 9
-
-    - name: The Verge Front Page
-      type: rss
-      url: https://www.theverge.com/rss/front-page/index.xml
-      priority: 8
-
-    - name: DroneDJ
-      type: rss
-      url: https://dronedj.com/feed/
-      priority: 8
 
     - name: TechCrunch
       type: rss
-      url: https://techcrunch.com/feed/
-      priority: 6
+      url: "https://techcrunch.com/feed/"
+      priority: 9
+
+    - name: Engadget
+      type: rss
+      url: "https://www.engadget.com/rss.xml"
+      priority: 9
+
+    - name: Android Authority
+      type: rss
+      url: "https://www.androidauthority.com/feed/"
+      priority: 8
+
+    - name: PhoneArena
+      type: rss
+      url: "https://www.phonearena.com/rss/news"
+      priority: 7
+
+    - name: Google News - Audio Wearable Watch
+      type: rss
+      url: "https://news.google.com/rss/search?q=when:7d%20(headphones%20OR%20earbuds%20OR%20wearable%20OR%20open-ear%20OR%20bone%20conduction%20OR%20sports%20headphones%20OR%20action%20camera%20OR%20UAV)&hl=en-US&gl=US&ceid=US:en"
+      priority: 8
+
+    - name: Google News - Competitor Watch
+      type: rss
+      url: "https://news.google.com/rss/search?q=when:7d%20(Shokz%20OR%20Bose%20OR%20Sony%20OR%20JBL%20OR%20Beats%20OR%20Sennheiser%20OR%20Garmin%20OR%20DJI%20OR%20JLab)&hl=en-US&gl=US&ceid=US:en"
+      priority: 8
+
+  channel_news:
+    - name: RetailWire
+      type: rss
+      url: "https://retailwire.com/feed/"
+      priority: 10
+
+    - name: Chain Store Age
+      type: rss
+      url: "https://chainstoreage.com/rss.xml"
+      priority: 9
+
+    - name: Modern Retail
+      type: rss
+      url: "https://www.modernretail.co/feed/"
+      priority: 8
+
+    - name: Retail Dive
+      type: rss
+      url: "https://www.retaildive.com/feeds/news/"
+      priority: 8
+
+    - name: Google News - Retail Platforms
+      type: rss
+      url: "https://news.google.com/rss/search?q=when:7d%20(Amazon%20OR%20Best%20Buy%20OR%20Walmart%20OR%20Target%20OR%20Costco%20OR%20%22Sam%27s%20Club%22%20OR%20%22Fleet%20Feet%22%20OR%20REI)%20(retail%20OR%20ecommerce%20OR%20channel%20OR%20store%20OR%20partnership%20OR%20pricing)&hl=en-US&gl=US&ceid=US:en"
+      priority: 10
+
+    - name: Google News - US Retail Audio
+      type: rss
+      url: "https://news.google.com/rss/search?q=when:7d%20(audio%20OR%20headphones%20OR%20earbuds)%20(Amazon%20OR%20Best%20Buy%20OR%20Walmart%20OR%20Target%20OR%20Costco%20OR%20REI)&hl=en-US&gl=US&ceid=US:en"
+      priority: 9
 
 keywords:
-  high:
-    - shokz
-    - bose
-    - beats
-    - sony
-    - jbl
-    - sennheiser
-    - garmin
-    - dji
-    - jlab
-    - headphones
-    - headphone
-    - earbuds
-    - earbud
-    - headset
-    - audio
-    - open-ear
-    - open ear
-    - bone conduction
-    - sports headphones
-    - wearable
-    - smartwatch
-    - drone
-    - uav
-    - action camera
-    - camera
+  consumer_electronics:
+    high:
+      - shokz
+      - bose
+      - beats
+      - sony
+      - jbl
+      - sennheiser
+      - garmin
+      - dji
+      - jlab
+      - earbuds
+      - headphone
+      - headphones
+      - open-ear
+      - open ear
+      - bone conduction
+      - sports headphones
+      - wearable
+      - smartwatch
+      - action camera
+      - uav
+      - drone
+      - audio
 
-  medium:
-    - bluetooth
-    - wireless
-    - premium
-    - battery
-    - feature
-    - review
-    - sports
-    - running
-    - fitness
+    medium:
+      - launch
+      - launched
+      - release
+      - released
+      - announce
+      - announced
+      - update
+      - premium
+      - wireless
+      - bluetooth
+      - battery
+      - review
 
-  trigger:
-    - launch
-    - launches
-    - launched
-    - release
-    - releases
-    - released
-    - announce
-    - announces
-    - announced
-    - unveil
-    - unveils
-    - unveiled
-    - debut
-    - debuts
-    - reveal
-    - reveals
-    - revealed
-    - available
-    - availability
-    - pricing
-    - price
-    - preorder
-    - pre-order
+  channel_news:
+    high:
+      - amazon
+      - best buy
+      - walmart
+      - target
+      - costco
+      - sam's club
+      - sams club
+      - fleet feet
+      - rei
+      - retail
+      - store
+      - channel
+      - distribution
+      - partnership
+      - sales
+      - marketplace
+      - pricing
+      - ecommerce
+      - e-commerce
+      - merchant
+
+    medium:
+      - growth
+      - platform
+      - strategy
+      - fulfillment
+      - inventory
+      - promotion
+      - traffic
+      - membership
+      - expansion
+      - assortment

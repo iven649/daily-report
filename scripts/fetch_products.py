@@ -11,6 +11,7 @@ from common import (
     is_meaningful_text,
     load_yaml,
     logger,
+    parse_datetime,
 )
 
 
@@ -32,40 +33,23 @@ def score_product_item(
     score += source_priority.get(source, 0) * 10
 
     trigger_keywords = keyword_conf.get("trigger", [])
-    trigger_hits = 0
-    for kw in trigger_keywords:
-        if kw.lower() in text:
-            trigger_hits += 1
+    trigger_hits = sum(1 for kw in trigger_keywords if kw.lower() in text)
     score += trigger_hits * 12
 
     high_keywords = keyword_conf.get("high", [])
-    high_hits = 0
-    for kw in high_keywords:
-        if kw.lower() in text:
-            high_hits += 1
+    high_hits = sum(1 for kw in high_keywords if kw.lower() in text)
     score += high_hits * 18
 
     medium_keywords = keyword_conf.get("medium", [])
-    medium_hits = 0
-    for kw in medium_keywords:
-        if kw.lower() in text:
-            medium_hits += 1
+    medium_hits = sum(1 for kw in medium_keywords if kw.lower() in text)
     score += medium_hits * 8
 
-    audio_keywords = [
-        "headphones", "earbuds", "earbud", "headset", "speaker", "audio",
-        "noise cancelling", "anc", "open-ear", "open ear", "bone conduction",
-        "bose", "beats", "soundcore", "sony", "jbl", "sennheiser", "shokz",
-    ]
-    drone_camera_keywords = [
-        "drone", "dji", "action camera", "gopro", "insta360", "osmo", "camera",
-    ]
-
-    audio_hits = sum(1 for kw in audio_keywords if kw in text)
-    drone_hits = sum(1 for kw in drone_camera_keywords if kw in text)
-
-    score += audio_hits * 25
-    score += drone_hits * 16
+    if "open-ear" in text or "open ear" in text:
+        score += 24
+    if "bone conduction" in text:
+        score += 24
+    if "sports headphones" in text:
+        score += 18
 
     if trigger_hits == 0 and high_hits == 0 and medium_hits == 0:
         score -= 80
@@ -77,10 +61,7 @@ def score_product_item(
 
 
 def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
-    result = {}
-    for s in source_list:
-        result[s["name"]] = s.get("priority", 0)
-    return result
+    return {s["name"]: s.get("priority", 0) for s in source_list}
 
 
 def fetch_rss(source: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -91,18 +72,21 @@ def fetch_rss(source: Dict[str, Any]) -> List[Dict[str, Any]]:
         title = normalize(getattr(entry, "title", ""))
         summary = normalize(getattr(entry, "summary", ""))
         link = getattr(entry, "link", "")
-        published = getattr(entry, "published", "")
+        published = normalize(getattr(entry, "published", ""))
 
         if not is_meaningful_text(title, 6):
             continue
         if not link:
             continue
 
+        published_dt = parse_datetime(published)
+
         items.append(
             {
                 "name": title,
                 "summary": summary[:260],
                 "date": published[:25],
+                "published_iso": published_dt.isoformat() if published_dt else "",
                 "url": link,
                 "source": source["name"],
             }
@@ -163,8 +147,7 @@ def main() -> None:
 
     dump_json("data/raw/products.json", result)
     logger.info(
-        f"Saved data/raw/products.json | raw={raw_count}, "
-        f"deduped={len(products)}, kept={len(result['products'])}"
+        f"Saved data/raw/products.json | raw={raw_count}, deduped={len(products)}, kept={len(result['products'])}"
     )
 
 

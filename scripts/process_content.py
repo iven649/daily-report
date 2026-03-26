@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import os
 from datetime import date
 from typing import Any, Dict, List, Optional
@@ -9,10 +10,14 @@ from openai import OpenAI
 from common import (
     build_dedupe_key,
     dump_json,
+    freshness_label,
+    hours_since,
     is_meaningful_text,
     load_json,
     load_yaml,
     logger,
+    now_utc,
+    normalize_text,
 )
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -30,6 +35,7 @@ def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 
         if key in seen:
             continue
+
         seen.add(key)
         out.append(x)
 
@@ -57,19 +63,40 @@ def ai_generate(prompt: str, fallback: str, max_len: int = 40) -> str:
         response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "你是一个资深科技媒体编辑"},
+                {"role": "system", "content": "你是一个资深北美消费电子行业编辑"},
                 {"role": "user", "content": prompt},
             ],
             temperature=0.3,
         )
-
         result = (response.choices[0].message.content or "").strip()
         result = " ".join(result.split())
         return result[:max_len] if result else fallback[:max_len]
-
     except Exception as e:
         logger.warning(f"AI generate failed: {e}")
         return fallback[:max_len]
+
+
+def ai_json(prompt: str) -> Dict[str, Any]:
+    if client is None:
+        return {}
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "你是北美消费电子业务分析师。只输出合法 JSON，不要 markdown，不要解释。",
+                },
+                {"role": "user", "content": prompt},
+            ],
+            temperature=0.2,
+        )
+        text = (response.choices[0].message.content or "").strip()
+        return json.loads(text)
+    except Exception as e:
+        logger.warning(f"AI json parse failed: {e}")
+        return {}
 
 
 def simplify_title(title: str) -> str:
@@ -77,8 +104,13 @@ def simplify_title(title: str) -> str:
     if not title:
         return ""
 
-    prompt = f"""请把下面这条标题改写成简短中文新闻标题（15字以内）：
+    prompt = f"""请把下面标题改写成简短中文标题，适合北美业务日报使用。
+要求：
+1. 15字以内
+2. 避免空话
+3. 尽量保留品牌/平台/关键信息
 
+标题：
 {title}
 """
     return ai_generate(prompt, title, 20)
@@ -89,186 +121,91 @@ def simplify_summary(summary: str) -> str:
     if not summary:
         return ""
 
-    prompt = f"""请把下面内容改写成30字以内中文摘要：
+    prompt = f"""请把下面内容改写成中文摘要。
+要求：
+1. 35字以内
+2. 偏业务信息，不要泛化
+3. 适合日报卡片展示
 
+内容：
 {summary}
 """
     return ai_generate(prompt, summary, 40)
 
 
-def score_item(
-    item: Dict[str, Any],
-    bucket: str,
-    source_priority: Dict[str, int],
-    keyword_conf: Dict[str, Any],
-) -> int:
-    title = (item.get("title") or item.get("name") or "").lower()
-    summary = (item.get("summary") or "").lower()
-    source = item.get("source", "")
-    text = f"{title} {summary}"
+def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
+    return {s["name"]: s.get("priority", 0) for s in source_list}
+
+
+def detect_monitor_hits(text: str, monitoring: Dict[str, Any]) -> Dict[str, List[str]]:
+    t = normalize_text(text)
+
+    def match_list(items: List[str]) -> List[str]:
+        hits = []
+        for item in items:
+            key = normalize_text(item)
+            if key and key in t:
+                hits.append(item)
+        return hits
+
+    return {
+        "brands": match_list(monitoring.get("brands", [])),
+        "channels": match_list(monitoring.get("channels", [])),
+        "categories": match_list(monitoring.get("categories", [])),
+    }
+
+
+def market_bias_score(text: str) -> int:
+    t = normalize_text(text)
+
+    us_terms = [
+        "amazon", "best buy", "walmart", "target", "costco", "sam's club",
+        "sams club", "fleet feet", "rei", "u.s.", "us", "north america",
+        "american", "retail", "store", "marketplace",
+    ]
+    cn_terms = [
+        "china", "chinese", "jd.com", "tmall", "taobao", "wechat", "alibaba",
+        "shenzhen",
+    ]
+
     score = 0
-
-    score += source_priority.get(source, 0) * 10
-
-    bucket_keywords = keyword_conf.get(bucket, {})
-    high_keywords = bucket_keywords.get("high", [])
-    medium_keywords = bucket_keywords.get("medium", [])
-
-    for kw in high_keywords:
-        if kw.lower() in text:
-            score += 30
-
-    for kw in medium_keywords:
-        if kw.lower() in text:
-            score += 10
-
-    if len(title) > 120:
-        score -= 5
-
+    score += sum(1 for x in us_terms if x in t) * 8
+    score += sum(1 for x in cn_terms if x in t) * 2
     return score
 
 
-def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
-    result = {}
-    for s in source_list:
-        result[s["name"]] = s.get("priority", 0)
-    return result
+def freshness_score(hours: Optional[float], conf: Dict[str, Any]) -> int:
+    if hours is None:
+        return -3
 
+    decay_after = conf["decay_after_hours"]
+    normal_window = conf["normal_window_hours"]
+    soft_limit = conf["soft_limit_hours"]
+    hard_limit = conf["hard_limit_hours"]
 
-def generate_takeaways(
-    consumer_news: List[Dict[str, Any]],
-    channel_news: List[Dict[str, Any]],
-    products: List[Dict[str, Any]],
-) -> List[str]:
-    if not consumer_news and not channel_news and not products:
-        return [
-            "今日抓取内容较少，建议重点复核数据源状态",
-            "当前更适合关注节日节点与后续补充更新",
-        ]
-
-    consumer_titles = [x.get("display_title") or x.get("title", "") for x in consumer_news[:6]]
-    channel_titles = [x.get("display_title") or x.get("title", "") for x in channel_news[:6]]
-    product_titles = [x.get("display_title") or x.get("name", "") for x in products[:6]]
-
-    prompt = f"""你是消费电子行业分析师，请基于以下信息生成【今日重点】。
-
-要求：
-1. 输出3-5条
-2. 每条一句话
-3. 必须有“判断”，不是简单复述标题
-4. 用中文
-5. 每条控制在30字以内
-6. 风格像内部业务简报
-7. 优先关注耳机/音频、渠道变化、新品趋势
-
-今日热点：
-{consumer_titles}
-
-渠道新闻：
-{channel_titles}
-
-新品：
-{product_titles}
-"""
-
-    fallback = [
-        "音频与消费电子新品仍是今日关注重点",
-        "渠道侧更值得关注平台与零售动态变化",
-        "建议优先跟进可转化为销售动作的信息",
-    ]
-
-    if client is None:
-        return fallback
-
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "system", "content": "你是资深消费电子行业分析师"},
-                {"role": "user", "content": prompt},
-            ],
-            temperature=0.4,
-        )
-
-        text = (response.choices[0].message.content or "").strip()
-        lines = [
-            x.strip().lstrip("-•").lstrip("1234567890.、").strip()
-            for x in text.splitlines()
-            if x.strip()
-        ]
-        lines = [x for x in lines if x]
-        return lines[:5] if lines else fallback
-
-    except Exception as e:
-        logger.warning(f"Takeaways generation failed: {e}")
-        return fallback
+    if hours <= decay_after:
+        return 35
+    if hours <= normal_window:
+        return 20
+    if hours <= soft_limit:
+        return 5
+    if hours <= hard_limit:
+        return -15
+    return -60
 
 
 def detect_tags(text: str, bucket: str = "") -> List[str]:
-    t = (text or "").lower()
+    t = normalize_text(text)
     tags: List[str] = []
 
     tag_rules = [
-        (
-            "🎧 耳机音频",
-            [
-                "headphones", "earbuds", "earbud", "headset", "speaker",
-                "audio", "anc", "noise cancelling", "open-ear", "open ear",
-                "bone conduction", "bose", "beats", "soundcore", "jbl",
-                "sennheiser", "shokz", "sony wf", "sony wh", "airpods",
-            ],
-        ),
-        (
-            "🏃 穿戴运动",
-            [
-                "garmin", "smartwatch", "wearable", "fitness tracker",
-                "running watch", "health", "sports watch", "watch",
-            ],
-        ),
-        (
-            "🚁 无人机影像",
-            [
-                "drone", "dji", "gopro", "insta360", "osmo",
-                "action camera", "camera",
-            ],
-        ),
-        (
-            "🛒 渠道零售",
-            [
-                "retail", "retailer", "store", "distribution", "channel",
-                "merchant", "sell-through", "sell in",
-            ],
-        ),
-        (
-            "🏬 平台电商",
-            [
-                "amazon", "walmart", "best buy", "target", "costco",
-                "tiktok shop", "e-commerce", "ecommerce", "marketplace",
-                "platform",
-            ],
-        ),
-        (
-            "🚀 新品发布",
-            [
-                "launch", "launches", "launched", "release", "released",
-                "announces", "announced", "unveil", "unveiled", "debut",
-                "debuts", "new model", "available",
-            ],
-        ),
-        (
-            "👔 高管组织",
-            [
-                "ceo", "cmo", "executive", "president", "leadership",
-                "appoints", "appointed", "organization", "restructure",
-            ],
-        ),
-        (
-            "💰 价格促销",
-            [
-                "price", "pricing", "discount", "sale", "promotion",
-                "deal", "markdown", "coupon",
-            ],
-        ),
+        ("🎧 耳机音频", ["headphones", "headphone", "earbuds", "earbud", "audio", "open-ear", "bone conduction"]),
+        ("🏃 运动穿戴", ["wearable", "smartwatch", "fitness", "running", "garmin"]),
+        ("🚁 无人机影像", ["drone", "uav", "dji", "action camera", "camera"]),
+        ("🛒 渠道零售", ["retail", "store", "distribution", "channel", "fleet feet", "rei"]),
+        ("🏬 平台电商", ["amazon", "walmart", "best buy", "target", "costco", "sam's club", "marketplace"]),
+        ("🚀 新品发布", ["launch", "release", "announce", "unveil", "debut", "available"]),
+        ("💰 价格促销", ["price", "pricing", "discount", "promotion", "deal"]),
     ]
 
     for tag, keywords in tag_rules:
@@ -285,15 +222,227 @@ def detect_tags(text: str, bucket: str = "") -> List[str]:
     return tags[:3]
 
 
-def build_tag_text(item: Dict[str, Any], bucket: str = "") -> List[str]:
-    text = " ".join(
-        [
-            item.get("title", "") or item.get("name", ""),
-            item.get("summary", ""),
-            item.get("source", ""),
-        ]
+def decide_impact_area(item: Dict[str, Any]) -> str:
+    channels = item.get("monitor_hits", {}).get("channels", [])
+    categories = item.get("monitor_hits", {}).get("categories", [])
+    brands = item.get("monitor_hits", {}).get("brands", [])
+    text = normalize_text(
+        " ".join(
+            [
+                item.get("title", "") or item.get("name", ""),
+                item.get("summary", ""),
+            ]
+        )
     )
-    return detect_tags(text, bucket)
+
+    if channels or any(x in text for x in ["marketplace", "ecommerce", "e-commerce", "promotion", "deal", "traffic"]):
+        return "电商"
+    if any(x in text for x in ["retail", "store", "distribution", "channel", "partnership"]) or "Fleet Feet" in channels or "REI" in channels:
+        return "渠道销售"
+    if brands or categories:
+        return "品牌营销"
+    return "品牌营销"
+
+
+def fallback_business_note(item: Dict[str, Any]) -> str:
+    brands = item.get("monitor_hits", {}).get("brands", [])
+    channels = item.get("monitor_hits", {}).get("channels", [])
+    categories = item.get("monitor_hits", {}).get("categories", [])
+    area = item.get("impact_area", "品牌营销")
+
+    if channels:
+        return f"北美渠道侧出现与{' / '.join(channels[:2])}相关的可跟进信号，优先评估对{area}的影响。"
+    if brands:
+        return f"{' / '.join(brands[:2])}相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。"
+    if categories:
+        return f"{' / '.join(categories[:2])}相关趋势仍有热度，建议结合北美用户场景判断机会。"
+    return f"该条内容与{area}相关，建议作为北美业务观察样本继续跟踪。"
+
+
+def fallback_suggested_action(item: Dict[str, Any]) -> str:
+    area = item.get("impact_area", "品牌营销")
+    if area == "电商":
+        return "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    if area == "渠道销售":
+        return "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
+    return "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+
+
+def fallback_importance(score: int) -> str:
+    if score >= 120:
+        return "高"
+    if score >= 70:
+        return "中"
+    return "低"
+
+
+def enrich_item_with_ai(item: Dict[str, Any]) -> Dict[str, Any]:
+    title = item.get("title") or item.get("name", "")
+    summary = item.get("summary", "")
+    impact_area = item.get("impact_area", "品牌营销")
+    monitor_hits = item.get("monitor_hits", {})
+    brands = ", ".join(monitor_hits.get("brands", [])[:3]) or "无"
+    channels = ", ".join(monitor_hits.get("channels", [])[:3]) or "无"
+    categories = ", ".join(monitor_hits.get("categories", [])[:3]) or "无"
+
+    prompt = f"""请基于以下北美消费电子行业信息输出 JSON：
+{{
+  "importance": "高/中/低",
+  "business_note": "一句中文业务意义，40字以内",
+  "suggested_action": "一句中文建议动作，40字以内"
+}}
+
+要求：
+1. 受众是北美业务团队
+2. 优先考虑 电商 / 品牌营销 / 渠道销售
+3. 不要写空话，不要泛泛而谈
+4. importance 只能是 高、中、低
+
+标题：{title}
+摘要：{summary}
+已判断影响团队：{impact_area}
+品牌命中：{brands}
+平台/渠道命中：{channels}
+品类命中：{categories}
+"""
+
+    result = ai_json(prompt)
+    if not result:
+        item["importance"] = fallback_importance(item.get("_score", 0))
+        item["business_note"] = fallback_business_note(item)
+        item["suggested_action"] = fallback_suggested_action(item)
+        return item
+
+    item["importance"] = result.get("importance") or fallback_importance(item.get("_score", 0))
+    item["business_note"] = (result.get("business_note") or fallback_business_note(item))[:60]
+    item["suggested_action"] = (result.get("suggested_action") or fallback_suggested_action(item))[:60]
+    return item
+
+
+def score_item(
+    item: Dict[str, Any],
+    bucket: str,
+    source_priority: Dict[str, int],
+    keyword_conf: Dict[str, Any],
+    freshness_conf: Dict[str, Any],
+    monitoring: Dict[str, Any],
+) -> int:
+    title = (item.get("title") or item.get("name") or "").lower()
+    summary = (item.get("summary") or "").lower()
+    source = item.get("source", "")
+    text = f"{title} {summary}"
+
+    score = 0
+    score += source_priority.get(source, 0) * 10
+
+    bucket_keywords = keyword_conf.get(bucket, {})
+    high_keywords = bucket_keywords.get("high", [])
+    medium_keywords = bucket_keywords.get("medium", [])
+
+    score += sum(30 for kw in high_keywords if kw.lower() in text)
+    score += sum(10 for kw in medium_keywords if kw.lower() in text)
+
+    hits = detect_monitor_hits(text, monitoring)
+    score += len(hits["brands"]) * 22
+    score += len(hits["channels"]) * 24
+    score += len(hits["categories"]) * 18
+
+    if bucket == "channel_news" and hits["channels"]:
+        score += 15
+    if bucket == "consumer_electronics" and hits["brands"]:
+        score += 12
+
+    hours = hours_since(now_utc() if False else None)
+    published_iso = item.get("published_iso", "")
+    parsed_hours = None
+    if published_iso:
+        try:
+            from common import parse_datetime
+            parsed_hours = hours_since(parse_datetime(published_iso))
+        except Exception:
+            parsed_hours = None
+
+    score += freshness_score(parsed_hours, freshness_conf)
+    score += market_bias_score(text)
+
+    if len(title) > 140:
+        score -= 5
+
+    item["hours_since_published"] = round(parsed_hours, 1) if parsed_hours is not None else None
+    item["freshness_label"] = freshness_label(parsed_hours)
+    item["monitor_hits"] = hits
+
+    return score
+
+
+def generate_takeaways(
+    lead_story: Optional[Dict[str, Any]],
+    consumer_news: List[Dict[str, Any]],
+    channel_news: List[Dict[str, Any]],
+    products: List[Dict[str, Any]],
+) -> List[str]:
+    if not consumer_news and not channel_news and not products:
+        return [
+            "今日有效抓取较少，建议先检查 RSS 源与发布时间分布。",
+            "当前更适合关注节日节点及后续补充更新。",
+        ]
+
+    lead = lead_story.get("display_title", "") if lead_story else ""
+    consumer_titles = [x.get("display_title") or x.get("title", "") for x in consumer_news[:5]]
+    channel_titles = [x.get("display_title") or x.get("title", "") for x in channel_news[:5]]
+    product_titles = [x.get("display_title") or x.get("name", "") for x in products[:4]]
+
+    prompt = f"""你是北美消费电子业务分析师，请生成【今日重点】。
+要求：
+1. 输出 3-5 条
+2. 每条一句中文
+3. 必须带判断，不要复述新闻
+4. 偏北美市场，优先平台、电商、渠道与竞品
+5. 每条控制在 34 字以内
+
+头条：
+{lead}
+
+消费电子：
+{consumer_titles}
+
+渠道平台：
+{channel_titles}
+
+新品：
+{product_titles}
+"""
+
+    fallback = [
+        "北美平台与零售动态仍是今天最值得跟进的外部信号。",
+        "耳机与运动音频相关品类依然是竞品观察重点。",
+        "新品与渠道信息更适合结合价格、铺货和传播动作一起看。",
+    ]
+
+    if client is None:
+        return fallback
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "你是资深北美消费电子行业分析师"},
+                {"role": "user", "content": prompt},
+            ],
+            temperature=0.4,
+        )
+
+        text = (response.choices[0].message.content or "").strip()
+        lines = [
+            x.strip().lstrip("-•").lstrip("1234567890.、").strip()
+            for x in text.splitlines()
+            if x.strip()
+        ]
+        lines = [x for x in lines if x]
+        return lines[:5] if lines else fallback
+    except Exception as e:
+        logger.warning(f"Takeaways generation failed: {e}")
+        return fallback
 
 
 def build_placeholder_item(title: str, bucket: str) -> Dict[str, Any]:
@@ -305,6 +454,12 @@ def build_placeholder_item(title: str, bucket: str) -> Dict[str, Any]:
         "source": "system",
         "bucket": bucket,
         "tags": ["📭 暂无更新"],
+        "monitor_hits": {"brands": [], "channels": [], "categories": []},
+        "impact_area": "品牌营销",
+        "importance": "低",
+        "business_note": "当前没有足够有效内容，建议关注后续更新。",
+        "suggested_action": "先复核数据源状态，再等待下一轮抓取。",
+        "freshness_label": "时间未知",
         "_score": -1,
     }
 
@@ -318,8 +473,41 @@ def build_placeholder_product(title: str) -> Dict[str, Any]:
         "url": "#",
         "source": "system",
         "tags": ["📭 暂无更新"],
+        "monitor_hits": {"brands": [], "channels": [], "categories": []},
+        "impact_area": "品牌营销",
+        "importance": "低",
+        "business_note": "当前没有足够新品信息，适合继续观察竞品发布窗口。",
+        "suggested_action": "维持监控，等待下一轮抓取。",
+        "freshness_label": "时间未知",
         "_score": -1,
     }
+
+
+def build_entity_watchlist(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    pool: Dict[str, Dict[str, Any]] = {}
+
+    for item in items:
+        hits = item.get("monitor_hits", {})
+        for brand in hits.get("brands", []):
+            pool.setdefault(brand, {"name": brand, "type": "品牌", "count": 0, "items": []})
+            pool[brand]["count"] += 1
+            pool[brand]["items"].append(item)
+        for channel in hits.get("channels", []):
+            pool.setdefault(channel, {"name": channel, "type": "渠道", "count": 0, "items": []})
+            pool[channel]["count"] += 1
+            pool[channel]["items"].append(item)
+        for category in hits.get("categories", []):
+            pool.setdefault(category, {"name": category, "type": "品类", "count": 0, "items": []})
+            pool[category]["count"] += 1
+            pool[category]["items"].append(item)
+
+    result = []
+    for _, obj in pool.items():
+        obj["items"] = sorted(obj["items"], key=lambda x: x.get("_score", 0), reverse=True)[:2]
+        result.append(obj)
+
+    result.sort(key=lambda x: (x["count"], x["type"] == "渠道"), reverse=True)
+    return result[:8]
 
 
 def main() -> None:
@@ -329,33 +517,30 @@ def main() -> None:
         "data/processed/festivals.json",
         {"festival_cards": [], "festival_pages": []},
     )
-    config = load_yaml("config/news_sources.yaml")
+    news_config = load_yaml("config/news_sources.yaml")
+    monitoring_conf = load_yaml("config/monitoring.yaml")
+    freshness_conf = monitoring_conf.get("freshness", {})
+    monitoring = monitoring_conf.get("monitoring", {})
 
-    consumer = filter_valid_items(
-        dedupe(news.get("consumer_electronics", [])),
-        "title",
-    )
-    channel = filter_valid_items(
-        dedupe(news.get("channel_news", [])),
-        "title",
-    )
-    product_items = filter_valid_items(
-        dedupe(products.get("products", [])),
-        "name",
-    )
+    consumer = filter_valid_items(dedupe(news.get("consumer_electronics", [])), "title")
+    channel = filter_valid_items(dedupe(news.get("channel_news", [])), "title")
+    product_items = filter_valid_items(dedupe(products.get("products", [])), "name")
 
     logger.info(
-        f"Loaded raw content | consumer={len(consumer)}, "
-        f"channel={len(channel)}, products={len(product_items)}"
+        f"Loaded raw content | consumer={len(consumer)}, channel={len(channel)}, products={len(product_items)}"
     )
 
     consumer_source_priority = build_source_priority(
-        config["sources"].get("consumer_electronics", [])
+        news_config["sources"].get("consumer_electronics", [])
     )
     channel_source_priority = build_source_priority(
-        config["sources"].get("channel_news", [])
+        news_config["sources"].get("channel_news", [])
     )
-    keyword_conf = config.get("keywords", {})
+    keyword_conf = news_config.get("keywords", {})
+    product_keyword_conf = load_yaml("config/product_sources.yaml").get("keywords", {})
+    product_source_priority = build_source_priority(
+        load_yaml("config/product_sources.yaml")["sources"].get("products", [])
+    )
 
     for x in consumer:
         x["_score"] = score_item(
@@ -363,11 +548,15 @@ def main() -> None:
             "consumer_electronics",
             consumer_source_priority,
             keyword_conf,
+            freshness_conf,
+            monitoring,
         )
-        x["display_title"] = simplify_title(x.get("title", ""))
-        x["tags"] = build_tag_text(x, "consumer_electronics")
-
-    consumer = sorted(consumer, key=lambda x: x["_score"], reverse=True)[:9]
+        x["display_title"] = simplify_title(x.get("title", "")) or x.get("title", "")
+        x["tags"] = detect_tags(
+            " ".join([x.get("title", ""), x.get("summary", ""), x.get("source", "")]),
+            "consumer_electronics",
+        )
+        x["impact_area"] = decide_impact_area(x)
 
     for x in channel:
         x["_score"] = score_item(
@@ -375,44 +564,89 @@ def main() -> None:
             "channel_news",
             channel_source_priority,
             keyword_conf,
+            freshness_conf,
+            monitoring,
         )
-        x["display_title"] = simplify_title(x.get("title", ""))
-        x["tags"] = build_tag_text(x, "channel_news")
+        x["display_title"] = simplify_title(x.get("title", "")) or x.get("title", "")
+        x["tags"] = detect_tags(
+            " ".join([x.get("title", ""), x.get("summary", ""), x.get("source", "")]),
+            "channel_news",
+        )
+        x["impact_area"] = decide_impact_area(x)
 
-    channel = sorted(channel, key=lambda x: x["_score"], reverse=True)[:9]
-
-    product_items = product_items[:6]
     for x in product_items:
+        x["_score"] = score_item(
+            x,
+            "consumer_electronics",
+            product_source_priority,
+            {"consumer_electronics": product_keyword_conf},
+            freshness_conf,
+            monitoring,
+        )
         name = x.get("name", "")
         summary = x.get("summary", "")
         x["display_title"] = simplify_title(name) or name
         x["display_summary"] = simplify_summary(summary) or summary
-        x["tags"] = build_tag_text(x, "products")
+        x["tags"] = detect_tags(
+            " ".join([name, summary, x.get("source", "")]),
+            "products",
+        )
+        x["impact_area"] = decide_impact_area(x)
+
+    consumer = sorted(consumer, key=lambda x: x["_score"], reverse=True)[:10]
+    channel = sorted(channel, key=lambda x: x["_score"], reverse=True)[:10]
+    product_items = sorted(product_items, key=lambda x: x["_score"], reverse=True)[:6]
 
     if not consumer:
         consumer = [build_placeholder_item("今日消费电子新闻暂无有效更新", "consumer_electronics")]
-
     if not channel:
         channel = [build_placeholder_item("今日渠道新闻暂无有效更新", "channel_news")]
-
     if not product_items:
         product_items = [build_placeholder_product("今日新品暂无有效更新")]
 
+    lead_candidates = sorted(consumer + channel + product_items, key=lambda x: x.get("_score", 0), reverse=True)
+    lead_story = lead_candidates[0] if lead_candidates else None
+
+    display_items = []
+    for section in [consumer[:5], channel[:5], product_items[:4]]:
+        display_items.extend(section)
+
+    for item in display_items:
+        enrich_item_with_ai(item)
+
+    if lead_story and lead_story not in display_items:
+        enrich_item_with_ai(lead_story)
+
+    monitored_entities = build_entity_watchlist(consumer + channel + product_items)
+    channel_watch = [x for x in channel if x.get("impact_area") in ["电商", "渠道销售"]][:5]
+
     payload = {
         "date": str(date.today()),
+        "generated_at": now_utc().strftime("%Y-%m-%d %H:%M UTC"),
+        "market_focus": "美国优先，中国次之",
+        "openai_enabled": bool(client),
         "festival_cards": festivals.get("festival_cards", []),
         "festival_pages": festivals.get("festival_pages", []),
-        "consumer_electronics": consumer,
-        "channel_news": channel,
+        "lead_story": lead_story,
+        "consumer_electronics": consumer[:6],
+        "channel_news": channel[:6],
+        "channel_watch": channel_watch,
         "products": product_items,
-        "takeaways": generate_takeaways(consumer, channel, product_items),
+        "monitored_entities": monitored_entities,
+        "takeaways": generate_takeaways(lead_story, consumer, channel, product_items),
+        "status": {
+            "consumer_count": len(consumer),
+            "channel_count": len(channel),
+            "product_count": len(product_items),
+            "source_summary": "消费电子 / 渠道 / 新品 三类源已完成抓取与筛选",
+            "freshness_rule": "24h后开始降权",
+        },
     }
 
     dump_json("data/processed/daily_payload.json", payload)
     logger.info(
-        f"Saved data/processed/daily_payload.json | "
-        f"consumer={len(consumer)}, channel={len(channel)}, products={len(product_items)}, "
-        f"takeaways={len(payload['takeaways'])}"
+        f"Saved data/processed/daily_payload.json | consumer={len(consumer)}, "
+        f"channel={len(channel)}, products={len(product_items)}, entities={len(monitored_entities)}"
     )
 
 

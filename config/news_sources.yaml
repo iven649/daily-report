@@ -44,68 +44,74 @@ sources:
 keywords:
   consumer_electronics:
     high:
-      - garmin
+      - shokz
       - bose
       - beats
-      - soundcore
       - sony
-      - airpods
+      - jbl
+      - sennheiser
+      - garmin
+      - dji
+      - jlab
       - earbuds
+      - headphone
       - headphones
-      - wearables
+      - open-ear
+      - open ear
+      - bone conduction
+      - sports headphones
+      - wearable
       - smartwatch
-      - fitness tracker
+      - action camera
+      - uav
+      - drone
       - audio
-      - speaker
-      - chip
-      - qualcomm
-      - apple
-      - samsung
-      - google
-      - android
-      - pixel
 
     medium:
-      - ai
       - launch
+      - launched
       - release
+      - released
+      - announce
+      - announced
       - update
-      - new
-      - smart
-      - bluetooth
-      - wireless
-      - battery
       - premium
+      - wireless
+      - bluetooth
+      - battery
+      - review
 
   channel_news:
     high:
       - amazon
-      - walmart
       - best buy
+      - walmart
       - target
       - costco
-      - tiktok shop
+      - sam's club
+      - sams club
+      - fleet feet
+      - rei
       - retail
-      - ecommerce
-      - e-commerce
       - store
-      - expansion
-      - ceo
-      - cmo
       - channel
       - distribution
       - partnership
       - sales
-      - earnings
+      - marketplace
+      - pricing
+      - ecommerce
+      - e-commerce
+      - merchant
 
     medium:
       - growth
       - platform
-      - brand
-      - shop
-      - merchant
-      - fulfillment
-      - pricing
-      - consumer
-      - market
       - strategy
+      - fulfillment
+      - inventory
+      - promotion
+      - traffic
+      - membership
+      - expansion
+      - assortment

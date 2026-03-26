@@ -1,13 +1,13 @@
 from __future__ import annotations
 
 from datetime import date, timedelta
+
 from dateutil.easter import easter
 
-from common import load_yaml, dump_json
+from common import dump_json, load_yaml, logger
 
 
 def nth_weekday_of_month(year: int, month: int, weekday: int, nth: int) -> date:
-    # weekday: Monday=0 ... Sunday=6
     if nth > 0:
         d = date(year, month, 1)
         while d.weekday() != weekday:
@@ -15,7 +15,6 @@ def nth_weekday_of_month(year: int, month: int, weekday: int, nth: int) -> date:
         d += timedelta(days=(nth - 1) * 7)
         return d
 
-    # nth = -1 表示最后一个
     if month == 12:
         d = date(year + 1, 1, 1) - timedelta(days=1)
     else:
@@ -29,25 +28,21 @@ def nth_weekday_of_month(year: int, month: int, weekday: int, nth: int) -> date:
 def resolve_base_dates_for_year(conf: dict, year: int) -> dict:
     result = {}
 
-    # first pass: non-relative
     for item in conf["festivals"]:
         rule = item["rule"]
 
         if rule == "fixed":
             result[item["slug"]] = date(year, item["month"], item["day"])
-
         elif rule == "easter":
             result[item["slug"]] = easter(year)
-
         elif rule == "nth_weekday":
             result[item["slug"]] = nth_weekday_of_month(
                 year,
                 item["month"],
                 item["weekday"],
-                item["nth"]
+                item["nth"],
             )
 
-    # second pass: relative_to
     for item in conf["festivals"]:
         if item["rule"] == "relative_to":
             ref = result[item["ref_slug"]]
@@ -59,28 +54,25 @@ def resolve_base_dates_for_year(conf: dict, year: int) -> dict:
 def default_content(item: dict) -> dict:
     name = item["name"]
     market = item["market"]
-    ftype = item["type"]
 
-    if market == "CN":
-        origin = f"{name}是中国重要的节日或营销节点。"
-        story = "建议关注礼赠、假期消费、出行与节前备货节奏。"
-        customs = ["节前备货", "礼赠需求", "促销活动"]
+    if market == "US":
+        origin = f"{name}是美国市场的重要节日或零售节点。"
+        story = "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。"
+        customs = ["家庭消费", "礼品采购", "平台促销", "线下零售活动"]
+        consumption = ["礼赠类消费", "平台大促", "家庭出行与户外", "零售门店活动"]
+        holiday = "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    elif market == "CN":
+        origin = f"{name}是中国的重要节日或营销节点。"
+        story = "可作为出海品牌供应链、内容营销和市场情绪的参考。"
+        customs = ["节前备货", "礼赠需求", "节庆促销"]
         consumption = ["礼品零售", "出行相关", "节庆营销"]
-        holiday = "具体放假安排以当年官方通知为准。"
-
-    elif market == "US":
-        origin = f"{name}是美国重要的节日或营销节点。"
-        story = "建议关注零售节奏、家庭消费、礼赠及平台活动变化。"
-        customs = ["家庭消费", "礼品采购", "节庆促销"]
-        consumption = ["节庆礼赠", "平台流量", "零售活动"]
-        holiday = "具体活动强度以当年零售商和平台节奏为准。"
-
-    else:  # ECOM
-        origin = f"{name}是重要的营销与促销节点。"
-        story = "建议关注平台折扣、价格带变化、流量竞争与备货节奏。"
+        holiday = "当前页面以北美业务为主，中国节点仅作辅助参考。"
+    else:
+        origin = f"{name}是重要的电商营销节点。"
+        story = "建议关注价格带变化、平台规则、广告竞争与库存节奏。"
         customs = ["平台大促", "价格竞争", "流量冲刺"]
         consumption = ["折扣活动", "广告投放", "库存与履约"]
-        holiday = "属于营销节点，具体节奏以平台和品牌策略为准。"
+        holiday = "属于营销节点，具体强度以平台和品牌策略为准。"
 
     return {
         "origin": origin,
@@ -92,19 +84,22 @@ def default_content(item: dict) -> dict:
 
 
 def choose_homepage_cards(items: list[dict]) -> list[dict]:
-    # 首页建议最多展示 4 个，避免过满：
-    # 1 个中国 + 1 个美国 + 2 个电商节点（如果有）
     upcoming = [x for x in items if 0 <= x["countdown"] <= 120]
     upcoming.sort(key=lambda x: (x["countdown"], -x.get("priority", 0)))
 
-    cn = [x for x in upcoming if x["market"] == "CN"][:1]
-    us = [x for x in upcoming if x["market"] == "US"][:1]
+    us = [x for x in upcoming if x["market"] == "US"][:2]
     ecom = [x for x in upcoming if x["market"] == "ECOM"][:2]
+    cn = [x for x in upcoming if x["market"] == "CN"][:1]
 
-    picked = cn + us + ecom
+    picked = us + ecom
 
-    # 如果不足 4 个，用剩余最近节点补齐
     used = {x["slug"] for x in picked}
+    if len(picked) < 4:
+        for item in cn:
+            if item["slug"] not in used:
+                picked.append(item)
+                used.add(item["slug"])
+
     for item in upcoming:
         if item["slug"] not in used:
             picked.append(item)
@@ -112,14 +107,13 @@ def choose_homepage_cards(items: list[dict]) -> list[dict]:
         if len(picked) >= 4:
             break
 
-    return picked
+    return picked[:4]
 
 
-def main():
+def main() -> None:
     today = date.today()
     conf = load_yaml("config/festivals.yaml")
 
-    # 如果你有更详细的内容库，会自动叠加；没有也不影响
     try:
         content_map = load_yaml("config/festival_content.yaml").get("content", {})
     except Exception:
@@ -127,7 +121,6 @@ def main():
 
     resolved = []
 
-    # 计算当前年和下一年，确保跨年也有节点
     for year in [today.year, today.year + 1]:
         dates_map = resolve_base_dates_for_year(conf, year)
 
@@ -147,8 +140,8 @@ def main():
 
             resolved.append(merged)
 
-    # 同一个 slug 只保留最近的一次
     resolved.sort(key=lambda x: x["countdown"])
+
     deduped = []
     seen = set()
     for item in resolved:
@@ -164,11 +157,11 @@ def main():
         {
             "today": today.isoformat(),
             "festival_cards": homepage,
-            "festival_pages": deduped[:20]
-        }
+            "festival_pages": deduped[:20],
+        },
     )
 
-    print("[OK] data/processed/festivals.json generated")
+    logger.info("Saved data/processed/festivals.json")
 
 
 if __name__ == "__main__":

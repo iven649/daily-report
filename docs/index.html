@@ -11,15 +11,12 @@
       --text: #111111;
       --muted: #6e6e73;
       --muted-2: #8e8e93;
-      --line: rgba(17, 17, 17, 0.08);
       --line-soft: rgba(17, 17, 17, 0.05);
       --shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
       --shadow-hover: 0 14px 36px rgba(0, 0, 0, 0.08);
       --radius-xxl: 28px;
       --radius-xl: 22px;
       --radius-lg: 18px;
-      --radius-md: 14px;
-      --radius-sm: 12px;
       --tag-bg: #f2f2f4;
       --tag-text: #55585f;
     }
@@ -71,32 +68,12 @@
       gap: 18px;
     }
 
-    .eyebrow {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 7px 12px;
-      border-radius: 999px;
-      background: #f7f7f8;
-      border: 1px solid var(--line-soft);
-      color: var(--muted);
-      font-size: 12px;
-      margin-bottom: 14px;
-    }
-
     .hero-title {
       font-size: 34px;
       line-height: 1.08;
       letter-spacing: -0.045em;
       font-weight: 760;
-      margin: 0 0 10px;
-    }
-
-    .hero-subtitle {
-      color: var(--muted);
-      font-size: 14px;
-      line-height: 1.8;
-      margin-bottom: 16px;
+      margin: 0 0 12px;
     }
 
     .lead-summary {
@@ -112,6 +89,7 @@
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
+      margin-bottom: 18px;
     }
 
     .pill {
@@ -137,12 +115,6 @@
       border: 1px solid var(--line-soft);
       border-radius: var(--radius-xl);
       padding: 16px 18px;
-    }
-
-    .mini-value {
-      font-size: 16px;
-      line-height: 1.65;
-      font-weight: 600;
     }
 
     .festival-list {
@@ -176,41 +148,6 @@
       color: var(--muted);
     }
 
-    .tz-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 10px;
-    }
-
-    .tz-item {
-      padding: 12px 14px;
-      border-radius: 16px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
-    }
-
-    .tz-abbr {
-      font-size: 14px;
-      font-weight: 700;
-      margin-bottom: 4px;
-    }
-
-    .tz-name {
-      font-size: 12px;
-      color: var(--muted);
-    }
-
-    .section-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 18px;
-      margin-bottom: 18px;
-    }
-
-    .section-card {
-      padding: 22px;
-    }
-
     .section-head {
       display: flex;
       align-items: baseline;
@@ -225,6 +162,72 @@
       line-height: 1.2;
       font-weight: 700;
       letter-spacing: -0.02em;
+    }
+
+    .timezone-block {
+      margin-top: 8px;
+    }
+
+    .bj-time {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border-radius: 16px;
+      background: #fafafa;
+      border: 1px solid var(--line-soft);
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 14px;
+    }
+
+    .tz-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+
+    .tz-link {
+      display: block;
+      padding: 12px 14px;
+      border-radius: 16px;
+      border: 1px solid var(--line-soft);
+      background: #fafafa;
+      transition: background 0.16s ease, transform 0.16s ease;
+    }
+
+    .tz-link:hover {
+      background: #f3f3f4;
+      transform: translateY(-1px);
+    }
+
+    .tz-abbr {
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .tz-name {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .tz-time {
+      font-size: 13px;
+      color: #2d3138;
+      font-weight: 600;
+    }
+
+    .section-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .section-card {
+      padding: 22px;
     }
 
     .headline-list {
@@ -430,21 +433,21 @@
       color: #5a5f67;
     }
 
-    .feedback-list {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      margin-top: 6px;
-    }
-
-    .feedback-card {
-      padding: 16px;
-      border-radius: 18px;
+    .feedback-link {
+      display: block;
+      padding: 18px 20px;
+      border-radius: 20px;
       border: 1px solid var(--line-soft);
       background: #fafafa;
-      font-size: 14px;
+      font-size: 15px;
       line-height: 1.8;
       color: #2f3238;
+      transition: background 0.16s ease, transform 0.16s ease;
+    }
+
+    .feedback-link:hover {
+      background: #f3f3f4;
+      transform: translateY(-1px);
     }
 
     @media (max-width: 1120px) {
@@ -455,8 +458,7 @@
       .watch-grid {
         grid-template-columns: repeat(2, 1fr);
       }
-      .product-grid,
-      .feedback-list {
+      .product-grid {
         grid-template-columns: 1fr 1fr;
       }
       .tz-grid {
@@ -476,8 +478,7 @@
       }
       .product-grid,
       .watch-grid,
-      .tz-grid,
-      .feedback-list {
+      .tz-grid {
         grid-template-columns: 1fr;
       }
     }
@@ -491,12 +492,10 @@
       <div class="hero-grid">
 
         <div>
-          <div class="eyebrow">North America Watchboard · 美国优先，中国次之</div>
           <h1 class="hero-title">北美业务情报日报</h1>
-          <div class="hero-subtitle">2026-03-26 08:50 UTC · 24h后开始降权 · AI 已启用</div>
 
           <div class="lead-summary">
-            亚马逊一小时送货服务将加剧零售竞争，沃尔玛等需加快电商转型以应对压力。
+            亚马逊一小时送货服务将加剧零售竞争，沃尔玛等需迅速应对以保持市场地位。
           </div>
 
           <div class="top-meta">
@@ -506,42 +505,52 @@
             <div class="pill">🚀 新品 1</div>
           </div>
 
-          <div style="margin-top:18px;">
+          <div class="timezone-block">
             <div class="section-head" style="margin-bottom:10px;">
-              <h2 class="section-title" style="font-size:16px;">美国 6 时区</h2>
+              <h2 class="section-title" style="font-size:16px;">北京时间 / 美国 6 时区</h2>
             </div>
+
+            <div class="bj-time">
+              <span>🇨🇳 北京时间</span>
+              <span id="beijing-time">--</span>
+            </div>
+
             <div class="tz-grid">
-              
-              <div class="tz-item">
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/new-york">
                 <div class="tz-abbr">ET</div>
                 <div class="tz-name">Eastern</div>
-              </div>
-              
-              <div class="tz-item">
+                <div class="tz-time" id="tz-et">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/chicago">
                 <div class="tz-abbr">CT</div>
                 <div class="tz-name">Central</div>
-              </div>
-              
-              <div class="tz-item">
+                <div class="tz-time" id="tz-ct">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/denver">
                 <div class="tz-abbr">MT</div>
                 <div class="tz-name">Mountain</div>
-              </div>
-              
-              <div class="tz-item">
+                <div class="tz-time" id="tz-mt">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/los-angeles">
                 <div class="tz-abbr">PT</div>
                 <div class="tz-name">Pacific</div>
-              </div>
-              
-              <div class="tz-item">
+                <div class="tz-time" id="tz-pt">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/anchorage">
                 <div class="tz-abbr">AKT</div>
                 <div class="tz-name">Alaska</div>
-              </div>
-              
-              <div class="tz-item">
+                <div class="tz-time" id="tz-akt">--</div>
+              </a>
+
+              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/honolulu">
                 <div class="tz-abbr">HST</div>
                 <div class="tz-name">Hawaii</div>
-              </div>
-              
+                <div class="tz-time" id="tz-hst">--</div>
+              </a>
             </div>
           </div>
         </div>
@@ -572,14 +581,6 @@
               
             </div>
           </div>
-
-          <div class="mini-card">
-            <div class="mini-value">
-              
-                亚马逊一小时送货施压沃尔玛等零售商
-              
-            </div>
-          </div>
         </div>
 
       </div>
@@ -595,9 +596,9 @@
           <div class="headline-item">
             <div class="headline-rank">Top 1</div>
             <a class="headline-title" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">
-              亚马逊一小时送货施压沃尔玛等零售商
+              亚马逊推一小时送货，施压沃尔玛等零售商
             </a>
-            <div class="headline-note">亚马逊一小时送达服务对零售商构成压力，需加速电商转型。</div>
+            <div class="headline-note">亚马逊一小时送达服务对零售商构成压力，需提升电商竞争力。</div>
           </div>
           
           <div class="headline-item">
@@ -611,9 +612,9 @@
           <div class="headline-item">
             <div class="headline-rank">Top 3</div>
             <a class="headline-title" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">
-              H2O Audio Tri Run评测：开放耳机
+              H2O Audio Tri Run评测：开放式耳
             </a>
-            <div class="headline-note">H2O Audio Tri Run耳机性价比高，适合注重性价比的消费者。</div>
+            <div class="headline-note">H2O Audio Tri Run耳机性价比高，但市场竞争激烈，需提升品牌认知。</div>
           </div>
           
         </div>
@@ -625,15 +626,15 @@
         </div>
         <ul class="signal-list">
           
-          <li class="signal-item">亚马逊一小时送货将加剧零售商竞争，沃尔玛需迅速调整策略以应对压力。</li>
+          <li class="signal-item">亚马逊一小时送货将重塑北美电商竞争格局，沃尔玛需加速反应。</li>
           
-          <li class="signal-item">Sonos Ace降价25%可能吸引更多消费者，竞争对手需加快促销以保持市场份额。</li>
+          <li class="signal-item">Sonos Ace降价25%可能吸引更多消费者，竞争对手需关注其市场份额变化。</li>
           
-          <li class="signal-item">骨传导耳机降价20%将刺激市场需求，品牌需关注用户体验以提升销量。</li>
+          <li class="signal-item">骨传导耳机降价20%，显示出市场对新兴音频技术的接受度提升。</li>
           
-          <li class="signal-item">Best Buy与亚马逊的科技优惠竞争激烈，消费者将受益于更具吸引力的价格。</li>
+          <li class="signal-item">Best Buy需加强科技优惠策略，以应对亚马逊不断升级的价格战。</li>
           
-          <li class="signal-item">FedEx与OneRail同日送达服务将提升电商效率，传统零售商需加快物流升级。</li>
+          <li class="signal-item">森海塞尔消费部门出售可能影响品牌定位，竞争对手需抓住市场机会。</li>
           
         </ul>
       </section>
@@ -646,11 +647,11 @@
         </div>
         <ul class="signal-list">
           
-          <li class="signal-item">亚马逊一小时送达服务对零售商构成压力，需加速电商转型以提升市场竞争力。</li>
+          <li class="signal-item">亚马逊一小时送达服务为零售商带来压力，建议提升电商物流效率以增强竞争力。</li>
           
-          <li class="signal-item">利用亚马逊春季大促的热度，Sony耳机降价25%为品牌提供了良好的销售机会，需积极推广以吸引消费者。</li>
+          <li class="signal-item">Sony耳机在亚马逊春季大促中降价，建议抓住市场热度，优化促销策略以提升销量。</li>
           
-          <li class="signal-item">H2O Audio Tri Run耳机性价比高，适合注重性价比的消费者，需加强品牌营销以拓展目标市场。</li>
+          <li class="signal-item">Best Buy与亚马逊的科技优惠竞争激烈，建议密切关注促销动态，以调整市场策略应对。</li>
           
         </ul>
       </section>
@@ -661,11 +662,11 @@
         </div>
         <ul class="signal-list">
           
-          <li class="signal-item">亚马逊一小时送货服务加剧了零售商的竞争压力，需加速电商转型以维持市场份额。</li>
+          <li class="signal-item">亚马逊一小时送货服务将加剧市场竞争，可能导致我们电商销售额下降。</li>
           
-          <li class="signal-item">Best Buy与亚马逊的促销竞争日益激烈，若未能及时调整策略，可能导致销售下滑。</li>
+          <li class="signal-item">亚马逊与沃尔玛因违规销售被罚，可能对行业整体信誉造成负面影响，影响消费者信任。</li>
           
-          <li class="signal-item">亚马逊和沃尔玛因违规销售被罚，可能对品牌信誉造成长期负面影响，需加强合规管理。</li>
+          <li class="signal-item">亚马逊在芝加哥郊区的扩张将直接威胁我们的市场份额，需密切关注其后续策略。</li>
           
         </ul>
       </section>
@@ -679,10 +680,10 @@
         
         <div class="watch-card">
           <div class="watch-name">Amazon</div>
-          <div class="watch-type">渠道 · 13 条命中</div>
+          <div class="watch-type">渠道 · 11 条命中</div>
           <div class="watch-links">
             
-            <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">亚马逊一小时送货施压沃尔玛等零售商</a>
+            <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">亚马逊推一小时送货，施压沃尔玛等零售商</a>
             
             <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
             
@@ -696,7 +697,7 @@
             
             <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
             
-            <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">H2O Audio Tri Run评测：开放耳机</a>
+            <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">H2O Audio Tri Run评测：开放式耳</a>
             
           </div>
         </div>
@@ -706,9 +707,9 @@
           <div class="watch-type">渠道 · 5 条命中</div>
           <div class="watch-links">
             
-            <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">亚马逊一小时送货施压沃尔玛等零售商</a>
+            <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">亚马逊推一小时送货，施压沃尔玛等零售商</a>
             
-            <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaW91dWxqVF83b3h2QUZtRF9HTUlaS29JZ2wxME1ZSjVkVDBlSGtFMmNraVVBMTZkTmNpTFRzSkpEdW16U1V4b21mUUNXZmN6Y083VVh1MzdINVdjUlJVZllFclhfaElPbFJjUF8ydi1VNVhDZzBmLVlBdUMxWGpYLUNaNkI5dWVXSG5xSmVLT2xPcHBJbEIza2FxampENWtLekVwUWxxTUE?oc=5" target="_blank">亚马逊和沃尔玛因售禁用制冷剂在华盛顿被罚</a>
+            <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaW91dWxqVF83b3h2QUZtRF9HTUlaS29JZ2wxME1ZSjVkVDBlSGtFMmNraVVBMTZkTmNpTFRzSkpEdW16U1V4b21mUUNXZmN6Y083VVh1MzdINVdjUlJVZllFclhfaElPbFJjUF8ydi1VNVhDZzBmLVlBdUMxWGpYLUNaNkI5dWVXSG5xSmVLT2xPcHBJbEIza2FxampENWtLekVwUWxxTUE?oc=5" target="_blank">亚马逊与沃尔玛因售禁用制冷剂在华盛顿被罚</a>
             
           </div>
         </div>
@@ -720,7 +721,19 @@
             
             <a href="https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal" target="_blank">Sonos Ace在亚马逊春季大促中降价25%</a>
             
-            <a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMHVXYzFSVjJhb0h3bVpPMWtZOHVBZjdEb0VSeERZN1lVSFBIT3NvR0JYM2J2RHpnbXhRTmxxS3gzOV80bE5qc1U5VEhrVWpNS2owV3dPdWt0LU02RmlkOVVjQ1EzS2h1bWlJbXAtYnVMa1FCQW0xc0hsTzVUTjdxZlE2MDYwdXhfZmJUaWYzS3BIS0ZYOFkyM1M1UGhhV2JSdGtkSEhiZ05hNHRvWEZpVXNpN192ZUUyUExaR3ZSYWhFZUwyZG8xTnB0UzJjVkhIS3FwUWZaRjNTd2FfU3FmOUt4ZWc3cXVnQ1E?oc=5" target="_blank">索尼发布新款BRAVIA家庭影院音响系列</a>
+            <a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMHVXYzFSVjJhb0h3bVpPMWtZOHVBZjdEb0VSeERZN1lVSFBIT3NvR0JYM2J2RHpnbXhRTmxxS3gzOV80bE5qc1U5VEhrVWpNS2owV3dPdWt0LU02RmlkOVVjQ1EzS2h1bWlJbXAtYnVMa1FCQW0xc0hsTzVUTjdxZlE2MDYwdXhfZmJUaWYzS3BIS0ZYOFkyM1M1UGhhV2JSdGtkSEhiZ05hNHRvWEZpVXNpN192ZUUyUExaR3ZSYWhFZUwyZG8xTnB0UzJjVkhIS3FwUWZaRjNTd2FfU3FmOUt4ZWc3cXVnQ1E?oc=5" target="_blank">索尼推出新款BRAVIA家庭影院音响系列</a>
+            
+          </div>
+        </div>
+        
+        <div class="watch-card">
+          <div class="watch-name">Target</div>
+          <div class="watch-type">渠道 · 2 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBPeTV2RFlNNk9IRmFOVFgxbXFHT0pvSDJjZjJtNUMtSHdNdUlhMFYxdktrWjdGTl9ZaTUwRGFqU1JXOHNDRGw4ekdiZElzWFJxX29DUHpqTWZ0RTZMeUFLc21TcTA2NDMwcFQ2WEVyQVJGT0lBcEHSAXtBVV95cUxPd1YydWFqX1F5eDNwY05Qa3U1b2JjUlhNS1pMc2dfTU9rV1loY1FYcFZyQ1gtUThNWDJ1V0lPbTNLZnVvSGhSWHNTM3J1R1hhRzQxVTJ2M3A2Y092cm9Xd0k2ZkxaYUVzZWhwbndiUk45QThmb3RMVTZfNFU?oc=5" target="_blank">亚马逊和Target现有Apple笔记本和耳机促</a>
+            
+            <a href="https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones" target="_blank">Spotify允许艺术家手动审核发布以对抗AI假</a>
             
           </div>
         </div>
@@ -730,7 +743,7 @@
           <div class="watch-type">渠道 · 2 条命中</div>
           <div class="watch-links">
             
-            <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNajBOR1kyVEgzS3BUdXdvbF9WQXdYTTJpT0w3RUZ0aWtIR2lzVUNBSl81dVBNTW9YNnBRa1VNNVFtcVFBZ2xPQkRpemN2TFBHY1JZMmpPazEwUnV4STJkTmRuYkljcTdjcGZFNXl3YklaXzFXUEhITlQ2Zjc1OW1iYWVjSUVkWDZsbnFmSzdvMzVmeHJhQ1FubVRGUQ?oc=5" target="_blank">今日Best Buy与亚马逊竞争的科技优惠值得关</a>
+            <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNajBOR1kyVEgzS3BUdXdvbF9WQXdYTTJpT0w3RUZ0aWtIR2lzVUNBSl81dVBNTW9YNnBRa1VNNVFtcVFBZ2xPQkRpemN2TFBHY1JZMmpPazEwUnV4STJkTmRuYkljcTdjcGZFNXl3YklaXzFXUEhITlQ2Zjc1OW1iYWVjSUVkWDZsbnFmSzdvMzVmeHJhQ1FubVRGUQ?oc=5" target="_blank">Best Buy今日对抗亚马逊的科技优惠值得关注</a>
             
             <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWpPbm5oQ2xNQ0FyLTNWMGljeHlGeEVBUVJEYnprblNMOG1FcUc0dVc2OXBkMkRRYUVjLTlkcnViMU55T0VYU0s3SHFtbEwwNzA3Z2dOa204YzloREVmNW9WM09yTS1qU3NhWDRab2pOZ2lpR1o5VFdiXzhxY1pKX2VFb3k3bE5FNUxwS3p2cFdocmpzRDRBWE5WTFk?oc=5" target="_blank">今日Best Buy与亚马逊的科技优惠值得关注</a>
             
@@ -757,16 +770,6 @@
             <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnBoVWR5NWNpc3VsLWxncE0yRHpUSHkwZldIZnpfdnZ5aHJSVlpfZ0R4dmtLQVNLZ2FGWEFWazJ3Z05TZE1RWUpISnRpbmcyWnlXWFphMHFZZlFQNGR4YmNfV1NwOGxJV2ZBT2dRYTRDVWNqNk1QUGZ0NXNvSHI3YTlBTVkzX29iVGw5YWFxR01ZQ3hLM0JDSFA0aWxsZkVa?oc=5" target="_blank">亚马逊春季大促：骨传导耳机降价20%</a>
             
             <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1BkQS1xV2N4a2dCcDVSc0VtZVlCVjExZTFQWTU5WC1JdFhNNkpydW5uVS1EamY2MklpalR1Y2NYQ0FLal8tYnMzYmE5NVl4ZDBPWGliMXQwMVZ3dV9PTzlCLWFnWExUUWk2ajFnZWtnRTZGUjhlUU9yU0I4dUdoeWJuS0Nvdw?oc=5" target="_blank">Suunto骨传导耳机：专注听音不失联</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">Target</div>
-          <div class="watch-type">渠道 · 1 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBPeTV2RFlNNk9IRmFOVFgxbXFHT0pvSDJjZjJtNUMtSHdNdUlhMFYxdktrWjdGTl9ZaTUwRGFqU1JXOHNDRGw4ekdiZElzWFJxX29DUHpqTWZ0RTZMeUFLc21TcTA2NDMwcFQ2WEVyQVJGT0lBcEHSAXtBVV95cUxPd1YydWFqX1F5eDNwY05Qa3U1b2JjUlhNS1pMc2dfTU9rV1loY1FYcFZyQ1gtUThNWDJ1V0lPbTNLZnVvSGhSWHNTM3J1R1hhRzQxVTJ2M3A2Y092cm9Xd0k2ZkxaYUVzZWhwbndiUk45QThmb3RMVTZfNFU?oc=5" target="_blank">亚马逊和塔吉特促销Apple笔记本和耳机</a>
             
           </div>
         </div>
@@ -805,7 +808,7 @@
         
         <article class="news-item">
           <a class="news-title" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">
-            H2O Audio Tri Run评测：开放耳机
+            H2O Audio Tri Run评测：开放式耳
           </a>
           <div class="news-meta">
             <span>Google News - Audio Wearable Watch</span>
@@ -820,7 +823,7 @@
             <span class="tag">🏃 运动穿戴</span>
             
           </div>
-          <div class="news-note">H2O Audio Tri Run耳机性价比高，适合注重性价比的消费者。</div>
+          <div class="news-note">H2O Audio Tri Run耳机性价比高，但市场竞争激烈，需提升品牌认知。</div>
         </article>
         
         <article class="news-item">
@@ -842,7 +845,7 @@
             <span class="tag">🏬 平台电商</span>
             
           </div>
-          <div class="news-note">亚马逊春季大促销对骨传导耳机销售影响显著，需抓住机会。</div>
+          <div class="news-note">亚马逊春季大促销将对骨传导耳机销售产生积极影响。</div>
         </article>
         
         <article class="news-item">
@@ -865,7 +868,7 @@
         
         <article class="news-item">
           <a class="news-title" href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1CLTBhcEk3WlhvbkFYZVdJZ3RtWU9xbmlNelBMLVVncWNIU2JKSnRGQVVjRFFoaFBfckJjYXVXU0pYcFp3dmUwNmxmRUJNLVM4Y1hveS1EWjl6U1ZqUElka09qOVVHbHBJOUwyRGNYZVZ5UmpHODA5Mm9mbw?oc=5" target="_blank">
-            亚马逊春季促销：20美元以下耳机推荐
+            亚马逊春季特卖：20美元以下耳机推荐
           </a>
           <div class="news-meta">
             <span>Google News - Audio Wearable Watch</span>
@@ -882,7 +885,7 @@
             <span class="tag">🏬 平台电商</span>
             
           </div>
-          <div class="news-note">亚马逊春季促销活动为耳机类产品提供了良好的销售机会。</div>
+          <div class="news-note">亚马逊春季促销为耳机类产品提供了良好的销售机会，需抓住时机提升销量。</div>
         </article>
         
         <article class="news-item">
@@ -892,7 +895,7 @@
           <div class="news-meta">
             <span>Google News - Audio Wearable Watch</span>
             <span>近7天</span>
-            <span>高</span>
+            <span>中</span>
             <span>品牌营销</span>
           </div>
           <div class="tag-row">
@@ -902,7 +905,7 @@
             <span class="tag">🏃 运动穿戴</span>
             
           </div>
-          <div class="news-note">Suunto的骨传导耳机创新性强，适合运动市场，能提升品牌知名度。</div>
+          <div class="news-note">Suunto的骨传导耳机为用户提供了独特的听觉体验，适合运动和户外活动。</div>
         </article>
         
       </section>
@@ -915,7 +918,7 @@
         
         <article class="news-item">
           <a class="news-title" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVQcm9KTXpIQ1N3bk4zNXVhM3hUcmpXZnRYWUVYS1pNU0pwTzFDVjhGeUNfMm8tVXU0TUtqbXRYUzZZZ09Ha0xXYklUY1h2OFB4ZFFUbmtzczBlRWdNalI0dHdhbEtkalRLQWMyelhQTnpXNjJUZC1KM2sxMnVKUlhqaXRtdmF5VEJvWXhJTlBTdVlpX0I3ZjRLSVpBZnhKWkpNNVFn?oc=5" target="_blank">
-            亚马逊一小时送货施压沃尔玛等零售商
+            亚马逊推一小时送货，施压沃尔玛等零售商
           </a>
           <div class="news-meta">
             <span>Google News - Retail Platforms</span>
@@ -930,12 +933,12 @@
             <span class="tag">🏬 平台电商</span>
             
           </div>
-          <div class="news-note">亚马逊一小时送达服务对零售商构成压力，需加速电商转型。</div>
+          <div class="news-note">亚马逊一小时送达服务对零售商构成压力，需提升电商竞争力。</div>
         </article>
         
         <article class="news-item">
           <a class="news-title" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNajBOR1kyVEgzS3BUdXdvbF9WQXdYTTJpT0w3RUZ0aWtIR2lzVUNBSl81dVBNTW9YNnBRa1VNNVFtcVFBZ2xPQkRpemN2TFBHY1JZMmpPazEwUnV4STJkTmRuYkljcTdjcGZFNXl3YklaXzFXUEhITlQ2Zjc1OW1iYWVjSUVkWDZsbnFmSzdvMzVmeHJhQ1FubVRGUQ?oc=5" target="_blank">
-            今日Best Buy与亚马逊竞争的科技优惠值得关
+            Best Buy今日对抗亚马逊的科技优惠值得关注
           </a>
           <div class="news-meta">
             <span>Google News - US Retail Audio</span>
@@ -952,7 +955,7 @@
             <span class="tag">🏬 平台电商</span>
             
           </div>
-          <div class="news-note">Best Buy与亚马逊的竞争促销对电商销售至关重要，需关注市场动态。</div>
+          <div class="news-note">Best Buy与亚马逊的竞争促销活动值得关注，可能影响电商销售。</div>
         </article>
         
         <article class="news-item">
@@ -974,12 +977,12 @@
             <span class="tag">🏬 平台电商</span>
             
           </div>
-          <div class="news-note">Best Buy在与亚马逊竞争中展现出强劲的技术交易，需关注其电商策略。</div>
+          <div class="news-note">Best Buy与亚马逊的竞争促销活动对电商销售至关重要。</div>
         </article>
         
         <article class="news-item">
           <a class="news-title" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaW91dWxqVF83b3h2QUZtRF9HTUlaS29JZ2wxME1ZSjVkVDBlSGtFMmNraVVBMTZkTmNpTFRzSkpEdW16U1V4b21mUUNXZmN6Y083VVh1MzdINVdjUlJVZllFclhfaElPbFJjUF8ydi1VNVhDZzBmLVlBdUMxWGpYLUNaNkI5dWVXSG5xSmVLT2xPcHBJbEIza2FxampENWtLekVwUWxxTUE?oc=5" target="_blank">
-            亚马逊和沃尔玛因售禁用制冷剂在华盛顿被罚
+            亚马逊与沃尔玛因售禁用制冷剂在华盛顿被罚
           </a>
           <div class="news-meta">
             <span>Google News - Retail Platforms</span>
@@ -995,28 +998,6 @@
             
           </div>
           <div class="news-note">亚马逊和沃尔玛因销售禁用制冷剂被罚，影响电商信誉。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9UbHJDcG1ja25jNWVtYmFQWXgxTlpWaXJvV0w5Q3ZNb3lDSHJQX0NnaWJmdFZlcTZJdDQ2SnB2TmFHRW9nRVJTbkZsR21yUmFkR1BxbEZxYnQ2NkZvd1ZMcDlNWTB6cENDN0pHVEtOcGZmM1ZvanJv?oc=5" target="_blank">
-            FedEx与OneRail推出同日送达，亚马逊沃
-          </a>
-          <div class="news-meta">
-            <span>Google News - Retail Platforms</span>
-            <span>近3天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-            <span class="tag">🚀 新品发布</span>
-            
-          </div>
-          <div class="news-note">FedEx推出同日送达服务，提升电商竞争力，需关注物流效率。</div>
         </article>
         
         <article class="news-item">
@@ -1036,7 +1017,29 @@
             <span class="tag">🏬 平台电商</span>
             
           </div>
-          <div class="news-note">亚马逊在芝加哥郊区的扩张将对电商市场产生重大影响，需关注竞争动态。</div>
+          <div class="news-note">亚马逊在芝加哥郊区的扩张将直接影响我们的电商销售。</div>
+        </article>
+        
+        <article class="news-item">
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBPeTV2RFlNNk9IRmFOVFgxbXFHT0pvSDJjZjJtNUMtSHdNdUlhMFYxdktrWjdGTl9ZaTUwRGFqU1JXOHNDRGw4ekdiZElzWFJxX29DUHpqTWZ0RTZMeUFLc21TcTA2NDMwcFQ2WEVyQVJGT0lBcEHSAXtBVV95cUxPd1YydWFqX1F5eDNwY05Qa3U1b2JjUlhNS1pMc2dfTU9rV1loY1FYcFZyQ1gtUThNWDJ1V0lPbTNLZnVvSGhSWHNTM3J1R1hhRzQxVTJ2M3A2Y092cm9Xd0k2ZkxaYUVzZWhwbndiUk45QThmb3RMVTZfNFU?oc=5" target="_blank">
+            亚马逊和Target现有Apple笔记本和耳机促
+          </a>
+          <div class="news-meta">
+            <span>Google News - US Retail Audio</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+          </div>
+          <div class="news-note">亚马逊和Target正在促销Apple笔记本和耳机，需抓住电商机会。</div>
         </article>
         
       </section>
@@ -1060,7 +1063,7 @@
             
           </div>
           <div class="product-summary">当前新品源暂无有效更新</div>
-          <div class="news-note">今日新品缺乏有效更新，影响品牌营销策略的制定。</div>
+          <div class="news-note">今日新品缺乏有效更新，可能影响品牌营销效果。</div>
         </article>
         
       </div>
@@ -1070,19 +1073,42 @@
       <div class="section-head">
         <h2 class="section-title">意见反馈</h2>
       </div>
-      <div class="feedback-list">
-        
-        <div class="feedback-card">这期日报最有价值的是哪一块？</div>
-        
-        <div class="feedback-card">哪些内容你觉得太多、太少，或还缺失？</div>
-        
-        <div class="feedback-card">哪些品牌 / 平台 / 品类应该被提升到更高优先级？</div>
-        
-        <div class="feedback-card">哪些判断不够准确，应该怎么改？</div>
-        
-      </div>
+      <a
+        class="feedback-link"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSdyWZwDTGRplMGv6EWojLPp3VjaKpsv_DqKaS0XyXiayPf7hg/viewform?usp=dialog"
+        target="_blank"
+      >
+        点击填写反馈表单，告诉我你希望增加、删除或调整的内容。
+      </a>
     </section>
 
   </div>
+
+  <script>
+    function formatTime(timeZone) {
+      return new Intl.DateTimeFormat("zh-CN", {
+        timeZone,
+        hour: "2-digit",
+        minute: "2-digit",
+        second: "2-digit",
+        hour12: false,
+        month: "2-digit",
+        day: "2-digit"
+      }).format(new Date());
+    }
+
+    function updateTimes() {
+      document.getElementById("beijing-time").textContent = formatTime("Asia/Shanghai");
+      document.getElementById("tz-et").textContent = formatTime("America/New_York");
+      document.getElementById("tz-ct").textContent = formatTime("America/Chicago");
+      document.getElementById("tz-mt").textContent = formatTime("America/Denver");
+      document.getElementById("tz-pt").textContent = formatTime("America/Los_Angeles");
+      document.getElementById("tz-akt").textContent = formatTime("America/Anchorage");
+      document.getElementById("tz-hst").textContent = formatTime("Pacific/Honolulu");
+    }
+
+    updateTimes();
+    setInterval(updateTimes, 1000);
+  </script>
 </body>
 </html>

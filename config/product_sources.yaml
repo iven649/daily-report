@@ -1,6 +1,5 @@
 sources:
   products:
-    # 第一优先：耳机 / 音频 / 穿戴 / 手机硬件
     - name: Android Authority
       type: rss
       url: https://www.androidauthority.com/feed/
@@ -16,13 +15,11 @@ sources:
       url: https://www.theverge.com/rss/front-page/index.xml
       priority: 8
 
-    # 第二优先：无人机 / 运动相机
     - name: DroneDJ
       type: rss
       url: https://dronedj.com/feed/
       priority: 8
 
-    # 第三优先：泛消费电子补充
     - name: TechCrunch
       type: rss
       url: https://techcrunch.com/feed/
@@ -30,54 +27,44 @@ sources:
 
 keywords:
   high:
-    # 耳机/音频
-    - headphones
-    - earbuds
-    - earbud
-    - headset
-    - speaker
-    - audio
-    - noise cancelling
-    - anc
-    - open-ear
-    - open ear
-    - bone conduction
-    - garmin
+    - shokz
     - bose
     - beats
-    - soundcore
     - sony
     - jbl
     - sennheiser
-    - shokz
-
-    # 无人机 / 运动相机
-    - drone
+    - garmin
     - dji
+    - jlab
+    - headphones
+    - headphone
+    - earbuds
+    - earbud
+    - headset
+    - audio
+    - open-ear
+    - open ear
+    - bone conduction
+    - sports headphones
+    - wearable
+    - smartwatch
+    - drone
+    - uav
     - action camera
-    - gopro
-    - insta360
-    - osmo
     - camera
 
   medium:
-    # 手机 / 穿戴 / 硬件
-    - smartwatch
-    - wearable
-    - fitness tracker
-    - phone
-    - smartphone
-    - pixel
-    - galaxy
-    - chip
-    - laptop
-    - tablet
     - bluetooth
     - wireless
+    - premium
     - battery
+    - feature
+    - review
+    - sports
+    - running
+    - fitness
 
   trigger:
-    # 只有命中这些“发布类词”才更像新品
     - launch
     - launches
     - launched
@@ -90,12 +77,14 @@ keywords:
     - unveil
     - unveils
     - unveiled
-    - debuts
     - debut
+    - debuts
+    - reveal
     - reveals
     - revealed
-    - specs
-    - pricing
-    - price
     - available
     - availability
+    - pricing
+    - price
+    - preorder
+    - pre-order

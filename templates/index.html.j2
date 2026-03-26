@@ -1,47 +1,703 @@
-from __future__ import annotations
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>北美业务情报日报 - {{ date }}</title>
+  <style>
+    :root {
+      --bg: #f5f5f7;
+      --card: rgba(255, 255, 255, 0.88);
+      --card-solid: #ffffff;
+      --text: #111111;
+      --muted: #6e6e73;
+      --muted-2: #8e8e93;
+      --line: rgba(17, 17, 17, 0.07);
+      --line-soft: rgba(17, 17, 17, 0.045);
+      --shadow: 0 10px 30px rgba(15, 23, 42, 0.05);
+      --shadow-soft: 0 4px 18px rgba(15, 23, 42, 0.035);
+      --radius-2xl: 28px;
+      --radius-xl: 22px;
+      --radius-lg: 18px;
+      --radius-md: 14px;
+      --radius-sm: 12px;
+      --link: #171717;
+      --link-hover: #4b5563;
+      --tag-bg: #f3f4f6;
+      --tag-text: #4b5563;
+    }
 
-from datetime import datetime
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      color: var(--text);
+      background:
+        linear-gradient(to right, rgba(17,17,17,0.025) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(17,17,17,0.025) 1px, transparent 1px),
+        linear-gradient(180deg, #fcfcfd 0%, #f5f5f7 100%);
+      background-size: 40px 40px, 40px 40px, auto;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI",
+        "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+    a { color: inherit; text-decoration: none; }
 
-from jinja2 import Environment, FileSystemLoader, select_autoescape
+    .page { max-width: 1240px; margin: 0 auto; padding: 28px 20px 60px; }
 
-from common import ROOT, load_json, logger
+    .glass {
+      background: var(--card);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.65);
+      box-shadow: var(--shadow);
+      border-radius: var(--radius-2xl);
+    }
 
+    .section-card {
+      background: var(--card-solid);
+      border: 1px solid var(--line-soft);
+      border-radius: var(--radius-xl);
+      box-shadow: var(--shadow-soft);
+    }
 
-def main() -> None:
-    payload = load_json("data/processed/daily_payload.json", {})
+    .hero {
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      gap: 22px;
+      padding: 24px;
+      margin-bottom: 18px;
+    }
 
-    env = Environment(
-        loader=FileSystemLoader(str(ROOT / "templates")),
-        autoescape=select_autoescape(["html", "xml"]),
-    )
+    .hero-main {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 280px;
+    }
 
-    output_dir = ROOT / "docs"
-    output_dir.mkdir(exist_ok=True)
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.72);
+      border: 1px solid rgba(17,17,17,0.06);
+      font-size: 12px;
+      color: var(--muted);
+      width: fit-content;
+      margin-bottom: 18px;
+    }
 
-    tpl = env.get_template("index.html.j2")
-    html = tpl.render(**payload)
-    (output_dir / "index.html").write_text(html, encoding="utf-8")
-    logger.info("Saved docs/index.html")
+    .hero-kicker {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--muted-2);
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
 
-    festival_tpl = env.get_template("festival.html.j2")
-    for f in payload.get("festival_pages", []):
-        d = datetime.fromisoformat(f["date"]).date()
-        html = festival_tpl.render(
-            name=f["name"],
-            icon=f.get("icon", "🎉"),
-            year=d.year,
-            date_text=d.strftime("%Y-%m-%d"),
-            countdown=f["countdown"],
-            origin=f.get("origin", ""),
-            story=f.get("story", ""),
-            customs=f.get("customs", []),
-            consumption=f.get("consumption", []),
-            holiday=f.get("holiday", ""),
-        )
-        output_path = output_dir / f"{f['slug']}.html"
-        output_path.write_text(html, encoding="utf-8")
-        logger.info(f"Saved docs/{f['slug']}.html")
+    .hero-insight {
+      font-size: 38px;
+      line-height: 1.18;
+      font-weight: 760;
+      letter-spacing: -0.055em;
+      max-width: 700px;
+      margin-bottom: 14px;
+    }
 
+    .hero-sub {
+      font-size: 15px;
+      line-height: 1.85;
+      color: var(--muted);
+      max-width: 620px;
+    }
 
-if __name__ == "__main__":
-    main()
+    .hero-footer {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 26px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line-soft);
+    }
+
+    .hero-brand {
+      font-size: 46px;
+      line-height: 0.96;
+      letter-spacing: -0.06em;
+      font-weight: 740;
+    }
+
+    .hero-date-inline {
+      color: var(--muted);
+      font-size: 14px;
+      white-space: nowrap;
+    }
+
+    .hero-side {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .mini-panel {
+      background: rgba(255,255,255,0.74);
+      border: 1px solid rgba(17,17,17,0.06);
+      border-radius: var(--radius-xl);
+      padding: 18px;
+    }
+
+    .mini-title {
+      font-size: 13px;
+      color: var(--muted-2);
+      margin-bottom: 8px;
+    }
+
+    .mini-value {
+      font-size: 28px;
+      font-weight: 720;
+      letter-spacing: -0.04em;
+    }
+
+    .status-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 12px;
+      margin-top: 12px;
+    }
+
+    .status-box {
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+      border: 1px solid var(--line-soft);
+      border-radius: var(--radius-lg);
+      padding: 14px;
+    }
+
+    .status-label {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .status-value {
+      font-size: 24px;
+      font-weight: 720;
+      letter-spacing: -0.04em;
+    }
+
+    .dashboard-row {
+      display: grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .card-pad { padding: 22px; }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .section-title {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      font-weight: 700;
+    }
+
+    .section-meta {
+      font-size: 12px;
+      color: var(--muted-2);
+    }
+
+    .takeaways-list {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .takeaway-item {
+      display: grid;
+      grid-template-columns: 26px 1fr;
+      gap: 10px;
+      align-items: start;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--line-soft);
+    }
+
+    .takeaway-item:last-child { border-bottom: none; padding-bottom: 0; }
+
+    .takeaway-index {
+      width: 26px;
+      height: 26px;
+      border-radius: 999px;
+      background: #111111;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 700;
+      margin-top: 1px;
+    }
+
+    .takeaway-text { font-size: 15px; line-height: 1.9; color: #1f2937; }
+
+    .entity-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+    }
+
+    .entity-card {
+      padding: 16px;
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--line-soft);
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+    }
+
+    .entity-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .entity-name { font-size: 16px; font-weight: 700; }
+    .entity-type { font-size: 12px; color: var(--muted); }
+    .entity-count { font-size: 12px; color: var(--muted-2); }
+
+    .entity-links {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .entity-links a {
+      font-size: 13px;
+      color: var(--link);
+      line-height: 1.55;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .news-card { padding: 22px 22px 10px; }
+    .news-list { display: flex; flex-direction: column; }
+    .news-item { padding: 16px 0; border-bottom: 1px solid var(--line-soft); }
+    .news-item:last-child { border-bottom: none; }
+
+    .news-title {
+      display: inline-block;
+      font-size: 17px;
+      line-height: 1.5;
+      letter-spacing: -0.015em;
+      font-weight: 620;
+      color: var(--link);
+      transition: color 0.15s ease;
+      margin-bottom: 8px;
+    }
+
+    .news-title:hover { color: var(--link-hover); }
+
+    .news-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 10px;
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: var(--tag-bg);
+      border: 1px solid rgba(17, 17, 17, 0.045);
+      color: var(--tag-text);
+      font-size: 12px;
+      line-height: 1;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .note-box {
+      margin-top: 10px;
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: #fafafa;
+      border: 1px solid var(--line-soft);
+    }
+
+    .note-line {
+      font-size: 13px;
+      color: #374151;
+      line-height: 1.7;
+      margin-bottom: 6px;
+    }
+
+    .note-line:last-child { margin-bottom: 0; }
+
+    .products-card { padding: 22px; margin-bottom: 18px; }
+
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .product-card {
+      display: flex;
+      flex-direction: column;
+      min-height: 290px;
+      padding: 18px;
+      border-radius: var(--radius-xl);
+      border: 1px solid var(--line-soft);
+      background:
+        radial-gradient(circle at top right, rgba(17,17,17,0.03) 0%, transparent 36%),
+        linear-gradient(180deg, #ffffff 0%, #fcfcfc 100%);
+      transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
+    }
+
+    .product-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 16px 30px rgba(15, 23, 42, 0.055);
+      border-color: rgba(17,17,17,0.08);
+    }
+
+    .product-kicker {
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      color: var(--muted-2);
+      margin-bottom: 10px;
+      text-transform: uppercase;
+    }
+
+    .product-title {
+      font-size: 18px;
+      line-height: 1.42;
+      letter-spacing: -0.02em;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    .product-meta {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .product-summary {
+      flex: 1;
+      font-size: 14px;
+      line-height: 1.72;
+      color: #3f3f46;
+      margin-top: 8px;
+      margin-bottom: 14px;
+    }
+
+    .festival-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+      margin-top: 10px;
+    }
+
+    .festival-item {
+      padding: 16px;
+      border: 1px solid var(--line-soft);
+      border-radius: 18px;
+      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+    }
+
+    .festival-icon { font-size: 26px; margin-bottom: 8px; }
+    .festival-name { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
+    .festival-meta { font-size: 13px; color: var(--muted); }
+
+    @media (max-width: 1100px) {
+      .hero, .dashboard-row, .grid-2 { grid-template-columns: 1fr; }
+      .products-grid { grid-template-columns: 1fr 1fr; }
+      .festival-grid, .entity-grid { grid-template-columns: 1fr 1fr; }
+    }
+
+    @media (max-width: 720px) {
+      .products-grid, .festival-grid, .entity-grid, .status-grid { grid-template-columns: 1fr; }
+      .hero-insight { font-size: 28px; }
+      .hero-brand { font-size: 34px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <section class="glass hero">
+      <div class="hero-main">
+        <div>
+          <div class="eyebrow">北美业务情报日报 · {{ market_focus }}</div>
+          <div class="hero-kicker">Lead Story</div>
+          <div class="hero-insight">
+            {% if lead_story %}
+              {{ lead_story.display_title or lead_story.title or lead_story.name }}
+            {% else %}
+              今日暂无头条
+            {% endif %}
+          </div>
+          <div class="hero-sub">
+            {% if lead_story %}
+              {{ lead_story.business_note }}
+            {% else %}
+              当前暂无足够有效内容，建议检查数据源后等待下一轮抓取。
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="hero-footer">
+          <div>
+            <div class="hero-brand">North America<br>Watchboard</div>
+          </div>
+          <div class="hero-date-inline">{{ generated_at }}</div>
+        </div>
+      </div>
+
+      <div class="hero-side">
+        <div class="mini-panel">
+          <div class="mini-title">情报状态</div>
+          <div class="mini-value">{{ date }}</div>
+          <div class="status-grid">
+            <div class="status-box">
+              <div class="status-label">消费电子</div>
+              <div class="status-value">{{ status.consumer_count }}</div>
+            </div>
+            <div class="status-box">
+              <div class="status-label">渠道平台</div>
+              <div class="status-value">{{ status.channel_count }}</div>
+            </div>
+            <div class="status-box">
+              <div class="status-label">新品</div>
+              <div class="status-value">{{ status.product_count }}</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="mini-panel">
+          <div class="mini-title">规则与模式</div>
+          <div style="font-size:14px; line-height:1.9; color:#374151;">
+            {{ status.source_summary }}<br>
+            时效规则：{{ status.freshness_rule }}<br>
+            AI 状态：{% if openai_enabled %}已启用{% else %}降级模式{% endif %}
+          </div>
+        </div>
+
+        {% if lead_story %}
+        <div class="mini-panel">
+          <div class="mini-title">头条建议动作</div>
+          <div style="font-size:14px; line-height:1.85; color:#374151;">
+            {{ lead_story.suggested_action }}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </section>
+
+    <div class="dashboard-row">
+      <section class="section-card card-pad">
+        <div class="section-head">
+          <h2 class="section-title">今日重点</h2>
+          <div class="section-meta">AI业务判断</div>
+        </div>
+        <ul class="takeaways-list">
+          {% for item in takeaways %}
+          <li class="takeaway-item">
+            <div class="takeaway-index">{{ loop.index }}</div>
+            <div class="takeaway-text">{{ item }}</div>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      <section class="section-card card-pad">
+        <div class="section-head">
+          <h2 class="section-title">重点监控对象</h2>
+          <div class="section-meta">品牌 / 渠道 / 品类</div>
+        </div>
+        <div class="entity-grid">
+          {% for entity in monitored_entities %}
+          <div class="entity-card">
+            <div class="entity-top">
+              <div>
+                <div class="entity-name">{{ entity.name }}</div>
+                <div class="entity-type">{{ entity.type }}</div>
+              </div>
+              <div class="entity-count">{{ entity.count }} 条命中</div>
+            </div>
+            <div class="entity-links">
+              {% for item in entity.items %}
+              <a href="{{ item.url }}" target="_blank">{{ item.display_title or item.title or item.name }}</a>
+              {% endfor %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+
+    <div class="grid-2">
+      <section class="section-card news-card">
+        <div class="section-head">
+          <h2 class="section-title">渠道与平台变化</h2>
+          <div class="section-meta">电商 / 渠道销售</div>
+        </div>
+        <div class="news-list">
+          {% for item in channel_watch %}
+          <article class="news-item">
+            <a class="news-title" href="{{ item.url }}" target="_blank">{{ item.display_title or item.title }}</a>
+            <div class="news-meta">
+              <span>{{ item.source }}</span>
+              <span>{{ item.freshness_label }}</span>
+              <span>重要性：{{ item.importance }}</span>
+              <span>影响：{{ item.impact_area }}</span>
+            </div>
+            <div class="tag-row">
+              {% for tag in item.tags %}
+              <span class="tag">{{ tag }}</span>
+              {% endfor %}
+              {% for name in item.monitor_hits.channels %}
+              <span class="tag">🏪 {{ name }}</span>
+              {% endfor %}
+            </div>
+            <div class="note-box">
+              <div class="note-line"><strong>业务意义：</strong>{{ item.business_note }}</div>
+              <div class="note-line"><strong>建议动作：</strong>{{ item.suggested_action }}</div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section-card news-card">
+        <div class="section-head">
+          <h2 class="section-title">消费电子重点</h2>
+          <div class="section-meta">品牌 / 产品 / 趋势</div>
+        </div>
+        <div class="news-list">
+          {% for item in consumer_electronics %}
+          <article class="news-item">
+            <a class="news-title" href="{{ item.url }}" target="_blank">{{ item.display_title or item.title }}</a>
+            <div class="news-meta">
+              <span>{{ item.source }}</span>
+              <span>{{ item.freshness_label }}</span>
+              <span>重要性：{{ item.importance }}</span>
+              <span>影响：{{ item.impact_area }}</span>
+            </div>
+            <div class="tag-row">
+              {% for tag in item.tags %}
+              <span class="tag">{{ tag }}</span>
+              {% endfor %}
+              {% for name in item.monitor_hits.brands %}
+              <span class="tag">🏷️ {{ name }}</span>
+              {% endfor %}
+            </div>
+            <div class="note-box">
+              <div class="note-line"><strong>业务意义：</strong>{{ item.business_note }}</div>
+              <div class="note-line"><strong>建议动作：</strong>{{ item.suggested_action }}</div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+
+    <section class="section-card products-card">
+      <div class="section-head">
+        <h2 class="section-title">新品速览</h2>
+        <div class="section-meta">优先监控耳机 / 穿戴 / 无人机影像</div>
+      </div>
+      <div class="products-grid">
+        {% for item in products %}
+        <article class="product-card">
+          <div class="product-kicker">{{ item.source }} · {{ item.freshness_label }}</div>
+          <div class="product-title">{{ item.display_title or item.name }}</div>
+          <div class="product-meta">重要性：{{ item.importance }} · 影响：{{ item.impact_area }}</div>
+          <div class="tag-row">
+            {% for tag in item.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          <div class="product-summary">{{ item.display_summary or item.summary }}</div>
+          <div class="note-box">
+            <div class="note-line"><strong>业务意义：</strong>{{ item.business_note }}</div>
+            <div class="note-line"><strong>建议动作：</strong>{{ item.suggested_action }}</div>
+          </div>
+          <div style="margin-top:14px;">
+            <a href="{{ item.url }}" target="_blank" style="font-size:14px;font-weight:600;">查看原文 ↗</a>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+
+    <div class="grid-2">
+      <section class="section-card news-card">
+        <div class="section-head">
+          <h2 class="section-title">更多渠道新闻</h2>
+          <div class="section-meta">完整观察面</div>
+        </div>
+        <div class="news-list">
+          {% for item in channel_news %}
+          <article class="news-item">
+            <a class="news-title" href="{{ item.url }}" target="_blank">{{ item.display_title or item.title }}</a>
+            <div class="news-meta">
+              <span>{{ item.source }}</span>
+              <span>{{ item.freshness_label }}</span>
+              <span>{{ item.impact_area }}</span>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section-card card-pad">
+        <div class="section-head">
+          <h2 class="section-title">节日与营销节点</h2>
+          <div class="section-meta">美国优先</div>
+        </div>
+        <div class="festival-grid">
+          {% for f in festival_cards %}
+          <a class="festival-item" href="{{ f.slug }}.html">
+            <div class="festival-icon">{{ f.icon or "🎉" }}</div>
+            <div class="festival-name">{{ f.name }}</div>
+            <div class="festival-meta">{{ f.date }} · 还有 {{ f.countdown }} 天</div>
+          </a>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+  </div>
+</body>
+</html>

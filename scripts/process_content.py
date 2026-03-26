@@ -2,13 +2,15 @@ from __future__ import annotations
 
 import os
 from datetime import date
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 from openai import OpenAI
 
-from common import dump_json, load_json, load_yaml
+from common import dump_json, load_json, load_yaml, logger
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+client: Optional[OpenAI] = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 
 def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -24,6 +26,10 @@ def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 
 
 def ai_generate(prompt: str, fallback: str, max_len: int = 40) -> str:
+    if client is None:
+        logger.warning("OPENAI_API_KEY not found, fallback text will be used")
+        return fallback[:max_len]
+
     try:
         response = client.chat.completions.create(
             model="gpt-4o-mini",
@@ -34,12 +40,12 @@ def ai_generate(prompt: str, fallback: str, max_len: int = 40) -> str:
             temperature=0.3,
         )
 
-        result = response.choices[0].message.content.strip()
+        result = (response.choices[0].message.content or "").strip()
         result = " ".join(result.split())
-        return result[:max_len]
+        return result[:max_len] if result else fallback[:max_len]
 
     except Exception as e:
-        print(f"[WARN] AI失败: {e}")
+        logger.warning(f"AI generate failed: {e}")
         return fallback[:max_len]
 
 
@@ -140,6 +146,10 @@ def generate_takeaways(
         "建议优先跟进可转化为销售动作的信息",
     ]
 
+    if client is None:
+        logger.warning("OPENAI_API_KEY not found, fallback takeaways will be used")
+        return fallback
+
     try:
         response = client.chat.completions.create(
             model="gpt-4o-mini",
@@ -150,18 +160,17 @@ def generate_takeaways(
             temperature=0.4,
         )
 
-        text = response.choices[0].message.content.strip()
+        text = (response.choices[0].message.content or "").strip()
         lines = [
             x.strip().lstrip("-•").lstrip("1234567890.、").strip()
             for x in text.splitlines()
             if x.strip()
         ]
-
         lines = [x for x in lines if x]
         return lines[:5] if lines else fallback
 
     except Exception as e:
-        print(f"[WARN] 今日重点生成失败: {e}")
+        logger.warning(f"Takeaways generation failed: {e}")
         return fallback
 
 
@@ -269,6 +278,11 @@ def main() -> None:
     consumer = dedupe(news.get("consumer_electronics", []))
     channel = dedupe(news.get("channel_news", []))
 
+    logger.info(
+        f"Loaded raw content | consumer={len(consumer)}, "
+        f"channel={len(channel)}, products={len(products.get('products', []))}"
+    )
+
     consumer_source_priority = build_source_priority(
         config["sources"].get("consumer_electronics", [])
     )
@@ -321,7 +335,11 @@ def main() -> None:
     }
 
     dump_json("data/processed/daily_payload.json", payload)
-    print("[OK] payload generated")
+    logger.info(
+        f"Saved data/processed/daily_payload.json | "
+        f"consumer={len(consumer)}, channel={len(channel)}, products={len(product_items)}, "
+        f"takeaways={len(payload['takeaways'])}"
+    )
 
 
 if __name__ == "__main__":

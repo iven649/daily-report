@@ -3,16 +3,20 @@ from __future__ import annotations
 import json
 import logging
 import re
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any, Optional
+from zoneinfo import ZoneInfo
 
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 LOG_DIR = ROOT / "logs"
 LOG_FILE = LOG_DIR / "daily_report.log"
+
+DEFAULT_TIMEZONE = "Asia/Shanghai"
+LOCAL_TZ = ZoneInfo(DEFAULT_TIMEZONE)
 
 
 def load_yaml(path: str) -> Any:
@@ -68,6 +72,18 @@ logger = setup_logging()
 
 def now_utc() -> datetime:
     return datetime.now(timezone.utc)
+
+
+def now_local() -> datetime:
+    return now_utc().astimezone(LOCAL_TZ)
+
+
+def today_local() -> date:
+    return now_local().date()
+
+
+def format_local_timestamp(fmt: str = "%Y-%m-%d %H:%M:%S %Z") -> str:
+    return now_local().strftime(fmt)
 
 
 def normalize_text(text: str) -> str:

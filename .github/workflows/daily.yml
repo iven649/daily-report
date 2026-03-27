@@ -2,7 +2,10 @@ name: Daily Report Update
 
 on:
   schedule:
-    - cron: '13 22 * * *'
+    # 北京时间 08:10
+    - cron: '10 23 * * *'
+    # 北京时间 09:10，补跑一次，覆盖 RSS / Google News 延迟
+    - cron: '10 00 * * *'
   workflow_dispatch:
 
 permissions:
@@ -11,6 +14,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
 
     steps:
       - name: 下载仓库内容
@@ -21,6 +26,17 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: 输出运行时间
+        run: |
+          echo "Runner timezone: $TZ"
+          date
+          python - <<'PY'
+          from datetime import datetime, timezone
+          from zoneinfo import ZoneInfo
+          print("UTC now:", datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S %Z"))
+          print("Asia/Shanghai now:", datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M:%S %Z"))
+          PY
+
       - name: 安装依赖
         run: pip install -r requirements.txt
 
@@ -29,10 +45,44 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/main.py
 
-      - name: 提交更新后的 docs
+      - name: 输出产物摘要
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          payload_path = Path("data/processed/daily_payload.json")
+          if not payload_path.exists():
+              raise SystemExit("Missing data/processed/daily_payload.json")
+
+          payload = json.loads(payload_path.read_text(encoding="utf-8"))
+          print("payload.date =", payload.get("date"))
+          print("payload.generated_at =", payload.get("generated_at"))
+          print("consumer_count =", payload.get("status", {}).get("consumer_count"))
+          print("channel_count =", payload.get("status", {}).get("channel_count"))
+          print("product_count =", payload.get("status", {}).get("product_count"))
+          print("lead_story =", (payload.get("lead_story") or {}).get("display_title") or (payload.get("lead_story") or {}).get("title"))
+          PY
+
+      - name: 检查是否有变更
+        id: gitcheck
+        run: |
+          git status --short
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 提交更新后的产物
+        if: steps.gitcheck.outputs.changed == 'true'
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add docs/
-          git commit -m "auto update report" || echo "no changes"
+          git add docs/ data/raw/ data/processed/ logs/
+          git commit -m "auto update report"
           git push
+
+      - name: 无变更说明
+        if: steps.gitcheck.outputs.changed != 'true'
+        run: echo "No file changes detected. Workflow finished without commit."

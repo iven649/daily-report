@@ -64,6 +64,23 @@ def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
     return {s["name"]: s.get("priority", 0) for s in source_list}
 
 
+def resolve_product_sources(conf: Dict[str, Any]) -> List[Dict[str, Any]]:
+    sources = conf.get("sources", {})
+    product_sources = sources.get("products")
+
+    if product_sources:
+        logger.info("Using config/product_sources.yaml -> sources.products")
+        return product_sources
+
+    fallback_sources = sources.get("consumer_electronics", [])
+    if fallback_sources:
+        logger.info("Using config/product_sources.yaml -> sources.consumer_electronics (fallback)")
+        return fallback_sources
+
+    logger.warning("No product sources found in config/product_sources.yaml")
+    return []
+
+
 def fetch_rss(source: Dict[str, Any]) -> List[Dict[str, Any]]:
     parsed = feedparser.parse(source["url"])
     items = []
@@ -116,11 +133,11 @@ def dedupe(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 def main() -> None:
     conf = load_yaml("config/product_sources.yaml")
 
-    product_sources = conf["sources"].get("products", [])
+    product_sources = resolve_product_sources(conf)
     source_priority = build_source_priority(product_sources)
     keyword_conf = conf.get("keywords", {})
 
-    products = []
+    products: List[Dict[str, Any]] = []
     logger.info(f"Fetching product sources: {len(product_sources)}")
 
     for source in product_sources:
@@ -132,22 +149,29 @@ def main() -> None:
             logger.warning(f"Product source failed: {source['name']} -> {e}")
 
     raw_count = len(products)
-    products = dedupe(products)
+    deduped_products = dedupe(products)
 
-    for item in products:
+    for item in deduped_products:
         item["_score"] = score_product_item(item, source_priority, keyword_conf)
 
-    products = [x for x in products if x["_score"] > 0]
-    products.sort(key=lambda x: x["_score"], reverse=True)
+    filtered_products = [x for x in deduped_products if x["_score"] > 0]
+    filtered_products.sort(key=lambda x: x["_score"], reverse=True)
 
     result = {
-        "products": products[:12],
+        "products": filtered_products[:12],
         "fetched_at": int(time.time()),
+        "stats": {
+            "source_count": len(product_sources),
+            "raw_count": raw_count,
+            "deduped_count": len(deduped_products),
+            "kept_count": len(filtered_products[:12]),
+        },
     }
 
     dump_json("data/raw/products.json", result)
     logger.info(
-        f"Saved data/raw/products.json | raw={raw_count}, deduped={len(products)}, kept={len(result['products'])}"
+        "Saved data/raw/products.json | "
+        f"sources={len(product_sources)}, raw={raw_count}, deduped={len(deduped_products)}, kept={len(filtered_products[:12])}"
     )
 
 

@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import json
 import os
-from datetime import date
 from typing import Any, Dict, List, Optional
 
 from openai import OpenAI
@@ -10,6 +9,7 @@ from openai import OpenAI
 from common import (
     build_dedupe_key,
     dump_json,
+    format_local_timestamp,
     freshness_label,
     hours_since,
     is_meaningful_text,
@@ -19,6 +19,7 @@ from common import (
     normalize_text,
     now_utc,
     parse_datetime,
+    today_local,
 )
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")

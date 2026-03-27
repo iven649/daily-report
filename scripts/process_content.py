@@ -762,9 +762,9 @@ def main() -> None:
     opportunity_signals = generate_signal_block("机会提示", opportunity_source, "机会")
     risk_signals = generate_signal_block("风险提示", risk_source, "风险")
 
-    payload = {
-        "date": str(date.today()),
-        "generated_at": now_utc().strftime("%Y-%m-%d %H:%M UTC"),
+        payload = {
+        "date": str(today_local()),
+        "generated_at": format_local_timestamp("%Y-%m-%d %H:%M:%S %Z"),
         "market_focus": "美国优先，中国次之",
         "openai_enabled": bool(client),
         "festival_cards": festivals.get("festival_cards", []),
@@ -797,8 +797,10 @@ def main() -> None:
 
     dump_json("data/processed/daily_payload.json", payload)
     logger.info(
-        f"Saved data/processed/daily_payload.json | consumer={len(consumer)}, "
-        f"channel={len(channel)}, products={len(product_items)}, entities={len(monitored_entities)}"
+        "Saved data/processed/daily_payload.json | "
+        f"date={payload['date']}, generated_at={payload['generated_at']}, "
+        f"consumer={len(consumer)}, channel={len(channel)}, "
+        f"products={len(product_items)}, entities={len(monitored_entities)}"
     )
 
 

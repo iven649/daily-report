@@ -763,7 +763,7 @@ def main() -> None:
     opportunity_signals = generate_signal_block("机会提示", opportunity_source, "机会")
     risk_signals = generate_signal_block("风险提示", risk_source, "风险")
 
-        payload = {
+    payload = {
         "date": str(today_local()),
         "generated_at": format_local_timestamp("%Y-%m-%d %H:%M:%S %Z"),
         "market_focus": "美国优先，中国次之",

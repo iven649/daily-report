@@ -1,59 +1,119 @@
 {
-  "date": "2026-03-18",
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27 15:12:09 CST",
+  "market_focus": "美国优先，中国次之",
+  "openai_enabled": true,
   "festival_cards": [
-    {
-      "slug": "qingming",
-      "name": "清明节",
-      "market": "CN",
-      "type": "traditional",
-      "rule": "fixed",
-      "month": 4,
-      "day": 4,
-      "date": "2026-04-04",
-      "countdown": 17,
-      "year": 2026,
-      "icon": "🪴",
-      "origin": "清明节起源于中国古代寒食传统，后与清明节气融合，成为兼具祭祖与踏青意义的重要节日。",
-      "story": "常见典故为介子推故事，后世逐渐发展出祭扫、踏青等习俗。",
-      "customs": [
-        "扫墓祭祖",
-        "踏青郊游",
-        "插柳戴柳",
-        "放风筝"
-      ],
-      "consumption": [
-        "祭祀用品",
-        "青团与时令食品",
-        "周边短途出游",
-        "鲜花与代祭扫服务"
-      ],
-      "holiday": "中国通常围绕清明节形成短假期安排，以当年官方通知为准。"
-    },
     {
       "slug": "easter",
       "name": "复活节",
       "market": "US",
       "type": "traditional",
+      "priority": 4,
       "rule": "easter",
+      "icon": "🥚",
       "date": "2026-04-05",
-      "countdown": 18,
+      "countdown": 9,
       "year": 2026,
-      "icon": "🐰",
-      "origin": "复活节是西方重要节日之一，常与春季、新生、家庭团聚相关。",
-      "story": "在西方文化语境中，复活节兼具宗教意义与大众消费节庆属性。",
+      "origin": "复活节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
       "customs": [
-        "彩蛋游戏",
-        "复活节兔子",
-        "家庭聚会",
-        "教堂礼拜"
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
       ],
       "consumption": [
-        "糖果与巧克力",
-        "儿童礼品",
-        "家庭聚餐",
-        "春季短途出行"
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
       ],
-      "holiday": "复活节不是美国统一联邦假日，但学校、教会和零售市场通常会有节庆活动。"
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "mothers-day",
+      "name": "母亲节",
+      "market": "US",
+      "type": "holiday",
+      "priority": 4,
+      "rule": "nth_weekday",
+      "month": 5,
+      "weekday": 6,
+      "nth": 2,
+      "icon": "🌸",
+      "date": "2026-05-10",
+      "countdown": 44,
+      "year": 2026,
+      "origin": "母亲节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "jd-618",
+      "name": 618,
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 6,
+      "day": 18,
+      "icon": "📦",
+      "date": "2026-06-18",
+      "countdown": 83,
+      "year": 2026,
+      "origin": "618是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "prime-day",
+      "name": "Prime Day",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 7,
+      "day": 15,
+      "icon": "⚡",
+      "date": "2026-07-15",
+      "countdown": 110,
+      "year": 2026,
+      "origin": "Prime Day是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
     }
   ],
   "festival_pages": [
@@ -62,252 +122,1760 @@
       "name": "清明节",
       "market": "CN",
       "type": "traditional",
+      "priority": 3,
       "rule": "fixed",
       "month": 4,
       "day": 4,
+      "icon": "🌿",
       "date": "2026-04-04",
-      "countdown": 17,
+      "countdown": 8,
       "year": 2026,
-      "icon": "🪴",
-      "origin": "清明节起源于中国古代寒食传统，后与清明节气融合，成为兼具祭祖与踏青意义的重要节日。",
-      "story": "常见典故为介子推故事，后世逐渐发展出祭扫、踏青等习俗。",
+      "origin": "清明节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
       "customs": [
-        "扫墓祭祖",
-        "踏青郊游",
-        "插柳戴柳",
-        "放风筝"
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
       ],
       "consumption": [
-        "祭祀用品",
-        "青团与时令食品",
-        "周边短途出游",
-        "鲜花与代祭扫服务"
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
       ],
-      "holiday": "中国通常围绕清明节形成短假期安排，以当年官方通知为准。"
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
     },
     {
       "slug": "easter",
       "name": "复活节",
       "market": "US",
       "type": "traditional",
+      "priority": 4,
       "rule": "easter",
+      "icon": "🥚",
       "date": "2026-04-05",
-      "countdown": 18,
+      "countdown": 9,
       "year": 2026,
-      "icon": "🐰",
-      "origin": "复活节是西方重要节日之一，常与春季、新生、家庭团聚相关。",
-      "story": "在西方文化语境中，复活节兼具宗教意义与大众消费节庆属性。",
+      "origin": "复活节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
       "customs": [
-        "彩蛋游戏",
-        "复活节兔子",
-        "家庭聚会",
-        "教堂礼拜"
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
       ],
       "consumption": [
-        "糖果与巧克力",
-        "儿童礼品",
-        "家庭聚餐",
-        "春季短途出行"
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
       ],
-      "holiday": "复活节不是美国统一联邦假日，但学校、教会和零售市场通常会有节庆活动。"
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "labor-day-cn",
+      "name": "劳动节",
+      "market": "CN",
+      "type": "holiday",
+      "priority": 3,
+      "rule": "fixed",
+      "month": 5,
+      "day": 1,
+      "icon": "🛠️",
+      "date": "2026-05-01",
+      "countdown": 35,
+      "year": 2026,
+      "origin": "劳动节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
+    },
+    {
+      "slug": "mothers-day",
+      "name": "母亲节",
+      "market": "US",
+      "type": "holiday",
+      "priority": 4,
+      "rule": "nth_weekday",
+      "month": 5,
+      "weekday": 6,
+      "nth": 2,
+      "icon": "🌸",
+      "date": "2026-05-10",
+      "countdown": 44,
+      "year": 2026,
+      "origin": "母亲节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "memorial-day",
+      "name": "Memorial Day",
+      "market": "US",
+      "type": "holiday",
+      "priority": 4,
+      "rule": "nth_weekday",
+      "month": 5,
+      "weekday": 0,
+      "nth": -1,
+      "icon": "🇺🇸",
+      "date": "2026-05-25",
+      "countdown": 59,
+      "year": 2026,
+      "origin": "Memorial Day是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "jd-618",
+      "name": 618,
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 6,
+      "day": 18,
+      "icon": "📦",
+      "date": "2026-06-18",
+      "countdown": 83,
+      "year": 2026,
+      "origin": "618是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "dragon-boat",
+      "name": "端午节",
+      "market": "CN",
+      "type": "traditional",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 6,
+      "day": 19,
+      "icon": "🚣",
+      "date": "2026-06-19",
+      "countdown": 84,
+      "year": 2026,
+      "origin": "端午节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
+    },
+    {
+      "slug": "fathers-day",
+      "name": "父亲节",
+      "market": "US",
+      "type": "holiday",
+      "priority": 3,
+      "rule": "nth_weekday",
+      "month": 6,
+      "weekday": 6,
+      "nth": 3,
+      "icon": "👔",
+      "date": "2026-06-21",
+      "countdown": 86,
+      "year": 2026,
+      "origin": "父亲节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "independence-day",
+      "name": "独立日",
+      "market": "US",
+      "type": "holiday",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 7,
+      "day": 4,
+      "icon": "🎆",
+      "date": "2026-07-04",
+      "countdown": 99,
+      "year": 2026,
+      "origin": "独立日是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "prime-day",
+      "name": "Prime Day",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 7,
+      "day": 15,
+      "icon": "⚡",
+      "date": "2026-07-15",
+      "countdown": 110,
+      "year": 2026,
+      "origin": "Prime Day是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "back-to-school",
+      "name": "返校季",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 8,
+      "day": 15,
+      "icon": "🎒",
+      "date": "2026-08-15",
+      "countdown": 141,
+      "year": 2026,
+      "origin": "返校季是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "qixi",
+      "name": "七夕",
+      "market": "CN",
+      "type": "traditional",
+      "priority": 2,
+      "rule": "fixed",
+      "month": 8,
+      "day": 19,
+      "icon": "💗",
+      "date": "2026-08-19",
+      "countdown": 145,
+      "year": 2026,
+      "origin": "七夕是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
+    },
+    {
+      "slug": "labor-day-us",
+      "name": "Labor Day",
+      "market": "US",
+      "type": "holiday",
+      "priority": 4,
+      "rule": "nth_weekday",
+      "month": 9,
+      "weekday": 0,
+      "nth": 1,
+      "icon": "🛍️",
+      "date": "2026-09-07",
+      "countdown": 164,
+      "year": 2026,
+      "origin": "Labor Day是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "mid-autumn",
+      "name": "中秋节",
+      "market": "CN",
+      "type": "traditional",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 9,
+      "day": 25,
+      "icon": "🌕",
+      "date": "2026-09-25",
+      "countdown": 182,
+      "year": 2026,
+      "origin": "中秋节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
+    },
+    {
+      "slug": "national-day-cn",
+      "name": "国庆节",
+      "market": "CN",
+      "type": "holiday",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 10,
+      "day": 1,
+      "icon": "🇨🇳",
+      "date": "2026-10-01",
+      "countdown": 188,
+      "year": 2026,
+      "origin": "国庆节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
+    },
+    {
+      "slug": "halloween",
+      "name": "万圣节",
+      "market": "US",
+      "type": "holiday",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 10,
+      "day": 31,
+      "icon": "🎃",
+      "date": "2026-10-31",
+      "countdown": 218,
+      "year": 2026,
+      "origin": "万圣节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "double-11",
+      "name": "双11",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 11,
+      "day": 11,
+      "icon": "🛒",
+      "date": "2026-11-11",
+      "countdown": 229,
+      "year": 2026,
+      "origin": "双11是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "感恩节",
+      "market": "US",
+      "type": "holiday",
+      "priority": 5,
+      "rule": "nth_weekday",
+      "month": 11,
+      "weekday": 3,
+      "nth": 4,
+      "icon": "🦃",
+      "date": "2026-11-26",
+      "countdown": 244,
+      "year": 2026,
+      "origin": "感恩节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "black-friday",
+      "name": "黑五",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 5,
+      "rule": "relative_to",
+      "ref_slug": "thanksgiving",
+      "offset_days": 1,
+      "icon": "🖤",
+      "date": "2026-11-27",
+      "countdown": 245,
+      "year": 2026,
+      "origin": "黑五是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "cyber-monday",
+      "name": "网一",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 5,
+      "rule": "relative_to",
+      "ref_slug": "thanksgiving",
+      "offset_days": 4,
+      "icon": "💻",
+      "date": "2026-11-30",
+      "countdown": 248,
+      "year": 2026,
+      "origin": "网一是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    }
+  ],
+  "us_timezones": [
+    {
+      "name": "Eastern",
+      "abbr": "ET"
+    },
+    {
+      "name": "Central",
+      "abbr": "CT"
+    },
+    {
+      "name": "Mountain",
+      "abbr": "MT"
+    },
+    {
+      "name": "Pacific",
+      "abbr": "PT"
+    },
+    {
+      "name": "Alaska",
+      "abbr": "AKT"
+    },
+    {
+      "name": "Hawaii",
+      "abbr": "HST"
+    }
+  ],
+  "lead_story": {
+    "title": "The Best Noise-Canceling Headphone Deals from Sony, Bose, and Beats for Amazon's Big Spring Sale - Consequence of Sound",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5\" target=\"_blank\">The Best Noise-Canceling Headphone Deals from Sony, Bose, a",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5",
+    "published": "Wed, 25 Mar 2026 07:02:10 GMT",
+    "published_iso": "2026-03-25T07:02:10+00:00",
+    "source": "Google News - Competitor Watch",
+    "bucket": "consumer_electronics",
+    "hours_since_published": 48.1,
+    "freshness_label": "近3天",
+    "monitor_hits": {
+      "brands": [
+        "Bose",
+        "Sony",
+        "Beats"
+      ],
+      "channels": [
+        "Amazon"
+      ],
+      "categories": [
+        "headphone"
+      ]
+    },
+    "_score": 348,
+    "display_title": "亚马逊春季大促：索尼、博斯、Beats降噪耳机特",
+    "tags": [
+      "🎧 耳机音频",
+      "🏬 平台电商",
+      "💰 价格促销"
+    ],
+    "impact_area": "电商",
+    "importance": "高",
+    "business_note": "针对亚马逊春季大促，优化耳机类产品的电商营销策略，提升销量。",
+    "suggested_action": "加强与Bose、Sony、Beats的合作，制定针对性促销活动。"
+  },
+  "lead_summary": "亚马逊春季大促将加剧耳机市场竞争，品牌需迅速调整策略以提升销量。",
+  "headline_trio": [
+    {
+      "title": "The Best Noise-Canceling Headphone Deals from Sony, Bose, and Beats for Amazon's Big Spring Sale - Consequence of Sound",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5\" target=\"_blank\">The Best Noise-Canceling Headphone Deals from Sony, Bose, a",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5",
+      "published": "Wed, 25 Mar 2026 07:02:10 GMT",
+      "published_iso": "2026-03-25T07:02:10+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 48.1,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose",
+          "Sony",
+          "Beats"
+        ],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 348,
+      "display_title": "亚马逊春季大促：索尼、博斯、Beats降噪耳机特",
+      "tags": [
+        "🎧 耳机音频",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "针对亚马逊春季大促，优化耳机类产品的电商营销策略，提升销量。",
+      "suggested_action": "加强与Bose、Sony、Beats的合作，制定针对性促销活动。"
+    },
+    {
+      "title": "Amazon and Walmart Move the Retail War Past the Buy Button - PYMNTS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5\" target=\"_blank\">Amazon and Walmart Move t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5",
+      "published": "Thu, 26 Mar 2026 17:52:05 GMT",
+      "published_iso": "2026-03-26T17:52:05+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 13.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 342,
+      "display_title": "亚马逊与沃尔玛推动零售战升级",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊和沃尔玛的竞争加剧，影响电商销售策略和品牌曝光。",
+      "suggested_action": "优化电商平台策略，增强品牌在亚马逊和沃尔玛的市场表现。"
+    },
+    {
+      "title": "I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZH",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5",
+      "published": "Thu, 26 Mar 2026 10:57:48 GMT",
+      "published_iso": "2026-03-26T10:57:48+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 20.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Shokz"
+        ],
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
+      },
+      "_score": 305,
+      "display_title": "两周跑步体验：Shokz OpenRun Pro",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Shokz OpenRun Pro 2 骨传导耳机适合跑步者，提升品牌影响力。",
+      "suggested_action": "加强电商平台推广，吸引更多跑步爱好者关注。"
     }
   ],
   "consumer_electronics": [
     {
-      "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
-      "url": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
-      "published": "2026-03-17T16:47:35-04:00",
-      "source": "The Verge",
+      "title": "The Best Noise-Canceling Headphone Deals from Sony, Bose, and Beats for Amazon's Big Spring Sale - Consequence of Sound",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5\" target=\"_blank\">The Best Noise-Canceling Headphone Deals from Sony, Bose, a",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5",
+      "published": "Wed, 25 Mar 2026 07:02:10 GMT",
+      "published_iso": "2026-03-25T07:02:10+00:00",
+      "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "display_title": "I went to the Pentagon to watch Pete Hegseth scold war reporters"
+      "hours_since_published": 48.1,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose",
+          "Sony",
+          "Beats"
+        ],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 348,
+      "display_title": "亚马逊春季大促：索尼、博斯、Beats降噪耳机特",
+      "tags": [
+        "🎧 耳机音频",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "针对亚马逊春季大促，优化耳机类产品的电商营销策略，提升销量。",
+      "suggested_action": "加强与Bose、Sony、Beats的合作，制定针对性促销活动。"
     },
     {
-      "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
-      "url": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
-      "published": "2026-03-17T16:38:08-04:00",
-      "source": "The Verge",
+      "title": "I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZH",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5",
+      "published": "Thu, 26 Mar 2026 10:57:48 GMT",
+      "published_iso": "2026-03-26T10:57:48+00:00",
+      "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "display_title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale"
+      "hours_since_published": 20.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Shokz"
+        ],
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
+      },
+      "_score": 305,
+      "display_title": "两周跑步体验：Shokz OpenRun Pro",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Shokz OpenRun Pro 2 骨传导耳机适合跑步者，提升品牌影响力。",
+      "suggested_action": "加强电商平台推广，吸引更多跑步爱好者关注。"
     },
     {
-      "title": "Remedy’s live-service shooter Firebreak is getting its final major update",
-      "url": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
-      "published": "2026-03-17T15:36:45-04:00",
-      "source": "The Verge",
+      "title": "H2O Audio Tri Run Review: These Open-Ear Headphones Are a Good Value, but You Might Want to Spend More - Lifehacker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5\" target=\"_blank\">H2O Audio Tri Run Review: These Open-Ear Headphones Are a Good ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5",
+      "published": "Mon, 23 Mar 2026 21:30:00 GMT",
+      "published_iso": "2026-03-23T21:30:00+00:00",
+      "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "display_title": "Remedy’s live-service shooter Firebreak is getting its final major update"
+      "hours_since_published": 81.7,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "open-ear",
+          "headphone"
+        ]
+      },
+      "_score": 281,
+      "display_title": "H2O Audio Tri Run评测：开放耳机",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "中",
+      "business_note": "H2O Audio Tri Run耳机性价比高，适合注重性价比的消费者。",
+      "suggested_action": "加强电商平台的推广，吸引更多注重性价比的用户。"
     },
     {
-      "title": "Spotify adds &#8216;Exclusive Mode&#8217; audiophile feature for Windows PCs",
-      "url": "https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows",
-      "published": "2026-03-17T15:33:29-04:00",
-      "source": "The Verge",
+      "title": "The Amazon Big Spring Sale Is Knocking 20% Off Our Favorite Bone-Conduction Headphones - CNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnBoVWR5NWNpc3VsLWxncE0yRHpUSHkwZldIZnpfdnZ5aHJSVlpfZ0R4dmtLQVNLZ2FGWEFWazJ3Z05TZE1RWUpISnRpbmcyWnlXWFphMHFZZlFQNGR4YmNfV1NwOGxJV2ZBT2dRYTRDVWNqNk1QUGZ0NXNvSHI3YTlBTVkzX29iVGw5YWFxR01ZQ3hLM0JDSFA0aWxsZkVa?oc=5\" target=\"_blank\">The Amazon Big Spring Sale Is K",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnBoVWR5NWNpc3VsLWxncE0yRHpUSHkwZldIZnpfdnZ5aHJSVlpfZ0R4dmtLQVNLZ2FGWEFWazJ3Z05TZE1RWUpISnRpbmcyWnlXWFphMHFZZlFQNGR4YmNfV1NwOGxJV2ZBT2dRYTRDVWNqNk1QUGZ0NXNvSHI3YTlBTVkzX29iVGw5YWFxR01ZQ3hLM0JDSFA0aWxsZkVa?oc=5",
+      "published": "Wed, 25 Mar 2026 21:00:00 GMT",
+      "published_iso": "2026-03-25T21:00:00+00:00",
+      "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "display_title": "Spotify adds &#8216;Exclusive Mode&#8217; audiophile feature for Windows PCs"
+      "hours_since_published": 34.2,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
+      },
+      "_score": 228,
+      "display_title": "亚马逊春季大促：骨传导耳机降价20%",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊春季大促销将对骨传导耳机销售产生积极影响。",
+      "suggested_action": "加强电商平台的促销活动，提升品牌曝光率。"
     },
     {
-      "title": "Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not working yet",
-      "url": "https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems",
-      "published": "2026-03-17T14:45:14-04:00",
-      "source": "The Verge",
+      "title": "Sennheiser's Consumer Division Is Being Sold. Again. - Headphones.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGtSbjZKN1FjNnlndHJDVS1mVGhWMERLWmE3U2YwSFNpLW0wS3dpYURMdjhtakVySTRzSGpQN1ViNjJPYV9BdUJLbkxuZWpldlpmeENUZ2lVaVhhVzN2NE5fTk55RnBGaHZqUmJfQ1VWelp1eVpxS1U0OERXLXo1S1ZVU1JNWmxEdGdaWWVhSWs?oc=5\" target=\"_blank\">Sennheiser's Consumer Division Is Being Sold. Again.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGtSbjZKN1FjNnlndHJDVS1mVGhWMERLWmE3U2YwSFNpLW0wS3dpYURMdjhtakVySTRzSGpQN1ViNjJPYV9BdUJLbkxuZWpldlpmeENUZ2lVaVhhVzN2NE5fTk55RnBGaHZqUmJfQ1VWelp1eVpxS1U0OERXLXo1S1ZVU1JNWmxEdGdaWWVhSWs?oc=5",
+      "published": "Tue, 24 Mar 2026 04:40:33 GMT",
+      "published_iso": "2026-03-24T04:40:33+00:00",
+      "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "display_title": "Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not "
+      "hours_since_published": 74.5,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Sennheiser"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 227,
+      "display_title": "森海塞尔消费部门再次出售 - Headphone",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Sennheiser消费部门再次出售，可能影响品牌形象和市场份额。",
+      "suggested_action": "加强品牌营销策略，提升消费者对Sennheiser的认知和忠诚度。"
     },
     {
-      "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
-      "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-      "published": "2026-03-17T14:00:00-04:00",
-      "source": "The Verge",
+      "title": "I’m a headphones-tester — My favorites start under $20 at Amazon’s Spring Sale - AOL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1CLTBhcEk3WlhvbkFYZVdJZ3RtWU9xbmlNelBMLVVncWNIU2JKSnRGQVVjRFFoaFBfckJjYXVXU0pYcFp3dmUwNmxmRUJNLVM4Y1hveS1EWjl6U1ZqUElka09qOVVHbHBJOUwyRGNYZVZ5UmpHODA5Mm9mbw?oc=5\" target=\"_blank\">I’m a headphones-tester — My favorites start under $20 at Amazon’s Spring Sale</a",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CLTBhcEk3WlhvbkFYZVdJZ3RtWU9xbmlNelBMLVVncWNIU2JKSnRGQVVjRFFoaFBfckJjYXVXU0pYcFp3dmUwNmxmRUJNLVM4Y1hveS1EWjl6U1ZqUElka09qOVVHbHBJOUwyRGNYZVZ5UmpHODA5Mm9mbw?oc=5",
+      "published": "Wed, 25 Mar 2026 19:32:00 GMT",
+      "published_iso": "2026-03-25T19:32:00+00:00",
+      "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "display_title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse"
-    },
-    {
-      "title": "Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop",
-      "url": "https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026",
-      "published": "2026-03-17T13:29:48-04:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "display_title": "Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop"
-    },
-    {
-      "title": "The messiah rises in Dune: Part Three’s new trailer",
-      "url": "https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date",
-      "published": "2026-03-17T13:01:14-04:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "display_title": "The messiah rises in Dune: Part Three’s new trailer"
-    },
-    {
-      "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
-      "published": "2026-03-17T12:33:41-04:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "display_title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI"
+      "hours_since_published": 35.6,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 210,
+      "display_title": "亚马逊春季特卖：我推荐的20美元以下耳机",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊春季促销中，低价耳机受欢迎，需抓住电商机会。",
+      "suggested_action": "加强电商推广，重点推荐低价耳机，提升销量。"
     }
   ],
   "channel_news": [
     {
-      "title": "Target’s Tech Chief Has a Central Role in the Retailer’s Turnaround Plan",
-      "url": "https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/",
-      "published": "Mon, 16 Mar 2026 19:12:35 +0000",
-      "source": "RetailWire",
+      "title": "Amazon and Walmart Move the Retail War Past the Buy Button - PYMNTS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5\" target=\"_blank\">Amazon and Walmart Move t",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5",
+      "published": "Thu, 26 Mar 2026 17:52:05 GMT",
+      "published_iso": "2026-03-26T17:52:05+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "display_title": "Target’s Tech Chief Has a Central Role in the Retailer’s Turnaround Plan"
+      "hours_since_published": 13.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 342,
+      "display_title": "亚马逊与沃尔玛推动零售战升级",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊和沃尔玛的竞争加剧，影响电商销售策略和品牌曝光。",
+      "suggested_action": "优化电商平台策略，增强品牌在亚马逊和沃尔玛的市场表现。"
     },
     {
-      "title": "State lawmakers draft rounding rules as U.S. Mint stops penny production",
-      "url": "https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/",
-      "published": "Mon, 16 Mar 2026 15:44:53 +0000",
-      "source": "RetailWire",
+      "title": "Walmart quietly closes in on Amazon’s biggest lead - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXEyRGhUcnhDX1lmMDBrUTVfQ3NzQUJTc3B3UjFCUUNHOTROOGhVeHI4VWZOQVZoRFdNRlhoTjU5cFB3MnRKX3ZQY1hFOGh0TGloMDNYYnRzN2JmVE93dWZxN2lzYVJ1RWpWU2VvS2didWI4ZE1rdzBSd0VzTEVocGg4SjA1VnFzR1p3?oc=5\" target=\"_blank\">Walmart quietly closes in on Amazon’s biggest lead</a>&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXEyRGhUcnhDX1lmMDBrUTVfQ3NzQUJTc3B3UjFCUUNHOTROOGhVeHI4VWZOQVZoRFdNRlhoTjU5cFB3MnRKX3ZQY1hFOGh0TGloMDNYYnRzN2JmVE93dWZxN2lzYVJ1RWpWU2VvS2didWI4ZE1rdzBSd0VzTEVocGg4SjA1VnFzR1p3?oc=5",
+      "published": "Thu, 26 Mar 2026 18:13:05 GMT",
+      "published_iso": "2026-03-26T18:13:05+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "display_title": "State lawmakers draft rounding rules as U.S. Mint stops penny production"
+      "hours_since_published": 13.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 304,
+      "display_title": "沃尔玛悄然追赶亚马逊市场领先地位",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Walmart正在缩小与Amazon的差距，电商竞争加剧，需关注市场动态。",
+      "suggested_action": "加强电商平台的品牌营销，提升用户体验以应对竞争。"
     },
     {
-      "title": "Top 10 Retail Tech at eTail West 2026",
-      "url": "https://retailwire.com/top-10-retail-tech-at-etail-west-2026/",
-      "published": "Tue, 03 Mar 2026 15:31:34 +0000",
-      "source": "RetailWire",
+      "title": "Should you shop Best Buy's competing Amazon tech deals today? - USA Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWJTTmFJTE9OU0Qwb2ZGREVJdlNYZXRYZlFEQTVoLXJjb1VVbkpEQWRRZzBTeUh3V0JlMjJqWk1DRUE1bFBHQk41Tk9NYWdvWkdLVEtUbm90VnlTWmFsSzFKbTdfbEZVRzNmVVRsdDdOUWVxakE1Nk9RcU02QVhsMkx0cXZMZTI2VWhhV1JGT0N4OHRzcENVSjhn?oc=5\" target=\"_blank\">Should you shop Best Buy's competing Am",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWJTTmFJTE9OU0Qwb2ZGREVJdlNYZXRYZlFEQTVoLXJjb1VVbkpEQWRRZzBTeUh3V0JlMjJqWk1DRUE1bFBHQk41Tk9NYWdvWkdLVEtUbm90VnlTWmFsSzFKbTdfbEZVRzNmVVRsdDdOUWVxakE1Nk9RcU02QVhsMkx0cXZMZTI2VWhhV1JGT0N4OHRzcENVSjhn?oc=5",
+      "published": "Thu, 26 Mar 2026 17:43:00 GMT",
+      "published_iso": "2026-03-26T17:43:00+00:00",
+      "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "display_title": "Top 10 Retail Tech at eTail West 2026"
+      "hours_since_published": 13.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 302,
+      "display_title": "今日Best Buy与亚马逊科技优惠对比分析",
+      "tags": [
+        "🎧 耳机音频",
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "电商竞争加剧，需关注Best Buy与Amazon的价格策略。",
+      "suggested_action": "建议优化电商平台的促销策略，提升竞争力。"
     },
     {
-      "title": "L.L.Bean Appoints Greg Elder as CEO, Prioritizes Brand Legacy and Expansion",
-      "url": "https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/",
-      "published": "Sat, 10 Jan 2026 00:45:59 +0000",
-      "source": "RetailWire",
+      "title": "Amazon and Walmart fined for selling banned refrigerant in WA - Washington State Standard",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaW91dWxqVF83b3h2QUZtRF9HTUlaS29JZ2wxME1ZSjVkVDBlSGtFMmNraVVBMTZkTmNpTFRzSkpEdW16U1V4b21mUUNXZmN6Y083VVh1MzdINVdjUlJVZllFclhfaElPbFJjUF8ydi1VNVhDZzBmLVlBdUMxWGpYLUNaNkI5dWVXSG5xSmVLT2xPcHBJbEIza2FxampENWtLekVwUWxxTUE?oc=5\" target=\"_blank\">Amazon and Walmart f",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaW91dWxqVF83b3h2QUZtRF9HTUlaS29JZ2wxME1ZSjVkVDBlSGtFMmNraVVBMTZkTmNpTFRzSkpEdW16U1V4b21mUUNXZmN6Y083VVh1MzdINVdjUlJVZllFclhfaElPbFJjUF8ydi1VNVhDZzBmLVlBdUMxWGpYLUNaNkI5dWVXSG5xSmVLT2xPcHBJbEIza2FxampENWtLekVwUWxxTUE?oc=5",
+      "published": "Tue, 24 Mar 2026 21:01:28 GMT",
+      "published_iso": "2026-03-24T21:01:28+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "display_title": "L.L.Bean Appoints Greg Elder as CEO, Prioritizes Brand Legacy and Expansion"
+      "hours_since_published": 58.2,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 289,
+      "display_title": "亚马逊和沃尔玛因售禁用制冷剂在华盛顿遭罚",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊和沃尔玛因销售禁用制冷剂被罚，影响电商声誉。",
+      "suggested_action": "加强合规审查，确保产品符合当地法规，维护品牌形象。"
     },
     {
-      "title": "“No Contract, No Coffee”: Starbucks’ Red Cup Day Turns Into “Red Cup Rebellion” as Politicians Join Boycott",
-      "url": "https://retailwire.com/starbucks-red-cup-rebellion/",
-      "published": "Sat, 15 Nov 2025 16:34:48 +0000",
-      "source": "RetailWire",
+      "title": "Amazon wants to eat Costco’s lunch in Chicago’s suburbs - Crain's Chicago Business",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU90WVJSVnhrX0VxdWhsSzRqODZaSnF2VGZ5dW9VbFBKSXJCQkFJM0RJZExYWWtWc3B1Rk95OUlZQm5oaFNwbkFXV0R2Tkw3aWhJbTBNOEVndDdTOVNLWE5NNVhZSkhXNjlrVDIwalM0bVZfYU1uUjdCOEU1SVF1eFBRYmxHVmRy?oc=5\" target=\"_blank\">Amazon wants to eat Costco’s lunch in Chicago’s suburbs</a>&nbs",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU90WVJSVnhrX0VxdWhsSzRqODZaSnF2VGZ5dW9VbFBKSXJCQkFJM0RJZExYWWtWc3B1Rk95OUlZQm5oaFNwbkFXV0R2Tkw3aWhJbTBNOEVndDdTOVNLWE5NNVhZSkhXNjlrVDIwalM0bVZfYU1uUjdCOEU1SVF1eFBRYmxHVmRy?oc=5",
+      "published": "Fri, 20 Mar 2026 10:50:00 GMT",
+      "published_iso": "2026-03-20T10:50:00+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "display_title": "“No Contract, No Coffee”: Starbucks’ Red Cup Day Turns Into “Red Cup Rebellion” "
+      "hours_since_published": 164.3,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Costco"
+        ],
+        "categories": []
+      },
+      "_score": 282,
+      "display_title": "亚马逊欲在芝加哥郊区挑战好市多",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊在芝加哥郊区的扩张将直接影响电商市场竞争格局。",
+      "suggested_action": "加强电商平台的品牌营销，提升用户粘性。"
     },
     {
-      "title": "Walmart’s Sixth CEO: John Furner to Take the Helm as McMillon Steps Down",
-      "url": "https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/",
-      "published": "Sat, 15 Nov 2025 16:11:31 +0000",
-      "source": "RetailWire",
+      "title": "Best Buy's competing Amazon tech deals are worth a look today - The News Leader | Staunton, VA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWpPbm5oQ2xNQ0FyLTNWMGljeHlGeEVBUVJEYnprblNMOG1FcUc0dVc2OXBkMkRRYUVjLTlkcnViMU55T0VYU0s3SHFtbEwwNzA3Z2dOa204YzloREVmNW9WM09yTS1qU3NhWDRab2pOZ2lpR1o5VFdiXzhxY1pKX2VFb3k3bE5FNUxwS3p2cFdocmpzRDRBWE5WTFk?oc=5\" target=\"_blank\">Best Buy's competing Amazon tech dea",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWpPbm5oQ2xNQ0FyLTNWMGljeHlGeEVBUVJEYnprblNMOG1FcUc0dVc2OXBkMkRRYUVjLTlkcnViMU55T0VYU0s3SHFtbEwwNzA3Z2dOa204YzloREVmNW9WM09yTS1qU3NhWDRab2pOZ2lpR1o5VFdiXzhxY1pKX2VFb3k3bE5FNUxwS3p2cFdocmpzRDRBWE5WTFk?oc=5",
+      "published": "Wed, 25 Mar 2026 15:10:29 GMT",
+      "published_iso": "2026-03-25T15:10:29+00:00",
+      "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "display_title": "Walmart’s Sixth CEO: John Furner to Take the Helm as McMillon Steps Down"
-    },
-    {
-      "title": "Firehouse Subs Brings on Carolina Berti as CMO for U.S. and Canada",
-      "url": "https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/",
-      "published": "Fri, 03 Oct 2025 18:02:27 +0000",
-      "source": "RetailWire",
-      "bucket": "channel_news",
-      "display_title": "Firehouse Subs Brings on Carolina Berti as CMO for U.S. and Canada"
-    },
-    {
-      "title": "Nike at a Crossroads: Q1 2026 Results Reveal Rebound, Headwinds, and a Strategic Reset",
-      "url": "https://retailwire.com/nike-at-a-crossroads-q1-2026-results-reveal-rebound-headwinds-and-a-strategic-reset/",
-      "published": "Wed, 03 Sep 2025 13:48:00 +0000",
-      "source": "RetailWire",
-      "bucket": "channel_news",
-      "display_title": "Nike at a Crossroads: Q1 2026 Results Reveal Rebound, Headwinds, and a Strategic"
-    },
-    {
-      "title": "IKEA and Best Buy Launch Shop-in-Shop Pilot Across 10 Stores in Florida and Texas",
-      "url": "https://retailwire.com/ikea-best-buy-pilot-florida-texas/",
-      "published": "Tue, 05 Aug 2025 15:35:22 +0000",
-      "source": "RetailWire",
-      "bucket": "channel_news",
-      "display_title": "IKEA and Best Buy Launch Shop-in-Shop Pilot Across 10 Stores in Florida and Texa"
+      "hours_since_published": 40.0,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 279,
+      "display_title": "今日Best Buy与亚马逊竞争的科技优惠值得关",
+      "tags": [
+        "🎧 耳机音频",
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Best Buy与亚马逊的竞争促销活动值得关注，可能影响电商销售表现。",
+      "suggested_action": "建议加强电商平台的促销策略，提升品牌竞争力。"
     }
   ],
   "products": [
     {
-      "name": "Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops",
-      "summary": "Intel has a pair of new flagship CPUs coming to a variety of pricey gaming laptops: the Core Ultra 9 290 HX Plus and Cor",
-      "date": "2026-03-17T11:50",
-      "url": "https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu",
+      "name": "I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYaj",
+      "date": "Thu, 26 Mar 2026 10:57:48",
+      "published_iso": "2026-03-26T10:57:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5",
+      "source": "Google News - Audio Wearable Watch",
+      "_score": 105,
+      "hours_since_published": 20.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Shokz"
+        ],
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
+      },
+      "display_title": "两周体验：Shokz OpenRun Pro 2",
+      "display_summary": "某科技公司发布新款智能设备，预计将提升市场竞争力，推动销售增长。",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Shokz OpenRun Pro 2在跑步耳机市场表现突出，有助于提升品牌知名度。",
+      "suggested_action": "加大电商平台推广力度，吸引更多跑步爱好者关注。"
+    },
+    {
+      "name": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale",
+      "summary": "A good robovac can save you a surprising amount of time. Luckily, Amazon’s Big Spring Sale is a great time to pick one up, as you can currently find deals on everything from basic, budget-friendly robovacs to high-end models that can mop or pick up objects. Wh",
+      "date": "2026-03-26T18:30:00-04:00",
+      "published_iso": "2026-03-26T22:30:00+00:00",
+      "url": "https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals",
       "source": "The Verge",
-      "score": 2
+      "_score": 67,
+      "hours_since_published": 8.7,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": []
+      },
+      "display_title": "Eufy和Roborock扫地机器人春季促销超5",
+      "display_summary": "亚马逊春季大促销中，消费者可找到多款性价比高的扫地机器人，涵盖基础款到高端拖地型号。",
+      "tags": [
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊春季促销为电商渠道提供了重要的销售机会。",
+      "suggested_action": "加强电商营销策略，提升机器人吸尘器的曝光率。"
     },
     {
-      "name": "The messiah rises in Dune: Part Three’s new trailer",
-      "summary": "First comes love, then comes marriage, then comes a portentous set of twin babies in the new trailer for Dune: Part Thre",
-      "date": "2026-03-17T13:01",
-      "url": "https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date",
+      "name": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, wil",
+      "date": "2026-03-26T17:31:27-04:00",
+      "published_iso": "2026-03-26T21:31:27+00:00",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
       "source": "The Verge",
-      "score": 1
+      "_score": 51,
+      "hours_since_published": 9.7,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "苹果将允许其他AI聊天机器人接入Siri",
+      "display_summary": "苹果iOS 27更新将支持用户选择与Siri链接的AI聊天机器人，包括谷歌的Gemini和A",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "Apple允许第三方AI聊天机器人接入Siri，将影响渠道销售策略。",
+      "suggested_action": "积极评估与第三方AI聊天机器人的合作机会，优化销售渠道。"
     },
     {
-      "name": "A new Google TV projector just arrived to make streaming easier (and c",
-      "summary": "Simplified streaming just got cheaper.",
-      "date": "Tue, 17 Mar 2026",
-      "url": "https://www.androidauthority.com/wanbo-vali-1-pro-launch-3649898/",
-      "source": "Android Authority",
-      "score": 1
+      "name": "David Sacks is no longer the White House AI and Crypto Czar",
+      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee",
+      "date": "2026-03-26T19:40:22-04:00",
+      "published_iso": "2026-03-26T23:40:22+00:00",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 7.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "大卫·萨克斯辞去白宫AI与加密货币职务",
+      "display_summary": "风险投资家大卫·萨克斯宣布不再担任特别政府雇员，曾是硅谷在白宫的主要倡导者及AI政策的关键设",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "中",
+      "business_note": "David Sacks的离职可能影响政府对AI政策的支持，需关注品牌营销策略调整。",
+      "suggested_action": "加强与政府关系，积极参与AI政策讨论，提升品牌影响力。"
     },
     {
-      "name": "Some Galaxy S26 Ultra owners say they had to return the phone over the",
-      "summary": "The users say the display is causing them eye strain, nausea, and other symptoms.",
-      "date": "Tue, 17 Mar 2026",
-      "url": "https://www.androidauthority.com/some-galaxy-s26-ultra-eye-strain-complaints-3649803/",
-      "source": "Android Authority",
-      "score": 1
+      "name": "Google is making it easier to import another AI’s memory into Gemini",
+      "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI al",
+      "date": "2026-03-26T17:44:37-04:00",
+      "published_iso": "2026-03-26T21:44:37+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 9.4,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "谷歌简化AI记忆导入Gemini流程",
+      "display_summary": "谷歌Gemini在桌面推出“导入记忆”和“导入聊天记录”功能，方便用户快速复制当前AI的所有",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "中",
+      "business_note": "Google推出新功能，有助于提升用户体验，增强品牌竞争力。",
+      "suggested_action": "关注新功能对品牌营销的影响，优化推广策略。"
     },
     {
-      "name": "Gemini preps some powerful new tools for editing Nano Banana images",
-      "summary": "You’ll soon be able to describe Gemini image edits as you mark them up.",
-      "date": "Tue, 17 Mar 2026",
-      "url": "https://www.androidauthority.com/gemini-image-markup-2-3649763/",
-      "source": "Android Authority",
-      "score": 1
-    },
-    {
-      "name": "Spotify rolls out its bold new smartwatch app experience on Wear OS",
-      "summary": "The update features a gesture-based navigation system and an immersive view with large album art right on your wrist.",
-      "date": "Tue, 17 Mar 2026",
-      "url": "https://www.androidauthority.com/spotify-wear-os-app-redesign-rollout-3649744/",
-      "source": "Android Authority",
-      "score": 1
+      "name": "Anker’s wireless charging pad offers Qi2 speeds for $15",
+      "summary": "I’ve probably saved minutes of my life by using a wireless charging puck. Minutes! More valuable than that, I’ve saved myself from bending over numerous times to pick up my USB-C cable that somehow always ends up on the floor. Those with magnet-equipped phones",
+      "date": "2026-03-26T17:00:00-04:00",
+      "published_iso": "2026-03-26T21:00:00+00:00",
+      "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 10.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Anker无线充电垫以15美元支持Qi2速度",
+      "display_summary": "无线充电器让我节省了时间，减少了捡起USB-C线的麻烦，提升了使用便利性。",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Anker推出的无线充电垫提升了充电效率，符合市场需求。",
+      "suggested_action": "加强电商平台的产品推广，提升品牌知名度。"
     }
-  ]
+  ],
+  "monitored_entities": [
+    {
+      "name": "Amazon",
+      "type": "渠道",
+      "count": 13,
+      "items": [
+        {
+          "title": "The Best Noise-Canceling Headphone Deals from Sony, Bose, and Beats for Amazon's Big Spring Sale - Consequence of Sound",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5\" target=\"_blank\">The Best Noise-Canceling Headphone Deals from Sony, Bose, a",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5",
+          "published": "Wed, 25 Mar 2026 07:02:10 GMT",
+          "published_iso": "2026-03-25T07:02:10+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 48.1,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose",
+              "Sony",
+              "Beats"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 348,
+          "display_title": "亚马逊春季大促：索尼、博斯、Beats降噪耳机特",
+          "tags": [
+            "🎧 耳机音频",
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "针对亚马逊春季大促，优化耳机类产品的电商营销策略，提升销量。",
+          "suggested_action": "加强与Bose、Sony、Beats的合作，制定针对性促销活动。"
+        },
+        {
+          "title": "Amazon and Walmart Move the Retail War Past the Buy Button - PYMNTS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5\" target=\"_blank\">Amazon and Walmart Move t",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5",
+          "published": "Thu, 26 Mar 2026 17:52:05 GMT",
+          "published_iso": "2026-03-26T17:52:05+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 13.3,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 342,
+          "display_title": "亚马逊与沃尔玛推动零售战升级",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊和沃尔玛的竞争加剧，影响电商销售策略和品牌曝光。",
+          "suggested_action": "优化电商平台策略，增强品牌在亚马逊和沃尔玛的市场表现。"
+        }
+      ]
+    },
+    {
+      "name": "headphone",
+      "type": "品类",
+      "count": 8,
+      "items": [
+        {
+          "title": "The Best Noise-Canceling Headphone Deals from Sony, Bose, and Beats for Amazon's Big Spring Sale - Consequence of Sound",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5\" target=\"_blank\">The Best Noise-Canceling Headphone Deals from Sony, Bose, a",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5",
+          "published": "Wed, 25 Mar 2026 07:02:10 GMT",
+          "published_iso": "2026-03-25T07:02:10+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 48.1,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose",
+              "Sony",
+              "Beats"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 348,
+          "display_title": "亚马逊春季大促：索尼、博斯、Beats降噪耳机特",
+          "tags": [
+            "🎧 耳机音频",
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "针对亚马逊春季大促，优化耳机类产品的电商营销策略，提升销量。",
+          "suggested_action": "加强与Bose、Sony、Beats的合作，制定针对性促销活动。"
+        },
+        {
+          "title": "I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZH",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5",
+          "published": "Thu, 26 Mar 2026 10:57:48 GMT",
+          "published_iso": "2026-03-26T10:57:48+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 20.2,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 305,
+          "display_title": "两周跑步体验：Shokz OpenRun Pro",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz OpenRun Pro 2 骨传导耳机适合跑步者，提升品牌影响力。",
+          "suggested_action": "加强电商平台推广，吸引更多跑步爱好者关注。"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "渠道",
+      "count": 5,
+      "items": [
+        {
+          "title": "Amazon and Walmart Move the Retail War Past the Buy Button - PYMNTS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5\" target=\"_blank\">Amazon and Walmart Move t",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5",
+          "published": "Thu, 26 Mar 2026 17:52:05 GMT",
+          "published_iso": "2026-03-26T17:52:05+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 13.3,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 342,
+          "display_title": "亚马逊与沃尔玛推动零售战升级",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊和沃尔玛的竞争加剧，影响电商销售策略和品牌曝光。",
+          "suggested_action": "优化电商平台策略，增强品牌在亚马逊和沃尔玛的市场表现。"
+        },
+        {
+          "title": "Walmart quietly closes in on Amazon’s biggest lead - thestreet.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXEyRGhUcnhDX1lmMDBrUTVfQ3NzQUJTc3B3UjFCUUNHOTROOGhVeHI4VWZOQVZoRFdNRlhoTjU5cFB3MnRKX3ZQY1hFOGh0TGloMDNYYnRzN2JmVE93dWZxN2lzYVJ1RWpWU2VvS2didWI4ZE1rdzBSd0VzTEVocGg4SjA1VnFzR1p3?oc=5\" target=\"_blank\">Walmart quietly closes in on Amazon’s biggest lead</a>&nbsp",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXEyRGhUcnhDX1lmMDBrUTVfQ3NzQUJTc3B3UjFCUUNHOTROOGhVeHI4VWZOQVZoRFdNRlhoTjU5cFB3MnRKX3ZQY1hFOGh0TGloMDNYYnRzN2JmVE93dWZxN2lzYVJ1RWpWU2VvS2didWI4ZE1rdzBSd0VzTEVocGg4SjA1VnFzR1p3?oc=5",
+          "published": "Thu, 26 Mar 2026 18:13:05 GMT",
+          "published_iso": "2026-03-26T18:13:05+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 13.0,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 304,
+          "display_title": "沃尔玛悄然追赶亚马逊市场领先地位",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Walmart正在缩小与Amazon的差距，电商竞争加剧，需关注市场动态。",
+          "suggested_action": "加强电商平台的品牌营销，提升用户体验以应对竞争。"
+        }
+      ]
+    },
+    {
+      "name": "bone conduction",
+      "type": "品类",
+      "count": 3,
+      "items": [
+        {
+          "title": "I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZH",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5",
+          "published": "Thu, 26 Mar 2026 10:57:48 GMT",
+          "published_iso": "2026-03-26T10:57:48+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 20.2,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 305,
+          "display_title": "两周跑步体验：Shokz OpenRun Pro",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz OpenRun Pro 2 骨传导耳机适合跑步者，提升品牌影响力。",
+          "suggested_action": "加强电商平台推广，吸引更多跑步爱好者关注。"
+        },
+        {
+          "title": "The Amazon Big Spring Sale Is Knocking 20% Off Our Favorite Bone-Conduction Headphones - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnBoVWR5NWNpc3VsLWxncE0yRHpUSHkwZldIZnpfdnZ5aHJSVlpfZ0R4dmtLQVNLZ2FGWEFWazJ3Z05TZE1RWUpISnRpbmcyWnlXWFphMHFZZlFQNGR4YmNfV1NwOGxJV2ZBT2dRYTRDVWNqNk1QUGZ0NXNvSHI3YTlBTVkzX29iVGw5YWFxR01ZQ3hLM0JDSFA0aWxsZkVa?oc=5\" target=\"_blank\">The Amazon Big Spring Sale Is K",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnBoVWR5NWNpc3VsLWxncE0yRHpUSHkwZldIZnpfdnZ5aHJSVlpfZ0R4dmtLQVNLZ2FGWEFWazJ3Z05TZE1RWUpISnRpbmcyWnlXWFphMHFZZlFQNGR4YmNfV1NwOGxJV2ZBT2dRYTRDVWNqNk1QUGZ0NXNvSHI3YTlBTVkzX29iVGw5YWFxR01ZQ3hLM0JDSFA0aWxsZkVa?oc=5",
+          "published": "Wed, 25 Mar 2026 21:00:00 GMT",
+          "published_iso": "2026-03-25T21:00:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 34.2,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 228,
+          "display_title": "亚马逊春季大促：骨传导耳机降价20%",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊春季大促销将对骨传导耳机销售产生积极影响。",
+          "suggested_action": "加强电商平台的促销活动，提升品牌曝光率。"
+        }
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 2,
+      "items": [
+        {
+          "title": "Should you shop Best Buy's competing Amazon tech deals today? - USA Today",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWJTTmFJTE9OU0Qwb2ZGREVJdlNYZXRYZlFEQTVoLXJjb1VVbkpEQWRRZzBTeUh3V0JlMjJqWk1DRUE1bFBHQk41Tk9NYWdvWkdLVEtUbm90VnlTWmFsSzFKbTdfbEZVRzNmVVRsdDdOUWVxakE1Nk9RcU02QVhsMkx0cXZMZTI2VWhhV1JGT0N4OHRzcENVSjhn?oc=5\" target=\"_blank\">Should you shop Best Buy's competing Am",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWJTTmFJTE9OU0Qwb2ZGREVJdlNYZXRYZlFEQTVoLXJjb1VVbkpEQWRRZzBTeUh3V0JlMjJqWk1DRUE1bFBHQk41Tk9NYWdvWkdLVEtUbm90VnlTWmFsSzFKbTdfbEZVRzNmVVRsdDdOUWVxakE1Nk9RcU02QVhsMkx0cXZMZTI2VWhhV1JGT0N4OHRzcENVSjhn?oc=5",
+          "published": "Thu, 26 Mar 2026 17:43:00 GMT",
+          "published_iso": "2026-03-26T17:43:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 13.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 302,
+          "display_title": "今日Best Buy与亚马逊科技优惠对比分析",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "电商竞争加剧，需关注Best Buy与Amazon的价格策略。",
+          "suggested_action": "建议优化电商平台的促销策略，提升竞争力。"
+        },
+        {
+          "title": "Best Buy's competing Amazon tech deals are worth a look today - The News Leader | Staunton, VA",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWpPbm5oQ2xNQ0FyLTNWMGljeHlGeEVBUVJEYnprblNMOG1FcUc0dVc2OXBkMkRRYUVjLTlkcnViMU55T0VYU0s3SHFtbEwwNzA3Z2dOa204YzloREVmNW9WM09yTS1qU3NhWDRab2pOZ2lpR1o5VFdiXzhxY1pKX2VFb3k3bE5FNUxwS3p2cFdocmpzRDRBWE5WTFk?oc=5\" target=\"_blank\">Best Buy's competing Amazon tech dea",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWpPbm5oQ2xNQ0FyLTNWMGljeHlGeEVBUVJEYnprblNMOG1FcUc0dVc2OXBkMkRRYUVjLTlkcnViMU55T0VYU0s3SHFtbEwwNzA3Z2dOa204YzloREVmNW9WM09yTS1qU3NhWDRab2pOZ2lpR1o5VFdiXzhxY1pKX2VFb3k3bE5FNUxwS3p2cFdocmpzRDRBWE5WTFk?oc=5",
+          "published": "Wed, 25 Mar 2026 15:10:29 GMT",
+          "published_iso": "2026-03-25T15:10:29+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 40.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 279,
+          "display_title": "今日Best Buy与亚马逊竞争的科技优惠值得关",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Best Buy与亚马逊的竞争促销活动值得关注，可能影响电商销售表现。",
+          "suggested_action": "建议加强电商平台的促销策略，提升品牌竞争力。"
+        }
+      ]
+    },
+    {
+      "name": "Shokz",
+      "type": "品牌",
+      "count": 2,
+      "items": [
+        {
+          "title": "I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZH",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5",
+          "published": "Thu, 26 Mar 2026 10:57:48 GMT",
+          "published_iso": "2026-03-26T10:57:48+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 20.2,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 305,
+          "display_title": "两周跑步体验：Shokz OpenRun Pro",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz OpenRun Pro 2 骨传导耳机适合跑步者，提升品牌影响力。",
+          "suggested_action": "加强电商平台推广，吸引更多跑步爱好者关注。"
+        },
+        {
+          "name": "I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYaj",
+          "date": "Thu, 26 Mar 2026 10:57:48",
+          "published_iso": "2026-03-26T10:57:48+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5",
+          "source": "Google News - Audio Wearable Watch",
+          "_score": 105,
+          "hours_since_published": 20.2,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "display_title": "两周体验：Shokz OpenRun Pro 2",
+          "display_summary": "某科技公司发布新款智能设备，预计将提升市场竞争力，推动销售增长。",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz OpenRun Pro 2在跑步耳机市场表现突出，有助于提升品牌知名度。",
+          "suggested_action": "加大电商平台推广力度，吸引更多跑步爱好者关注。"
+        }
+      ]
+    },
+    {
+      "name": "Costco",
+      "type": "渠道",
+      "count": 1,
+      "items": [
+        {
+          "title": "Amazon wants to eat Costco’s lunch in Chicago’s suburbs - Crain's Chicago Business",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU90WVJSVnhrX0VxdWhsSzRqODZaSnF2VGZ5dW9VbFBKSXJCQkFJM0RJZExYWWtWc3B1Rk95OUlZQm5oaFNwbkFXV0R2Tkw3aWhJbTBNOEVndDdTOVNLWE5NNVhZSkhXNjlrVDIwalM0bVZfYU1uUjdCOEU1SVF1eFBRYmxHVmRy?oc=5\" target=\"_blank\">Amazon wants to eat Costco’s lunch in Chicago’s suburbs</a>&nbs",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU90WVJSVnhrX0VxdWhsSzRqODZaSnF2VGZ5dW9VbFBKSXJCQkFJM0RJZExYWWtWc3B1Rk95OUlZQm5oaFNwbkFXV0R2Tkw3aWhJbTBNOEVndDdTOVNLWE5NNVhZSkhXNjlrVDIwalM0bVZfYU1uUjdCOEU1SVF1eFBRYmxHVmRy?oc=5",
+          "published": "Fri, 20 Mar 2026 10:50:00 GMT",
+          "published_iso": "2026-03-20T10:50:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 164.3,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Costco"
+            ],
+            "categories": []
+          },
+          "_score": 282,
+          "display_title": "亚马逊欲在芝加哥郊区挑战好市多",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊在芝加哥郊区的扩张将直接影响电商市场竞争格局。",
+          "suggested_action": "加强电商平台的品牌营销，提升用户粘性。"
+        }
+      ]
+    },
+    {
+      "name": "REI",
+      "type": "渠道",
+      "count": 1,
+      "items": [
+        {
+          "title": "REI faces possible anniversary sale boycott after abandoning labor talks",
+          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1wQ8_Iy1lM2h1z06yh00nvP3LzU-B58WWhmEGyBTZjo/g:nowe:0:1325/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNDAuanBn.webp\" /></div></figure><p>The REI Union, expressing confidence that the retailer&rsquo;s customers would j",
+          "url": "https://www.retaildive.com/news/rei-union-anniversary-sale-boycott/815830/",
+          "published": "Thu, 26 Mar 2026 11:41:00 -0400",
+          "published_iso": "2026-03-26T15:41:00+00:00",
+          "source": "Retail Dive",
+          "bucket": "channel_news",
+          "hours_since_published": 15.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "REI"
+            ],
+            "categories": []
+          },
+          "_score": 238,
+          "display_title": "REI周年促销或遭抵制，因放弃劳资谈判",
+          "tags": [
+            "🛒 渠道零售"
+          ],
+          "impact_area": "电商"
+        }
+      ]
+    }
+  ],
+  "takeaways": [
+    "亚马逊春季大促将进一步加剧耳机市场竞争，品牌需加快创新步伐。",
+    "沃尔玛追赶亚马逊的策略有效，未来可能改变电商格局。",
+    "Best Buy与亚马逊的科技优惠对比显示，价格战将持续影响消费者选择。",
+    "骨传导耳机降价20%或刺激新用户群体，品牌需抓住这一机会。",
+    "森海塞尔消费部门出售可能影响市场份额，竞争对手需密切关注。"
+  ],
+  "opportunity_signals": [
+    "针对亚马逊春季大促，优化耳机类产品的电商营销策略，将有助于提升销量并抢占市场份额。",
+    "随着沃尔玛逐步缩小与亚马逊的差距，需及时调整电商销售策略以保持竞争优势。",
+    "Shokz OpenRun Pro 骨传导耳机适合跑步者，借此机会可加强品牌影响力并拓展目标市场。"
+  ],
+  "risk_signals": [
+    "亚马逊与沃尔玛的竞争加剧，可能导致我们在市场份额和品牌曝光上的压力加大。",
+    "沃尔玛正在缩小与亚马逊的差距，需密切关注其电商策略变化，以防失去竞争优势。",
+    "亚马逊因销售禁用制冷剂遭罚，可能影响其品牌声誉，进而影响我们的合作与销售策略。"
+  ],
+  "feedback_items": [
+    "这期日报最有价值的是哪一块？",
+    "哪些内容你觉得太多、太少，或还缺失？",
+    "哪些品牌 / 平台 / 品类应该被提升到更高优先级？",
+    "哪些判断不够准确，应该怎么改？"
+  ],
+  "status": {
+    "consumer_count": 10,
+    "channel_count": 10,
+    "product_count": 6,
+    "source_summary": "消费电子 / 渠道 / 新品 三类源已完成抓取与筛选",
+    "freshness_rule": "24h后开始降权"
+  }
 }

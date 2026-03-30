@@ -612,13 +612,14 @@
         <h2 class="section-title">重点监控对象</h2>
         <div class="watch-grid">
           {% for entity in monitored_entities %}
+          {% set entity_items = entity.get("items", []) %}
           <article class="mini-card">
-            <div class="entity-type">{{ entity.type }}</div>
-            <h3>{{ entity.name }}</h3>
-            <div class="entity-count">命中 {{ entity.count }} 次</div>
-            {% if entity.items %}
+            <div class="entity-type">{{ entity["type"] }}</div>
+            <h3>{{ entity["name"] }}</h3>
+            <div class="entity-count">命中 {{ entity["count"] }} 次</div>
+            {% if entity_items %}
             <ul class="bullet-list" style="margin-top: 10px;">
-              {% for item in entity.items %}
+              {% for item in entity_items %}
               <li>{{ item.display_title or item.title or item.name }}</li>
               {% endfor %}
             </ul>

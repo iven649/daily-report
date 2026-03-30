@@ -401,12 +401,15 @@
       box-shadow: 0 14px 26px rgba(0, 0, 0, 0.06);
     }
 
-    .product-title {
+        .product-title {
+      display: block;
       font-size: 17px;
-      line-height: 1.45;
+      line-height: 1.35;
       font-weight: 680;
       margin-bottom: 8px;
-      display: inline-block;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .product-title:hover {
@@ -419,11 +422,39 @@
       margin-bottom: 10px;
     }
 
+    .product-summary-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
     .product-summary {
+      min-width: 0;
+      flex: 1;
       font-size: 14px;
       color: #44484f;
-      line-height: 1.75;
-      margin-bottom: 12px;
+      line-height: 1.6;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .judgement-pill {
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(17, 17, 17, 0.06);
+      background: #f7f7f8;
+      color: #4c5158;
+      font-size: 12px;
+      font-weight: 650;
+      line-height: 1;
+      white-space: nowrap;
     }
 
     .watch-grid {
@@ -650,14 +681,6 @@
           
           <div class="headline-item">
             <div class="headline-rank">Top 1</div>
-            <a class="headline-title" href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5" target="_blank">
-              The Best Noise-Canceling
-            </a>
-            <div class="headline-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
-          </div>
-          
-          <div class="headline-item">
-            <div class="headline-rank">Top 2</div>
             <a class="headline-title" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">
               Weekend Watchlist: I’ve 
             </a>
@@ -665,11 +688,19 @@
           </div>
           
           <div class="headline-item">
-            <div class="headline-rank">Top 3</div>
-            <a class="headline-title" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEFPYjRxejRtS0ZUSnIyZ2dRcWVUQldVOGxCMGpPdVFodGxGRTBXSnZzbHpkMXNpRDF4c3QyZF9Qc09zQk5WbGxoM0RQYVN0dFQzR01LOW56RkdSZXM5a2J2VG5FUk9yVU9tbURNVTdhRXU1OVNINHpESUtBZDZXNVN0NUp5c0t1ZkdOQ1Y0NFpqTS1senlRbA?oc=5" target="_blank">
-              This Retail Giant Is Tra
+            <div class="headline-rank">Top 2</div>
+            <a class="headline-title" href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank">
+              Amazon and Walmart Move 
             </a>
-            <div class="headline-note">北美渠道侧出现与Walmart / Costco相关信号，优先评估对电商的影响。</div>
+            <div class="headline-note">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</div>
+          </div>
+          
+          <div class="headline-item">
+            <div class="headline-rank">Top 3</div>
+            <a class="headline-title" href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDRsRjl1Nl9oeXNHVnlXTlRMU1VRbkhYc00zckhycTFhajhIUlBUSHRyajFKVlVXRGIwaW1QdXJoSFpNcVVpcWRwNkt4Z2JmYUVYc1hkTTVYdk1xc1FLTHR5ZEUtT2hXMzJTbW5UMVpLb3dEcm5DdFJwVXpnblg3V1lyelNMdk1vaTA1TlF0eWxmTXE2U2gwT2JkSmYybUt2Qi0xS21PLVFwaFk?oc=5" target="_blank">
+              Inside Project Kobe: Ama
+            </a>
+            <div class="headline-note">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</div>
           </div>
           
         </div>
@@ -700,7 +731,7 @@
           
           <li class="signal-item">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</li>
           
-          <li class="signal-item">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</li>
+          <li class="signal-item">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</li>
           
         </ul>
       </section>
@@ -726,37 +757,37 @@
       <div class="watch-grid">
         
         <div class="watch-card">
-          <div class="watch-name">Amazon</div>
-          <div class="watch-type">渠道 · 13 条命中</div>
+          <div class="watch-name">headphone</div>
+          <div class="watch-type">品类 · 12 条命中</div>
           <div class="watch-links">
             
-            <a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5" target="_blank">The Best Noise-Canceling</a>
-            
             <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">Weekend Watchlist: I’ve </a>
+            
+            <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">H2O Audio Tri Run Review</a>
             
           </div>
         </div>
         
         <div class="watch-card">
-          <div class="watch-name">headphone</div>
-          <div class="watch-type">品类 · 10 条命中</div>
+          <div class="watch-name">Amazon</div>
+          <div class="watch-type">渠道 · 11 条命中</div>
           <div class="watch-links">
             
-            <a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5" target="_blank">The Best Noise-Canceling</a>
-            
             <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">Weekend Watchlist: I’ve </a>
+            
+            <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank">Amazon and Walmart Move </a>
             
           </div>
         </div>
         
         <div class="watch-card">
           <div class="watch-name">Walmart</div>
-          <div class="watch-type">渠道 · 5 条命中</div>
+          <div class="watch-type">渠道 · 4 条命中</div>
           <div class="watch-links">
             
-            <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEFPYjRxejRtS0ZUSnIyZ2dRcWVUQldVOGxCMGpPdVFodGxGRTBXSnZzbHpkMXNpRDF4c3QyZF9Qc09zQk5WbGxoM0RQYVN0dFQzR01LOW56RkdSZXM5a2J2VG5FUk9yVU9tbURNVTdhRXU1OVNINHpESUtBZDZXNVN0NUp5c0t1ZkdOQ1Y0NFpqTS1senlRbA?oc=5" target="_blank">This Retail Giant Is Tra</a>
-            
             <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank">Amazon and Walmart Move </a>
+            
+            <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDRsRjl1Nl9oeXNHVnlXTlRMU1VRbkhYc00zckhycTFhajhIUlBUSHRyajFKVlVXRGIwaW1QdXJoSFpNcVVpcWRwNkt4Z2JmYUVYc1hkTTVYdk1xc1FLTHR5ZEUtT2hXMzJTbW5UMVpLb3dEcm5DdFJwVXpnblg3V1lyelNMdk1vaTA1TlF0eWxmTXE2U2gwT2JkSmYybUt2Qi0xS21PLVFwaFk?oc=5" target="_blank">Inside Project Kobe: Ama</a>
             
           </div>
         </div>
@@ -766,9 +797,9 @@
           <div class="watch-type">品牌 · 4 条命中</div>
           <div class="watch-links">
             
-            <a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5" target="_blank">The Best Noise-Canceling</a>
-            
             <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">Weekend Watchlist: I’ve </a>
+            
+            <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZ3pUMFhiUS1BdTVXNFNKRkFhbXphTTB0S2VQNzBCZ1NIX3JiQ1FIajltUmFDaVZCbVhQWGtyRzRMTXZqRGcxV0xtcFlIVDJkbFNUSGh4ZnpkVkFnd2djZU1BMDZIWnkyTTRqYTZyR2U1OEhnNVFr?oc=5" target="_blank">Bose joins the spring sa</a>
             
           </div>
         </div>
@@ -778,9 +809,21 @@
           <div class="watch-type">品牌 · 3 条命中</div>
           <div class="watch-links">
             
-            <a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5" target="_blank">The Best Noise-Canceling</a>
-            
             <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">Weekend Watchlist: I’ve </a>
+            
+            <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE54WmRCcldrZGsyM2VQWmF2emNCT0FpNjkyNE5DamFBRVRDQlBkVWpOVHhPS0F3dVFCNGlwNWhGdEJtWGlISDJKeGVmTUJ5YlZCNEYxdnR0NVE5aWdLa2FJVlpqZHByQQ?oc=5" target="_blank">Sony WH1000XM2 Review -N</a>
+            
+          </div>
+        </div>
+        
+        <div class="watch-card">
+          <div class="watch-name">open-ear</div>
+          <div class="watch-type">品类 · 3 条命中</div>
+          <div class="watch-links">
+            
+            <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">H2O Audio Tri Run Review</a>
+            
+            <a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNalRhdFdsOVBBdXF1MXV3MW4zTG1MODdNVTZhN0tmcGlYcmx2X3c5YjFKWHJJaDVvSjEyd3NZYXBNMVBlRmRjMjF1cTJYc1RmTTZoR0NibzZVa0FsVGczU3B6d3JNbjdfS3ozM3FIYnppX2wwLTVoN2ZIcVd3QUdsMUlIZllOelhrNThTdHlEN0hPYnJUT3c?oc=5" target="_blank">OpenRock S Open-Ear Blue</a>
             
           </div>
         </div>
@@ -809,18 +852,6 @@
           </div>
         </div>
         
-        <div class="watch-card">
-          <div class="watch-name">Shokz</div>
-          <div class="watch-type">品牌 · 2 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank">I ran every day with the</a>
-            
-            <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank">I ran every day with the</a>
-            
-          </div>
-        </div>
-        
       </div>
     </section>
 
@@ -830,28 +861,6 @@
           <h2 class="section-title">消费电子</h2>
         </div>
 
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5" target="_blank">
-            The Best Noise-Canceling
-          </a>
-          <div class="news-meta">
-            <span>Google News - Competitor Watch</span>
-            <span>近7天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-            <span class="tag">💰 价格促销</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
-        </article>
         
         <article class="news-item">
           <a class="news-title" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">
@@ -916,6 +925,26 @@
         </article>
         
         <article class="news-item">
+          <a class="news-title" href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNalRhdFdsOVBBdXF1MXV3MW4zTG1MODdNVTZhN0tmcGlYcmx2X3c5YjFKWHJJaDVvSjEyd3NZYXBNMVBlRmRjMjF1cTJYc1RmTTZoR0NibzZVa0FsVGczU3B6d3JNbjdfS3ozM3FIYnppX2wwLTVoN2ZIcVd3QUdsMUlIZllOelhrNThTdHlEN0hPYnJUT3c?oc=5" target="_blank">
+            OpenRock S Open-Ear Blue
+          </a>
+          <div class="news-meta">
+            <span>Google News - Audio Wearable Watch</span>
+            <span>24h内</span>
+            <span>高</span>
+            <span>品牌营销</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🏃 运动穿戴</span>
+            
+          </div>
+          <div class="news-note">open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。</div>
+        </article>
+        
+        <article class="news-item">
           <a class="news-title" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZ3pUMFhiUS1BdTVXNFNKRkFhbXphTTB0S2VQNzBCZ1NIX3JiQ1FIajltUmFDaVZCbVhQWGtyRzRMTXZqRGcxV0xtcFlIVDJkbFNUSGh4ZnpkVkFnd2djZU1BMDZIWnkyTTRqYTZyR2U1OEhnNVFr?oc=5" target="_blank">
             Bose joins the spring sa
           </a>
@@ -958,28 +987,6 @@
           <h2 class="section-title">渠道 / 平台</h2>
         </div>
 
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEFPYjRxejRtS0ZUSnIyZ2dRcWVUQldVOGxCMGpPdVFodGxGRTBXSnZzbHpkMXNpRDF4c3QyZF9Qc09zQk5WbGxoM0RQYVN0dFQzR01LOW56RkdSZXM5a2J2VG5FUk9yVU9tbURNVTdhRXU1OVNINHpESUtBZDZXNVN0NUp5c0t1ZkdOQ1Y0NFpqTS1senlRbA?oc=5" target="_blank">
-            This Retail Giant Is Tra
-          </a>
-          <div class="news-meta">
-            <span>Google News - Retail Platforms</span>
-            <span>近3天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-            <span class="tag">💰 价格促销</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Walmart / Costco相关信号，优先评估对电商的影响。</div>
-        </article>
         
         <article class="news-item">
           <a class="news-title" href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank">
@@ -1083,6 +1090,26 @@
           <div class="news-note">北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。</div>
         </article>
         
+        <article class="news-item">
+          <a class="news-title" href="https://www.modernretail.co/operations/marketplace-briefing-why-amazon-is-moving-prime-day-to-june-from-july-and-what-it-means-for-sellers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss" target="_blank">
+            Marketplace Briefing: Wh
+          </a>
+          <div class="news-meta">
+            <span>Modern Retail</span>
+            <span>近7天</span>
+            <span>高</span>
+            <span>电商</span>
+          </div>
+          <div class="tag-row">
+            
+            <span class="tag">🛒 渠道零售</span>
+            
+            <span class="tag">🏬 平台电商</span>
+            
+          </div>
+          <div class="news-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
+        </article>
+        
       </section>
     </div>
 
@@ -1091,11 +1118,32 @@
         <h2 class="section-title">新品速递</h2>
       </div>
 
-      <div class="product-grid">
+            <div class="product-grid">
         
         <article class="product-card">
-          <a class="product-title" href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank">
-            I ran every day with the
+          <a class="product-title" href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNalRhdFdsOVBBdXF1MXV3MW4zTG1MODdNVTZhN0tmcGlYcmx2X3c5YjFKWHJJaDVvSjEyd3NZYXBNMVBlRmRjMjF1cTJYc1RmTTZoR0NibzZVa0FsVGczU3B6d3JNbjdfS3ozM3FIYnppX2wwLTVoN2ZIcVd3QUdsMUlIZllOelhrNThTdHlEN0hPYnJUT3c?oc=5" target="_blank" title="OpenRock S Open-Ear Bluetooth Headphones - 60H Playtime, IPX5, Deep Bass For Sports & Office - aplusme.me">
+            OpenRock S Open-Ear Bluetooth...
+          </a>
+          <div class="product-meta">Google News - Audio Wearable Watch · 24h内 · 中</div>
+          <div class="tag-row">
+            
+            <span class="tag">🎧 耳机音频</span>
+            
+            <span class="tag">🏃 运动穿戴</span>
+            
+          </div>
+          <div class="product-summary-row">
+            <div class="product-summary" title="<a。">
+              <a。
+            </div>
+            <span class="judgement-pill">行业趋势</span>
+          </div>
+          <div class="news-note">open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。</div>
+        </article>
+        
+        <article class="product-card">
+          <a class="product-title" href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank" title="I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide">
+            I ran every day with the Shokz OpenRun...
           </a>
           <div class="product-meta">Google News - Audio Wearable Watch · 近7天 · 中</div>
           <div class="tag-row">
@@ -1105,13 +1153,18 @@
             <span class="tag">🏃 运动穿戴</span>
             
           </div>
-          <div class="product-summary"><a href="https://news.google.com/rss/articles/</div>
+          <div class="product-summary-row">
+            <div class="product-summary" title="<a。">
+              <a。
+            </div>
+            <span class="judgement-pill">竞品观察</span>
+          </div>
           <div class="news-note">Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。</div>
         </article>
         
         <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank">
-            The best deals we’ve fou
+          <a class="product-title" href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank" title="The best deals we’ve found from Amazon’s Big Spring Sale (so far)">
+            The best deals we’ve found from...
           </a>
           <div class="product-meta">The Verge · 24h内 · 中</div>
           <div class="tag-row">
@@ -1123,13 +1176,18 @@
             <span class="tag">💰 价格促销</span>
             
           </div>
-          <div class="product-summary">Amazon loves to manufacture an event. March is</div>
+          <div class="product-summary-row">
+            <div class="product-summary" title="Amazon loves to manufacture an event。">
+              Amazon loves to manufacture an event。
+            </div>
+            <span class="judgement-pill">价格促销</span>
+          </div>
           <div class="news-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
         </article>
         
         <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals" target="_blank">
-            Amazon’s Big Spring Sale
+          <a class="product-title" href="https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals" target="_blank" title="Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder">
+            Amazon’s Big Spring Sale is a great...
           </a>
           <div class="product-meta">The Verge · 24h内 · 低</div>
           <div class="tag-row">
@@ -1139,13 +1197,18 @@
             <span class="tag">🏬 平台电商</span>
             
           </div>
-          <div class="product-summary">Bird feeders have come a long way since their </div>
+          <div class="product-summary-row">
+            <div class="product-summary" title="Bird feeders have come a long way。">
+              Bird feeders have come a long way。
+            </div>
+            <span class="judgement-pill">价格促销</span>
+          </div>
           <div class="news-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
         </article>
         
         <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/column/902668/apple-antitrust-app-store-war" target="_blank">
-            Apple’s long, bitter App
+          <a class="product-title" href="https://www.theverge.com/column/902668/apple-antitrust-app-store-war" target="_blank" title="Apple’s long, bitter App Store antitrust war">
+            Apple’s long, bitter App Store...
           </a>
           <div class="product-meta">The Verge · 24h内 · 低</div>
           <div class="tag-row">
@@ -1153,35 +1216,31 @@
             <span class="tag">🛒 渠道零售</span>
             
           </div>
-          <div class="product-summary">This is The Stepback, a weekly newsletter brea</div>
+          <div class="product-summary-row">
+            <div class="product-summary" title="This is The Stepback, a weekly。">
+              This is The Stepback, a weekly。
+            </div>
+            <span class="judgement-pill">渠道动态</span>
+          </div>
           <div class="news-note">该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。</div>
         </article>
         
         <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds" target="_blank">
-            Bluesky’s new app is an 
+          <a class="product-title" href="https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit" target="_blank" title="All the latest in AI &#8216;music&#8217;">
+            All the latest in AI &#8216;music&#8217;
           </a>
           <div class="product-meta">The Verge · 24h内 · 低</div>
           <div class="tag-row">
             
-            <span class="tag">🚀 新品发布</span>
+            <span class="tag">🚀 新品</span>
             
           </div>
-          <div class="product-summary">The latest app from the team behind Bluesky is</div>
-          <div class="news-note">该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。</div>
-        </article>
-        
-        <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/podcast/903068/macintosh-1984-version-history" target="_blank">
-            The Macintosh changed co
-          </a>
-          <div class="product-meta">The Verge · 24h内 · 低</div>
-          <div class="tag-row">
-            
-            <span class="tag">🚀 新品发布</span>
-            
+          <div class="product-summary-row">
+            <div class="product-summary" title="AI has touched every part of the。">
+              AI has touched every part of the。
+            </div>
+            <span class="judgement-pill">业务观察</span>
           </div>
-          <div class="product-summary">Apple's most legendary computer has two legaci</div>
           <div class="news-note">该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。</div>
         </article>
         

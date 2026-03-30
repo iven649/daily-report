@@ -401,12 +401,15 @@
       box-shadow: 0 14px 26px rgba(0, 0, 0, 0.06);
     }
 
-    .product-title {
+        .product-title {
+      display: block;
       font-size: 17px;
-      line-height: 1.45;
+      line-height: 1.35;
       font-weight: 680;
       margin-bottom: 8px;
-      display: inline-block;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .product-title:hover {
@@ -419,11 +422,39 @@
       margin-bottom: 10px;
     }
 
+    .product-summary-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
     .product-summary {
+      min-width: 0;
+      flex: 1;
       font-size: 14px;
       color: #44484f;
-      line-height: 1.75;
-      margin-bottom: 12px;
+      line-height: 1.6;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .judgement-pill {
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(17, 17, 17, 0.06);
+      background: #f7f7f8;
+      color: #4c5158;
+      font-size: 12px;
+      font-weight: 650;
+      line-height: 1;
+      white-space: nowrap;
     }
 
     .watch-grid {
@@ -758,10 +789,10 @@
         <h2 class="section-title">新品速递</h2>
       </div>
 
-      <div class="product-grid">
+            <div class="product-grid">
         {% for item in products %}
         <article class="product-card">
-          <a class="product-title" href="{{ item.url }}" target="_blank">
+          <a class="product-title" href="{{ item.url }}" target="_blank" title="{{ item.name or item.display_title }}">
             {{ item.display_title or item.name }}
           </a>
           <div class="product-meta">{{ item.source }} · {{ item.freshness_label }} · {{ item.importance }}</div>
@@ -770,7 +801,12 @@
             <span class="tag">{{ tag }}</span>
             {% endfor %}
           </div>
-          <div class="product-summary">{{ item.display_summary or item.summary }}</div>
+          <div class="product-summary-row">
+            <div class="product-summary" title="{{ item.product_intro or item.display_summary or item.summary }}">
+              {{ item.product_intro or item.display_summary or item.summary }}
+            </div>
+            <span class="judgement-pill">{{ item.judgement_label or "业务观察" }}</span>
+          </div>
           <div class="news-note">{{ item.business_note }}</div>
         </article>
         {% endfor %}

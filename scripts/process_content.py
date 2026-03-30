@@ -136,6 +136,103 @@ def simplify_summary(summary: str) -> str:
 """
     return ai_generate(prompt, summary, 46)
 
+def smart_truncate_title(text: str, max_chars: int = 42) -> str:
+    text = " ".join((text or "").split()).strip()
+    if not text:
+        return ""
+
+    if len(text) <= max_chars:
+        return text
+
+    words = text.split(" ")
+    if len(words) <= 1:
+        return text[: max_chars - 3].rstrip(" ,.-_/") + "..."
+
+    kept = []
+    current_len = 0
+    limit = max_chars - 3
+
+    for word in words:
+        extra = len(word) if not kept else len(word) + 1
+        if current_len + extra > limit:
+            break
+        kept.append(word)
+        current_len += extra
+
+    if not kept:
+        return text[: max_chars - 3].rstrip(" ,.-_/") + "..."
+
+    result = " ".join(kept).rstrip(" ,.-_/")
+    return result + "..."
+
+
+def classify_product_judgement(item: Dict[str, Any]) -> str:
+    text = normalize_text(
+        " ".join(
+            [
+                item.get("name", ""),
+                item.get("title", ""),
+                item.get("summary", ""),
+                item.get("source", ""),
+            ]
+        )
+    )
+
+    if any(x in text for x in ["deal", "discount", "promotion", "sale", "pricing", "coupon"]):
+        return "价格促销"
+
+    if any(
+        x in text
+        for x in [
+            "amazon", "walmart", "best buy", "target", "marketplace",
+            "retail", "store", "distribution", "channel", "rei", "fleet feet"
+        ]
+    ):
+        return "渠道动态"
+
+    if any(x in text for x in ["launch", "release", "announce", "unveil", "debut", "available", "new app"]):
+        return "新品发布"
+
+    if any(x in text for x in ["apple", "beats", "bose", "sony", "shokz", "garmin", "jbl", "anker", "sennheiser"]):
+        return "竞品观察"
+
+    if any(x in text for x in ["trend", "trends", "market", "category", "wearable", "audio", "headphone", "earbuds"]):
+        return "行业趋势"
+
+    if any(x in text for x in ["ban", "lawsuit", "recall", "investigation", "policy", "regulation"]):
+        return "重大事件"
+
+    return "业务观察"
+
+
+def build_product_intro(item: Dict[str, Any]) -> str:
+    summary = " ".join((item.get("display_summary") or item.get("summary") or "").split()).strip()
+    title = " ".join((item.get("name") or item.get("title") or "").split()).strip()
+    text = normalize_text(" ".join([title, summary, item.get("source", "")]))
+
+    if summary:
+        summary = summary.rstrip("。.;；:：,， ")
+
+    if summary:
+        if len(summary) > 40:
+            summary = smart_truncate_title(summary, 40).rstrip(".")
+        if not summary.endswith("。"):
+            summary += "。"
+        return summary
+
+    if any(x in text for x in ["open-ear", "open ear", "bone conduction", "headphone", "earbuds", "audio"]):
+        return "聚焦音频品类与使用场景变化。"
+
+    if any(x in text for x in ["wearable", "watch", "fitness", "running", "sports"]):
+        return "聚焦穿戴设备与运动场景动向。"
+
+    if any(x in text for x in ["amazon", "walmart", "best buy", "retail", "channel", "store"]):
+        return "反映平台或渠道端的新品与动作。"
+
+    if any(x in text for x in ["launch", "release", "announce", "unveil", "debut"]):
+        return "可作为新品发布节奏的观察样本。"
+
+    return "建议纳入北美新品观察清单。"
 
 def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
     return {s["name"]: s.get("priority", 0) for s in source_list}

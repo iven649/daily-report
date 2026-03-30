@@ -1,40 +1,35 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>北美业务情报日报 - 2026-03-30</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>北美消费电子业务日报 - 2026-03-30</title>
   <style>
     :root {
-      --bg: #f5f5f7;
+      --bg: #f5f6f8;
       --card: #ffffff;
-      --text: #111111;
-      --muted: #6e6e73;
-      --muted-2: #8e8e93;
-      --line-soft: rgba(17, 17, 17, 0.05);
-      --shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
-      --shadow-hover: 0 14px 36px rgba(0, 0, 0, 0.08);
-      --radius-xxl: 28px;
+      --text: #111827;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --tag-bg: #f3f4f6;
+      --pill-bg: #f7f7f8;
+      --shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
       --radius-xl: 22px;
       --radius-lg: 18px;
-      --tag-bg: #f2f2f4;
-      --tag-text: #55585f;
+      --radius-md: 14px;
     }
 
-    * { box-sizing: border-box; }
-
-    html {
-      scroll-behavior: smooth;
+    * {
+      box-sizing: border-box;
     }
 
-    body {
+    html, body {
       margin: 0;
-      background: linear-gradient(180deg, #fcfcfd 0%, #f5f5f7 100%);
+      padding: 0;
+      background: var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
-        "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
-      -webkit-font-smoothing: antialiased;
-      text-rendering: optimizeLegibility;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC",
+        "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
     }
 
     a {
@@ -43,383 +38,247 @@
     }
 
     .page {
-      max-width: 1240px;
+      max-width: 1440px;
       margin: 0 auto;
-      padding: 28px 20px 60px;
-    }
-
-    .card {
-      background: var(--card);
-      border: 1px solid var(--line-soft);
-      border-radius: var(--radius-xxl);
-      box-shadow: var(--shadow);
-      transition: transform 0.18s ease, box-shadow 0.18s ease;
-    }
-
-    .card:hover {
-      transform: translateY(-2px);
-      box-shadow: var(--shadow-hover);
+      padding: 28px 24px 56px;
     }
 
     .hero {
-      padding: 24px;
-      margin-bottom: 18px;
+      background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+      border: 1px solid rgba(17, 24, 39, 0.05);
+      border-radius: 30px;
+      box-shadow: var(--shadow);
+      padding: 28px 30px;
+      margin-bottom: 22px;
     }
 
-    .hero-grid {
-      display: grid;
-      grid-template-columns: 1.45fr 0.75fr;
-      gap: 18px;
-    }
-
-    .hero-title {
-      font-size: 34px;
-      line-height: 1.08;
-      letter-spacing: -0.045em;
-      font-weight: 760;
-      margin: 0 0 12px;
-    }
-
-    .lead-summary {
-      font-size: 24px;
-      line-height: 1.42;
-      letter-spacing: -0.03em;
-      font-weight: 650;
-      margin: 0 0 18px;
-      max-width: 760px;
-    }
-
-    .top-meta {
+    .hero-top {
       display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 20px;
       flex-wrap: wrap;
-      gap: 10px;
-      margin-bottom: 18px;
+      margin-bottom: 14px;
     }
 
-    .pill {
+    .hero-title-wrap h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+      line-height: 1.15;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .hero-sub {
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .hero-badges {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .hero-badge {
       display: inline-flex;
       align-items: center;
       gap: 6px;
       padding: 8px 12px;
       border-radius: 999px;
-      background: #f6f6f7;
-      border: 1px solid var(--line-soft);
-      color: var(--muted);
+      background: #f3f4f6;
+      color: #374151;
       font-size: 12px;
+      line-height: 1;
+      white-space: nowrap;
     }
 
-    .mini-stack {
-      display: flex;
-      flex-direction: column;
-      gap: 14px;
+    .lead-summary {
+      margin-top: 14px;
+      font-size: 16px;
+      line-height: 1.8;
+      color: #1f2937;
+      font-weight: 500;
     }
 
-    .mini-card {
-      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
-      border: 1px solid var(--line-soft);
-      border-radius: var(--radius-xl);
-      padding: 16px 18px;
-    }
-
-    .festival-list {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-
-    .festival-link {
-      display: block;
-      padding: 12px 14px;
-      border-radius: 16px;
-      background: #fafafa;
-      border: 1px solid var(--line-soft);
-      transition: background 0.16s ease, transform 0.16s ease;
-    }
-
-    .festival-link:hover {
-      background: #f3f3f4;
-      transform: translateY(-1px);
-    }
-
-    .festival-name {
-      font-size: 14px;
-      font-weight: 650;
-      margin-bottom: 4px;
-    }
-
-    .festival-meta {
-      font-size: 12px;
-      color: var(--muted);
-    }
-
-    .section-head {
-      display: flex;
-      align-items: baseline;
-      justify-content: space-between;
-      gap: 10px;
-      margin-bottom: 14px;
-    }
-
-    .section-title {
-      margin: 0;
-      font-size: 18px;
-      line-height: 1.2;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-    }
-
-    .section-head-center {
-      justify-content: center;
-      text-align: center;
-    }
-
-    .section-jump {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      margin: 0 auto;
-      padding: 4px 10px;
-      border-radius: 999px;
-      font-size: 18px;
-      line-height: 1.2;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      color: var(--text);
-      transition: background 0.16s ease, transform 0.16s ease, color 0.16s ease;
-    }
-
-    .section-jump:hover {
-      background: #f3f3f4;
-      color: #4d5157;
-      transform: translateY(-1px);
-    }
-
-    .section-jump:active {
-      transform: translateY(0);
-      background: #ececef;
-    }
-
-    .timezone-block {
-      margin-top: 8px;
-    }
-
-    .bj-time {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 10px 14px;
-      border-radius: 16px;
-      background: #fafafa;
-      border: 1px solid var(--line-soft);
-      font-size: 14px;
-      font-weight: 600;
-      margin-bottom: 14px;
-    }
-
-    .tz-grid {
+    .hero-grid {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 10px;
-    }
-
-    .tz-link {
-      display: block;
-      padding: 12px 14px;
-      border-radius: 16px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
-      transition: background 0.16s ease, transform 0.16s ease;
-    }
-
-    .tz-link:hover {
-      background: #f3f3f4;
-      transform: translateY(-1px);
-    }
-
-    .tz-abbr {
-      font-size: 14px;
-      font-weight: 700;
-      margin-bottom: 4px;
-    }
-
-    .tz-name {
-      font-size: 12px;
-      color: var(--muted);
-      margin-bottom: 6px;
-    }
-
-    .tz-time {
-      font-size: 13px;
-      color: #2d3138;
-      font-weight: 600;
-    }
-
-    .section-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1.3fr 0.9fr;
       gap: 18px;
-      margin-bottom: 18px;
+      margin-top: 20px;
     }
 
-    .section-card {
-      padding: 22px;
+    .hero-card {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 20px 22px;
+      min-width: 0;
     }
 
-    .headline-list {
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .headline-item {
-      padding: 14px;
-      border: 1px solid var(--line-soft);
-      border-radius: 18px;
-      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
-    }
-
-    .headline-rank {
-      font-size: 11px;
-      color: var(--muted-2);
-      letter-spacing: 0.08em;
+    .card-kicker {
+      font-size: 12px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
       text-transform: uppercase;
       margin-bottom: 8px;
     }
 
-    .headline-title {
-      font-size: 16px;
-      line-height: 1.55;
-      font-weight: 650;
-      margin-bottom: 8px;
-      display: inline-block;
+    .lead-story-title {
+      display: block;
+      font-size: 24px;
+      line-height: 1.28;
+      font-weight: 800;
+      margin-bottom: 10px;
     }
 
-    .headline-title:hover {
-      color: #4d5157;
-    }
-
-    .headline-note {
+    .lead-story-meta {
+      color: var(--muted);
       font-size: 13px;
-      line-height: 1.75;
-      color: #3a3d44;
+      margin-bottom: 12px;
     }
 
-    .signal-list {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
+    .lead-story-note {
+      font-size: 15px;
+      line-height: 1.8;
+      color: #374151;
+      margin-bottom: 10px;
     }
 
-    .signal-item {
-      padding: 14px 14px 14px 16px;
-      border-radius: 18px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
+    .lead-story-action {
       font-size: 14px;
       line-height: 1.8;
-      color: #25272d;
+      color: #4b5563;
     }
 
-    .news-item {
-      padding: 16px 0;
-      border-bottom: 1px solid var(--line-soft);
+    .bullet-list {
+      margin: 0;
+      padding-left: 18px;
     }
 
-    .news-item:last-child {
+    .bullet-list li {
+      margin: 0 0 10px;
+      line-height: 1.75;
+      color: #374151;
+      font-size: 14px;
+    }
+
+    .section {
+      margin-top: 22px;
+    }
+
+    .section-box {
+      background: var(--card);
+      border: 1px solid rgba(17, 24, 39, 0.05);
+      border-radius: 30px;
+      box-shadow: var(--shadow);
+      padding: 22px 22px 20px;
+    }
+
+    .section-title {
+      margin: 0 0 14px;
+      font-size: 18px;
+      line-height: 1.2;
+      font-weight: 800;
+      color: #111827;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    .section-card-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .section-card {
+      padding: 18px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-card:first-child {
+      padding-top: 6px;
+    }
+
+    .section-card:last-child {
       border-bottom: none;
       padding-bottom: 0;
     }
 
-    .news-title {
-      display: inline-block;
-      font-size: 16px;
-      line-height: 1.56;
-      letter-spacing: -0.015em;
-      font-weight: 620;
-      margin-bottom: 7px;
-    }
-
-    .news-title:hover {
-      color: #4d5157;
-    }
-
-    .news-meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px 10px;
+    .news-title,
+    .product-title {
+      display: block;
+      font-size: 17px;
+      line-height: 1.35;
+      font-weight: 700;
       margin-bottom: 8px;
-      color: var(--muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: #111827;
+    }
+
+    .news-title:hover,
+    .product-title:hover,
+    .lead-story-title:hover {
+      color: #4b5563;
+    }
+
+    .news-meta,
+    .product-meta {
       font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 10px;
+      line-height: 1.6;
     }
 
     .tag-row {
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
-      margin-bottom: 8px;
+      margin-bottom: 12px;
     }
 
     .tag {
       display: inline-flex;
       align-items: center;
-      padding: 5px 9px;
+      padding: 6px 10px;
       border-radius: 999px;
       background: var(--tag-bg);
-      color: var(--tag-text);
-      font-size: 11px;
-      font-weight: 600;
-      border: 1px solid rgba(17, 17, 17, 0.04);
+      color: #4b5563;
+      font-size: 12px;
+      line-height: 1;
+      white-space: nowrap;
+      border: 1px solid rgba(17, 24, 39, 0.04);
     }
 
     .news-note {
-      font-size: 13px;
-      color: #42454b;
-      line-height: 1.8;
+      font-size: 14px;
+      line-height: 1.78;
+      color: #374151;
+      word-break: break-word;
     }
 
     .product-grid {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 16px;
-      margin-top: 4px;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 18px;
     }
 
     .product-card {
-      min-height: 230px;
-      padding: 18px;
-      border: 1px solid var(--line-soft);
-      border-radius: 20px;
-      background: linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
-      transition: transform 0.16s ease, box-shadow 0.16s ease;
-    }
-
-    .product-card:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 14px 26px rgba(0, 0, 0, 0.06);
-    }
-
-        .product-title {
-      display: block;
-      font-size: 17px;
-      line-height: 1.35;
-      font-weight: 680;
-      margin-bottom: 8px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    .product-title:hover {
-      color: #4d5157;
-    }
-
-    .product-meta {
-      font-size: 12px;
-      color: var(--muted);
-      margin-bottom: 10px;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 18px 18px 16px;
+      min-width: 0;
+      min-height: 232px;
+      display: flex;
+      flex-direction: column;
     }
 
     .product-summary-row {
@@ -449,844 +308,782 @@
       padding: 6px 10px;
       border-radius: 999px;
       border: 1px solid rgba(17, 17, 17, 0.06);
-      background: #f7f7f8;
+      background: var(--pill-bg);
       color: #4c5158;
       font-size: 12px;
-      font-weight: 650;
+      font-weight: 700;
       line-height: 1;
       white-space: nowrap;
     }
 
-    .watch-grid {
+    .festival-grid,
+    .signal-grid,
+    .watch-grid,
+    .feedback-grid {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 12px;
-      margin-top: 4px;
+      gap: 16px;
     }
 
-    .watch-card {
-      padding: 14px;
-      border-radius: 18px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
+    .festival-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 
-    .watch-name {
-      font-size: 15px;
-      font-weight: 680;
-      margin-bottom: 4px;
+    .signal-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .watch-type {
-      font-size: 11px;
-      color: var(--muted-2);
-      margin-bottom: 8px;
+    .watch-grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
     }
 
-    .watch-links {
-      display: flex;
-      flex-direction: column;
-      gap: 7px;
+    .feedback-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .watch-links a {
-      font-size: 12px;
-      line-height: 1.5;
-      color: #31343a;
-    }
-
-    .watch-links a:hover {
-      color: #5a5f67;
-    }
-
-    .feedback-link {
-      display: block;
-      padding: 18px 20px;
+    .mini-card {
+      background: #fff;
+      border: 1px solid var(--line);
       border-radius: 20px;
-      border: 1px solid var(--line-soft);
-      background: #fafafa;
+      padding: 16px 18px;
+      min-width: 0;
+    }
+
+    .mini-card h3 {
+      margin: 0 0 10px;
       font-size: 15px;
-      line-height: 1.8;
-      color: #2f3238;
-      transition: background 0.16s ease, transform 0.16s ease;
+      line-height: 1.4;
+      font-weight: 700;
     }
 
-    .feedback-link:hover {
-      background: #f3f3f4;
-      transform: translateY(-1px);
+    .mini-card p,
+    .mini-card li {
+      margin: 0;
+      font-size: 14px;
+      line-height: 1.75;
+      color: #374151;
     }
 
-    #section-watch,
-    #section-consumer,
-    #section-channel,
-    #section-products {
-      scroll-margin-top: 110px;
+    .entity-type {
+      display: inline-flex;
+      align-items: center;
+      padding: 5px 9px;
+      border-radius: 999px;
+      background: #f3f4f6;
+      color: #4b5563;
+      font-size: 12px;
+      margin-bottom: 10px;
     }
 
-    #section-watch:target,
-    #section-consumer:target,
-    #section-channel:target,
-    #section-products:target {
-      box-shadow: 0 0 0 2px rgba(17, 17, 17, 0.06), 0 14px 36px rgba(0, 0, 0, 0.08);
+    .entity-count {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 8px;
     }
 
-    @media (max-width: 1120px) {
+    .footer-note {
+      margin-top: 20px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.7;
+      text-align: center;
+    }
+
+    @media (max-width: 1200px) {
       .hero-grid,
-      .section-row {
+      .two-col,
+      .product-grid,
+      .festival-grid,
+      .signal-grid,
+      .watch-grid,
+      .feedback-grid {
         grid-template-columns: 1fr;
       }
 
-      .watch-grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
-
-      .product-grid {
-        grid-template-columns: 1fr 1fr;
-      }
-
-      .tz-grid {
-        grid-template-columns: repeat(2, 1fr);
+      .product-card {
+        min-height: unset;
       }
     }
 
-    @media (max-width: 720px) {
+    @media (max-width: 768px) {
       .page {
         padding: 18px 14px 40px;
       }
 
-      .hero-title {
-        font-size: 28px;
+      .hero,
+      .section-box {
+        border-radius: 22px;
+        padding: 18px 16px;
       }
 
-      .lead-summary {
-        font-size: 21px;
+      .hero-title-wrap h1 {
+        font-size: 24px;
       }
 
-      .product-grid,
-      .watch-grid,
-      .tz-grid {
-        grid-template-columns: 1fr;
+      .lead-story-title {
+        font-size: 20px;
+      }
+
+      .news-title,
+      .product-title {
+        font-size: 16px;
       }
     }
   </style>
 </head>
-
 <body>
   <div class="page">
+    <section class="hero">
+      <div class="hero-top">
+        <div class="hero-title-wrap">
+          <h1>北美消费电子业务日报</h1>
+          <div class="hero-sub">
+            日期：2026-03-30 ｜ 生成时间：2026-03-30 15:01:02 CST ｜ 市场焦点：美国优先，中国次之
+          </div>
+        </div>
+        <div class="hero-badges">
+          <span class="hero-badge">消费电子 10</span>
+          <span class="hero-badge">渠道/平台 10</span>
+          <span class="hero-badge">新品速递 6</span>
+        </div>
+      </div>
 
-    <section class="card hero">
+      <div class="lead-summary">亚马逊春季促销推动降噪耳机热销，品牌竞争加剧，需创新以吸引消费者。</div>
+
       <div class="hero-grid">
-
-        <div>
-          <h1 class="hero-title">北美业务情报日报</h1>
-
-          <div class="lead-summary">
-            北美平台与零售动态仍是今天最值得跟进的外部信号。
-          </div>
-
-          <div class="top-meta">
-            <div class="pill">📅 2026-03-30</div>
-            <div class="pill">📰 消费电子 10</div>
-            <div class="pill">🏬 渠道 10</div>
-            <div class="pill">🚀 新品 6</div>
-          </div>
-
-          <div class="timezone-block">
-            <div class="section-head" style="margin-bottom:10px;">
-              <h2 class="section-title" style="font-size:16px;">北京时间 / 美国 6 时区</h2>
-            </div>
-
-            <div class="bj-time">
-              <span>🇨🇳 北京时间</span>
-              <span id="beijing-time">--</span>
-            </div>
-
-            <div class="tz-grid">
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/new-york">
-                <div class="tz-abbr">ET</div>
-                <div class="tz-name">Eastern</div>
-                <div class="tz-time" id="tz-et">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/chicago">
-                <div class="tz-abbr">CT</div>
-                <div class="tz-name">Central</div>
-                <div class="tz-time" id="tz-ct">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/denver">
-                <div class="tz-abbr">MT</div>
-                <div class="tz-name">Mountain</div>
-                <div class="tz-time" id="tz-mt">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/los-angeles">
-                <div class="tz-abbr">PT</div>
-                <div class="tz-name">Pacific</div>
-                <div class="tz-time" id="tz-pt">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/anchorage">
-                <div class="tz-abbr">AKT</div>
-                <div class="tz-name">Alaska</div>
-                <div class="tz-time" id="tz-akt">--</div>
-              </a>
-
-              <a class="tz-link" target="_blank" href="https://www.timeanddate.com/worldclock/usa/honolulu">
-                <div class="tz-abbr">HST</div>
-                <div class="tz-name">Hawaii</div>
-                <div class="tz-time" id="tz-hst">--</div>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="mini-stack">
-          <div class="mini-card">
-            <div class="festival-list">
-              
-              <a class="festival-link" href="easter.html">
-                <div class="festival-name">🥚 复活节</div>
-                <div class="festival-meta">2026-04-05 · 还有 6 天</div>
-              </a>
-              
-              <a class="festival-link" href="mothers-day.html">
-                <div class="festival-name">🌸 母亲节</div>
-                <div class="festival-meta">2026-05-10 · 还有 41 天</div>
-              </a>
-              
-              <a class="festival-link" href="jd-618.html">
-                <div class="festival-name">📦 618</div>
-                <div class="festival-meta">2026-06-18 · 还有 80 天</div>
-              </a>
-              
-              <a class="festival-link" href="prime-day.html">
-                <div class="festival-name">⚡ Prime Day</div>
-                <div class="festival-meta">2026-07-15 · 还有 107 天</div>
-              </a>
-              
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-    <div class="section-row">
-      <section class="card section-card">
-        <div class="section-head section-head-center">
-          <a class="section-jump" href="#section-watch">头条三条</a>
-        </div>
-        <div class="headline-list">
+        <div class="hero-card">
+          <div class="card-kicker">Lead Story</div>
           
-          <div class="headline-item">
-            <div class="headline-rank">Top 1</div>
-            <a class="headline-title" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">
-              Weekend Watchlist: I’ve 
-            </a>
-            <div class="headline-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
-          </div>
-          
-          <div class="headline-item">
-            <div class="headline-rank">Top 2</div>
-            <a class="headline-title" href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank">
-              Amazon and Walmart Move 
-            </a>
-            <div class="headline-note">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</div>
-          </div>
-          
-          <div class="headline-item">
-            <div class="headline-rank">Top 3</div>
-            <a class="headline-title" href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDRsRjl1Nl9oeXNHVnlXTlRMU1VRbkhYc00zckhycTFhajhIUlBUSHRyajFKVlVXRGIwaW1QdXJoSFpNcVVpcWRwNkt4Z2JmYUVYc1hkTTVYdk1xc1FLTHR5ZEUtT2hXMzJTbW5UMVpLb3dEcm5DdFJwVXpnblg3V1lyelNMdk1vaTA1TlF0eWxmTXE2U2gwT2JkSmYybUt2Qi0xS21PLVFwaFk?oc=5" target="_blank">
-              Inside Project Kobe: Ama
-            </a>
-            <div class="headline-note">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</div>
-          </div>
-          
-        </div>
-      </section>
-
-      <section class="card section-card">
-        <div class="section-head section-head-center">
-          <a class="section-jump" href="#section-consumer">今日重点</a>
-        </div>
-        <ul class="signal-list">
-          
-          <li class="signal-item">北美平台与零售动态仍是今天最值得跟进的外部信号。</li>
-          
-          <li class="signal-item">耳机与运动音频相关品类依然是竞品观察重点。</li>
-          
-          <li class="signal-item">新品与渠道信息更适合结合价格、铺货和传播动作一起看。</li>
-          
-        </ul>
-      </section>
-    </div>
-
-    <div class="section-row">
-      <section class="card section-card">
-        <div class="section-head section-head-center">
-          <a class="section-jump" href="#section-products">机会提示</a>
-        </div>
-        <ul class="signal-list">
-          
-          <li class="signal-item">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</li>
-          
-          <li class="signal-item">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</li>
-          
-        </ul>
-      </section>
-
-      <section class="card section-card">
-        <div class="section-head section-head-center">
-          <a class="section-jump" href="#section-channel">风险提示</a>
-        </div>
-        <ul class="signal-list">
-          
-          <li class="signal-item">关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。</li>
-          
-          <li class="signal-item">关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。</li>
-          
-        </ul>
-      </section>
-    </div>
-
-    <section id="section-watch" class="card section-card" style="margin-bottom:18px;">
-      <div class="section-head">
-        <h2 class="section-title">竞品 / 平台动态</h2>
-      </div>
-      <div class="watch-grid">
-        
-        <div class="watch-card">
-          <div class="watch-name">headphone</div>
-          <div class="watch-type">品类 · 12 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">Weekend Watchlist: I’ve </a>
-            
-            <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">H2O Audio Tri Run Review</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">Amazon</div>
-          <div class="watch-type">渠道 · 11 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">Weekend Watchlist: I’ve </a>
-            
-            <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank">Amazon and Walmart Move </a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">Walmart</div>
-          <div class="watch-type">渠道 · 4 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank">Amazon and Walmart Move </a>
-            
-            <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDRsRjl1Nl9oeXNHVnlXTlRMU1VRbkhYc00zckhycTFhajhIUlBUSHRyajFKVlVXRGIwaW1QdXJoSFpNcVVpcWRwNkt4Z2JmYUVYc1hkTTVYdk1xc1FLTHR5ZEUtT2hXMzJTbW5UMVpLb3dEcm5DdFJwVXpnblg3V1lyelNMdk1vaTA1TlF0eWxmTXE2U2gwT2JkSmYybUt2Qi0xS21PLVFwaFk?oc=5" target="_blank">Inside Project Kobe: Ama</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">Bose</div>
-          <div class="watch-type">品牌 · 4 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">Weekend Watchlist: I’ve </a>
-            
-            <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZ3pUMFhiUS1BdTVXNFNKRkFhbXphTTB0S2VQNzBCZ1NIX3JiQ1FIajltUmFDaVZCbVhQWGtyRzRMTXZqRGcxV0xtcFlIVDJkbFNUSGh4ZnpkVkFnd2djZU1BMDZIWnkyTTRqYTZyR2U1OEhnNVFr?oc=5" target="_blank">Bose joins the spring sa</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">Sony</div>
-          <div class="watch-type">品牌 · 3 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">Weekend Watchlist: I’ve </a>
-            
-            <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE54WmRCcldrZGsyM2VQWmF2emNCT0FpNjkyNE5DamFBRVRDQlBkVWpOVHhPS0F3dVFCNGlwNWhGdEJtWGlISDJKeGVmTUJ5YlZCNEYxdnR0NVE5aWdLa2FJVlpqZHByQQ?oc=5" target="_blank">Sony WH1000XM2 Review -N</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">open-ear</div>
-          <div class="watch-type">品类 · 3 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">H2O Audio Tri Run Review</a>
-            
-            <a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNalRhdFdsOVBBdXF1MXV3MW4zTG1MODdNVTZhN0tmcGlYcmx2X3c5YjFKWHJJaDVvSjEyd3NZYXBNMVBlRmRjMjF1cTJYc1RmTTZoR0NibzZVa0FsVGczU3B6d3JNbjdfS3ozM3FIYnppX2wwLTVoN2ZIcVd3QUdsMUlIZllOelhrNThTdHlEN0hPYnJUT3c?oc=5" target="_blank">OpenRock S Open-Ear Blue</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">bone conduction</div>
-          <div class="watch-type">品类 · 3 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank">I ran every day with the</a>
-            
-            <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnBoVWR5NWNpc3VsLWxncE0yRHpUSHkwZldIZnpfdnZ5aHJSVlpfZ0R4dmtLQVNLZ2FGWEFWazJ3Z05TZE1RWUpISnRpbmcyWnlXWFphMHFZZlFQNGR4YmNfV1NwOGxJV2ZBT2dRYTRDVWNqNk1QUGZ0NXNvSHI3YTlBTVkzX29iVGw5YWFxR01ZQ3hLM0JDSFA0aWxsZkVa?oc=5" target="_blank">The Amazon Big Spring Sa</a>
-            
-          </div>
-        </div>
-        
-        <div class="watch-card">
-          <div class="watch-name">Best Buy</div>
-          <div class="watch-type">渠道 · 2 条命中</div>
-          <div class="watch-links">
-            
-            <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPMy1aWXl3RThGMzVJVENtTFZxY1h4amJ2VmxXUDNoVmM1QWotZHJvdG1kZU10amRlRjduaDZCTnNfOE5SeWwwbENldmRwM1lNZ3AwYnJJS3MzMkhGaGtFUVM2M0xyNUl6cUx0aEtHd0x3dEltTTg3THRTY1BqVXhhdW1VWTRkQlpiWkFsTGNnWFJEZVhQeWt2dnFDOG9tZw?oc=5" target="_blank">Best Buy's competing Ama</a>
-            
-            <a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTHJfbGJMa3pFR0d2R1Y2N01Wejk2ak5HUE5JUEVuT3E1RjA4NEJubFpvR3ZqZkdzY3dvZEpOT2ZsTVB2N29oOFVsZmFYY01Ec0phUmhjSFFreEt4ai1fQ05tVXhYeHdVdHZ5YUF3LTFadFA4UGNEeG1ELTlCaDhOd2IwdnBFLVJjcl9PQU9yOGJEcU5FZkZzb3M3OTVKeHhCWDVRZ0N2U1BRd3VOdFloY1cwWXJISkpkbmZuR1VUbTdKYmdHRl9ndVp2QndNRWVCQjZSYmJUOA?oc=5" target="_blank">Gun drawn over line for </a>
-            
-          </div>
-        </div>
-        
-      </div>
-    </section>
-
-    <div class="section-row">
-      <section id="section-consumer" class="card section-card">
-        <div class="section-head">
-          <h2 class="section-title">消费电子</h2>
-        </div>
-
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank">
-            Weekend Watchlist: I’ve 
+          <a class="lead-story-title" href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5" target="_blank">
+            The Best Noise-Canceling Headphone...
           </a>
-          <div class="news-meta">
-            <span>Google News - Audio Wearable Watch</span>
-            <span>近3天</span>
-            <span>高</span>
-            <span>电商</span>
+          <div class="lead-story-meta">
+            Google News - Competitor Watch · 近7天 · 高 · 电商
           </div>
           <div class="tag-row">
             
             <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🏃 运动穿戴</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank">
-            H2O Audio Tri Run Review
-          </a>
-          <div class="news-meta">
-            <span>Google News - Audio Wearable Watch</span>
-            <span>近7天</span>
-            <span>高</span>
-            <span>品牌营销</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🏃 运动穿戴</span>
-            
-          </div>
-          <div class="news-note">open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank">
-            I ran every day with the
-          </a>
-          <div class="news-meta">
-            <span>Google News - Audio Wearable Watch</span>
-            <span>近7天</span>
-            <span>高</span>
-            <span>品牌营销</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🏃 运动穿戴</span>
-            
-          </div>
-          <div class="news-note">Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNalRhdFdsOVBBdXF1MXV3MW4zTG1MODdNVTZhN0tmcGlYcmx2X3c5YjFKWHJJaDVvSjEyd3NZYXBNMVBlRmRjMjF1cTJYc1RmTTZoR0NibzZVa0FsVGczU3B6d3JNbjdfS3ozM3FIYnppX2wwLTVoN2ZIcVd3QUdsMUlIZllOelhrNThTdHlEN0hPYnJUT3c?oc=5" target="_blank">
-            OpenRock S Open-Ear Blue
-          </a>
-          <div class="news-meta">
-            <span>Google News - Audio Wearable Watch</span>
-            <span>24h内</span>
-            <span>高</span>
-            <span>品牌营销</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🏃 运动穿戴</span>
-            
-          </div>
-          <div class="news-note">open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZ3pUMFhiUS1BdTVXNFNKRkFhbXphTTB0S2VQNzBCZ1NIX3JiQ1FIajltUmFDaVZCbVhQWGtyRzRMTXZqRGcxV0xtcFlIVDJkbFNUSGh4ZnpkVkFnd2djZU1BMDZIWnkyTTRqYTZyR2U1OEhnNVFr?oc=5" target="_blank">
-            Bose joins the spring sa
-          </a>
-          <div class="news-meta">
-            <span>Google News - Competitor Watch</span>
-            <span>24h内</span>
-            <span>高</span>
-            <span>品牌营销</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-          </div>
-          <div class="news-note">Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE54WmRCcldrZGsyM2VQWmF2emNCT0FpNjkyNE5DamFBRVRDQlBkVWpOVHhPS0F3dVFCNGlwNWhGdEJtWGlISDJKeGVmTUJ5YlZCNEYxdnR0NVE5aWdLa2FJVlpqZHByQQ?oc=5" target="_blank">
-            Sony WH1000XM2 Review -N
-          </a>
-          <div class="news-meta">
-            <span>Google News - Competitor Watch</span>
-            <span>近7天</span>
-            <span>高</span>
-            <span>品牌营销</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-          </div>
-          <div class="news-note">Bose / Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。</div>
-        </article>
-        
-      </section>
-
-      <section id="section-channel" class="card section-card">
-        <div class="section-head">
-          <h2 class="section-title">渠道 / 平台</h2>
-        </div>
-
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank">
-            Amazon and Walmart Move 
-          </a>
-          <div class="news-meta">
-            <span>Google News - Retail Platforms</span>
-            <span>近7天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDRsRjl1Nl9oeXNHVnlXTlRMU1VRbkhYc00zckhycTFhajhIUlBUSHRyajFKVlVXRGIwaW1QdXJoSFpNcVVpcWRwNkt4Z2JmYUVYc1hkTTVYdk1xc1FLTHR5ZEUtT2hXMzJTbW5UMVpLb3dEcm5DdFJwVXpnblg3V1lyelNMdk1vaTA1TlF0eWxmTXE2U2gwT2JkSmYybUt2Qi0xS21PLVFwaFk?oc=5" target="_blank">
-            Inside Project Kobe: Ama
-          </a>
-          <div class="news-meta">
-            <span>Google News - Retail Platforms</span>
-            <span>近3天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMie0FVX3lxTE8tVHVWam5mV240WU9adUpIMTgxVV9zOG9ESVNib19VR1FiVVNjVGNyQWdEeDF3YmNaUVl0WjlDVnE4bXZfdGtrTnNjM29PbDNkazdaT3BkYVkxSTJSRVlqTE9yTnNXbDNoYVVKVzlGTWpEOTFrYjRaaExXdw?oc=5" target="_blank">
-            Amazon and Walmart Compe
-          </a>
-          <div class="news-meta">
-            <span>Google News - Retail Platforms</span>
-            <span>近3天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE0wSU5jOWNNREVfV2hOeUozRVMtcWctVkdtYkM1VkszMU15cmFVNlZjSy01amhsOXZFQUhUTVpsbVFwT1BmeUlZWDBTM25OOTlDelRSbU5aenl1cXU3YVBUM0FNTjVaa09yRV9GS0ZfU1M?oc=5" target="_blank">
-            Spring sales are everywh
-          </a>
-          <div class="news-meta">
-            <span>Google News - Retail Platforms</span>
-            <span>近7天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon / Target相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://news.google.com/rss/articles/CBMingFBVV95cUxPMy1aWXl3RThGMzVJVENtTFZxY1h4amJ2VmxXUDNoVmM1QWotZHJvdG1kZU10amRlRjduaDZCTnNfOE5SeWwwbENldmRwM1lNZ3AwYnJJS3MzMkhGaGtFUVM2M0xyNUl6cUx0aEtHd0x3dEltTTg3THRTY1BqVXhhdW1VWTRkQlpiWkFsTGNnWFJEZVhQeWt2dnFDOG9tZw?oc=5" target="_blank">
-            Best Buy's competing Ama
-          </a>
-          <div class="news-meta">
-            <span>Google News - US Retail Audio</span>
-            <span>近7天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-        <article class="news-item">
-          <a class="news-title" href="https://www.modernretail.co/operations/marketplace-briefing-why-amazon-is-moving-prime-day-to-june-from-july-and-what-it-means-for-sellers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss" target="_blank">
-            Marketplace Briefing: Wh
-          </a>
-          <div class="news-meta">
-            <span>Modern Retail</span>
-            <span>近7天</span>
-            <span>高</span>
-            <span>电商</span>
-          </div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
-            
-            <span class="tag">🏬 平台电商</span>
-            
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-      </section>
-    </div>
-
-    <section id="section-products" class="card section-card" style="margin-bottom:18px;">
-      <div class="section-head">
-        <h2 class="section-title">新品速递</h2>
-      </div>
-
-            <div class="product-grid">
-        
-        <article class="product-card">
-          <a class="product-title" href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNalRhdFdsOVBBdXF1MXV3MW4zTG1MODdNVTZhN0tmcGlYcmx2X3c5YjFKWHJJaDVvSjEyd3NZYXBNMVBlRmRjMjF1cTJYc1RmTTZoR0NibzZVa0FsVGczU3B6d3JNbjdfS3ozM3FIYnppX2wwLTVoN2ZIcVd3QUdsMUlIZllOelhrNThTdHlEN0hPYnJUT3c?oc=5" target="_blank" title="OpenRock S Open-Ear Bluetooth Headphones - 60H Playtime, IPX5, Deep Bass For Sports & Office - aplusme.me">
-            OpenRock S Open-Ear Bluetooth...
-          </a>
-          <div class="product-meta">Google News - Audio Wearable Watch · 24h内 · 中</div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🏃 运动穿戴</span>
-            
-          </div>
-          <div class="product-summary-row">
-            <div class="product-summary" title="<a。">
-              <a。
-            </div>
-            <span class="judgement-pill">行业趋势</span>
-          </div>
-          <div class="news-note">open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。</div>
-        </article>
-        
-        <article class="product-card">
-          <a class="product-title" href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank" title="I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide">
-            I ran every day with the Shokz OpenRun...
-          </a>
-          <div class="product-meta">Google News - Audio Wearable Watch · 近7天 · 中</div>
-          <div class="tag-row">
-            
-            <span class="tag">🎧 耳机音频</span>
-            
-            <span class="tag">🏃 运动穿戴</span>
-            
-          </div>
-          <div class="product-summary-row">
-            <div class="product-summary" title="<a。">
-              <a。
-            </div>
-            <span class="judgement-pill">竞品观察</span>
-          </div>
-          <div class="news-note">Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。</div>
-        </article>
-        
-        <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank" title="The best deals we’ve found from Amazon’s Big Spring Sale (so far)">
-            The best deals we’ve found from...
-          </a>
-          <div class="product-meta">The Verge · 24h内 · 中</div>
-          <div class="tag-row">
-            
-            <span class="tag">🛒 渠道零售</span>
             
             <span class="tag">🏬 平台电商</span>
             
             <span class="tag">💰 价格促销</span>
             
           </div>
-          <div class="product-summary-row">
-            <div class="product-summary" title="Amazon loves to manufacture an event。">
-              Amazon loves to manufacture an event。
-            </div>
-            <span class="judgement-pill">价格促销</span>
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-        <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals" target="_blank" title="Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder">
-            Amazon’s Big Spring Sale is a great...
-          </a>
-          <div class="product-meta">The Verge · 24h内 · 低</div>
-          <div class="tag-row">
+          <div class="lead-story-note">亚马逊春季大促销中，索尼、博声和Beats的降噪耳机交易吸引消费者关注。</div>
+          <div class="lead-story-action">建议动作：加强电商平台的品牌营销，提升降噪耳机的曝光率。</div>
+          
+        </div>
+
+        <div class="hero-card">
+          <div class="card-kicker">今日重点</div>
+          <ul class="bullet-list">
             
-            <span class="tag">🚁 无人机影像</span>
+            <li>亚马逊和沃尔玛在零售战中加剧竞争，预计将推动价格战和促销活动。</li>
             
-            <span class="tag">🏬 平台电商</span>
+            <li>噪音取消耳机市场竞争加剧，品牌需创新以吸引消费者注意。</li>
             
-          </div>
-          <div class="product-summary-row">
-            <div class="product-summary" title="Bird feeders have come a long way。">
-              Bird feeders have come a long way。
-            </div>
-            <span class="judgement-pill">价格促销</span>
-          </div>
-          <div class="news-note">北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。</div>
-        </article>
-        
-        <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/column/902668/apple-antitrust-app-store-war" target="_blank" title="Apple’s long, bitter App Store antitrust war">
-            Apple’s long, bitter App Store...
-          </a>
-          <div class="product-meta">The Verge · 24h内 · 低</div>
-          <div class="tag-row">
+            <li>新品发布频繁，电商平台需优化推荐算法以提升销售转化率。</li>
             
-            <span class="tag">🛒 渠道零售</span>
+            <li>春季促销活动将促进消费者购买意愿，电商平台需抓住这一机会。</li>
             
-          </div>
-          <div class="product-summary-row">
-            <div class="product-summary" title="This is The Stepback, a weekly。">
-              This is The Stepback, a weekly。
-            </div>
-            <span class="judgement-pill">渠道动态</span>
-          </div>
-          <div class="news-note">该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。</div>
-        </article>
-        
-        <article class="product-card">
-          <a class="product-title" href="https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit" target="_blank" title="All the latest in AI &#8216;music&#8217;">
-            All the latest in AI &#8216;music&#8217;
-          </a>
-          <div class="product-meta">The Verge · 24h内 · 低</div>
-          <div class="tag-row">
+            <li>开放式耳机逐渐受到青睐，传统耳机品牌面临市场份额压力。</li>
             
-            <span class="tag">🚀 新品</span>
-            
-          </div>
-          <div class="product-summary-row">
-            <div class="product-summary" title="AI has touched every part of the。">
-              AI has touched every part of the。
-            </div>
-            <span class="judgement-pill">业务观察</span>
-          </div>
-          <div class="news-note">该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。</div>
-        </article>
-        
+          </ul>
+        </div>
       </div>
     </section>
 
-    <section class="card section-card">
-      <div class="section-head">
-        <h2 class="section-title">意见反馈</h2>
+    <section class="section">
+      <div class="section-box">
+        <div class="two-col">
+          <div>
+            <h2 class="section-title">消费电子</h2>
+            <div class="section-card-list">
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5" target="_blank" title="The Best Noise-Canceling Headphone Deals from Sony, Bose, and Beats for Amazon's Big Spring Sale - consequence.net">
+                  The Best Noise-Canceling Headphone...
+                </a>
+                <div class="news-meta">Google News - Competitor Watch · 近7天 · 高 · 电商</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🎧 耳机音频</span>
+                  
+                  <span class="tag">🏬 平台电商</span>
+                  
+                  <span class="tag">💰 价格促销</span>
+                  
+                </div>
+                <div class="news-note">亚马逊春季大促销中，索尼、博声和Beats的降噪耳机交易吸引消费者关注。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5" target="_blank" title="Weekend Watchlist: I’ve Found the Best Amazon Big Spring Sale Headphones Deals by Apple, Bose, Sony, and More - PCMag">
+                  Weekend Watchlist: I’ve Found the Best...
+                </a>
+                <div class="news-meta">Google News - Audio Wearable Watch · 近3天 · 高 · 电商</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🎧 耳机音频</span>
+                  
+                  <span class="tag">🏃 运动穿戴</span>
+                  
+                  <span class="tag">🏬 平台电商</span>
+                  
+                </div>
+                <div class="news-note">亚马逊春季大促销为耳机类产品提供了良好销售机会，需抓住市场热度。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFY3WXJrQXU2SWxnZnUzeHhBTlBIMjlTV2tsM2c1RmppbWtUbFBETGltM0dPZWJONVdhdzdCbG5MUEF1X1JXNWxfem1zWWtPRzNFakJiSjBlOFdCOFFCdlgxWG9jaWtsc3BPNkY2QS1GS0tWX2JZMTY3NDVnRHVRQXlMUmhvOHlZ?oc=5" target="_blank" title="H2O Audio Tri Run Review: These Open-Ear Headphones Are a Good Value, but You Might Want to Spend More - Lifehacker">
+                  H2O Audio Tri Run Review: These...
+                </a>
+                <div class="news-meta">Google News - Audio Wearable Watch · 近7天 · 中 · 品牌营销</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🎧 耳机音频</span>
+                  
+                  <span class="tag">🏃 运动穿戴</span>
+                  
+                </div>
+                <div class="news-note">H2O Audio Tri Run耳机性价比高，适合注重性价比的消费者。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank" title="I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide">
+                  I ran every day with the Shokz OpenRun...
+                </a>
+                <div class="news-meta">Google News - Audio Wearable Watch · 近7天 · 高 · 品牌营销</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🎧 耳机音频</span>
+                  
+                  <span class="tag">🏃 运动穿戴</span>
+                  
+                </div>
+                <div class="news-note">Shokz OpenRun Pro 2 骨传导耳机适合跑步者，提升品牌知名度。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNalRhdFdsOVBBdXF1MXV3MW4zTG1MODdNVTZhN0tmcGlYcmx2X3c5YjFKWHJJaDVvSjEyd3NZYXBNMVBlRmRjMjF1cTJYc1RmTTZoR0NibzZVa0FsVGczU3B6d3JNbjdfS3ozM3FIYnppX2wwLTVoN2ZIcVd3QUdsMUlIZllOelhrNThTdHlEN0hPYnJUT3c?oc=5" target="_blank" title="OpenRock S Open-Ear Bluetooth Headphones - 60H Playtime, IPX5, Deep Bass For Sports & Office - aplusme.me">
+                  OpenRock S Open-Ear Bluetooth...
+                </a>
+                <div class="news-meta">Google News - Audio Wearable Watch · 近3天 · 高 · 品牌营销</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🎧 耳机音频</span>
+                  
+                  <span class="tag">🏃 运动穿戴</span>
+                  
+                </div>
+                <div class="news-note">OpenRock S耳机具备长续航和防水性能，适合运动和办公场景，市场潜力大。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZ3pUMFhiUS1BdTVXNFNKRkFhbXphTTB0S2VQNzBCZ1NIX3JiQ1FIajltUmFDaVZCbVhQWGtyRzRMTXZqRGcxV0xtcFlIVDJkbFNUSGh4ZnpkVkFnd2djZU1BMDZIWnkyTTRqYTZyR2U1OEhnNVFr?oc=5" target="_blank" title="Bose joins the spring sale party, finally: Get QuietComfort headphones for $100 off - Mashable">
+                  Bose joins the spring sale party...
+                </a>
+                <div class="news-meta">Google News - Competitor Watch · 近3天 · 高 · 品牌营销</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🎧 耳机音频</span>
+                  
+                </div>
+                <div class="news-note">Bose通过春季促销提升品牌曝光，吸引消费者关注QuietComfort耳机。</div>
+              </article>
+              
+            </div>
+          </div>
+
+          <div>
+            <h2 class="section-title">渠道 / 平台</h2>
+            <div class="section-card-list">
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5" target="_blank" title="Amazon and Walmart Move the Retail War Past the Buy Button - PYMNTS.com">
+                  Amazon and Walmart Move the Retail War...
+                </a>
+                <div class="news-meta">Google News - Retail Platforms · 近7天 · 高 · 电商</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🛒 渠道零售</span>
+                  
+                  <span class="tag">🏬 平台电商</span>
+                  
+                </div>
+                <div class="news-note">亚马逊和沃尔玛在零售战中推动了电商渠道的创新，影响深远。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDRsRjl1Nl9oeXNHVnlXTlRMU1VRbkhYc00zckhycTFhajhIUlBUSHRyajFKVlVXRGIwaW1QdXJoSFpNcVVpcWRwNkt4Z2JmYUVYc1hkTTVYdk1xc1FLTHR5ZEUtT2hXMzJTbW5UMVpLb3dEcm5DdFJwVXpnblg3V1lyelNMdk1vaTA1TlF0eWxmTXE2U2gwT2JkSmYybUt2Qi0xS21PLVFwaFk?oc=5" target="_blank" title="Inside Project Kobe: Amazon's plan to build Walmart-style supercenters powered by warehouse robots and AI - Business Insider">
+                  Inside Project Kobe: Amazon's plan to...
+                </a>
+                <div class="news-meta">Google News - Retail Platforms · 近3天 · 高 · 电商</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🛒 渠道零售</span>
+                  
+                  <span class="tag">🏬 平台电商</span>
+                  
+                </div>
+                <div class="news-note">亚马逊计划建设类似沃尔玛的超级中心，将影响电商渠道销售模式。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXR0cFQ1U3NfLThkTFZCOUtfd2N3Rl9fV3JqRHBqT0VKNkpoN3F4TzZkbGx2U0ZhQWNPNHhfSWdBWjU0ZGZ1LUx3LUxHYzBrdzVudGpSeGpTc1IyNzg2TU1SMVRGdmtQdzdnNGxBOTVWVkxqLWp6S0RBNXlpWkJFeHBRZkY?oc=5" target="_blank" title="Best Amazon Spring Sale headphones deals 2026: Bose, Sony, and Apple on sale - Mashable">
+                  Best Amazon Spring Sale headphones...
+                </a>
+                <div class="news-meta">Google News - US Retail Audio · 24h内 · 高 · 电商</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🎧 耳机音频</span>
+                  
+                  <span class="tag">🛒 渠道零售</span>
+                  
+                  <span class="tag">🏬 平台电商</span>
+                  
+                </div>
+                <div class="news-note">2026年春季亚马逊耳机促销对电商销售至关重要，需抓住机会。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMie0FVX3lxTE8tVHVWam5mV240WU9adUpIMTgxVV9zOG9ESVNib19VR1FiVVNjVGNyQWdEeDF3YmNaUVl0WjlDVnE4bXZfdGtrTnNjM29PbDNkazdaT3BkYVkxSTJSRVlqTE9yTnNXbDNoYVVKVzlGTWpEOTFrYjRaaExXdw?oc=5" target="_blank" title="Amazon and Walmart Compete for $1 Trillion Rural Market - Bloomberg.com">
+                  Amazon and Walmart Compete for $1...
+                </a>
+                <div class="news-meta">Google News - Retail Platforms · 近3天 · 高 · 电商</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🛒 渠道零售</span>
+                  
+                  <span class="tag">🏬 平台电商</span>
+                  
+                </div>
+                <div class="news-note">亚马逊与沃尔玛争夺万亿农村市场，影响电商销售策略。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE0wSU5jOWNNREVfV2hOeUozRVMtcWctVkdtYkM1VkszMU15cmFVNlZjSy01amhsOXZFQUhUTVpsbVFwT1BmeUlZWDBTM25OOTlDelRSbU5aenl1cXU3YVBUM0FNTjVaa09yRV9GS0ZfU1M?oc=5" target="_blank" title="Spring sales are everywhere this week — these are the best to shop from Amazon, Sephora, Target and more - NBC News">
+                  Spring sales are everywhere this week —...
+                </a>
+                <div class="news-meta">Google News - Retail Platforms · 近7天 · 高 · 电商</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🛒 渠道零售</span>
+                  
+                  <span class="tag">🏬 平台电商</span>
+                  
+                </div>
+                <div class="news-note">春季促销活动为电商平台带来流量，需抓住机会提升销量。</div>
+              </article>
+              
+              <article class="section-card">
+                <a class="news-title" href="https://news.google.com/rss/articles/CBMingFBVV95cUxPMy1aWXl3RThGMzVJVENtTFZxY1h4amJ2VmxXUDNoVmM1QWotZHJvdG1kZU10amRlRjduaDZCTnNfOE5SeWwwbENldmRwM1lNZ3AwYnJJS3MzMkhGaGtFUVM2M0xyNUl6cUx0aEtHd0x3dEltTTg3THRTY1BqVXhhdW1VWTRkQlpiWkFsTGNnWFJEZVhQeWt2dnFDOG9tZw?oc=5" target="_blank" title="Best Buy's competing Amazon tech deals are worth a look today - The Fayetteville Observer">
+                  Best Buy's competing Amazon tech deals...
+                </a>
+                <div class="news-meta">Google News - US Retail Audio · 近7天 · 高 · 电商</div>
+                <div class="tag-row">
+                  
+                  <span class="tag">🎧 耳机音频</span>
+                  
+                  <span class="tag">🛒 渠道零售</span>
+                  
+                  <span class="tag">🏬 平台电商</span>
+                  
+                </div>
+                <div class="news-note">Best Buy在电商领域与亚马逊竞争，需关注其促销策略。</div>
+              </article>
+              
+            </div>
+          </div>
+        </div>
       </div>
-      <a
-        class="feedback-link"
-        href="https://docs.google.com/forms/d/e/1FAIpQLSdyWZwDTGRplMGv6EWojLPp3VjaKpsv_DqKaS0XyXiayPf7hg/viewform?usp=dialog"
-        target="_blank"
-      >
-        点击填写反馈表单，告诉我你希望增加、删除或调整的内容。
-      </a>
     </section>
 
+    <section class="section">
+      <div class="section-box">
+        <h2 class="section-title">新品速递</h2>
+        <div class="product-grid">
+          
+          <article class="product-card">
+            <a class="product-title" href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE5SaVNNS2RjeWJtaG14RVpsSmQwR20tZ1l0QV9pd29LdWhoYmNjYVBMUHROejZYZjExQzdmVXAzZ09SaXJGcFJxR2lZckJhckxJdUV3Wnl4ZWNnaGxVeHhuNFFXa3NjcFRsVE5ybWFrVVE4Q2h0MkdrSEFHWmlUYmM1SlV4T2lKZkNfdTdwZ3E3NHR6TTFZWnJYajZFQUt3MDJtRzF4Zzh6bU5lSWVvc2NRVDc0MHZOZFB2Tk9lNGFwS21uNTR1ZHNSV1hjMGFndk84bFJ1d1lDcnFzUm9hdXlOcENtREotcFVTTXNic1M?oc=5" target="_blank" title="I ran every day with the Shokz OpenRun Pro 2 for two weeks — they’re the perfect bone conduction headphones for runners - Tom's Guide">
+              I ran every day with the Shokz OpenRun...
+            </a>
+            <div class="product-meta">Google News - Audio Wearable Watch · 近7天 · 高</div>
+            <div class="tag-row">
+              
+              <span class="tag">🎧 耳机音频</span>
+              
+              <span class="tag">🏃 运动穿戴</span>
+              
+            </div>
+            <div class="product-summary-row">
+              <div class="product-summary" title="某科技公司推出新款智能手机，搭载先进处理器，提升性能与用户体验，预计将于下月上市。">
+                某科技公司推出新款智能手机，搭载先进处理器，提升性能与用户体验，预计将于下月上市。
+              </div>
+              <span class="judgement-pill">竞品观察</span>
+            </div>
+            <div class="news-note">Shokz OpenRun Pro 2在跑步者中受欢迎，有助于提升品牌知名度。</div>
+          </article>
+          
+          <article class="product-card">
+            <a class="product-title" href="https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals" target="_blank" title="The best deals we’ve found from Amazon’s Big Spring Sale (so far)">
+              The best deals we’ve found from...
+            </a>
+            <div class="product-meta">The Verge · 24h内 · 高</div>
+            <div class="tag-row">
+              
+              <span class="tag">🛒 渠道零售</span>
+              
+              <span class="tag">🏬 平台电商</span>
+              
+              <span class="tag">💰 价格促销</span>
+              
+            </div>
+            <div class="product-summary-row">
+              <div class="product-summary" title="亚马逊第三届春季大促销于3月31日结束，旨在吸引消费者，尽管3月通常交易较少。">
+                亚马逊第三届春季大促销于3月31日结束，旨在吸引消费者，尽管3月通常交易较少。
+              </div>
+              <span class="judgement-pill">价格促销</span>
+            </div>
+            <div class="news-note">亚马逊春季大促为电商团队提供了重要的销售机会，需抓住时机提升销量。</div>
+          </article>
+          
+          <article class="product-card">
+            <a class="product-title" href="https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals" target="_blank" title="Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder">
+              Amazon’s Big Spring Sale is a great...
+            </a>
+            <div class="product-meta">The Verge · 24h内 · 高</div>
+            <div class="tag-row">
+              
+              <span class="tag">🚁 无人机影像</span>
+              
+              <span class="tag">🏬 平台电商</span>
+              
+            </div>
+            <div class="product-summary-row">
+              <div class="product-summary" title="现代鸟食器配备摄像头和太阳能屋顶，BirdBuddy和Netvue等品牌引。">
+                现代鸟食器配备摄像头和太阳能屋顶，BirdBuddy和Netvue等品牌引。
+              </div>
+              <span class="judgement-pill">价格促销</span>
+            </div>
+            <div class="news-note">亚马逊春季大促为智能鸟食器提供了良好的销售机会。</div>
+          </article>
+          
+          <article class="product-card">
+            <a class="product-title" href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNalRhdFdsOVBBdXF1MXV3MW4zTG1MODdNVTZhN0tmcGlYcmx2X3c5YjFKWHJJaDVvSjEyd3NZYXBNMVBlRmRjMjF1cTJYc1RmTTZoR0NibzZVa0FsVGczU3B6d3JNbjdfS3ozM3FIYnppX2wwLTVoN2ZIcVd3QUdsMUlIZllOelhrNThTdHlEN0hPYnJUT3c?oc=5" target="_blank" title="OpenRock S Open-Ear Bluetooth Headphones - 60H Playtime, IPX5, Deep Bass For Sports & Office - aplusme.me">
+              OpenRock S Open-Ear Bluetooth...
+            </a>
+            <div class="product-meta">Google News - Audio Wearable Watch · 近3天 · 高</div>
+            <div class="tag-row">
+              
+              <span class="tag">🎧 耳机音频</span>
+              
+              <span class="tag">🏃 运动穿戴</span>
+              
+            </div>
+            <div class="product-summary-row">
+              <div class="product-summary" title="苹果计划在2024年推出新款MacBook。">
+                苹果计划在2024年推出新款MacBook。
+              </div>
+              <span class="judgement-pill">行业趋势</span>
+            </div>
+            <div class="news-note">OpenRock S耳机具备60小时续航和IPX5防水，适合运动和办公场景，市场潜力大。</div>
+          </article>
+          
+          <article class="product-card">
+            <a class="product-title" href="https://www.theverge.com/column/902668/apple-antitrust-app-store-war" target="_blank" title="Apple’s long, bitter App Store antitrust war">
+              Apple’s long, bitter App Store...
+            </a>
+            <div class="product-meta">The Verge · 24h内 · 高</div>
+            <div class="tag-row">
+              
+              <span class="tag">🛒 渠道零售</span>
+              
+            </div>
+            <div class="product-summary-row">
+              <div class="product-summary" title="《The。">
+                《The。
+              </div>
+              <span class="judgement-pill">渠道动态</span>
+            </div>
+            <div class="news-note">苹果的App Store反垄断战争将影响渠道销售策略，需密切关注市场变化。</div>
+          </article>
+          
+          <article class="product-card">
+            <a class="product-title" href="https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit" target="_blank" title="All the latest in AI &#8216;music&#8217;">
+              All the latest in AI &#8216;music&#8217;
+            </a>
+            <div class="product-meta">The Verge · 24h内 · 中</div>
+            <div class="tag-row">
+              
+              <span class="tag">🚀 新品</span>
+              
+            </div>
+            <div class="product-summary-row">
+              <div class="product-summary" title="AI已渗透音乐产业各环节，面临技术、法律挑战及伦理争议，行业担忧其影响创作质量。">
+                AI已渗透音乐产业各环节，面临技术、法律挑战及伦理争议，行业担忧其影响创作质量。
+              </div>
+              <span class="judgement-pill">业务观察</span>
+            </div>
+            <div class="news-note">AI技术在音乐行业的应用逐渐增多，需关注其对品牌营销的影响。</div>
+          </article>
+          
+        </div>
+      </div>
+    </section>
+
+    
+    <section class="section">
+      <div class="section-box">
+        <h2 class="section-title">节日 / 促销节点</h2>
+        <div class="festival-grid">
+          
+          <article class="mini-card">
+            <h3>
+              
+              <a href="easter.html">🥚 复活节</a>
+              
+            </h3>
+            <p>2026-04-05 ｜ 倒计时 6 天</p>
+            
+          </article>
+          
+          <article class="mini-card">
+            <h3>
+              
+              <a href="mothers-day.html">🌸 母亲节</a>
+              
+            </h3>
+            <p>2026-05-10 ｜ 倒计时 41 天</p>
+            
+          </article>
+          
+          <article class="mini-card">
+            <h3>
+              
+              <a href="jd-618.html">📦 618</a>
+              
+            </h3>
+            <p>2026-06-18 ｜ 倒计时 80 天</p>
+            
+          </article>
+          
+          <article class="mini-card">
+            <h3>
+              
+              <a href="prime-day.html">⚡ Prime Day</a>
+              
+            </h3>
+            <p>2026-07-15 ｜ 倒计时 107 天</p>
+            
+          </article>
+          
+        </div>
+      </div>
+    </section>
+    
+
+    <section class="section">
+      <div class="section-box">
+        <h2 class="section-title">机会提示 / 风险提示</h2>
+        <div class="signal-grid">
+          <article class="mini-card">
+            <h3>机会提示</h3>
+            <ul class="bullet-list">
+              
+              <li>亚马逊春季大促销为降噪耳机类产品提供了良好的销售机会，需及时调整库存以满足消费者需求。</li>
+              
+              <li>随着亚马逊与沃尔玛在电商渠道的创新竞争，建议加强线上营销策略以提升品牌曝光度和市场份额。</li>
+              
+              <li>关注亚马逊计划建设超级中心的动态，提前布局线下体验店可有效增强消费者粘性。</li>
+              
+            </ul>
+          </article>
+
+          <article class="mini-card">
+            <h3>风险提示</h3>
+            <ul class="bullet-list">
+              
+              <li>亚马逊与沃尔玛在电商渠道的激烈竞争可能导致价格战，压缩利润空间。</li>
+              
+              <li>如果未能及时抓住春季促销的市场热度，可能会错失耳机类产品的销售机会。</li>
+              
+              <li>亚马逊计划建设超级中心可能改变消费者购物习惯，影响传统零售商的市场份额。</li>
+              
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    
+    <section class="section">
+      <div class="section-box">
+        <h2 class="section-title">重点监控对象</h2>
+        <div class="watch-grid">
+          
+          
+          <article class="mini-card">
+            <div class="entity-type">渠道</div>
+            <h3>Amazon</h3>
+            <div class="entity-count">命中 13 次</div>
+            
+            <ul class="bullet-list" style="margin-top: 10px;">
+              
+              <li>The Best Noise-Canceling Headphone...</li>
+              
+              <li>Weekend Watchlist: I’ve Found the Best...</li>
+              
+            </ul>
+            
+          </article>
+          
+          
+          <article class="mini-card">
+            <div class="entity-type">品类</div>
+            <h3>headphone</h3>
+            <div class="entity-count">命中 12 次</div>
+            
+            <ul class="bullet-list" style="margin-top: 10px;">
+              
+              <li>The Best Noise-Canceling Headphone...</li>
+              
+              <li>Weekend Watchlist: I’ve Found the Best...</li>
+              
+            </ul>
+            
+          </article>
+          
+          
+          <article class="mini-card">
+            <div class="entity-type">品牌</div>
+            <h3>Bose</h3>
+            <div class="entity-count">命中 5 次</div>
+            
+            <ul class="bullet-list" style="margin-top: 10px;">
+              
+              <li>The Best Noise-Canceling Headphone...</li>
+              
+              <li>Weekend Watchlist: I’ve Found the Best...</li>
+              
+            </ul>
+            
+          </article>
+          
+          
+          <article class="mini-card">
+            <div class="entity-type">渠道</div>
+            <h3>Walmart</h3>
+            <div class="entity-count">命中 4 次</div>
+            
+            <ul class="bullet-list" style="margin-top: 10px;">
+              
+              <li>Amazon and Walmart Move the Retail War...</li>
+              
+              <li>Inside Project Kobe: Amazon's plan to...</li>
+              
+            </ul>
+            
+          </article>
+          
+          
+          <article class="mini-card">
+            <div class="entity-type">品牌</div>
+            <h3>Sony</h3>
+            <div class="entity-count">命中 4 次</div>
+            
+            <ul class="bullet-list" style="margin-top: 10px;">
+              
+              <li>The Best Noise-Canceling Headphone...</li>
+              
+              <li>Weekend Watchlist: I’ve Found the Best...</li>
+              
+            </ul>
+            
+          </article>
+          
+          
+          <article class="mini-card">
+            <div class="entity-type">渠道</div>
+            <h3>Best Buy</h3>
+            <div class="entity-count">命中 3 次</div>
+            
+            <ul class="bullet-list" style="margin-top: 10px;">
+              
+              <li>Best Buy's competing Amazon tech deals...</li>
+              
+              <li>Best Buy Is Taking Almost $30 Off the...</li>
+              
+            </ul>
+            
+          </article>
+          
+          
+          <article class="mini-card">
+            <div class="entity-type">品类</div>
+            <h3>open-ear</h3>
+            <div class="entity-count">命中 3 次</div>
+            
+            <ul class="bullet-list" style="margin-top: 10px;">
+              
+              <li>H2O Audio Tri Run Review: These...</li>
+              
+              <li>OpenRock S Open-Ear Bluetooth...</li>
+              
+            </ul>
+            
+          </article>
+          
+          
+          <article class="mini-card">
+            <div class="entity-type">品类</div>
+            <h3>bone conduction</h3>
+            <div class="entity-count">命中 3 次</div>
+            
+            <ul class="bullet-list" style="margin-top: 10px;">
+              
+              <li>I ran every day with the Shokz OpenRun...</li>
+              
+              <li>The Amazon Big Spring Sale Is Knocking...</li>
+              
+            </ul>
+            
+          </article>
+          
+        </div>
+      </div>
+    </section>
+    
+
+    
+    <section class="section">
+      <div class="section-box">
+        <h2 class="section-title">复盘建议</h2>
+        <div class="feedback-grid">
+          
+          <article class="mini-card">
+            <p>这期日报最有价值的是哪一块？</p>
+          </article>
+          
+          <article class="mini-card">
+            <p>哪些内容你觉得太多、太少，或还缺失？</p>
+          </article>
+          
+          <article class="mini-card">
+            <p>哪些品牌 / 平台 / 品类应该被提升到更高优先级？</p>
+          </article>
+          
+          <article class="mini-card">
+            <p>哪些判断不够准确，应该怎么改？</p>
+          </article>
+          
+        </div>
+      </div>
+    </section>
+    
+
+    <div class="footer-note">
+      自动生成页面 ｜ 状态：消费电子 / 渠道 / 新品 三类源已完成抓取与筛选 ｜ 规则：24h后开始降权
+    </div>
   </div>
-
-  <script>
-    function formatTime(timeZone) {
-      return new Intl.DateTimeFormat("zh-CN", {
-        timeZone,
-        hour: "2-digit",
-        minute: "2-digit",
-        second: "2-digit",
-        hour12: false,
-        month: "2-digit",
-        day: "2-digit"
-      }).format(new Date());
-    }
-
-    function updateTimes() {
-      document.getElementById("beijing-time").textContent = formatTime("Asia/Shanghai");
-      document.getElementById("tz-et").textContent = formatTime("America/New_York");
-      document.getElementById("tz-ct").textContent = formatTime("America/Chicago");
-      document.getElementById("tz-mt").textContent = formatTime("America/Denver");
-      document.getElementById("tz-pt").textContent = formatTime("America/Los_Angeles");
-      document.getElementById("tz-akt").textContent = formatTime("America/Anchorage");
-      document.getElementById("tz-hst").textContent = formatTime("Pacific/Honolulu");
-    }
-
-    updateTimes();
-    setInterval(updateTimes, 1000);
-  </script>
 </body>
 </html>

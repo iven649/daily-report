@@ -91,6 +91,15 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "Why OpenAI really shut down Sora",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "published": "Mon, 30 Mar 2026 03:09:38 +0000",
+      "published_iso": "2026-03-30T03:09:38+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
       "summary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
       "url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
@@ -186,15 +195,6 @@
       "url": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
       "published": "Sat, 28 Mar 2026 16:00:00 +0000",
       "published_iso": "2026-03-28T16:00:00+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "published": "Sat, 28 Mar 2026 14:15:00 +0000",
-      "published_iso": "2026-03-28T14:15:00+00:00",
       "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
@@ -307,6 +307,42 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "Older Galaxy phones are now getting AirDrop support, but don’t celebrate yet",
+      "summary": "Spoiler: Just because you can see the option on your older Galaxy phone, doesn't mean you can use it.",
+      "url": "https://www.androidauthority.com/older-samsung-phones-airdrop-support-3652987/",
+      "published": "Mon, 30 Mar 2026 06:41:48 +0000",
+      "published_iso": "2026-03-30T06:41:48+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Exclusive: Android could soon get its own AirDrop-style ‘tap to share’ feature",
+      "summary": "We've tracked the feature across Samsung's One UI 9, Google Play Services, and Android 17 system-level code.",
+      "url": "https://www.androidauthority.com/android-tap-to-share-quick-share-3652981/",
+      "published": "Mon, 30 Mar 2026 05:28:34 +0000",
+      "published_iso": "2026-03-30T05:28:34+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "YouTube quietly adds Android Auto support, but it’s not what you think",
+      "summary": "Watching videos isn't possible yet, but this could be a sign Google is getting there.",
+      "url": "https://www.androidauthority.com/android-auto-youtube-playback-controls-3652976/",
+      "published": "Mon, 30 Mar 2026 04:21:08 +0000",
+      "published_iso": "2026-03-30T04:21:08+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Gboard might finally fix one of voice typing’s biggest frustrations",
+      "summary": "Google may soon let you use your Bluetooth earbuds' mic for voice typing, making dictation much more convenient.",
+      "url": "https://www.androidauthority.com/gboard-voice-typing-bluetooth-earbuds-3652971/",
+      "published": "Mon, 30 Mar 2026 03:24:33 +0000",
+      "published_iso": "2026-03-30T03:24:33+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "This budget Google TV projector looks like a space-age gimmick, and I love it",
       "summary": "Flippable speakers give the Nebula P1i a very unique build.",
       "url": "https://www.androidauthority.com/soundcore-nebula-p1i-review-3652067/",
@@ -317,7 +353,7 @@
     },
     {
       "title": "Gmail cleanup: How I went from 2,341 unread emails to Inbox Zero in three steps",
-      "summary": "I was well worth the effort.",
+      "summary": "It was well worth the effort.",
       "url": "https://www.androidauthority.com/gmail-inbox-zero-system-3652579/",
       "published": "Sun, 29 Mar 2026 12:00:57 +0000",
       "published_iso": "2026-03-29T12:00:57+00:00",
@@ -379,43 +415,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Samsung Galaxy S26 problems and how to fix them",
-      "summary": "Running into problems? Here's some known issues, and potential fixes as well.",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-problems-3651083/",
-      "published": "Sat, 28 Mar 2026 11:00:55 +0000",
-      "published_iso": "2026-03-28T11:00:55+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "The HUAWEI FreeBuds Pro 5 take on Apple and Sony’s finest",
-      "summary": "Superb battery life, ANC, and sound quality stand out, but there's room for improvement.",
-      "url": "https://www.androidauthority.com/huawei-freebuds-pro-5-review-3651026/",
-      "published": "Sat, 28 Mar 2026 10:30:45 +0000",
-      "published_iso": "2026-03-28T10:30:45+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "5 Gemini sidebar tricks that made Chrome feel like a new browser",
-      "summary": "I didn’t expect much from Gemini in Chrome until it became part of everything I do online.",
-      "url": "https://www.androidauthority.com/gemini-sidebar-tricks-chrome-3651603/",
-      "published": "Sat, 28 Mar 2026 10:00:35 +0000",
-      "published_iso": "2026-03-28T10:00:35+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "I ditched Google Drive and Photos for this privacy-focused app, and I couldn’t be happier",
-      "summary": "It's not without faults, though.",
-      "url": "https://www.androidauthority.com/i-ditched-google-drive-for-proton-drive-3647483/",
-      "published": "Sat, 28 Mar 2026 10:00:02 +0000",
-      "published_iso": "2026-03-28T10:00:02+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Weekend Watchlist: I’ve Found the Best Amazon Big Spring Sale Headphones Deals by Apple, Bose, Sony, and More - pcmag.com",
+      "title": "Weekend Watchlist: I’ve Found the Best Amazon Big Spring Sale Headphones Deals by Apple, Bose, Sony, and More - PCMag",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5\" target=\"_blank\">Weekend Watchlist: I’ve Found the Best Amazon Big Spring Sale He",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVmbGh6VzVVRm4waTA3RmFLaW93d2hjMlcxZkpkZkdlSnJYVW85ZmtMeVY3dmdEQzFPcTZlbGdhS1dqM2RVNkJYeUljVU1YdUZYRFRobElob2xsNDdMM1ZUalFuTGR3SU1SRDVqREZCclhqLTliNkFiVVVMRnlBaGlhMzdtNjg?oc=5",
       "published": "Sat, 28 Mar 2026 13:39:50 GMT",
@@ -451,7 +451,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Which earbuds are best for phone calls? - fox59.com",
+      "title": "Which earbuds are best for phone calls? - Fox 59",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQd09nSnlmTGpuZUxtS1dIZ3RRQWFLQUhqbUxWajZGeGhsekJBdHBHRTRrbUlwZUVnSTVla28zQUg2Y3RteTZfT0lGbXMtQnMyZkpqY013a2dtSUlhMFdHNXFDQzNIbUhoUkEyb05XbFJlbEZyeW03QU1aVDVIR2t1T3k5akdLT25oalhVcEEtLU1RYW1jaDlXdzJEcEM5Z9IBowFBVV95cUxNTUo0OEFJVnd1bGx0TDNtN0ZxUEwtNnFYUG1zSDJXQW",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd09nSnlmTGpuZUxtS1dIZ3RRQWFLQUhqbUxWajZGeGhsekJBdHBHRTRrbUlwZUVnSTVla28zQUg2Y3RteTZfT0lGbXMtQnMyZkpqY013a2dtSUlhMFdHNXFDQzNIbUhoUkEyb05XbFJlbEZyeW03QU1aVDVIR2t1T3k5akdLT25oalhVcEEtLU1RYW1jaDlXdzJEcEM5Z9IBowFBVV95cUxNTUo0OEFJVnd1bGx0TDNtN0ZxUEwtNnFYUG1zSDJXQWd6ZVF0M0lIVENVWFFkZXdXZnBkdFdVRXF1SGg2Q20wazh6dWpUaF9LVUV3bmpkRTdQd0Jqa2RpcWpBeHBiTnpieHM3TjNtQV9sc0lBTk1LYWxYQVpRcEo2a1RUZVNfY3h4S2ZWc3FLblY2YzhBdW5PNTg5bXJPNk5JNzRZ?oc=5",
       "published": "Mon, 23 Mar 2026 18:15:58 GMT",
@@ -496,7 +496,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Nike, Sonos, Samsung and 15 Other Brands Marked Up to 60% Off During Amazon’s Big Spring Sale - Rolling Stone",
+      "title": "Nike, Sonos, Samsung and 15 Other Brands Marked Up to 60% Off During Amazon’s Big Spring Sale - rollingstone.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOekRWcDRzZVVMQkJVbjl6bWVaMXIyNE13bnpwYWhVQk9QSWoyUG12LWxvRE1KQXFpbkI1UHd3bGhZQmNrcGZweWFHS3dkVHZrODh3aEwzaDdBVkZYeTJQVGV1dUE2WlY5cVdyTnVXSTdFY3dJdVJtNVcxV1NpYTlGT3lYQ1NyT3o0OG5EalloaUtlZkNvOE9ITjRtVnBSWWNkXzd4OGI2dmIyWHFoYjdzU25mMDlXbTFWRkNnV0d4Y1Myd0VWd2xxYk",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOekRWcDRzZVVMQkJVbjl6bWVaMXIyNE13bnpwYWhVQk9QSWoyUG12LWxvRE1KQXFpbkI1UHd3bGhZQmNrcGZweWFHS3dkVHZrODh3aEwzaDdBVkZYeTJQVGV1dUE2WlY5cVdyTnVXSTdFY3dJdVJtNVcxV1NpYTlGT3lYQ1NyT3o0OG5EalloaUtlZkNvOE9ITjRtVnBSWWNkXzd4OGI2dmIyWHFoYjdzU25mMDlXbTFWRkNnV0d4Y1Myd0VWd2xxYktScGs?oc=5",
       "published": "Fri, 27 Mar 2026 06:15:22 GMT",
@@ -535,14 +535,14 @@
       "title": "Bose joins the spring sale party, finally: Get QuietComfort headphones for $100 off - Mashable",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZ3pUMFhiUS1BdTVXNFNKRkFhbXphTTB0S2VQNzBCZ1NIX3JiQ1FIajltUmFDaVZCbVhQWGtyRzRMTXZqRGcxV0xtcFlIVDJkbFNUSGh4ZnpkVkFnd2djZU1BMDZIWnkyTTRqYTZyR2U1OEhnNVFr?oc=5\" target=\"_blank\">Bose joins the spring sale party, finally: Get QuietComfort headphones for $100 off</a>",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZ3pUMFhiUS1BdTVXNFNKRkFhbXphTTB0S2VQNzBCZ1NIX3JiQ1FIajltUmFDaVZCbVhQWGtyRzRMTXZqRGcxV0xtcFlIVDJkbFNUSGh4ZnpkVkFnd2djZU1BMDZIWnkyTTRqYTZyR2U1OEhnNVFr?oc=5",
-      "published": "Sun, 29 Mar 2026 03:06:35 GMT",
-      "published_iso": "2026-03-29T03:06:35+00:00",
+      "published": "Sat, 28 Mar 2026 11:17:18 GMT",
+      "published_iso": "2026-03-28T11:17:18+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony WH1000XM2 Review -Noise Cancelling Heaphones Better than Bose? - audiophileon.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE54WmRCcldrZGsyM2VQWmF2emNCT0FpNjkyNE5DamFBRVRDQlBkVWpOVHhPS0F3dVFCNGlwNWhGdEJtWGlISDJKeGVmTUJ5YlZCNEYxdnR0NVE5aWdLa2FJVlpqZHByQQ?oc=5\" target=\"_blank\">Sony WH1000XM2 Review -Noise Cancelling Heaphones Better than Bose?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">audi",
+      "title": "Sony WH1000XM2 Review -Noise Cancelling Heaphones Better than Bose? - Audiophile ON",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE54WmRCcldrZGsyM2VQWmF2emNCT0FpNjkyNE5DamFBRVRDQlBkVWpOVHhPS0F3dVFCNGlwNWhGdEJtWGlISDJKeGVmTUJ5YlZCNEYxdnR0NVE5aWdLa2FJVlpqZHByQQ?oc=5\" target=\"_blank\">Sony WH1000XM2 Review -Noise Cancelling Heaphones Better than Bose?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audi",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54WmRCcldrZGsyM2VQWmF2emNCT0FpNjkyNE5DamFBRVRDQlBkVWpOVHhPS0F3dVFCNGlwNWhGdEJtWGlISDJKeGVmTUJ5YlZCNEYxdnR0NVE5aWdLa2FJVlpqZHByQQ?oc=5",
       "published": "Mon, 23 Mar 2026 07:00:00 GMT",
       "published_iso": "2026-03-23T07:00:00+00:00",
@@ -559,7 +559,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sennheiser's Consumer Division Is Being Sold. Again. - Headphones.com",
+      "title": "Sennheiser's Consumer Division Is Being Sold. Again. - headphones.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGtSbjZKN1FjNnlndHJDVS1mVGhWMERLWmE3U2YwSFNpLW0wS3dpYURMdjhtakVySTRzSGpQN1ViNjJPYV9BdUJLbkxuZWpldlpmeENUZ2lVaVhhVzN2NE5fTk55RnBGaHZqUmJfQ1VWelp1eVpxS1U0OERXLXo1S1ZVU1JNWmxEdGdaWWVhSWs?oc=5\" target=\"_blank\">Sennheiser's Consumer Division Is Being Sold. Again.",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGtSbjZKN1FjNnlndHJDVS1mVGhWMERLWmE3U2YwSFNpLW0wS3dpYURMdjhtakVySTRzSGpQN1ViNjJPYV9BdUJLbkxuZWpldlpmeENUZ2lVaVhhVzN2NE5fTk55RnBGaHZqUmJfQ1VWelp1eVpxS1U0OERXLXo1S1ZVU1JNWmxEdGdaWWVhSWs?oc=5",
       "published": "Tue, 24 Mar 2026 04:40:33 GMT",
@@ -569,8 +569,8 @@
     },
     {
       "title": "Sony and Honda Hit the Brakes on a $102,900 EV - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxPdENYd1k3OE9MeDNfeFFPbHp0UTlWc0hMa0RjNlBReUtPRVh1TmdzWExqbkFUeFQ0d1piVGV1dUgwUlk5SHN5RkNldHVmQ09GZC0yOTJvNFB2ZDIyaFVkTGNiXzZxa2lZWDdhN0pad3l0R21obE53aUt6cjNkUmJhdklhSk1Dczk0eVZQSlhvODdZcVFUQkxnUkFNOHNMNlVCbk4xUWM5dV90Z0RsMFVfSEtKNDRncXp0RTJ3Q2NHV0Yzd00tRUdiN1",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPdENYd1k3OE9MeDNfeFFPbHp0UTlWc0hMa0RjNlBReUtPRVh1TmdzWExqbkFUeFQ0d1piVGV1dUgwUlk5SHN5RkNldHVmQ09GZC0yOTJvNFB2ZDIyaFVkTGNiXzZxa2lZWDdhN0pad3l0R21obE53aUt6cjNkUmJhdklhSk1Dczk0eVZQSlhvODdZcVFUQkxnUkFNOHNMNlVCbk4xUWM5dV90Z0RsMFVfSEtKNDRncXp0RTJ3Q2NHV0Yzd00tRUdiN1ZoWWo5VVZ4VnBSSjF5eFlkNnh5S0NRc3czZ0NIVWs4a0V1ZDZEekhkWDZZR1pTSlNlLTY5dC16Ty10Y0YxTzRBUlRIYlR0b1R4dnJZWFZmRVFUZVZJWU1BbjJKMEJMbWhjVm9ldW4tbVkwRUkzQ3p4STJOcnlOQlRxaGNDTHpYdlQ0c3h6U05qd1IzQ2xQVVAtLUZnd3oyZWhDU3FqVUJHQlE0QjBWRG1jdTBDTV9mQ3RMQUFDYno1M29CQmhxdG50M1Z0RG5ZYWYwbUZPVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxOdEFpNEhfa3lFVzM0OHpuVjlZVlpCLW55dnhXdlN2endjajcwemxSUjVFeTJRSkZoN0FrdUxzRWtNZ3d5aFhVV1NYWEZUc0FabHlvd19SLVp1R2p4VGFHN1gzQnhTNEdrOFNGa2V3bG8zeEdoYWZwNWFVQ1k0T2FZM3l5d0IxR055Y3pLRUszdmMtQXFLZWZLNE0wNkFBTWhkS0NiMzhhM1RmaktvRnVrZFZISThXV1lDODkzeEtBRTQxVVFuVUZHWE",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOdEFpNEhfa3lFVzM0OHpuVjlZVlpCLW55dnhXdlN2endjajcwemxSUjVFeTJRSkZoN0FrdUxzRWtNZ3d5aFhVV1NYWEZUc0FabHlvd19SLVp1R2p4VGFHN1gzQnhTNEdrOFNGa2V3bG8zeEdoYWZwNWFVQ1k0T2FZM3l5d0IxR055Y3pLRUszdmMtQXFLZWZLNE0wNkFBTWhkS0NiMzhhM1RmaktvRnVrZFZISThXV1lDODkzeEtBRTQxVVFuVUZHWEY1RU5jQ1djZWhMbGlQbDhVRE0yaE9fZndneF9HaGxOVDJZVE5EbkJQTVVjMEc4UXVxd01CdGJKVWt1endSV1Ayc0NwRWdJNUxmSWpGdGIwclh6SnBWOXVoOFN3S1BjUlJTeGdSdW5MTEpSLXpyWUlHcGtTRTlUbEZud3Jja0tpMF96NklsMnJxaDh6VU1vSDM4SEp3YVZsNzhZV1ZUNmNYQVloWTFzekYxVHhpSXFHZExYanBEbHVNREo2Y18xOVBUSlJXUkpPWlR5UzU0QQ?oc=5",
       "published": "Wed, 25 Mar 2026 17:26:00 GMT",
       "published_iso": "2026-03-25T17:26:00+00:00",
       "source": "Google News - Competitor Watch",
@@ -586,20 +586,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony Shuts Down Nearly Its Entire Memory Card Business Due to SSD Shortage - PetaPixel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYl9TZk9vQmJGODg0VWVhN3I4MGtqejk5WUpScU9fX09MQS14bWtXNHB6YnlUanp3b1Rmd0llTUFld1Ayd0hTUlRBWlZoeFgxSWwwM1RmMmdEWEM1OGs5MXptQ3YtSnZ2NVREZk9uZ1c4UHFuNDBkTEppcnV3TlVDcllFOGNsQ3BhNlZDRENpVmVueTdWcGg1ZFl5X2h2X1RQdDRrdTktYlpCSWty?oc=5\" target=\"_blank\">Sony Shuts Down",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYl9TZk9vQmJGODg0VWVhN3I4MGtqejk5WUpScU9fX09MQS14bWtXNHB6YnlUanp3b1Rmd0llTUFld1Ayd0hTUlRBWlZoeFgxSWwwM1RmMmdEWEM1OGs5MXptQ3YtSnZ2NVREZk9uZ1c4UHFuNDBkTEppcnV3TlVDcllFOGNsQ3BhNlZDRENpVmVueTdWcGg1ZFl5X2h2X1RQdDRrdTktYlpCSWty?oc=5",
-      "published": "Fri, 27 Mar 2026 16:41:34 GMT",
-      "published_iso": "2026-03-27T16:41:34+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Sony and Honda pull plug on the $100,000 EV that was set to debut in California - Los Angeles Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VUVklFTWJjbVU1U1RDLXhyLUJZZHF4eGo5cXNIcV9jYXI4eDU0RHd2NE5EaHFISzk5bm9tX1pXOXJHTU5zcFRhNUoyOHZqeURkeVlwczBBeEQ1VklQdjVaZUFpR2hJMXNMaEVDeUlyZXdqbWY4X3RGQW1rdU9Gdmk5eDF6UFlHMWNfVGRZMmxwX2ROOGVZM2ZKbXM5dkRtZWN3dk04dEpPSE1OUjJyU3V4UGxLb0VQYU5GNnJSUTZWZw?oc=5\" t",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VUVklFTWJjbVU1U1RDLXhyLUJZZHF4eGo5cXNIcV9jYXI4eDU0RHd2NE5EaHFISzk5bm9tX1pXOXJHTU5zcFRhNUoyOHZqeURkeVlwczBBeEQ1VklQdjVaZUFpR2hJMXNMaEVDeUlyZXdqbWY4X3RGQW1rdU9Gdmk5eDF6UFlHMWNfVGRZMmxwX2ROOGVZM2ZKbXM5dkRtZWN3dk04dEpPSE1OUjJyU3V4UGxLb0VQYU5GNnJSUTZWZw?oc=5",
       "published": "Thu, 26 Mar 2026 10:00:00 GMT",
       "published_iso": "2026-03-26T10:00:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "The Sony Afeela Was Doomed to Fail - WIRED",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5pWHhMNERGMndtTHBaa3o2ME1jcHV0NTdGbk9jRGkxYmNkZTVvN0R6V2JyTDRaQVNYWlBURl9OelZaWHFGZWFMaVk2VWJKbTJtc0RTNFMycHFYU19PeVZEalUyYVhiSVRTSGlz?oc=5\" target=\"_blank\">The Sony Afeela Was Doomed to Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pWHhMNERGMndtTHBaa3o2ME1jcHV0NTdGbk9jRGkxYmNkZTVvN0R6V2JyTDRaQVNYWlBURl9OelZaWHFGZWFMaVk2VWJKbTJtc0RTNFMycHFYU19PeVZEalUyYVhiSVRTSGlz?oc=5",
+      "published": "Thu, 26 Mar 2026 14:13:00 GMT",
+      "published_iso": "2026-03-26T14:13:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -613,11 +613,11 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "The Sony Afeela Was Doomed to Fail - WIRED",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5pWHhMNERGMndtTHBaa3o2ME1jcHV0NTdGbk9jRGkxYmNkZTVvN0R6V2JyTDRaQVNYWlBURl9OelZaWHFGZWFMaVk2VWJKbTJtc0RTNFMycHFYU19PeVZEalUyYVhiSVRTSGlz?oc=5\" target=\"_blank\">The Sony Afeela Was Doomed to Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pWHhMNERGMndtTHBaa3o2ME1jcHV0NTdGbk9jRGkxYmNkZTVvN0R6V2JyTDRaQVNYWlBURl9OelZaWHFGZWFMaVk2VWJKbTJtc0RTNFMycHFYU19PeVZEalUyYVhiSVRTSGlz?oc=5",
-      "published": "Thu, 26 Mar 2026 14:13:00 GMT",
-      "published_iso": "2026-03-26T14:13:00+00:00",
+      "title": "The Best Noise-Canceling Headphone Deals from Sony, Bose, and Beats for Amazon's Big Spring Sale - consequence.net",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5\" target=\"_blank\">The Best Noise-Canceling Headphone Deals from Sony, Bose, a",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5",
+      "published": "Wed, 25 Mar 2026 07:02:10 GMT",
+      "published_iso": "2026-03-25T07:02:10+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -723,6 +723,24 @@
       "bucket": "channel_news"
     },
     {
+      "title": "Home brands target renters as ownership remains out of reach for many",
+      "summary": "Homeownership is getting less and less achievable by the year, especially for young people, leading home furniture and decor brands to change their marketing strategies.",
+      "url": "https://www.modernretail.co/marketing/home-brands-target-renters-as-ownership-remains-out-of-reach-for-many/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Mon, 30 Mar 2026 04:00:00 +0000",
+      "published_iso": "2026-03-30T04:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "E.l.f. Beauty’s chief digital officer shares her strategy for the AI era",
+      "summary": "In an interview with Modern Retail, E.l.f. Beauty's chief digital officer, Ekta Chopra, shared the four pillars that guide the beauty brand's approach to AI implementation.",
+      "url": "https://www.modernretail.co/technology/e-l-f-beautys-chief-digital-officer-shares-her-strategy-for-the-ai-era/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Mon, 30 Mar 2026 04:00:00 +0000",
+      "published_iso": "2026-03-30T04:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news"
+    },
+    {
       "title": "Modern Retail Podcast: Inside David’s Bridal’s post-bankruptcy turnaround",
       "summary": "Modern Retail Podcast co-host Melissa Daniels sits down with David's Bridal CEO Kelly Cook to go behind the scenes of the company's post-bankruptcy turnaround plan.",
       "url": "https://www.modernretail.co/operations/modern-retail-podcast-inside-davids-bridals-post-bankruptcy-turnaround/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -791,24 +809,6 @@
       "url": "https://www.modernretail.co/technology/sales-from-major-brands-on-tiktok-shop-nearly-doubled-in-2025-drawing-ulta-and-sally-beauty/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
       "published": "Thu, 26 Mar 2026 04:00:00 +0000",
       "published_iso": "2026-03-26T04:00:00+00:00",
-      "source": "Modern Retail",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Anthropologie says it marries data and intuition in merchandising as it looks for ‘calculated risks’",
-      "summary": "Anu Narayanan, president of women's and home at Anthropologie, spoke at Shoptalk Spring about how the brand takes calculated risks in merchandising, from adding footwear to stores to launching a \"Love Story\"-inspired section on its site.",
-      "url": "https://www.modernretail.co/operations/anthropologie-says-it-marries-data-and-intuition-in-merchandising-as-it-looks-for-calculated-risks/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Wed, 25 Mar 2026 20:51:43 +0000",
-      "published_iso": "2026-03-25T20:51:43+00:00",
-      "source": "Modern Retail",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Poshmark unveils its first major app redesign in 15 years amid online thrifting boom",
-      "summary": "Poshmark is rolling out its first major app redesign in 15 years, spotlighting sellers, AI-powered tools and personalized discovery to capitalize on demand for secondhand shopping.",
-      "url": "https://www.modernretail.co/marketing/poshmark-unveils-its-first-major-app-redesign-in-15-years-amid-online-thrifting-boom/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Wed, 25 Mar 2026 10:00:00 +0000",
-      "published_iso": "2026-03-25T10:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news"
     },
@@ -921,7 +921,16 @@
       "bucket": "channel_news"
     },
     {
-      "title": "I Asked 3 Italian Chefs for the Best Store-Bought Marinara—and Now I'll Only Buy This Jar - Allrecipes",
+      "title": "How Successful Retailers Prosper in Tough Times - Harvard Business Review",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBpWTQwT2dKY0xoMi1iMmFsX2ZCa3dsZUc3Rmxidy0xZnZkbGJjVWtBWGh3czd3NDY1eVIxOWduRldxOVo3aDFRaEdmMzJUb3p5UG9Rb1o5UFBpZndXNEVvNWE4Q2RHSWktLUVMV0Q2TllSNGxWYjl2Rm5COA?oc=5\" target=\"_blank\">How Successful Retailers Prosper in Tough Times</a>&nbsp;&nbsp;<font color=\"#6f6f",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpWTQwT2dKY0xoMi1iMmFsX2ZCa3dsZUc3Rmxidy0xZnZkbGJjVWtBWGh3czd3NDY1eVIxOWduRldxOVo3aDFRaEdmMzJUb3p5UG9Rb1o5UFBpZndXNEVvNWE4Q2RHSWktLUVMV0Q2TllSNGxWYjl2Rm5COA?oc=5",
+      "published": "Thu, 26 Mar 2026 14:03:55 GMT",
+      "published_iso": "2026-03-26T14:03:55+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "I Asked 3 Italian Chefs for the Best Store-Bought Marinara—and Now I'll Only Buy This Jar - allrecipes.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDhrVzhZYU1NQXYzRTZyMVphaVRLQ044U05MU0ZwaFl6cGo0azQ0bVJUUksycnROVndPNkdyQ2owR1dqbDJERE1DVm1TV05IUGNMLUd6NTZWUy1sNnp3Ykt3VUQ1OVpJaHFXN3p4RVlrN2hHVnhMUEJFZFg0a0RnSHNSYkhnZk0?oc=5\" target=\"_blank\">I Asked 3 Italian Chefs for the Best Store-Bought Marinara—and N",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDhrVzhZYU1NQXYzRTZyMVphaVRLQ044U05MU0ZwaFl6cGo0azQ0bVJUUksycnROVndPNkdyQ2owR1dqbDJERE1DVm1TV05IUGNMLUd6NTZWUy1sNnp3Ykt3VUQ1OVpJaHFXN3p4RVlrN2hHVnhMUEJFZFg0a0RnSHNSYkhnZk0?oc=5",
       "published": "Fri, 27 Mar 2026 15:00:00 GMT",
@@ -930,8 +939,8 @@
       "bucket": "channel_news"
     },
     {
-      "title": "The Best Bait You Can Buy at the Dollar Store - Outdoor Life",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1KSkhndU9rUjRuZmpLYlM2UXpCalo0VjRWT0hDUVV3M0xnbG16bFhWUlNlTVczdDN0emF6SF94eXdKSXpCUUw0WXBxQWo2SGtyc3l2NEFSWDVYR3hpM0ZMZnhJRGRoS0tYemJQOA?oc=5\" target=\"_blank\">The Best Bait You Can Buy at the Dollar Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outdoor Life</font",
+      "title": "The Best Bait You Can Buy at the Dollar Store - outdoorlife.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1KSkhndU9rUjRuZmpLYlM2UXpCalo0VjRWT0hDUVV3M0xnbG16bFhWUlNlTVczdDN0emF6SF94eXdKSXpCUUw0WXBxQWo2SGtyc3l2NEFSWDVYR3hpM0ZMZnhJRGRoS0tYemJQOA?oc=5\" target=\"_blank\">The Best Bait You Can Buy at the Dollar Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">outdoorlife.com</f",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KSkhndU9rUjRuZmpLYlM2UXpCalo0VjRWT0hDUVV3M0xnbG16bFhWUlNlTVczdDN0emF6SF94eXdKSXpCUUw0WXBxQWo2SGtyc3l2NEFSWDVYR3hpM0ZMZnhJRGRoS0tYemJQOA?oc=5",
       "published": "Fri, 27 Mar 2026 16:00:49 GMT",
       "published_iso": "2026-03-27T16:00:49+00:00",
@@ -944,15 +953,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZUtBWFZyX0g4dGxaUGliYW1ObHN3TGpvYTBjUG5rSlh0R25wV1VzWVBCY1VlNnk0Ukd2SjdaelRmVUczd0sxeG5heWx5ZE1SSEFleHdiRFdfZVl6dmxjbHBoUWtJWTUyLVUwcG9Lb2NQUQ?oc=5",
       "published": "Mon, 23 Mar 2026 07:00:00 GMT",
       "published_iso": "2026-03-23T07:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "How Successful Retailers Prosper in Tough Times - Harvard Business Review",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBpWTQwT2dKY0xoMi1iMmFsX2ZCa3dsZUc3Rmxidy0xZnZkbGJjVWtBWGh3czd3NDY1eVIxOWduRldxOVo3aDFRaEdmMzJUb3p5UG9Rb1o5UFBpZndXNEVvNWE4Q2RHSWktLUVMV0Q2TllSNGxWYjl2Rm5COA?oc=5\" target=\"_blank\">How Successful Retailers Prosper in Tough Times</a>&nbsp;&nbsp;<font color=\"#6f6f",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpWTQwT2dKY0xoMi1iMmFsX2ZCa3dsZUc3Rmxidy0xZnZkbGJjVWtBWGh3czd3NDY1eVIxOWduRldxOVo3aDFRaEdmMzJUb3p5UG9Rb1o5UFBpZndXNEVvNWE4Q2RHSWktLUVMV0Q2TllSNGxWYjl2Rm5COA?oc=5",
-      "published": "Thu, 26 Mar 2026 14:03:55 GMT",
-      "published_iso": "2026-03-26T14:03:55+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -975,15 +975,6 @@
       "bucket": "channel_news"
     },
     {
-      "title": "15 Best Things to Buy at Dollar Stores (Dollar Tree Included) - Kiplinger",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWNLZ21PXzdubnRIelVMdTQtTVhuY3JlZG41NXVEeXhhTTJPTkdEdENYdG1CeG9lbjF6REpyV2RWei1ZbEVVc1JGX044bWIxc3NTaXJSNnFINXM1LW1nb0xSYmxXcEttTnhTWG1OenFSTUx5NHJmb0JGTnFhdnRYSXd6cEdid3ZPbWhGQnVFUVNNUXpXbVVhV0lKbm01cmktbnBhSXJ5U0oyd0tIZFp1VU5NcDl2dw?oc=5\" target=\"_blank\">1",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWNLZ21PXzdubnRIelVMdTQtTVhuY3JlZG41NXVEeXhhTTJPTkdEdENYdG1CeG9lbjF6REpyV2RWei1ZbEVVc1JGX044bWIxc3NTaXJSNnFINXM1LW1nb0xSYmxXcEttTnhTWG1OenFSTUx5NHJmb0JGTnFhdnRYSXd6cEdid3ZPbWhGQnVFUVNNUXpXbVVhV0lKbm01cmktbnBhSXJ5U0oyd0tIZFp1VU5NcDl2dw?oc=5",
-      "published": "Mon, 23 Mar 2026 20:53:51 GMT",
-      "published_iso": "2026-03-23T20:53:51+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
       "title": "9 Store-Bought Feta Cheeses, Ranked Worst To Best - Tasting Table",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1mM1c1cHpTQ3FuRWRpaVJOYkZPeFZuTmVQVWlvaHdfV1ZXSDl2VVh3ODJid0hweTR0YkVaUTdGeHh0QURHOW9fYjh2b0VRT3oyXzZZcjFCc05KQ1hzZVlOWVg2Tlp0clJURm5pZnRaTG1lQVVRa0FYSw?oc=5\" target=\"_blank\">9 Store-Bought Feta Cheeses, Ranked Worst To Best</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mM1c1cHpTQ3FuRWRpaVJOYkZPeFZuTmVQVWlvaHdfV1ZXSDl2VVh3ODJid0hweTR0YkVaUTdGeHh0QURHOW9fYjh2b0VRT3oyXzZZcjFCc05KQ1hzZVlOWVg2Tlp0clJURm5pZnRaTG1lQVVRa0FYSw?oc=5",
@@ -1002,9 +993,18 @@
       "bucket": "channel_news"
     },
     {
+      "title": "15 Best Things to Buy at Dollar Stores (Dollar Tree Included) - Kiplinger",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWNLZ21PXzdubnRIelVMdTQtTVhuY3JlZG41NXVEeXhhTTJPTkdEdENYdG1CeG9lbjF6REpyV2RWei1ZbEVVc1JGX044bWIxc3NTaXJSNnFINXM1LW1nb0xSYmxXcEttTnhTWG1OenFSTUx5NHJmb0JGTnFhdnRYSXd6cEdid3ZPbWhGQnVFUVNNUXpXbVVhV0lKbm01cmktbnBhSXJ5U0oyd0tIZFp1VU5NcDl2dw?oc=5\" target=\"_blank\">1",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWNLZ21PXzdubnRIelVMdTQtTVhuY3JlZG41NXVEeXhhTTJPTkdEdENYdG1CeG9lbjF6REpyV2RWei1ZbEVVc1JGX044bWIxc3NTaXJSNnFINXM1LW1nb0xSYmxXcEttTnhTWG1OenFSTUx5NHJmb0JGTnFhdnRYSXd6cEdid3ZPbWhGQnVFUVNNUXpXbVVhV0lKbm01cmktbnBhSXJ5U0oyd0tIZFp1VU5NcDl2dw?oc=5",
+      "published": "Mon, 23 Mar 2026 20:53:51 GMT",
+      "published_iso": "2026-03-23T20:53:51+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
       "title": "The Strange Reason Best Buy Is One of the S&P 500’s Best Performing Stocks Today - Barron's",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRHo1bTB3OTVjVkRTNUVqRWR0aDNhejRieHBSbjRMNS14cldXY0dmQWx4WFFvSkh4NVhESnhqc0ZCVVVTd3hXOURMVWUwd2hpeUlHUFFTeWk5OXN2UnUxSkVFeWU3MGVsYXBEY3RMaUNVdGNKZVRJWEY5RUZJdGlzRHJtRjJWOHBlMkxIczBmZmlXWmFmQk52bVh6bGlpYjdWbWNJdzJuOHJyUEVQZWpvQ3hqNmZFbUs1MGRpRmIzVHNoVXlYSmpJUW",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRHo1bTB3OTVjVkRTNUVqRWR0aDNhejRieHBSbjRMNS14cldXY0dmQWx4WFFvSkh4NVhESnhqc0ZCVVVTd3hXOURMVWUwd2hpeUlHUFFTeWk5OXN2UnUxSkVFeWU3MGVsYXBEY3RMaUNVdGNKZVRJWEY5RUZJdGlzRHJtRjJWOHBlMkxIczBmZmlXWmFmQk52bVh6bGlpYjdWbWNJdzJuOHJyUEVQZWpvQ3hqNmZFbUs1MGRpRmIzVHNoVXlYSmpJUWpkclh5WjN1ejFDd1RacHh5TlRmLWlyenBqU0lOS1p6eHdTaUdDYUtqN2h3NlU3N0x3NUp5YkZXYXpibHlHNWNvWlNZXzQ4Szh2b2hJeEFaQUhqNmEzbG5JeFI0WklrVFo3Q29JejMzZTMxX3EtdVM3VldUQnN0T1VWdGYtTHVFeDZkcmRjX1l1d2FPWXEzaG1KWlZSbmM3YkNVNHZEeU5TRmRxU1BQczlnUXlOWnB1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxPekxGU3htR1BYVnhiSFU1QTNwcmJXZFA3bmYxRnBQTmpoNXB2LWNxbUZ0Wnp4eFhtV1lwdlZDMVkySGZGUkNJeDVFc3lUMkk2RzlZMF80RS1hTWp1MDBjOURVQXctelM2cENqSWF0LTJvRGlHWnVJSUUtQ3VyemJnbFlCRjlyeUcxczJSWnB1LUdRZE5hVlRxQlV2RHFFX0JZNnAtM2FTSEtOamNZbWxDX3BYbDJ4WEI2V1VKRVJVVGhoYUdrOEdIZj",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPekxGU3htR1BYVnhiSFU1QTNwcmJXZFA3bmYxRnBQTmpoNXB2LWNxbUZ0Wnp4eFhtV1lwdlZDMVkySGZGUkNJeDVFc3lUMkk2RzlZMF80RS1hTWp1MDBjOURVQXctelM2cENqSWF0LTJvRGlHWnVJSUUtQ3VyemJnbFlCRjlyeUcxczJSWnB1LUdRZE5hVlRxQlV2RHFFX0JZNnAtM2FTSEtOamNZbWxDX3BYbDJ4WEI2V1VKRVJVVGhoYUdrOEdIZjRnTXVEdmhoTUlvU0tGdkplY1JlZkhPMXRZSTlBQWt5QjZXbmRxUXRvbm14VzRGSGlhaExjV29iRUE5VG00Mm1xWENKOE5WcHo2U1o5OThBcDZnTGtHWnJEWWo1RzV4ODFGYlpPTk1VZlpkczZrV0dkSWRiOUtSZjBVUXc5SUxDRGlVcmVvVTFDdlN6ZVI0QXNFS2tqRHVZSXgzV0ZXbHF4LUczb3htNERNLUphZlB0?oc=5",
       "published": "Thu, 26 Mar 2026 20:12:00 GMT",
       "published_iso": "2026-03-26T20:12:00+00:00",
       "source": "Google News - Retail Platforms",
@@ -1016,6 +1016,15 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklvUkNQWjh0Qmd4azBqcGpGZ2N6bDhxOEdnZ0llcU80Z0ZOcVhXSUdTSnZTdTVwYnlqZl8tNDFFVTZQS3lnR3lOdEUxbVNrYmYxYll2MHY0MGpUQ3VySW1SUXpMOENuTjBITTJ0bElwOUFsNlp5b19UcC1UNGcwTw?oc=5",
       "published": "Tue, 24 Mar 2026 13:20:25 GMT",
       "published_iso": "2026-03-24T13:20:25+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "The best cheap wireless earbuds right now - Tom's Guide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE95TGRwaDdPUFhJXzgwUVlJU3pRaGN1WklXTkdsT0lJWFFyTUw5aGJfUUh6TFdCTXR0cnZFSXBvUHVwNHpDVFF1X2ZMVWFJdjBJTzJZSmtXaHhUdzJmb0Z1UTBoeG1OUy1jSFU5cUlnTU04UQ?oc=5\" target=\"_blank\">The best cheap wireless earbuds right now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</f",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95TGRwaDdPUFhJXzgwUVlJU3pRaGN1WklXTkdsT0lJWFFyTUw5aGJfUUh6TFdCTXR0cnZFSXBvUHVwNHpDVFF1X2ZMVWFJdjBJTzJZSmtXaHhUdzJmb0Z1UTBoeG1OUy1jSFU5cUlnTU04UQ?oc=5",
+      "published": "Mon, 23 Mar 2026 17:10:17 GMT",
+      "published_iso": "2026-03-23T17:10:17+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1038,29 +1047,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "The best cheap wireless earbuds right now - Tom's Guide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE95TGRwaDdPUFhJXzgwUVlJU3pRaGN1WklXTkdsT0lJWFFyTUw5aGJfUUh6TFdCTXR0cnZFSXBvUHVwNHpDVFF1X2ZMVWFJdjBJTzJZSmtXaHhUdzJmb0Z1UTBoeG1OUy1jSFU5cUlnTU04UQ?oc=5\" target=\"_blank\">The best cheap wireless earbuds right now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</f",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95TGRwaDdPUFhJXzgwUVlJU3pRaGN1WklXTkdsT0lJWFFyTUw5aGJfUUh6TFdCTXR0cnZFSXBvUHVwNHpDVFF1X2ZMVWFJdjBJTzJZSmtXaHhUdzJmb0Z1UTBoeG1OUy1jSFU5cUlnTU04UQ?oc=5",
-      "published": "Mon, 23 Mar 2026 17:10:17 GMT",
-      "published_iso": "2026-03-23T17:10:17+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "The 4 Best Wired Earbuds of 2026 | Reviews by Wirecutter - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9aX3hUMzg1OU5FWkhnaGsyOFkwc2s2MVdYbXl1MXVVOU1fZlk4aFNxQmplbU11aWhoUUZYYnFfR0c5azZvSzduZVRXbG1PTFlhU2t4NVNUTFZ5NGE4MUJzRVBYbS1Jc1llZzBscm1senNKS1lFU0JDc0ZDc3hhN00?oc=5\" target=\"_blank\">The 4 Best Wired Earbuds of 2026 | Reviews by Wirecutter</a>&nbsp;&nbsp;<fon",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aX3hUMzg1OU5FWkhnaGsyOFkwc2s2MVdYbXl1MXVVOU1fZlk4aFNxQmplbU11aWhoUUZYYnFfR0c5azZvSzduZVRXbG1PTFlhU2t4NVNUTFZ5NGE4MUJzRVBYbS1Jc1llZzBscm1senNKS1lFU0JDc0ZDc3hhN00?oc=5",
       "published": "Tue, 24 Mar 2026 17:10:53 GMT",
       "published_iso": "2026-03-24T17:10:53+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Sony’s Latest Premium Noise-Canceling Headphones Are on Sale for the First Time Ever: Save up to $62 per a Pair - Variety",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWVDNDF2dy11Qm1LSE1PbUJrM0JTN3k5Rmhwc2tvREd1SDZkby1UT2laYk14NzJaRUU0X0ZsaTFNYjl3NWNjVmo5MGlvcUZnYTJSVklUdXhvU1NrOW5PWDVsWXY1NkdyRS01dWxVeXYxQml1NjUyVmlWLW96NlFvYVl3dkdzN2FsdlRHZzVuTFdyY0w0djNEaXNCVHdPVVZvSlA4YXBGdmNSTFladmwxcA?oc=5\" target=\"_blank\">Sony’s La",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWVDNDF2dy11Qm1LSE1PbUJrM0JTN3k5Rmhwc2tvREd1SDZkby1UT2laYk14NzJaRUU0X0ZsaTFNYjl3NWNjVmo5MGlvcUZnYTJSVklUdXhvU1NrOW5PWDVsWXY1NkdyRS01dWxVeXYxQml1NjUyVmlWLW96NlFvYVl3dkdzN2FsdlRHZzVuTFdyY0w0djNEaXNCVHdPVVZvSlA4YXBGdmNSTFladmwxcA?oc=5",
-      "published": "Thu, 26 Mar 2026 14:45:00 GMT",
-      "published_iso": "2026-03-26T14:45:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1110,14 +1101,23 @@
       "bucket": "channel_news"
     },
     {
-      "title": "21 tech deals to shop now: Amazon, Apple, Samsung and more - Good Morning America",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVl9mdWxFclp3Q25pVGJBUUN6VmNFZ1h6bjNsTTU0d3hZbjFwZEw5cXZ1V05rNGhpeVJrZ3RJenRiY1YzMUU3YUhuMThjaHlZU0F2dk92OGJSUjlrbklRWEo3U1lUS0EyN3JRYUJlNG5Xa0gyZ3RMY3puWVAxalZGdV9jS1duWC1X0gGOAUFVX3lxTE94UzhFdHVvc3FuMXA5SGExczBaSTh6T0huTUk0cWV5QlZJMzB5T1NaM252cEN5eEJQWUs0V0",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVl9mdWxFclp3Q25pVGJBUUN6VmNFZ1h6bjNsTTU0d3hZbjFwZEw5cXZ1V05rNGhpeVJrZ3RJenRiY1YzMUU3YUhuMThjaHlZU0F2dk92OGJSUjlrbklRWEo3U1lUS0EyN3JRYUJlNG5Xa0gyZ3RMY3puWVAxalZGdV9jS1duWC1X0gGOAUFVX3lxTE94UzhFdHVvc3FuMXA5SGExczBaSTh6T0huTUk0cWV5QlZJMzB5T1NaM252cEN5eEJQWUs0V0RVNk1RZnJVa0pXLWgzQ2ZNLVhzQ1N0R2tFbmpVTmtBcG9KSC1mTVBsV2VrcktwZkJlSGdoZlhQTUp1LU5aUzNhWUZnSnRKUmh2cVVMdkRGRUE?oc=5",
-      "published": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "published_iso": "2026-03-27T07:00:00+00:00",
+      "title": "Best Buy Is Taking Almost $30 Off the Anker P40I Earbuds Ahead of the Spring Sale - Yahoo Tech",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2Zyekp3NENIMDB3X2RMcGdPdjhvWGQ0UVZrN2tBRGQ2N0cxNmlERDhrTTFUODhadVkyczJfeFFjRV80RTRhNWQ1T2hhMHZ2UG15YlVNVzhmMW9DWF9fSVVkSHhuMFRxbGZIOEF4UUd6M3N0cEpGXzM0bkU3Vmk1T2Z5bEZaM015Ry04RQ?oc=5\" target=\"_blank\">Best Buy Is Taking Almost $30 Off the Anker P40I Earbuds ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2Zyekp3NENIMDB3X2RMcGdPdjhvWGQ0UVZrN2tBRGQ2N0cxNmlERDhrTTFUODhadVkyczJfeFFjRV80RTRhNWQ1T2hhMHZ2UG15YlVNVzhmMW9DWF9fSVVkSHhuMFRxbGZIOEF4UUd6M3N0cEpGXzM0bkU3Vmk1T2Z5bEZaM015Ry04RQ?oc=5",
+      "published": "Mon, 23 Mar 2026 14:00:00 GMT",
+      "published_iso": "2026-03-23T14:00:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Best Amazon Spring Sale headphones deals 2026: Bose, Sony, and Apple on sale - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXR0cFQ1U3NfLThkTFZCOUtfd2N3Rl9fV3JqRHBqT0VKNkpoN3F4TzZkbGx2U0ZhQWNPNHhfSWdBWjU0ZGZ1LUx3LUxHYzBrdzVudGpSeGpTc1IyNzg2TU1SMVRGdmtQdzdnNGxBOTVWVkxqLWp6S0RBNXlpWkJFeHBRZkY?oc=5\" target=\"_blank\">Best Amazon Spring Sale headphones deals 2026: Bose, Sony, and Apple",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXR0cFQ1U3NfLThkTFZCOUtfd2N3Rl9fV3JqRHBqT0VKNkpoN3F4TzZkbGx2U0ZhQWNPNHhfSWdBWjU0ZGZ1LUx3LUxHYzBrdzVudGpSeGpTc1IyNzg2TU1SMVRGdmtQdzdnNGxBOTVWVkxqLWp6S0RBNXlpWkJFeHBRZkY?oc=5",
+      "published": "Mon, 30 Mar 2026 05:04:43 GMT",
+      "published_iso": "2026-03-30T05:04:43+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1774835266
+  "fetched_at": 1774853990
 }

@@ -136,6 +136,7 @@ def simplify_summary(summary: str) -> str:
 """
     return ai_generate(prompt, summary, 46)
 
+
 def smart_truncate_title(text: str, max_chars: int = 42) -> str:
     text = " ".join((text or "").split()).strip()
     if not text:
@@ -184,8 +185,17 @@ def classify_product_judgement(item: Dict[str, Any]) -> str:
     if any(
         x in text
         for x in [
-            "amazon", "walmart", "best buy", "target", "marketplace",
-            "retail", "store", "distribution", "channel", "rei", "fleet feet"
+            "amazon",
+            "walmart",
+            "best buy",
+            "target",
+            "marketplace",
+            "retail",
+            "store",
+            "distribution",
+            "channel",
+            "rei",
+            "fleet feet",
         ]
     ):
         return "渠道动态"
@@ -234,6 +244,7 @@ def build_product_intro(item: Dict[str, Any]) -> str:
 
     return "建议纳入北美新品观察清单。"
 
+
 def build_source_priority(source_list: List[Dict[str, Any]]) -> Dict[str, int]:
     return {s["name"]: s.get("priority", 0) for s in source_list}
 
@@ -260,12 +271,31 @@ def market_bias_score(text: str) -> int:
     t = normalize_text(text)
 
     us_terms = [
-        "amazon", "best buy", "walmart", "target", "costco", "sam's club",
-        "sams club", "fleet feet", "rei", "u.s.", "us", "north america",
-        "american", "retail", "store", "marketplace",
+        "amazon",
+        "best buy",
+        "walmart",
+        "target",
+        "costco",
+        "sam's club",
+        "sams club",
+        "fleet feet",
+        "rei",
+        "u.s.",
+        "us",
+        "north america",
+        "american",
+        "retail",
+        "store",
+        "marketplace",
     ]
     cn_terms = [
-        "china", "chinese", "jd.com", "tmall", "taobao", "wechat", "alibaba",
+        "china",
+        "chinese",
+        "jd.com",
+        "tmall",
+        "taobao",
+        "wechat",
+        "alibaba",
         "shenzhen",
     ]
 
@@ -635,7 +665,7 @@ def generate_signal_block(
 def build_placeholder_item(title: str, bucket: str) -> Dict[str, Any]:
     return {
         "title": title,
-        "display_title": title,
+        "display_title": smart_truncate_title(title, 42),
         "summary": "",
         "url": "#",
         "source": "system",
@@ -767,6 +797,7 @@ def main() -> None:
     )
 
     for x in consumer:
+        title = x.get("title", "")
         x["_score"] = score_item(
             x,
             "consumer_electronics",
@@ -775,7 +806,7 @@ def main() -> None:
             freshness_conf,
             monitoring,
         )
-        x["display_title"] = simplify_title(x.get("title", "")) or x.get("title", "")
+        x["display_title"] = smart_truncate_title(title, 42) or title
         x["tags"] = detect_tags(
             " ".join([x.get("title", ""), x.get("summary", ""), x.get("source", "")]),
             "consumer_electronics",
@@ -783,6 +814,7 @@ def main() -> None:
         x["impact_area"] = decide_impact_area(x)
 
     for x in channel:
+        title = x.get("title", "")
         x["_score"] = score_item(
             x,
             "channel_news",
@@ -791,7 +823,7 @@ def main() -> None:
             freshness_conf,
             monitoring,
         )
-        x["display_title"] = simplify_title(x.get("title", "")) or x.get("title", "")
+        x["display_title"] = smart_truncate_title(title, 42) or title
         x["tags"] = detect_tags(
             " ".join([x.get("title", ""), x.get("summary", ""), x.get("source", "")]),
             "channel_news",

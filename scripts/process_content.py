@@ -654,8 +654,10 @@ def build_placeholder_item(title: str, bucket: str) -> Dict[str, Any]:
 def build_placeholder_product(title: str) -> Dict[str, Any]:
     return {
         "name": title,
-        "display_title": title,
+        "display_title": smart_truncate_title(title, 42),
         "display_summary": "当前新品源暂无有效更新",
+        "product_intro": "当前新品源暂无有效更新。",
+        "judgement_label": "暂无更新",
         "summary": "",
         "url": "#",
         "source": "system",
@@ -807,13 +809,15 @@ def main() -> None:
         )
         name = x.get("name", "")
         summary = x.get("summary", "")
-        x["display_title"] = simplify_title(name) or name
+        x["display_title"] = smart_truncate_title(name, 42) or name
         x["display_summary"] = simplify_summary(summary) or summary
         x["tags"] = detect_tags(
             " ".join([name, summary, x.get("source", "")]),
             "products",
         )
         x["impact_area"] = decide_impact_area(x)
+        x["judgement_label"] = classify_product_judgement(x)
+        x["product_intro"] = build_product_intro(x)
 
     consumer = sorted(consumer, key=lambda x: x["_score"], reverse=True)[:10]
     channel = sorted(channel, key=lambda x: x["_score"], reverse=True)[:10]

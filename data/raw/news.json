@@ -91,6 +91,15 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.",
+      "summary": "The collapse of the brand, which was originally venture-backed and that went public in 2021, has been well-documented.",
+      "url": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
+      "published": "Tue, 31 Mar 2026 05:30:20 +0000",
+      "published_iso": "2026-03-31T05:30:20+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
       "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
       "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
@@ -186,15 +195,6 @@
       "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
       "published": "Mon, 30 Mar 2026 14:30:00 +0000",
       "published_iso": "2026-03-30T14:30:00+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-      "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-      "published": "Mon, 30 Mar 2026 13:52:02 +0000",
-      "published_iso": "2026-03-30T13:52:02+00:00",
       "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
@@ -560,8 +560,8 @@
     },
     {
       "title": "Sony and Honda Hit the Brakes on a $102,900 EV - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxOclQyTUlkZEl4LUp5Y1BTWTVWRkM2djcyWHJFMUp0TG9xZ1hhVkhRbldlVG5kZjdMaEFrSWJ2TVlFelZYRHR1WWRrNXI0aXUzTnZXbW9QSGg2WW1ub0M5QUtWM3ZrdHRKY0dtVmhhZnZhemxhNDNmLTFmZ0Q3aHRWeTFOeVp2X1o2MlhJQmtUbjBsZkFaaU1tdXUyVTdtdXdNaUdwazFyc19pQWZKQ3hVb09lRUY2TUo4c2dZZTU1N01QdUFqdEJJNX",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOclQyTUlkZEl4LUp5Y1BTWTVWRkM2djcyWHJFMUp0TG9xZ1hhVkhRbldlVG5kZjdMaEFrSWJ2TVlFelZYRHR1WWRrNXI0aXUzTnZXbW9QSGg2WW1ub0M5QUtWM3ZrdHRKY0dtVmhhZnZhemxhNDNmLTFmZ0Q3aHRWeTFOeVp2X1o2MlhJQmtUbjBsZkFaaU1tdXUyVTdtdXdNaUdwazFyc19pQWZKQ3hVb09lRUY2TUo4c2dZZTU1N01QdUFqdEJJNXR2SFZzNy1ZWTc2NUMwOGVIZTBlNEtLMnZUcEZ2cE9wYm11LU4xNjhEWURmZEk5WHZPS1o2eUdMd0Rra3hveW1TV3ZOSWhsRDlPRlFkTno3dWVOY3I3MXdkVnhIT291VkRMV1RvU1BMYUZ0M3RRZWxEMnNHa3NTaEhDTERieHl3VHZmUWp4M2VCeDlEVkZ3SkhCMUFyMW02eFQxQkxkOUFqRHpULXIzc2EtR2ROYktsMlRqaEJaaU1QR1NjWmZlWmcxWW1Xb2hDSFpWNWZTOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxPZVR0YmJKMXo1R3FJWkQxSjBnM01odUs0UWwtYk9tUTNIc2p4RDNVc2VkU0VObUxGczhXNkY1UzVsNE01OExPYzRvVnl3QVdUMnEzUnpLeXQzbnQ4YUJsTEwwdm5ic3Y3TndLc2lILUg0a3dXR0k2c29aREMwZDJsdUpNNnc5VWh2LXlBOUhBV1BZSy1IaGlFOGFzTDdUVDRKZjU2WmNsMHh4VkdkT2NwY1N3ekdNR2UwWjE1c0pHb1ZZWEpwRWF4RX",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPZVR0YmJKMXo1R3FJWkQxSjBnM01odUs0UWwtYk9tUTNIc2p4RDNVc2VkU0VObUxGczhXNkY1UzVsNE01OExPYzRvVnl3QVdUMnEzUnpLeXQzbnQ4YUJsTEwwdm5ic3Y3TndLc2lILUg0a3dXR0k2c29aREMwZDJsdUpNNnc5VWh2LXlBOUhBV1BZSy1IaGlFOGFzTDdUVDRKZjU2WmNsMHh4VkdkT2NwY1N3ekdNR2UwWjE1c0pHb1ZZWEpwRWF4RXJoeGQxNDR6SUdQMDIwVzNCci1weEw5S2tQTWd5Q1JKb1pKUm1weDJCUlhRWjZFc2huUDVvYVBEUUEtUjNEOFZPcVdvaExPZ0ZSa01DTjZtclNtRHBvQUVFVmlVR2VJbTVPeE5fOHZqend3QXIzS3BPV1pSVVNxVGRNaUc5MFF0YkJJSUgtWUtJOGhJRUJsVk8tT3g1a2tmUzJiODNQZVE5SlM3bDZ4djNNTkV2Q1dvLUczeGZyMUhfNkdBblpIVlExSmhRM3pabUtQR2pwSQ?oc=5",
       "published": "Wed, 25 Mar 2026 17:26:00 GMT",
       "published_iso": "2026-03-25T17:26:00+00:00",
       "source": "Google News - Competitor Watch",
@@ -577,11 +577,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony and Honda pull plug on the $100,000 EV that was set to debut in California - Los Angeles Times",
+      "title": "Sony and Honda pull plug on the $100,000 EV that was set to debut in California - latimes.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VUVklFTWJjbVU1U1RDLXhyLUJZZHF4eGo5cXNIcV9jYXI4eDU0RHd2NE5EaHFISzk5bm9tX1pXOXJHTU5zcFRhNUoyOHZqeURkeVlwczBBeEQ1VklQdjVaZUFpR2hJMXNMaEVDeUlyZXdqbWY4X3RGQW1rdU9Gdmk5eDF6UFlHMWNfVGRZMmxwX2ROOGVZM2ZKbXM5dkRtZWN3dk04dEpPSE1OUjJyU3V4UGxLb0VQYU5GNnJSUTZWZw?oc=5\" t",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VUVklFTWJjbVU1U1RDLXhyLUJZZHF4eGo5cXNIcV9jYXI4eDU0RHd2NE5EaHFISzk5bm9tX1pXOXJHTU5zcFRhNUoyOHZqeURkeVlwczBBeEQ1VklQdjVaZUFpR2hJMXNMaEVDeUlyZXdqbWY4X3RGQW1rdU9Gdmk5eDF6UFlHMWNfVGRZMmxwX2ROOGVZM2ZKbXM5dkRtZWN3dk04dEpPSE1OUjJyU3V4UGxLb0VQYU5GNnJSUTZWZw?oc=5",
       "published": "Thu, 26 Mar 2026 10:00:00 GMT",
       "published_iso": "2026-03-26T10:00:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "JBL Xtreme 5 and JBL Go 5 just dropped - JBL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5WbUNFbjNOV1EyOGdTZndwV2JydGZRekFMMncxOS1mZHBWUXpiUWVfRWpXY3dJMjdpR3I1TVAzRHBhWW9EMkVsNWltaTlFYUdTb1hDN015MEVFaURyY2hPY292LTh2Y1BRM09RRkFzV1ZLRktLT2EybnpNYjVqc3c?oc=5\" target=\"_blank\">JBL Xtreme 5 and JBL Go 5 just dropped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WbUNFbjNOV1EyOGdTZndwV2JydGZRekFMMncxOS1mZHBWUXpiUWVfRWpXY3dJMjdpR3I1TVAzRHBhWW9EMkVsNWltaTlFYUdTb1hDN015MEVFaURyY2hPY292LTh2Y1BRM09RRkFzV1ZLRktLT2EybnpNYjVqc3c?oc=5",
+      "published": "Mon, 30 Mar 2026 08:00:00 GMT",
+      "published_iso": "2026-03-30T08:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -595,24 +604,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "These Garmin Deals Are Too Good to Pass Up—Save Nearly 60% During Amazon’s Big Spring Sale - Men's Health",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxONGZuc1VVTmdlM2NENmdJbUJ3VU1waXV3UEN0T2otNHFLTUthQWdGejI5Z0pOWnBVX241TjZET3RVZHZKRmNRMXhyRmNVUEtKYlh0cjlyZ0djRlZ1R1dRYlB1VWxKdjVsWjI0dy1nNXhhWGpYX0ZSVWI1eUgyOTFSdk53?oc=5\" target=\"_blank\">These Garmin Deals Are Too Good to Pass Up—Save Nearly 60% During Amazo",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONGZuc1VVTmdlM2NENmdJbUJ3VU1waXV3UEN0T2otNHFLTUthQWdGejI5Z0pOWnBVX241TjZET3RVZHZKRmNRMXhyRmNVUEtKYlh0cjlyZ0djRlZ1R1dRYlB1VWxKdjVsWjI0dy1nNXhhWGpYX0ZSVWI1eUgyOTFSdk53?oc=5",
-      "published": "Mon, 30 Mar 2026 17:54:00 GMT",
-      "published_iso": "2026-03-30T17:54:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "The Best Headphone Deals Still Live from Sony, Bose, and Beats During Amazon's Big Spring Sale - Consequence of Sound",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5\" target=\"_blank\">The Best Headphone Deals Still Live from Sony, Bose, and Be",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29oYnNydDF2dlI5eU1pU1Zac2xnbWt2UENJNElTV3FoXzh1MHZjdFNneWwzbS1QeHFDZWtZZHZpUTFVdm5ialpaNmtoQ0JUYmNSY0dha0tsdkw0b2hpRThBdU1SY2hmVVdkM2NBUnFNR1BETW5HaC1oYUdmY3g2U0V1MEZwX1hFb3Nn?oc=5",
-      "published": "Mon, 30 Mar 2026 14:22:00 GMT",
-      "published_iso": "2026-03-30T14:22:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Sony Honda Mobility cancels Afeela EVs, reviews joint venture amid costly Honda pullback and weak demand - Automotive News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0I4NHl0WVMxb0tfOGdBc2F2SGV4RGlISEhkNW9Wd0taYkI5RGdsbXlvU0Nza1dhWmNIVWt6dzRKdlVCTV81TVZDLVp6dUxSOEt2RFNZaGI4Y1JzSU1jRzRadFB1T0hrc3p0SnA4bDltbkRhOFlFWEFMelhLQjUyVTlUdFVxYnVuMkdySWFIc3ViWGFGeDk4?oc=5\" target=\"_blank\">Sony Honda Mobility cancels Afeela EVs, rev",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0I4NHl0WVMxb0tfOGdBc2F2SGV4RGlISEhkNW9Wd0taYkI5RGdsbXlvU0Nza1dhWmNIVWt6dzRKdlVCTV81TVZDLVp6dUxSOEt2RFNZaGI4Y1JzSU1jRzRadFB1T0hrc3p0SnA4bDltbkRhOFlFWEFMelhLQjUyVTlUdFVxYnVuMkdySWFIc3ViWGFGeDk4?oc=5",
@@ -622,11 +613,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Amazon is selling $275 Sennheiser over-ear headphones for 49% off in advance of the Big Spring Sale - thestreet.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdW96eEhzMU5mUFFENnZ6NzU0REUybUs4TzRiZmVYRFFUOFBUb1pUbm9HTjFuei1yenktazBnNnVKRm9SQVhPVkFsR1Byc3VNVjNqS0g2V3FTSXB1bUhYeG9qdVVibEliWG9mN0VMc0o2WmVPQy1HdnJKQW9JLXFCdklra01wS0hLczdVQnpFajFSQQ?oc=5\" target=\"_blank\">Amazon is selling $275 Sennheiser over-ear headph",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdW96eEhzMU5mUFFENnZ6NzU0REUybUs4TzRiZmVYRFFUOFBUb1pUbm9HTjFuei1yenktazBnNnVKRm9SQVhPVkFsR1Byc3VNVjNqS0g2V3FTSXB1bUhYeG9qdVVibEliWG9mN0VMc0o2WmVPQy1HdnJKQW9JLXFCdklra01wS0hLczdVQnpFajFSQQ?oc=5",
-      "published": "Tue, 24 Mar 2026 16:15:00 GMT",
-      "published_iso": "2026-03-24T16:15:00+00:00",
+      "title": "Sennheiser's owners want to sell its consumer headphone business - engadget.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2IwTFUxeXhvUWpRc2dqTFBiTnhRVXd2OE1HR0xTT1pSRlNmUWpUaU1ObXZxSHJMS2Y0N2s3V1NzMUp4bDZmR3FxUUlIUDJMSGJTZHN2ejFNbFVfUm5LbkdBQVVHY25YcUYyYmxCTGN0a0VBX3hvb0U4eVJTMnFSSE1vSVJpdG5XdmhTWGpaN1lTTEI2YVdZeHI5ODRkVWFmZGFFWHdGZ05LOE10ZVE?oc=5\" target=\"_blank\">Sennheiser's",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2IwTFUxeXhvUWpRc2dqTFBiTnhRVXd2OE1HR0xTT1pSRlNmUWpUaU1ObXZxSHJMS2Y0N2s3V1NzMUp4bDZmR3FxUUlIUDJMSGJTZHN2ejFNbFVfUm5LbkdBQVVHY25YcUYyYmxCTGN0a0VBX3hvb0U4eVJTMnFSSE1vSVJpdG5XdmhTWGpaN1lTTEI2YVdZeHI5ODRkVWFmZGFFWHdGZ05LOE10ZVE?oc=5",
+      "published": "Wed, 25 Mar 2026 12:18:30 GMT",
+      "published_iso": "2026-03-25T12:18:30+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Final Four! Illinois Beats Iowa 71-59 For a Trip to Indianapolis - University of Illinois Athletics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjU2YVBRZVc3Yk9xWWtMWUJkeFR3X1FWRXprTVRWd3M3SHJ4WW9oTl83OWdQT3ljbDJPX0lVa2RqQ2h3ZTNHVmY0cVJBeFFpYmJmZXpmYlZpcGZWbWhhU1lnMl9fRm5nVGhEVUNMcFgtcVJqMkVKczZQMlR6b3d6ckxiNTlhTjh4dG8zbg?oc=5\" target=\"_blank\">Final Four! Illinois Beats Iowa 71-59 For a Trip to India",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjU2YVBRZVc3Yk9xWWtMWUJkeFR3X1FWRXprTVRWd3M3SHJ4WW9oTl83OWdQT3ljbDJPX0lVa2RqQ2h3ZTNHVmY0cVJBeFFpYmJmZXpmYlZpcGZWbWhhU1lnMl9fRm5nVGhEVUNMcFgtcVJqMkVKczZQMlR6b3d6ckxiNTlhTjh4dG8zbg?oc=5",
+      "published": "Sun, 29 Mar 2026 03:44:18 GMT",
+      "published_iso": "2026-03-29T03:44:18+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     }
@@ -921,11 +921,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Amazon and Walmart Compete for $1 Trillion Rural Market - Bloomberg.com",
+      "title": "Amazon and Walmart Compete for $1 Trillion Rural Market - Bloomberg",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tVHVWam5mV240WU9adUpIMTgxVV9zOG9ESVNib19VR1FiVVNjVGNyQWdEeDF3YmNaUVl0WjlDVnE4bXZfdGtrTnNjM29PbDNkazdaT3BkYVkxSTJSRVlqTE9yTnNXbDNoYVVKVzlGTWpEOTFrYjRaaExXdw?oc=5\" target=\"_blank\">Amazon and Walmart Compete for $1 Trillion Rural Market</a>&nbsp;&nbsp;<font colo",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tVHVWam5mV240WU9adUpIMTgxVV9zOG9ESVNib19VR1FiVVNjVGNyQWdEeDF3YmNaUVl0WjlDVnE4bXZfdGtrTnNjM29PbDNkazdaT3BkYVkxSTJSRVlqTE9yTnNXbDNoYVVKVzlGTWpEOTFrYjRaaExXdw?oc=5",
       "published": "Fri, 27 Mar 2026 13:30:00 GMT",
       "published_iso": "2026-03-27T13:30:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "I Asked 3 Italian Chefs for the Best Store-Bought Marinara—and Now I'll Only Buy This Jar - Allrecipes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDhrVzhZYU1NQXYzRTZyMVphaVRLQ044U05MU0ZwaFl6cGo0azQ0bVJUUksycnROVndPNkdyQ2owR1dqbDJERE1DVm1TV05IUGNMLUd6NTZWUy1sNnp3Ykt3VUQ1OVpJaHFXN3p4RVlrN2hHVnhMUEJFZFg0a0RnSHNSYkhnZk0?oc=5\" target=\"_blank\">I Asked 3 Italian Chefs for the Best Store-Bought Marinara—and N",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDhrVzhZYU1NQXYzRTZyMVphaVRLQ044U05MU0ZwaFl6cGo0azQ0bVJUUksycnROVndPNkdyQ2owR1dqbDJERE1DVm1TV05IUGNMLUd6NTZWUy1sNnp3Ykt3VUQ1OVpJaHFXN3p4RVlrN2hHVnhMUEJFZFg0a0RnSHNSYkhnZk0?oc=5",
+      "published": "Fri, 27 Mar 2026 15:00:00 GMT",
+      "published_iso": "2026-03-27T15:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -935,15 +944,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDg3MHdTQkhDMXhYU2Z5V3dGX3pNLUJqVTBBenBaeHVPVkFHdm9iMWYyczlQVXItbmI5ckZaM19OelM4Zm9WSlNLa3g4cUIwNE9xRG1oYnFXZVV3ZUFWNktJbTZaSG54ODhENEpiN3EzSGdXZ0xGbFhBamNmMHphS2pHdFp4V2tmc1FTSmpYeVJXSDB2Q0dnRTJhR2ZiOVVJWFByRg?oc=5",
       "published": "Thu, 26 Mar 2026 17:52:05 GMT",
       "published_iso": "2026-03-26T17:52:05+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "I Asked 3 Italian Chefs for the Best Store-Bought Marinara—and Now I'll Only Buy This Jar - allrecipes.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDhrVzhZYU1NQXYzRTZyMVphaVRLQ044U05MU0ZwaFl6cGo0azQ0bVJUUksycnROVndPNkdyQ2owR1dqbDJERE1DVm1TV05IUGNMLUd6NTZWUy1sNnp3Ykt3VUQ1OVpJaHFXN3p4RVlrN2hHVnhMUEJFZFg0a0RnSHNSYkhnZk0?oc=5\" target=\"_blank\">I Asked 3 Italian Chefs for the Best Store-Bought Marinara—and N",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDhrVzhZYU1NQXYzRTZyMVphaVRLQ044U05MU0ZwaFl6cGo0azQ0bVJUUksycnROVndPNkdyQ2owR1dqbDJERE1DVm1TV05IUGNMLUd6NTZWUy1sNnp3Ykt3VUQ1OVpJaHFXN3p4RVlrN2hHVnhMUEJFZFg0a0RnSHNSYkhnZk0?oc=5",
-      "published": "Fri, 27 Mar 2026 15:00:00 GMT",
-      "published_iso": "2026-03-27T15:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -984,6 +984,15 @@
       "bucket": "channel_news"
     },
     {
+      "title": "I'm A Dietitian, And These Are The 20 High-Protein Snacks I Always Throw In My Grocery Cart - BuzzFeed",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWVYTTYzSG5hX1ltWlliX2hQS1hicFhwYnUwdzY3RVRMNzFNcXFfQXA5cnhFZk9EeHNTVHYtdzQ2c2JfRU9UWWo4OXNpQUlLbXZKRkJPMEtRbUtlZS01RXRsbnhfNktJaS1IT3EtenBFT3lzNzdBQ0Rxd2RremN3NUNFQkk?oc=5\" target=\"_blank\">I'm A Dietitian, And These Are The 20 High-Protein Snacks I Always T",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWVYTTYzSG5hX1ltWlliX2hQS1hicFhwYnUwdzY3RVRMNzFNcXFfQXA5cnhFZk9EeHNTVHYtdzQ2c2JfRU9UWWo4OXNpQUlLbXZKRkJPMEtRbUtlZS01RXRsbnhfNktJaS1IT3EtenBFT3lzNzdBQ0Rxd2RremN3NUNFQkk?oc=5",
+      "published": "Tue, 24 Mar 2026 22:16:02 GMT",
+      "published_iso": "2026-03-24T22:16:02+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
       "title": "The Army and Amazon are creating an online storefront to buy drones as the technology transforms the battlefield - Fortune",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTBhR1Fsd1lBMlRSdGRjQlM4NXE5YWg0YWFFS3lLbGtvTnc4djA1TmludUJYUWVtNVhfbEw0OUw5RGhJWWVtLW5PTmlQNkkzaXJCSlFoNHFKUzc4VEVoU3JHcFlMNU5pc21RdG9MWlE2eDFhOHNldTE5ZURiUGxHRFY2VEllOXZSajBfeEhHTlFsN3NMcVVmaFYzVjZXSnppR2tYS2xuTFlTLXZHZFE?oc=5\" target=\"_blank\">The Army and",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTBhR1Fsd1lBMlRSdGRjQlM4NXE5YWg0YWFFS3lLbGtvTnc4djA1TmludUJYUWVtNVhfbEw0OUw5RGhJWWVtLW5PTmlQNkkzaXJCSlFoNHFKUzc4VEVoU3JHcFlMNU5pc21RdG9MWlE2eDFhOHNldTE5ZURiUGxHRFY2VEllOXZSajBfeEhHTlFsN3NMcVVmaFYzVjZXSnppR2tYS2xuTFlTLXZHZFE?oc=5",
@@ -1002,20 +1011,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Amazon vs Walmart: Which is a Better Buy? - 24/7 Wall St.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWtFcm56aEs4MzRMdUJ3Y3daUDdSRmVMSE1EWFFOa1daLXRIY01KZjkzUGNleEpQTXgzVlJDR25lT2pPR19jeDYxNHZ3b0YzcjJiSGNjOUpDdnhncFkzSDFSLTdxOEhHcGFydkJ4MXFMUkhTR2hSZjRqRDV1TUM5NEd0X0lJOGh2VjI4?oc=5\" target=\"_blank\">Amazon vs Walmart: Which is a Better Buy?</a>&nbsp;&nbsp;<f",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWtFcm56aEs4MzRMdUJ3Y3daUDdSRmVMSE1EWFFOa1daLXRIY01KZjkzUGNleEpQTXgzVlJDR25lT2pPR19jeDYxNHZ3b0YzcjJiSGNjOUpDdnhncFkzSDFSLTdxOEhHcGFydkJ4MXFMUkhTR2hSZjRqRDV1TUM5NEd0X0lJOGh2VjI4?oc=5",
-      "published": "Thu, 26 Mar 2026 16:06:01 GMT",
-      "published_iso": "2026-03-26T16:06:01+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
       "title": "I'm an audio expert and these are the only wireless earbuds I recommend - What Hi-Fi?",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklvUkNQWjh0Qmd4azBqcGpGZ2N6bDhxOEdnZ0llcU80Z0ZOcVhXSUdTSnZTdTVwYnlqZl8tNDFFVTZQS3lnR3lOdEUxbVNrYmYxYll2MHY0MGpUQ3VySW1SUXpMOENuTjBITTJ0bElwOUFsNlp5b19UcC1UNGcwTw?oc=5\" target=\"_blank\">I'm an audio expert and these are the only wireless earbuds I recommend</",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklvUkNQWjh0Qmd4azBqcGpGZ2N6bDhxOEdnZ0llcU80Z0ZOcVhXSUdTSnZTdTVwYnlqZl8tNDFFVTZQS3lnR3lOdEUxbVNrYmYxYll2MHY0MGpUQ3VySW1SUXpMOENuTjBITTJ0bElwOUFsNlp5b19UcC1UNGcwTw?oc=5",
       "published": "Tue, 24 Mar 2026 13:20:25 GMT",
       "published_iso": "2026-03-24T13:20:25+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "The 4 Best Wired Earbuds of 2026 | Reviews by Wirecutter - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9aX3hUMzg1OU5FWkhnaGsyOFkwc2s2MVdYbXl1MXVVOU1fZlk4aFNxQmplbU11aWhoUUZYYnFfR0c5azZvSzduZVRXbG1PTFlhU2t4NVNUTFZ5NGE4MUJzRVBYbS1Jc1llZzBscm1senNKS1lFU0JDc0ZDc3hhN00?oc=5\" target=\"_blank\">The 4 Best Wired Earbuds of 2026 | Reviews by Wirecutter</a>&nbsp;&nbsp;<fon",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aX3hUMzg1OU5FWkhnaGsyOFkwc2s2MVdYbXl1MXVVOU1fZlk4aFNxQmplbU11aWhoUUZYYnFfR0c5azZvSzduZVRXbG1PTFlhU2t4NVNUTFZ5NGE4MUJzRVBYbS1Jc1llZzBscm1senNKS1lFU0JDc0ZDc3hhN00?oc=5",
+      "published": "Tue, 24 Mar 2026 17:10:53 GMT",
+      "published_iso": "2026-03-24T17:10:53+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1038,15 +1047,6 @@
       "bucket": "channel_news"
     },
     {
-      "title": "The 4 Best Wired Earbuds of 2026 | Reviews by Wirecutter - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9aX3hUMzg1OU5FWkhnaGsyOFkwc2s2MVdYbXl1MXVVOU1fZlk4aFNxQmplbU11aWhoUUZYYnFfR0c5azZvSzduZVRXbG1PTFlhU2t4NVNUTFZ5NGE4MUJzRVBYbS1Jc1llZzBscm1senNKS1lFU0JDc0ZDc3hhN00?oc=5\" target=\"_blank\">The 4 Best Wired Earbuds of 2026 | Reviews by Wirecutter</a>&nbsp;&nbsp;<fon",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aX3hUMzg1OU5FWkhnaGsyOFkwc2s2MVdYbXl1MXVVOU1fZlk4aFNxQmplbU11aWhoUUZYYnFfR0c5azZvSzduZVRXbG1PTFlhU2t4NVNUTFZ5NGE4MUJzRVBYbS1Jc1llZzBscm1senNKS1lFU0JDc0ZDc3hhN00?oc=5",
-      "published": "Tue, 24 Mar 2026 17:10:53 GMT",
-      "published_iso": "2026-03-24T17:10:53+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "I’ve tested a ton of open earbuds, but these are the only three models I’d buy - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXlPdmNwdFdtVlV0SDhSaENtLURlM2dpVFFseEtfX0J3UFRJMVhtcDJvbktfbU9uR2RELU04Z2x2X3RoYnNhb1NRN0w2RnpyNEhwMEwtRUtXbWZicUJYUnM4OVZxeTMzYzRiRkx2TkZQanduQ1llWmFEMms0R2ZmbVVEQTZxOF8xeVdGbWVBSHpRaFdlVlFFd092WXY3djdSRklKQVdOQXV6RGtfS3BPaTZYb3JkWS1BVWtWdXlWbmk?oc=5\" targ",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXlPdmNwdFdtVlV0SDhSaENtLURlM2dpVFFseEtfX0J3UFRJMVhtcDJvbktfbU9uR2RELU04Z2x2X3RoYnNhb1NRN0w2RnpyNEhwMEwtRUtXbWZicUJYUnM4OVZxeTMzYzRiRkx2TkZQanduQ1llWmFEMms0R2ZmbVVEQTZxOF8xeVdGbWVBSHpRaFdlVlFFd092WXY3djdSRklKQVdOQXV6RGtfS3BPaTZYb3JkWS1BVWtWdXlWbmk?oc=5",
@@ -1056,20 +1056,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Should you shop Best Buy's competing Amazon tech deals today? - USA Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWJTTmFJTE9OU0Qwb2ZGREVJdlNYZXRYZlFEQTVoLXJjb1VVbkpEQWRRZzBTeUh3V0JlMjJqWk1DRUE1bFBHQk41Tk9NYWdvWkdLVEtUbm90VnlTWmFsSzFKbTdfbEZVRzNmVVRsdDdOUWVxakE1Nk9RcU02QVhsMkx0cXZMZTI2VWhhV1JGT0N4OHRzcENVSjhn?oc=5\" target=\"_blank\">Should you shop Best Buy's competing Am",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWJTTmFJTE9OU0Qwb2ZGREVJdlNYZXRYZlFEQTVoLXJjb1VVbkpEQWRRZzBTeUh3V0JlMjJqWk1DRUE1bFBHQk41Tk9NYWdvWkdLVEtUbm90VnlTWmFsSzFKbTdfbEZVRzNmVVRsdDdOUWVxakE1Nk9RcU02QVhsMkx0cXZMZTI2VWhhV1JGT0N4OHRzcENVSjhn?oc=5",
-      "published": "Wed, 25 Mar 2026 15:10:48 GMT",
-      "published_iso": "2026-03-25T15:10:48+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "Best Amazon Big Spring Sale headphone deals 2026 - ZDNET",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPUHlxQm9jUWdzdDZEQjczZmptUENkZmVoYmIycV9DdEFjRUIzaWFFVkVIT1BUaTJnT1NOSWw0Uk9RVDVTU0NKb2FOeHBPLW9tX0VNcjJsRjU5WUtaZE5JRFRNQS1hUGxkZXphV3pSSnpPODVuMnFBQTktai1vbXh3NjBn?oc=5\" target=\"_blank\">Best Amazon Big Spring Sale headphone deals 2026</a>&nbsp;&nbsp;<font c",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUHlxQm9jUWdzdDZEQjczZmptUENkZmVoYmIycV9DdEFjRUIzaWFFVkVIT1BUaTJnT1NOSWw0Uk9RVDVTU0NKb2FOeHBPLW9tX0VNcjJsRjU5WUtaZE5JRFRNQS1hUGxkZXphV3pSSnpPODVuMnFBQTktai1vbXh3NjBn?oc=5",
       "published": "Sun, 29 Mar 2026 22:12:00 GMT",
       "published_iso": "2026-03-29T22:12:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Should you shop Best Buy's competing Amazon tech deals today? - USA Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWJTTmFJTE9OU0Qwb2ZGREVJdlNYZXRYZlFEQTVoLXJjb1VVbkpEQWRRZzBTeUh3V0JlMjJqWk1DRUE1bFBHQk41Tk9NYWdvWkdLVEtUbm90VnlTWmFsSzFKbTdfbEZVRzNmVVRsdDdOUWVxakE1Nk9RcU02QVhsMkx0cXZMZTI2VWhhV1JGT0N4OHRzcENVSjhn?oc=5\" target=\"_blank\">Should you shop Best Buy's competing Am",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWJTTmFJTE9OU0Qwb2ZGREVJdlNYZXRYZlFEQTVoLXJjb1VVbkpEQWRRZzBTeUh3V0JlMjJqWk1DRUE1bFBHQk41Tk9NYWdvWkdLVEtUbm90VnlTWmFsSzFKbTdfbEZVRzNmVVRsdDdOUWVxakE1Nk9RcU02QVhsMkx0cXZMZTI2VWhhV1JGT0N4OHRzcENVSjhn?oc=5",
+      "published": "Wed, 25 Mar 2026 15:10:48 GMT",
+      "published_iso": "2026-03-25T15:10:48+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1119,5 +1119,5 @@
       "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1774934961
+  "fetched_at": 1774936764
 }

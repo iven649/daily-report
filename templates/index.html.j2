@@ -386,12 +386,13 @@
 
     .product-grid {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 16px;
       margin-top: 4px;
     }
 
     .product-card {
+      min-width: 0;
       min-height: 230px;
       padding: 18px;
       border: 1px solid var(--line-soft);

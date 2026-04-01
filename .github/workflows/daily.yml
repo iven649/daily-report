@@ -2,10 +2,10 @@ name: Daily Report Update
 
 on:
   schedule:
-    # 北京时间 08:10
+    # 北京时间 07:10
+    - cron: '10 22 * * *'
+    # 北京时间 08:10，补跑一次，覆盖 RSS / Google News 延迟
     - cron: '10 23 * * *'
-    # 北京时间 09:10，补跑一次，覆盖 RSS / Google News 延迟
-    - cron: '10 00 * * *'
   workflow_dispatch:
 
 permissions:

@@ -46,6 +46,15 @@
       "_score": 24
     },
     {
+      "name": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" acc",
+      "date": "2026-04-03T19:52:49-04:00",
+      "published_iso": "2026-04-03T23:52:49+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "NASA did eventually solve Artemis II&#8217;s Outlook glitch",
       "summary": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman ",
       "date": "2026-04-03T16:53:48-04:00",
@@ -98,18 +107,9 @@
       "url": "https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale",
       "source": "The Verge",
       "_score": 20
-    },
-    {
-      "name": "I saved a doomed Windows laptop by embracing Linux",
-      "summary": "Two weeks ago I set aside my M4 MacBook Air and picked up a nine-year-old ThinkPad. It's one of an estimated 200 to 400 million Windows 10 PCs that don't meet Microsoft's requirements for Windows 11. When Microsoft officially ended support for Windows 10 in Oc",
-      "date": "2026-04-03T11:00:00-04:00",
-      "published_iso": "2026-04-03T15:00:00+00:00",
-      "url": "https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad",
-      "source": "The Verge",
-      "_score": 20
     }
   ],
-  "fetched_at": 1775260323,
+  "fetched_at": 1775261015,
   "stats": {
     "source_count": 7,
     "raw_count": 126,

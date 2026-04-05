@@ -1,34 +1,7 @@
 {
-  "today": "2026-04-05",
+  "today": "2026-04-06",
   "festival_cards": [
     {
-      "slug": "easter",
-      "name": "复活节",
-      "market": "US",
-      "type": "traditional",
-      "priority": 4,
-      "rule": "easter",
-      "icon": "🥚",
-      "date": "2026-04-05",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "复活节是美国市场的重要节日或零售节点。",
-      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
-      "customs": [
-        "家庭消费",
-        "礼品采购",
-        "平台促销",
-        "线下零售活动"
-      ],
-      "consumption": [
-        "礼赠类消费",
-        "平台大促",
-        "家庭出行与户外",
-        "零售门店活动"
-      ],
-      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
-    },
-    {
       "slug": "mothers-day",
       "name": "母亲节",
       "market": "US",
@@ -40,147 +13,7 @@
       "nth": 2,
       "icon": "🌸",
       "date": "2026-05-10",
-      "countdown": 35,
-      "year": 2026,
-      "origin": "母亲节是美国市场的重要节日或零售节点。",
-      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
-      "customs": [
-        "家庭消费",
-        "礼品采购",
-        "平台促销",
-        "线下零售活动"
-      ],
-      "consumption": [
-        "礼赠类消费",
-        "平台大促",
-        "家庭出行与户外",
-        "零售门店活动"
-      ],
-      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
-    },
-    {
-      "slug": "jd-618",
-      "name": 618,
-      "market": "ECOM",
-      "type": "campaign",
-      "priority": 5,
-      "rule": "fixed",
-      "month": 6,
-      "day": 18,
-      "icon": "📦",
-      "date": "2026-06-18",
-      "countdown": 74,
-      "year": 2026,
-      "origin": "618是重要的电商营销节点。",
-      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
-      "customs": [
-        "平台大促",
-        "价格竞争",
-        "流量冲刺"
-      ],
-      "consumption": [
-        "折扣活动",
-        "广告投放",
-        "库存与履约"
-      ],
-      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
-    },
-    {
-      "slug": "prime-day",
-      "name": "Prime Day",
-      "market": "ECOM",
-      "type": "campaign",
-      "priority": 4,
-      "rule": "fixed",
-      "month": 7,
-      "day": 15,
-      "icon": "⚡",
-      "date": "2026-07-15",
-      "countdown": 101,
-      "year": 2026,
-      "origin": "Prime Day是重要的电商营销节点。",
-      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
-      "customs": [
-        "平台大促",
-        "价格竞争",
-        "流量冲刺"
-      ],
-      "consumption": [
-        "折扣活动",
-        "广告投放",
-        "库存与履约"
-      ],
-      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
-    }
-  ],
-  "festival_pages": [
-    {
-      "slug": "easter",
-      "name": "复活节",
-      "market": "US",
-      "type": "traditional",
-      "priority": 4,
-      "rule": "easter",
-      "icon": "🥚",
-      "date": "2026-04-05",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "复活节是美国市场的重要节日或零售节点。",
-      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
-      "customs": [
-        "家庭消费",
-        "礼品采购",
-        "平台促销",
-        "线下零售活动"
-      ],
-      "consumption": [
-        "礼赠类消费",
-        "平台大促",
-        "家庭出行与户外",
-        "零售门店活动"
-      ],
-      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
-    },
-    {
-      "slug": "labor-day-cn",
-      "name": "劳动节",
-      "market": "CN",
-      "type": "holiday",
-      "priority": 3,
-      "rule": "fixed",
-      "month": 5,
-      "day": 1,
-      "icon": "🛠️",
-      "date": "2026-05-01",
-      "countdown": 26,
-      "year": 2026,
-      "origin": "劳动节是中国的重要节日或营销节点。",
-      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
-      "customs": [
-        "节前备货",
-        "礼赠需求",
-        "节庆促销"
-      ],
-      "consumption": [
-        "礼品零售",
-        "出行相关",
-        "节庆营销"
-      ],
-      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
-    },
-    {
-      "slug": "mothers-day",
-      "name": "母亲节",
-      "market": "US",
-      "type": "holiday",
-      "priority": 4,
-      "rule": "nth_weekday",
-      "month": 5,
-      "weekday": 6,
-      "nth": 2,
-      "icon": "🌸",
-      "date": "2026-05-10",
-      "countdown": 35,
+      "countdown": 34,
       "year": 2026,
       "origin": "母亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -210,7 +43,7 @@
       "nth": -1,
       "icon": "🇺🇸",
       "date": "2026-05-25",
-      "countdown": 50,
+      "countdown": 49,
       "year": 2026,
       "origin": "Memorial Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -239,7 +72,150 @@
       "day": 18,
       "icon": "📦",
       "date": "2026-06-18",
-      "countdown": 74,
+      "countdown": 73,
+      "year": 2026,
+      "origin": "618是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "prime-day",
+      "name": "Prime Day",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 7,
+      "day": 15,
+      "icon": "⚡",
+      "date": "2026-07-15",
+      "countdown": 100,
+      "year": 2026,
+      "origin": "Prime Day是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    }
+  ],
+  "festival_pages": [
+    {
+      "slug": "labor-day-cn",
+      "name": "劳动节",
+      "market": "CN",
+      "type": "holiday",
+      "priority": 3,
+      "rule": "fixed",
+      "month": 5,
+      "day": 1,
+      "icon": "🛠️",
+      "date": "2026-05-01",
+      "countdown": 25,
+      "year": 2026,
+      "origin": "劳动节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
+    },
+    {
+      "slug": "mothers-day",
+      "name": "母亲节",
+      "market": "US",
+      "type": "holiday",
+      "priority": 4,
+      "rule": "nth_weekday",
+      "month": 5,
+      "weekday": 6,
+      "nth": 2,
+      "icon": "🌸",
+      "date": "2026-05-10",
+      "countdown": 34,
+      "year": 2026,
+      "origin": "母亲节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "memorial-day",
+      "name": "Memorial Day",
+      "market": "US",
+      "type": "holiday",
+      "priority": 4,
+      "rule": "nth_weekday",
+      "month": 5,
+      "weekday": 0,
+      "nth": -1,
+      "icon": "🇺🇸",
+      "date": "2026-05-25",
+      "countdown": 49,
+      "year": 2026,
+      "origin": "Memorial Day是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "jd-618",
+      "name": 618,
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 6,
+      "day": 18,
+      "icon": "📦",
+      "date": "2026-06-18",
+      "countdown": 73,
       "year": 2026,
       "origin": "618是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -266,7 +242,7 @@
       "day": 19,
       "icon": "🚣",
       "date": "2026-06-19",
-      "countdown": 75,
+      "countdown": 74,
       "year": 2026,
       "origin": "端午节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -294,7 +270,7 @@
       "nth": 3,
       "icon": "👔",
       "date": "2026-06-21",
-      "countdown": 77,
+      "countdown": 76,
       "year": 2026,
       "origin": "父亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -323,7 +299,7 @@
       "day": 4,
       "icon": "🎆",
       "date": "2026-07-04",
-      "countdown": 90,
+      "countdown": 89,
       "year": 2026,
       "origin": "独立日是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -352,7 +328,7 @@
       "day": 15,
       "icon": "⚡",
       "date": "2026-07-15",
-      "countdown": 101,
+      "countdown": 100,
       "year": 2026,
       "origin": "Prime Day是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -379,7 +355,7 @@
       "day": 15,
       "icon": "🎒",
       "date": "2026-08-15",
-      "countdown": 132,
+      "countdown": 131,
       "year": 2026,
       "origin": "返校季是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -406,7 +382,7 @@
       "day": 19,
       "icon": "💗",
       "date": "2026-08-19",
-      "countdown": 136,
+      "countdown": 135,
       "year": 2026,
       "origin": "七夕是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -434,7 +410,7 @@
       "nth": 1,
       "icon": "🛍️",
       "date": "2026-09-07",
-      "countdown": 155,
+      "countdown": 154,
       "year": 2026,
       "origin": "Labor Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -463,7 +439,7 @@
       "day": 25,
       "icon": "🌕",
       "date": "2026-09-25",
-      "countdown": 173,
+      "countdown": 172,
       "year": 2026,
       "origin": "中秋节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -490,7 +466,7 @@
       "day": 1,
       "icon": "🇨🇳",
       "date": "2026-10-01",
-      "countdown": 179,
+      "countdown": 178,
       "year": 2026,
       "origin": "国庆节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -517,7 +493,7 @@
       "day": 31,
       "icon": "🎃",
       "date": "2026-10-31",
-      "countdown": 209,
+      "countdown": 208,
       "year": 2026,
       "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -546,7 +522,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 220,
+      "countdown": 219,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -574,7 +550,7 @@
       "nth": 4,
       "icon": "🦃",
       "date": "2026-11-26",
-      "countdown": 235,
+      "countdown": 234,
       "year": 2026,
       "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -603,7 +579,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 236,
+      "countdown": 235,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -630,7 +606,7 @@
       "offset_days": 4,
       "icon": "💻",
       "date": "2026-11-30",
-      "countdown": 239,
+      "countdown": 238,
       "year": 2026,
       "origin": "网一是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -657,7 +633,7 @@
       "day": 12,
       "icon": "🧾",
       "date": "2026-12-12",
-      "countdown": 251,
+      "countdown": 250,
       "year": 2026,
       "origin": "双12是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -672,6 +648,35 @@
         "库存与履约"
       ],
       "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "christmas",
+      "name": "圣诞节",
+      "market": "US",
+      "type": "holiday",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 12,
+      "day": 25,
+      "icon": "🎄",
+      "date": "2026-12-25",
+      "countdown": 263,
+      "year": 2026,
+      "origin": "圣诞节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
     }
   ]
 }

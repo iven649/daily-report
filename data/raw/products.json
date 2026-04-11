@@ -46,6 +46,15 @@
       "_score": 24
     },
     {
+      "name": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
+      "summary": "Dutch regulators, the RDW, announced that after over a year and a half of testing, it has officially approved Tesla's Full-Self Driving (FSD) Supervised. This makes the Netherlands the first European country to authorize the use of FSD on its roads. This could",
+      "date": "2026-04-11T19:22:15-04:00",
+      "published_iso": "2026-04-11T23:22:15+00:00",
+      "url": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Google says Polymarket bets showing up in News was an ‘error’",
       "summary": "Polymarket bets started popping up in Google News alongside legitimate news articles. But now those results aren't showing, and Google says they were never supposed to. Spokesperson Ned Adriance told The Verge that \"Google News is designed to show sources that",
       "date": "2026-04-11T11:07:47-04:00",
@@ -98,22 +107,13 @@
       "url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
       "source": "The Verge",
       "_score": 20
-    },
-    {
-      "name": "Demons and pinball are a perfect match",
-      "summary": "There's one very specific reason I keep a Wii U handy, and that's so that I have an easy way to play the classic pinball game Devil's Crush. Over the years, it has become a comfort game for me. I'm not entirely sure what it is, but there's something about the ",
-      "date": "2026-04-11T09:00:00-04:00",
-      "published_iso": "2026-04-11T13:00:00+00:00",
-      "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
-      "source": "The Verge",
-      "_score": 20
     }
   ],
-  "fetched_at": 1775947597,
+  "fetched_at": 1775951531,
   "stats": {
     "source_count": 7,
-    "raw_count": 124,
-    "deduped_count": 124,
+    "raw_count": 123,
+    "deduped_count": 123,
     "kept_count": 12
   }
 }

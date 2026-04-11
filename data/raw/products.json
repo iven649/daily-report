@@ -37,15 +37,6 @@
       "_score": 24
     },
     {
-      "name": "Soundcore AeroFit Pro Open-Ear Headphones discounted to $59.99 - Technobezz",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUQ5dHhNR3ZXazNOai1ReFVxMVBxaFJVSUIwRHhtOVlmMzhEY0x0RlhwY2tGYmtDMS1iNTg5RnlFMm1uZjZudF9yOFROLVdHY1gyTXVuMjVLd0Vmb3Z4TG5BVDRhTlJtVVEyNG9OblFvTXFIR09VWDZpaENaYk1tajA5TTN3elhMOFIxSWxxdDVHQ1lRaWE4?oc=5\"",
-      "date": "Fri, 10 Apr 2026 14:01:17",
-      "published_iso": "2026-04-10T14:01:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUQ5dHhNR3ZXazNOai1ReFVxMVBxaFJVSUIwRHhtOVlmMzhEY0x0RlhwY2tGYmtDMS1iNTg5RnlFMm1uZjZudF9yOFROLVdHY1gyTXVuMjVLd0Vmb3Z4TG5BVDRhTlJtVVEyNG9OblFvTXFIR09VWDZpaENaYk1tajA5TTN3elhMOFIxSWxxdDVHQ1lRaWE4?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 24
-    },
-    {
       "name": "Some of the 'best-sounding bone conduction headphones we've tested' are down to their lowest price this year - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkdjSmIzX0JETmVHSmlMWGJxRGdZcEcyU2V1VTdtYVRkOTRVdnVzeHM4cGdNSkZiWm12OWhlVWVpV3RJSVotNGUteEg5aTVPelVTeHpOTWx1eEZ0WDlUaUZwTDRkekRaMXBKaWJpVXJuV0lPMUJKN3NLSmJzOGFQYnRFcHhHSUpYeFFBX21vakZteWxCTzJvdm9KZk",
       "date": "Thu, 09 Apr 2026 10:57:05",
@@ -107,13 +98,22 @@
       "url": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
       "source": "The Verge",
       "_score": 20
+    },
+    {
+      "name": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+      "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian con",
+      "date": "2026-04-10T13:30:00-04:00",
+      "published_iso": "2026-04-10T17:30:00+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+      "source": "The Verge",
+      "_score": 20
     }
   ],
-  "fetched_at": 1775865290,
+  "fetched_at": 1775884506,
   "stats": {
     "source_count": 7,
-    "raw_count": 126,
-    "deduped_count": 126,
+    "raw_count": 124,
+    "deduped_count": 124,
     "kept_count": 12
   }
 }

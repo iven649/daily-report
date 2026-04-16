@@ -1,6 +1,15 @@
 {
   "products": [
     {
+      "name": "YouTube’s mobile app finally lets you share timestamped videos",
+      "summary": "YouTube is making some changes that might affect how you share videos from the mobile app. From the app, you can finally share videos from a specific timestamp, which will make it easier to point someone to a part of a video you might want them to see while yo",
+      "date": "2026-04-16T19:32:16-04:00",
+      "published_iso": "2026-04-16T23:32:16+00:00",
+      "url": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Gucci-branded Google smart glasses are coming next year",
       "summary": "Google is reportedly partnering with Gucci to make a pair of AI smart glasses stylish enough people might actually want to wear them. According to Reuters, Gucci parent company Kering is planning to launch the glasses sometime in 2027. Google's first pair of A",
       "date": "2026-04-16T16:31:31-04:00",
@@ -82,15 +91,6 @@
       "_score": 20
     },
     {
-      "name": "The nine best ways to protect, customize, and accessorize your MacBook Neo",
-      "summary": "The MacBook Neo is poised to be a top-selling laptop in 2026, thanks in large part to its affordable $599 entry price. Despite launching at a more accessible price point than Apple’s $1,099 (though often discounted) 2026 MacBook Air, the Neo makes surprisingly",
-      "date": "2026-04-16T13:05:54-04:00",
-      "published_iso": "2026-04-16T17:05:54+00:00",
-      "url": "https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "Factory hits $1.5B valuation to build AI coding for enterprises",
       "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
       "date": "Thu, 16 Apr 2026 22:55:30",
@@ -109,11 +109,11 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1776380165,
+  "fetched_at": 1776383815,
   "stats": {
     "source_count": 7,
-    "raw_count": 120,
-    "deduped_count": 119,
+    "raw_count": 118,
+    "deduped_count": 118,
     "kept_count": 12
   }
 }

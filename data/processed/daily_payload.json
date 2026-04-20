@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21 06:58:09 CST",
+  "generated_at": "2026-04-21 07:58:13 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -716,7 +716,7 @@
     "published_iso": "2026-04-19T10:00:08+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 37.0,
+    "hours_since_published": 38.0,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -734,10 +734,10 @@
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "沃尔玛利用门店作为仓库挑战亚马逊的同日送达，提升了电商竞争力。",
-    "suggested_action": "加强电商平台的同日送达服务，提升用户体验和市场份额。"
+    "business_note": "沃尔玛通过门店作为仓库挑战亚马逊同日送达，影响电商竞争格局。",
+    "suggested_action": "加强电商平台的同日送达能力，提升用户体验。"
   },
-  "lead_summary": "沃尔玛借助门店优势提升同日配送能力，进一步加剧与亚马逊的电商竞争。",
+  "lead_summary": "沃尔玛利用门店优势加速同日配送，或将重塑电商竞争格局，威胁亚马逊市场份额。",
   "headline_trio": [
     {
       "title": "Walmart challenges Amazon on same-day delivery by using stores as warehouses - Financial Times",
@@ -747,7 +747,7 @@
       "published_iso": "2026-04-19T10:00:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 37.0,
+      "hours_since_published": 38.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -765,8 +765,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "沃尔玛利用门店作为仓库挑战亚马逊的同日送达，提升了电商竞争力。",
-      "suggested_action": "加强电商平台的同日送达服务，提升用户体验和市场份额。"
+      "business_note": "沃尔玛通过门店作为仓库挑战亚马逊同日送达，影响电商竞争格局。",
+      "suggested_action": "加强电商平台的同日送达能力，提升用户体验。"
     },
     {
       "title": "The Best Store-Brand Milk Isn't From Costco, Walmart, Or Trader Joe's - Chowhound",
@@ -776,7 +776,7 @@
       "published_iso": "2026-04-18T15:35:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 55.4,
+      "hours_since_published": 56.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -794,8 +794,8 @@
       ],
       "impact_area": "电商",
       "importance": "中",
-      "business_note": "该文章指出最佳自有品牌牛奶不来自主要零售商，提示市场竞争格局变化。",
-      "suggested_action": "关注自有品牌产品的市场表现，优化电商渠道策略。"
+      "business_note": "该文章揭示了品牌牛奶市场的竞争格局，影响电商销售策略。",
+      "suggested_action": "加强与优质品牌的合作，提升电商平台的牛奶产品线。"
     },
     {
       "title": "Walmart Is Racing to Become Amazon Before Amazon Can Become Walmart - Business Insider",
@@ -805,7 +805,7 @@
       "published_iso": "2026-04-20T17:58:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 5.0,
+      "hours_since_published": 6.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -823,43 +823,11 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart加速电商转型，威胁Amazon市场地位，需关注竞争动态。",
-      "suggested_action": "加强电商平台营销策略，提升品牌曝光和用户转化。"
+      "business_note": "Walmart加速电商转型，威胁到亚马逊的市场地位，需关注竞争动态。",
+      "suggested_action": "加强电商平台的品牌营销，提升用户体验，争夺市场份额。"
     }
   ],
   "consumer_electronics": [
-    {
-      "title": "Sony lawsuit targets defective Sony WH-1000XM5 headphones - Class Action Lawsuits",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObzViMDNDaGlpblcyQnBGLVFHejZoYWZNdmNUN2ZUSnR3Y0FfZ0s4VjZ5ck01d3RzRWpGY3FEeWFydnMzQ1g1dEROSlh6RWJ4T2FHUUd1V2tDVkFIbTZhdTZrdWpMWXlic2FDUGRDSkJBTkwtODA2RnByYnhmM0dUVTJtc1ExTUtwa0NZOHQ1TTZGNGgtUVRWZURheXJkMS1m?oc=5\" target=\"_blank\">Sony lawsuit targets defective ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzViMDNDaGlpblcyQnBGLVFHejZoYWZNdmNUN2ZUSnR3Y0FfZ0s4VjZ5ck01d3RzRWpGY3FEeWFydnMzQ1g1dEROSlh6RWJ4T2FHUUd1V2tDVkFIbTZhdTZrdWpMWXlic2FDUGRDSkJBTkwtODA2RnByYnhmM0dUVTJtc1ExTUtwa0NZOHQ1TTZGNGgtUVRWZURheXJkMS1m?oc=5",
-      "published": "Mon, 20 Apr 2026 20:57:04 GMT",
-      "published_iso": "2026-04-20T20:57:04+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 2.0,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Sony"
-        ],
-        "channels": [
-          "Target"
-        ],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 289,
-      "display_title": "Sony lawsuit targets defective Sony...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "索尼WH-1000XM5耳机的诉讼可能影响品牌形象和销售。",
-      "suggested_action": "加强电商平台的产品质量监控与客户反馈机制。"
-    },
     {
       "title": "The Soundcore C40i clip-on earbuds have never been cheaper at almost 60% off",
       "summary": "The C40i headphones are 58% off on Amazon right now, down from $120 to just $49.99 — the lowest price we've tracked.",
@@ -868,7 +836,7 @@
       "published_iso": "2026-04-20T20:07:05+00:00",
       "source": "Android Authority",
       "bucket": "consumer_electronics",
-      "hours_since_published": 2.8,
+      "hours_since_published": 3.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -889,8 +857,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "C40i耳机在亚马逊大幅降价，有助于提升销量和品牌曝光。",
-      "suggested_action": "利用此次促销加强电商营销，吸引更多消费者购买。"
+      "business_note": "C40i耳机在亚马逊大幅降价，有助于提升销量和市场份额。",
+      "suggested_action": "建议通过电商平台加强促销，吸引更多消费者购买。"
     },
     {
       "title": "These Shokz Bone Conduction Headphones Are on Sale for $110 Right Now - Lifehacker",
@@ -900,7 +868,7 @@
       "published_iso": "2026-04-15T18:30:43+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 124.4,
+      "hours_since_published": 125.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -921,7 +889,7 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "Shokz骨传导耳机促销，有助于提升品牌知名度和销量。",
-      "suggested_action": "加大电商平台宣传力度，吸引更多消费者关注。"
+      "suggested_action": "加大电商平台推广力度，吸引更多消费者关注。"
     },
     {
       "title": "The Best Wearable Action Cameras of 2026 Compared: Xtra Atto vs Insta360 GO vs DJI Osmo Nano - DIYPhotography",
@@ -931,7 +899,7 @@
       "published_iso": "2026-04-20T18:42:53+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 4.2,
+      "hours_since_published": 5.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -953,7 +921,7 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "2026年可穿戴运动相机市场竞争激烈，需加强品牌营销以提升市场份额。",
-      "suggested_action": "建议加大对DJI品牌的电商推广力度，吸引更多消费者关注。"
+      "suggested_action": "针对DJI品牌，制定精准的电商营销策略，提升消费者认知度。"
     },
     {
       "title": "4 Reasons Audiophiles Choose Wired Headphones Over Bluetooth - AOL.com",
@@ -963,7 +931,7 @@
       "published_iso": "2026-04-20T19:55:53+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 3.0,
+      "hours_since_published": 4.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -980,8 +948,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "有线耳机在音质和稳定性上优于蓝牙，吸引发烧友关注。",
-      "suggested_action": "加强有线耳机的品牌营销，突出其音质优势。"
+      "business_note": "有线耳机在音质和稳定性上优于蓝牙，需加强品牌宣传。",
+      "suggested_action": "针对音响爱好者推出有线耳机的营销活动，提升品牌认知。"
     },
     {
       "title": "The best open-ear headphones for 2026, tested and reviewed - Yahoo Tech",
@@ -991,7 +959,7 @@
       "published_iso": "2026-04-15T11:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 132.0,
+      "hours_since_published": 133.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1010,7 +978,35 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "2026年开放耳机市场潜力巨大，需加强品牌营销以提升市场份额。",
-      "suggested_action": "建议制定针对开放耳机的品牌推广策略，增强消费者认知。"
+      "suggested_action": "制定针对开放耳机的品牌推广策略，增强消费者认知。"
+    },
+    {
+      "title": "Apple AirPods Max 2 vs. Bose QuietComfort Ultra vs. Sony WH-1000XM6: Who Wins High-End ANC? - PCMag",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0d1OHB4U0pYNnRjRm8tS2JUaDBZTnQxRmcwOEYtTjZIbG9JSTgtV2l0YjlNU1NWd0JjWFpSa3FpeWFUQXltZm1mT2xRTE1hRWlJWmRZUW4tVkhNbDgtYzZuQlRQNnd0RDExOHdYSFBIb08zTmpMblY4X1RoZENnQ3M3cWdNRnUwWi1USGVRdnpQcW12WGRlNW5Xc0xNUVJsTFBRQ2Nkd0V2UU50?oc=5\" target=\"_blank\">Apple AirPods M",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0d1OHB4U0pYNnRjRm8tS2JUaDBZTnQxRmcwOEYtTjZIbG9JSTgtV2l0YjlNU1NWd0JjWFpSa3FpeWFUQXltZm1mT2xRTE1hRWlJWmRZUW4tVkhNbDgtYzZuQlRQNnd0RDExOHdYSFBIb08zTmpMblY4X1RoZENnQ3M3cWdNRnUwWi1USGVRdnpQcW12WGRlNW5Xc0xNUVJsTFBRQ2Nkd0V2UU50?oc=5",
+      "published": "Sat, 18 Apr 2026 18:00:27 GMT",
+      "published_iso": "2026-04-18T18:00:27+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 53.9,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose",
+          "Sony"
+        ],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 216,
+      "display_title": "Apple AirPods Max 2 vs. Bose...",
+      "tags": [
+        "📱 消费电子"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "高端降噪耳机市场竞争激烈，需加强品牌营销策略。",
+      "suggested_action": "针对Apple、Bose和Sony的优势，优化电商推广方案。"
     }
   ],
   "channel_news": [
@@ -1022,7 +1018,7 @@
       "published_iso": "2026-04-19T10:00:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 37.0,
+      "hours_since_published": 38.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1040,8 +1036,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "沃尔玛利用门店作为仓库挑战亚马逊的同日送达，提升了电商竞争力。",
-      "suggested_action": "加强电商平台的同日送达服务，提升用户体验和市场份额。"
+      "business_note": "沃尔玛通过门店作为仓库挑战亚马逊同日送达，影响电商竞争格局。",
+      "suggested_action": "加强电商平台的同日送达能力，提升用户体验。"
     },
     {
       "title": "The Best Store-Brand Milk Isn't From Costco, Walmart, Or Trader Joe's - Chowhound",
@@ -1051,7 +1047,7 @@
       "published_iso": "2026-04-18T15:35:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 55.4,
+      "hours_since_published": 56.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1069,8 +1065,8 @@
       ],
       "impact_area": "电商",
       "importance": "中",
-      "business_note": "该文章指出最佳自有品牌牛奶不来自主要零售商，提示市场竞争格局变化。",
-      "suggested_action": "关注自有品牌产品的市场表现，优化电商渠道策略。"
+      "business_note": "该文章揭示了品牌牛奶市场的竞争格局，影响电商销售策略。",
+      "suggested_action": "加强与优质品牌的合作，提升电商平台的牛奶产品线。"
     },
     {
       "title": "Walmart Is Racing to Become Amazon Before Amazon Can Become Walmart - Business Insider",
@@ -1080,7 +1076,7 @@
       "published_iso": "2026-04-20T17:58:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 5.0,
+      "hours_since_published": 6.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1098,8 +1094,37 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart加速电商转型，威胁Amazon市场地位，需关注竞争动态。",
-      "suggested_action": "加强电商平台营销策略，提升品牌曝光和用户转化。"
+      "business_note": "Walmart加速电商转型，威胁到亚马逊的市场地位，需关注竞争动态。",
+      "suggested_action": "加强电商平台的品牌营销，提升用户体验，争夺市场份额。"
+    },
+    {
+      "title": "Inside India newsletter: Small towns are powering e-commerce's fastest-growing market, dominated by Amazon, Walmart unit - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQa2tmNmhYSmpoOFE0RUxKbzBxVm9IRmxuZGpjcnROZGJJWUpIeFJMenQ3SjB5cnNRQnRER3B5YWluaFI4dU51Z19XYkM3Mm1mUC01eTBKb3hidEkyMVpySzZrSVJSTFpnWXZvUkdOYWFscnhYRnVGUGVWdHAxdmo1TTFSTmZqSXM2S2dSUUVMcVdmRUYtazFJR2tDRG00Z9IBowFBVV95cUxNTUV6OFMyTy04aTM4ZXJaM3VCZ2dqTlc1TFI3RnozMD",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2tmNmhYSmpoOFE0RUxKbzBxVm9IRmxuZGpjcnROZGJJWUpIeFJMenQ3SjB5cnNRQnRER3B5YWluaFI4dU51Z19XYkM3Mm1mUC01eTBKb3hidEkyMVpySzZrSVJSTFpnWXZvUkdOYWFscnhYRnVGUGVWdHAxdmo1TTFSTmZqSXM2S2dSUUVMcVdmRUYtazFJR2tDRG00Z9IBowFBVV95cUxNTUV6OFMyTy04aTM4ZXJaM3VCZ2dqTlc1TFI3RnozMDloLXRNM0NVVDAzaDBWQTFCX285a2N5dlF4VFRmX2I3UnJ3ZzRPNVQ1a19GanFqb1hfNG13bmQzZjFibkVJY1BwTHBaN0VCeGxrNkJLTUtPR3pDOFhaUmFDV3YyNzF6blVjLVMxZnNiTzdlWDV1MUVlbXd1YVRIWlNubDJF?oc=5",
+      "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "published_iso": "2026-04-16T00:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 120.0,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 274,
+      "display_title": "Inside India newsletter: Small towns...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "小城镇推动电商快速增长，需关注市场动态。",
+      "suggested_action": "加强电商渠道策略，优化品牌营销以吸引小城镇消费者。"
     },
     {
       "title": "Amazon and Walmart Want More Than Your Prescription - PYMNTS.com",
@@ -1109,7 +1134,7 @@
       "published_iso": "2026-04-16T18:30:23+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 100.5,
+      "hours_since_published": 101.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1127,65 +1152,41 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊和沃尔玛正在扩大其产品范围，需关注电商策略。",
-      "suggested_action": "加强与亚马逊和沃尔玛的合作，优化产品上架和营销策略。"
+      "business_note": "亚马逊和沃尔玛在电商领域的竞争加剧，需关注市场动态。",
+      "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
     },
     {
-      "title": "Target to open 6 new stores in May",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BUyPFsIDrBkRc1vlD0C9YjNn0ykMzssOToNk8wxrtWU/g:nowe:121:214/c:3078:1739/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjEyNC5qcGc=.webp\" /></div></figure><p>The mass retailer is leaning into larger store footprints, with most of the new locations t",
-      "url": "https://www.retaildive.com/news/target-opening-six-new-stores-may/817921/",
-      "published": "Mon, 20 Apr 2026 11:29:00 -0400",
-      "published_iso": "2026-04-20T15:29:00+00:00",
-      "source": "Retail Dive",
+      "title": "Best Sony deal: WH-CH520 headphones hit $38 at Amazon - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjVJZUxaLWJ3anpBTUFNQ3VjTEo1OHBORWd6blhubURYUDhMaUJuV183eUY1WF8wYV83Z2xRRFRHdF9XeTByeUlLRzBoMGV3TjV5VmpDbjBBUUdoa1BGdEo5aDN3YlZCVGhDTlltT0FTVHZnUlNHN0poeGgtOFlmN0pB?oc=5\" target=\"_blank\">Best Sony deal: WH-CH520 headphones hit $38 at Amazon</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjVJZUxaLWJ3anpBTUFNQ3VjTEo1OHBORWd6blhubURYUDhMaUJuV183eUY1WF8wYV83Z2xRRFRHdF9XeTByeUlLRzBoMGV3TjV5VmpDbjBBUUdoa1BGdEo5aDN3YlZCVGhDTlltT0FTVHZnUlNHN0poeGgtOFlmN0pB?oc=5",
+      "published": "Mon, 20 Apr 2026 16:26:16 GMT",
+      "published_iso": "2026-04-20T16:26:16+00:00",
+      "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
       "hours_since_published": 7.5,
       "freshness_label": "24h内",
       "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Target"
+        "brands": [
+          "Sony"
         ],
-        "categories": []
+        "channels": [
+          "Amazon"
+        ],
+        "categories": [
+          "headphone"
+        ]
       },
-      "_score": 268,
-      "display_title": "Target to open 6 new stores in May",
+      "_score": 272,
+      "display_title": "Best Sony deal: WH-CH520 headphones hit...",
       "tags": [
+        "🎧 耳机音频",
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Target计划在5月开设6家新店，可能影响电商销售策略。",
-      "suggested_action": "加强电商与新店的联动，提升线上线下整合营销效果。"
-    },
-    {
-      "title": "Does Best Buy price match? Everything to know about matching prices online and in-store - ZDNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBGS05kMnpjN1BwcHZNaUF4YXhJRzBRdjRTV3dldFBhY1QzaTg0UlRmUXhpUEw2ajNXam1SOUdHWjc4dTZtNk1OZFhOSHRsN0pOazc2dDYtYTN3c2NuZmxTVS1OY3lvM0JOSDdUTHdFVjVDaTR0SGpn?oc=5\" target=\"_blank\">Does Best Buy price match? Everything to know about matching prices online and in-store",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGS05kMnpjN1BwcHZNaUF4YXhJRzBRdjRTV3dldFBhY1QzaTg0UlRmUXhpUEw2ajNXam1SOUdHWjc4dTZtNk1OZFhOSHRsN0pOazc2dDYtYTN3c2NuZmxTVS1OY3lvM0JOSDdUTHdFVjVDaTR0SGpn?oc=5",
-      "published": "Fri, 17 Apr 2026 14:42:00 GMT",
-      "published_iso": "2026-04-17T14:42:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 80.3,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": []
-      },
-      "_score": 250,
-      "display_title": "Does Best Buy price match? Everything...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "了解Best Buy的价格匹配政策，有助于提升电商销售竞争力。",
-      "suggested_action": "优化电商平台价格策略，确保与Best Buy保持竞争优势。"
+      "business_note": "Sony WH-CH520耳机在亚马逊的促销将提升品牌曝光和销量。",
+      "suggested_action": "加强电商平台的广告投放，提升产品知名度。"
     }
   ],
   "products": [
@@ -1197,7 +1198,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tWEh3eXFXUldsX0FXWmQ0RjFpNU1jTFRLVHQ5eDlDdW9MdW5aQnlNajRNWkJGTlUyNnk1VUQzMU9FOUwxQXlVNDBwV3ZPY2xiaE5OTFpsOVFMLU9qS0lpUDFGNTdVMjZCV19kWWx4NDVEek0zOG1OOGJUdGk?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 90,
-      "hours_since_published": 61.5,
+      "hours_since_published": 62.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1210,17 +1211,17 @@
         ]
       },
       "display_title": "Shokz OpenFit Pro review: a...",
-      "display_summary": "Shokz发布OpenFit Pro耳机，强调音质与舒适度，适合长时间佩戴，目标提升市场竞争",
+      "display_summary": "Shokz推出OpenFit Pro耳机，强调音质与舒适度，适合长时间佩戴，目标提升市场竞争",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "Shokz发布OpenFit。",
+      "product_intro": "Shokz推出OpenFit。",
       "importance": "高",
-      "business_note": "Shokz OpenFit Pro在开放式耳机市场中表现出色，需加强品牌宣传。",
-      "suggested_action": "建议加大电商平台推广力度，提升品牌知名度。"
+      "business_note": "Shokz OpenFit Pro在开放耳塞市场具备竞争力，需加强品牌营销以提升市场份额。",
+      "suggested_action": "建议加大电商平台推广力度，吸引更多消费者关注Shokz品牌。"
     },
     {
       "name": "These Shokz Bone Conduction Headphones Are on Sale for $110 Right Now - Lifehacker",
@@ -1230,7 +1231,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWM3WVJwNXpfdWFOMVMyTXkwcElqY2V5UnFzaFJjYnJuc0ViT1BzQkdtZXhWa0tFT2ZBWWlpUFBlYU9Xb041RUVDVG9RS0pKNUttNERYd3lrSUxEdkFtQkhVQ0JYRThDOWlucjJUTC1oWnBsVzlLbWQxTHI1eEFtQ19weHJfUQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 75,
-      "hours_since_published": 124.4,
+      "hours_since_published": 125.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1243,17 +1244,17 @@
         ]
       },
       "display_title": "These Shokz Bone Conduction Headphones...",
-      "display_summary": "某公司推出新款消费电子产品，强调创新设计与用户体验，预计将提升市场竞争力。",
+      "display_summary": "某科技公司发布新款智能设备，提升用户体验，预计将推动销售增长。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "价格促销",
-      "product_intro": "某公司推出新款消费电子产品，强调创新设计与用户体验，预计将提升市场竞争力。",
+      "product_intro": "某科技公司发布新款智能设备，提升用户体验，预计将推动销售增长。",
       "importance": "高",
-      "business_note": "Shokz骨传导耳机降价，有助于提升品牌知名度和销量。",
-      "suggested_action": "利用电商平台加大促销力度，吸引更多消费者关注。"
+      "business_note": "Shokz骨传导耳机促销有助于提升品牌知名度和销量。",
+      "suggested_action": "利用促销机会加强电商平台的广告投放，吸引更多消费者。"
     },
     {
       "name": "Here&#8217;s how Amazon&#8217;s price fixing allegedly drove up prices everywhere",
@@ -1263,7 +1264,7 @@
       "url": "https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit",
       "source": "The Verge",
       "_score": 67,
-      "hours_since_published": 2.3,
+      "hours_since_published": 3.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1282,8 +1283,8 @@
       "judgement_label": "渠道动态",
       "product_intro": "加州检察长Bonta披露亚马逊涉嫌价格操控证据，州方已向最高法院申请初步禁。",
       "importance": "高",
-      "business_note": "亚马逊涉嫌价格操控，可能影响电商市场竞争与消费者信任。",
-      "suggested_action": "加强对电商平台的监测，确保价格透明与公平竞争。"
+      "business_note": "亚马逊涉嫌价格操控，可能影响电商市场价格稳定性。",
+      "suggested_action": "密切关注法律进展，评估对电商策略的影响。"
     },
     {
       "name": "Samsung’s next pair of Galaxy Buds surface with apparent open-ear design - 9to5Google",
@@ -1293,7 +1294,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQU1uV3FleVdJVFJ2UkE4VWFQRTRJTVJCdUpOclVES3lXNFhxeW5BcF9CWng5d3dRVHZ0QlZMQjFDQ3ZwRzN0eldsWmRTQW5VaHhOYjROMVk5NnJCNkFoNFVpWF9JZGpXYUp1enU3OFU4VmZrbkI3Y3dYUlA1blFjX2x6WlN5dVlZZlkxSFMwSUJZaG9fNFRieA?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 53,
-      "hours_since_published": 4.2,
+      "hours_since_published": 5.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1303,17 +1304,17 @@
         ]
       },
       "display_title": "Samsung’s next pair of Galaxy Buds...",
-      "display_summary": "苹果公司计划在2024年推出新款MacBook Pro，预计将搭载更强大的M3芯片，提升性能",
+      "display_summary": "某公司发布新款消费电子产品，聚焦提升用户体验，预计将推动销售增长。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "苹果公司计划在2024年推出新款MacBook。",
+      "product_intro": "某公司发布新款消费电子产品，聚焦提升用户体验，预计将推动销售增长。",
       "importance": "高",
       "business_note": "三星新款Galaxy Buds采用开放式设计，可能影响市场竞争格局。",
-      "suggested_action": "加强品牌营销，突出产品差异化，提升市场认知度。"
+      "suggested_action": "加强品牌营销，突出产品差异化优势，抢占市场份额。"
     },
     {
       "name": "The Lenovo Legion Go S is RAMageddon’s latest victim",
@@ -1323,7 +1324,7 @@
       "url": "https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.1,
+      "hours_since_published": 1.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1331,16 +1332,16 @@
         "categories": []
       },
       "display_title": "The Lenovo Legion Go S is RAMageddon’s...",
-      "display_summary": "Asus Xbox Ally X和MSI Claw 8 AI Plus分别售价999美元和1",
+      "display_summary": "华硕Xbox Ally X售价999美元，MSI Claw 8 AI Plus售价1,049",
       "tags": [
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "Asus Xbox Ally X和MSI Claw 8 AI。",
+      "product_intro": "华硕Xbox Ally X售价999美元，MSI Claw 8 AI。",
       "importance": "高",
-      "business_note": "联想Legion Go S价格暴涨，影响品牌形象和市场竞争力。",
-      "suggested_action": "加强品牌营销，突出产品价值，避免价格波动影响消费者信心。"
+      "business_note": "Lenovo Legion Go S价格暴涨，影响品牌形象和市场竞争力。",
+      "suggested_action": "加强品牌营销，突出性价比，吸引消费者关注。"
     },
     {
       "name": "John Ternus is taking over from Tim Cook as Apple&#8217;s CEO",
@@ -1350,7 +1351,7 @@
       "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 1.2,
+      "hours_since_published": 2.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1366,48 +1367,81 @@
       "judgement_label": "新品发布",
       "product_intro": "苹果宣布，现任硬件负责人约翰·特纳斯将于9月1日接替蒂姆·库克担任CEO。",
       "importance": "高",
-      "business_note": "苹果CEO更换可能影响品牌形象与市场策略，需密切关注。",
-      "suggested_action": "加强品牌营销策略，适应新领导的方向与决策。"
+      "business_note": "苹果更换CEO可能影响品牌形象和市场策略，需关注品牌营销动态。",
+      "suggested_action": "密切监测苹果品牌营销策略变化，及时调整我们的市场应对方案。"
     }
   ],
   "monitored_entities": [
     {
-      "name": "headphone",
-      "type": "品类",
+      "name": "Amazon",
+      "type": "渠道",
       "count": 7,
       "items": [
         {
-          "title": "Sony lawsuit targets defective Sony WH-1000XM5 headphones - Class Action Lawsuits",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObzViMDNDaGlpblcyQnBGLVFHejZoYWZNdmNUN2ZUSnR3Y0FfZ0s4VjZ5ck01d3RzRWpGY3FEeWFydnMzQ1g1dEROSlh6RWJ4T2FHUUd1V2tDVkFIbTZhdTZrdWpMWXlic2FDUGRDSkJBTkwtODA2RnByYnhmM0dUVTJtc1ExTUtwa0NZOHQ1TTZGNGgtUVRWZURheXJkMS1m?oc=5\" target=\"_blank\">Sony lawsuit targets defective ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzViMDNDaGlpblcyQnBGLVFHejZoYWZNdmNUN2ZUSnR3Y0FfZ0s4VjZ5ck01d3RzRWpGY3FEeWFydnMzQ1g1dEROSlh6RWJ4T2FHUUd1V2tDVkFIbTZhdTZrdWpMWXlic2FDUGRDSkJBTkwtODA2RnByYnhmM0dUVTJtc1ExTUtwa0NZOHQ1TTZGNGgtUVRWZURheXJkMS1m?oc=5",
-          "published": "Mon, 20 Apr 2026 20:57:04 GMT",
-          "published_iso": "2026-04-20T20:57:04+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 2.0,
-          "freshness_label": "24h内",
+          "title": "Walmart challenges Amazon on same-day delivery by using stores as warehouses - Financial Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhSczRBNlR1TGxOV2xsN0RxRjZ5amdPcEh6VE1tTkk0bkhSTzllZnBFME9Ec2phT0NWcy1TQ1d1MlRHYTBRekZqaFdDYUZRRllEazRiZDNycXEwYTg2c0VxRlZ1NkNCekdyOTFHQnNPVmo5blFRZWNETVc5UTdqV0dxWVY?oc=5\" target=\"_blank\">Walmart challenges Amazon on same-day delivery by using stores as wa",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhSczRBNlR1TGxOV2xsN0RxRjZ5amdPcEh6VE1tTkk0bkhSTzllZnBFME9Ec2phT0NWcy1TQ1d1MlRHYTBRekZqaFdDYUZRRllEazRiZDNycXEwYTg2c0VxRlZ1NkNCekdyOTFHQnNPVmo5blFRZWNETVc5UTdqV0dxWVY?oc=5",
+          "published": "Sun, 19 Apr 2026 10:00:08 GMT",
+          "published_iso": "2026-04-19T10:00:08+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 38.0,
+          "freshness_label": "近3天",
           "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
+            "brands": [],
             "channels": [
-              "Target"
+              "Amazon",
+              "Walmart"
             ],
-            "categories": [
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 289,
-          "display_title": "Sony lawsuit targets defective Sony...",
+          "_score": 335,
+          "display_title": "Walmart challenges Amazon on same-day...",
           "tags": [
-            "🎧 耳机音频",
+            "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "索尼WH-1000XM5耳机的诉讼可能影响品牌形象和销售。",
-          "suggested_action": "加强电商平台的产品质量监控与客户反馈机制。"
+          "business_note": "沃尔玛通过门店作为仓库挑战亚马逊同日送达，影响电商竞争格局。",
+          "suggested_action": "加强电商平台的同日送达能力，提升用户体验。"
         },
+        {
+          "title": "Walmart Is Racing to Become Amazon Before Amazon Can Become Walmart - Business Insider",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkQ5RVJIWjJ3Nlh2dGpZNzF0QklLVXFxVVlhN1J6NWZHODBaYXRXd3NxMG5YbmM5d3Z3N0lpV1lFQTJFQWtjaER6Q3VkblN2RjA3NEp0VXE5UjhnSzlqYllZQWZhdklBQXFSNDNSRlNqakFucWhmSGJhT3ctSWowdjFPS3VRMVdGcm1mbQ?oc=5\" target=\"_blank\">Walmart Is Racing to Become Amazon Before Amazon Can Beco",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkQ5RVJIWjJ3Nlh2dGpZNzF0QklLVXFxVVlhN1J6NWZHODBaYXRXd3NxMG5YbmM5d3Z3N0lpV1lFQTJFQWtjaER6Q3VkblN2RjA3NEp0VXE5UjhnSzlqYllZQWZhdklBQXFSNDNSRlNqakFucWhmSGJhT3ctSWowdjFPS3VRMVdGcm1mbQ?oc=5",
+          "published": "Mon, 20 Apr 2026 17:58:00 GMT",
+          "published_iso": "2026-04-20T17:58:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 6.0,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 312,
+          "display_title": "Walmart Is Racing to Become Amazon...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Walmart加速电商转型，威胁到亚马逊的市场地位，需关注竞争动态。",
+          "suggested_action": "加强电商平台的品牌营销，提升用户体验，争夺市场份额。"
+        }
+      ]
+    },
+    {
+      "name": "headphone",
+      "type": "品类",
+      "count": 6,
+      "items": [
         {
           "title": "The Soundcore C40i clip-on earbuds have never been cheaper at almost 60% off",
           "summary": "The C40i headphones are 58% off on Amazon right now, down from $120 to just $49.99 — the lowest price we've tracked.",
@@ -1416,7 +1450,7 @@
           "published_iso": "2026-04-20T20:07:05+00:00",
           "source": "Android Authority",
           "bucket": "consumer_electronics",
-          "hours_since_published": 2.8,
+          "hours_since_published": 3.8,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1437,343 +1471,9 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "C40i耳机在亚马逊大幅降价，有助于提升销量和品牌曝光。",
-          "suggested_action": "利用此次促销加强电商营销，吸引更多消费者购买。"
-        }
-      ]
-    },
-    {
-      "name": "Amazon",
-      "type": "渠道",
-      "count": 5,
-      "items": [
-        {
-          "title": "Walmart challenges Amazon on same-day delivery by using stores as warehouses - Financial Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhSczRBNlR1TGxOV2xsN0RxRjZ5amdPcEh6VE1tTkk0bkhSTzllZnBFME9Ec2phT0NWcy1TQ1d1MlRHYTBRekZqaFdDYUZRRllEazRiZDNycXEwYTg2c0VxRlZ1NkNCekdyOTFHQnNPVmo5blFRZWNETVc5UTdqV0dxWVY?oc=5\" target=\"_blank\">Walmart challenges Amazon on same-day delivery by using stores as wa",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhSczRBNlR1TGxOV2xsN0RxRjZ5amdPcEh6VE1tTkk0bkhSTzllZnBFME9Ec2phT0NWcy1TQ1d1MlRHYTBRekZqaFdDYUZRRllEazRiZDNycXEwYTg2c0VxRlZ1NkNCekdyOTFHQnNPVmo5blFRZWNETVc5UTdqV0dxWVY?oc=5",
-          "published": "Sun, 19 Apr 2026 10:00:08 GMT",
-          "published_iso": "2026-04-19T10:00:08+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 37.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 335,
-          "display_title": "Walmart challenges Amazon on same-day...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "沃尔玛利用门店作为仓库挑战亚马逊的同日送达，提升了电商竞争力。",
-          "suggested_action": "加强电商平台的同日送达服务，提升用户体验和市场份额。"
+          "business_note": "C40i耳机在亚马逊大幅降价，有助于提升销量和市场份额。",
+          "suggested_action": "建议通过电商平台加强促销，吸引更多消费者购买。"
         },
-        {
-          "title": "Walmart Is Racing to Become Amazon Before Amazon Can Become Walmart - Business Insider",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkQ5RVJIWjJ3Nlh2dGpZNzF0QklLVXFxVVlhN1J6NWZHODBaYXRXd3NxMG5YbmM5d3Z3N0lpV1lFQTJFQWtjaER6Q3VkblN2RjA3NEp0VXE5UjhnSzlqYllZQWZhdklBQXFSNDNSRlNqakFucWhmSGJhT3ctSWowdjFPS3VRMVdGcm1mbQ?oc=5\" target=\"_blank\">Walmart Is Racing to Become Amazon Before Amazon Can Beco",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkQ5RVJIWjJ3Nlh2dGpZNzF0QklLVXFxVVlhN1J6NWZHODBaYXRXd3NxMG5YbmM5d3Z3N0lpV1lFQTJFQWtjaER6Q3VkblN2RjA3NEp0VXE5UjhnSzlqYllZQWZhdklBQXFSNDNSRlNqakFucWhmSGJhT3ctSWowdjFPS3VRMVdGcm1mbQ?oc=5",
-          "published": "Mon, 20 Apr 2026 17:58:00 GMT",
-          "published_iso": "2026-04-20T17:58:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 5.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 312,
-          "display_title": "Walmart Is Racing to Become Amazon...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Walmart加速电商转型，威胁Amazon市场地位，需关注竞争动态。",
-          "suggested_action": "加强电商平台营销策略，提升品牌曝光和用户转化。"
-        }
-      ]
-    },
-    {
-      "name": "Sony",
-      "type": "品牌",
-      "count": 5,
-      "items": [
-        {
-          "title": "Sony lawsuit targets defective Sony WH-1000XM5 headphones - Class Action Lawsuits",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObzViMDNDaGlpblcyQnBGLVFHejZoYWZNdmNUN2ZUSnR3Y0FfZ0s4VjZ5ck01d3RzRWpGY3FEeWFydnMzQ1g1dEROSlh6RWJ4T2FHUUd1V2tDVkFIbTZhdTZrdWpMWXlic2FDUGRDSkJBTkwtODA2RnByYnhmM0dUVTJtc1ExTUtwa0NZOHQ1TTZGNGgtUVRWZURheXJkMS1m?oc=5\" target=\"_blank\">Sony lawsuit targets defective ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzViMDNDaGlpblcyQnBGLVFHejZoYWZNdmNUN2ZUSnR3Y0FfZ0s4VjZ5ck01d3RzRWpGY3FEeWFydnMzQ1g1dEROSlh6RWJ4T2FHUUd1V2tDVkFIbTZhdTZrdWpMWXlic2FDUGRDSkJBTkwtODA2RnByYnhmM0dUVTJtc1ExTUtwa0NZOHQ1TTZGNGgtUVRWZURheXJkMS1m?oc=5",
-          "published": "Mon, 20 Apr 2026 20:57:04 GMT",
-          "published_iso": "2026-04-20T20:57:04+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 2.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
-            "channels": [
-              "Target"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 289,
-          "display_title": "Sony lawsuit targets defective Sony...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "索尼WH-1000XM5耳机的诉讼可能影响品牌形象和销售。",
-          "suggested_action": "加强电商平台的产品质量监控与客户反馈机制。"
-        },
-        {
-          "title": "Shoppers are losing their minds over Target’s exceptional Sony Headphones sale - Syracuse.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdldJT2lmOVc3RkUtM0ZxWWFVdS0zRGQ5dzhTYkEzQ0VCdDVWNjhMcGVnSmh6ZEJDUThSQWpiRzFhRllIbVY2TnBvMGNEckNJZk94UmEtWHEyWnQ3Nl96dEtITFprdlZ0c1loQXJmQXRJSUdmbkRWV2duSUZ4V0FaQXU0cTJDRDZxRmNEc3FzMmphUVMyTWFUWUR1b05CUUJHMThOek1rMUxDSW5BU0JKb0F5MjdxVnVQM2lTTWVsb2JOQdIB1gFBVV",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdldJT2lmOVc3RkUtM0ZxWWFVdS0zRGQ5dzhTYkEzQ0VCdDVWNjhMcGVnSmh6ZEJDUThSQWpiRzFhRllIbVY2TnBvMGNEckNJZk94UmEtWHEyWnQ3Nl96dEtITFprdlZ0c1loQXJmQXRJSUdmbkRWV2duSUZ4V0FaQXU0cTJDRDZxRmNEc3FzMmphUVMyTWFUWUR1b05CUUJHMThOek1rMUxDSW5BU0JKb0F5MjdxVnVQM2lTTWVsb2JOQdIB1gFBVV95cUxPVjhZUFExSy0zcVhyT19EbTFwWDVLb1RScTBQY1JUd1pRenROYmRQci1RZE1sWE10ZzlGOWU3czNNZ2l6U3FsWG1Mb21jOVg1a3lxOXlLdmFBc2tPUlVBRWhqR2o4cThYaHp0QmxhSlB1elExRV9ueVFWWmhiU3RWNFJNeGVIY0cyVW9JSHFIWnpmUHRtUGFKY0ptZmM5N0NTMkRzem80bzktU1B3V2RpQ2I4VVpveUUtWExXODZfT01mUTVZYXh0ZlpKSjJUQ1BHWFRpTUdB?oc=5",
-          "published": "Mon, 20 Apr 2026 16:00:00 GMT",
-          "published_iso": "2026-04-20T16:00:00+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 7.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
-            "channels": [
-              "Target"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 250,
-          "display_title": "Shoppers are losing their minds over...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "Walmart",
-      "type": "渠道",
-      "count": 4,
-      "items": [
-        {
-          "title": "Walmart challenges Amazon on same-day delivery by using stores as warehouses - Financial Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhSczRBNlR1TGxOV2xsN0RxRjZ5amdPcEh6VE1tTkk0bkhSTzllZnBFME9Ec2phT0NWcy1TQ1d1MlRHYTBRekZqaFdDYUZRRllEazRiZDNycXEwYTg2c0VxRlZ1NkNCekdyOTFHQnNPVmo5blFRZWNETVc5UTdqV0dxWVY?oc=5\" target=\"_blank\">Walmart challenges Amazon on same-day delivery by using stores as wa",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhSczRBNlR1TGxOV2xsN0RxRjZ5amdPcEh6VE1tTkk0bkhSTzllZnBFME9Ec2phT0NWcy1TQ1d1MlRHYTBRekZqaFdDYUZRRllEazRiZDNycXEwYTg2c0VxRlZ1NkNCekdyOTFHQnNPVmo5blFRZWNETVc5UTdqV0dxWVY?oc=5",
-          "published": "Sun, 19 Apr 2026 10:00:08 GMT",
-          "published_iso": "2026-04-19T10:00:08+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 37.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 335,
-          "display_title": "Walmart challenges Amazon on same-day...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "沃尔玛利用门店作为仓库挑战亚马逊的同日送达，提升了电商竞争力。",
-          "suggested_action": "加强电商平台的同日送达服务，提升用户体验和市场份额。"
-        },
-        {
-          "title": "The Best Store-Brand Milk Isn't From Costco, Walmart, Or Trader Joe's - Chowhound",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5vWEhUOWJVNHoxbVo2MEhua0M5Q3pONHY3ellsYUhjZm9BbXJzeHZkWTFBMzFaQ2hJRDMwWEdlY2hMRjFMSGRQZEllS3JZRktnVlRoM2hybVFobDdUMVUxelJmd3pVTTZBREtoZlJyQTV6X0RubEgtUlN1SQ?oc=5\" target=\"_blank\">The Best Store-Brand Milk Isn't From Costco, Walmart, Or Trader Joe's</a>&nbsp;&n",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vWEhUOWJVNHoxbVo2MEhua0M5Q3pONHY3ellsYUhjZm9BbXJzeHZkWTFBMzFaQ2hJRDMwWEdlY2hMRjFMSGRQZEllS3JZRktnVlRoM2hybVFobDdUMVUxelJmd3pVTTZBREtoZlJyQTV6X0RubEgtUlN1SQ?oc=5",
-          "published": "Sat, 18 Apr 2026 15:35:00 GMT",
-          "published_iso": "2026-04-18T15:35:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 55.4,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 327,
-          "display_title": "The Best Store-Brand Milk Isn't From...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "中",
-          "business_note": "该文章指出最佳自有品牌牛奶不来自主要零售商，提示市场竞争格局变化。",
-          "suggested_action": "关注自有品牌产品的市场表现，优化电商渠道策略。"
-        }
-      ]
-    },
-    {
-      "name": "Target",
-      "type": "渠道",
-      "count": 3,
-      "items": [
-        {
-          "title": "Sony lawsuit targets defective Sony WH-1000XM5 headphones - Class Action Lawsuits",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObzViMDNDaGlpblcyQnBGLVFHejZoYWZNdmNUN2ZUSnR3Y0FfZ0s4VjZ5ck01d3RzRWpGY3FEeWFydnMzQ1g1dEROSlh6RWJ4T2FHUUd1V2tDVkFIbTZhdTZrdWpMWXlic2FDUGRDSkJBTkwtODA2RnByYnhmM0dUVTJtc1ExTUtwa0NZOHQ1TTZGNGgtUVRWZURheXJkMS1m?oc=5\" target=\"_blank\">Sony lawsuit targets defective ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzViMDNDaGlpblcyQnBGLVFHejZoYWZNdmNUN2ZUSnR3Y0FfZ0s4VjZ5ck01d3RzRWpGY3FEeWFydnMzQ1g1dEROSlh6RWJ4T2FHUUd1V2tDVkFIbTZhdTZrdWpMWXlic2FDUGRDSkJBTkwtODA2RnByYnhmM0dUVTJtc1ExTUtwa0NZOHQ1TTZGNGgtUVRWZURheXJkMS1m?oc=5",
-          "published": "Mon, 20 Apr 2026 20:57:04 GMT",
-          "published_iso": "2026-04-20T20:57:04+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 2.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
-            "channels": [
-              "Target"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 289,
-          "display_title": "Sony lawsuit targets defective Sony...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "索尼WH-1000XM5耳机的诉讼可能影响品牌形象和销售。",
-          "suggested_action": "加强电商平台的产品质量监控与客户反馈机制。"
-        },
-        {
-          "title": "Target to open 6 new stores in May",
-          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BUyPFsIDrBkRc1vlD0C9YjNn0ykMzssOToNk8wxrtWU/g:nowe:121:214/c:3078:1739/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjEyNC5qcGc=.webp\" /></div></figure><p>The mass retailer is leaning into larger store footprints, with most of the new locations t",
-          "url": "https://www.retaildive.com/news/target-opening-six-new-stores-may/817921/",
-          "published": "Mon, 20 Apr 2026 11:29:00 -0400",
-          "published_iso": "2026-04-20T15:29:00+00:00",
-          "source": "Retail Dive",
-          "bucket": "channel_news",
-          "hours_since_published": 7.5,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 268,
-          "display_title": "Target to open 6 new stores in May",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Target计划在5月开设6家新店，可能影响电商销售策略。",
-          "suggested_action": "加强电商与新店的联动，提升线上线下整合营销效果。"
-        }
-      ]
-    },
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 3,
-      "items": [
-        {
-          "title": "Does Best Buy price match? Everything to know about matching prices online and in-store - ZDNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBGS05kMnpjN1BwcHZNaUF4YXhJRzBRdjRTV3dldFBhY1QzaTg0UlRmUXhpUEw2ajNXam1SOUdHWjc4dTZtNk1OZFhOSHRsN0pOazc2dDYtYTN3c2NuZmxTVS1OY3lvM0JOSDdUTHdFVjVDaTR0SGpn?oc=5\" target=\"_blank\">Does Best Buy price match? Everything to know about matching prices online and in-store",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGS05kMnpjN1BwcHZNaUF4YXhJRzBRdjRTV3dldFBhY1QzaTg0UlRmUXhpUEw2ajNXam1SOUdHWjc4dTZtNk1OZFhOSHRsN0pOazc2dDYtYTN3c2NuZmxTVS1OY3lvM0JOSDdUTHdFVjVDaTR0SGpn?oc=5",
-          "published": "Fri, 17 Apr 2026 14:42:00 GMT",
-          "published_iso": "2026-04-17T14:42:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 80.3,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 250,
-          "display_title": "Does Best Buy price match? Everything...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "了解Best Buy的价格匹配政策，有助于提升电商销售竞争力。",
-          "suggested_action": "优化电商平台价格策略，确保与Best Buy保持竞争优势。"
-        },
-        {
-          "title": "Best Buy Planning To Open Store At Milford Shopping Plaza - Patch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1dGemUyMlBURDBnd2VXVUJXY05nUWFya0JlUlY4Q2g1US1oM1lKR1FOdzdYS0N4YnFRc1JRZTVmQUxxbE1VRy1BVFNONjJQS0FGMGowbDRjbXFmNEJfZ01DbDRqYUVlWndqT01tV2xDcWRMbmtiQnhRNnhPb1JXLTNkTHhzUW9DUmNlQVZib0VTZnPSAawBQVVfeXFMT3NkYUJyZGlOUEZFaDhmbWVQRmJwQVVVNExEX2pUQVRILXpfQmJTbzNwVE",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1dGemUyMlBURDBnd2VXVUJXY05nUWFya0JlUlY4Q2g1US1oM1lKR1FOdzdYS0N4YnFRc1JRZTVmQUxxbE1VRy1BVFNONjJQS0FGMGowbDRjbXFmNEJfZ01DbDRqYUVlWndqT01tV2xDcWRMbmtiQnhRNnhPb1JXLTNkTHhzUW9DUmNlQVZib0VTZnPSAawBQVVfeXFMT3NkYUJyZGlOUEZFaDhmbWVQRmJwQVVVNExEX2pUQVRILXpfQmJTbzNwVEZrZzJKdkd3M3htTDhGcG9yY0tuUGVyVm5mb2c4VmxRZ2lCWXdjazU2ak04djMwRVRwNVMxZXpOZHduRjRNMm1Ydklod3c2eDhZLXNVUkpfemMxLVA3a1pqZDVSZmU1ODdGdEZZbl9LXzRhM2RqSFFVV3Juel82Sy12eQ?oc=5",
-          "published": "Thu, 16 Apr 2026 15:45:35 GMT",
-          "published_iso": "2026-04-16T15:45:35+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 103.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 228,
-          "display_title": "Best Buy Planning To Open Store At...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "Shokz",
-      "type": "品牌",
-      "count": 3,
-      "items": [
         {
           "title": "These Shokz Bone Conduction Headphones Are on Sale for $110 Right Now - Lifehacker",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWM3WVJwNXpfdWFOMVMyTXkwcElqY2V5UnFzaFJjYnJuc0ViT1BzQkdtZXhWa0tFT2ZBWWlpUFBlYU9Xb041RUVDVG9RS0pKNUttNERYd3lrSUxEdkFtQkhVQ0JYRThDOWlucjJUTC1oWnBsVzlLbWQxTHI1eEFtQ19weHJfUQ?oc=5\" target=\"_blank\">These Shokz Bone Conduction Headphones Are on Sale for $110 Right",
@@ -1782,7 +1482,7 @@
           "published_iso": "2026-04-15T18:30:43+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 124.4,
+          "hours_since_published": 125.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1803,7 +1503,178 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "Shokz骨传导耳机促销，有助于提升品牌知名度和销量。",
-          "suggested_action": "加大电商平台宣传力度，吸引更多消费者关注。"
+          "suggested_action": "加大电商平台推广力度，吸引更多消费者关注。"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "渠道",
+      "count": 5,
+      "items": [
+        {
+          "title": "Walmart challenges Amazon on same-day delivery by using stores as warehouses - Financial Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhSczRBNlR1TGxOV2xsN0RxRjZ5amdPcEh6VE1tTkk0bkhSTzllZnBFME9Ec2phT0NWcy1TQ1d1MlRHYTBRekZqaFdDYUZRRllEazRiZDNycXEwYTg2c0VxRlZ1NkNCekdyOTFHQnNPVmo5blFRZWNETVc5UTdqV0dxWVY?oc=5\" target=\"_blank\">Walmart challenges Amazon on same-day delivery by using stores as wa",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGhSczRBNlR1TGxOV2xsN0RxRjZ5amdPcEh6VE1tTkk0bkhSTzllZnBFME9Ec2phT0NWcy1TQ1d1MlRHYTBRekZqaFdDYUZRRllEazRiZDNycXEwYTg2c0VxRlZ1NkNCekdyOTFHQnNPVmo5blFRZWNETVc5UTdqV0dxWVY?oc=5",
+          "published": "Sun, 19 Apr 2026 10:00:08 GMT",
+          "published_iso": "2026-04-19T10:00:08+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 38.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 335,
+          "display_title": "Walmart challenges Amazon on same-day...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "沃尔玛通过门店作为仓库挑战亚马逊同日送达，影响电商竞争格局。",
+          "suggested_action": "加强电商平台的同日送达能力，提升用户体验。"
+        },
+        {
+          "title": "The Best Store-Brand Milk Isn't From Costco, Walmart, Or Trader Joe's - Chowhound",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5vWEhUOWJVNHoxbVo2MEhua0M5Q3pONHY3ellsYUhjZm9BbXJzeHZkWTFBMzFaQ2hJRDMwWEdlY2hMRjFMSGRQZEllS3JZRktnVlRoM2hybVFobDdUMVUxelJmd3pVTTZBREtoZlJyQTV6X0RubEgtUlN1SQ?oc=5\" target=\"_blank\">The Best Store-Brand Milk Isn't From Costco, Walmart, Or Trader Joe's</a>&nbsp;&n",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vWEhUOWJVNHoxbVo2MEhua0M5Q3pONHY3ellsYUhjZm9BbXJzeHZkWTFBMzFaQ2hJRDMwWEdlY2hMRjFMSGRQZEllS3JZRktnVlRoM2hybVFobDdUMVUxelJmd3pVTTZBREtoZlJyQTV6X0RubEgtUlN1SQ?oc=5",
+          "published": "Sat, 18 Apr 2026 15:35:00 GMT",
+          "published_iso": "2026-04-18T15:35:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 56.4,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart",
+              "Costco"
+            ],
+            "categories": []
+          },
+          "_score": 327,
+          "display_title": "The Best Store-Brand Milk Isn't From...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "中",
+          "business_note": "该文章揭示了品牌牛奶市场的竞争格局，影响电商销售策略。",
+          "suggested_action": "加强与优质品牌的合作，提升电商平台的牛奶产品线。"
+        }
+      ]
+    },
+    {
+      "name": "Sony",
+      "type": "品牌",
+      "count": 5,
+      "items": [
+        {
+          "title": "Best Sony deal: WH-CH520 headphones hit $38 at Amazon - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjVJZUxaLWJ3anpBTUFNQ3VjTEo1OHBORWd6blhubURYUDhMaUJuV183eUY1WF8wYV83Z2xRRFRHdF9XeTByeUlLRzBoMGV3TjV5VmpDbjBBUUdoa1BGdEo5aDN3YlZCVGhDTlltT0FTVHZnUlNHN0poeGgtOFlmN0pB?oc=5\" target=\"_blank\">Best Sony deal: WH-CH520 headphones hit $38 at Amazon</a>&nbsp;&nbsp;<f",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjVJZUxaLWJ3anpBTUFNQ3VjTEo1OHBORWd6blhubURYUDhMaUJuV183eUY1WF8wYV83Z2xRRFRHdF9XeTByeUlLRzBoMGV3TjV5VmpDbjBBUUdoa1BGdEo5aDN3YlZCVGhDTlltT0FTVHZnUlNHN0poeGgtOFlmN0pB?oc=5",
+          "published": "Mon, 20 Apr 2026 16:26:16 GMT",
+          "published_iso": "2026-04-20T16:26:16+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 7.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 272,
+          "display_title": "Best Sony deal: WH-CH520 headphones hit...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Sony WH-CH520耳机在亚马逊的促销将提升品牌曝光和销量。",
+          "suggested_action": "加强电商平台的广告投放，提升产品知名度。"
+        },
+        {
+          "title": "Apple AirPods Max 2 vs. Bose QuietComfort Ultra vs. Sony WH-1000XM6: Who Wins High-End ANC? - PCMag",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0d1OHB4U0pYNnRjRm8tS2JUaDBZTnQxRmcwOEYtTjZIbG9JSTgtV2l0YjlNU1NWd0JjWFpSa3FpeWFUQXltZm1mT2xRTE1hRWlJWmRZUW4tVkhNbDgtYzZuQlRQNnd0RDExOHdYSFBIb08zTmpMblY4X1RoZENnQ3M3cWdNRnUwWi1USGVRdnpQcW12WGRlNW5Xc0xNUVJsTFBRQ2Nkd0V2UU50?oc=5\" target=\"_blank\">Apple AirPods M",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0d1OHB4U0pYNnRjRm8tS2JUaDBZTnQxRmcwOEYtTjZIbG9JSTgtV2l0YjlNU1NWd0JjWFpSa3FpeWFUQXltZm1mT2xRTE1hRWlJWmRZUW4tVkhNbDgtYzZuQlRQNnd0RDExOHdYSFBIb08zTmpMblY4X1RoZENnQ3M3cWdNRnUwWi1USGVRdnpQcW12WGRlNW5Xc0xNUVJsTFBRQ2Nkd0V2UU50?oc=5",
+          "published": "Sat, 18 Apr 2026 18:00:27 GMT",
+          "published_iso": "2026-04-18T18:00:27+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 53.9,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose",
+              "Sony"
+            ],
+            "channels": [],
+            "categories": []
+          },
+          "_score": 216,
+          "display_title": "Apple AirPods Max 2 vs. Bose...",
+          "tags": [
+            "📱 消费电子"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "高端降噪耳机市场竞争激烈，需加强品牌营销策略。",
+          "suggested_action": "针对Apple、Bose和Sony的优势，优化电商推广方案。"
+        }
+      ]
+    },
+    {
+      "name": "Shokz",
+      "type": "品牌",
+      "count": 3,
+      "items": [
+        {
+          "title": "These Shokz Bone Conduction Headphones Are on Sale for $110 Right Now - Lifehacker",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWM3WVJwNXpfdWFOMVMyTXkwcElqY2V5UnFzaFJjYnJuc0ViT1BzQkdtZXhWa0tFT2ZBWWlpUFBlYU9Xb041RUVDVG9RS0pKNUttNERYd3lrSUxEdkFtQkhVQ0JYRThDOWlucjJUTC1oWnBsVzlLbWQxTHI1eEFtQ19weHJfUQ?oc=5\" target=\"_blank\">These Shokz Bone Conduction Headphones Are on Sale for $110 Right",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWM3WVJwNXpfdWFOMVMyTXkwcElqY2V5UnFzaFJjYnJuc0ViT1BzQkdtZXhWa0tFT2ZBWWlpUFBlYU9Xb041RUVDVG9RS0pKNUttNERYd3lrSUxEdkFtQkhVQ0JYRThDOWlucjJUTC1oWnBsVzlLbWQxTHI1eEFtQ19weHJfUQ?oc=5",
+          "published": "Wed, 15 Apr 2026 18:30:43 GMT",
+          "published_iso": "2026-04-15T18:30:43+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 125.4,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 275,
+          "display_title": "These Shokz Bone Conduction Headphones...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz骨传导耳机促销，有助于提升品牌知名度和销量。",
+          "suggested_action": "加大电商平台推广力度，吸引更多消费者关注。"
         },
         {
           "name": "Shokz OpenFit Pro review: a great-sounding contender for the open earbuds crown - TechRadar",
@@ -1813,7 +1684,7 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tWEh3eXFXUldsX0FXWmQ0RjFpNU1jTFRLVHQ5eDlDdW9MdW5aQnlNajRNWkJGTlUyNnk1VUQzMU9FOUwxQXlVNDBwV3ZPY2xiaE5OTFpsOVFMLU9qS0lpUDFGNTdVMjZCV19kWWx4NDVEek0zOG1OOGJUdGk?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 90,
-          "hours_since_published": 61.5,
+          "hours_since_published": 62.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1826,17 +1697,17 @@
             ]
           },
           "display_title": "Shokz OpenFit Pro review: a...",
-          "display_summary": "Shokz发布OpenFit Pro耳机，强调音质与舒适度，适合长时间佩戴，目标提升市场竞争",
+          "display_summary": "Shokz推出OpenFit Pro耳机，强调音质与舒适度，适合长时间佩戴，目标提升市场竞争",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "judgement_label": "竞品观察",
-          "product_intro": "Shokz发布OpenFit。",
+          "product_intro": "Shokz推出OpenFit。",
           "importance": "高",
-          "business_note": "Shokz OpenFit Pro在开放式耳机市场中表现出色，需加强品牌宣传。",
-          "suggested_action": "建议加大电商平台推广力度，提升品牌知名度。"
+          "business_note": "Shokz OpenFit Pro在开放耳塞市场具备竞争力，需加强品牌营销以提升市场份额。",
+          "suggested_action": "建议加大电商平台推广力度，吸引更多消费者关注Shokz品牌。"
         }
       ]
     },
@@ -1853,7 +1724,7 @@
           "published_iso": "2026-04-15T11:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 132.0,
+          "hours_since_published": 133.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1872,7 +1743,7 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "2026年开放耳机市场潜力巨大，需加强品牌营销以提升市场份额。",
-          "suggested_action": "建议制定针对开放耳机的品牌推广策略，增强消费者认知。"
+          "suggested_action": "制定针对开放耳机的品牌推广策略，增强消费者认知。"
         },
         {
           "name": "Shokz OpenFit Pro review: a great-sounding contender for the open earbuds crown - TechRadar",
@@ -1882,7 +1753,7 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tWEh3eXFXUldsX0FXWmQ0RjFpNU1jTFRLVHQ5eDlDdW9MdW5aQnlNajRNWkJGTlUyNnk1VUQzMU9FOUwxQXlVNDBwV3ZPY2xiaE5OTFpsOVFMLU9qS0lpUDFGNTdVMjZCV19kWWx4NDVEek0zOG1OOGJUdGk?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 90,
-          "hours_since_published": 61.5,
+          "hours_since_published": 62.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1895,37 +1766,167 @@
             ]
           },
           "display_title": "Shokz OpenFit Pro review: a...",
-          "display_summary": "Shokz发布OpenFit Pro耳机，强调音质与舒适度，适合长时间佩戴，目标提升市场竞争",
+          "display_summary": "Shokz推出OpenFit Pro耳机，强调音质与舒适度，适合长时间佩戴，目标提升市场竞争",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "judgement_label": "竞品观察",
-          "product_intro": "Shokz发布OpenFit。",
+          "product_intro": "Shokz推出OpenFit。",
           "importance": "高",
-          "business_note": "Shokz OpenFit Pro在开放式耳机市场中表现出色，需加强品牌宣传。",
-          "suggested_action": "建议加大电商平台推广力度，提升品牌知名度。"
+          "business_note": "Shokz OpenFit Pro在开放耳塞市场具备竞争力，需加强品牌营销以提升市场份额。",
+          "suggested_action": "建议加大电商平台推广力度，吸引更多消费者关注Shokz品牌。"
+        }
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 2,
+      "items": [
+        {
+          "title": "Does Best Buy price match? Everything to know about matching prices online and in-store - ZDNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBGS05kMnpjN1BwcHZNaUF4YXhJRzBRdjRTV3dldFBhY1QzaTg0UlRmUXhpUEw2ajNXam1SOUdHWjc4dTZtNk1OZFhOSHRsN0pOazc2dDYtYTN3c2NuZmxTVS1OY3lvM0JOSDdUTHdFVjVDaTR0SGpn?oc=5\" target=\"_blank\">Does Best Buy price match? Everything to know about matching prices online and in-store",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGS05kMnpjN1BwcHZNaUF4YXhJRzBRdjRTV3dldFBhY1QzaTg0UlRmUXhpUEw2ajNXam1SOUdHWjc4dTZtNk1OZFhOSHRsN0pOazc2dDYtYTN3c2NuZmxTVS1OY3lvM0JOSDdUTHdFVjVDaTR0SGpn?oc=5",
+          "published": "Fri, 17 Apr 2026 14:42:00 GMT",
+          "published_iso": "2026-04-17T14:42:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 81.3,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 250,
+          "display_title": "Does Best Buy price match? Everything...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商"
+        },
+        {
+          "title": "Best Buy Planning To Open Store At Milford Shopping Plaza - Patch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1dGemUyMlBURDBnd2VXVUJXY05nUWFya0JlUlY4Q2g1US1oM1lKR1FOdzdYS0N4YnFRc1JRZTVmQUxxbE1VRy1BVFNONjJQS0FGMGowbDRjbXFmNEJfZ01DbDRqYUVlWndqT01tV2xDcWRMbmtiQnhRNnhPb1JXLTNkTHhzUW9DUmNlQVZib0VTZnPSAawBQVVfeXFMT3NkYUJyZGlOUEZFaDhmbWVQRmJwQVVVNExEX2pUQVRILXpfQmJTbzNwVE",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1dGemUyMlBURDBnd2VXVUJXY05nUWFya0JlUlY4Q2g1US1oM1lKR1FOdzdYS0N4YnFRc1JRZTVmQUxxbE1VRy1BVFNONjJQS0FGMGowbDRjbXFmNEJfZ01DbDRqYUVlWndqT01tV2xDcWRMbmtiQnhRNnhPb1JXLTNkTHhzUW9DUmNlQVZib0VTZnPSAawBQVVfeXFMT3NkYUJyZGlOUEZFaDhmbWVQRmJwQVVVNExEX2pUQVRILXpfQmJTbzNwVEZrZzJKdkd3M3htTDhGcG9yY0tuUGVyVm5mb2c4VmxRZ2lCWXdjazU2ak04djMwRVRwNVMxZXpOZHduRjRNMm1Ydklod3c2eDhZLXNVUkpfemMxLVA3a1pqZDVSZmU1ODdGdEZZbl9LXzRhM2RqSFFVV3Juel82Sy12eQ?oc=5",
+          "published": "Thu, 16 Apr 2026 15:45:35 GMT",
+          "published_iso": "2026-04-16T15:45:35+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 104.2,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 228,
+          "display_title": "Best Buy Planning To Open Store At...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商"
+        }
+      ]
+    },
+    {
+      "name": "earbuds",
+      "type": "品类",
+      "count": 2,
+      "items": [
+        {
+          "title": "The Soundcore C40i clip-on earbuds have never been cheaper at almost 60% off",
+          "summary": "The C40i headphones are 58% off on Amazon right now, down from $120 to just $49.99 — the lowest price we've tracked.",
+          "url": "https://www.androidauthority.com/anker-soundcore-c40i-clib-on-earbuds-3659163/",
+          "published": "Mon, 20 Apr 2026 20:07:05 +0000",
+          "published_iso": "2026-04-20T20:07:05+00:00",
+          "source": "Android Authority",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 3.8,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "earbuds",
+              "headphone"
+            ]
+          },
+          "_score": 281,
+          "display_title": "The Soundcore C40i clip-on earbuds have...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "C40i耳机在亚马逊大幅降价，有助于提升销量和市场份额。",
+          "suggested_action": "建议通过电商平台加强促销，吸引更多消费者购买。"
+        },
+        {
+          "name": "Shokz OpenFit Pro review: a great-sounding contender for the open earbuds crown - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1tWEh3eXFXUldsX0FXWmQ0RjFpNU1jTFRLVHQ5eDlDdW9MdW5aQnlNajRNWkJGTlUyNnk1VUQzMU9FOUwxQXlVNDBwV3ZPY2xiaE5OTFpsOVFMLU9qS0lpUDFGNTdVMjZCV19kWWx4NDVEek0zOG1OOGJUdGk?oc=5\" target=\"_blank\">Shokz OpenFit Pro re",
+          "date": "Sat, 18 Apr 2026 09:30:00",
+          "published_iso": "2026-04-18T09:30:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tWEh3eXFXUldsX0FXWmQ0RjFpNU1jTFRLVHQ5eDlDdW9MdW5aQnlNajRNWkJGTlUyNnk1VUQzMU9FOUwxQXlVNDBwV3ZPY2xiaE5OTFpsOVFMLU9qS0lpUDFGNTdVMjZCV19kWWx4NDVEek0zOG1OOGJUdGk?oc=5",
+          "source": "Google News - Audio Wearable Watch",
+          "_score": 90,
+          "hours_since_published": 62.5,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "display_title": "Shokz OpenFit Pro review: a...",
+          "display_summary": "Shokz推出OpenFit Pro耳机，强调音质与舒适度，适合长时间佩戴，目标提升市场竞争",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "judgement_label": "竞品观察",
+          "product_intro": "Shokz推出OpenFit。",
+          "importance": "高",
+          "business_note": "Shokz OpenFit Pro在开放耳塞市场具备竞争力，需加强品牌营销以提升市场份额。",
+          "suggested_action": "建议加大电商平台推广力度，吸引更多消费者关注Shokz品牌。"
         }
       ]
     }
   ],
   "takeaways": [
-    "沃尔玛在同日配送上挑战亚马逊，显示出零售巨头对电商市场的激烈竞争加剧。",
-    "索尼针对缺陷产品提起诉讼，可能影响其品牌形象和消费者信任度。",
-    "Shokz骨传导耳机的推出，表明市场对创新音频产品的需求持续上升。",
-    "亚马逊与沃尔玛争夺消费者，未来电商平台将更加注重服务和配送速度。",
-    "随着Target扩展新店，北美零售市场竞争格局将进一步变化。"
+    "Walmart加速同日配送，可能会对亚马逊的市场份额造成威胁。",
+    "随着音频产品的多样化，消费者对品牌的忠诚度可能会下降。",
+    "新款Shokz耳机的推出，可能会引发骨传导耳机市场的竞争加剧。",
+    "未来可穿戴设备的创新将推动消费电子行业的快速发展。",
+    "电商平台的价格战将使品牌商面临更大的利润压力。"
   ],
   "opportunity_signals": [
-    "沃尔玛利用门店作为仓库挑战亚马逊的同日送达，提示我们在物流和配送效率上需加大投资，以提升市场竞争力。",
-    "自有品牌牛奶的市场竞争格局变化，表明我们应关注自有品牌产品的开发与推广，以抢占市场份额。",
-    "Shokz骨传导耳机的促销活动有助于提升品牌知名度，建议我们考虑类似的营销策略，以增强品牌影响力和销量。"
+    "沃尔玛通过门店作为仓库提供同日送达服务，企业应考虑优化物流以提升竞争力。",
+    "C40i耳机在亚马逊降价，建议及时调整定价策略以抓住市场份额增长的机会。",
+    "随着可穿戴运动相机市场竞争加剧，需加大品牌营销投入以增强市场影响力。"
   ],
   "risk_signals": [
-    "沃尔玛加速电商转型，可能导致亚马逊市场份额进一步缩水，需警惕竞争加剧带来的市场风险。",
-    "索尼耳机的诉讼事件可能损害品牌形象，影响消费者信任，从而对销售造成负面影响。",
-    "亚马逊和沃尔玛扩展产品范围，可能导致市场竞争格局的快速变化，需及时调整业务策略以应对。"
+    "沃尔玛通过门店作为仓库提供同日送达服务，可能导致我们在电商市场的竞争力下降。",
+    "品牌牛奶市场竞争加剧，可能影响我们在电商平台的销售策略和利润空间。",
+    "亚马逊和沃尔玛的电商竞争加剧，需警惕市场份额被进一步侵蚀的风险。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

@@ -2,7 +2,7 @@
   "consumer_electronics": [
     {
       "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. The New York Times first reported a possible deal, and SpaceX confirmed it in a [&#8230;]",
+      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market [&#",
       "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
       "published": "2026-04-21T18:45:37-04:00",
       "published_iso": "2026-04-21T22:45:37+00:00",
@@ -91,6 +91,33 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "published": "Tue, 21 Apr 2026 23:45:21 +0000",
+      "published_iso": "2026-04-21T23:45:21+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "published": "Tue, 21 Apr 2026 23:26:45 +0000",
+      "published_iso": "2026-04-21T23:26:45+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+      "summary": "Only Elon would do this before an IPO.",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "published": "Tue, 21 Apr 2026 22:58:22 +0000",
+      "published_iso": "2026-04-21T22:58:22+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
       "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
       "url": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
@@ -172,30 +199,12 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
-      "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-      "published": "Tue, 21 Apr 2026 16:00:00 +0000",
-      "published_iso": "2026-04-21T16:00:00+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Ransomware negotiator pleads guilty to helping ransomware gang",
-      "summary": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
-      "url": "https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/",
-      "published": "Tue, 21 Apr 2026 15:56:53 +0000",
-      "published_iso": "2026-04-21T15:56:53+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-      "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
-      "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-      "published": "Tue, 21 Apr 2026 15:24:29 +0000",
-      "published_iso": "2026-04-21T15:24:29+00:00",
-      "source": "TechCrunch",
+      "title": "SpaceX and Cursor strike partnership that might end in a $60 billion acquisition",
+      "summary": "<p>SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. \"SpaceXAI and&nbsp; @cursor_ai&nbsp; are now working closely together to create the world’s best coding and knowledge work AI,\" SpaceX wrote in <a class=\"link\" href=\"https://x.",
+      "url": "https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss",
+      "published": "Tue, 21 Apr 2026 23:21:31 +0000",
+      "published_iso": "2026-04-21T23:21:31+00:00",
+      "source": "Engadget",
       "bucket": "consumer_electronics"
     },
     {
@@ -294,15 +303,6 @@
       "url": "https://www.engadget.com/computing/laptops/framework-launches-the-laptop-13-pro-with-intels-new-panther-lake-chips-181503934.html?src=rss",
       "published": "Tue, 21 Apr 2026 18:15:03 +0000",
       "published_iso": "2026-04-21T18:15:03+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Monterey Park, California has banned any data centers within its city limits",
-      "summary": "<p>Monterey Park's city council has moved to ban construction of any data centers within its borders. The California city's leaders placed a permanent ban on these buildings, labelling them a public nuisance. A proposed plan to construct a 250,000 square foot data center was stopped after residents and advocates pushed",
-      "url": "https://www.engadget.com/ai/monterey-park-california-has-banned-any-data-centers-within-its-city-limits-180426656.html?src=rss",
-      "published": "Tue, 21 Apr 2026 18:04:26 +0000",
-      "published_iso": "2026-04-21T18:04:26+00:00",
       "source": "Engadget",
       "bucket": "consumer_electronics"
     },
@@ -451,6 +451,15 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "Why runners are switching to these open-ear headphones for safer listening, now under $130 - AOL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWxpRDRtT0NNbHVZUHVXdFU1ZGxxWUozMHVjUkZsT1J4MzI4QXdkaG4xaUVtVFJKY1hpN0lpVmpHTFkzeHBKOG40cmowV0VJVWlZd0ZqaTVYN1I5Y1paamgtUUR3amc4OG9xM1plN19fa0xFRmtWWjlYZmtRLUhQZHl0REd2QQ?oc=5\" target=\"_blank\">Why runners are switching to these open-ear headphones for safer ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWxpRDRtT0NNbHVZUHVXdFU1ZGxxWUozMHVjUkZsT1J4MzI4QXdkaG4xaUVtVFJKY1hpN0lpVmpHTFkzeHBKOG40cmowV0VJVWlZd0ZqaTVYN1I5Y1paamgtUUR3amc4OG9xM1plN19fa0xFRmtWWjlYZmtRLUhQZHl0REd2QQ?oc=5",
+      "published": "Tue, 21 Apr 2026 17:03:54 GMT",
+      "published_iso": "2026-04-21T17:03:54+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Meta Glasses Are Comfortable, Functional, and Make My Spouse Recoil in Fear - WIRED",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NODAxNW1ZU1lEVlhWQk4zM25kNlhLbG5iSXl4TUxxckpSV0tFcDFNSU9KYmpYTzF1MVFYeDNOdUVuODNiZHhGNGF2NVRQY1J2LUdNQTJSSmpqUQ?oc=5\" target=\"_blank\">Meta Glasses Are Comfortable, Functional, and Make My Spouse Recoil in Fear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NODAxNW1ZU1lEVlhWQk4zM25kNlhLbG5iSXl4TUxxckpSV0tFcDFNSU9KYmpYTzF1MVFYeDNOdUVuODNiZHhGNGF2NVRQY1J2LUdNQTJSSmpqUQ?oc=5",
@@ -510,15 +519,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4Z3ZvYWJqQjJxWGUtQjlNbnV6dWY1S0Q5enhiamFMVkUtSG5sQmhHbl8tQ1hoaU8xaHdGMFFTdVpQbFlBX1QxNDhZZ0NJSzJKVnJVWDM2ejRVb3h0ZU92d0VlbVg2UVVCSHBleEVpa25WN0RjazVsaWEtdEVSZw?oc=5",
       "published": "Mon, 20 Apr 2026 18:42:53 GMT",
       "published_iso": "2026-04-20T18:42:53+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "These Sony headphones got me through severe flight anxiety - New York Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGJ2bUw0WUpUYzdqU0hOWlAwaC1lRVdPR21Wb05uYVJYT29zb2pnZzdZVnRLMWU2T3YxbjAtUmpKZG9vRUtyZWEtMkNPTkFJUnU2bVZJVTl1YThqYUhxWGVjbzRTanJkSWJqV2ZyVXFmS21QMlVWRjZiOE5GYmJQRldLZ3Zibm1fcGc?oc=5\" target=\"_blank\">These Sony headphones got me through severe flight anxiety</",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGJ2bUw0WUpUYzdqU0hOWlAwaC1lRVdPR21Wb05uYVJYT29zb2pnZzdZVnRLMWU2T3YxbjAtUmpKZG9vRUtyZWEtMkNPTkFJUnU2bVZJVTl1YThqYUhxWGVjbzRTanJkSWJqV2ZyVXFmS21QMlVWRjZiOE5GYmJQRldLZ3Zibm1fcGc?oc=5",
-      "published": "Tue, 21 Apr 2026 20:30:00 GMT",
-      "published_iso": "2026-04-21T20:30:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -633,96 +633,6 @@
   ],
   "channel_news": [
     {
-      "title": "Target’s Tech Chief Has a Central Role in the Retailer’s Turnaround Plan",
-      "summary": "Prat Vemana, Target&#8217;s chief information and product officer, says improved technology is a throughline in the retailer&#8217;s recovery plan after several...",
-      "url": "https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/",
-      "published": "Mon, 16 Mar 2026 19:12:35 +0000",
-      "published_iso": "2026-03-16T19:12:35+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "State lawmakers draft rounding rules as U.S. Mint stops penny production",
-      "summary": "The U.S. Mint has halted production of new pennies, prompting at least six state legislatures to introduce bills standardizing how retailers round cash transactions to the nearest nickel.",
-      "url": "https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/",
-      "published": "Mon, 16 Mar 2026 15:44:53 +0000",
-      "published_iso": "2026-03-16T15:44:53+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Top 10 Retail Tech at eTail West 2026",
-      "summary": "eTail Palm Springs remains one of the more concentrated gatherings of retail operators, growth leaders, and technology companies working inside ecommerce...",
-      "url": "https://retailwire.com/top-10-retail-tech-at-etail-west-2026/",
-      "published": "Tue, 03 Mar 2026 15:31:34 +0000",
-      "published_iso": "2026-03-03T15:31:34+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "L.L.Bean Appoints Greg Elder as CEO, Prioritizes Brand Legacy and Expansion",
-      "summary": "L.L.Bean announced Friday that Greg Elder, its chief retail officer, will become the company&#8217;s fifth president and CEO. Elder will take...",
-      "url": "https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/",
-      "published": "Sat, 10 Jan 2026 00:45:59 +0000",
-      "published_iso": "2026-01-10T00:45:59+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "“No Contract, No Coffee”: Starbucks’ Red Cup Day Turns Into “Red Cup Rebellion” as Politicians Join Boycott",
-      "summary": "Workers strike during the coffee giant's busiest promotional day, drawing support from elected officials in Seattle and New York",
-      "url": "https://retailwire.com/starbucks-red-cup-rebellion/",
-      "published": "Sat, 15 Nov 2025 16:34:48 +0000",
-      "published_iso": "2025-11-15T16:34:48+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Walmart’s Sixth CEO: John Furner to Take the Helm as McMillon Steps Down",
-      "summary": "The world's largest retailer announces a major leadership transition, marking only the sixth CEO change in its history",
-      "url": "https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/",
-      "published": "Sat, 15 Nov 2025 16:11:31 +0000",
-      "published_iso": "2025-11-15T16:11:31+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Firehouse Subs Brings on Carolina Berti as CMO for U.S. and Canada",
-      "summary": "Firehouse Subs has appointed Carolina Berti as Chief Marketing Officer for its U.S. and Canadian operations. She will oversee brand marketing,...",
-      "url": "https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/",
-      "published": "Fri, 03 Oct 2025 18:02:27 +0000",
-      "published_iso": "2025-10-03T18:02:27+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Nike at a Crossroads: Q1 2026 Results Reveal Rebound, Headwinds, and a Strategic Reset",
-      "summary": "Nike’s first-quarter fiscal 2026 results (ended August 31, 2025) painted a picture of cautious optimism for one of the world’s most...",
-      "url": "https://retailwire.com/nike-at-a-crossroads-q1-2026-results-reveal-rebound-headwinds-and-a-strategic-reset/",
-      "published": "Wed, 03 Sep 2025 13:48:00 +0000",
-      "published_iso": "2025-09-03T13:48:00+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "IKEA and Best Buy Launch Shop-in-Shop Pilot Across 10 Stores in Florida and Texas",
-      "summary": "IKEA is partnering with Best Buy to place small shops within the latter's larger stores in a pilot project.",
-      "url": "https://retailwire.com/ikea-best-buy-pilot-florida-texas/",
-      "published": "Tue, 05 Aug 2025 15:35:22 +0000",
-      "published_iso": "2025-08-05T15:35:22+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Del Monte’s Bankruptcy Filing Reflects Cans, Costs and a Changing Grocery Aisle",
-      "summary": "After 139 years on U.S. grocery shelves, legacy canned-food brand Del Monte Foods has filed for Chapter 11 bankruptcy protection, citing...",
-      "url": "https://retailwire.com/del-montes-bankruptcy-filing-reflects-cans-costs-and-a-changing-grocery-aisle/",
-      "published": "Thu, 03 Jul 2025 23:17:00 +0000",
-      "published_iso": "2025-07-03T23:17:00+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
       "title": "‘It’s like getting Taylor Swift tickets’: Brands rush to request tariff refunds, with some snags",
       "summary": "The tariff refunds process has been smoother for some folks than others, according to conversations Modern Retail had with half a dozen brands and entrepreneurs.",
       "url": "https://www.modernretail.co/operations/its-like-getting-taylor-swift-tickets-brands-rush-to-request-tariff-refunds-with-some-snags/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -733,7 +643,7 @@
     },
     {
       "title": "Favorite Daughter, eos and Sol de Janeiro are 2026 Future Leader Awards finalists",
-      "summary": "The Future Leader Awards, presented by Digiday, Glossy and Modern Retail, recognize the next generation of leaders making a significant impact in their industry, with 10 years of experience or less.&#160; This year’s finalists demonstrate how growth is driven by leaders who pair sharp cultural awareness with discipline",
+      "summary": "The Future Leader Awards, presented by Digiday, Glossy and Modern Retail, recognize the next generation of leaders making a significant impact in their industry, with 10 years of experience or less.",
       "url": "https://www.modernretail.co/announcement/awards/favorite-daughter-eos-and-sol-de-janeiro-are-2026-future-leader-awards-finalists/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
       "published": "Tue, 21 Apr 2026 16:25:43 +0000",
       "published_iso": "2026-04-21T16:25:43+00:00",
@@ -1002,12 +912,21 @@
       "bucket": "channel_news"
     },
     {
-      "title": "California Accuses Amazon of Price Fixing in Legal Filing - The New York Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemFQQ0VfcWZxRWdEd1Z5Y2FKZk5xMnBHQzlPYzNLOEo4a3IwWnBPekRKd1NWcHNJVFVxZGE5NDJ3MThYaEk0M2dCWXZIXzIwTVM1ZW56MklxTFpqb0RyeTFTQmdhV3ZkZkpoc3B4SWc2STJOQmxONlNBSWdsc1Y2YjFZVFBRaW1sWHZR?oc=5\" target=\"_blank\">California Accuses Amazon of Price Fixing in Legal Filing</",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemFQQ0VfcWZxRWdEd1Z5Y2FKZk5xMnBHQzlPYzNLOEo4a3IwWnBPekRKd1NWcHNJVFVxZGE5NDJ3MThYaEk0M2dCWXZIXzIwTVM1ZW56MklxTFpqb0RyeTFTQmdhV3ZkZkpoc3B4SWc2STJOQmxONlNBSWdsc1Y2YjFZVFBRaW1sWHZR?oc=5",
-      "published": "Mon, 20 Apr 2026 21:29:04 GMT",
-      "published_iso": "2026-04-20T21:29:04+00:00",
+      "title": "Best Buy Planning To Open Store At Milford Shopping Plaza - Patch",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1dGemUyMlBURDBnd2VXVUJXY05nUWFya0JlUlY4Q2g1US1oM1lKR1FOdzdYS0N4YnFRc1JRZTVmQUxxbE1VRy1BVFNONjJQS0FGMGowbDRjbXFmNEJfZ01DbDRqYUVlWndqT01tV2xDcWRMbmtiQnhRNnhPb1JXLTNkTHhzUW9DUmNlQVZib0VTZnPSAawBQVVfeXFMT3NkYUJyZGlOUEZFaDhmbWVQRmJwQVVVNExEX2pUQVRILXpfQmJTbzNwVE",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1dGemUyMlBURDBnd2VXVUJXY05nUWFya0JlUlY4Q2g1US1oM1lKR1FOdzdYS0N4YnFRc1JRZTVmQUxxbE1VRy1BVFNONjJQS0FGMGowbDRjbXFmNEJfZ01DbDRqYUVlWndqT01tV2xDcWRMbmtiQnhRNnhPb1JXLTNkTHhzUW9DUmNlQVZib0VTZnPSAawBQVVfeXFMT3NkYUJyZGlOUEZFaDhmbWVQRmJwQVVVNExEX2pUQVRILXpfQmJTbzNwVEZrZzJKdkd3M3htTDhGcG9yY0tuUGVyVm5mb2c4VmxRZ2lCWXdjazU2ak04djMwRVRwNVMxZXpOZHduRjRNMm1Ydklod3c2eDhZLXNVUkpfemMxLVA3a1pqZDVSZmU1ODdGdEZZbl9LXzRhM2RqSFFVV3Juel82Sy12eQ?oc=5",
+      "published": "Thu, 16 Apr 2026 15:45:35 GMT",
+      "published_iso": "2026-04-16T15:45:35+00:00",
       "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "The 7 Best Wireless Earbuds of 2026 - RTINGS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5yaUFpdXFOTXU0MmFMRGt1N0xOQnB4elJ5YWRkazRLbzBkSm1OT0FrVm1QTW9MYXgtZ2JhWGdlXzBNV2ktQ3A1MTFNc21HMWRlMm9kdm8tcm5mUjZmcWVKdkU5U1hJODkyd3B3dEdNZEg?oc=5\" target=\"_blank\">The 7 Best Wireless Earbuds of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yaUFpdXFOTXU0MmFMRGt1N0xOQnB4elJ5YWRkazRLbzBkSm1OT0FrVm1QTW9MYXgtZ2JhWGdlXzBNV2ktQ3A1MTFNc21HMWRlMm9kdm8tcm5mUjZmcWVKdkU5U1hJODkyd3B3dEdNZEg?oc=5",
+      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "published_iso": "2026-04-15T07:00:00+00:00",
+      "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
     {
@@ -1043,6 +962,15 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ta0tMN1U3NlczT1lHRThRem04eWV4TDR4WmdSUW9KVGZLallBLWJnN1lOVEcyb3daX294YVVCWW45ZEZ0aHpiQmtRRnFKQ3pJY0NoWldiTQ?oc=5",
       "published": "Wed, 15 Apr 2026 07:00:00 GMT",
       "published_iso": "2026-04-15T07:00:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Walmart is selling high-tech $160 noise-canceling earbuds with great sound for $23 - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkhlWFp2QkZNYjZuc3FzRTJ5WEhXVFVVVEx5QWt1Yi1GNWJzOE9BeTRFT2dHNU13el9Tc3AzaFYzLWpwUXJXQ3F3RVBDX3gwR0VQYndwc0lTQUVzZEJaQWlnTlJtVG1wNXJieUpvVkl3aHNNZUg3SFhXWm5zNzFmYTVCblcyWWU1elgtWVBSdDhIVHNLdFhoeXpfX2Y?oc=5\" target=\"_blank\">Walmart is selling high-tech $160 no",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkhlWFp2QkZNYjZuc3FzRTJ5WEhXVFVVVEx5QWt1Yi1GNWJzOE9BeTRFT2dHNU13el9Tc3AzaFYzLWpwUXJXQ3F3RVBDX3gwR0VQYndwc0lTQUVzZEJaQWlnTlJtVG1wNXJieUpvVkl3aHNNZUg3SFhXWm5zNzFmYTVCblcyWWU1elgtWVBSdDhIVHNLdFhoeXpfX2Y?oc=5",
+      "published": "Wed, 15 Apr 2026 14:03:00 GMT",
+      "published_iso": "2026-04-15T14:03:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1099,25 +1027,7 @@
       "published_iso": "2026-04-20T16:00:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
-    },
-    {
-      "title": "Best Buy’s Ultimate Upgrade Sale features deals on dozens of our favorite gadgets - The Verge",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnRvMUI3VGpmZEM3OGxPM0hCYUozeE5VWEJ0WjhXdmpXOEt1M0FKSFp3T1ZMNEV5RGdiZnNlakFQOUVteUNfM0VXNUNiMW5COXpCM2xpRUd5cFNpQWltOHozUDNnU1gyekF0aGxqQnIzTVdUSnVHdlpULVJ2X2llRTZBUGJ0Ni0zZEVBYXJRV2FTOHRaQjlV?oc=5\" target=\"_blank\">Best Buy’s Ultimate Upgrade Sale features d",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnRvMUI3VGpmZEM3OGxPM0hCYUozeE5VWEJ0WjhXdmpXOEt1M0FKSFp3T1ZMNEV5RGdiZnNlakFQOUVteUNfM0VXNUNiMW5COXpCM2xpRUd5cFNpQWltOHozUDNnU1gyekF0aGxqQnIzTVdUSnVHdlpULVJ2X2llRTZBUGJ0Ni0zZEVBYXJRV2FTOHRaQjlV?oc=5",
-      "published": "Wed, 15 Apr 2026 17:04:34 GMT",
-      "published_iso": "2026-04-15T17:04:34+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "AirPods Pro 3 Drop Below Apple Store Prices on Amazon, Now the Cheapest Place to Buy These ANC Earbuds - Kotaku",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnZzc1k4ZkhGejFuS0ZLRlhqd3doUnAzdDR6VS0zRDBENnZIMl9zTDVJREo2VWhxU291b1RWUEpLTEpRZE1rN0tHNzJiNFBuY1RoelI3V3hCSmZpd3FSX0haMFJYaVhoMlRMUkd4WWpoaUQ4WFBTSnZKMmxWbUxiWWZsYmpEaUpyMnZ2d2VxR3ozM29GY244V01zZU0zcDdKbTU4TlhCUmZ5c2VNYUhleHdId2lKSnJnNndRRjlkc1Q5TW41NzZ4WF",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnZzc1k4ZkhGejFuS0ZLRlhqd3doUnAzdDR6VS0zRDBENnZIMl9zTDVJREo2VWhxU291b1RWUEpLTEpRZE1rN0tHNzJiNFBuY1RoelI3V3hCSmZpd3FSX0haMFJYaVhoMlRMUkd4WWpoaUQ4WFBTSnZKMmxWbUxiWWZsYmpEaUpyMnZ2d2VxR3ozM29GY244V01zZU0zcDdKbTU4TlhCUmZ5c2VNYUhleHdId2lKSnJnNndRRjlkc1Q5TW41NzZ4WFNZUQ?oc=5",
-      "published": "Mon, 20 Apr 2026 14:18:18 GMT",
-      "published_iso": "2026-04-20T14:18:18+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1776811984
+  "fetched_at": 1776815453
 }

@@ -1,6 +1,15 @@
 {
   "products": [
     {
+      "name": "Google is testing AI chatbot search for YouTube",
+      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're",
+      "date": "2026-04-27T20:01:54-04:00",
+      "published_iso": "2026-04-28T00:01:54+00:00",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Canonical lays out a plan for AI in Ubuntu Linux",
       "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over",
       "date": "2026-04-27T16:47:45-04:00",
@@ -82,15 +91,6 @@
       "_score": 20
     },
     {
-      "name": "Microsoft and OpenAI’s famed AGI agreement is dead",
-      "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced",
-      "date": "2026-04-27T12:15:47-04:00",
-      "published_iso": "2026-04-27T16:15:47+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
       "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
       "date": "Mon, 27 Apr 2026 20:37:49",
@@ -109,11 +109,11 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1777330965,
+  "fetched_at": 1777334727,
   "stats": {
     "source_count": 7,
-    "raw_count": 123,
-    "deduped_count": 123,
+    "raw_count": 124,
+    "deduped_count": 124,
     "kept_count": 12
   }
 }

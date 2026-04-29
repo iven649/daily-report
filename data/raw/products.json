@@ -1,6 +1,24 @@
 {
   "products": [
     {
+      "name": "It’s primetime for conspiracy theorist video creators",
+      "summary": "In the days since this year's White House Correspondents' Dinner was cut short when shots were fired at the event, there has been a boom of conspiracy theory videos created by people who insist that the entire situation was a false flag operation. These kinds ",
+      "date": "2026-04-28T19:31:53-04:00",
+      "published_iso": "2026-04-28T23:31:53+00:00",
+      "url": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Elon Musk appeared more petty than prepared",
+      "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. T",
+      "date": "2026-04-28T19:17:12-04:00",
+      "published_iso": "2026-04-28T23:17:12+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "James Comey indicted over Instagram seashell photo that allegedly threatened Trump",
       "summary": "The US Department of Justice has once again indicted James Comey - this time, for an alleged threat the former FBI director made toward President Donald Trump on Instagram, as reported earlier by CNN. In its indictment, filed in a North Carolina federal court ",
       "date": "2026-04-28T17:40:08-04:00",
@@ -73,24 +91,6 @@
       "_score": 20
     },
     {
-      "name": "Google Home makes it easier to understand why devices aren&#8217;t working",
-      "summary": "Thanks to Google Home's latest update, users may be able to get offline devices working again with less troubleshooting. Now, whenever a device goes offline, users may get \"instant account-relinking prompts\" in the app's device controller pages, which will tel",
-      "date": "2026-04-28T14:31:08-04:00",
-      "published_iso": "2026-04-28T18:31:08+00:00",
-      "url": "https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "The Nex Playground gaming console is $60 off this week",
-      "summary": "One of the best-selling gaming consoles over the winter holidays was the Nex Playground, a small camera-equipped cube that runs motion-controlled games made primarily for kids. It got a $50 price increase this month — going from $249 to $299 — but shoppers are",
-      "date": "2026-04-28T14:21:50-04:00",
-      "published_iso": "2026-04-28T18:21:50+00:00",
-      "url": "https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "Amazon is already offering new OpenAI products on AWS",
       "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
       "date": "Tue, 28 Apr 2026 19:48:02",
@@ -109,7 +109,7 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1777417476,
+  "fetched_at": 1777421168,
   "stats": {
     "source_count": 7,
     "raw_count": 119,

@@ -1,6 +1,15 @@
 {
   "products": [
     {
+      "name": "Elon Musk’s worst enemy in court is Elon Musk",
+      "summary": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questio",
+      "date": "2026-04-29T20:01:24-04:00",
+      "published_iso": "2026-04-30T00:01:24+00:00",
+      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Grindr — yes, Grindr — won the WHCD party circuit",
       "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here. I promise that your money will not go ",
       "date": "2026-04-29T18:00:00-04:00",
@@ -82,38 +91,29 @@
       "_score": 20
     },
     {
-      "name": "Google Photos launches an AI try-on feature for clothes you already have",
-      "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share t",
-      "date": "2026-04-29T12:00:00-04:00",
-      "published_iso": "2026-04-29T16:00:00+00:00",
-      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-      "date": "Wed, 29 Apr 2026 23:02:23",
-      "published_iso": "2026-04-29T23:02:23+00:00",
-      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "name": "On the stand, Elon Musk can’t escape his own tweets",
+      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+      "date": "Wed, 29 Apr 2026 23:58:36",
+      "published_iso": "2026-04-29T23:58:36+00:00",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
       "source": "TechCrunch",
       "_score": 10
     },
     {
-      "name": "Google Cloud surpasses $20B but says growth was capacity-constrained",
-      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-      "date": "Wed, 29 Apr 2026 22:20:48",
-      "published_iso": "2026-04-29T22:20:48+00:00",
-      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "name": "Meta is still burning money on AR/VR",
+      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "date": "Wed, 29 Apr 2026 23:58:26",
+      "published_iso": "2026-04-29T23:58:26+00:00",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
       "source": "TechCrunch",
       "_score": 10
     }
   ],
-  "fetched_at": 1777503928,
+  "fetched_at": 1777507585,
   "stats": {
     "source_count": 7,
-    "raw_count": 114,
-    "deduped_count": 114,
+    "raw_count": 113,
+    "deduped_count": 113,
     "kept_count": 12
   }
 }

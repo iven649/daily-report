@@ -1,6 +1,15 @@
 {
   "consumer_electronics": [
     {
+      "title": "Elon Musk’s worst enemy in court is Elon Musk",
+      "summary": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was [&#8230;",
+      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "published": "2026-04-29T20:01:24-04:00",
+      "published_iso": "2026-04-30T00:01:24+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Grindr — yes, Grindr — won the WHCD party circuit",
       "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here. I promise that your money will not go toward paying for a drone-proof ballroom for The Verge staff",
       "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
@@ -82,12 +91,30 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Google Photos launches an AI try-on feature for clothes you already have",
-      "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how [&#8230",
-      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-      "published": "2026-04-29T12:00:00-04:00",
-      "published_iso": "2026-04-29T16:00:00+00:00",
-      "source": "The Verge",
+      "title": "On the stand, Elon Musk can’t escape his own tweets",
+      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "published": "Wed, 29 Apr 2026 23:58:36 +0000",
+      "published_iso": "2026-04-29T23:58:36+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Meta is still burning money on AR/VR",
+      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+      "published": "Wed, 29 Apr 2026 23:58:26 +0000",
+      "published_iso": "2026-04-29T23:58:26+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "published": "Wed, 29 Apr 2026 23:55:23 +0000",
+      "published_iso": "2026-04-29T23:55:23+00:00",
+      "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
     {
@@ -100,7 +127,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
       "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
       "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
       "published": "Wed, 29 Apr 2026 22:20:48 +0000",
@@ -168,33 +195,6 @@
       "url": "https://techcrunch.com/2026/04/29/rokus-3-streaming-service-howdy-reaches-1m-subs-per-recent-report/",
       "published": "Wed, 29 Apr 2026 15:33:35 +0000",
       "published_iso": "2026-04-29T15:33:35+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Uber is in the hotel business now, thanks in part to AI",
-      "summary": "Uber announced several new features on Wednesday during its annual event, which push far beyond the company's original ride-hailing purpose and deeper into its users' lives.",
-      "url": "https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/",
-      "published": "Wed, 29 Apr 2026 15:12:14 +0000",
-      "published_iso": "2026-04-29T15:12:14+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
-      "summary": "Apple lost its bid to pause court-ordered App Store payment changes, keeping external purchase links in place as its case with Epic heads toward the Supreme Court.",
-      "url": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
-      "published": "Wed, 29 Apr 2026 14:06:58 +0000",
-      "published_iso": "2026-04-29T14:06:58+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Earth AI is vertically integrating the search for critical minerals",
-      "summary": "When Earth AI started hitting months-long delays in its search for critical minerals, it decided to take matters into its own hands.",
-      "url": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
-      "published": "Wed, 29 Apr 2026 14:00:00 +0000",
-      "published_iso": "2026-04-29T14:00:00+00:00",
       "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
@@ -307,6 +307,15 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "This open-source E-Ink smartwatch project trades features for extreme battery life",
+      "summary": "Your next DIY project could eliminate charging.",
+      "url": "https://www.androidauthority.com/e-ink-smartwatch-lightink-3662216/",
+      "published": "Wed, 29 Apr 2026 23:35:31 +0000",
+      "published_iso": "2026-04-29T23:35:31+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Good Lock-style personalization tools could be in the works for another phone brand",
       "summary": "OxygenOS 17 and ColorOS 17 may just land with a powerful customization engine.",
       "url": "https://www.androidauthority.com/oppo-good-lock-3662175/",
@@ -406,15 +415,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Motorola’s 2026 Razr series is better and more expensive than ever",
-      "summary": "Upgraded cameras, titanium hinges, and a silicon-carbon battery bump up the price.",
-      "url": "https://www.androidauthority.com/moto-razr-2026-3660326/",
-      "published": "Wed, 29 Apr 2026 16:00:36 +0000",
-      "published_iso": "2026-04-29T16:00:36+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "The 4 Best Budget And Cheap Wireless Earbuds of 2026 - RTINGS.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5IT2FQR282WlVVaW5mdm5TYktNcEZoN1lSLWMzdFhaTWJQNjJyVHpRd3gxNExhT25STV9NRFpXYnp2SV9EeUdWejRuS0FZU014TjNZUG9YT3hBNlRFSXVaUFFINHlUZmd5eExib2RqdFhuM0xkNVhIOA?oc=5\" target=\"_blank\">The 4 Best Budget And Cheap Wireless Earbuds of 2026</a>&nbsp;&nbsp;<font color=\"#6f6",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IT2FQR282WlVVaW5mdm5TYktNcEZoN1lSLWMzdFhaTWJQNjJyVHpRd3gxNExhT25STV9NRFpXYnp2SV9EeUdWejRuS0FZU014TjNZUG9YT3hBNlRFSXVaUFFINHlUZmd5eExib2RqdFhuM0xkNVhIOA?oc=5",
@@ -496,15 +496,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Apple could be planning something \"Ultra\" special for its next flagship AirPods - t3.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmxOMDd1RVNnSWo0NGdSS3RudWJEeFRKMnhvMHNnTFVTUl9uajAwSlk5cWVkZWtPYjBjYnVuVDJ3Vmc3cUg2SndYRXd0WHlSdjVpUktvQmpHQm1nLWJvSF9QMHdjb0tRem1oNHJvY2lSdjVSSDQ3LWtwNGQ5bDdnSGpNODl6cm1TZktlLVN3TzdGQV94RXFNYllCRHBaRHJ1eGpYV1kzLU1hb3F3ZEE?oc=5\" target=\"_blank\">Apple could ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmxOMDd1RVNnSWo0NGdSS3RudWJEeFRKMnhvMHNnTFVTUl9uajAwSlk5cWVkZWtPYjBjYnVuVDJ3Vmc3cUg2SndYRXd0WHlSdjVpUktvQmpHQm1nLWJvSF9QMHdjb0tRem1oNHJvY2lSdjVSSDQ3LWtwNGQ5bDdnSGpNODl6cm1TZktlLVN3TzdGQV94RXFNYllCRHBaRHJ1eGpYV1kzLU1hb3F3ZEE?oc=5",
-      "published": "Wed, 29 Apr 2026 10:35:35 GMT",
-      "published_iso": "2026-04-29T10:35:35+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "My Kids and I Played Nintendo in 3D to Test the Best Smart Glasses - WIRED",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1STmMyTVprQXZ5SHhyNmFJN3A2a1U2aVJ0S1JINkxseVZpZE5IVF9fWG1jQjFLNGUxem8ydk51NVJOZ1VqSktwMEE4bl9IT2xKOHZYLUYyVThwN184c0E?oc=5\" target=\"_blank\">My Kids and I Played Nintendo in 3D to Test the Best Smart Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1STmMyTVprQXZ5SHhyNmFJN3A2a1U2aVJ0S1JINkxseVZpZE5IVF9fWG1jQjFLNGUxem8ydk51NVJOZ1VqSktwMEE4bl9IT2xKOHZYLUYyVThwN184c0E?oc=5",
@@ -523,12 +514,12 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "PlayStation Users Report New Online License Checks, But Sony Quells Concerns - GameSpot",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDlJWHBCenVsN3pEZTRKMV9NSWhMc25qM1pOb0djS01MeE5nUTVjQkE4YjdaelczTF8tZURoVzlfOU1yUkk4ZHJwUElxVDM3bE9UU3ZhUzVNbnB0dElVS1NHVE05ZmttbjFJdHBuMGhGT29yOW93V09Oel9zNEs2WTI0V2JwYWx1QzhIUWU4TENWcFhyNDBlU01iVENjSThtdlFqSFFuUWVZSTR4X3U4cmRHeUdjMEU?oc=5\" target=\"_blank\">",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDlJWHBCenVsN3pEZTRKMV9NSWhMc25qM1pOb0djS01MeE5nUTVjQkE4YjdaelczTF8tZURoVzlfOU1yUkk4ZHJwUElxVDM3bE9UU3ZhUzVNbnB0dElVS1NHVE05ZmttbjFJdHBuMGhGT29yOW93V09Oel9zNEs2WTI0V2JwYWx1QzhIUWU4TENWcFhyNDBlU01iVENjSThtdlFqSFFuUWVZSTR4X3U4cmRHeUdjMEU?oc=5",
-      "published": "Wed, 29 Apr 2026 20:36:07 GMT",
-      "published_iso": "2026-04-29T20:36:07+00:00",
-      "source": "Google News - Competitor Watch",
+      "title": "Images of Samsung's rumored smart glasses have leaked - Engadget",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEpxck01Tlp3XzB1VkNjQ1JMWUc1ekFzOWgtbDZBTUZDVHMzRkRuQmVtWXA2dElYS3lvQ2lHSmpoX1RjVnJ4NkRJR2pEYVdfYnpfT3VnSHMtV3NhOUhUemxIMkJmdlJGLTBjTldUdTc0VTMwMEVKM05FSTVOeXZYaTJGeDVzRlJXanZyLXRsVkF4T28wenFFRlZhazFJZFk?oc=5\" target=\"_blank\">Images of Samsung's rumored smar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEpxck01Tlp3XzB1VkNjQ1JMWUc1ekFzOWgtbDZBTUZDVHMzRkRuQmVtWXA2dElYS3lvQ2lHSmpoX1RjVnJ4NkRJR2pEYVdfYnpfT3VnSHMtV3NhOUhUemxIMkJmdlJGLTBjTldUdTc0VTMwMEVKM05FSTVOeXZYaTJGeDVzRlJXanZyLXRsVkF4T28wenFFRlZhazFJZFk?oc=5",
+      "published": "Mon, 27 Apr 2026 18:41:29 GMT",
+      "published_iso": "2026-04-27T18:41:29+00:00",
+      "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
     {
@@ -537,6 +528,15 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oN1JaRzEwa2REbFp5N3FDTlRrWGVUbG52MmljekZMTWF3amRxZU81WW9hY2hNY1R6VTJYd0dyc1dlNldjU3RORTQzSXA5SEtZMWxUY1VxX1FNM1Qx?oc=5",
       "published": "Thu, 23 Apr 2026 09:00:00 GMT",
       "published_iso": "2026-04-23T09:00:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "PlayStation Users Report New Online License Checks, But Sony Quells Concerns - GameSpot",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDlJWHBCenVsN3pEZTRKMV9NSWhMc25qM1pOb0djS01MeE5nUTVjQkE4YjdaelczTF8tZURoVzlfOU1yUkk4ZHJwUElxVDM3bE9UU3ZhUzVNbnB0dElVS1NHVE05ZmttbjFJdHBuMGhGT29yOW93V09Oel9zNEs2WTI0V2JwYWx1QzhIUWU4TENWcFhyNDBlU01iVENjSThtdlFqSFFuUWVZSTR4X3U4cmRHeUdjMEU?oc=5\" target=\"_blank\">",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDlJWHBCenVsN3pEZTRKMV9NSWhMc25qM1pOb0djS01MeE5nUTVjQkE4YjdaelczTF8tZURoVzlfOU1yUkk4ZHJwUElxVDM3bE9UU3ZhUzVNbnB0dElVS1NHVE05ZmttbjFJdHBuMGhGT29yOW93V09Oel9zNEs2WTI0V2JwYWx1QzhIUWU4TENWcFhyNDBlU01iVENjSThtdlFqSFFuUWVZSTR4X3U4cmRHeUdjMEU?oc=5",
+      "published": "Wed, 29 Apr 2026 20:36:07 GMT",
+      "published_iso": "2026-04-29T20:36:07+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -564,15 +564,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Hd3VEbWJjWE5NLVlPSkp5ZUZkSlFabV9ud1VOMDVlVDQ2UEVQLUVXa0NudXlRbmtnbDhmUzZ6X2I0NlJ0ZEhrTE9FMF84LWM5eXZUVGN2R1N3a1N0N05xeVozeV9VaVF3SF93WVlRMEw?oc=5",
       "published": "Sat, 25 Apr 2026 09:01:33 GMT",
       "published_iso": "2026-04-25T09:01:33+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "This Is the Smartest Way to Buy a Garmin Watch Right Now - Runner's World",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSncwMWRVUnlSNGlyTlp6VUdPS3VacV83UXd0UkMtSENGNlFaZTJKdFJyeXVWQlYwMnEybXAzYXl5dnBKRXdIM1ljNlJKaGZvMl9DOURDSU10UzEtUFZJREhhMnVocjdsSFplWURuWE5ZUkdaRGJkOEVjN3hwbEFObTNmaGJUUXR3OVVCdw?oc=5\" target=\"_blank\">This Is the Smartest Way to Buy a Garmin Watch Right Now<",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSncwMWRVUnlSNGlyTlp6VUdPS3VacV83UXd0UkMtSENGNlFaZTJKdFJyeXVWQlYwMnEybXAzYXl5dnBKRXdIM1ljNlJKaGZvMl9DOURDSU10UzEtUFZJREhhMnVocjdsSFplWURuWE5ZUkdaRGJkOEVjN3hwbEFObTNmaGJUUXR3OVVCdw?oc=5",
-      "published": "Thu, 23 Apr 2026 20:48:00 GMT",
-      "published_iso": "2026-04-23T20:48:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -622,11 +613,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Jimi Hendrix Bandmates’ Heirs Lose Royalties Fight Against Sony, Hendrix Estate - Rolling Stone",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOYnc5SnRvYVJodWlZanI2cUI1ZUtvNy1mY0NYVGlKODcyVGktMnRXNmktUEFadkVPb2Fsd3hKZnZ0eFE3UTM4cWV4bzlUR2VaSjJ3SlFHR0NfU2dLeGljZnFqTnd5Njh1QzU2aDNTeHhLeEJiVG1ZRDdxak10eXJ6bFJQVEsyVXpIZXdnOUY5TnZuSmt3OG1ORF9BT3N3Z1ZEeV9wVTluRGVEb1BKM3VKbURB?oc=5\" target=\"_blank\">Jimi He",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYnc5SnRvYVJodWlZanI2cUI1ZUtvNy1mY0NYVGlKODcyVGktMnRXNmktUEFadkVPb2Fsd3hKZnZ0eFE3UTM4cWV4bzlUR2VaSjJ3SlFHR0NfU2dLeGljZnFqTnd5Njh1QzU2aDNTeHhLeEJiVG1ZRDdxak10eXJ6bFJQVEsyVXpIZXdnOUY5TnZuSmt3OG1ORF9BT3N3Z1ZEeV9wVTluRGVEb1BKM3VKbURB?oc=5",
-      "published": "Wed, 29 Apr 2026 02:00:32 GMT",
-      "published_iso": "2026-04-29T02:00:32+00:00",
+      "title": "DJI Osmo Action 5 Pro Adventure Combo Is Now Amazon’s Choice at $368 - Y.M.Cinema Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOWZFWG1McUl6SVBTYk4yMnRLR1JxOXJiVVk1eFdWQ2JVT2MwaEFLWkVMR0I0N2d4djByWFpOMUVrVUwxU1Y3SVB1c0hMTEJRaDFta1o5RG80NG5DeEdEZDNhTXZEVDR3SzNFdFhzMVRxOXIxeWtN?oc=5\" target=\"_blank\">DJI Osmo Action 5 Pro Adventure Combo Is Now Amazon’s Choice at $368</a>&nbsp;&nbsp;<fo",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOWZFWG1McUl6SVBTYk4yMnRLR1JxOXJiVVk1eFdWQ2JVT2MwaEFLWkVMR0I0N2d4djByWFpOMUVrVUwxU1Y3SVB1c0hMTEJRaDFta1o5RG80NG5DeEdEZDNhTXZEVDR3SzNFdFhzMVRxOXIxeWtN?oc=5",
+      "published": "Sat, 25 Apr 2026 15:05:22 GMT",
+      "published_iso": "2026-04-25T15:05:22+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSllpY284Nm5nTk5hN0dGZ1RKXzFCLVg5UkQ5TjNsLUtEbzlmMFJzUWF2VlpCaFpNM0RZSXYyZ1lQQVdwU2gxYUVXLVdZbzRKVW5ndm05dFhHeHRwSGNnWlRVVWQwY0tlWXlMQm16R2dJNFY2dGl5cWhFenVHOUJRRU1YTDdkd2RjOGZBRUdnUXhFNkE5eVE?oc=5\" target=\"_blank\">BP quarterly profit beats expectations at $3",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSllpY284Nm5nTk5hN0dGZ1RKXzFCLVg5UkQ5TjNsLUtEbzlmMFJzUWF2VlpCaFpNM0RZSXYyZ1lQQVdwU2gxYUVXLVdZbzRKVW5ndm05dFhHeHRwSGNnWlRVVWQwY0tlWXlMQm16R2dJNFY2dGl5cWhFenVHOUJRRU1YTDdkd2RjOGZBRUdnUXhFNkE5eVE?oc=5",
+      "published": "Tue, 28 Apr 2026 14:46:02 GMT",
+      "published_iso": "2026-04-28T14:46:02+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     }
@@ -993,20 +993,20 @@
       "bucket": "channel_news"
     },
     {
+      "title": "Democratic lawmakers urge retail, shipper CEOs to pass Trump tariff refunds to consumers - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0FXczlMeDFtWlBySXVCc29nVzNMSEV0VGV5dnBiWENoX0dwQWRYdlNjNzloVHJxczR4WnN3dUk1NS1MZkVXbTZoWEYyVzI1QTl5eC0yMHc4NEd5TEduUm5MRUswMzAySkZZSDc0N2RnNEVtZmZ2RXoxQzFtalhzNHc3SXRxRDl5YnBoa2hXMktnbVdxZzhlNlllLTYtdGNGc0h1M2pXZlc1NWJhc2VhUWxiOFFaRE1CQ29GcUlQVXpuUQ?oc=5\" t",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0FXczlMeDFtWlBySXVCc29nVzNMSEV0VGV5dnBiWENoX0dwQWRYdlNjNzloVHJxczR4WnN3dUk1NS1MZkVXbTZoWEYyVzI1QTl5eC0yMHc4NEd5TEduUm5MRUswMzAySkZZSDc0N2RnNEVtZmZ2RXoxQzFtalhzNHc3SXRxRDl5YnBoa2hXMktnbVdxZzhlNlllLTYtdGNGc0h1M2pXZlc1NWJhc2VhUWxiOFFaRE1CQ29GcUlQVXpuUQ?oc=5",
+      "published": "Thu, 23 Apr 2026 21:54:39 GMT",
+      "published_iso": "2026-04-23T21:54:39+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
       "title": "4 Best Store-Bought Pizza Doughs That Actually Rise Like a Pizzeria Crust - Eat This Not That",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDk2T3Jlc1k4UnlTZEJPUVN1YkctUUFYdlVzNHBONEQ3UGQ3ellORVA3SWdQR3FxaGdLdjdiTUVRTnMyTlZuR2lUNjdocEtFSG9Mc0RYOW0zQVNPTXI0X2xYQTBSelk4MjFxUURUSVpFUmxjMUNfNklNOGFlYUpPNjJTT01kdTQ?oc=5\" target=\"_blank\">4 Best Store-Bought Pizza Doughs That Actually Rise Like a Pizze",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDk2T3Jlc1k4UnlTZEJPUVN1YkctUUFYdlVzNHBONEQ3UGQ3ellORVA3SWdQR3FxaGdLdjdiTUVRTnMyTlZuR2lUNjdocEtFSG9Mc0RYOW0zQVNPTXI0X2xYQTBSelk4MjFxUURUSVpFUmxjMUNfNklNOGFlYUpPNjJTT01kdTQ?oc=5",
       "published": "Thu, 23 Apr 2026 10:04:39 GMT",
       "published_iso": "2026-04-23T10:04:39+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "The Best Deals Online Right Now - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1AzbTNpaVZ0SXptNUlZMkpUT21LMVhpRFpxOElQaTFvZUJYT3FzdVExQ1ZmWk1hcXVvNVBOSTBOMmVGWUF0RC1kam04SExhTTlxaXk5bVRKWjg4OHhwcUVWZEF3WThfeGg5cmQyVU9McHpzT2dGSWNQZGlkczB2OTJUVF8?oc=5\" target=\"_blank\">The Best Deals Online Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1AzbTNpaVZ0SXptNUlZMkpUT21LMVhpRFpxOElQaTFvZUJYT3FzdVExQ1ZmWk1hcXVvNVBOSTBOMmVGWUF0RC1kam04SExhTTlxaXk5bVRKWjg4OHhwcUVWZEF3WThfeGg5cmQyVU9McHpzT2dGSWNQZGlkczB2OTJUVF8?oc=5",
-      "published": "Mon, 27 Apr 2026 18:14:00 GMT",
-      "published_iso": "2026-04-27T18:14:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -1119,5 +1119,5 @@
       "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1777503921
+  "fetched_at": 1777507578
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01 07:03:51 CST",
+  "generated_at": "2026-05-01 08:05:38 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -716,7 +716,7 @@
     "published_iso": "2026-04-28T23:23:43+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 47.7,
+    "hours_since_published": 48.7,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -736,9 +736,9 @@
     "impact_area": "电商",
     "importance": "高",
     "business_note": "Walmart与Amazon的合作加深，数据驱动定价将影响电商竞争格局。",
-    "suggested_action": "建议加强电商平台的价格监测与调整策略，提升市场竞争力。"
+    "suggested_action": "加强电商平台的定价策略，提升市场竞争力。"
   },
-  "lead_summary": "沃尔玛的数据驱动定价测试将重塑北美电商竞争格局，促使其他零售商加速应对。",
+  "lead_summary": "沃尔玛数据驱动定价测试将重塑电商竞争格局，促使零售商加速跟进。",
   "headline_trio": [
     {
       "title": "Walmart Tests Data Driven Pricing As Packaging Alliance With Amazon Grows - simplywall.st",
@@ -748,7 +748,7 @@
       "published_iso": "2026-04-28T23:23:43+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 47.7,
+      "hours_since_published": 48.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -768,7 +768,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Walmart与Amazon的合作加深，数据驱动定价将影响电商竞争格局。",
-      "suggested_action": "建议加强电商平台的价格监测与调整策略，提升市场竞争力。"
+      "suggested_action": "加强电商平台的定价策略，提升市场竞争力。"
     },
     {
       "title": "Best Buy’s retail media vision blends stores, data and AI at scale - The Drum",
@@ -778,7 +778,7 @@
       "published_iso": "2026-04-27T16:15:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 78.8,
+      "hours_since_published": 79.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -796,76 +796,39 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Best Buy通过零售媒体整合门店、数据和AI，提升电商销售潜力。",
-      "suggested_action": "建议加大与Best Buy的合作，优化电商广告投放策略。"
+      "suggested_action": "建议加强与Best Buy的合作，利用其数据和AI优化电商营销策略。"
     },
     {
-      "title": "Best Buy early Black Friday deals include Bose QuietComfort headphones for $199 - MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1ByeU1BNlJqVVhjOV9WRFB1SE9sc3Y1WjZYbTBlR0RWdklXLW85aXM2V1ZRdzlZLUN6NzA3bEQ0QWM4Rm9Kbk5LeHp1Qk5ieFVzS3NINWVackFQZk9qak9IbmVrTUxkb1UwVkVhVUpEOHBBWTZTNWtUX1dnVEF5dmwwcEFVOUg2X3pJS3FiV3pRUkhvZ1ZNTW5VTEhjd0pXUG1Vd0lhdw?oc=5",
-      "published": "Wed, 29 Apr 2026 18:22:04 GMT",
-      "published_iso": "2026-04-29T18:22:04+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 28.7,
-      "freshness_label": "近3天",
+      "title": "Gotta snack ‘em all? Man hidden in Best Buy snags refreshments before Pokémon card drop - Los Angeles Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWx3VFJmRDRkQ0w3bFR3ZGVuQjRtNjM2bWZRZGt3aS1fUEUwcjZiWk1zRDNXTDk5Q3U5X3JtdTZxdHEyUk1tSGVFTFZCMjRBSVdRR29Xc2ZLQklRVFFjZ2VaNnhPR21ZRnZnVEFkaGpET0Y4VmlBaDZ1YnJ5Qk9PbXlHdTRFYm1aZm9KcFNvamVjelFMS1hvQ2VOU2RQNGh1dUNndC14X0VxU2pIbzUtR1pha2hCamlwRGpF?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWx3VFJmRDRkQ0w3bFR3ZGVuQjRtNjM2bWZRZGt3aS1fUEUwcjZiWk1zRDNXTDk5Q3U5X3JtdTZxdHEyUk1tSGVFTFZCMjRBSVdRR29Xc2ZLQklRVFFjZ2VaNnhPR21ZRnZnVEFkaGpET0Y4VmlBaDZ1YnJ5Qk9PbXlHdTRFYm1aZm9KcFNvamVjelFMS1hvQ2VOU2RQNGh1dUNndC14X0VxU2pIbzUtR1pha2hCamlwRGpF?oc=5",
+      "published": "Thu, 30 Apr 2026 18:44:59 GMT",
+      "published_iso": "2026-04-30T18:44:59+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 5.3,
+      "freshness_label": "24h内",
       "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
+        "brands": [],
         "channels": [
-          "Best Buy"
+          "Best Buy",
+          "Target"
         ],
-        "categories": [
-          "headphone"
-        ]
+        "categories": []
       },
       "_score": 274,
-      "display_title": "Best Buy early Black Friday deals...",
+      "display_title": "Gotta snack ‘em all? Man hidden in Best...",
       "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
+        "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Bose耳机在Best Buy的早期黑色星期五促销中表现突出，需抓住电商机会。",
-      "suggested_action": "加大电商推广力度，提升Bose耳机的市场曝光率。"
+      "business_note": "针对Pokémon卡片的热潮，电商渠道需加强库存管理和促销策略。",
+      "suggested_action": "建议与Best Buy和Target合作，优化线上营销活动，提升消费者购买体验。"
     }
   ],
   "consumer_electronics": [
-    {
-      "title": "Best Buy early Black Friday deals include Bose QuietComfort headphones for $199 - MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1ByeU1BNlJqVVhjOV9WRFB1SE9sc3Y1WjZYbTBlR0RWdklXLW85aXM2V1ZRdzlZLUN6NzA3bEQ0QWM4Rm9Kbk5LeHp1Qk5ieFVzS3NINWVackFQZk9qak9IbmVrTUxkb1UwVkVhVUpEOHBBWTZTNWtUX1dnVEF5dmwwcEFVOUg2X3pJS3FiV3pRUkhvZ1ZNTW5VTEhjd0pXUG1Vd0lhdw?oc=5",
-      "published": "Wed, 29 Apr 2026 18:22:04 GMT",
-      "published_iso": "2026-04-29T18:22:04+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 28.7,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 274,
-      "display_title": "Best Buy early Black Friday deals...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Bose耳机在Best Buy的早期黑色星期五促销中表现突出，需抓住电商机会。",
-      "suggested_action": "加大电商推广力度，提升Bose耳机的市场曝光率。"
-    },
     {
       "title": "DJI Mic Mini 2 review: The tiny wireless mic is colorful and much cheaper - Engadget",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2xXb1c0eFp3N28tdjlabkVqTk1GeFFnLWNtbXdZODhBbXZjVDRQUmVNdVRHeW1EenY0bkVmQ01TRU5QMklwZzZITUVWcWdna251OXl2V0htVVNlbWsyU2J5T0R5REgwS0VyM2RiZHhfRGJUVkE2QWtZekxySmFZTThPbkdJY2I1VElEenJnN1JvSzJkbmcxRHRVaUFYcG0zNVpBNEh4UFZxRW52cDhON0ZuRHVqYzFkR2c?oc=5\" target=\"_bla",
@@ -874,7 +837,7 @@
       "published_iso": "2026-04-28T12:00:46+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 59.0,
+      "hours_since_published": 60.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -894,8 +857,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "DJI Mic Mini 2性价比高，适合电商渠道推广，吸引更多消费者。",
-      "suggested_action": "加强与Target的合作，提升产品曝光率，增加销量。"
+      "business_note": "DJI Mic Mini 2 以更低价格吸引消费者，提升品牌竞争力。",
+      "suggested_action": "加强电商平台宣传，利用价格优势吸引更多用户。"
     },
     {
       "title": "Save $40 Off Our Favorite Bone-Conduction Headphones With This Shokz OpenRun Pro 2 Deal - CNET",
@@ -905,7 +868,7 @@
       "published_iso": "2026-04-29T12:44:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 34.3,
+      "hours_since_published": 35.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -926,8 +889,38 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Shokz骨传导耳机促销有助于提升电商销售，吸引更多消费者关注。",
-      "suggested_action": "加大电商推广力度，利用促销吸引目标客户群。"
+      "business_note": "Shokz骨传导耳机促销活动可提升电商销售，吸引更多消费者关注。",
+      "suggested_action": "加大电商平台推广力度，利用促销吸引消费者购买。"
+    },
+    {
+      "title": "Bose's new QuietComfort headphones are 53 percent off - MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxNZXhDNGRyeW5aTUVSYVFOSjRqc3pwbGNoSFVqcm9xOUJ0MTRDckh3RS1yTHJuZnMxSVhfeEQ4QzRTMTR2X0gwMm9wSWpuY3V1QXpLNFZzQk9OazdzeExwY0pvLVl5am9ERTVXM2xKS0ttVS1QeURHYVFhbjhkaGZ0YzVKbUNiNGxmekpmd3M2WG5CMmU4Q3d2c2ZxV1YwVFBNRlEtVVBmQlZPRXk3RzV5Um9jQjlmYjdOb2RLN2xwSVBPclFNbk5uaU",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNZXhDNGRyeW5aTUVSYVFOSjRqc3pwbGNoSFVqcm9xOUJ0MTRDckh3RS1yTHJuZnMxSVhfeEQ4QzRTMTR2X0gwMm9wSWpuY3V1QXpLNFZzQk9OazdzeExwY0pvLVl5am9ERTVXM2xKS0ttVS1QeURHYVFhbjhkaGZ0YzVKbUNiNGxmekpmd3M2WG5CMmU4Q3d2c2ZxV1YwVFBNRlEtVVBmQlZPRXk3RzV5Um9jQjlmYjdOb2RLN2xwSVBPclFNbk5uaUdFTDRJV2dST256S3FYajh5UFI5cm5hcXFYUFd5ZnBuLUlzTUxFdWFNQXBwN01pWXhpeU1YUjc0THFSQjFwQUNJUGFjSU13NVRqemxHRlBlOC1mOVZ4SEZPWmpsNlVsLWQ1Y1JiUVplRzBmNGRfcEJQcDZEOGl6T1NGY2dlZF85RmFWQXJNbDJ0WFJ0QVVBVkhlQXJKWnN5OXJ0RUY4MFllMmJjeFYySjEwOGZjQTByVXktV1Jn?oc=5",
+      "published": "Wed, 29 Apr 2026 15:01:42 GMT",
+      "published_iso": "2026-04-29T15:01:42+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 33.0,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 242,
+      "display_title": "Bose's new QuietComfort headphones are...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Bose新款QuietComfort耳机大幅降价，有助于提升品牌曝光和销量。",
+      "suggested_action": "利用电商平台加大促销力度，吸引更多消费者关注。"
     },
     {
       "title": "DJI Neo mini drone deal: Get it for $149 at Amazon - Mashable",
@@ -937,7 +930,7 @@
       "published_iso": "2026-04-30T19:57:15+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 3.1,
+      "hours_since_published": 4.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -957,8 +950,39 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "DJI Neo迷你无人机在亚马逊的促销活动有助于提升品牌曝光和销量。",
-      "suggested_action": "建议加大在电商平台的广告投放，吸引更多消费者关注。"
+      "business_note": "DJI Neo迷你无人机在亚马逊的促销活动将提升品牌曝光和销售。",
+      "suggested_action": "加强电商渠道的推广，利用促销吸引更多消费者。"
+    },
+    {
+      "title": "The best action camera: we've tested the top models by GoPro, Insta360, DJI and more - TechRadar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnNUR1VndHRUp4VmRzZnFJV2t4cHhlUnduS0hoeU02eVBrY3hxU3dHZ3pjUkMwRXlVNzFrQ3Rqc0wybU5vRUdhYTFIUjU2ekZtTzROdE8tS2F6Uy1UZFE?oc=5\" target=\"_blank\">The best action camera: we've tested the top models by GoPro, Insta360, DJI and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnNUR1VndHRUp4VmRzZnFJV2t4cHhlUnduS0hoeU02eVBrY3hxU3dHZ3pjUkMwRXlVNzFrQ3Rqc0wybU5vRUdhYTFIUjU2ekZtTzROdE8tS2F6Uy1UZFE?oc=5",
+      "published": "Tue, 28 Apr 2026 13:28:12 GMT",
+      "published_iso": "2026-04-28T13:28:12+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 58.6,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "DJI"
+        ],
+        "channels": [],
+        "categories": [
+          "action camera"
+        ]
+      },
+      "_score": 212,
+      "display_title": "The best action camera: we've tested...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🚁 无人机影像"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "DJI在运动相机市场表现突出，需加强品牌营销以提升市场份额。",
+      "suggested_action": "建议加大电商平台推广力度，吸引更多消费者关注DJI运动相机。"
     },
     {
       "title": "How to Clean Your Headphones and Earbuds (and Yes, You Should) - CNET",
@@ -968,7 +992,7 @@
       "published_iso": "2026-04-25T16:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 127.1,
+      "hours_since_published": 128.1,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -987,38 +1011,7 @@
       "impact_area": "品牌营销",
       "importance": "中",
       "business_note": "清洁耳机和耳塞的指南有助于提升用户体验，增强品牌忠诚度。",
-      "suggested_action": "在电商平台上推广耳机清洁产品，提升销量。"
-    },
-    {
-      "title": "The SHOKZ OpenRun just got a lot more affordable with this Amazon deal - Phandroid",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhLZnlraEJ5WXRrd1p4RlZSWXVxVEZ1QjBzUC0yM3VoNnFxdVVsMkhqZHRKdUZZVjFEWERudERLTkNGdFc5RmwzRmFDZjk5UVhQYy11YXlEbldXRjJucERsZF9FMDgtWlVtZUJ4bWo2VHdGV0UxN1c5c3FDUldZckNTdU15NXF3cEdEVTFQa2NfQVVjOGZFRjMwa214WGk2dUVKbkJlMNIBrAFBVV95cUxQWWJ4dm00X2VXbjR6NDhqSFJ1V1ZYV2",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhLZnlraEJ5WXRrd1p4RlZSWXVxVEZ1QjBzUC0yM3VoNnFxdVVsMkhqZHRKdUZZVjFEWERudERLTkNGdFc5RmwzRmFDZjk5UVhQYy11YXlEbldXRjJucERsZF9FMDgtWlVtZUJ4bWo2VHdGV0UxN1c5c3FDUldZckNTdU15NXF3cEdEVTFQa2NfQVVjOGZFRjMwa214WGk2dUVKbkJlMNIBrAFBVV95cUxQWWJ4dm00X2VXbjR6NDhqSFJ1V1ZYV2JfRy05ZHJHaXp6WjBOOElMeGJEemQybUJoXzNoa2dxNS1vb2lWOUV4Z0gycU9oeFFsVWNfak55SjVuX3AtNGRKY090QUktRFUtZEJhWEZkZTNld1hBTHZQUTNpeXVXMEctQmpveG9LZXBCcU45WDdXU1dRMUJmWnpqLUxsbE1ScFVYUEFYbXI3ZkRvTkZw?oc=5",
-      "published": "Wed, 29 Apr 2026 05:20:29 GMT",
-      "published_iso": "2026-04-29T05:20:29+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 41.7,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": []
-      },
-      "_score": 204,
-      "display_title": "The SHOKZ OpenRun just got a lot more...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Shokz OpenRun在亚马逊的降价将提升电商销售，吸引更多消费者关注。",
-      "suggested_action": "加强在亚马逊的品牌营销，利用促销机会提升销量。"
+      "suggested_action": "在电商平台上推广耳机清洁产品，提升销售转化率。"
     }
   ],
   "channel_news": [
@@ -1030,7 +1023,7 @@
       "published_iso": "2026-04-28T23:23:43+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 47.7,
+      "hours_since_published": 48.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1050,7 +1043,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Walmart与Amazon的合作加深，数据驱动定价将影响电商竞争格局。",
-      "suggested_action": "建议加强电商平台的价格监测与调整策略，提升市场竞争力。"
+      "suggested_action": "加强电商平台的定价策略，提升市场竞争力。"
     },
     {
       "title": "Best Buy’s retail media vision blends stores, data and AI at scale - The Drum",
@@ -1060,7 +1053,7 @@
       "published_iso": "2026-04-27T16:15:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 78.8,
+      "hours_since_published": 79.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1078,7 +1071,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Best Buy通过零售媒体整合门店、数据和AI，提升电商销售潜力。",
-      "suggested_action": "建议加大与Best Buy的合作，优化电商广告投放策略。"
+      "suggested_action": "建议加强与Best Buy的合作，利用其数据和AI优化电商营销策略。"
     },
     {
       "title": "Gotta snack ‘em all? Man hidden in Best Buy snags refreshments before Pokémon card drop - Los Angeles Times",
@@ -1088,7 +1081,7 @@
       "published_iso": "2026-04-30T18:44:59+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 4.3,
+      "hours_since_published": 5.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1106,8 +1099,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "针对Pokémon卡片的热潮，电商渠道需加强库存管理与促销策略。",
-      "suggested_action": "建议与Best Buy和Target合作，提升线上预售和宣传力度。"
+      "business_note": "针对Pokémon卡片的热潮，电商渠道需加强库存管理和促销策略。",
+      "suggested_action": "建议与Best Buy和Target合作，优化线上营销活动，提升消费者购买体验。"
     },
     {
       "title": "What we know about Best Buy’s next CEO Jason Bonfig - Modern Retail",
@@ -1117,7 +1110,7 @@
       "published_iso": "2026-04-29T04:03:45+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 43.0,
+      "hours_since_published": 44.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1134,8 +1127,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy新任CEO将影响电商战略，需关注其对市场的适应性。",
-      "suggested_action": "加强与Best Buy的电商合作，优化产品上架策略。"
+      "business_note": "新任CEO将影响Best Buy的电商战略，需关注其对市场的适应性。",
+      "suggested_action": "建议加强与Best Buy的合作，优化电商渠道策略。"
     },
     {
       "title": "Meet the new CEOs leading Walmart, Lululemon, and other retailers in 2026 - Business Insider",
@@ -1145,7 +1138,7 @@
       "published_iso": "2026-04-24T09:23:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 157.7,
+      "hours_since_published": 158.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1162,8 +1155,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "新任CEO将影响电商策略，需关注其对品牌营销的调整。",
-      "suggested_action": "密切跟踪新CEO的战略方向，调整电商营销策略。"
+      "business_note": "新任CEO将影响Walmart的电商战略，需关注其对市场的调整。",
+      "suggested_action": "加强与Walmart的沟通，及时调整电商策略以适应新领导的方向。"
     },
     {
       "title": "Amazon Prime Day moves to June",
@@ -1173,7 +1166,7 @@
       "published_iso": "2026-04-30T15:30:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 7.6,
+      "hours_since_published": 8.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1190,8 +1183,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊将Prime Day提前至6月，可能影响销售策略和库存管理。",
-      "suggested_action": "调整电商营销策略，提前布局Prime Day相关促销活动。"
+      "business_note": "亚马逊将Prime Day提前至6月，可能影响电商销售策略。",
+      "suggested_action": "调整电商营销计划，提前布局促销活动以抓住销售机会。"
     }
   ],
   "products": [
@@ -1203,7 +1196,7 @@
       "url": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
       "source": "The Verge",
       "_score": 67,
-      "hours_since_published": 2.1,
+      "hours_since_published": 3.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1213,16 +1206,16 @@
         "categories": []
       },
       "display_title": "Congress keeps kicking surveillance...",
-      "display_summary": "国会重新授权《外国情报监视法》第702条款，但仅延长45天，以便立法者有更多时间协商改革。",
+      "display_summary": "国会重新授权《外国情报监视法》第702条，仅延长45天，以便立法者有更多时间协商该争议性监听",
       "tags": [
         "🛒 渠道零售"
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "国会重新授权《外国情报监视法》第702条款，但仅延长45天，以便立法者有更。",
+      "product_intro": "国会重新授权《外国情报监视法》第702条，仅延长45天，以便立法者有更多时。",
       "importance": "中",
-      "business_note": "国会延长监控法案，可能影响电商平台的用户隐私信任。",
-      "suggested_action": "加强品牌营销，提升用户对隐私保护的信心。"
+      "business_note": "国会延长监控法案，可能影响电商平台的隐私政策和用户信任。",
+      "suggested_action": "关注政策变化，调整电商营销策略以增强用户信任。"
     },
     {
       "name": "The craziest part of Musk v. Altman happened while the jury was out of the room",
@@ -1232,7 +1225,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.1,
+      "hours_since_published": 1.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1240,26 +1233,26 @@
         "categories": []
       },
       "display_title": "The craziest part of Musk v. Altman...",
-      "display_summary": "马斯克的律师可能在法律事务中出现重大失误，财务顾问Jared Birchall参与了相关事件",
+      "display_summary": "马斯克的律师可能出现重大失误，财务顾问Jared Birchall参与了相关事务。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "马斯克的律师可能在法律事务中出现重大失误，财务顾问Jared。",
+      "product_intro": "马斯克的律师可能出现重大失误，财务顾问Jared Birchall参与了相关事务。",
       "importance": "中",
-      "business_note": "关注品牌营销动态，及时调整策略以应对市场变化。",
-      "suggested_action": "加强对竞争对手动态的监测，优化品牌传播策略。"
+      "business_note": "关注品牌营销动态，有助于调整市场策略，提升品牌形象。",
+      "suggested_action": "建议团队监测舆论，及时调整品牌传播策略，维护品牌声誉。"
     },
     {
-      "name": "Roblox’s daily users continue to drop as age-checks slow growth",
+      "name": "Roblox’s daily users continue to drop as age checks slow growth",
       "summary": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of last",
       "date": "2026-04-30T17:25:15-04:00",
       "published_iso": "2026-04-30T21:25:15+00:00",
       "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 1.6,
+      "hours_since_published": 2.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1267,16 +1260,16 @@
         "categories": []
       },
       "display_title": "Roblox’s daily users continue to drop...",
-      "display_summary": "Roblox日活跃用户数下降至1.32亿，较上季度的1.44亿减少，部分原因是平台实施年龄检",
+      "display_summary": "Roblox上季度日活跃用户降至1.32亿，因平台实施年龄检查，较上季度的1.44亿有所减少",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "Roblox日活跃用户数下降至1.32亿，较上季度的1.44亿减少，部分原。",
+      "product_intro": "Roblox上季度日活跃用户降至1.32亿，因平台实施年龄检查，较上季度的。",
       "importance": "高",
-      "business_note": "Roblox用户日活下降，影响品牌曝光和用户增长，需关注品牌营销策略。",
-      "suggested_action": "加强品牌营销，优化用户体验，吸引新用户并留住现有用户。"
+      "business_note": "Roblox日活跃用户下降，影响品牌曝光和用户增长。",
+      "suggested_action": "加强品牌营销策略，吸引新用户并提升活跃度。"
     },
     {
       "name": "Rivian’s revenue is up as R2 production kicks into gear",
@@ -1286,7 +1279,7 @@
       "url": "https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.0,
+      "hours_since_published": 4.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1294,15 +1287,15 @@
         "categories": []
       },
       "display_title": "Rivian’s revenue is up as R2 production...",
-      "display_summary": "Rivian公布2026年第一季度财报，启动R2电动车生产，展示公司财务状况及首三个月的生产",
+      "display_summary": "Rivian公布2026年第一季度财报，启动R2电动车生产，财务状况引人关注。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "Rivian公布2026年第一季度财报，启动R2电动车生产，展示公司财务状。",
+      "product_intro": "Rivian公布2026年第一季度财报，启动R2电动车生产，财务状况引人关注。",
       "importance": "高",
-      "business_note": "Rivian R2电动车生产启动，收入增长显著，品牌影响力提升。",
+      "business_note": "Rivian R2电动车生产启动，品牌影响力提升，需加强市场推广。",
       "suggested_action": "加大电商和品牌营销投入，提升R2车型的市场认知度。"
     },
     {
@@ -1313,7 +1306,7 @@
       "url": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.8,
+      "hours_since_published": 4.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1321,16 +1314,16 @@
         "categories": []
       },
       "display_title": "Microsoft’s Xbox mode is now available...",
-      "display_summary": "微软将Xbox模式推广至所有Windows 11 PC，新增全屏界面，类似Steam的Big",
+      "display_summary": "微软已将Xbox模式推送至所有Windows 11 PC，提供类似Steam大画面模式的全屏",
       "tags": [
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "微软将Xbox模式推广至所有Windows 11。",
+      "product_intro": "微软已将Xbox模式推送至所有Windows 11。",
       "importance": "高",
-      "business_note": "Xbox模式的推出将提升Windows 11用户的游戏体验，促进品牌认知。",
-      "suggested_action": "加强品牌营销，突出Xbox模式的优势，吸引更多用户关注。"
+      "business_note": "Xbox模式的推出将提升Windows 11的游戏体验，吸引更多用户关注和使用。",
+      "suggested_action": "加强品牌营销，突出Xbox模式的优势，吸引游戏玩家群体。"
     },
     {
       "name": "With Saros, Housemarque makes a case for doing next-gen games differently",
@@ -1340,7 +1333,7 @@
       "url": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.0,
+      "hours_since_published": 5.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1348,23 +1341,23 @@
         "categories": []
       },
       "display_title": "With Saros, Housemarque makes a case...",
-      "display_summary": "过于关注外表被普遍不赞成，常有谚语提醒人们重视内在而非表面。",
+      "display_summary": "外表过于重要被普遍反对，常有谚语警示：表面与内涵的关系需谨慎对待，过度关注虚荣可能带来风险。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "过于关注外表被普遍不赞成，常有谚语提醒人们重视内在而非表面。",
+      "product_intro": "外表过于重要被普遍反对，常有谚语警示：表面与内涵的关系需谨慎对待，过度关注。",
       "importance": "中",
-      "business_note": "Saros的成功展示了在次世代游戏中创新的重要性，值得关注品牌营销策略。",
-      "suggested_action": "建议分析Saros的品牌营销策略，以优化我们的电商推广方案。"
+      "business_note": "Saros通过不同的方式展示了次世代游戏的潜力，值得关注品牌营销策略。",
+      "suggested_action": "建议分析Saros的成功案例，优化我们的品牌营销策略。"
     }
   ],
   "monitored_entities": [
     {
       "name": "Amazon",
       "type": "渠道",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "Walmart Tests Data Driven Pricing As Packaging Alliance With Amazon Grows - simplywall.st",
@@ -1374,7 +1367,7 @@
           "published_iso": "2026-04-28T23:23:43+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 47.7,
+          "hours_since_published": 48.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1394,7 +1387,7 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Walmart与Amazon的合作加深，数据驱动定价将影响电商竞争格局。",
-          "suggested_action": "建议加强电商平台的价格监测与调整策略，提升市场竞争力。"
+          "suggested_action": "加强电商平台的定价策略，提升市场竞争力。"
         },
         {
           "title": "Amazon Prime Day moves to June",
@@ -1404,7 +1397,7 @@
           "published_iso": "2026-04-30T15:30:00+00:00",
           "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 7.6,
+          "hours_since_published": 8.6,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1421,8 +1414,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊将Prime Day提前至6月，可能影响销售策略和库存管理。",
-          "suggested_action": "调整电商营销策略，提前布局Prime Day相关促销活动。"
+          "business_note": "亚马逊将Prime Day提前至6月，可能影响电商销售策略。",
+          "suggested_action": "调整电商营销计划，提前布局促销活动以抓住销售机会。"
         }
       ]
     },
@@ -1439,7 +1432,7 @@
           "published_iso": "2026-04-28T12:00:46+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 59.0,
+          "hours_since_published": 60.1,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1459,8 +1452,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "DJI Mic Mini 2性价比高，适合电商渠道推广，吸引更多消费者。",
-          "suggested_action": "加强与Target的合作，提升产品曝光率，增加销量。"
+          "business_note": "DJI Mic Mini 2 以更低价格吸引消费者，提升品牌竞争力。",
+          "suggested_action": "加强电商平台宣传，利用价格优势吸引更多用户。"
         },
         {
           "title": "DJI Neo mini drone deal: Get it for $149 at Amazon - Mashable",
@@ -1470,7 +1463,7 @@
           "published_iso": "2026-04-30T19:57:15+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 3.1,
+          "hours_since_published": 4.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1490,76 +1483,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "DJI Neo迷你无人机在亚马逊的促销活动有助于提升品牌曝光和销量。",
-          "suggested_action": "建议加大在电商平台的广告投放，吸引更多消费者关注。"
-        }
-      ]
-    },
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 4,
-      "items": [
-        {
-          "title": "Best Buy’s retail media vision blends stores, data and AI at scale - The Drum",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObm5FWkZaZHpYZU40NmoweWpjeE1CRGViVEJTYkZ0cVdmTVVpVkxzbzBSLWtqd3lsaHNzUXlEbFBDT0E0VjJhdGQtVWhucHd2dmpXSWhZX0NlNXR5cm1oQzJkN2VkUjVVT0RvQkM3NW04VExVYXJPZjhkdDlIV2hoUk9aSE9ET2VLZGUyYXZYckQ0R2tRY0tHMUpR?oc=5\" target=\"_blank\">Best Buy’s retail media vision blends s",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObm5FWkZaZHpYZU40NmoweWpjeE1CRGViVEJTYkZ0cVdmTVVpVkxzbzBSLWtqd3lsaHNzUXlEbFBDT0E0VjJhdGQtVWhucHd2dmpXSWhZX0NlNXR5cm1oQzJkN2VkUjVVT0RvQkM3NW04VExVYXJPZjhkdDlIV2hoUk9aSE9ET2VLZGUyYXZYckQ0R2tRY0tHMUpR?oc=5",
-          "published": "Mon, 27 Apr 2026 16:15:48 GMT",
-          "published_iso": "2026-04-27T16:15:48+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 78.8,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 288,
-          "display_title": "Best Buy’s retail media vision blends...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Best Buy通过零售媒体整合门店、数据和AI，提升电商销售潜力。",
-          "suggested_action": "建议加大与Best Buy的合作，优化电商广告投放策略。"
-        },
-        {
-          "title": "Best Buy early Black Friday deals include Bose QuietComfort headphones for $199 - MSN",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1",
-          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1ByeU1BNlJqVVhjOV9WRFB1SE9sc3Y1WjZYbTBlR0RWdklXLW85aXM2V1ZRdzlZLUN6NzA3bEQ0QWM4Rm9Kbk5LeHp1Qk5ieFVzS3NINWVackFQZk9qak9IbmVrTUxkb1UwVkVhVUpEOHBBWTZTNWtUX1dnVEF5dmwwcEFVOUg2X3pJS3FiV3pRUkhvZ1ZNTW5VTEhjd0pXUG1Vd0lhdw?oc=5",
-          "published": "Wed, 29 Apr 2026 18:22:04 GMT",
-          "published_iso": "2026-04-29T18:22:04+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 28.7,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 274,
-          "display_title": "Best Buy early Black Friday deals...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Bose耳机在Best Buy的早期黑色星期五促销中表现突出，需抓住电商机会。",
-          "suggested_action": "加大电商推广力度，提升Bose耳机的市场曝光率。"
+          "business_note": "DJI Neo迷你无人机在亚马逊的促销活动将提升品牌曝光和销售。",
+          "suggested_action": "加强电商渠道的推广，利用促销吸引更多消费者。"
         }
       ]
     },
@@ -1569,39 +1494,6 @@
       "count": 4,
       "items": [
         {
-          "title": "Best Buy early Black Friday deals include Bose QuietComfort headphones for $199 - MSN",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1",
-          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1ByeU1BNlJqVVhjOV9WRFB1SE9sc3Y1WjZYbTBlR0RWdklXLW85aXM2V1ZRdzlZLUN6NzA3bEQ0QWM4Rm9Kbk5LeHp1Qk5ieFVzS3NINWVackFQZk9qak9IbmVrTUxkb1UwVkVhVUpEOHBBWTZTNWtUX1dnVEF5dmwwcEFVOUg2X3pJS3FiV3pRUkhvZ1ZNTW5VTEhjd0pXUG1Vd0lhdw?oc=5",
-          "published": "Wed, 29 Apr 2026 18:22:04 GMT",
-          "published_iso": "2026-04-29T18:22:04+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 28.7,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 274,
-          "display_title": "Best Buy early Black Friday deals...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Bose耳机在Best Buy的早期黑色星期五促销中表现突出，需抓住电商机会。",
-          "suggested_action": "加大电商推广力度，提升Bose耳机的市场曝光率。"
-        },
-        {
           "title": "Save $40 Off Our Favorite Bone-Conduction Headphones With This Shokz OpenRun Pro 2 Deal - CNET",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5\" target=\"_blank\">Save $40 Off Our Favorite Bone-Conduction Headphones With This Sh",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5",
@@ -1609,7 +1501,7 @@
           "published_iso": "2026-04-29T12:44:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 34.3,
+          "hours_since_published": 35.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1630,8 +1522,38 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Shokz骨传导耳机促销有助于提升电商销售，吸引更多消费者关注。",
-          "suggested_action": "加大电商推广力度，利用促销吸引目标客户群。"
+          "business_note": "Shokz骨传导耳机促销活动可提升电商销售，吸引更多消费者关注。",
+          "suggested_action": "加大电商平台推广力度，利用促销吸引消费者购买。"
+        },
+        {
+          "title": "Bose's new QuietComfort headphones are 53 percent off - MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxNZXhDNGRyeW5aTUVSYVFOSjRqc3pwbGNoSFVqcm9xOUJ0MTRDckh3RS1yTHJuZnMxSVhfeEQ4QzRTMTR2X0gwMm9wSWpuY3V1QXpLNFZzQk9OazdzeExwY0pvLVl5am9ERTVXM2xKS0ttVS1QeURHYVFhbjhkaGZ0YzVKbUNiNGxmekpmd3M2WG5CMmU4Q3d2c2ZxV1YwVFBNRlEtVVBmQlZPRXk3RzV5Um9jQjlmYjdOb2RLN2xwSVBPclFNbk5uaU",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNZXhDNGRyeW5aTUVSYVFOSjRqc3pwbGNoSFVqcm9xOUJ0MTRDckh3RS1yTHJuZnMxSVhfeEQ4QzRTMTR2X0gwMm9wSWpuY3V1QXpLNFZzQk9OazdzeExwY0pvLVl5am9ERTVXM2xKS0ttVS1QeURHYVFhbjhkaGZ0YzVKbUNiNGxmekpmd3M2WG5CMmU4Q3d2c2ZxV1YwVFBNRlEtVVBmQlZPRXk3RzV5Um9jQjlmYjdOb2RLN2xwSVBPclFNbk5uaUdFTDRJV2dST256S3FYajh5UFI5cm5hcXFYUFd5ZnBuLUlzTUxFdWFNQXBwN01pWXhpeU1YUjc0THFSQjFwQUNJUGFjSU13NVRqemxHRlBlOC1mOVZ4SEZPWmpsNlVsLWQ1Y1JiUVplRzBmNGRfcEJQcDZEOGl6T1NGY2dlZF85RmFWQXJNbDJ0WFJ0QVVBVkhlQXJKWnN5OXJ0RUY4MFllMmJjeFYySjEwOGZjQTByVXktV1Jn?oc=5",
+          "published": "Wed, 29 Apr 2026 15:01:42 GMT",
+          "published_iso": "2026-04-29T15:01:42+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 33.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 242,
+          "display_title": "Bose's new QuietComfort headphones are...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose新款QuietComfort耳机大幅降价，有助于提升品牌曝光和销量。",
+          "suggested_action": "利用电商平台加大促销力度，吸引更多消费者关注。"
         }
       ]
     },
@@ -1648,7 +1570,7 @@
           "published_iso": "2026-04-28T23:23:43+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 47.7,
+          "hours_since_published": 48.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1668,7 +1590,7 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Walmart与Amazon的合作加深，数据驱动定价将影响电商竞争格局。",
-          "suggested_action": "建议加强电商平台的价格监测与调整策略，提升市场竞争力。"
+          "suggested_action": "加强电商平台的定价策略，提升市场竞争力。"
         },
         {
           "title": "Meet the new CEOs leading Walmart, Lululemon, and other retailers in 2026 - Business Insider",
@@ -1678,7 +1600,7 @@
           "published_iso": "2026-04-24T09:23:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 157.7,
+          "hours_since_published": 158.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1695,16 +1617,44 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "新任CEO将影响电商策略，需关注其对品牌营销的调整。",
-          "suggested_action": "密切跟踪新CEO的战略方向，调整电商营销策略。"
+          "business_note": "新任CEO将影响Walmart的电商战略，需关注其对市场的调整。",
+          "suggested_action": "加强与Walmart的沟通，及时调整电商策略以适应新领导的方向。"
         }
       ]
     },
     {
-      "name": "Target",
+      "name": "Best Buy",
       "type": "渠道",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "Best Buy’s retail media vision blends stores, data and AI at scale - The Drum",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObm5FWkZaZHpYZU40NmoweWpjeE1CRGViVEJTYkZ0cVdmTVVpVkxzbzBSLWtqd3lsaHNzUXlEbFBDT0E0VjJhdGQtVWhucHd2dmpXSWhZX0NlNXR5cm1oQzJkN2VkUjVVT0RvQkM3NW04VExVYXJPZjhkdDlIV2hoUk9aSE9ET2VLZGUyYXZYckQ0R2tRY0tHMUpR?oc=5\" target=\"_blank\">Best Buy’s retail media vision blends s",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObm5FWkZaZHpYZU40NmoweWpjeE1CRGViVEJTYkZ0cVdmTVVpVkxzbzBSLWtqd3lsaHNzUXlEbFBDT0E0VjJhdGQtVWhucHd2dmpXSWhZX0NlNXR5cm1oQzJkN2VkUjVVT0RvQkM3NW04VExVYXJPZjhkdDlIV2hoUk9aSE9ET2VLZGUyYXZYckQ0R2tRY0tHMUpR?oc=5",
+          "published": "Mon, 27 Apr 2026 16:15:48 GMT",
+          "published_iso": "2026-04-27T16:15:48+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 79.8,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 288,
+          "display_title": "Best Buy’s retail media vision blends...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Best Buy通过零售媒体整合门店、数据和AI，提升电商销售潜力。",
+          "suggested_action": "建议加强与Best Buy的合作，利用其数据和AI优化电商营销策略。"
+        },
         {
           "title": "Gotta snack ‘em all? Man hidden in Best Buy snags refreshments before Pokémon card drop - Los Angeles Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWx3VFJmRDRkQ0w3bFR3ZGVuQjRtNjM2bWZRZGt3aS1fUEUwcjZiWk1zRDNXTDk5Q3U5X3JtdTZxdHEyUk1tSGVFTFZCMjRBSVdRR29Xc2ZLQklRVFFjZ2VaNnhPR21ZRnZnVEFkaGpET0Y4VmlBaDZ1YnJ5Qk9PbXlHdTRFYm1aZm9KcFNvamVjelFMS1hvQ2VOU2RQNGh1dUNndC14X0VxU2pIbzUtR1pha2hCamlwRGpF?oc=5\" target=\"_bl",
@@ -1713,7 +1663,7 @@
           "published_iso": "2026-04-30T18:44:59+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 4.3,
+          "hours_since_published": 5.3,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1731,8 +1681,44 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "针对Pokémon卡片的热潮，电商渠道需加强库存管理与促销策略。",
-          "suggested_action": "建议与Best Buy和Target合作，提升线上预售和宣传力度。"
+          "business_note": "针对Pokémon卡片的热潮，电商渠道需加强库存管理和促销策略。",
+          "suggested_action": "建议与Best Buy和Target合作，优化线上营销活动，提升消费者购买体验。"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "type": "渠道",
+      "count": 2,
+      "items": [
+        {
+          "title": "Gotta snack ‘em all? Man hidden in Best Buy snags refreshments before Pokémon card drop - Los Angeles Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWx3VFJmRDRkQ0w3bFR3ZGVuQjRtNjM2bWZRZGt3aS1fUEUwcjZiWk1zRDNXTDk5Q3U5X3JtdTZxdHEyUk1tSGVFTFZCMjRBSVdRR29Xc2ZLQklRVFFjZ2VaNnhPR21ZRnZnVEFkaGpET0Y4VmlBaDZ1YnJ5Qk9PbXlHdTRFYm1aZm9KcFNvamVjelFMS1hvQ2VOU2RQNGh1dUNndC14X0VxU2pIbzUtR1pha2hCamlwRGpF?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWx3VFJmRDRkQ0w3bFR3ZGVuQjRtNjM2bWZRZGt3aS1fUEUwcjZiWk1zRDNXTDk5Q3U5X3JtdTZxdHEyUk1tSGVFTFZCMjRBSVdRR29Xc2ZLQklRVFFjZ2VaNnhPR21ZRnZnVEFkaGpET0Y4VmlBaDZ1YnJ5Qk9PbXlHdTRFYm1aZm9KcFNvamVjelFMS1hvQ2VOU2RQNGh1dUNndC14X0VxU2pIbzUtR1pha2hCamlwRGpF?oc=5",
+          "published": "Thu, 30 Apr 2026 18:44:59 GMT",
+          "published_iso": "2026-04-30T18:44:59+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 5.3,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 274,
+          "display_title": "Gotta snack ‘em all? Man hidden in Best...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "针对Pokémon卡片的热潮，电商渠道需加强库存管理和促销策略。",
+          "suggested_action": "建议与Best Buy和Target合作，优化线上营销活动，提升消费者购买体验。"
         },
         {
           "title": "DJI Mic Mini 2 review: The tiny wireless mic is colorful and much cheaper - Engadget",
@@ -1742,7 +1728,7 @@
           "published_iso": "2026-04-28T12:00:46+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 59.0,
+          "hours_since_published": 60.1,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1762,8 +1748,75 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "DJI Mic Mini 2性价比高，适合电商渠道推广，吸引更多消费者。",
-          "suggested_action": "加强与Target的合作，提升产品曝光率，增加销量。"
+          "business_note": "DJI Mic Mini 2 以更低价格吸引消费者，提升品牌竞争力。",
+          "suggested_action": "加强电商平台宣传，利用价格优势吸引更多用户。"
+        }
+      ]
+    },
+    {
+      "name": "Shokz",
+      "type": "品牌",
+      "count": 2,
+      "items": [
+        {
+          "title": "Save $40 Off Our Favorite Bone-Conduction Headphones With This Shokz OpenRun Pro 2 Deal - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5\" target=\"_blank\">Save $40 Off Our Favorite Bone-Conduction Headphones With This Sh",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5",
+          "published": "Wed, 29 Apr 2026 12:44:00 GMT",
+          "published_iso": "2026-04-29T12:44:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 35.3,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 260,
+          "display_title": "Save $40 Off Our Favorite...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Shokz骨传导耳机促销活动可提升电商销售，吸引更多消费者关注。",
+          "suggested_action": "加大电商平台推广力度，利用促销吸引消费者购买。"
+        },
+        {
+          "title": "The SHOKZ OpenRun just got a lot more affordable with this Amazon deal - Phandroid",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhLZnlraEJ5WXRrd1p4RlZSWXVxVEZ1QjBzUC0yM3VoNnFxdVVsMkhqZHRKdUZZVjFEWERudERLTkNGdFc5RmwzRmFDZjk5UVhQYy11YXlEbldXRjJucERsZF9FMDgtWlVtZUJ4bWo2VHdGV0UxN1c5c3FDUldZckNTdU15NXF3cEdEVTFQa2NfQVVjOGZFRjMwa214WGk2dUVKbkJlMNIBrAFBVV95cUxQWWJ4dm00X2VXbjR6NDhqSFJ1V1ZYV2",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhLZnlraEJ5WXRrd1p4RlZSWXVxVEZ1QjBzUC0yM3VoNnFxdVVsMkhqZHRKdUZZVjFEWERudERLTkNGdFc5RmwzRmFDZjk5UVhQYy11YXlEbldXRjJucERsZF9FMDgtWlVtZUJ4bWo2VHdGV0UxN1c5c3FDUldZckNTdU15NXF3cEdEVTFQa2NfQVVjOGZFRjMwa214WGk2dUVKbkJlMNIBrAFBVV95cUxQWWJ4dm00X2VXbjR6NDhqSFJ1V1ZYV2JfRy05ZHJHaXp6WjBOOElMeGJEemQybUJoXzNoa2dxNS1vb2lWOUV4Z0gycU9oeFFsVWNfak55SjVuX3AtNGRKY090QUktRFUtZEJhWEZkZTNld1hBTHZQUTNpeXVXMEctQmpveG9LZXBCcU45WDdXU1dRMUJmWnpqLUxsbE1ScFVYUEFYbXI3ZkRvTkZw?oc=5",
+          "published": "Wed, 29 Apr 2026 05:20:29 GMT",
+          "published_iso": "2026-04-29T05:20:29+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 42.7,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": []
+          },
+          "_score": 204,
+          "display_title": "The SHOKZ OpenRun just got a lot more...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商"
         }
       ]
     },
@@ -1773,37 +1826,34 @@
       "count": 2,
       "items": [
         {
-          "title": "Best Buy early Black Friday deals include Bose QuietComfort headphones for $199 - MSN",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1",
-          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQZFp0THZZY252R2lSVWdkcnppRkVaRVUwVXNlcUdWTFlCVkF3dW5QN1pTVS1UcE1WTzUxdWZUWnBBQVJZaTN3T2lDQXEtQ1lzOWJnaEpvRGRlWXdVTFAtRmRxemFjeWdNM1RLSDM3VE1ZRlJKc3pvQmU1RnpyRzRGVXpISUw0cFBJQzdDbjZOYVVmcVljZndMLVdScGZLbWhLVGNqdFZrYU9PbFd3Rkl4Mk05WF9xLWdibThMVlo3cEYzY0RISnU5U1ByeU1BNlJqVVhjOV9WRFB1SE9sc3Y1WjZYbTBlR0RWdklXLW85aXM2V1ZRdzlZLUN6NzA3bEQ0QWM4Rm9Kbk5LeHp1Qk5ieFVzS3NINWVackFQZk9qak9IbmVrTUxkb1UwVkVhVUpEOHBBWTZTNWtUX1dnVEF5dmwwcEFVOUg2X3pJS3FiV3pRUkhvZ1ZNTW5VTEhjd0pXUG1Vd0lhdw?oc=5",
-          "published": "Wed, 29 Apr 2026 18:22:04 GMT",
-          "published_iso": "2026-04-29T18:22:04+00:00",
+          "title": "Bose's new QuietComfort headphones are 53 percent off - MSN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxNZXhDNGRyeW5aTUVSYVFOSjRqc3pwbGNoSFVqcm9xOUJ0MTRDckh3RS1yTHJuZnMxSVhfeEQ4QzRTMTR2X0gwMm9wSWpuY3V1QXpLNFZzQk9OazdzeExwY0pvLVl5am9ERTVXM2xKS0ttVS1QeURHYVFhbjhkaGZ0YzVKbUNiNGxmekpmd3M2WG5CMmU4Q3d2c2ZxV1YwVFBNRlEtVVBmQlZPRXk3RzV5Um9jQjlmYjdOb2RLN2xwSVBPclFNbk5uaU",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNZXhDNGRyeW5aTUVSYVFOSjRqc3pwbGNoSFVqcm9xOUJ0MTRDckh3RS1yTHJuZnMxSVhfeEQ4QzRTMTR2X0gwMm9wSWpuY3V1QXpLNFZzQk9OazdzeExwY0pvLVl5am9ERTVXM2xKS0ttVS1QeURHYVFhbjhkaGZ0YzVKbUNiNGxmekpmd3M2WG5CMmU4Q3d2c2ZxV1YwVFBNRlEtVVBmQlZPRXk3RzV5Um9jQjlmYjdOb2RLN2xwSVBPclFNbk5uaUdFTDRJV2dST256S3FYajh5UFI5cm5hcXFYUFd5ZnBuLUlzTUxFdWFNQXBwN01pWXhpeU1YUjc0THFSQjFwQUNJUGFjSU13NVRqemxHRlBlOC1mOVZ4SEZPWmpsNlVsLWQ1Y1JiUVplRzBmNGRfcEJQcDZEOGl6T1NGY2dlZF85RmFWQXJNbDJ0WFJ0QVVBVkhlQXJKWnN5OXJ0RUY4MFllMmJjeFYySjEwOGZjQTByVXktV1Jn?oc=5",
+          "published": "Wed, 29 Apr 2026 15:01:42 GMT",
+          "published_iso": "2026-04-29T15:01:42+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 28.7,
+          "hours_since_published": 33.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Bose"
             ],
-            "channels": [
-              "Best Buy"
-            ],
+            "channels": [],
             "categories": [
               "headphone"
             ]
           },
-          "_score": 274,
-          "display_title": "Best Buy early Black Friday deals...",
+          "_score": 242,
+          "display_title": "Bose's new QuietComfort headphones are...",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
+            "🏃 运动穿戴"
           ],
-          "impact_area": "电商",
+          "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Bose耳机在Best Buy的早期黑色星期五促销中表现突出，需抓住电商机会。",
-          "suggested_action": "加大电商推广力度，提升Bose耳机的市场曝光率。"
+          "business_note": "Bose新款QuietComfort耳机大幅降价，有助于提升品牌曝光和销量。",
+          "suggested_action": "利用电商平台加大促销力度，吸引更多消费者关注。"
         },
         {
           "title": "Bose QuietComfort Ultra Earbuds are $50 off at Amazon — buy now for $249 - Yahoo Tech",
@@ -1813,7 +1863,7 @@
           "published_iso": "2026-04-24T09:05:14+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 158.0,
+          "hours_since_published": 159.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1836,94 +1886,24 @@
           "impact_area": "电商"
         }
       ]
-    },
-    {
-      "name": "Shokz",
-      "type": "品牌",
-      "count": 2,
-      "items": [
-        {
-          "title": "Save $40 Off Our Favorite Bone-Conduction Headphones With This Shokz OpenRun Pro 2 Deal - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5\" target=\"_blank\">Save $40 Off Our Favorite Bone-Conduction Headphones With This Sh",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5",
-          "published": "Wed, 29 Apr 2026 12:44:00 GMT",
-          "published_iso": "2026-04-29T12:44:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 34.3,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 260,
-          "display_title": "Save $40 Off Our Favorite...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Shokz骨传导耳机促销有助于提升电商销售，吸引更多消费者关注。",
-          "suggested_action": "加大电商推广力度，利用促销吸引目标客户群。"
-        },
-        {
-          "title": "The SHOKZ OpenRun just got a lot more affordable with this Amazon deal - Phandroid",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhLZnlraEJ5WXRrd1p4RlZSWXVxVEZ1QjBzUC0yM3VoNnFxdVVsMkhqZHRKdUZZVjFEWERudERLTkNGdFc5RmwzRmFDZjk5UVhQYy11YXlEbldXRjJucERsZF9FMDgtWlVtZUJ4bWo2VHdGV0UxN1c5c3FDUldZckNTdU15NXF3cEdEVTFQa2NfQVVjOGZFRjMwa214WGk2dUVKbkJlMNIBrAFBVV95cUxQWWJ4dm00X2VXbjR6NDhqSFJ1V1ZYV2",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmhLZnlraEJ5WXRrd1p4RlZSWXVxVEZ1QjBzUC0yM3VoNnFxdVVsMkhqZHRKdUZZVjFEWERudERLTkNGdFc5RmwzRmFDZjk5UVhQYy11YXlEbldXRjJucERsZF9FMDgtWlVtZUJ4bWo2VHdGV0UxN1c5c3FDUldZckNTdU15NXF3cEdEVTFQa2NfQVVjOGZFRjMwa214WGk2dUVKbkJlMNIBrAFBVV95cUxQWWJ4dm00X2VXbjR6NDhqSFJ1V1ZYV2JfRy05ZHJHaXp6WjBOOElMeGJEemQybUJoXzNoa2dxNS1vb2lWOUV4Z0gycU9oeFFsVWNfak55SjVuX3AtNGRKY090QUktRFUtZEJhWEZkZTNld1hBTHZQUTNpeXVXMEctQmpveG9LZXBCcU45WDdXU1dRMUJmWnpqLUxsbE1ScFVYUEFYbXI3ZkRvTkZw?oc=5",
-          "published": "Wed, 29 Apr 2026 05:20:29 GMT",
-          "published_iso": "2026-04-29T05:20:29+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 41.7,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": []
-          },
-          "_score": 204,
-          "display_title": "The SHOKZ OpenRun just got a lot more...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Shokz OpenRun在亚马逊的降价将提升电商销售，吸引更多消费者关注。",
-          "suggested_action": "加强在亚马逊的品牌营销，利用促销机会提升销量。"
-        }
-      ]
     }
   ],
   "takeaways": [
-    "沃尔玛的动态定价测试可能会改变北美电商竞争格局，迫使其他零售商跟进。",
-    "Best Buy的早期黑五促销显示出其在节日季节的强劲竞争力，可能会吸引更多消费者。",
-    "DJI Mic Mini 2的市场反响良好，可能会加剧音频设备领域的竞争，影响其他品牌销量。",
-    "随着Best Buy新CEO的上任，预计将推动其零售媒体战略，提升广告收入。",
-    "未来几个月，耳机清洁指南的普及可能会影响耳机配件市场，推动相关产品销售增长。"
+    "沃尔玛的数据驱动定价测试可能会对竞争对手造成压力，促使更多零售商跟进这一策略。",
+    "百思买的零售媒体愿景显示出其对广告收入的重视，未来可能会改变消费电子市场的广告格局。",
+    "新款Bose降噪耳机的推出将进一步加剧市场竞争，其他品牌需加快产品更新以保持市场份额。",
+    "DJI的迷你无人机促销活动显示出消费者对便携式摄影设备的持续需求，可能推动相关产品销量上升。",
+    "随着Roblox日活跃用户的下降，相关硬件和配件销售可能受到影响，需关注市场反应。"
   ],
   "opportunity_signals": [
-    "Walmart的数据驱动定价策略将改变电商竞争格局，企业应考虑调整定价策略以保持市场竞争力。",
-    "Best Buy通过零售媒体整合提升电商销售潜力，建议加大对数据和AI的投资，以优化销售渠道。",
-    "针对Bose耳机在黑色星期五的成功表现，企业应抓住电商促销机会，提前布局以提升销售业绩。"
+    "Walmart的数据驱动定价策略将重塑电商竞争格局，企业应考虑如何利用数据分析提升定价灵活性以增强市场竞争力。",
+    "Best Buy整合零售媒体与AI技术，提升电商销售潜力，建议加大对数字营销和数据分析的投资，以抓住这一增长机会。",
+    "针对Pokémon卡片的热潮，电商渠道需优化库存管理和促销策略，以满足消费者需求并提升销售业绩。"
   ],
   "risk_signals": [
-    "Walmart的数据驱动定价策略可能导致竞争加剧，需评估自身定价灵活性以保持市场份额。",
-    "Best Buy新任CEO的战略调整可能影响电商方向，管理层需密切关注其决策对销售的潜在影响。",
-    "针对Pokémon卡片的热潮，若库存管理不善，可能导致销售机会流失，需加强库存监控与促销策略。"
+    "Walmart的数据驱动定价策略可能导致价格战加剧，威胁到现有市场份额和利润率。",
+    "Best Buy新任CEO的战略调整可能影响其电商转型进程，需密切关注其对竞争环境的适应能力。",
+    "针对Pokémon卡片的热潮，若库存管理不善，可能导致缺货或过剩，影响销售和品牌形象。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

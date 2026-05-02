@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03 06:57:07 CST",
+  "generated_at": "2026-05-03 07:59:58 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -718,7 +718,7 @@
     "published_iso": "2026-04-30T18:44:59+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 52.2,
+    "hours_since_published": 53.2,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -736,10 +736,10 @@
     ],
     "impact_area": "电商",
     "importance": "中",
-    "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商销售策略。",
-    "suggested_action": "加强与零售渠道的合作，确保热门商品的库存和宣传。"
+    "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商渠道的库存管理。",
+    "suggested_action": "建议加强与Best Buy和Target的合作，确保热门商品的供应链稳定。"
   },
-  "lead_summary": "消费者对热门商品需求旺盛，电商策略亟需调整以应对市场竞争加剧。",
+  "lead_summary": "消费者对热门商品需求旺盛，电商库存管理亟需加强，竞争加剧需密切关注。",
   "headline_trio": [
     {
       "title": "Sneak-achu? Man hidden in Best Buy raids store’s snacks before Pokémon card drop - Los Angeles Times",
@@ -749,7 +749,7 @@
       "published_iso": "2026-04-30T18:44:59+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 52.2,
+      "hours_since_published": 53.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -767,8 +767,8 @@
       ],
       "impact_area": "电商",
       "importance": "中",
-      "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商销售策略。",
-      "suggested_action": "加强与零售渠道的合作，确保热门商品的库存和宣传。"
+      "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商渠道的库存管理。",
+      "suggested_action": "建议加强与Best Buy和Target的合作，确保热门商品的供应链稳定。"
     },
     {
       "title": "Sony vs. Bose: My buying advice after listening to flagship headphones from both brands - ZDNET",
@@ -778,7 +778,7 @@
       "published_iso": "2026-04-30T15:52:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 55.1,
+      "hours_since_published": 56.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -797,8 +797,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony与Bose旗舰耳机的对比将影响品牌形象和市场份额。",
-      "suggested_action": "加强品牌营销，突出产品差异化，吸引目标消费者。"
+      "business_note": "Sony与Bose旗舰耳机的对比将影响品牌营销策略，需关注消费者偏好。",
+      "suggested_action": "加强对Bose耳机的品牌推广，突出其音质优势。"
     },
     {
       "title": "Shokz OpenRun Pro 2 Bone Conduction Headphones Keep You Connected to the Trail - TechEBlog -",
@@ -808,7 +808,7 @@
       "published_iso": "2026-05-01T22:43:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 24.2,
+      "hours_since_published": 25.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -828,8 +828,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Shokz OpenRun Pro 2耳机在市场上具有较高的品牌影响力，适合进行品牌营销。",
-      "suggested_action": "加强电商平台的推广，提升品牌曝光率和销售转化。"
+      "business_note": "Shokz OpenRun Pro 2 骨传导耳机提升品牌知名度，适合户外运动用户。",
+      "suggested_action": "加大电商推广力度，针对运动爱好者进行精准营销。"
     }
   ],
   "consumer_electronics": [
@@ -841,7 +841,7 @@
       "published_iso": "2026-04-30T15:52:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 55.1,
+      "hours_since_published": 56.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -860,8 +860,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony与Bose旗舰耳机的对比将影响品牌形象和市场份额。",
-      "suggested_action": "加强品牌营销，突出产品差异化，吸引目标消费者。"
+      "business_note": "Sony与Bose旗舰耳机的对比将影响品牌营销策略，需关注消费者偏好。",
+      "suggested_action": "加强对Bose耳机的品牌推广，突出其音质优势。"
     },
     {
       "title": "Shokz OpenRun Pro 2 Bone Conduction Headphones Keep You Connected to the Trail - TechEBlog -",
@@ -871,7 +871,7 @@
       "published_iso": "2026-05-01T22:43:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 24.2,
+      "hours_since_published": 25.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -891,8 +891,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Shokz OpenRun Pro 2耳机在市场上具有较高的品牌影响力，适合进行品牌营销。",
-      "suggested_action": "加强电商平台的推广，提升品牌曝光率和销售转化。"
+      "business_note": "Shokz OpenRun Pro 2 骨传导耳机提升品牌知名度，适合户外运动用户。",
+      "suggested_action": "加大电商推广力度，针对运动爱好者进行精准营销。"
     },
     {
       "title": "DJI Mic Mini 2 review: The tiny wireless mic is colorful and much cheaper - Engadget",
@@ -902,7 +902,7 @@
       "published_iso": "2026-04-28T12:00:46+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 106.9,
+      "hours_since_published": 108.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -922,8 +922,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "DJI Mic Mini 2 以更低价格吸引消费者，提升品牌竞争力。",
-      "suggested_action": "加强电商平台推广，利用价格优势吸引更多用户。"
+      "business_note": "DJI Mic Mini 2 以更低价格吸引消费者，有助于提升电商销售。",
+      "suggested_action": "加强电商平台的推广，利用价格优势吸引目标客户。"
     },
     {
       "title": "Save $40 Off Our Favorite Bone-Conduction Headphones With This Shokz OpenRun Pro 2 Deal - CNET",
@@ -933,7 +933,7 @@
       "published_iso": "2026-04-29T12:44:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 82.2,
+      "hours_since_published": 83.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -954,8 +954,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Shokz骨传导耳机降价，有助于提升电商销量和品牌知名度。",
-      "suggested_action": "利用促销活动加强电商平台的品牌营销，吸引更多消费者。"
+      "business_note": "Shokz骨传导耳机降价，有助于提升电商销售和品牌知名度。",
+      "suggested_action": "加大电商推广力度，吸引更多消费者关注该产品。"
     },
     {
       "title": "Forget DJI Osmo, GoPro Clears Out HERO12 Black Action Camera at Below Black Friday Price on Amazon - Gizmodo",
@@ -965,7 +965,7 @@
       "published_iso": "2026-05-01T13:32:27+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 33.4,
+      "hours_since_published": 34.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -987,8 +987,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "GoPro在亚马逊上以低于黑五价格清理HERO12 Black，影响电商销售。",
-      "suggested_action": "建议加大品牌营销力度，提升GoPro产品的市场竞争力。"
+      "business_note": "GoPro在亚马逊以低于黑色星期五的价格清理HERO12 Black，影响电商销售。",
+      "suggested_action": "建议加强品牌营销，提升GoPro在电商平台的曝光率。"
     },
     {
       "title": "The best action camera: we've tested the top models by GoPro, Insta360, DJI and more - TechRadar",
@@ -998,7 +998,7 @@
       "published_iso": "2026-04-28T13:28:12+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 105.5,
+      "hours_since_published": 106.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1018,8 +1018,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "针对DJI品牌的行动相机市场，需加强品牌营销以提升市场份额。",
-      "suggested_action": "建议加大电商平台的广告投放，提升品牌曝光度。"
+      "business_note": "DJI在运动相机市场表现突出，需加强品牌营销以提升市场份额。",
+      "suggested_action": "建议加大电商平台的推广力度，吸引更多消费者关注DJI运动相机。"
     }
   ],
   "channel_news": [
@@ -1031,7 +1031,7 @@
       "published_iso": "2026-04-30T18:44:59+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 52.2,
+      "hours_since_published": 53.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1049,8 +1049,8 @@
       ],
       "impact_area": "电商",
       "importance": "中",
-      "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商销售策略。",
-      "suggested_action": "加强与零售渠道的合作，确保热门商品的库存和宣传。"
+      "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商渠道的库存管理。",
+      "suggested_action": "建议加强与Best Buy和Target的合作，确保热门商品的供应链稳定。"
     },
     {
       "title": "Best Buy’s retail media vision blends stores, data and AI at scale - The Drum",
@@ -1060,7 +1060,7 @@
       "published_iso": "2026-04-27T16:15:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 126.7,
+      "hours_since_published": 127.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1078,7 +1078,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Best Buy通过零售媒体整合门店、数据和AI，提升电商销售潜力。",
-      "suggested_action": "建议加强与Best Buy的合作，利用其数据驱动的营销策略。"
+      "suggested_action": "建议加强与Best Buy的合作，利用其数据和AI优化电商营销策略。"
     },
     {
       "title": "Best Buy: The Robin Report Retail Miss of the Week, 05. 2. 2026 - The Robin Report",
@@ -1088,7 +1088,7 @@
       "published_iso": "2026-05-02T04:01:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 18.9,
+      "hours_since_published": 20.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1105,8 +1105,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy在电商渠道的表现不佳，需关注其对整体销售的影响。",
-      "suggested_action": "加强电商平台的品牌营销策略，提升用户转化率。"
+      "business_note": "Best Buy在电商渠道的表现不佳，需引起重视以避免市场份额流失。",
+      "suggested_action": "加强电商平台的营销策略，提升用户体验和转化率。"
     },
     {
       "title": "Walmart Tests Data Driven Pricing As Packaging Alliance With Amazon Grows - simplywall.st",
@@ -1116,7 +1116,7 @@
       "published_iso": "2026-04-28T23:23:43+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 95.5,
+      "hours_since_published": 96.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1136,7 +1136,36 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Walmart与Amazon的合作加深，数据驱动定价将影响电商竞争格局。",
-      "suggested_action": "建议加强电商平台的数据分析能力，以应对竞争。"
+      "suggested_action": "加强电商平台的价格监测与调整策略，提升市场竞争力。"
+    },
+    {
+      "title": "Some pantry staples are cheaper on Amazon — here's what to buy - Yahoo Creators",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhTdTZuWTltSmwwMm95Y0lOVUlIOGtkTU1BZHhBczNwRm9PQ0tfeHdqLVpCS0tNMWhabVlFdzZDMW0zckFuS1cxbFVlSFlSenpMOWtTc2tFcmJLdkpwbkdOaFpOelpsendRUVl3cy1jT0dwWXR3cEk2TFBLYkJGTHAwcVZCQXRLMlRkVERqUVhhYjJOMHQ2OWQ0V3NjT0xYaDgyQ2cySGdKbkFlT0x3WFRRUnQ1MzBTc1E?oc=5\" target=\"_bla",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhTdTZuWTltSmwwMm95Y0lOVUlIOGtkTU1BZHhBczNwRm9PQ0tfeHdqLVpCS0tNMWhabVlFdzZDMW0zckFuS1cxbFVlSFlSenpMOWtTc2tFcmJLdkpwbkdOaFpOelpsendRUVl3cy1jT0dwWXR3cEk2TFBLYkJGTHAwcVZCQXRLMlRkVERqUVhhYjJOMHQ2OWQ0V3NjT0xYaDgyQ2cySGdKbkFlT0x3WFRRUnQ1MzBTc1E?oc=5",
+      "published": "Thu, 30 Apr 2026 15:59:41 GMT",
+      "published_iso": "2026-04-30T15:59:41+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 56.0,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 267,
+      "display_title": "Some pantry staples are cheaper on...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊上的一些日常必需品价格更低，影响电商销售策略。",
+      "suggested_action": "优化电商平台的价格策略，提升竞争力。"
     },
     {
       "title": "Lululemon, Apple, Best Buy CEOs among April’s retail C-suite moves - Retail Brew",
@@ -1146,7 +1175,7 @@
       "published_iso": "2026-05-01T13:17:20+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 33.7,
+      "hours_since_published": 34.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1163,39 +1192,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "高管变动可能影响电商策略，需关注竞争对手动态。",
-      "suggested_action": "加强对Best Buy电商策略的监测，调整应对方案。"
-    },
-    {
-      "title": "The 'best-sounding earbuds I've used yet' just scored a rare discount at Amazon — but you better act fast - Android Central",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkg3THBqMzlBOElSdHYzaUVvNTlkVEtXbTBsbTAxSmRrblNiOUszQk16MWhtYndSeW0wWHhlRmh5MnBaZGt2VVF3MVNoRU5vVWt5T1A2TmNMb3pZQ0EzNURDblVYdmNkWkVkaWdpdFQtdWI1cXh2ZU1tb2NHVFQ5WUYxWUVWOW5OTjcwNjhOUVlEcDItZkFDSWdwUldyYjNzUHN3?oc=5\" target=\"_blank\">The 'best-sounding earbuds ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkg3THBqMzlBOElSdHYzaUVvNTlkVEtXbTBsbTAxSmRrblNiOUszQk16MWhtYndSeW0wWHhlRmh5MnBaZGt2VVF3MVNoRU5vVWt5T1A2TmNMb3pZQ0EzNURDblVYdmNkWkVkaWdpdFQtdWI1cXh2ZU1tb2NHVFQ5WUYxWUVWOW5OTjcwNjhOUVlEcDItZkFDSWdwUldyYjNzUHN3?oc=5",
-      "published": "Fri, 01 May 2026 16:57:27 GMT",
-      "published_iso": "2026-05-01T16:57:27+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news",
-      "hours_since_published": 30.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": [
-          "earbuds"
-        ]
-      },
-      "_score": 243,
-      "display_title": "The 'best-sounding earbuds I've used...",
-      "tags": [
-        "🎧 耳机音频",
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "亚马逊上耳塞产品降价，需迅速抓住电商销售机会。",
-      "suggested_action": "加强促销活动，提升产品曝光率，吸引消费者购买。"
+      "business_note": "Lululemon、Apple、Best Buy高管变动将影响电商策略，需关注市场反应。",
+      "suggested_action": "加强与Best Buy的合作，优化电商渠道策略，提升品牌曝光。"
     }
   ],
   "products": [
@@ -1207,7 +1205,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1pfQVkxYkhCbU0tbGhtaUxzeU92YU1nYUNneVh5RXFnTVRoQ21ncFh0Wm9DQmluaFljLU4wUUhpNjFrT1QtTHlaeXRwV0JMSnY3ck0xdDBlZGtTSTZVMEROR0JqYS14aXc2aDZWeDNWbmxmNHQ3Z0RhUHViQnJPOVhjN0M5RTgxUVJUcmRBQ1hYTnZBUjUyZ1hWN0I?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 90,
-      "hours_since_published": 24.2,
+      "hours_since_published": 25.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1220,17 +1218,17 @@
         ]
       },
       "display_title": "Shokz OpenRun Pro 2 Bone Conduction...",
-      "display_summary": "北美消费电子市场持续增长，预计未来几年将保持强劲势头，推动相关企业业绩提升。",
+      "display_summary": "某公司推出新款智能手机，搭载先进处理器和增强摄像头，预计将提升市场竞争力。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "北美消费电子市场持续增长，预计未来几年将保持强劲势头，推动相关企业业绩提升。",
+      "product_intro": "某公司推出新款智能手机，搭载先进处理器和增强摄像头，预计将提升市场竞争力。",
       "importance": "高",
-      "business_note": "Shokz OpenRun Pro 2 骨传导耳机适合户外运动，提升品牌影响力。",
-      "suggested_action": "加强电商平台推广，吸引运动爱好者关注。"
+      "business_note": "Shokz OpenRun Pro 2耳机在市场上具有较高的品牌认知度，适合进行品牌营销推广。",
+      "suggested_action": "建议通过电商平台加强Shokz品牌的线上推广，提升销量。"
     },
     {
       "name": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
@@ -1240,7 +1238,7 @@
       "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.5,
+      "hours_since_published": 5.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1248,7 +1246,7 @@
         "categories": []
       },
       "display_title": "Meta&#8217;s historic loss in court...",
-      "display_summary": "新墨西哥州检察长Raúl Torrez在与Meta的儿童安全案件中赢得3.75亿美元赔偿，后",
+      "display_summary": "新墨西哥州检察长Raúl Torrez在针对Meta的儿童安全案件中赢得3.75亿美元赔偿，",
       "tags": [
         "🚀 新品"
       ],
@@ -1256,8 +1254,8 @@
       "judgement_label": "业务观察",
       "product_intro": "新墨西哥州检察长Raúl。",
       "importance": "高",
-      "business_note": "Meta在儿童安全案件中的巨额损失可能影响品牌形象和市场份额。",
-      "suggested_action": "加强品牌营销策略，提升用户信任，避免负面影响。"
+      "business_note": "Meta在儿童安全案件中的巨额损失将影响品牌形象和市场信任。",
+      "suggested_action": "加强品牌营销策略，提升用户信任与品牌形象。"
     },
     {
       "name": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
@@ -1267,7 +1265,7 @@
       "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.1,
+      "hours_since_published": 6.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1283,8 +1281,8 @@
       "judgement_label": "业务观察",
       "product_intro": "超低成本航空公司Spirit。",
       "importance": "高",
-      "business_note": "Spirit Airlines 关闭运营，影响品牌形象及市场信任度。",
-      "suggested_action": "加强品牌营销，提升消费者信心，避免负面影响。"
+      "business_note": "Spirit Airlines停运将影响品牌形象，需及时调整营销策略。",
+      "suggested_action": "加强品牌宣传，提升消费者信任，避免负面影响。"
     },
     {
       "name": "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15",
@@ -1294,7 +1292,7 @@
       "url": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 9.0,
+      "hours_since_published": 10.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1302,16 +1300,16 @@
         "categories": []
       },
       "display_title": "Anker’s discounted 2-in-1 USB-C cable...",
-      "display_summary": "2合1 USB-C充电线非常实用，适合同时为多台USB-C设备充电，满足日益增长的设备需求。",
+      "display_summary": "2合1 USB-C充电线非常实用，适合同时为多台USB-C设备充电，满足日常需求。",
       "tags": [
         "💰 价格促销"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "价格促销",
-      "product_intro": "2合1。",
+      "product_intro": "2合1 USB-C充电线非常实用，适合同时为多台USB-C设备充电，满足日常需求。",
       "importance": "中",
-      "business_note": "Anker的2合1 USB-C线缆折扣吸引消费者，提升品牌曝光。",
-      "suggested_action": "加强电商平台推广，利用折扣吸引更多用户购买。"
+      "business_note": "Anker的2合1 USB-C线缆折扣促销有助于提升品牌知名度。",
+      "suggested_action": "利用社交媒体推广该产品，吸引更多消费者关注。"
     },
     {
       "name": "Apple raises the Mac Mini&#8217;s starting price",
@@ -1321,7 +1319,7 @@
       "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
       "source": "The Verge",
       "_score": 36,
-      "hours_since_published": 25.1,
+      "hours_since_published": 26.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1329,17 +1327,17 @@
         "categories": []
       },
       "display_title": "Apple raises the Mac Mini&#8217;s...",
-      "display_summary": "苹果Mac Mini起售价为799美元，256GB存储的599美元选项已从在线商店下架。",
+      "display_summary": "苹果Mac Mini起售价为799美元，256GB存储选项已从线上商店下架。",
       "tags": [
         "🛒 渠道零售",
         "💰 价格促销"
       ],
       "impact_area": "渠道销售",
       "judgement_label": "渠道动态",
-      "product_intro": "苹果Mac。",
+      "product_intro": "苹果Mac Mini起售价为799美元，256GB存储选项已从线上商店下架。",
       "importance": "高",
-      "business_note": "Mac Mini价格上涨可能影响渠道销售，需关注市场反应。",
-      "suggested_action": "加强电商和品牌营销，提升消费者对新价格的接受度。"
+      "business_note": "Mac Mini起售价上调，可能影响渠道销售策略和消费者购买决策。",
+      "suggested_action": "调整渠道销售策略，重点推广新定价的Mac Mini以吸引消费者。"
     },
     {
       "name": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
@@ -1349,7 +1347,7 @@
       "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
       "source": "The Verge",
       "_score": 35,
-      "hours_since_published": 5.9,
+      "hours_since_published": 7.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1357,16 +1355,16 @@
         "categories": []
       },
       "display_title": "Aura’s delightful Aspen photo frame is...",
-      "display_summary": "Aura数字相框如同活的相册，适合母亲节赠送，目前多款产品正进行促销。",
+      "display_summary": "Aura数字相框如同不断升级的活照片册，适合母亲节赠送，目前多款产品正进行促销。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "价格促销",
-      "product_intro": "Aura数字相框如同活的相册，适合母亲节赠送，目前多款产品正进行促销。",
-      "importance": "中",
-      "business_note": "Aura的数字相框促销活动有助于提升品牌知名度和销售额。",
-      "suggested_action": "利用此次促销加强电商平台的广告投放，吸引更多消费者。"
+      "product_intro": "Aura数字相框如同不断升级的活照片册，适合母亲节赠送，目前多款产品正进行促销。",
+      "importance": "高",
+      "business_note": "Aura的数字相框促销活动可提升品牌知名度，吸引消费者关注。",
+      "suggested_action": "利用社交媒体推广此次促销，增加电商销售转化率。"
     }
   ],
   "monitored_entities": [
@@ -1383,7 +1381,7 @@
           "published_iso": "2026-04-28T23:23:43+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 95.5,
+          "hours_since_published": 96.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1403,40 +1401,36 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Walmart与Amazon的合作加深，数据驱动定价将影响电商竞争格局。",
-          "suggested_action": "建议加强电商平台的数据分析能力，以应对竞争。"
+          "suggested_action": "加强电商平台的价格监测与调整策略，提升市场竞争力。"
         },
         {
-          "title": "Forget DJI Osmo, GoPro Clears Out HERO12 Black Action Camera at Below Black Friday Price on Amazon - Gizmodo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNazVZaWszVWdCUDVVdlpRQUt0SFZQU1hMcGRTNDhQWHJJVFJ1X3gxNURzbFFPZm9ndFpqd1AzdzlWRFM0cHJnbTBvSGlZTl9LWjJuZVZ1RWp0N241YnNCYU5BdVZJNENMZ1VvSHpVLU9xOFpPWnVPaVc3bHNsRWQ3SEdsM2xKRjduOVdwUUVvd0swTENlakZPQjljY0NWVnJodUJzbkh6SUZkbUJOLWE2QzI4Z2FPSV93QWczbFRPVFNMc2xjZm5V?o",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazVZaWszVWdCUDVVdlpRQUt0SFZQU1hMcGRTNDhQWHJJVFJ1X3gxNURzbFFPZm9ndFpqd1AzdzlWRFM0cHJnbTBvSGlZTl9LWjJuZVZ1RWp0N241YnNCYU5BdVZJNENMZ1VvSHpVLU9xOFpPWnVPaVc3bHNsRWQ3SEdsM2xKRjduOVdwUUVvd0swTENlakZPQjljY0NWVnJodUJzbkh6SUZkbUJOLWE2QzI4Z2FPSV93QWczbFRPVFNMc2xjZm5V?oc=5",
-          "published": "Fri, 01 May 2026 13:32:27 GMT",
-          "published_iso": "2026-05-01T13:32:27+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 33.4,
+          "title": "Some pantry staples are cheaper on Amazon — here's what to buy - Yahoo Creators",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhTdTZuWTltSmwwMm95Y0lOVUlIOGtkTU1BZHhBczNwRm9PQ0tfeHdqLVpCS0tNMWhabVlFdzZDMW0zckFuS1cxbFVlSFlSenpMOWtTc2tFcmJLdkpwbkdOaFpOelpsendRUVl3cy1jT0dwWXR3cEk2TFBLYkJGTHAwcVZCQXRLMlRkVERqUVhhYjJOMHQ2OWQ0V3NjT0xYaDgyQ2cySGdKbkFlT0x3WFRRUnQ1MzBTc1E?oc=5\" target=\"_bla",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhTdTZuWTltSmwwMm95Y0lOVUlIOGtkTU1BZHhBczNwRm9PQ0tfeHdqLVpCS0tNMWhabVlFdzZDMW0zckFuS1cxbFVlSFlSenpMOWtTc2tFcmJLdkpwbkdOaFpOelpsendRUVl3cy1jT0dwWXR3cEk2TFBLYkJGTHAwcVZCQXRLMlRkVERqUVhhYjJOMHQ2OWQ0V3NjT0xYaDgyQ2cySGdKbkFlT0x3WFRRUnQ1MzBTc1E?oc=5",
+          "published": "Thu, 30 Apr 2026 15:59:41 GMT",
+          "published_iso": "2026-04-30T15:59:41+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 56.0,
           "freshness_label": "近3天",
           "monitor_hits": {
-            "brands": [
-              "DJI"
-            ],
+            "brands": [],
             "channels": [
-              "Amazon"
+              "Amazon",
+              "Target"
             ],
-            "categories": [
-              "action camera"
-            ]
+            "categories": []
           },
-          "_score": 244,
-          "display_title": "Forget DJI Osmo, GoPro Clears Out...",
+          "_score": 267,
+          "display_title": "Some pantry staples are cheaper on...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🚁 无人机影像"
+            "🛒 渠道零售",
+            "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "GoPro在亚马逊上以低于黑五价格清理HERO12 Black，影响电商销售。",
-          "suggested_action": "建议加大品牌营销力度，提升GoPro产品的市场竞争力。"
+          "business_note": "亚马逊上的一些日常必需品价格更低，影响电商销售策略。",
+          "suggested_action": "优化电商平台的价格策略，提升竞争力。"
         }
       ]
     },
@@ -1453,7 +1447,7 @@
           "published_iso": "2026-04-30T18:44:59+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 52.2,
+          "hours_since_published": 53.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1471,8 +1465,8 @@
           ],
           "impact_area": "电商",
           "importance": "中",
-          "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商销售策略。",
-          "suggested_action": "加强与零售渠道的合作，确保热门商品的库存和宣传。"
+          "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商渠道的库存管理。",
+          "suggested_action": "建议加强与Best Buy和Target的合作，确保热门商品的供应链稳定。"
         },
         {
           "title": "Best Buy’s retail media vision blends stores, data and AI at scale - The Drum",
@@ -1482,7 +1476,7 @@
           "published_iso": "2026-04-27T16:15:48+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 126.7,
+          "hours_since_published": 127.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1500,7 +1494,7 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Best Buy通过零售媒体整合门店、数据和AI，提升电商销售潜力。",
-          "suggested_action": "建议加强与Best Buy的合作，利用其数据驱动的营销策略。"
+          "suggested_action": "建议加强与Best Buy的合作，利用其数据和AI优化电商营销策略。"
         }
       ]
     },
@@ -1517,7 +1511,7 @@
           "published_iso": "2026-04-28T12:00:46+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 106.9,
+          "hours_since_published": 108.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1537,8 +1531,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "DJI Mic Mini 2 以更低价格吸引消费者，提升品牌竞争力。",
-          "suggested_action": "加强电商平台推广，利用价格优势吸引更多用户。"
+          "business_note": "DJI Mic Mini 2 以更低价格吸引消费者，有助于提升电商销售。",
+          "suggested_action": "加强电商平台的推广，利用价格优势吸引目标客户。"
         },
         {
           "title": "Forget DJI Osmo, GoPro Clears Out HERO12 Black Action Camera at Below Black Friday Price on Amazon - Gizmodo",
@@ -1548,7 +1542,7 @@
           "published_iso": "2026-05-01T13:32:27+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 33.4,
+          "hours_since_published": 34.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1570,8 +1564,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "GoPro在亚马逊上以低于黑五价格清理HERO12 Black，影响电商销售。",
-          "suggested_action": "建议加大品牌营销力度，提升GoPro产品的市场竞争力。"
+          "business_note": "GoPro在亚马逊以低于黑色星期五的价格清理HERO12 Black，影响电商销售。",
+          "suggested_action": "建议加强品牌营销，提升GoPro在电商平台的曝光率。"
         }
       ]
     },
@@ -1588,7 +1582,7 @@
           "published_iso": "2026-04-30T15:52:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 55.1,
+          "hours_since_published": 56.1,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1607,8 +1601,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sony与Bose旗舰耳机的对比将影响品牌形象和市场份额。",
-          "suggested_action": "加强品牌营销，突出产品差异化，吸引目标消费者。"
+          "business_note": "Sony与Bose旗舰耳机的对比将影响品牌营销策略，需关注消费者偏好。",
+          "suggested_action": "加强对Bose耳机的品牌推广，突出其音质优势。"
         },
         {
           "title": "Shokz OpenRun Pro 2 Bone Conduction Headphones Keep You Connected to the Trail - TechEBlog -",
@@ -1618,7 +1612,7 @@
           "published_iso": "2026-05-01T22:43:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 24.2,
+          "hours_since_published": 25.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1638,8 +1632,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz OpenRun Pro 2耳机在市场上具有较高的品牌影响力，适合进行品牌营销。",
-          "suggested_action": "加强电商平台的推广，提升品牌曝光率和销售转化。"
+          "business_note": "Shokz OpenRun Pro 2 骨传导耳机提升品牌知名度，适合户外运动用户。",
+          "suggested_action": "加大电商推广力度，针对运动爱好者进行精准营销。"
         }
       ]
     },
@@ -1656,7 +1650,7 @@
           "published_iso": "2026-05-01T22:43:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 24.2,
+          "hours_since_published": 25.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1676,8 +1670,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz OpenRun Pro 2耳机在市场上具有较高的品牌影响力，适合进行品牌营销。",
-          "suggested_action": "加强电商平台的推广，提升品牌曝光率和销售转化。"
+          "business_note": "Shokz OpenRun Pro 2 骨传导耳机提升品牌知名度，适合户外运动用户。",
+          "suggested_action": "加大电商推广力度，针对运动爱好者进行精准营销。"
         },
         {
           "title": "Save $40 Off Our Favorite Bone-Conduction Headphones With This Shokz OpenRun Pro 2 Deal - CNET",
@@ -1687,7 +1681,7 @@
           "published_iso": "2026-04-29T12:44:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 82.2,
+          "hours_since_published": 83.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1708,85 +1702,15 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Shokz骨传导耳机降价，有助于提升电商销量和品牌知名度。",
-          "suggested_action": "利用促销活动加强电商平台的品牌营销，吸引更多消费者。"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 3,
-      "items": [
-        {
-          "title": "Shokz OpenRun Pro 2 Bone Conduction Headphones Keep You Connected to the Trail - TechEBlog -",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1pfQVkxYkhCbU0tbGhtaUxzeU92YU1nYUNneVh5RXFnTVRoQ21ncFh0Wm9DQmluaFljLU4wUUhpNjFrT1QtTHlaeXRwV0JMSnY3ck0xdDBlZGtTSTZVMEROR0JqYS14aXc2aDZWeDNWbmxmNHQ3Z0RhUHViQnJPOVhjN0M5RTgxUVJUcmRBQ1hYTnZBUjUyZ1hWN0I?oc=5\" target=\"_blank\">Shokz OpenRun Pro 2 Bone Conduction ",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1pfQVkxYkhCbU0tbGhtaUxzeU92YU1nYUNneVh5RXFnTVRoQ21ncFh0Wm9DQmluaFljLU4wUUhpNjFrT1QtTHlaeXRwV0JMSnY3ck0xdDBlZGtTSTZVMEROR0JqYS14aXc2aDZWeDNWbmxmNHQ3Z0RhUHViQnJPOVhjN0M5RTgxUVJUcmRBQ1hYTnZBUjUyZ1hWN0I?oc=5",
-          "published": "Fri, 01 May 2026 22:43:00 GMT",
-          "published_iso": "2026-05-01T22:43:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 24.2,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 290,
-          "display_title": "Shokz OpenRun Pro 2 Bone Conduction...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz OpenRun Pro 2耳机在市场上具有较高的品牌影响力，适合进行品牌营销。",
-          "suggested_action": "加强电商平台的推广，提升品牌曝光率和销售转化。"
-        },
-        {
-          "title": "Save $40 Off Our Favorite Bone-Conduction Headphones With This Shokz OpenRun Pro 2 Deal - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5\" target=\"_blank\">Save $40 Off Our Favorite Bone-Conduction Headphones With This Sh",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5",
-          "published": "Wed, 29 Apr 2026 12:44:00 GMT",
-          "published_iso": "2026-04-29T12:44:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 82.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 245,
-          "display_title": "Save $40 Off Our Favorite...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Shokz骨传导耳机降价，有助于提升电商销量和品牌知名度。",
-          "suggested_action": "利用促销活动加强电商平台的品牌营销，吸引更多消费者。"
+          "business_note": "Shokz骨传导耳机降价，有助于提升电商销售和品牌知名度。",
+          "suggested_action": "加大电商推广力度，吸引更多消费者关注该产品。"
         }
       ]
     },
     {
       "name": "Target",
       "type": "渠道",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "title": "Sneak-achu? Man hidden in Best Buy raids store’s snacks before Pokémon card drop - Los Angeles Times",
@@ -1796,7 +1720,7 @@
           "published_iso": "2026-04-30T18:44:59+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 52.2,
+          "hours_since_published": 53.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1814,39 +1738,107 @@
           ],
           "impact_area": "电商",
           "importance": "中",
-          "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商销售策略。",
-          "suggested_action": "加强与零售渠道的合作，确保热门商品的库存和宣传。"
+          "business_note": "该事件反映了消费者对热门商品的强烈需求，需关注电商渠道的库存管理。",
+          "suggested_action": "建议加强与Best Buy和Target的合作，确保热门商品的供应链稳定。"
         },
         {
-          "title": "DJI Mic Mini 2 review: The tiny wireless mic is colorful and much cheaper - Engadget",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2xXb1c0eFp3N28tdjlabkVqTk1GeFFnLWNtbXdZODhBbXZjVDRQUmVNdVRHeW1EenY0bkVmQ01TRU5QMklwZzZITUVWcWdna251OXl2V0htVVNlbWsyU2J5T0R5REgwS0VyM2RiZHhfRGJUVkE2QWtZekxySmFZTThPbkdJY2I1VElEenJnN1JvSzJkbmcxRHRVaUFYcG0zNVpBNEh4UFZxRW52cDhON0ZuRHVqYzFkR2c?oc=5\" target=\"_bla",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2xXb1c0eFp3N28tdjlabkVqTk1GeFFnLWNtbXdZODhBbXZjVDRQUmVNdVRHeW1EenY0bkVmQ01TRU5QMklwZzZITUVWcWdna251OXl2V0htVVNlbWsyU2J5T0R5REgwS0VyM2RiZHhfRGJUVkE2QWtZekxySmFZTThPbkdJY2I1VElEenJnN1JvSzJkbmcxRHRVaUFYcG0zNVpBNEh4UFZxRW52cDhON0ZuRHVqYzFkR2c?oc=5",
-          "published": "Tue, 28 Apr 2026 12:00:46 GMT",
-          "published_iso": "2026-04-28T12:00:46+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 106.9,
-          "freshness_label": "近7天",
+          "title": "Some pantry staples are cheaper on Amazon — here's what to buy - Yahoo Creators",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhTdTZuWTltSmwwMm95Y0lOVUlIOGtkTU1BZHhBczNwRm9PQ0tfeHdqLVpCS0tNMWhabVlFdzZDMW0zckFuS1cxbFVlSFlSenpMOWtTc2tFcmJLdkpwbkdOaFpOelpsendRUVl3cy1jT0dwWXR3cEk2TFBLYkJGTHAwcVZCQXRLMlRkVERqUVhhYjJOMHQ2OWQ0V3NjT0xYaDgyQ2cySGdKbkFlT0x3WFRRUnQ1MzBTc1E?oc=5\" target=\"_bla",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhTdTZuWTltSmwwMm95Y0lOVUlIOGtkTU1BZHhBczNwRm9PQ0tfeHdqLVpCS0tNMWhabVlFdzZDMW0zckFuS1cxbFVlSFlSenpMOWtTc2tFcmJLdkpwbkdOaFpOelpsendRUVl3cy1jT0dwWXR3cEk2TFBLYkJGTHAwcVZCQXRLMlRkVERqUVhhYjJOMHQ2OWQ0V3NjT0xYaDgyQ2cySGdKbkFlT0x3WFRRUnQ1MzBTc1E?oc=5",
+          "published": "Thu, 30 Apr 2026 15:59:41 GMT",
+          "published_iso": "2026-04-30T15:59:41+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 56.0,
+          "freshness_label": "近3天",
           "monitor_hits": {
-            "brands": [
-              "DJI",
-              "JLab"
-            ],
+            "brands": [],
             "channels": [
+              "Amazon",
               "Target"
             ],
             "categories": []
           },
-          "_score": 253,
-          "display_title": "DJI Mic Mini 2 review: The tiny...",
+          "_score": 267,
+          "display_title": "Some pantry staples are cheaper on...",
           "tags": [
-            "🚁 无人机影像",
+            "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "DJI Mic Mini 2 以更低价格吸引消费者，提升品牌竞争力。",
-          "suggested_action": "加强电商平台推广，利用价格优势吸引更多用户。"
+          "business_note": "亚马逊上的一些日常必需品价格更低，影响电商销售策略。",
+          "suggested_action": "优化电商平台的价格策略，提升竞争力。"
+        }
+      ]
+    },
+    {
+      "name": "bone conduction",
+      "type": "品类",
+      "count": 3,
+      "items": [
+        {
+          "title": "Shokz OpenRun Pro 2 Bone Conduction Headphones Keep You Connected to the Trail - TechEBlog -",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1pfQVkxYkhCbU0tbGhtaUxzeU92YU1nYUNneVh5RXFnTVRoQ21ncFh0Wm9DQmluaFljLU4wUUhpNjFrT1QtTHlaeXRwV0JMSnY3ck0xdDBlZGtTSTZVMEROR0JqYS14aXc2aDZWeDNWbmxmNHQ3Z0RhUHViQnJPOVhjN0M5RTgxUVJUcmRBQ1hYTnZBUjUyZ1hWN0I?oc=5\" target=\"_blank\">Shokz OpenRun Pro 2 Bone Conduction ",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1pfQVkxYkhCbU0tbGhtaUxzeU92YU1nYUNneVh5RXFnTVRoQ21ncFh0Wm9DQmluaFljLU4wUUhpNjFrT1QtTHlaeXRwV0JMSnY3ck0xdDBlZGtTSTZVMEROR0JqYS14aXc2aDZWeDNWbmxmNHQ3Z0RhUHViQnJPOVhjN0M5RTgxUVJUcmRBQ1hYTnZBUjUyZ1hWN0I?oc=5",
+          "published": "Fri, 01 May 2026 22:43:00 GMT",
+          "published_iso": "2026-05-01T22:43:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 25.3,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 290,
+          "display_title": "Shokz OpenRun Pro 2 Bone Conduction...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz OpenRun Pro 2 骨传导耳机提升品牌知名度，适合户外运动用户。",
+          "suggested_action": "加大电商推广力度，针对运动爱好者进行精准营销。"
+        },
+        {
+          "title": "Save $40 Off Our Favorite Bone-Conduction Headphones With This Shokz OpenRun Pro 2 Deal - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5\" target=\"_blank\">Save $40 Off Our Favorite Bone-Conduction Headphones With This Sh",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmhqZnZodUgzazd5X3NtWUJlSEJUY0Q2ODVlWUdxel83YjFSOVlKbHBUajdoQkw0RHMwOTY3RGotaXFrVl9Qb1RIZEl5RUpIekNZS05tRWw3MzE4b1VoMFZlY0Ixa252ejVESFh3amlIbUhMWTlBMmQ1VjFDYjBqUWhwUnN6dw?oc=5",
+          "published": "Wed, 29 Apr 2026 12:44:00 GMT",
+          "published_iso": "2026-04-29T12:44:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 83.3,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 245,
+          "display_title": "Save $40 Off Our Favorite...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Shokz骨传导耳机降价，有助于提升电商销售和品牌知名度。",
+          "suggested_action": "加大电商推广力度，吸引更多消费者关注该产品。"
         }
       ]
     },
@@ -1863,7 +1855,7 @@
           "published_iso": "2026-05-01T13:32:27+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 33.4,
+          "hours_since_published": 34.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1885,8 +1877,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "GoPro在亚马逊上以低于黑五价格清理HERO12 Black，影响电商销售。",
-          "suggested_action": "建议加大品牌营销力度，提升GoPro产品的市场竞争力。"
+          "business_note": "GoPro在亚马逊以低于黑色星期五的价格清理HERO12 Black，影响电商销售。",
+          "suggested_action": "建议加强品牌营销，提升GoPro在电商平台的曝光率。"
         },
         {
           "title": "The best action camera: we've tested the top models by GoPro, Insta360, DJI and more - TechRadar",
@@ -1896,7 +1888,7 @@
           "published_iso": "2026-04-28T13:28:12+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 105.5,
+          "hours_since_published": 106.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1916,28 +1908,28 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "针对DJI品牌的行动相机市场，需加强品牌营销以提升市场份额。",
-          "suggested_action": "建议加大电商平台的广告投放，提升品牌曝光度。"
+          "business_note": "DJI在运动相机市场表现突出，需加强品牌营销以提升市场份额。",
+          "suggested_action": "建议加大电商平台的推广力度，吸引更多消费者关注DJI运动相机。"
         }
       ]
     }
   ],
   "takeaways": [
-    "Best Buy的零售媒体战略将提升其广告收入，未来或成为电商平台的重要竞争者。",
-    "随着Walmart测试数据驱动定价，市场竞争将加剧，消费者将受益于更具吸引力的价格。",
-    "Sony与Bose的竞争愈演愈烈，消费者在选择耳机时需关注品牌差异与性价比。",
-    "Shokz新款骨传导耳机可能会吸引运动爱好者，市场需求将推动其销量增长。",
-    "GoPro清理库存策略显示出其对市场份额的焦虑，竞争对手需抓住这一机会。"
+    "Best Buy的零售媒体策略将提升其电商平台的竞争力，值得关注其后续效果。",
+    "随着Walmart测试数据驱动定价，北美电商市场将迎来更激烈的价格竞争。",
+    "Sony与Bose的竞争加剧，消费者在选择高端耳机时将面临更多困惑。",
+    "Shokz新款骨传导耳机可能吸引运动爱好者，品牌需加强市场推广以扩大影响力。",
+    "DJI Mic Mini 2的上市将挑战传统麦克风市场，需关注其在专业用户中的接受度。"
   ],
   "opportunity_signals": [
-    "消费者对热门商品的强烈需求表明，电商销售策略需快速调整，以提升市场份额和客户满意度。",
-    "Sony与Bose旗舰耳机的对比将直接影响品牌形象，需制定针对性的市场营销策略以增强竞争力。",
-    "Best Buy通过整合零售媒体和AI技术提升电商销售潜力，建议加大投资以优化线上购物体验。"
+    "消费者对热门商品的强烈需求表明，电商渠道的库存管理亟需优化，以提升销售效率和客户满意度。",
+    "Sony与Bose旗舰耳机的对比揭示了品牌偏好的变化，建议调整营销策略以更好地满足消费者需求。",
+    "Best Buy通过零售媒体整合提升电商销售潜力，建议加大对这一创新模式的投资，以增强市场竞争力。"
   ],
   "risk_signals": [
-    "Best Buy在电商渠道的表现不佳，可能导致整体销售下滑，需及时调整销售策略以应对竞争压力。",
-    "高管变动可能影响电商策略的连贯性，需密切关注竞争对手的动态以保持市场优势。",
-    "Walmart与Amazon的合作加深，数据驱动定价将加剧市场竞争，需评估自身定价策略的灵活性与应对能力。"
+    "Best Buy在电商渠道表现不佳，可能导致市场份额流失，需及时调整策略以应对竞争压力。",
+    "亚马逊日常必需品价格更低，可能削弱Best Buy的电商销售策略，需加强价格竞争力。",
+    "高管变动可能影响Best Buy的电商战略方向，需密切关注市场反应以降低潜在风险。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

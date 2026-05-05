@@ -10,6 +10,24 @@
       "_score": 24
     },
     {
+      "name": "Valve just imported 50 tons of game consoles in two days",
+      "summary": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records ",
+      "date": "2026-05-04T19:58:44-04:00",
+      "published_iso": "2026-05-04T23:58:44+00:00",
+      "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct exami",
+      "date": "2026-05-04T19:49:33-04:00",
+      "published_iso": "2026-05-04T23:49:33+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
       "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own lawsuit against Sam Altman continues to play out. A week be",
       "date": "2026-05-04T18:11:17-04:00",
@@ -82,24 +100,6 @@
       "_score": 20
     },
     {
-      "name": "Dara Khosrowshahi on replacing Uber drivers — and himself — with AI",
-      "summary": "Today, I’m talking with Uber CEO Dara Khosrowshahi. It’s become something of an annual tradition to have Dara join us in the studio when he comes to New York for Uber’s big GO-GET event every year, and it’s always a lot of fun. The big news this year is that D",
-      "date": "2026-05-04T10:30:00-04:00",
-      "published_iso": "2026-05-04T14:30:00+00:00",
-      "url": "https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Tesla hits Musk’s threshold for ‘safe unsupervised’ driving",
-      "summary": "We've crossed yet another one of Elon Musk's self-driving thresholds. Tesla's fleet of vehicles using the company's Full Self-Driving (Supervised) system has driven over 10 billion miles, according to the company's updated safety page. That means the company h",
-      "date": "2026-05-04T10:28:01-04:00",
-      "published_iso": "2026-05-04T14:28:01+00:00",
-      "url": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "US government warns of severe CopyFail bug affecting major versions of Linux",
       "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
       "date": "Mon, 04 May 2026 22:21:32",
@@ -109,11 +109,11 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1777935916,
+  "fetched_at": 1777939602,
   "stats": {
     "source_count": 7,
-    "raw_count": 119,
-    "deduped_count": 119,
+    "raw_count": 118,
+    "deduped_count": 118,
     "kept_count": 12
   }
 }

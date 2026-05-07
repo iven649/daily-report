@@ -10,6 +10,15 @@
       "_score": 24
     },
     {
+      "name": "Musk’s biggest loyalist became his biggest liability",
+      "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's chil",
+      "date": "2026-05-06T19:37:02-04:00",
+      "published_iso": "2026-05-06T23:37:02+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Nintendo announces a new Star Fox for the Switch 2",
       "summary": "It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, simply, Star Fox, and it's out very soon, launching on June 25th.",
       "date": "2026-05-06T18:07:46-04:00",
@@ -91,15 +100,6 @@
       "_score": 20
     },
     {
-      "name": "The best beauty tech you can still grab in time for Mother’s Day",
-      "summary": "If you’re looking to indulge mom this Mother’s Day, a gift that makes her feel a little more taken care of is a good place to start. Fortunately, if you’re looking for something to make her feel pampered, we know a thing or two about beauty tech, which can del",
-      "date": "2026-05-06T12:30:00-04:00",
-      "published_iso": "2026-05-06T16:30:00+00:00",
-      "url": "https://www.theverge.com/gadgets/923581/best-mothers-day-beauty-tech-gift-ideas-2026",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
       "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
       "date": "Wed, 06 May 2026 22:30:00",
@@ -109,11 +109,11 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1778108448,
+  "fetched_at": 1778112148,
   "stats": {
     "source_count": 7,
-    "raw_count": 111,
-    "deduped_count": 111,
+    "raw_count": 116,
+    "deduped_count": 116,
     "kept_count": 12
   }
 }

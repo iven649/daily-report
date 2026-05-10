@@ -1,24 +1,24 @@
 {
-  "date": "2026-05-10",
-  "generated_at": "2026-05-10 08:02:33 CST",
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11 07:01:17 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
     {
-      "slug": "mothers-day",
-      "name": "母亲节",
+      "slug": "memorial-day",
+      "name": "Memorial Day",
       "market": "US",
       "type": "holiday",
       "priority": 4,
       "rule": "nth_weekday",
       "month": 5,
-      "weekday": 6,
-      "nth": 2,
-      "icon": "🌸",
-      "date": "2026-05-10",
-      "countdown": 0,
+      "weekday": 0,
+      "nth": -1,
+      "icon": "🇺🇸",
+      "date": "2026-05-25",
+      "countdown": 14,
       "year": 2026,
-      "origin": "母亲节是美国市场的重要节日或零售节点。",
+      "origin": "Memorial Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
       "customs": [
         "家庭消费",
@@ -35,20 +35,20 @@
       "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
     },
     {
-      "slug": "memorial-day",
-      "name": "Memorial Day",
+      "slug": "fathers-day",
+      "name": "父亲节",
       "market": "US",
       "type": "holiday",
-      "priority": 4,
+      "priority": 3,
       "rule": "nth_weekday",
-      "month": 5,
-      "weekday": 0,
-      "nth": -1,
-      "icon": "🇺🇸",
-      "date": "2026-05-25",
-      "countdown": 15,
+      "month": 6,
+      "weekday": 6,
+      "nth": 3,
+      "icon": "👔",
+      "date": "2026-06-21",
+      "countdown": 41,
       "year": 2026,
-      "origin": "Memorial Day是美国市场的重要节日或零售节点。",
+      "origin": "父亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
       "customs": [
         "家庭消费",
@@ -75,7 +75,7 @@
       "day": 18,
       "icon": "📦",
       "date": "2026-06-18",
-      "countdown": 39,
+      "countdown": 38,
       "year": 2026,
       "origin": "618是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -102,7 +102,7 @@
       "day": 15,
       "icon": "⚡",
       "date": "2026-07-15",
-      "countdown": 66,
+      "countdown": 65,
       "year": 2026,
       "origin": "Prime Day是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -121,36 +121,6 @@
   ],
   "festival_pages": [
     {
-      "slug": "mothers-day",
-      "name": "母亲节",
-      "market": "US",
-      "type": "holiday",
-      "priority": 4,
-      "rule": "nth_weekday",
-      "month": 5,
-      "weekday": 6,
-      "nth": 2,
-      "icon": "🌸",
-      "date": "2026-05-10",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "母亲节是美国市场的重要节日或零售节点。",
-      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
-      "customs": [
-        "家庭消费",
-        "礼品采购",
-        "平台促销",
-        "线下零售活动"
-      ],
-      "consumption": [
-        "礼赠类消费",
-        "平台大促",
-        "家庭出行与户外",
-        "零售门店活动"
-      ],
-      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
-    },
-    {
       "slug": "memorial-day",
       "name": "Memorial Day",
       "market": "US",
@@ -162,7 +132,7 @@
       "nth": -1,
       "icon": "🇺🇸",
       "date": "2026-05-25",
-      "countdown": 15,
+      "countdown": 14,
       "year": 2026,
       "origin": "Memorial Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -191,7 +161,7 @@
       "day": 18,
       "icon": "📦",
       "date": "2026-06-18",
-      "countdown": 39,
+      "countdown": 38,
       "year": 2026,
       "origin": "618是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -218,7 +188,7 @@
       "day": 19,
       "icon": "🚣",
       "date": "2026-06-19",
-      "countdown": 40,
+      "countdown": 39,
       "year": 2026,
       "origin": "端午节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -246,7 +216,7 @@
       "nth": 3,
       "icon": "👔",
       "date": "2026-06-21",
-      "countdown": 42,
+      "countdown": 41,
       "year": 2026,
       "origin": "父亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -275,7 +245,7 @@
       "day": 4,
       "icon": "🎆",
       "date": "2026-07-04",
-      "countdown": 55,
+      "countdown": 54,
       "year": 2026,
       "origin": "独立日是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -304,7 +274,7 @@
       "day": 15,
       "icon": "⚡",
       "date": "2026-07-15",
-      "countdown": 66,
+      "countdown": 65,
       "year": 2026,
       "origin": "Prime Day是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -331,7 +301,7 @@
       "day": 15,
       "icon": "🎒",
       "date": "2026-08-15",
-      "countdown": 97,
+      "countdown": 96,
       "year": 2026,
       "origin": "返校季是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -358,7 +328,7 @@
       "day": 19,
       "icon": "💗",
       "date": "2026-08-19",
-      "countdown": 101,
+      "countdown": 100,
       "year": 2026,
       "origin": "七夕是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -386,7 +356,7 @@
       "nth": 1,
       "icon": "🛍️",
       "date": "2026-09-07",
-      "countdown": 120,
+      "countdown": 119,
       "year": 2026,
       "origin": "Labor Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -415,7 +385,7 @@
       "day": 25,
       "icon": "🌕",
       "date": "2026-09-25",
-      "countdown": 138,
+      "countdown": 137,
       "year": 2026,
       "origin": "中秋节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -442,7 +412,7 @@
       "day": 1,
       "icon": "🇨🇳",
       "date": "2026-10-01",
-      "countdown": 144,
+      "countdown": 143,
       "year": 2026,
       "origin": "国庆节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -469,7 +439,7 @@
       "day": 31,
       "icon": "🎃",
       "date": "2026-10-31",
-      "countdown": 174,
+      "countdown": 173,
       "year": 2026,
       "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -498,7 +468,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 185,
+      "countdown": 184,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -526,7 +496,7 @@
       "nth": 4,
       "icon": "🦃",
       "date": "2026-11-26",
-      "countdown": 200,
+      "countdown": 199,
       "year": 2026,
       "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -555,7 +525,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 201,
+      "countdown": 200,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -582,7 +552,7 @@
       "offset_days": 4,
       "icon": "💻",
       "date": "2026-11-30",
-      "countdown": 204,
+      "countdown": 203,
       "year": 2026,
       "origin": "网一是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -609,7 +579,7 @@
       "day": 12,
       "icon": "🧾",
       "date": "2026-12-12",
-      "countdown": 216,
+      "countdown": 215,
       "year": 2026,
       "origin": "双12是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -636,7 +606,7 @@
       "day": 25,
       "icon": "🎄",
       "date": "2026-12-25",
-      "countdown": 229,
+      "countdown": 228,
       "year": 2026,
       "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -665,7 +635,7 @@
       "day": 14,
       "icon": "❤️",
       "date": "2027-02-14",
-      "countdown": 280,
+      "countdown": 279,
       "year": 2027,
       "origin": "情人节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -682,6 +652,33 @@
         "零售门店活动"
       ],
       "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "spring-festival",
+      "name": "春节",
+      "market": "CN",
+      "type": "traditional",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 2,
+      "day": 17,
+      "icon": "🧧",
+      "date": "2027-02-17",
+      "countdown": 282,
+      "year": 2027,
+      "origin": "春节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
     }
   ],
   "us_timezones": [
@@ -718,7 +715,7 @@
     "published_iso": "2026-05-05T12:00:00+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 108.0,
+    "hours_since_published": 131.0,
     "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
@@ -737,9 +734,9 @@
     "impact_area": "电商",
     "importance": "高",
     "business_note": "Vori获得2200万美元融资，助力独立零售商与大型电商竞争，影响电商市场格局。",
-    "suggested_action": "建议加强电商平台的品牌营销，提升独立零售商的竞争力。"
+    "suggested_action": "加强与独立零售商的合作，提升品牌在电商平台的曝光率。"
   },
-  "lead_summary": "AI食品零售初创公司Vori融资成功，将加剧电商市场竞争，传统零售需加速转型应对",
+  "lead_summary": "Vori融资成功，助力独立零售商抗衡电商巨头，市场竞争格局将迎来重大变化。",
   "headline_trio": [
     {
       "title": "Exclusive: AI grocery startup Vori raises $22 million to help independent retailers compete with Walmart and Amazon - Fortune",
@@ -749,7 +746,7 @@
       "published_iso": "2026-05-05T12:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 108.0,
+      "hours_since_published": 131.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -768,35 +765,36 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Vori获得2200万美元融资，助力独立零售商与大型电商竞争，影响电商市场格局。",
-      "suggested_action": "建议加强电商平台的品牌营销，提升独立零售商的竞争力。"
+      "suggested_action": "加强与独立零售商的合作，提升品牌在电商平台的曝光率。"
     },
     {
-      "title": "Ecommerce Trends: How online retailers compete against Amazon - Digital Commerce 360",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOU",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOURaaEc1VWdwQnFGOXBrQ1NhVHRIUVo0N3VKdlZoWVlxSkxUTVdtX3dEVks5dEhfZGJKVk1WaTFIMHp5alNJOXJ5ckVsaWpwRExHSWhOYXQ0VFZtOTJnNlA0VldlNlhNamFBWHVvREZuelZVd2dqc2YwRERWMlhYSDVFeUl0RWl3RGVJOVpOS1B3eHhxbm1nQ1FrUFVLVl8?oc=5",
-      "published": "Thu, 07 May 2026 18:52:38 GMT",
-      "published_iso": "2026-05-07T18:52:38+00:00",
+      "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbWRHUVppWDdoQmE0MUpac1NHQmFSZFZDRmNPSW5OM0lyWkMzMk9HdEhZT2daMDVscW9IbHdUemF6dFlZWW9YTkducU0wd3lKc2JaTUdB0gFbQVVfeXFMT0FFalE4MS1uUnlhY2pfTlVvSDI2UVlXSGpUaDFzTTZhZUZiNlhFZTdoVWV2Q2ZpZzNRanBsSFhYYkp3azZyY21LSDZaNHFCOEFtOVJ5VnNSWXBiQQ?oc=5\" target=\"_blank\">Targe",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbWRHUVppWDdoQmE0MUpac1NHQmFSZFZDRmNPSW5OM0lyWkMzMk9HdEhZT2daMDVscW9IbHdUemF6dFlZWW9YTkducU0wd3lKc2JaTUdB0gFbQVVfeXFMT0FFalE4MS1uUnlhY2pfTlVvSDI2UVlXSGpUaDFzTTZhZUZiNlhFZTdoVWV2Q2ZpZzNRanBsSFhYYkp3azZyY21LSDZaNHFCOEFtOVJ5VnNSWXBiQQ?oc=5",
+      "published": "Sun, 10 May 2026 12:00:01 GMT",
+      "published_iso": "2026-05-10T12:00:01+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 53.2,
-      "freshness_label": "近3天",
+      "hours_since_published": 11.0,
+      "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Amazon"
+          "Walmart",
+          "Target"
         ],
         "categories": []
       },
-      "_score": 265,
-      "display_title": "Ecommerce Trends: How online retailers...",
+      "_score": 282,
+      "display_title": "Target is trying to win back busy...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "电商竞争加剧，需加强品牌差异化以对抗亚马逊。",
-      "suggested_action": "优化电商平台营销策略，提升用户体验和品牌认知。"
+      "business_note": "Target正试图通过婴儿用品吸引忙碌家庭，挑战Walmart的市场份额。",
+      "suggested_action": "加强电商平台的婴儿用品推广，提升品牌曝光度。"
     },
     {
       "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
@@ -806,7 +804,7 @@
       "published_iso": "2026-05-06T16:15:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 79.8,
+      "hours_since_published": 102.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -824,8 +822,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Old Navy引入零售和娱乐专家，旨在提升品牌形象和销售业绩。",
-      "suggested_action": "加强与Walmart和Target的合作，利用新任营销负责人的经验进行品牌推广。"
+      "business_note": "Old Navy引入零售和娱乐专家，有助于提升品牌形象和销售业绩。",
+      "suggested_action": "加强与Walmart和Target的合作，优化电商渠道营销策略。"
     }
   ],
   "consumer_electronics": [
@@ -837,7 +835,7 @@
       "published_iso": "2026-05-05T07:28:45+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 112.6,
+      "hours_since_published": 135.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -856,7 +854,7 @@
       "impact_area": "品牌营销",
       "importance": "中",
       "business_note": "骨传导耳机市场潜力大，需加强品牌营销以提升认知度。",
-      "suggested_action": "建议开展针对骨传导耳机的线上推广活动，吸引目标用户。"
+      "suggested_action": "建议开展针对骨传导耳机的线上推广活动，提升品牌曝光。"
     },
     {
       "title": "There's a new top dog in our best Sony earbuds guide - What Hi-Fi?",
@@ -866,7 +864,7 @@
       "published_iso": "2026-05-06T13:57:32+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 82.1,
+      "hours_since_published": 105.1,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -885,8 +883,37 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony耳机在市场上获得了新的认可，提升品牌形象。",
-      "suggested_action": "加大对Sony耳机的电商推广力度，吸引更多消费者关注。"
+      "business_note": "Sony耳机在市场上获得了新的认可，有助于提升品牌形象和销售。",
+      "suggested_action": "加强电商平台的Sony耳机推广，提升品牌曝光率。"
+    },
+    {
+      "title": "My Favorite Bone-Conduction Headphones Are $40 Off Right Now - Lifehacker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE4tOEFORlFuU29nTG1sb1FSV19pNGlNV3E4Y3NoMFl5dWljVFJ4cTV3ZEdZMDRjbm5zNkpWMjdkaTI3NEM0Ykl0bFByTGJuSU5oUFFvYUQ5WUJtMF85YUR2WGpqdkdwVm9yQjJPU1Zn?oc=5\" target=\"_blank\">My Favorite Bone-Conduction Headphones Are $40 Off Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tOEFORlFuU29nTG1sb1FSV19pNGlNV3E4Y3NoMFl5dWljVFJ4cTV3ZEdZMDRjbm5zNkpWMjdkaTI3NEM0Ykl0bFByTGJuSU5oUFFvYUQ5WUJtMF85YUR2WGpqdkdwVm9yQjJPU1Zn?oc=5",
+      "published": "Fri, 08 May 2026 16:30:00 GMT",
+      "published_iso": "2026-05-08T16:30:00+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 54.5,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
+      },
+      "_score": 196,
+      "display_title": "My Favorite Bone-Conduction Headphones...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "骨传导耳机降价有助于提升品牌知名度和销量。",
+      "suggested_action": "利用电商平台推广此优惠，吸引更多消费者关注。"
     },
     {
       "title": "Sony in Talks to Acquire Recognition Music Group In Multibillion Dollar Deal - The Hollywood Reporter",
@@ -896,7 +923,7 @@
       "published_iso": "2026-05-06T18:11:36+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 77.8,
+      "hours_since_published": 100.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -915,36 +942,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Sony收购Recognition Music Group将增强其在音乐领域的竞争力，推动品牌影响力。",
-      "suggested_action": "建议加强与Target的合作，提升Sony品牌在电商平台的曝光率。"
-    },
-    {
-      "title": "Best waterproof headphones 2026, reviewed by a triathlete - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQjFRZm0zS29OY1JIT1F2bmdQcEZYdWpQV3ZvSl9VVjlfVVpZdEJOM3ZnTElDUnIyOUFrNk5md3E2WWZ5VWI2ZXRTaW8tYXpXUzY2Ui1IMEhudl9hTThXU0JjWWxyZDFwSWFPamt3ZTY3Z0NvWTNnUXNXVWgzSm9KRmJ4cmZ6eTZBRzNHZkowRzB4RTgyMFh4V083TkQ2TlpXUHNpaXI0ejZRdkVIYThwV3lYRXZuUFFZcDlJM2xvdjVkRVRkb3Fiel",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQjFRZm0zS29OY1JIT1F2bmdQcEZYdWpQV3ZvSl9VVjlfVVpZdEJOM3ZnTElDUnIyOUFrNk5md3E2WWZ5VWI2ZXRTaW8tYXpXUzY2Ui1IMEhudl9hTThXU0JjWWxyZDFwSWFPamt3ZTY3Z0NvWTNnUXNXVWgzSm9KRmJ4cmZ6eTZBRzNHZkowRzB4RTgyMFh4V083TkQ2TlpXUHNpaXI0ejZRdkVIYThwV3lYRXZuUFFZcDlJM2xvdjVkRVRkb3FielpKY2lfQQ?oc=5",
-      "published": "Thu, 07 May 2026 09:04:00 GMT",
-      "published_iso": "2026-05-07T09:04:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 63.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 188,
-      "display_title": "Best waterproof headphones 2026...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "2026年最佳防水耳机评测将提升品牌知名度，吸引运动爱好者关注。",
-      "suggested_action": "加大电商推广力度，针对运动市场进行精准营销。"
+      "business_note": "Sony收购Recognition Music Group将增强其在音乐领域的影响力，推动品牌价值提升。",
+      "suggested_action": "建议加强与Target的合作，利用收购机会提升电商销售和品牌曝光。"
     },
     {
       "title": "Alexa+ arrives on the new Bose speakers - About Amazon",
@@ -954,7 +953,7 @@
       "published_iso": "2026-05-05T11:56:06+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 108.1,
+      "hours_since_published": 131.1,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -972,8 +971,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Alexa+与Bose音响的结合将提升用户体验，促进销售增长。",
-      "suggested_action": "加强电商平台的推广，提升品牌曝光率。"
+      "business_note": "Alexa+与Bose音响的结合将提升用户体验，推动销量增长。",
+      "suggested_action": "加强电商平台的推广，提升品牌曝光率和销售转化。"
     },
     {
       "title": "Garmin redefines luxury home audio with revolutionary new Primacy® system from JL Audio® - PR Newswire",
@@ -983,7 +982,7 @@
       "published_iso": "2026-05-05T10:58:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 109.1,
+      "hours_since_published": 132.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1000,8 +999,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Garmin推出的Primacy®系统将奢华家庭音频重新定义，提升品牌形象。",
-      "suggested_action": "加强电商平台的品牌宣传，吸引高端消费者关注。"
+      "business_note": "Garmin推出的Primacy®系统将重新定义奢华家庭音频市场，提升品牌形象。",
+      "suggested_action": "加强电商平台推广，利用品牌营销提升消费者认知度。"
     }
   ],
   "channel_news": [
@@ -1013,7 +1012,7 @@
       "published_iso": "2026-05-05T12:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 108.0,
+      "hours_since_published": 131.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1032,35 +1031,36 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Vori获得2200万美元融资，助力独立零售商与大型电商竞争，影响电商市场格局。",
-      "suggested_action": "建议加强电商平台的品牌营销，提升独立零售商的竞争力。"
+      "suggested_action": "加强与独立零售商的合作，提升品牌在电商平台的曝光率。"
     },
     {
-      "title": "Ecommerce Trends: How online retailers compete against Amazon - Digital Commerce 360",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOU",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOURaaEc1VWdwQnFGOXBrQ1NhVHRIUVo0N3VKdlZoWVlxSkxUTVdtX3dEVks5dEhfZGJKVk1WaTFIMHp5alNJOXJ5ckVsaWpwRExHSWhOYXQ0VFZtOTJnNlA0VldlNlhNamFBWHVvREZuelZVd2dqc2YwRERWMlhYSDVFeUl0RWl3RGVJOVpOS1B3eHhxbm1nQ1FrUFVLVl8?oc=5",
-      "published": "Thu, 07 May 2026 18:52:38 GMT",
-      "published_iso": "2026-05-07T18:52:38+00:00",
+      "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbWRHUVppWDdoQmE0MUpac1NHQmFSZFZDRmNPSW5OM0lyWkMzMk9HdEhZT2daMDVscW9IbHdUemF6dFlZWW9YTkducU0wd3lKc2JaTUdB0gFbQVVfeXFMT0FFalE4MS1uUnlhY2pfTlVvSDI2UVlXSGpUaDFzTTZhZUZiNlhFZTdoVWV2Q2ZpZzNRanBsSFhYYkp3azZyY21LSDZaNHFCOEFtOVJ5VnNSWXBiQQ?oc=5\" target=\"_blank\">Targe",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbWRHUVppWDdoQmE0MUpac1NHQmFSZFZDRmNPSW5OM0lyWkMzMk9HdEhZT2daMDVscW9IbHdUemF6dFlZWW9YTkducU0wd3lKc2JaTUdB0gFbQVVfeXFMT0FFalE4MS1uUnlhY2pfTlVvSDI2UVlXSGpUaDFzTTZhZUZiNlhFZTdoVWV2Q2ZpZzNRanBsSFhYYkp3azZyY21LSDZaNHFCOEFtOVJ5VnNSWXBiQQ?oc=5",
+      "published": "Sun, 10 May 2026 12:00:01 GMT",
+      "published_iso": "2026-05-10T12:00:01+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 53.2,
-      "freshness_label": "近3天",
+      "hours_since_published": 11.0,
+      "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Amazon"
+          "Walmart",
+          "Target"
         ],
         "categories": []
       },
-      "_score": 265,
-      "display_title": "Ecommerce Trends: How online retailers...",
+      "_score": 282,
+      "display_title": "Target is trying to win back busy...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "电商竞争加剧，需加强品牌差异化以对抗亚马逊。",
-      "suggested_action": "优化电商平台营销策略，提升用户体验和品牌认知。"
+      "business_note": "Target正试图通过婴儿用品吸引忙碌家庭，挑战Walmart的市场份额。",
+      "suggested_action": "加强电商平台的婴儿用品推广，提升品牌曝光度。"
     },
     {
       "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
@@ -1070,7 +1070,7 @@
       "published_iso": "2026-05-06T16:15:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 79.8,
+      "hours_since_published": 102.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1088,8 +1088,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Old Navy引入零售和娱乐专家，旨在提升品牌形象和销售业绩。",
-      "suggested_action": "加强与Walmart和Target的合作，利用新任营销负责人的经验进行品牌推广。"
+      "business_note": "Old Navy引入零售和娱乐专家，有助于提升品牌形象和销售业绩。",
+      "suggested_action": "加强与Walmart和Target的合作，优化电商渠道营销策略。"
     },
     {
       "title": "Best Buy adds rewards to its loyalty programs to lure shoppers - Retail Brew",
@@ -1099,7 +1099,7 @@
       "published_iso": "2026-05-04T21:10:57+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 122.8,
+      "hours_since_published": 145.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1116,79 +1116,19 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy通过增强忠诚度计划吸引顾客，有助于提升电商销售。",
-      "suggested_action": "建议优化电商平台的忠诚度策略，吸引更多回头客。"
+      "business_note": "Best Buy通过增强忠诚度计划吸引消费者，提升电商销售潜力。",
+      "suggested_action": "建议优化电商平台的忠诚度策略，提升用户粘性。"
     },
     {
-      "title": "Index finds cheapest day at Walmart, Target: What Texans should know - MySA",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1lVZmJXRGZVWTctdzk4eUxWejlaU05BREFvMnhtTV9HbTBZRThJTkhSTnZzSUZZSnBVZ3BSUmJDcnM2S2tGcE5Xai1NaEN3aEdlY0E5LXhKLVJYRG03VFQ4UUZ6UnBRU1RDRW00WXFUc1lITExKZnhadEpYZ1U1eHhQeXdKQQ?oc=5\" target=\"_blank\">Index finds cheapest day at Walmart, Target: What Texans should k",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1lVZmJXRGZVWTctdzk4eUxWejlaU05BREFvMnhtTV9HbTBZRThJTkhSTnZzSUZZSnBVZ3BSUmJDcnM2S2tGcE5Xai1NaEN3aEdlY0E5LXhKLVJYRG03VFQ4UUZ6UnBRU1RDRW00WXFUc1lITExKZnhadEpYZ1U1eHhQeXdKQQ?oc=5",
-      "published": "Wed, 06 May 2026 10:07:49 GMT",
-      "published_iso": "2026-05-06T10:07:49+00:00",
+      "title": "Ecommerce Trends: How online retailers compete against Amazon - Digital Commerce 360",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOU",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOURaaEc1VWdwQnFGOXBrQ1NhVHRIUVo0N3VKdlZoWVlxSkxUTVdtX3dEVks5dEhfZGJKVk1WaTFIMHp5alNJOXJ5ckVsaWpwRExHSWhOYXQ0VFZtOTJnNlA0VldlNlhNamFBWHVvREZuelZVd2dqc2YwRERWMlhYSDVFeUl0RWl3RGVJOVpOS1B3eHhxbm1nQ1FrUFVLVl8?oc=5",
+      "published": "Thu, 07 May 2026 18:52:38 GMT",
+      "published_iso": "2026-05-07T18:52:38+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 85.9,
+      "hours_since_published": 76.1,
       "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart",
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 244,
-      "display_title": "Index finds cheapest day at Walmart...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "了解Walmart和Target的最低价日，有助于优化电商销售策略。",
-      "suggested_action": "建议在最低价日进行促销活动，吸引更多消费者。"
-    },
-    {
-      "title": "Costco Visa vs. Sam’s Club Mastercard: How They Differ - NerdWallet",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFfcUw2dlFWLWR1UV9oQXVrUGNuZ3dmN3dIbTdmU2V2MHpKajN5Y2xnYVlzTGRCclJkS0JpN0JYOEhNd1FWU1lhLU1sZUdUUEFYTVBmcDBObmFGN0Npd3F5dEpiX3BqYmZJN1JvZGt6SG95VWNTeTNhdTJqRDJFR1YyMmFJOE1tdjM0REJIZWlrVE1ZMTNZZlBKcjZWSG9T?oc=5\" target=\"_blank\">Costco Visa vs. Sam’s Club Mast",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFfcUw2dlFWLWR1UV9oQXVrUGNuZ3dmN3dIbTdmU2V2MHpKajN5Y2xnYVlzTGRCclJkS0JpN0JYOEhNd1FWU1lhLU1sZUdUUEFYTVBmcDBObmFGN0Npd3F5dEpiX3BqYmZJN1JvZGt6SG95VWNTeTNhdTJqRDJFR1YyMmFJOE1tdjM0REJIZWlrVE1ZMTNZZlBKcjZWSG9T?oc=5",
-      "published": "Mon, 04 May 2026 18:31:16 GMT",
-      "published_iso": "2026-05-04T18:31:16+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 125.5,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Costco",
-          "Sam's Club"
-        ],
-        "categories": []
-      },
-      "_score": 244,
-      "display_title": "Costco Visa vs. Sam’s Club Mastercard:...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "中",
-      "business_note": "Costco Visa与Sam's Club Mastercard的比较对电商销售策略有重要影响。",
-      "suggested_action": "针对两者的差异优化电商推广策略，提升转化率。"
-    }
-  ],
-  "products": [
-    {
-      "name": "Amazon is adding a vertical video feed to Prime Video",
-      "summary": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos from shows and movies, with options to jump into the full title, rent, or buy it. Prim",
-      "date": "2026-05-08T16:19:57-04:00",
-      "published_iso": "2026-05-08T20:19:57+00:00",
-      "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
-      "source": "The Verge",
-      "_score": 60,
-      "hours_since_published": 27.7,
-      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1196,99 +1136,127 @@
         ],
         "categories": []
       },
-      "display_title": "Amazon is adding a vertical video feed...",
-      "display_summary": "亚马逊Prime Video推出短视频“Clips”功能，用户可浏览节目和电影片段，并可直接",
+      "_score": 250,
+      "display_title": "Ecommerce Trends: How online retailers...",
       "tags": [
+        "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
-      "judgement_label": "渠道动态",
-      "product_intro": "亚马逊Prime。",
       "importance": "高",
-      "business_note": "亚马逊推出垂直视频流，可能吸引更多用户关注和消费，提升电商销售。",
-      "suggested_action": "优化电商平台内容，结合短视频营销，提升用户转化率。"
+      "business_note": "电商竞争加剧，需提升品牌差异化以对抗亚马逊。",
+      "suggested_action": "加强电商平台的品牌营销策略，突出独特卖点。"
     },
     {
-      "name": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
-      "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently available, and now through May 11th (or whi",
-      "date": "2026-05-09T12:00:00-04:00",
-      "published_iso": "2026-05-09T16:00:00+00:00",
-      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
+      "title": "16 Target Store-Brand Ice Cream Flavors Tasted And Ranked, Worst To Best - The Takeout",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNR01kQ2lZaEpFQjRfd3MzUEZhZGpFcUQ1UFA2RnNjcm1GX3JxbTZOVm9uZTQ3UUsySmVkM0Z1TXd0TEducTNnaTJOSzB2R2ZTRGZPTDhXSjBsZlIwNkdZclh6Njd2ZGJER1hJaWpkTjRuWGwyOUpPVms1dU05VElhMlBuZGdMUkhfUUxEOW9aOEh4MGJX?oc=5\" target=\"_blank\">16 Target Store-Brand Ice Cream Flavors Tasted ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR01kQ2lZaEpFQjRfd3MzUEZhZGpFcUQ1UFA2RnNjcm1GX3JxbTZOVm9uZTQ3UUsySmVkM0Z1TXd0TEducTNnaTJOSzB2R2ZTRGZPTDhXSjBsZlIwNkdZclh6Njd2ZGJER1hJaWpkTjRuWGwyOUpPVms1dU05VElhMlBuZGdMUkhfUUxEOW9aOEh4MGJX?oc=5",
+      "published": "Sun, 10 May 2026 19:40:00 GMT",
+      "published_iso": "2026-05-10T19:40:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 3.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 250,
+      "display_title": "16 Target Store-Brand Ice Cream Flavors...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "中",
+      "business_note": "Target自有品牌冰淇淋的口味排名对电商销售有一定影响。",
+      "suggested_action": "加强与Target的合作，推广受欢迎的冰淇淋口味。"
+    }
+  ],
+  "products": [
+    {
+      "name": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+      "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines p",
+      "date": "2026-05-10T16:42:08-04:00",
+      "published_iso": "2026-05-10T20:42:08+00:00",
+      "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 8.0,
+      "hours_since_published": 2.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "Dyson’s powerful 360 Vis Nav robovac is...",
-      "display_summary": "戴森360 Vis Nav吸尘器强劲高效，现至5月11日促销，适合清洁客厅地毯。",
+      "display_title": "The Bastl Kalimba is a wild synth that...",
+      "display_summary": "Bastl Kalimba是一款合成器，使用方式类似卡林巴，主要依靠合成引擎驱动，内置麦克风",
       "tags": [
-        "🏃 运动穿戴",
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "业务观察",
+      "product_intro": "Bastl。",
+      "importance": "中",
+      "business_note": "Bastl Kalimba 作为合成器，需加强品牌营销以提升市场认知度。",
+      "suggested_action": "通过社交媒体和线上活动推广，吸引目标用户关注。"
+    },
+    {
+      "name": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
+      "summary": "I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their debut EP, Childhood, drifts between dreamy vocals buried in la",
+      "date": "2026-05-10T12:52:41-04:00",
+      "published_iso": "2026-05-10T16:52:41+00:00",
+      "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 6.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Ashnymph’s Childhood EP is exhilarating...",
+      "display_summary": "伦敦乐队Ashnymph发布首张EP《Childhood》，融合后朋克旋律、克劳特摇滚节奏与",
+      "tags": [
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "戴森360 Vis Nav吸尘器强劲高效，现至5月11日促销，适合清洁客厅地毯。",
-      "importance": "高",
-      "business_note": "Dyson 360 Vis Nav 机器人吸尘器限时降价，有助于提升品牌知名度和销量。",
-      "suggested_action": "通过电商平台加大宣传力度，吸引更多消费者关注和购买。"
+      "product_intro": "伦敦乐队Ashnymph发布首张EP《Childhood》，融合后朋克旋律。",
+      "importance": "中",
+      "business_note": "Ashnymph的音乐风格独特，适合通过电商平台进行品牌推广。",
+      "suggested_action": "考虑与电商平台合作，进行品牌营销活动，提升曝光率。"
     },
     {
-      "name": "These great digital gifts will arrive just in time for Mother’s Day",
-      "summary": "And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year, and you definitely aren’t alone in feeling guilty for conside",
-      "date": "2026-05-09T10:00:00-04:00",
-      "published_iso": "2026-05-09T14:00:00+00:00",
-      "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
+      "name": "Writers are fleeing the Substack Tax",
+      "summary": "Substack, the once buzzy newsletter platform, is losing a new swath of writers to rival platforms most people haven't heard of. Just last month, The Ankler, one of Substack's most popular publications, left for a platform that gives it more control over its si",
+      "date": "2026-05-10T10:00:00-04:00",
+      "published_iso": "2026-05-10T14:00:00+00:00",
+      "url": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 10.0,
+      "hours_since_published": 9.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "These great digital gifts will arrive...",
-      "display_summary": "母亲节即将到来，5月10日，许多在线订单无法及时送达，消费者普遍感到焦虑。",
+      "display_title": "Writers are fleeing the Substack Tax",
+      "display_summary": "Substack失去多位作家，知名刊物The Ankler转向竞争平台以获得更多控制权。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "母亲节即将到来，5月10日，许多在线订单无法及时送达，消费者普遍感到焦虑。",
+      "product_intro": "Substack失去多位作家，知名刊物The。",
       "importance": "高",
-      "business_note": "母亲节临近，电商销售需加快促销力度以满足消费者需求。",
-      "suggested_action": "加强品牌营销，推出限时促销活动，吸引消费者购买。"
-    },
-    {
-      "name": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
-      "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with ",
-      "date": "2026-05-09T08:00:00-04:00",
-      "published_iso": "2026-05-09T12:00:00+00:00",
-      "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
-      "source": "The Verge",
-      "_score": 43,
-      "hours_since_published": 12.0,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "Quantum dot TVs beat RGB LED TVs, says...",
-      "display_summary": "在洛杉矶会议中心，Display Week展会上，Nanosys会议室展示了两款85英寸电视",
-      "tags": [
-        "🚀 新品"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "业务观察",
-      "product_intro": "在洛杉矶会议中心，Display。",
-      "importance": "高",
-      "business_note": "量子点电视在市场上表现优越，需加强品牌宣传以提升市场认知。",
-      "suggested_action": "加大电商平台推广力度，提升量子点电视的市场份额。"
+      "business_note": "Substack流失作家将影响品牌营销策略，需关注竞争对手动态。",
+      "suggested_action": "加强品牌营销，探索与新兴平台的合作机会，提升品牌吸引力。"
     },
     {
       "name": "Bone conduction headphones: explained like you're 5 - MSN",
@@ -1298,7 +1266,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlB0NEh0UXJGS20zZXdpMDdaMlJmckYySUpKYWN2UWFWTDB1VlFiVk9lNDZHOW9Zc0dOajZoMHJEUjRsdkpDLUdiSzZnWE90VXpjbDZNV1hyQnJtck5ORFp1UjczMzZWRGF4eWxhVXNjQW1aNXB0VHBTMjZhUzZYX0hPUThLNFBObVpxVXlEWEEwYnhscHZmUHk5Tnd0cm9HNjB4Zg?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 41,
-      "hours_since_published": 112.6,
+      "hours_since_published": 135.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1309,24 +1277,51 @@
         ]
       },
       "display_title": "Bone conduction headphones: explained...",
-      "display_summary": "某消费电子公司发布新款智能设备，预计将提升市场份额，推动销售增长。",
+      "display_summary": "某消费电子公司发布新款智能手机，搭载最新处理器，支持5G网络，预计提升市场竞争力。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "某消费电子公司发布新款智能设备，预计将提升市场份额，推动销售增长。",
-      "importance": "中",
-      "business_note": "骨传导耳机市场潜力大，需加强品牌宣传以提高认知度。",
-      "suggested_action": "建议通过电商平台加大骨传导耳机的推广力度。"
+      "product_intro": "某消费电子公司发布新款智能手机，搭载最新处理器，支持5G网络，预计提升市场竞争力。",
+      "importance": "高",
+      "business_note": "骨传导耳机市场潜力巨大，需加强品牌营销以提升认知度。",
+      "suggested_action": "建议开展针对骨传导耳机的电商推广活动，提升销量。"
     },
     {
-      "name": "Let it snow",
-      "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the world around them thanks to ray tracing. B",
-      "date": "2026-05-09T09:00:00-04:00",
-      "published_iso": "2026-05-09T13:00:00+00:00",
-      "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
+      "name": "Cricut’s $99 craft cutting machine helped me feel creative again",
+      "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing machine that made it easy for me to get back into making stickers, ",
+      "date": "2026-05-10T10:00:00-04:00",
+      "published_iso": "2026-05-10T14:00:00+00:00",
+      "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
+      "source": "The Verge",
+      "_score": 35,
+      "hours_since_published": 9.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Cricut’s $99 craft cutting machine...",
+      "display_summary": "Cricut Joy 2智能切割绘图机让我重拾制作贴纸的乐趣，三周使用体验令人满意。",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "业务观察",
+      "product_intro": "Cricut Joy。",
+      "importance": "高",
+      "business_note": "Cricut Joy 2 机器提升了消费者的创意体验，具有市场潜力。",
+      "suggested_action": "加强品牌营销，突出用户创意体验，吸引更多消费者。"
+    },
+    {
+      "name": "Netflix may have finally figured out games",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Boggle has bec",
+      "date": "2026-05-10T08:00:00-04:00",
+      "published_iso": "2026-05-10T12:00:00+00:00",
+      "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
       "source": "The Verge",
       "_score": 35,
       "hours_since_published": 11.0,
@@ -1336,25 +1331,54 @@
         "channels": [],
         "categories": []
       },
-      "display_title": "Let it snow",
-      "display_summary": "游戏公司展示新图形技术时，水面效果成为焦点，借助最新物理引擎和光线追踪技术实现逼真水景。",
+      "display_title": "Netflix may have finally figured out games",
+      "display_summary": "《The Stepback》每周提供一则重要科技新闻，订阅者可于东部时间上午8点收到。关注N",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "游戏公司展示新图形技术时，水面效果成为焦点，借助最新物理引擎和光线追踪技术。",
+      "product_intro": "《The。",
       "importance": "高",
-      "business_note": "在品牌营销中展示新技术能提升消费者对产品的认知和兴趣。",
-      "suggested_action": "利用新技术制作吸引眼球的营销素材，增强品牌影响力。"
+      "business_note": "Netflix在游戏领域的成功可能提升品牌影响力，吸引更多用户。",
+      "suggested_action": "加强电商平台的游戏相关产品推广，提升用户体验。"
     }
   ],
   "monitored_entities": [
     {
       "name": "Target",
       "type": "渠道",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle - CNBC",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbWRHUVppWDdoQmE0MUpac1NHQmFSZFZDRmNPSW5OM0lyWkMzMk9HdEhZT2daMDVscW9IbHdUemF6dFlZWW9YTkducU0wd3lKc2JaTUdB0gFbQVVfeXFMT0FFalE4MS1uUnlhY2pfTlVvSDI2UVlXSGpUaDFzTTZhZUZiNlhFZTdoVWV2Q2ZpZzNRanBsSFhYYkp3azZyY21LSDZaNHFCOEFtOVJ5VnNSWXBiQQ?oc=5\" target=\"_blank\">Targe",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbWRHUVppWDdoQmE0MUpac1NHQmFSZFZDRmNPSW5OM0lyWkMzMk9HdEhZT2daMDVscW9IbHdUemF6dFlZWW9YTkducU0wd3lKc2JaTUdB0gFbQVVfeXFMT0FFalE4MS1uUnlhY2pfTlVvSDI2UVlXSGpUaDFzTTZhZUZiNlhFZTdoVWV2Q2ZpZzNRanBsSFhYYkp3azZyY21LSDZaNHFCOEFtOVJ5VnNSWXBiQQ?oc=5",
+          "published": "Sun, 10 May 2026 12:00:01 GMT",
+          "published_iso": "2026-05-10T12:00:01+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 11.0,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 282,
+          "display_title": "Target is trying to win back busy...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Target正试图通过婴儿用品吸引忙碌家庭，挑战Walmart的市场份额。",
+          "suggested_action": "加强电商平台的婴儿用品推广，提升品牌曝光度。"
+        },
         {
           "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
           "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KIHdOIPiKsJYsL6uoI2mmK4uzzTMxwYB-bs4Xh7xPkY/g:nowe:0:1469/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81bWF5bWFsbC0xNi5qcGc=.webp\" /></div></figure><p>Michael Francis has led marketing at Walmart, Target and Dreamworks and is now taking ne",
@@ -1363,7 +1387,7 @@
           "published_iso": "2026-05-06T16:15:00+00:00",
           "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 79.8,
+          "hours_since_published": 102.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1381,109 +1405,44 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Old Navy引入零售和娱乐专家，旨在提升品牌形象和销售业绩。",
-          "suggested_action": "加强与Walmart和Target的合作，利用新任营销负责人的经验进行品牌推广。"
-        },
-        {
-          "title": "Index finds cheapest day at Walmart, Target: What Texans should know - MySA",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1lVZmJXRGZVWTctdzk4eUxWejlaU05BREFvMnhtTV9HbTBZRThJTkhSTnZzSUZZSnBVZ3BSUmJDcnM2S2tGcE5Xai1NaEN3aEdlY0E5LXhKLVJYRG03VFQ4UUZ6UnBRU1RDRW00WXFUc1lITExKZnhadEpYZ1U1eHhQeXdKQQ?oc=5\" target=\"_blank\">Index finds cheapest day at Walmart, Target: What Texans should k",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1lVZmJXRGZVWTctdzk4eUxWejlaU05BREFvMnhtTV9HbTBZRThJTkhSTnZzSUZZSnBVZ3BSUmJDcnM2S2tGcE5Xai1NaEN3aEdlY0E5LXhKLVJYRG03VFQ4UUZ6UnBRU1RDRW00WXFUc1lITExKZnhadEpYZ1U1eHhQeXdKQQ?oc=5",
-          "published": "Wed, 06 May 2026 10:07:49 GMT",
-          "published_iso": "2026-05-06T10:07:49+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 85.9,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 244,
-          "display_title": "Index finds cheapest day at Walmart...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "了解Walmart和Target的最低价日，有助于优化电商销售策略。",
-          "suggested_action": "建议在最低价日进行促销活动，吸引更多消费者。"
-        }
-      ]
-    },
-    {
-      "name": "Amazon",
-      "type": "渠道",
-      "count": 5,
-      "items": [
-        {
-          "title": "Exclusive: AI grocery startup Vori raises $22 million to help independent retailers compete with Walmart and Amazon - Fortune",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2RLcldweTJxVEtqTGVyZE04NFJtOGVtQ0h1SXRBeHBtcVlkNnV1b2hjS09mUHgwUDhDOWZyR0g5Z09yT2JJTzhwdlZsNF9nUVd1TjRvc29DWUJ5dHZMakZvTkdkOXpRYWxGTlRjQkViaXE5QksySnpyd2wtRHFIemRVUlY2Zk9RbzZqV1hxWWRDV0NjNF9wUnE5TjlKTm1MV3dDbGFYRTBFZkk4Wkd0NlRnV3BDeTUzVHc0Z3dHckxKX2JVZlR6Wi",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2RLcldweTJxVEtqTGVyZE04NFJtOGVtQ0h1SXRBeHBtcVlkNnV1b2hjS09mUHgwUDhDOWZyR0g5Z09yT2JJTzhwdlZsNF9nUVd1TjRvc29DWUJ5dHZMakZvTkdkOXpRYWxGTlRjQkViaXE5QksySnpyd2wtRHFIemRVUlY2Zk9RbzZqV1hxWWRDV0NjNF9wUnE5TjlKTm1MV3dDbGFYRTBFZkk4Wkd0NlRnV3BDeTUzVHc0Z3dHckxKX2JVZlR6Wi1wa0xmMjJ1WjdVYTJDNllfUmh3bVE?oc=5",
-          "published": "Tue, 05 May 2026 12:00:00 GMT",
-          "published_iso": "2026-05-05T12:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 108.0,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 290,
-          "display_title": "Exclusive: AI grocery startup Vori...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Vori获得2200万美元融资，助力独立零售商与大型电商竞争，影响电商市场格局。",
-          "suggested_action": "建议加强电商平台的品牌营销，提升独立零售商的竞争力。"
-        },
-        {
-          "title": "Ecommerce Trends: How online retailers compete against Amazon - Digital Commerce 360",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOU",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOURaaEc1VWdwQnFGOXBrQ1NhVHRIUVo0N3VKdlZoWVlxSkxUTVdtX3dEVks5dEhfZGJKVk1WaTFIMHp5alNJOXJ5ckVsaWpwRExHSWhOYXQ0VFZtOTJnNlA0VldlNlhNamFBWHVvREZuelZVd2dqc2YwRERWMlhYSDVFeUl0RWl3RGVJOVpOS1B3eHhxbm1nQ1FrUFVLVl8?oc=5",
-          "published": "Thu, 07 May 2026 18:52:38 GMT",
-          "published_iso": "2026-05-07T18:52:38+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 53.2,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": []
-          },
-          "_score": 265,
-          "display_title": "Ecommerce Trends: How online retailers...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "电商竞争加剧，需加强品牌差异化以对抗亚马逊。",
-          "suggested_action": "优化电商平台营销策略，提升用户体验和品牌认知。"
+          "business_note": "Old Navy引入零售和娱乐专家，有助于提升品牌形象和销售业绩。",
+          "suggested_action": "加强与Walmart和Target的合作，优化电商渠道营销策略。"
         }
       ]
     },
     {
       "name": "headphone",
       "type": "品类",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "Walmart’s $168 noise-canceling headphones with improved bass are now just $19 - thestreet.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWZVdWxlNEF0MmJudDAxSDJGeHZEcERuY29NWG5GX2VMb19iRi0wbDRPOFVURmk1WGFaQkI3d0tLTjNzTzZLZGlDaWFtUWpYaElzd0JfSjJYeGljSG11MFBuTkQ4VWw3UW9oM1ZsMS1ja01kQlNGQm5YQ2g0ODVkQkFYV0taSzUwN1pnQU9Va1F2WGJUYlBfUExWWWk4WVQt?oc=5\" target=\"_blank\">Walmart’s $168 noise-canceling ",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWZVdWxlNEF0MmJudDAxSDJGeHZEcERuY29NWG5GX2VMb19iRi0wbDRPOFVURmk1WGFaQkI3d0tLTjNzTzZLZGlDaWFtUWpYaElzd0JfSjJYeGljSG11MFBuTkQ4VWw3UW9oM1ZsMS1ja01kQlNGQm5YQ2g0ODVkQkFYV0taSzUwN1pnQU9Va1F2WGJUYlBfUExWWWk4WVQt?oc=5",
+          "published": "Sat, 09 May 2026 10:30:00 GMT",
+          "published_iso": "2026-05-09T10:30:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 36.5,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 243,
+          "display_title": "Walmart’s $168 noise-canceling...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商"
+        },
         {
           "title": "Bone conduction headphones: explained like you're 5 - MSN",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlB0NEh0UXJGS20zZXdpMDdaMlJmckYySUpKYWN2UWFWTDB1VlFiVk9lNDZHOW9Zc0dOajZoMHJEUjRsdkpDLUdiSzZnWE90VXpjbDZNV1hyQnJtck5ORFp1UjczMzZWRGF4eWxhVXNjQW1aNXB0VHBTMjZhUzZYX0hPUThLNFBObVpxVXlEWEEwYnhscHZmUHk5Tnd0cm9HNjB4Zg?oc=5\" target=\"_blank\">Bone conduction headphone",
@@ -1492,7 +1451,7 @@
           "published_iso": "2026-05-05T07:28:45+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 112.6,
+          "hours_since_published": 135.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1511,42 +1470,14 @@
           "impact_area": "品牌营销",
           "importance": "中",
           "business_note": "骨传导耳机市场潜力大，需加强品牌营销以提升认知度。",
-          "suggested_action": "建议开展针对骨传导耳机的线上推广活动，吸引目标用户。"
-        },
-        {
-          "title": "Best waterproof headphones 2026, reviewed by a triathlete - The Independent",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQjFRZm0zS29OY1JIT1F2bmdQcEZYdWpQV3ZvSl9VVjlfVVpZdEJOM3ZnTElDUnIyOUFrNk5md3E2WWZ5VWI2ZXRTaW8tYXpXUzY2Ui1IMEhudl9hTThXU0JjWWxyZDFwSWFPamt3ZTY3Z0NvWTNnUXNXVWgzSm9KRmJ4cmZ6eTZBRzNHZkowRzB4RTgyMFh4V083TkQ2TlpXUHNpaXI0ejZRdkVIYThwV3lYRXZuUFFZcDlJM2xvdjVkRVRkb3Fiel",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQjFRZm0zS29OY1JIT1F2bmdQcEZYdWpQV3ZvSl9VVjlfVVpZdEJOM3ZnTElDUnIyOUFrNk5md3E2WWZ5VWI2ZXRTaW8tYXpXUzY2Ui1IMEhudl9hTThXU0JjWWxyZDFwSWFPamt3ZTY3Z0NvWTNnUXNXVWgzSm9KRmJ4cmZ6eTZBRzNHZkowRzB4RTgyMFh4V083TkQ2TlpXUHNpaXI0ejZRdkVIYThwV3lYRXZuUFFZcDlJM2xvdjVkRVRkb3FielpKY2lfQQ?oc=5",
-          "published": "Thu, 07 May 2026 09:04:00 GMT",
-          "published_iso": "2026-05-07T09:04:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 63.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 188,
-          "display_title": "Best waterproof headphones 2026...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "2026年最佳防水耳机评测将提升品牌知名度，吸引运动爱好者关注。",
-          "suggested_action": "加大电商推广力度，针对运动市场进行精准营销。"
+          "suggested_action": "建议开展针对骨传导耳机的线上推广活动，提升品牌曝光。"
         }
       ]
     },
     {
       "name": "Walmart",
       "type": "渠道",
-      "count": 3,
+      "count": 5,
       "items": [
         {
           "title": "Exclusive: AI grocery startup Vori raises $22 million to help independent retailers compete with Walmart and Amazon - Fortune",
@@ -1556,7 +1487,7 @@
           "published_iso": "2026-05-05T12:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 108.0,
+          "hours_since_published": 131.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1575,18 +1506,18 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Vori获得2200万美元融资，助力独立零售商与大型电商竞争，影响电商市场格局。",
-          "suggested_action": "建议加强电商平台的品牌营销，提升独立零售商的竞争力。"
+          "suggested_action": "加强与独立零售商的合作，提升品牌在电商平台的曝光率。"
         },
         {
-          "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
-          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KIHdOIPiKsJYsL6uoI2mmK4uzzTMxwYB-bs4Xh7xPkY/g:nowe:0:1469/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81bWF5bWFsbC0xNi5qcGc=.webp\" /></div></figure><p>Michael Francis has led marketing at Walmart, Target and Dreamworks and is now taking ne",
-          "url": "https://www.retaildive.com/news/old-navy-retail-entertainment-veteran-walmart-target-dreamworks-invigorate-turnaround/819439/",
-          "published": "Wed, 06 May 2026 12:15:00 -0400",
-          "published_iso": "2026-05-06T16:15:00+00:00",
-          "source": "Retail Dive",
+          "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle - CNBC",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbWRHUVppWDdoQmE0MUpac1NHQmFSZFZDRmNPSW5OM0lyWkMzMk9HdEhZT2daMDVscW9IbHdUemF6dFlZWW9YTkducU0wd3lKc2JaTUdB0gFbQVVfeXFMT0FFalE4MS1uUnlhY2pfTlVvSDI2UVlXSGpUaDFzTTZhZUZiNlhFZTdoVWV2Q2ZpZzNRanBsSFhYYkp3azZyY21LSDZaNHFCOEFtOVJ5VnNSWXBiQQ?oc=5\" target=\"_blank\">Targe",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbWRHUVppWDdoQmE0MUpac1NHQmFSZFZDRmNPSW5OM0lyWkMzMk9HdEhZT2daMDVscW9IbHdUemF6dFlZWW9YTkducU0wd3lKc2JaTUdB0gFbQVVfeXFMT0FFalE4MS1uUnlhY2pfTlVvSDI2UVlXSGpUaDFzTTZhZUZiNlhFZTdoVWV2Q2ZpZzNRanBsSFhYYkp3azZyY21LSDZaNHFCOEFtOVJ5VnNSWXBiQQ?oc=5",
+          "published": "Sun, 10 May 2026 12:00:01 GMT",
+          "published_iso": "2026-05-10T12:00:01+00:00",
+          "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 79.8,
-          "freshness_label": "近7天",
+          "hours_since_published": 11.0,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1595,23 +1526,23 @@
             ],
             "categories": []
           },
-          "_score": 262,
-          "display_title": "Old Navy turns to retail, entertainment...",
+          "_score": 282,
+          "display_title": "Target is trying to win back busy...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Old Navy引入零售和娱乐专家，旨在提升品牌形象和销售业绩。",
-          "suggested_action": "加强与Walmart和Target的合作，利用新任营销负责人的经验进行品牌推广。"
+          "business_note": "Target正试图通过婴儿用品吸引忙碌家庭，挑战Walmart的市场份额。",
+          "suggested_action": "加强电商平台的婴儿用品推广，提升品牌曝光度。"
         }
       ]
     },
     {
       "name": "Sony",
       "type": "品牌",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "There's a new top dog in our best Sony earbuds guide - What Hi-Fi?",
@@ -1621,7 +1552,7 @@
           "published_iso": "2026-05-06T13:57:32+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 82.1,
+          "hours_since_published": 105.1,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1640,8 +1571,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sony耳机在市场上获得了新的认可，提升品牌形象。",
-          "suggested_action": "加大对Sony耳机的电商推广力度，吸引更多消费者关注。"
+          "business_note": "Sony耳机在市场上获得了新的认可，有助于提升品牌形象和销售。",
+          "suggested_action": "加强电商平台的Sony耳机推广，提升品牌曝光率。"
         },
         {
           "title": "Sony in Talks to Acquire Recognition Music Group In Multibillion Dollar Deal - The Hollywood Reporter",
@@ -1651,7 +1582,7 @@
           "published_iso": "2026-05-06T18:11:36+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 77.8,
+          "hours_since_published": 100.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1670,76 +1601,79 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Sony收购Recognition Music Group将增强其在音乐领域的竞争力，推动品牌影响力。",
-          "suggested_action": "建议加强与Target的合作，提升Sony品牌在电商平台的曝光率。"
+          "business_note": "Sony收购Recognition Music Group将增强其在音乐领域的影响力，推动品牌价值提升。",
+          "suggested_action": "建议加强与Target的合作，利用收购机会提升电商销售和品牌曝光。"
         }
       ]
     },
     {
-      "name": "Costco",
+      "name": "Amazon",
       "type": "渠道",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Costco Visa vs. Sam’s Club Mastercard: How They Differ - NerdWallet",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFfcUw2dlFWLWR1UV9oQXVrUGNuZ3dmN3dIbTdmU2V2MHpKajN5Y2xnYVlzTGRCclJkS0JpN0JYOEhNd1FWU1lhLU1sZUdUUEFYTVBmcDBObmFGN0Npd3F5dEpiX3BqYmZJN1JvZGt6SG95VWNTeTNhdTJqRDJFR1YyMmFJOE1tdjM0REJIZWlrVE1ZMTNZZlBKcjZWSG9T?oc=5\" target=\"_blank\">Costco Visa vs. Sam’s Club Mast",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFfcUw2dlFWLWR1UV9oQXVrUGNuZ3dmN3dIbTdmU2V2MHpKajN5Y2xnYVlzTGRCclJkS0JpN0JYOEhNd1FWU1lhLU1sZUdUUEFYTVBmcDBObmFGN0Npd3F5dEpiX3BqYmZJN1JvZGt6SG95VWNTeTNhdTJqRDJFR1YyMmFJOE1tdjM0REJIZWlrVE1ZMTNZZlBKcjZWSG9T?oc=5",
-          "published": "Mon, 04 May 2026 18:31:16 GMT",
-          "published_iso": "2026-05-04T18:31:16+00:00",
+          "title": "Exclusive: AI grocery startup Vori raises $22 million to help independent retailers compete with Walmart and Amazon - Fortune",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2RLcldweTJxVEtqTGVyZE04NFJtOGVtQ0h1SXRBeHBtcVlkNnV1b2hjS09mUHgwUDhDOWZyR0g5Z09yT2JJTzhwdlZsNF9nUVd1TjRvc29DWUJ5dHZMakZvTkdkOXpRYWxGTlRjQkViaXE5QksySnpyd2wtRHFIemRVUlY2Zk9RbzZqV1hxWWRDV0NjNF9wUnE5TjlKTm1MV3dDbGFYRTBFZkk4Wkd0NlRnV3BDeTUzVHc0Z3dHckxKX2JVZlR6Wi",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2RLcldweTJxVEtqTGVyZE04NFJtOGVtQ0h1SXRBeHBtcVlkNnV1b2hjS09mUHgwUDhDOWZyR0g5Z09yT2JJTzhwdlZsNF9nUVd1TjRvc29DWUJ5dHZMakZvTkdkOXpRYWxGTlRjQkViaXE5QksySnpyd2wtRHFIemRVUlY2Zk9RbzZqV1hxWWRDV0NjNF9wUnE5TjlKTm1MV3dDbGFYRTBFZkk4Wkd0NlRnV3BDeTUzVHc0Z3dHckxKX2JVZlR6Wi1wa0xmMjJ1WjdVYTJDNllfUmh3bVE?oc=5",
+          "published": "Tue, 05 May 2026 12:00:00 GMT",
+          "published_iso": "2026-05-05T12:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 125.5,
+          "hours_since_published": 131.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Costco",
-              "Sam's Club"
+              "Amazon",
+              "Walmart"
             ],
             "categories": []
           },
-          "_score": 244,
-          "display_title": "Costco Visa vs. Sam’s Club Mastercard:...",
+          "_score": 290,
+          "display_title": "Exclusive: AI grocery startup Vori...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
-          "importance": "中",
-          "business_note": "Costco Visa与Sam's Club Mastercard的比较对电商销售策略有重要影响。",
-          "suggested_action": "针对两者的差异优化电商推广策略，提升转化率。"
+          "importance": "高",
+          "business_note": "Vori获得2200万美元融资，助力独立零售商与大型电商竞争，影响电商市场格局。",
+          "suggested_action": "加强与独立零售商的合作，提升品牌在电商平台的曝光率。"
         },
         {
-          "title": "Discover the Best Costco Hearing Aids - The National Council on Aging (NCOA)",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNY3g3Y0hFd0tJdWs3NXh2S3FlenBOdG8zT1NNai1zbDhEVEswajVlTmhSRWE2NHQ0Uy1jN2xwUVhlNG1EQkwzVzdJSC1ncnFLUVhuajlqeXFTSE9OekxXRlZaYXBicnF2MF9pM1lfTUh2Tzc4TGh6RTVjdU5EcVR1ZmFZbw?oc=5\" target=\"_blank\">Discover the Best Costco Hearing Aids</a>&nbsp;&nbsp;<font color=\"#6f",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY3g3Y0hFd0tJdWs3NXh2S3FlenBOdG8zT1NNai1zbDhEVEswajVlTmhSRWE2NHQ0Uy1jN2xwUVhlNG1EQkwzVzdJSC1ncnFLUVhuajlqeXFTSE9OekxXRlZaYXBicnF2MF9pM1lfTUh2Tzc4TGh6RTVjdU5EcVR1ZmFZbw?oc=5",
-          "published": "Thu, 07 May 2026 04:00:00 GMT",
-          "published_iso": "2026-05-07T04:00:00+00:00",
+          "title": "Ecommerce Trends: How online retailers compete against Amazon - Digital Commerce 360",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOU",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOURaaEc1VWdwQnFGOXBrQ1NhVHRIUVo0N3VKdlZoWVlxSkxUTVdtX3dEVks5dEhfZGJKVk1WaTFIMHp5alNJOXJ5ckVsaWpwRExHSWhOYXQ0VFZtOTJnNlA0VldlNlhNamFBWHVvREZuelZVd2dqc2YwRERWMlhYSDVFeUl0RWl3RGVJOVpOS1B3eHhxbm1nQ1FrUFVLVl8?oc=5",
+          "published": "Thu, 07 May 2026 18:52:38 GMT",
+          "published_iso": "2026-05-07T18:52:38+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 68.0,
-          "freshness_label": "近3天",
+          "hours_since_published": 76.1,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Costco"
+              "Amazon"
             ],
             "categories": []
           },
-          "_score": 227,
-          "display_title": "Discover the Best Costco Hearing Aids...",
+          "_score": 250,
+          "display_title": "Ecommerce Trends: How online retailers...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
-          "impact_area": "电商"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "电商竞争加剧，需提升品牌差异化以对抗亚马逊。",
+          "suggested_action": "加强电商平台的品牌营销策略，突出独特卖点。"
         }
       ]
     },
     {
       "name": "bone conduction",
       "type": "品类",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "title": "Bone conduction headphones: explained like you're 5 - MSN",
@@ -1749,7 +1683,7 @@
           "published_iso": "2026-05-05T07:28:45+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 112.6,
+          "hours_since_published": 135.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1768,18 +1702,18 @@
           "impact_area": "品牌营销",
           "importance": "中",
           "business_note": "骨传导耳机市场潜力大，需加强品牌营销以提升认知度。",
-          "suggested_action": "建议开展针对骨传导耳机的线上推广活动，吸引目标用户。"
+          "suggested_action": "建议开展针对骨传导耳机的线上推广活动，提升品牌曝光。"
         },
         {
-          "name": "Bone conduction headphones: explained like you're 5 - MSN",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlB0NEh0UXJGS20zZXdpMDdaMlJmckYySUpKYWN2UWFWTDB1VlFiVk9lNDZHOW9Zc0dOajZoMHJEUjRsdkpDLUdiSzZnWE90VXpjbDZNV1hyQnJtck5ORFp1UjczMzZWRGF4eWxhVXNjQW1aNXB0VHBTMjZhUzZYX0hPUThLNFBObVpxVXlEWEEwYnhscHZmUHk5Tn",
-          "date": "Tue, 05 May 2026 07:28:45",
-          "published_iso": "2026-05-05T07:28:45+00:00",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlB0NEh0UXJGS20zZXdpMDdaMlJmckYySUpKYWN2UWFWTDB1VlFiVk9lNDZHOW9Zc0dOajZoMHJEUjRsdkpDLUdiSzZnWE90VXpjbDZNV1hyQnJtck5ORFp1UjczMzZWRGF4eWxhVXNjQW1aNXB0VHBTMjZhUzZYX0hPUThLNFBObVpxVXlEWEEwYnhscHZmUHk5Tnd0cm9HNjB4Zg?oc=5",
+          "title": "My Favorite Bone-Conduction Headphones Are $40 Off Right Now - Lifehacker",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE4tOEFORlFuU29nTG1sb1FSV19pNGlNV3E4Y3NoMFl5dWljVFJ4cTV3ZEdZMDRjbm5zNkpWMjdkaTI3NEM0Ykl0bFByTGJuSU5oUFFvYUQ5WUJtMF85YUR2WGpqdkdwVm9yQjJPU1Zn?oc=5\" target=\"_blank\">My Favorite Bone-Conduction Headphones Are $40 Off Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tOEFORlFuU29nTG1sb1FSV19pNGlNV3E4Y3NoMFl5dWljVFJ4cTV3ZEdZMDRjbm5zNkpWMjdkaTI3NEM0Ykl0bFByTGJuSU5oUFFvYUQ5WUJtMF85YUR2WGpqdkdwVm9yQjJPU1Zn?oc=5",
+          "published": "Fri, 08 May 2026 16:30:00 GMT",
+          "published_iso": "2026-05-08T16:30:00+00:00",
           "source": "Google News - Audio Wearable Watch",
-          "_score": 41,
-          "hours_since_published": 112.6,
-          "freshness_label": "近7天",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 54.5,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [],
@@ -1788,56 +1722,59 @@
               "headphone"
             ]
           },
-          "display_title": "Bone conduction headphones: explained...",
-          "display_summary": "某消费电子公司发布新款智能设备，预计将提升市场份额，推动销售增长。",
+          "_score": 196,
+          "display_title": "My Favorite Bone-Conduction Headphones...",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
-          "judgement_label": "行业趋势",
-          "product_intro": "某消费电子公司发布新款智能设备，预计将提升市场份额，推动销售增长。",
-          "importance": "中",
-          "business_note": "骨传导耳机市场潜力大，需加强品牌宣传以提高认知度。",
-          "suggested_action": "建议通过电商平台加大骨传导耳机的推广力度。"
+          "importance": "高",
+          "business_note": "骨传导耳机降价有助于提升品牌知名度和销量。",
+          "suggested_action": "利用电商平台推广此优惠，吸引更多消费者关注。"
+        }
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 1,
+      "items": [
+        {
+          "title": "Best Buy adds rewards to its loyalty programs to lure shoppers - Retail Brew",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPUXZnemlXWjhpVGhCT2VuVHY0OVJHU0hHTUtmV0J5YjBpUlMxMGFxY3FPUjVHc25hUHU2WmcwVHRRR2RIQ3RNUWxIY2RVYU12NDlMZ0ViN0UxSXUxQXJ6WUZPak5LSjNPNnZMSzdEVWY1Nzh6UExRdHZTdU9SYW9fTnpyRmhmcHVwejZxbG0yOTl5RzllSUFYek5Gckt6TFpSTkQyTlh4R1VrZjBL?oc=5\" target=\"_blank\">Best Buy adds r",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUXZnemlXWjhpVGhCT2VuVHY0OVJHU0hHTUtmV0J5YjBpUlMxMGFxY3FPUjVHc25hUHU2WmcwVHRRR2RIQ3RNUWxIY2RVYU12NDlMZ0ViN0UxSXUxQXJ6WUZPak5LSjNPNnZMSzdEVWY1Nzh6UExRdHZTdU9SYW9fTnpyRmhmcHVwejZxbG0yOTl5RzllSUFYek5Gckt6TFpSTkQyTlh4R1VrZjBL?oc=5",
+          "published": "Mon, 04 May 2026 21:10:57 GMT",
+          "published_iso": "2026-05-04T21:10:57+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 145.8,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 250,
+          "display_title": "Best Buy adds rewards to its loyalty...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Best Buy通过增强忠诚度计划吸引消费者，提升电商销售潜力。",
+          "suggested_action": "建议优化电商平台的忠诚度策略，提升用户粘性。"
         }
       ]
     },
     {
       "name": "earbuds",
       "type": "品类",
-      "count": 2,
+      "count": 1,
       "items": [
-        {
-          "title": "We called the Beats Powerbeats Pro 2 the 'best workout earbuds for most people' - and now they're 20% off at Amazon - Android Central",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOTU4UVVobXEtSGQ4dVFvVWdPQlJHSGNpSEtPZEY2bENpMHFUZURadnBpSWVBcE1odFlpLVhLX3dHRTBZNHk4RHdOREhqWllGM1I4djNfWVh5dy02NXowcExZUFZQa0ZBaTlZOE1UYmwzaEM2V1d2MVhkQkhCUWhMeDdjZ2dOYUNvODdfWEFGbUpwYTBiS0hrZGtpVnh5Nlo3M1YwMnhadjYxRnhfRmktRGlkQmNVdEJGbjk1LUpMazJOejczV1ZZU0",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOTU4UVVobXEtSGQ4dVFvVWdPQlJHSGNpSEtPZEY2bENpMHFUZURadnBpSWVBcE1odFlpLVhLX3dHRTBZNHk4RHdOREhqWllGM1I4djNfWVh5dy02NXowcExZUFZQa0ZBaTlZOE1UYmwzaEM2V1d2MVhkQkhCUWhMeDdjZ2dOYUNvODdfWEFGbUpwYTBiS0hrZGtpVnh5Nlo3M1YwMnhadjYxRnhfRmktRGlkQmNVdEJGbjk1LUpMazJOejczV1ZZU0l2dDBGRjZlSDhNYmlKUy1sNHlZYTktMHFQVXUzUWh5dHBaSUJEdFBqdU1RU2xjNWd0ZWU?oc=5",
-          "published": "Fri, 08 May 2026 15:11:31 GMT",
-          "published_iso": "2026-05-08T15:11:31+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 32.8,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Beats"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "earbuds"
-            ]
-          },
-          "_score": 227,
-          "display_title": "We called the Beats Powerbeats Pro 2...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        },
         {
           "title": "There's a new top dog in our best Sony earbuds guide - What Hi-Fi?",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTERVbGpsMmQyNTFkendIVG9KOWJhcmV5WjlsNW9EZWF5Q1FPVnIweTlheFdRRmQxcWktNU1DcUF5NGRYQ3p0MkNTbzExSnBIMFlDd3lPQWRQbHlleXJyR0RsaUlPRGJzNnNrc19iaWpaT182OG1fQ3gtdWV3ZFVvVVBYMm1iNl9RZ0RRdXFjY2pfSnFXRmRZ?oc=5\" target=\"_blank\">There's a new top dog in our best Sony earb",
@@ -1846,7 +1783,7 @@
           "published_iso": "2026-05-06T13:57:32+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 82.1,
+          "hours_since_published": 105.1,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1865,28 +1802,28 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sony耳机在市场上获得了新的认可，提升品牌形象。",
-          "suggested_action": "加大对Sony耳机的电商推广力度，吸引更多消费者关注。"
+          "business_note": "Sony耳机在市场上获得了新的认可，有助于提升品牌形象和销售。",
+          "suggested_action": "加强电商平台的Sony耳机推广，提升品牌曝光率。"
         }
       ]
     }
   ],
   "takeaways": [
-    "AI技术在食品零售的应用将推动电商平台的创新，传统渠道需加快转型以应对竞争。",
-    "Best Buy的忠诚度奖励计划将提升客户粘性，其他零售商需借鉴以增强市场份额。",
-    "随着亚马逊推出垂直视频功能，消费电子产品的宣传方式将发生变革，品牌需调整策略以适应。",
-    "量子点电视的技术优势将对市场格局产生影响，传统电视制造商需加速技术升级以保持竞争力。",
-    "骨传导耳机的兴起预示着消费者对新型音频体验的需求增加，相关品牌应抓住这一趋势进行产品创新。"
+    "随着骨传导耳机的普及，竞争对手需加快创新步伐以保持市场份额。",
+    "Best Buy通过增加忠诚度奖励，可能会吸引更多消费者回流，提升销售额。",
+    "Target的策略调整显示出零售商在争夺忙碌消费者的市场份额上愈发激烈。",
+    "AI技术在杂货领域的应用，可能会影响传统零售商的运营模式与竞争策略。",
+    "Bose与Alexa的结合，预示着智能音响市场将迎来新的竞争格局。"
   ],
   "opportunity_signals": [
-    "Vori获得2200万美元融资，独立零售商可借此机会与大型电商竞争，提升市场份额。",
-    "随着电商竞争加剧，品牌差异化成为关键，企业应加大创新力度，以增强市场竞争力。",
-    "Best Buy通过增强忠诚度计划吸引顾客，其他零售商可借鉴此策略，提升电商销售和客户粘性。"
+    "Vori获得2200万美元融资，表明独立零售商在与大型电商竞争中有了新的机会，建议关注其市场策略以获取潜在合作机会。",
+    "Target通过婴儿用品吸引忙碌家庭，成功挑战Walmart的市场份额，建议分析其市场推广策略以制定相应的竞争对策。",
+    "Best Buy增强忠诚度计划以提升电商销售潜力，建议借鉴其成功经验，优化自家客户忠诚度策略以提高用户粘性。"
   ],
   "risk_signals": [
-    "电商市场竞争加剧，若未能有效提升品牌差异化，可能导致市场份额流失。",
-    "新兴AI电商初创企业如Vori的崛起，可能对传统零售商构成重大威胁，需密切关注其市场动态。",
-    "Best Buy的忠诚度计划虽能短期吸引顾客，但若未能持续创新，长期客户黏性可能下降。"
+    "电商市场竞争加剧，若未能有效提升品牌差异化，可能导致市场份额进一步流失。",
+    "目标客户群体的变化可能影响销售策略，若无法精准把握忙碌家庭的需求，可能导致业绩下滑。",
+    "依赖忠诚度计划吸引消费者的策略需谨慎，若未能持续优化用户体验，可能导致客户流失。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13 07:13:04 CST",
+  "generated_at": "2026-05-13 08:13:36 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -708,35 +708,75 @@
     }
   ],
   "lead_story": {
-    "title": "Best Buy to Expand Store Count for the First Time in a Decade - Retail TouchPoints",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5\" target=\"_blank\">Best Buy to Exp",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5",
-    "published": "Mon, 11 May 2026 16:53:04 GMT",
-    "published_iso": "2026-05-11T16:53:04+00:00",
-    "source": "Google News - Retail Platforms",
+    "title": "Best Buy has Bose QuietComfort headphones on sale for way cheaper than Walmart - NJ.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQV",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQVVfeXFMUFBQVjRXUkRHakhOWTE2Zl9uNGV2Ul9SQ1k0OFl0bUxWaEs0N1AtMHhLOFh0dmVtSFV3clEtcjUzNC1YUXZjaE9SRTJqR1d3VWZLd2ZHZmVGeGhmd1hfSFM5WmxqTGNoaTBNSlAzM2FRaERlUTlXdnhFWld5ZkVHQ2xtdnFjU3VaQzl3dmdwb1FGN2dYZ3hqb29GNTRKQ3EzWUplLUVGakxwaVBwSWF4RkM1d0JoM1dGdmZEZWRPdG5QYmNXWkN6TzNZVkZSMVNWTFBxZURoazA?oc=5",
+    "published": "Tue, 12 May 2026 23:45:00 GMT",
+    "published_iso": "2026-05-12T23:45:00+00:00",
+    "source": "Google News - US Retail Audio",
     "bucket": "channel_news",
-    "hours_since_published": 30.3,
-    "freshness_label": "近3天",
+    "hours_since_published": 0.5,
+    "freshness_label": "24h内",
     "monitor_hits": {
-      "brands": [],
-      "channels": [
-        "Best Buy"
+      "brands": [
+        "Bose"
       ],
-      "categories": []
+      "channels": [
+        "Best Buy",
+        "Walmart"
+      ],
+      "categories": [
+        "headphone"
+      ]
     },
-    "_score": 303,
-    "display_title": "Best Buy to Expand Store Count for the...",
+    "_score": 312,
+    "display_title": "Best Buy has Bose QuietComfort...",
     "tags": [
+      "🎧 耳机音频",
       "🛒 渠道零售",
       "🏬 平台电商"
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "Best Buy十年来首次扩展门店，表明零售市场复苏，需关注电商销售策略。",
-    "suggested_action": "加强电商平台与门店的联动，提升线上线下购物体验。"
+    "business_note": "Best Buy的促销活动对Bose耳机销售有显著影响，需关注电商渠道的竞争动态。",
+    "suggested_action": "建议加强与Best Buy的合作，提升品牌曝光和促销力度。"
   },
-  "lead_summary": "Best Buy首次扩展门店，显示零售复苏，需关注其对电商竞争格局的影响。",
+  "lead_summary": "Best Buy促销助力Bose耳机销售，电商竞争加剧，需密切关注市场动态。",
   "headline_trio": [
+    {
+      "title": "Best Buy has Bose QuietComfort headphones on sale for way cheaper than Walmart - NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQVVfeXFMUFBQVjRXUkRHakhOWTE2Zl9uNGV2Ul9SQ1k0OFl0bUxWaEs0N1AtMHhLOFh0dmVtSFV3clEtcjUzNC1YUXZjaE9SRTJqR1d3VWZLd2ZHZmVGeGhmd1hfSFM5WmxqTGNoaTBNSlAzM2FRaERlUTlXdnhFWld5ZkVHQ2xtdnFjU3VaQzl3dmdwb1FGN2dYZ3hqb29GNTRKQ3EzWUplLUVGakxwaVBwSWF4RkM1d0JoM1dGdmZEZWRPdG5QYmNXWkN6TzNZVkZSMVNWTFBxZURoazA?oc=5",
+      "published": "Tue, 12 May 2026 23:45:00 GMT",
+      "published_iso": "2026-05-12T23:45:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news",
+      "hours_since_published": 0.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [
+          "Best Buy",
+          "Walmart"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 312,
+      "display_title": "Best Buy has Bose QuietComfort...",
+      "tags": [
+        "🎧 耳机音频",
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Best Buy的促销活动对Bose耳机销售有显著影响，需关注电商渠道的竞争动态。",
+      "suggested_action": "建议加强与Best Buy的合作，提升品牌曝光和促销力度。"
+    },
     {
       "title": "Best Buy to Expand Store Count for the First Time in a Decade - Retail TouchPoints",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5\" target=\"_blank\">Best Buy to Exp",
@@ -745,7 +785,7 @@
       "published_iso": "2026-05-11T16:53:04+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 30.3,
+      "hours_since_published": 31.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -762,8 +802,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy十年来首次扩展门店，表明零售市场复苏，需关注电商销售策略。",
-      "suggested_action": "加强电商平台与门店的联动，提升线上线下购物体验。"
+      "business_note": "Best Buy十年来首次扩展门店，表明零售市场复苏，需关注电商转型。",
+      "suggested_action": "加强电商平台营销，提升线上销售与门店协同效应。"
     },
     {
       "title": "Amazon is turning the retail speed war into a 30-minute sprint - Axios",
@@ -773,7 +813,7 @@
       "published_iso": "2026-05-12T10:01:17+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 13.2,
+      "hours_since_published": 14.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -791,36 +831,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "亚马逊加速零售速度，对电商竞争格局产生重大影响。",
-      "suggested_action": "优化电商物流，提升配送效率，增强市场竞争力。"
-    },
-    {
-      "title": "Educational Touchscreen Watch For Kids PlayZoom 3 Kids Smartwatch & Headphones Set – Educational Tech Toy With Camera, Music, Games, Audio Stories And Learning Activities, Ages 4-12 And Bluetooth Headphones - aviglianonews.it",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGp5Ymh4VXk2dTl6dmVDcXN2TjZFdFpzQmZKZjdIeFdOd0RwVTVNVVJ3RFFsQURPMGlSdlhZTFFWQWkwWTNWVmh5ZFJMV0NYZGIyc1RfcW9leWVjSFliMFNCaUZPS3ZMQ0ZkVTBYRzU1bUZYVHBjemZBSVg1R0VJcU9yU3dxazJFMGhzbmpjVFlNQlpvbU1BN3ZnYw?oc=5\" target=\"_blank\">Educational Touchscreen Watch For Kid",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGp5Ymh4VXk2dTl6dmVDcXN2TjZFdFpzQmZKZjdIeFdOd0RwVTVNVVJ3RFFsQURPMGlSdlhZTFFWQWkwWTNWVmh5ZFJMV0NYZGIyc1RfcW9leWVjSFliMFNCaUZPS3ZMQ0ZkVTBYRzU1bUZYVHBjemZBSVg1R0VJcU9yU3dxazJFMGhzbmpjVFlNQlpvbU1BN3ZnYw?oc=5",
-      "published": "Mon, 11 May 2026 20:12:05 GMT",
-      "published_iso": "2026-05-11T20:12:05+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 27.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 251,
-      "display_title": "Educational Touchscreen Watch For Kids...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🚁 无人机影像"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "针对儿童的教育类智能手表和耳机组合，符合市场需求，提升品牌影响力。",
-      "suggested_action": "加大电商渠道推广，结合品牌营销活动吸引家长关注。"
+      "suggested_action": "优化电商平台物流，提升配送效率以应对竞争。"
     }
   ],
   "consumer_electronics": [
@@ -832,7 +843,7 @@
       "published_iso": "2026-05-11T20:12:05+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 27.0,
+      "hours_since_published": 28.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -850,39 +861,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "针对儿童的教育类智能手表和耳机组合，符合市场需求，提升品牌影响力。",
-      "suggested_action": "加大电商渠道推广，结合品牌营销活动吸引家长关注。"
-    },
-    {
-      "title": "The DJI Mini 5 Pro drone hits new record-low price at Amazon — save over $500 this weekend - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1FcVMzZFpLREpaZkVweUJjZFJxSHFSeVdRTVM5M0p1VTRGSkdxaTVWdm9kZWRGQXN2N2xjRHhfNXZWaWVOdW1oRFdwUEdSM0JPUkpIdkFXN2gtOGFUQlJOQnRkQ1VjRUtucHZySA?oc=5\" target=\"_blank\">The DJI Mini 5 Pro drone hits new record-low price at Amazon — save over $500 this weekend</a>&nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FcVMzZFpLREpaZkVweUJjZFJxSHFSeVdRTVM5M0p1VTRGSkdxaTVWdm9kZWRGQXN2N2xjRHhfNXZWaWVOdW1oRFdwUEdSM0JPUkpIdkFXN2gtOGFUQlJOQnRkQ1VjRUtucHZySA?oc=5",
-      "published": "Tue, 12 May 2026 21:00:32 GMT",
-      "published_iso": "2026-05-12T21:00:32+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 2.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "DJI"
-        ],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": []
-      },
-      "_score": 241,
-      "display_title": "The DJI Mini 5 Pro drone hits new...",
-      "tags": [
-        "🚁 无人机影像",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "DJI Mini 5 Pro在亚马逊的降价将刺激电商销售，提升品牌曝光。",
-      "suggested_action": "建议加大在电商平台的广告投放，抓住降价机会。"
+      "business_note": "针对儿童市场的教育类智能手表和耳机组合，具有较高的市场潜力。",
+      "suggested_action": "加强电商平台的品牌推广，提升产品曝光率。"
     },
     {
       "title": "There's a new top dog in our best Sony earbuds guide - What Hi-Fi?",
@@ -892,7 +872,7 @@
       "published_iso": "2026-05-06T13:57:32+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 153.2,
+      "hours_since_published": 154.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -911,8 +891,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony耳机在市场上获得了新的认可，提升品牌形象和销量潜力。",
-      "suggested_action": "加大对Sony耳机的电商推广和品牌营销力度，吸引更多消费者关注。"
+      "business_note": "Sony耳机在市场上表现突出，提升品牌影响力，有助于吸引更多消费者。",
+      "suggested_action": "加强对Sony耳机的电商推广，提升品牌曝光率和销售转化。"
     },
     {
       "title": "This Wearable Insta360 Action Camera Bundle Is Nearly $90 Off Right Now - Lifehacker",
@@ -922,7 +902,7 @@
       "published_iso": "2026-05-11T13:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 34.2,
+      "hours_since_published": 35.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -941,8 +921,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "当前可穿戴运动相机捆绑优惠显著，有助于提升品牌曝光和销售。",
-      "suggested_action": "利用此优惠进行电商推广，吸引更多消费者关注和购买。"
+      "business_note": "当前可穿戴相机捆绑优惠可提升品牌曝光和销售，抓住消费者需求。",
+      "suggested_action": "加强电商平台宣传，利用折扣吸引更多消费者购买。"
     },
     {
       "title": "This Wearable Insta360 Action Camera Bundle Is Nearly $90 Off Right Now - Lifehacker",
@@ -952,7 +932,7 @@
       "published_iso": "2026-05-11T13:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 34.2,
+      "hours_since_published": 35.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -971,8 +951,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "当前Insta360运动相机捆绑优惠，吸引消费者关注，提升品牌曝光。",
-      "suggested_action": "利用电商平台推广此优惠，增强品牌营销效果。"
+      "business_note": "当前Insta360运动相机捆绑优惠显著，有助于提升品牌曝光和销量。",
+      "suggested_action": "利用此优惠进行电商推广，增强品牌营销活动。"
     },
     {
       "title": "Panasonic’s new Lumix L10 is a compact camera with a focus on photography",
@@ -982,7 +962,7 @@
       "published_iso": "2026-05-12T16:56:54+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 6.3,
+      "hours_since_published": 7.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1000,11 +980,75 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Panasonic新款Lumix L10相机专注摄影，适合电商渠道推广，提升销量。",
-      "suggested_action": "加强与Target的合作，制定针对Lumix L10的电商营销策略。"
+      "business_note": "Panasonic新款Lumix L10相机专注摄影，适合电商渠道推广。",
+      "suggested_action": "加强与Target的合作，优化电商营销策略，提升销量。"
+    },
+    {
+      "title": "Sony in Talks to Acquire Recognition Music Group In Multibillion Dollar Deal - The Hollywood Reporter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE5XNkNEM0hjLXdnOUhtRXlVUDB6NEQ3RnB4SWE2QzN4U2p1VjBjTk00TXJFYVdCcExHRlFPdXNLS0d4TjJ2XzR6V1ZuVnQzbWFVSDhIRG9WeHV6M1ZTRFhrN0lnVGJXUEYwTEI1c1Z4Y0lYQWdSVWsyakxJX3RnWGhGM0FoOVhOUUd0VHZxU2pub2tMUlh3S3JvQU95ZW51cV9NaGpNVVM1ZWdidjdCZmtuTmgtV2RCSWxweg?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE5XNkNEM0hjLXdnOUhtRXlVUDB6NEQ3RnB4SWE2QzN4U2p1VjBjTk00TXJFYVdCcExHRlFPdXNLS0d4TjJ2XzR6V1ZuVnQzbWFVSDhIRG9WeHV6M1ZTRFhrN0lnVGJXUEYwTEI1c1Z4Y0lYQWdSVWsyakxJX3RnWGhGM0FoOVhOUUd0VHZxU2pub2tMUlh3S3JvQU95ZW51cV9NaGpNVVM1ZWdidjdCZmtuTmgtV2RCSWxweg?oc=5",
+      "published": "Wed, 06 May 2026 18:11:36 GMT",
+      "published_iso": "2026-05-06T18:11:36+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 150.0,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Sony"
+        ],
+        "channels": [
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 189,
+      "display_title": "Sony in Talks to Acquire Recognition...",
+      "tags": [
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Sony收购Recognition Music Group将增强其在音乐领域的竞争力，推动品牌影响力。",
+      "suggested_action": "建议加强与Target的合作，提升电商平台的音乐相关产品销售。"
     }
   ],
   "channel_news": [
+    {
+      "title": "Best Buy has Bose QuietComfort headphones on sale for way cheaper than Walmart - NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQVVfeXFMUFBQVjRXUkRHakhOWTE2Zl9uNGV2Ul9SQ1k0OFl0bUxWaEs0N1AtMHhLOFh0dmVtSFV3clEtcjUzNC1YUXZjaE9SRTJqR1d3VWZLd2ZHZmVGeGhmd1hfSFM5WmxqTGNoaTBNSlAzM2FRaERlUTlXdnhFWld5ZkVHQ2xtdnFjU3VaQzl3dmdwb1FGN2dYZ3hqb29GNTRKQ3EzWUplLUVGakxwaVBwSWF4RkM1d0JoM1dGdmZEZWRPdG5QYmNXWkN6TzNZVkZSMVNWTFBxZURoazA?oc=5",
+      "published": "Tue, 12 May 2026 23:45:00 GMT",
+      "published_iso": "2026-05-12T23:45:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news",
+      "hours_since_published": 0.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [
+          "Best Buy",
+          "Walmart"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 312,
+      "display_title": "Best Buy has Bose QuietComfort...",
+      "tags": [
+        "🎧 耳机音频",
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Best Buy的促销活动对Bose耳机销售有显著影响，需关注电商渠道的竞争动态。",
+      "suggested_action": "建议加强与Best Buy的合作，提升品牌曝光和促销力度。"
+    },
     {
       "title": "Best Buy to Expand Store Count for the First Time in a Decade - Retail TouchPoints",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5\" target=\"_blank\">Best Buy to Exp",
@@ -1013,7 +1057,7 @@
       "published_iso": "2026-05-11T16:53:04+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 30.3,
+      "hours_since_published": 31.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1030,8 +1074,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy十年来首次扩展门店，表明零售市场复苏，需关注电商销售策略。",
-      "suggested_action": "加强电商平台与门店的联动，提升线上线下购物体验。"
+      "business_note": "Best Buy十年来首次扩展门店，表明零售市场复苏，需关注电商转型。",
+      "suggested_action": "加强电商平台营销，提升线上销售与门店协同效应。"
     },
     {
       "title": "Amazon is turning the retail speed war into a 30-minute sprint - Axios",
@@ -1041,7 +1085,7 @@
       "published_iso": "2026-05-12T10:01:17+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 13.2,
+      "hours_since_published": 14.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1059,7 +1103,35 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "亚马逊加速零售速度，对电商竞争格局产生重大影响。",
-      "suggested_action": "优化电商物流，提升配送效率，增强市场竞争力。"
+      "suggested_action": "优化电商平台物流，提升配送效率以应对竞争。"
+    },
+    {
+      "title": "Ecommerce Trends: How online retailers compete against Amazon - Digital Commerce 360",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOU",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOURaaEc1VWdwQnFGOXBrQ1NhVHRIUVo0N3VKdlZoWVlxSkxUTVdtX3dEVks5dEhfZGJKVk1WaTFIMHp5alNJOXJ5ckVsaWpwRExHSWhOYXQ0VFZtOTJnNlA0VldlNlhNamFBWHVvREZuelZVd2dqc2YwRERWMlhYSDVFeUl0RWl3RGVJOVpOS1B3eHhxbm1nQ1FrUFVLVl8?oc=5",
+      "published": "Thu, 07 May 2026 18:52:38 GMT",
+      "published_iso": "2026-05-07T18:52:38+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 125.3,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": []
+      },
+      "_score": 250,
+      "display_title": "Ecommerce Trends: How online retailers...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "电商竞争加剧，需提升品牌差异化以对抗亚马逊。",
+      "suggested_action": "加强电商平台的品牌营销，突出独特卖点。"
     },
     {
       "title": "My Best Buy Plus memberships just got a permanent price drop down to $29.99 - Mashable",
@@ -1069,7 +1141,7 @@
       "published_iso": "2026-05-11T21:31:41+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 25.7,
+      "hours_since_published": 26.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1087,8 +1159,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy Plus会员价格下调，有助于提升电商销售和用户粘性。",
-      "suggested_action": "加大电商推广力度，吸引更多用户购买会员。"
+      "business_note": "Best Buy Plus会员价格下调，将刺激电商销售和用户转化。",
+      "suggested_action": "加强电商推广，吸引新用户购买会员。"
     },
     {
       "title": "Index finds cheapest day at Walmart, Target: What Texans should know - MySA",
@@ -1098,7 +1170,7 @@
       "published_iso": "2026-05-06T10:07:49+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 157.1,
+      "hours_since_published": 158.1,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1116,64 +1188,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "了解Walmart和Target的最便宜购物日，有助于提升电商销售策略。",
-      "suggested_action": "针对最便宜购物日制定促销活动，吸引更多消费者。"
-    },
-    {
-      "title": "How Target Is Transforming Our Stores to Better Serve Guests - Target",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzg0TXppMGNXaExOZWd6U3dFd08xOVVobEZxLWIwNWxPaFVweGZ3WFNxb0Z3ZWx5bVRjZDlueHd4MldBa2xhcFduM0NzNEUwYTVkNnZVbnFuemRjYThoYUpwNXlfc2FFMDMtVWpwUThQdVJDSVA4Rnc4UnlOM2R6Y0xTVmlSaF9TUkpsSEFJM0lselVtTThVMTlSTWpHT1FsVlE?oc=5\" target=\"_blank\">How Target Is Transforming O",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzg0TXppMGNXaExOZWd6U3dFd08xOVVobEZxLWIwNWxPaFVweGZ3WFNxb0Z3ZWx5bVRjZDlueHd4MldBa2xhcFduM0NzNEUwYTVkNnZVbnFuemRjYThoYUpwNXlfc2FFMDMtVWpwUThQdVJDSVA4Rnc4UnlOM2R6Y0xTVmlSaF9TUkpsSEFJM0lselVtTThVMTlSTWpHT1FsVlE?oc=5",
-      "published": "Mon, 11 May 2026 16:50:56 GMT",
-      "published_iso": "2026-05-11T16:50:56+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 30.4,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 235,
-      "display_title": "How Target Is Transforming Our Stores...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Target通过转型门店提升顾客体验，增强电商与线下的协同效应。",
-      "suggested_action": "建议加强与Target的合作，优化电商渠道的品牌展示与促销策略。"
-    },
-    {
-      "title": "16 Target Store-Brand Ice Cream Flavors Tasted And Ranked, Worst To Best - The Takeout",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNR01kQ2lZaEpFQjRfd3MzUEZhZGpFcUQ1UFA2RnNjcm1GX3JxbTZOVm9uZTQ3UUsySmVkM0Z1TXd0TEducTNnaTJOSzB2R2ZTRGZPTDhXSjBsZlIwNkdZclh6Njd2ZGJER1hJaWpkTjRuWGwyOUpPVms1dU05VElhMlBuZGdMUkhfUUxEOW9aOEh4MGJX?oc=5\" target=\"_blank\">16 Target Store-Brand Ice Cream Flavors Tasted ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR01kQ2lZaEpFQjRfd3MzUEZhZGpFcUQ1UFA2RnNjcm1GX3JxbTZOVm9uZTQ3UUsySmVkM0Z1TXd0TEducTNnaTJOSzB2R2ZTRGZPTDhXSjBsZlIwNkdZclh6Njd2ZGJER1hJaWpkTjRuWGwyOUpPVms1dU05VElhMlBuZGdMUkhfUUxEOW9aOEh4MGJX?oc=5",
-      "published": "Sun, 10 May 2026 19:40:00 GMT",
-      "published_iso": "2026-05-10T19:40:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 51.5,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 235,
-      "display_title": "16 Target Store-Brand Ice Cream Flavors...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "中",
-      "business_note": "Target自有品牌冰淇淋的口味排名影响消费者购买决策。",
-      "suggested_action": "加强电商平台的Target冰淇淋推广，提升销量。"
+      "business_note": "了解Walmart和Target的最低价日，有助于优化电商促销策略。",
+      "suggested_action": "建议针对最低价日制定电商营销活动，吸引更多消费者。"
     }
   ],
   "products": [
@@ -1185,7 +1201,7 @@
       "url": "https://www.theverge.com/tech/928767/panasonic-lumix-l10-four-thirds-sensor-digital-camera-price-availability",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 6.3,
+      "hours_since_published": 7.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1195,7 +1211,7 @@
         "categories": []
       },
       "display_title": "Panasonic’s new Lumix L10 is a compact...",
-      "display_summary": "松下推出新款Lumix L10相机，专为摄影师设计，售价1499美元，现已接受预订，提供黑色",
+      "display_summary": "松下推出Lumix L10相机，专为摄影师设计，具紧凑机身和定焦镜头，现已接受预订，售价14",
       "tags": [
         "🚁 无人机影像",
         "🏬 平台电商",
@@ -1203,10 +1219,37 @@
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "松下推出新款Lumix。",
+      "product_intro": "松下推出Lumix。",
       "importance": "高",
-      "business_note": "Panasonic新款Lumix L10相机专注摄影，适合电商渠道推广，提升销量。",
-      "suggested_action": "加强与Target的合作，优化电商营销策略，吸引摄影爱好者。"
+      "business_note": "Panasonic新款Lumix L10相机专注摄影，适合电商渠道销售，需加强品牌宣传。",
+      "suggested_action": "在Target平台上进行针对性营销，提升产品曝光率。"
+    },
+    {
+      "name": "Sam Altman was winning on the stand, but it might not be enough",
+      "summary": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We",
+      "date": "2026-05-12T19:23:14-04:00",
+      "published_iso": "2026-05-12T23:23:14+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 0.8,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Sam Altman was winning on the stand...",
+      "display_summary": "陪审团听取了多位证人对Sam Altman的指控后，最终听到了他的证词，律师询问他被指控盗取",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "业务观察",
+      "product_intro": "陪审团听取了多位证人对Sam。",
+      "importance": "中",
+      "business_note": "品牌营销受损可能影响消费者信任，需加强品牌形象修复。",
+      "suggested_action": "制定危机公关策略，提升品牌透明度与消费者信任。"
     },
     {
       "name": "iOS 27 might add a lot more customization to the Camera app",
@@ -1216,7 +1259,7 @@
       "url": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 1.6,
+      "hours_since_published": 2.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1224,16 +1267,16 @@
         "categories": []
       },
       "display_title": "iOS 27 might add a lot more...",
-      "display_summary": "苹果即将发布的iOS 27更新将使相机应用实现全面自定义，提升手机摄影师的控制体验。",
+      "display_summary": "苹果即将发布的iOS 27更新将使相机应用实现全面自定义，用户可获得更多拍照控制。",
       "tags": [
         "🚁 无人机影像"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "苹果即将发布的iOS。",
+      "product_intro": "苹果即将发布的iOS 27更新将使相机应用实现全面自定义，用户可获得更多拍照控制。",
       "importance": "高",
-      "business_note": "iOS 27将增强相机应用的自定义功能，提升用户拍照体验。",
-      "suggested_action": "加大品牌营销力度，宣传新功能吸引摄影爱好者。"
+      "business_note": "iOS 27的相机应用自定义功能将吸引更多摄影爱好者，提升品牌吸引力。",
+      "suggested_action": "针对新功能制定品牌营销策略，吸引摄影用户关注。"
     },
     {
       "name": "Meta won’t let you block its AI account on Threads",
@@ -1243,7 +1286,7 @@
       "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 2.6,
+      "hours_since_published": 3.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1259,8 +1302,8 @@
       "judgement_label": "新品发布",
       "product_intro": "Meta正在测试Threads新功能，用户可标记Meta。",
       "importance": "中",
-      "business_note": "Meta推出AI账号功能，可能影响品牌与用户互动方式，需关注其对品牌营销的影响。",
-      "suggested_action": "建议团队评估该功能对品牌传播的潜在影响，调整营销策略。"
+      "business_note": "Meta推出AI账户功能，可能影响品牌与用户互动方式。",
+      "suggested_action": "关注Threads平台动态，调整品牌营销策略以适应新功能。"
     },
     {
       "name": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
@@ -1270,7 +1313,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.6,
+      "hours_since_published": 6.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1278,16 +1321,16 @@
         "categories": []
       },
       "display_title": "Sam Altman says Elon Musk’s mind games...",
-      "display_summary": "OpenAI CEO Altman称，马斯克对AI初创文化造成“巨大损害”，并在诉讼中提到马",
+      "display_summary": "OpenAI CEO萨姆·阿尔特曼表示，埃隆·马斯克对AI初创企业文化造成了“巨大损害”。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "重大事件",
-      "product_intro": "OpenAI CEO。",
+      "product_intro": "OpenAI。",
       "importance": "高",
       "business_note": "Elon Musk对OpenAI文化的影响可能影响品牌形象，需关注品牌营销策略。",
-      "suggested_action": "加强品牌传播，提升OpenAI正面形象，减少负面影响。"
+      "suggested_action": "加强品牌营销，提升OpenAI正面形象，减少负面影响。"
     },
     {
       "name": "Google announces its Chromebook successor: the Googlebook",
@@ -1297,7 +1340,7 @@
       "url": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 6.2,
+      "hours_since_published": 7.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1305,43 +1348,16 @@
         "categories": []
       },
       "display_title": "Google announces its Chromebook...",
-      "display_summary": "谷歌将在秋季推出新系列笔记本电脑Googlebooks，具体细节尚未公布，此举为其安卓战略的",
+      "display_summary": "谷歌将在秋季推出新款笔记本电脑Googlebooks，具体细节尚未披露，此举为其Androi",
       "tags": [
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "谷歌将在秋季推出新系列笔记本电脑Googlebooks，具体细节尚未公布，。",
+      "product_intro": "谷歌将在秋季推出新款笔记本电脑Googlebooks，具体细节尚未披露，此。",
       "importance": "高",
-      "business_note": "Google推出新款笔记本电脑Googlebook，将影响市场竞争格局。",
-      "suggested_action": "加强品牌营销，提前布局Googlebook相关推广策略。"
-    },
-    {
-      "name": "Gemini&#8217;s latest updates are all about controlling your phone",
-      "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions,",
-      "date": "2026-05-12T13:00:00-04:00",
-      "published_iso": "2026-05-12T17:00:00+00:00",
-      "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-      "source": "The Verge",
-      "_score": 43,
-      "hours_since_published": 6.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "Gemini&#8217;s latest updates are all...",
-      "display_summary": "谷歌在预热I/O的Android展示中发布多项新Gemini功能，旨在提升手机使用体验，Ge",
-      "tags": [
-        "🚀 新品"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "业务观察",
-      "product_intro": "谷歌在预热I/O的Android展示中发布多项新Gemini功能，旨在提升。",
-      "importance": "高",
-      "business_note": "Gemini新功能将提升用户手机使用体验，影响品牌营销策略。",
-      "suggested_action": "加大对Gemini功能的宣传力度，提升品牌影响力。"
+      "business_note": "Google推出新款笔记本电脑Googlebook，将影响品牌营销策略。",
+      "suggested_action": "加强品牌宣传，提前布局Googlebook相关市场活动。"
     }
   ],
   "monitored_entities": [
@@ -1358,7 +1374,7 @@
           "published_iso": "2026-05-06T10:07:49+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 157.1,
+          "hours_since_published": 158.1,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1376,8 +1392,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "了解Walmart和Target的最便宜购物日，有助于提升电商销售策略。",
-          "suggested_action": "针对最便宜购物日制定促销活动，吸引更多消费者。"
+          "business_note": "了解Walmart和Target的最低价日，有助于优化电商促销策略。",
+          "suggested_action": "建议针对最低价日制定电商营销活动，吸引更多消费者。"
         },
         {
           "title": "How Target Is Transforming Our Stores to Better Serve Guests - Target",
@@ -1387,7 +1403,7 @@
           "published_iso": "2026-05-11T16:50:56+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 30.4,
+          "hours_since_published": 31.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1402,267 +1418,6 @@
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Target通过转型门店提升顾客体验，增强电商与线下的协同效应。",
-          "suggested_action": "建议加强与Target的合作，优化电商渠道的品牌展示与促销策略。"
-        }
-      ]
-    },
-    {
-      "name": "Amazon",
-      "type": "渠道",
-      "count": 3,
-      "items": [
-        {
-          "title": "Amazon is turning the retail speed war into a 30-minute sprint - Axios",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1qVC1Jd2MzNGRvMElGSUE4YUlFZHlXcXJOTmhFaXNlSVplSTFpbHVqSnA1eWJvYWstLXBONW5aWk14Q0E0OE1ldmtsYUdvNTI0SFZNRndCX3diMUpuYWtEYlR2TWRPWEt2eXBKdGladktMZHpYNnJjSVNlanV4Zw?oc=5\" target=\"_blank\">Amazon is turning the retail speed war into a 30-minute sprint</a>&nbsp;&nbsp",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qVC1Jd2MzNGRvMElGSUE4YUlFZHlXcXJOTmhFaXNlSVplSTFpbHVqSnA1eWJvYWstLXBONW5aWk14Q0E0OE1ldmtsYUdvNTI0SFZNRndCX3diMUpuYWtEYlR2TWRPWEt2eXBKdGladktMZHpYNnJjSVNlanV4Zw?oc=5",
-          "published": "Tue, 12 May 2026 10:01:17 GMT",
-          "published_iso": "2026-05-12T10:01:17+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 13.2,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": []
-          },
-          "_score": 280,
-          "display_title": "Amazon is turning the retail speed war...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "亚马逊加速零售速度，对电商竞争格局产生重大影响。",
-          "suggested_action": "优化电商物流，提升配送效率，增强市场竞争力。"
-        },
-        {
-          "title": "The DJI Mini 5 Pro drone hits new record-low price at Amazon — save over $500 this weekend - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1FcVMzZFpLREpaZkVweUJjZFJxSHFSeVdRTVM5M0p1VTRGSkdxaTVWdm9kZWRGQXN2N2xjRHhfNXZWaWVOdW1oRFdwUEdSM0JPUkpIdkFXN2gtOGFUQlJOQnRkQ1VjRUtucHZySA?oc=5\" target=\"_blank\">The DJI Mini 5 Pro drone hits new record-low price at Amazon — save over $500 this weekend</a>&nbsp;&",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FcVMzZFpLREpaZkVweUJjZFJxSHFSeVdRTVM5M0p1VTRGSkdxaTVWdm9kZWRGQXN2N2xjRHhfNXZWaWVOdW1oRFdwUEdSM0JPUkpIdkFXN2gtOGFUQlJOQnRkQ1VjRUtucHZySA?oc=5",
-          "published": "Tue, 12 May 2026 21:00:32 GMT",
-          "published_iso": "2026-05-12T21:00:32+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 2.2,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "DJI"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": []
-          },
-          "_score": 241,
-          "display_title": "The DJI Mini 5 Pro drone hits new...",
-          "tags": [
-            "🚁 无人机影像",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "DJI Mini 5 Pro在亚马逊的降价将刺激电商销售，提升品牌曝光。",
-          "suggested_action": "建议加大在电商平台的广告投放，抓住降价机会。"
-        }
-      ]
-    },
-    {
-      "name": "headphone",
-      "type": "品类",
-      "count": 3,
-      "items": [
-        {
-          "title": "Educational Touchscreen Watch For Kids PlayZoom 3 Kids Smartwatch & Headphones Set – Educational Tech Toy With Camera, Music, Games, Audio Stories And Learning Activities, Ages 4-12 And Bluetooth Headphones - aviglianonews.it",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGp5Ymh4VXk2dTl6dmVDcXN2TjZFdFpzQmZKZjdIeFdOd0RwVTVNVVJ3RFFsQURPMGlSdlhZTFFWQWkwWTNWVmh5ZFJMV0NYZGIyc1RfcW9leWVjSFliMFNCaUZPS3ZMQ0ZkVTBYRzU1bUZYVHBjemZBSVg1R0VJcU9yU3dxazJFMGhzbmpjVFlNQlpvbU1BN3ZnYw?oc=5\" target=\"_blank\">Educational Touchscreen Watch For Kid",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGp5Ymh4VXk2dTl6dmVDcXN2TjZFdFpzQmZKZjdIeFdOd0RwVTVNVVJ3RFFsQURPMGlSdlhZTFFWQWkwWTNWVmh5ZFJMV0NYZGIyc1RfcW9leWVjSFliMFNCaUZPS3ZMQ0ZkVTBYRzU1bUZYVHBjemZBSVg1R0VJcU9yU3dxazJFMGhzbmpjVFlNQlpvbU1BN3ZnYw?oc=5",
-          "published": "Mon, 11 May 2026 20:12:05 GMT",
-          "published_iso": "2026-05-11T20:12:05+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 27.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 251,
-          "display_title": "Educational Touchscreen Watch For Kids...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🚁 无人机影像"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "针对儿童的教育类智能手表和耳机组合，符合市场需求，提升品牌影响力。",
-          "suggested_action": "加大电商渠道推广，结合品牌营销活动吸引家长关注。"
-        },
-        {
-          "title": "Walmart’s $168 noise-canceling headphones with improved bass are now just $19 - thestreet.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWZVdWxlNEF0MmJudDAxSDJGeHZEcERuY29NWG5GX2VMb19iRi0wbDRPOFVURmk1WGFaQkI3d0tLTjNzTzZLZGlDaWFtUWpYaElzd0JfSjJYeGljSG11MFBuTkQ4VWw3UW9oM1ZsMS1ja01kQlNGQm5YQ2g0ODVkQkFYV0taSzUwN1pnQU9Va1F2WGJUYlBfUExWWWk4WVQt?oc=5\" target=\"_blank\">Walmart’s $168 noise-canceling ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWZVdWxlNEF0MmJudDAxSDJGeHZEcERuY29NWG5GX2VMb19iRi0wbDRPOFVURmk1WGFaQkI3d0tLTjNzTzZLZGlDaWFtUWpYaElzd0JfSjJYeGljSG11MFBuTkQ4VWw3UW9oM1ZsMS1ja01kQlNGQm5YQ2g0ODVkQkFYV0taSzUwN1pnQU9Va1F2WGJUYlBfUExWWWk4WVQt?oc=5",
-          "published": "Sat, 09 May 2026 10:30:00 GMT",
-          "published_iso": "2026-05-09T10:30:00+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 84.7,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 228,
-          "display_title": "Walmart’s $168 noise-canceling...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 2,
-      "items": [
-        {
-          "title": "Best Buy to Expand Store Count for the First Time in a Decade - Retail TouchPoints",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5\" target=\"_blank\">Best Buy to Exp",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5",
-          "published": "Mon, 11 May 2026 16:53:04 GMT",
-          "published_iso": "2026-05-11T16:53:04+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 30.3,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 303,
-          "display_title": "Best Buy to Expand Store Count for the...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Best Buy十年来首次扩展门店，表明零售市场复苏，需关注电商销售策略。",
-          "suggested_action": "加强电商平台与门店的联动，提升线上线下购物体验。"
-        },
-        {
-          "title": "My Best Buy Plus memberships just got a permanent price drop down to $29.99 - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE10cDVrVHJ6eXVOOE9pQ2dfQ1lJcWszMkdhYjd1NFdoNE5VdEZDTkNBQWF3MU9mZ0hiS2s1aDg3ZTRuS1dkaXZVbk5ISDRBUFVwVFZ0YVBUVkZGTmpkVWVvcU5Hd3hIVEx2Y2pfM1lYVi1CX1A2?oc=5\" target=\"_blank\">My Best Buy Plus memberships just got a permanent price drop down to $29.99</a>&nbsp;&nbsp;",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10cDVrVHJ6eXVOOE9pQ2dfQ1lJcWszMkdhYjd1NFdoNE5VdEZDTkNBQWF3MU9mZ0hiS2s1aDg3ZTRuS1dkaXZVbk5ISDRBUFVwVFZ0YVBUVkZGTmpkVWVvcU5Hd3hIVEx2Y2pfM1lYVi1CX1A2?oc=5",
-          "published": "Mon, 11 May 2026 21:31:41 GMT",
-          "published_iso": "2026-05-11T21:31:41+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 25.7,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 245,
-          "display_title": "My Best Buy Plus memberships just got a...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Best Buy Plus会员价格下调，有助于提升电商销售和用户粘性。",
-          "suggested_action": "加大电商推广力度，吸引更多用户购买会员。"
-        }
-      ]
-    },
-    {
-      "name": "Walmart",
-      "type": "渠道",
-      "count": 2,
-      "items": [
-        {
-          "title": "Index finds cheapest day at Walmart, Target: What Texans should know - MySA",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1lVZmJXRGZVWTctdzk4eUxWejlaU05BREFvMnhtTV9HbTBZRThJTkhSTnZzSUZZSnBVZ3BSUmJDcnM2S2tGcE5Xai1NaEN3aEdlY0E5LXhKLVJYRG03VFQ4UUZ6UnBRU1RDRW00WXFUc1lITExKZnhadEpYZ1U1eHhQeXdKQQ?oc=5\" target=\"_blank\">Index finds cheapest day at Walmart, Target: What Texans should k",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1lVZmJXRGZVWTctdzk4eUxWejlaU05BREFvMnhtTV9HbTBZRThJTkhSTnZzSUZZSnBVZ3BSUmJDcnM2S2tGcE5Xai1NaEN3aEdlY0E5LXhKLVJYRG03VFQ4UUZ6UnBRU1RDRW00WXFUc1lITExKZnhadEpYZ1U1eHhQeXdKQQ?oc=5",
-          "published": "Wed, 06 May 2026 10:07:49 GMT",
-          "published_iso": "2026-05-06T10:07:49+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 157.1,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 244,
-          "display_title": "Index finds cheapest day at Walmart...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "了解Walmart和Target的最便宜购物日，有助于提升电商销售策略。",
-          "suggested_action": "针对最便宜购物日制定促销活动，吸引更多消费者。"
-        },
-        {
-          "title": "Walmart’s $168 noise-canceling headphones with improved bass are now just $19 - thestreet.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWZVdWxlNEF0MmJudDAxSDJGeHZEcERuY29NWG5GX2VMb19iRi0wbDRPOFVURmk1WGFaQkI3d0tLTjNzTzZLZGlDaWFtUWpYaElzd0JfSjJYeGljSG11MFBuTkQ4VWw3UW9oM1ZsMS1ja01kQlNGQm5YQ2g0ODVkQkFYV0taSzUwN1pnQU9Va1F2WGJUYlBfUExWWWk4WVQt?oc=5\" target=\"_blank\">Walmart’s $168 noise-canceling ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWZVdWxlNEF0MmJudDAxSDJGeHZEcERuY29NWG5GX2VMb19iRi0wbDRPOFVURmk1WGFaQkI3d0tLTjNzTzZLZGlDaWFtUWpYaElzd0JfSjJYeGljSG11MFBuTkQ4VWw3UW9oM1ZsMS1ja01kQlNGQm5YQ2g0ODVkQkFYV0taSzUwN1pnQU9Va1F2WGJUYlBfUExWWWk4WVQt?oc=5",
-          "published": "Sat, 09 May 2026 10:30:00 GMT",
-          "published_iso": "2026-05-09T10:30:00+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 84.7,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 228,
-          "display_title": "Walmart’s $168 noise-canceling...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
           "impact_area": "电商"
         }
       ]
@@ -1670,7 +1425,7 @@
     {
       "name": "Sony",
       "type": "品牌",
-      "count": 2,
+      "count": 4,
       "items": [
         {
           "title": "There's a new top dog in our best Sony earbuds guide - What Hi-Fi?",
@@ -1680,7 +1435,7 @@
           "published_iso": "2026-05-06T13:57:32+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 153.2,
+          "hours_since_published": 154.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1699,8 +1454,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sony耳机在市场上获得了新的认可，提升品牌形象和销量潜力。",
-          "suggested_action": "加大对Sony耳机的电商推广和品牌营销力度，吸引更多消费者关注。"
+          "business_note": "Sony耳机在市场上表现突出，提升品牌影响力，有助于吸引更多消费者。",
+          "suggested_action": "加强对Sony耳机的电商推广，提升品牌曝光率和销售转化。"
         },
         {
           "title": "Sony in Talks to Acquire Recognition Music Group In Multibillion Dollar Deal - The Hollywood Reporter",
@@ -1710,7 +1465,7 @@
           "published_iso": "2026-05-06T18:11:36+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 149.0,
+          "hours_since_published": 150.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1727,7 +1482,282 @@
             "🏬 平台电商",
             "💰 价格促销"
           ],
-          "impact_area": "电商"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Sony收购Recognition Music Group将增强其在音乐领域的竞争力，推动品牌影响力。",
+          "suggested_action": "建议加强与Target的合作，提升电商平台的音乐相关产品销售。"
+        }
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 3,
+      "items": [
+        {
+          "title": "Best Buy has Bose QuietComfort headphones on sale for way cheaper than Walmart - NJ.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQV",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQVVfeXFMUFBQVjRXUkRHakhOWTE2Zl9uNGV2Ul9SQ1k0OFl0bUxWaEs0N1AtMHhLOFh0dmVtSFV3clEtcjUzNC1YUXZjaE9SRTJqR1d3VWZLd2ZHZmVGeGhmd1hfSFM5WmxqTGNoaTBNSlAzM2FRaERlUTlXdnhFWld5ZkVHQ2xtdnFjU3VaQzl3dmdwb1FGN2dYZ3hqb29GNTRKQ3EzWUplLUVGakxwaVBwSWF4RkM1d0JoM1dGdmZEZWRPdG5QYmNXWkN6TzNZVkZSMVNWTFBxZURoazA?oc=5",
+          "published": "Tue, 12 May 2026 23:45:00 GMT",
+          "published_iso": "2026-05-12T23:45:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 0.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Best Buy",
+              "Walmart"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 312,
+          "display_title": "Best Buy has Bose QuietComfort...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Best Buy的促销活动对Bose耳机销售有显著影响，需关注电商渠道的竞争动态。",
+          "suggested_action": "建议加强与Best Buy的合作，提升品牌曝光和促销力度。"
+        },
+        {
+          "title": "Best Buy to Expand Store Count for the First Time in a Decade - Retail TouchPoints",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5\" target=\"_blank\">Best Buy to Exp",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5",
+          "published": "Mon, 11 May 2026 16:53:04 GMT",
+          "published_iso": "2026-05-11T16:53:04+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 31.3,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 303,
+          "display_title": "Best Buy to Expand Store Count for the...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Best Buy十年来首次扩展门店，表明零售市场复苏，需关注电商转型。",
+          "suggested_action": "加强电商平台营销，提升线上销售与门店协同效应。"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "渠道",
+      "count": 3,
+      "items": [
+        {
+          "title": "Best Buy has Bose QuietComfort headphones on sale for way cheaper than Walmart - NJ.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQV",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQVVfeXFMUFBQVjRXUkRHakhOWTE2Zl9uNGV2Ul9SQ1k0OFl0bUxWaEs0N1AtMHhLOFh0dmVtSFV3clEtcjUzNC1YUXZjaE9SRTJqR1d3VWZLd2ZHZmVGeGhmd1hfSFM5WmxqTGNoaTBNSlAzM2FRaERlUTlXdnhFWld5ZkVHQ2xtdnFjU3VaQzl3dmdwb1FGN2dYZ3hqb29GNTRKQ3EzWUplLUVGakxwaVBwSWF4RkM1d0JoM1dGdmZEZWRPdG5QYmNXWkN6TzNZVkZSMVNWTFBxZURoazA?oc=5",
+          "published": "Tue, 12 May 2026 23:45:00 GMT",
+          "published_iso": "2026-05-12T23:45:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 0.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Best Buy",
+              "Walmart"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 312,
+          "display_title": "Best Buy has Bose QuietComfort...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Best Buy的促销活动对Bose耳机销售有显著影响，需关注电商渠道的竞争动态。",
+          "suggested_action": "建议加强与Best Buy的合作，提升品牌曝光和促销力度。"
+        },
+        {
+          "title": "Index finds cheapest day at Walmart, Target: What Texans should know - MySA",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1lVZmJXRGZVWTctdzk4eUxWejlaU05BREFvMnhtTV9HbTBZRThJTkhSTnZzSUZZSnBVZ3BSUmJDcnM2S2tGcE5Xai1NaEN3aEdlY0E5LXhKLVJYRG03VFQ4UUZ6UnBRU1RDRW00WXFUc1lITExKZnhadEpYZ1U1eHhQeXdKQQ?oc=5\" target=\"_blank\">Index finds cheapest day at Walmart, Target: What Texans should k",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1lVZmJXRGZVWTctdzk4eUxWejlaU05BREFvMnhtTV9HbTBZRThJTkhSTnZzSUZZSnBVZ3BSUmJDcnM2S2tGcE5Xai1NaEN3aEdlY0E5LXhKLVJYRG03VFQ4UUZ6UnBRU1RDRW00WXFUc1lITExKZnhadEpYZ1U1eHhQeXdKQQ?oc=5",
+          "published": "Wed, 06 May 2026 10:07:49 GMT",
+          "published_iso": "2026-05-06T10:07:49+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 158.1,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 244,
+          "display_title": "Index finds cheapest day at Walmart...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "了解Walmart和Target的最低价日，有助于优化电商促销策略。",
+          "suggested_action": "建议针对最低价日制定电商营销活动，吸引更多消费者。"
+        }
+      ]
+    },
+    {
+      "name": "headphone",
+      "type": "品类",
+      "count": 3,
+      "items": [
+        {
+          "title": "Best Buy has Bose QuietComfort headphones on sale for way cheaper than Walmart - NJ.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQV",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2tzWVgtWFFfbTc3N3pyNHJvUmFLMWNwa2lWWmpTdHd6QjlwSGNUU3dVNmRvVFpVYmhKTzctcTZBRDNYRkpscTRCNE83aC1kbXVlRUs1YnFONm43a1FXb2dCMjlCc1I3dVUyN2ZneE5PNElSRXM1QlYxS2YyQzV3YVJhREVLZkw3VmJxQW9CZ2RmRVRkQW9fRDlvYjZFZTBfYzVSWGVlYVB3UjFUQWk4UnZ1RjA0QXYwOGk3VFhUWGdxZTDSAdcBQVVfeXFMUFBQVjRXUkRHakhOWTE2Zl9uNGV2Ul9SQ1k0OFl0bUxWaEs0N1AtMHhLOFh0dmVtSFV3clEtcjUzNC1YUXZjaE9SRTJqR1d3VWZLd2ZHZmVGeGhmd1hfSFM5WmxqTGNoaTBNSlAzM2FRaERlUTlXdnhFWld5ZkVHQ2xtdnFjU3VaQzl3dmdwb1FGN2dYZ3hqb29GNTRKQ3EzWUplLUVGakxwaVBwSWF4RkM1d0JoM1dGdmZEZWRPdG5QYmNXWkN6TzNZVkZSMVNWTFBxZURoazA?oc=5",
+          "published": "Tue, 12 May 2026 23:45:00 GMT",
+          "published_iso": "2026-05-12T23:45:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 0.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Best Buy",
+              "Walmart"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 312,
+          "display_title": "Best Buy has Bose QuietComfort...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Best Buy的促销活动对Bose耳机销售有显著影响，需关注电商渠道的竞争动态。",
+          "suggested_action": "建议加强与Best Buy的合作，提升品牌曝光和促销力度。"
+        },
+        {
+          "title": "Educational Touchscreen Watch For Kids PlayZoom 3 Kids Smartwatch & Headphones Set – Educational Tech Toy With Camera, Music, Games, Audio Stories And Learning Activities, Ages 4-12 And Bluetooth Headphones - aviglianonews.it",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGp5Ymh4VXk2dTl6dmVDcXN2TjZFdFpzQmZKZjdIeFdOd0RwVTVNVVJ3RFFsQURPMGlSdlhZTFFWQWkwWTNWVmh5ZFJMV0NYZGIyc1RfcW9leWVjSFliMFNCaUZPS3ZMQ0ZkVTBYRzU1bUZYVHBjemZBSVg1R0VJcU9yU3dxazJFMGhzbmpjVFlNQlpvbU1BN3ZnYw?oc=5\" target=\"_blank\">Educational Touchscreen Watch For Kid",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGp5Ymh4VXk2dTl6dmVDcXN2TjZFdFpzQmZKZjdIeFdOd0RwVTVNVVJ3RFFsQURPMGlSdlhZTFFWQWkwWTNWVmh5ZFJMV0NYZGIyc1RfcW9leWVjSFliMFNCaUZPS3ZMQ0ZkVTBYRzU1bUZYVHBjemZBSVg1R0VJcU9yU3dxazJFMGhzbmpjVFlNQlpvbU1BN3ZnYw?oc=5",
+          "published": "Mon, 11 May 2026 20:12:05 GMT",
+          "published_iso": "2026-05-11T20:12:05+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 28.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 251,
+          "display_title": "Educational Touchscreen Watch For Kids...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🚁 无人机影像"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "针对儿童市场的教育类智能手表和耳机组合，具有较高的市场潜力。",
+          "suggested_action": "加强电商平台的品牌推广，提升产品曝光率。"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "type": "渠道",
+      "count": 2,
+      "items": [
+        {
+          "title": "Amazon is turning the retail speed war into a 30-minute sprint - Axios",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1qVC1Jd2MzNGRvMElGSUE4YUlFZHlXcXJOTmhFaXNlSVplSTFpbHVqSnA1eWJvYWstLXBONW5aWk14Q0E0OE1ldmtsYUdvNTI0SFZNRndCX3diMUpuYWtEYlR2TWRPWEt2eXBKdGladktMZHpYNnJjSVNlanV4Zw?oc=5\" target=\"_blank\">Amazon is turning the retail speed war into a 30-minute sprint</a>&nbsp;&nbsp",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qVC1Jd2MzNGRvMElGSUE4YUlFZHlXcXJOTmhFaXNlSVplSTFpbHVqSnA1eWJvYWstLXBONW5aWk14Q0E0OE1ldmtsYUdvNTI0SFZNRndCX3diMUpuYWtEYlR2TWRPWEt2eXBKdGladktMZHpYNnJjSVNlanV4Zw?oc=5",
+          "published": "Tue, 12 May 2026 10:01:17 GMT",
+          "published_iso": "2026-05-12T10:01:17+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 14.2,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": []
+          },
+          "_score": 280,
+          "display_title": "Amazon is turning the retail speed war...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊加速零售速度，对电商竞争格局产生重大影响。",
+          "suggested_action": "优化电商平台物流，提升配送效率以应对竞争。"
+        },
+        {
+          "title": "Ecommerce Trends: How online retailers compete against Amazon - Digital Commerce 360",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOU",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1Nad2JNMVlRNUN1dnhjQ1JodnpxdG9NZmhQQmt6MVR0RWxyNk1XVWk2c2Vka3NrcmU3RnRRU0tOY25YNm9PbzgzT0JsVXlwZ0tQN3RhMTg1MndWeGZJb2NDcHRqZjJyd0ZncUV5R3d1aTRzR1Y1dWlMRHA2cW9KTTRoYWx4RU5VYm82Qzhfb1Q1dnlpenpNbnFHc1V5QWNSWHVzbFY3Qkhnc2PSAbABQVVfeXFMTzVlRy1fZ19HanRZbEFvNkZoOURaaEc1VWdwQnFGOXBrQ1NhVHRIUVo0N3VKdlZoWVlxSkxUTVdtX3dEVks5dEhfZGJKVk1WaTFIMHp5alNJOXJ5ckVsaWpwRExHSWhOYXQ0VFZtOTJnNlA0VldlNlhNamFBWHVvREZuelZVd2dqc2YwRERWMlhYSDVFeUl0RWl3RGVJOVpOS1B3eHhxbm1nQ1FrUFVLVl8?oc=5",
+          "published": "Thu, 07 May 2026 18:52:38 GMT",
+          "published_iso": "2026-05-07T18:52:38+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 125.3,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": []
+          },
+          "_score": 250,
+          "display_title": "Ecommerce Trends: How online retailers...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "电商竞争加剧，需提升品牌差异化以对抗亚马逊。",
+          "suggested_action": "加强电商平台的品牌营销，突出独特卖点。"
         }
       ]
     },
@@ -1744,7 +1774,7 @@
           "published_iso": "2026-05-11T13:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 34.2,
+          "hours_since_published": 35.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1763,8 +1793,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "当前可穿戴运动相机捆绑优惠显著，有助于提升品牌曝光和销售。",
-          "suggested_action": "利用此优惠进行电商推广，吸引更多消费者关注和购买。"
+          "business_note": "当前可穿戴相机捆绑优惠可提升品牌曝光和销售，抓住消费者需求。",
+          "suggested_action": "加强电商平台宣传，利用折扣吸引更多消费者购买。"
         },
         {
           "title": "This Wearable Insta360 Action Camera Bundle Is Nearly $90 Off Right Now - Lifehacker",
@@ -1774,7 +1804,7 @@
           "published_iso": "2026-05-11T13:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 34.2,
+          "hours_since_published": 35.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1793,8 +1823,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "当前Insta360运动相机捆绑优惠，吸引消费者关注，提升品牌曝光。",
-          "suggested_action": "利用电商平台推广此优惠，增强品牌营销效果。"
+          "business_note": "当前Insta360运动相机捆绑优惠显著，有助于提升品牌曝光和销量。",
+          "suggested_action": "利用此优惠进行电商推广，增强品牌营销活动。"
         }
       ]
     },
@@ -1811,7 +1841,7 @@
           "published_iso": "2026-05-11T13:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 34.2,
+          "hours_since_published": 35.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1830,8 +1860,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "当前可穿戴运动相机捆绑优惠显著，有助于提升品牌曝光和销售。",
-          "suggested_action": "利用此优惠进行电商推广，吸引更多消费者关注和购买。"
+          "business_note": "当前可穿戴相机捆绑优惠可提升品牌曝光和销售，抓住消费者需求。",
+          "suggested_action": "加强电商平台宣传，利用折扣吸引更多消费者购买。"
         },
         {
           "title": "This Wearable Insta360 Action Camera Bundle Is Nearly $90 Off Right Now - Lifehacker",
@@ -1841,7 +1871,7 @@
           "published_iso": "2026-05-11T13:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 34.2,
+          "hours_since_published": 35.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1860,28 +1890,28 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "当前Insta360运动相机捆绑优惠，吸引消费者关注，提升品牌曝光。",
-          "suggested_action": "利用电商平台推广此优惠，增强品牌营销效果。"
+          "business_note": "当前Insta360运动相机捆绑优惠显著，有助于提升品牌曝光和销量。",
+          "suggested_action": "利用此优惠进行电商推广，增强品牌营销活动。"
         }
       ]
     }
   ],
   "takeaways": [
-    "Best Buy扩大门店数量将增强其市场竞争力，可能对亚马逊造成压力。",
-    "亚马逊在零售速度上的创新将进一步提升其电商领导地位，其他平台需加快应对。",
-    "My Best Buy Plus会员的升级可能吸引更多忠实客户，提升Best Buy的销售额。",
-    "沃尔玛的价格指数显示出竞争加剧，消费者将受益于更具吸引力的价格策略。",
-    "Target的门店转型策略可能吸引更多年轻消费者，提升品牌形象和市场份额。"
+    "Best Buy扩大门店数量将增强其在消费电子市场的竞争力，可能对亚马逊构成压力。",
+    "亚马逊加速零售速度战，将进一步推动消费者向电商平台转移，影响传统零售商。",
+    "新推出的教育触控手表可能吸引家长关注，推动儿童智能设备市场的增长。",
+    "索尼新产品登顶，显示其在消费电子领域的持续创新能力，可能影响竞争对手的市场策略。",
+    "Panasonic的Lumix L10紧凑型相机将吸引摄影爱好者，可能改变市场对便携相机的需求。"
   ],
   "opportunity_signals": [
-    "Best Buy扩展门店数量，表明零售市场复苏，需优化电商销售策略以最大化门店与线上销售的协同效应。",
-    "亚马逊加速零售速度，建议关注提升物流效率和用户体验，以应对日益激烈的电商竞争。",
-    "针对儿童的教育类智能手表和耳机组合符合市场需求，建议加大品牌营销投入，提升产品在目标消费群体中的认知度。"
+    "Best Buy扩展门店数量，表明零售市场复苏，需加大对电商转型的投资以保持竞争优势。",
+    "针对儿童市场的教育类智能手表和耳机组合具有较高的市场潜力，建议开发相关产品以满足新兴需求。",
+    "亚马逊加速零售速度，将显著改变电商竞争格局，需提升品牌差异化策略以增强市场竞争力。"
   ],
   "risk_signals": [
-    "亚马逊加速零售速度可能导致竞争对手市场份额下降，需警惕电商策略的调整。",
-    "Best Buy扩展门店虽表明市场复苏，但若电商销售策略未能跟上，可能影响整体业绩。",
-    "DJI Mini 5 Pro降价刺激销售，但若未能维持品牌形象，可能导致长期客户流失。"
+    "亚马逊加速零售速度，可能导致Best Buy在电商市场的竞争力下降，需密切关注其市场份额变化。",
+    "Best Buy扩展门店虽表明零售市场复苏，但若未能有效整合线上线下资源，可能影响整体盈利能力。",
+    "随着电商竞争加剧，若未能提升品牌差异化，可能导致用户流失和销售下滑。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

@@ -1,6 +1,15 @@
 {
   "consumer_electronics": [
     {
+      "title": "Xbox is now XBOX",
+      "summary": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or XBOX. The results were in favor of XBOX, and the company has now renamed its X account. [&#8230;]",
+      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "published": "2026-05-15T19:10:13-04:00",
+      "published_iso": "2026-05-15T23:10:13+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
       "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube ",
       "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
@@ -78,15 +87,6 @@
       "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
       "published": "2026-05-15T12:42:59-04:00",
       "published_iso": "2026-05-15T16:42:59+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
-      "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "published": "2026-05-15T12:00:00-04:00",
-      "published_iso": "2026-05-15T16:00:00+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics"
     },
@@ -424,20 +424,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "This Wearable Insta360 Action Camera Bundle Is Nearly $90 Off Right Now - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlJ1WThEd25ucUNFSm44WlVQWEFrM0NNSFhTd1J2TXpoOFFlUU9BMHZIdWEyRHZFNFdqcHhLdkduekkyeFZZc2lIWENlS3ZjR044b21tQmhVNHZIb09YYU5QMlppWUhkbGNvNVRWQlpEYmxXaXNDQ29FM05TNDlpR3JpQTBLOXp1d2lJUHdvVGJMZw?oc=5\" target=\"_blank\">This Wearable Insta360 Action Camera Bundle Is Ne",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlJ1WThEd25ucUNFSm44WlVQWEFrM0NNSFhTd1J2TXpoOFFlUU9BMHZIdWEyRHZFNFdqcHhLdkduekkyeFZZc2lIWENlS3ZjR044b21tQmhVNHZIb09YYU5QMlppWUhkbGNvNVRWQlpEYmxXaXNDQ29FM05TNDlpR3JpQTBLOXp1d2lJUHdvVGJMZw?oc=5",
-      "published": "Mon, 11 May 2026 13:00:00 GMT",
-      "published_iso": "2026-05-11T13:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Best wireless earbuds 2026: 7 sensational pairs reviewed and rated by our experts - What Hi-Fi?",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklvUkNQWjh0Qmd4azBqcGpGZ2N6bDhxOEdnZ0llcU80Z0ZOcVhXSUdTSnZTdTVwYnlqZl8tNDFFVTZQS3lnR3lOdEUxbVNrYmYxYll2MHY0MGpUQ3VySW1SUXpMOENuTjBITTJ0bElwOUFsNlp5b19UcC1UNGcwTw?oc=5\" target=\"_blank\">Best wireless earbuds 2026: 7 sensational pairs reviewed and rated by our",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTklvUkNQWjh0Qmd4azBqcGpGZ2N6bDhxOEdnZ0llcU80Z0ZOcVhXSUdTSnZTdTVwYnlqZl8tNDFFVTZQS3lnR3lOdEUxbVNrYmYxYll2MHY0MGpUQ3VySW1SUXpMOENuTjBITTJ0bElwOUFsNlp5b19UcC1UNGcwTw?oc=5",
       "published": "Tue, 12 May 2026 17:39:10 GMT",
       "published_iso": "2026-05-12T17:39:10+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "This Wearable Insta360 Action Camera Bundle Is Nearly $90 Off Right Now - Lifehacker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlJ1WThEd25ucUNFSm44WlVQWEFrM0NNSFhTd1J2TXpoOFFlUU9BMHZIdWEyRHZFNFdqcHhLdkduekkyeFZZc2lIWENlS3ZjR044b21tQmhVNHZIb09YYU5QMlppWUhkbGNvNVRWQlpEYmxXaXNDQ29FM05TNDlpR3JpQTBLOXp1d2lJUHdvVGJMZw?oc=5\" target=\"_blank\">This Wearable Insta360 Action Camera Bundle Is Ne",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlJ1WThEd25ucUNFSm44WlVQWEFrM0NNSFhTd1J2TXpoOFFlUU9BMHZIdWEyRHZFNFdqcHhLdkduekkyeFZZc2lIWENlS3ZjR044b21tQmhVNHZIb09YYU5QMlppWUhkbGNvNVRWQlpEYmxXaXNDQ29FM05TNDlpR3JpQTBLOXp1d2lJUHdvVGJMZw?oc=5",
+      "published": "Mon, 11 May 2026 13:00:00 GMT",
+      "published_iso": "2026-05-11T13:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -523,15 +523,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Run further with Forerunner 70 and Forerunner 170 from Garmin - PR Newswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjhYWVB1OTB5dDd1WkdJZDJFZWNYMDE0MDZSRE03V0Y4NDExdkpUb2RuNDRkTmZlSzhaQkh0b2lfamhxdmxXVUJCdWFlQy1MSXpkOFFxVnl5Yi13XzgxZkp2bFJfNFVyYk5lM1pWVG5vN0lDS1Ixc2dXV3ZqZjdhbGFZTWZ2c3RlQ1dHMm5rZjZFZGYyZWVPTDYzUmF5SGJiRER6c09IOUpydTRPS04tbGd0R1VWSm91?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjhYWVB1OTB5dDd1WkdJZDJFZWNYMDE0MDZSRE03V0Y4NDExdkpUb2RuNDRkTmZlSzhaQkh0b2lfamhxdmxXVUJCdWFlQy1MSXpkOFFxVnl5Yi13XzgxZkp2bFJfNFVyYk5lM1pWVG5vN0lDS1Ixc2dXV3ZqZjdhbGFZTWZ2c3RlQ1dHMm5rZjZFZGYyZWVPTDYzUmF5SGJiRER6c09IOUpydTRPS04tbGd0R1VWSm91?oc=5",
-      "published": "Tue, 12 May 2026 10:58:00 GMT",
-      "published_iso": "2026-05-12T10:58:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "JBL PartyBox 330 and PartyBox 130 deliver punchy sound, next-level light shows and bolder designs - JBL",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYk02VU0tTDRjXzhzdzhsQjNIWExPcGkxZEp3U3NYVU1oWTFPZ3ZvcjhKRzF5Nm5LdTFrUTREVDBjRlJRbmNQdENCVkNvMmN5SWRHRDhqLVlJSWFxeXN6RF83aGl1TW9lZGFzWnYtU0tLRDVQTDNtTjlCN3NqWlNFaGhvTFF5NWU2aHZlZXpaSFNXbWRKQW9oaURLcUEyN242ZHozZ3dzTy1waTJpU2x0cll3UmdEdDNQVEt3MnZ1RFlDN3dDbDhlMk",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYk02VU0tTDRjXzhzdzhsQjNIWExPcGkxZEp3U3NYVU1oWTFPZ3ZvcjhKRzF5Nm5LdTFrUTREVDBjRlJRbmNQdENCVkNvMmN5SWRHRDhqLVlJSWFxeXN6RF83aGl1TW9lZGFzWnYtU0tLRDVQTDNtTjlCN3NqWlNFaGhvTFF5NWU2aHZlZXpaSFNXbWRKQW9oaURLcUEyN242ZHozZ3dzTy1waTJpU2x0cll3UmdEdDNQVEt3MnZ1RFlDN3dDbDhlMkItczA?oc=5",
@@ -564,6 +555,15 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUZnaTB4cnJpeW5LZTU3UFJ6NXBVXzM1bXJYaWtyYzZYWDZuOGhmOVJKNUJHdWlvYUlfeTJCbmdjVXNYVm1PZGpUaWZIOTl5TU5ELW03ZHNFV1ZKMDNUeVVBMWRxcWhxUUZnbzlaM1ZOenpqdEFZcTdydDZkaTUyOTJzNWZhLVpreUJxb29fWFpZaElINTM5SzZlTzlQR2xIRUVicXB3R1ZnYWFKYVE?oc=5",
       "published": "Tue, 12 May 2026 11:37:00 GMT",
       "published_iso": "2026-05-12T11:37:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "SONY Stock Quote Price and Forecast - CNN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Pb0w1WEt2M3UzcEYwTE9fZnFDR2wxTW5RQldEN3FoMXplbDFCbGpxeVFWVDU3VkhKUWdRUzlvdklrR3RQNDJWa0YwTE1jV2NI?oc=5\" target=\"_blank\">SONY Stock Quote Price and Forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Pb0w1WEt2M3UzcEYwTE9fZnFDR2wxTW5RQldEN3FoMXplbDFCbGpxeVFWVDU3VkhKUWdRUzlvdklrR3RQNDJWa0YwTE1jV2NI?oc=5",
+      "published": "Wed, 13 May 2026 15:22:02 GMT",
+      "published_iso": "2026-05-13T15:22:02+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -604,15 +604,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Garmin Just Launched Two New Running Watches - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZlBrNFF5MWQ0Y1cteVFPb0czYjNEMXZsWi1KN3BfVVJsejBLZVZfZjZKN2VrRTE5cV9OVWpkRzdob3E1ZzZHcWFTbFJsTDVyT0Y5czVMRFByVnVuRDNXbDdtWVpSdHQtZUZqSEwxM2I1YXhoVkwtTHdUNVNId0U?oc=5\" target=\"_blank\">Garmin Just Launched Two New Running Watches</a>&nbsp;&nbsp;<font color=\"#6f",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZlBrNFF5MWQ0Y1cteVFPb0czYjNEMXZsWi1KN3BfVVJsejBLZVZfZjZKN2VrRTE5cV9OVWpkRzdob3E1ZzZHcWFTbFJsTDVyT0Y5czVMRFByVnVuRDNXbDdtWVpSdHQtZUZqSEwxM2I1YXhoVkwtTHdUNVNId0U?oc=5",
-      "published": "Tue, 12 May 2026 16:00:21 GMT",
-      "published_iso": "2026-05-12T16:00:21+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Sony Alpha 7R VI Announced – 66.8MP Stacked Sensor, 8K 30p, 4K 120p and Sensor-Level Dual Gain - CineD",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOalRNSWNvMnR1WEtrVXd3cV9TdklULVBOYWI1eVZIV05DQTVpUDZnSTVxU1QwTFRENmZYZDFjam1mSVFZOV96MlRSbndWSjZwSENHdkI4TXZSMk53RHZOd0hBQXVZcllydHA1UHFHR0JPS0l4cDFBclRabFRPWjlRd1lqUE1seDNJcXJZMGdpam5PNlFtNDRlSWpMcW4wdGpkXzBlb05WSkFDSDVBMkdOWXNvYw?oc=5\" target=\"_blank\">Sony ",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalRNSWNvMnR1WEtrVXd3cV9TdklULVBOYWI1eVZIV05DQTVpUDZnSTVxU1QwTFRENmZYZDFjam1mSVFZOV96MlRSbndWSjZwSENHdkI4TXZSMk53RHZOd0hBQXVZcllydHA1UHFHR0JPS0l4cDFBclRabFRPWjlRd1lqUE1seDNJcXJZMGdpam5PNlFtNDRlSWpMcW4wdGpkXzBlb05WSkFDSDVBMkdOWXNvYw?oc=5",
@@ -627,6 +618,15 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUNuTUVWZjR5X2paVFBEV25BOVJNa2JGd01ta05oaXc0aWY5T3BJVlZseXluU1ZBejBISXg2dnl3ZUhKSmg2SmFwNDhiblVlemlzbE1OWlBubm8wOHVQN096VGZfRF9xZWpsY0Z2MUJlUjcwNm9SMEcxdmNCY1JNRDBJX2gyT1h3OXd3SS1iamNCQk9NTkxRZlVJa2tTQjNnQktRRzI0clQtOEF1dG1fR0wxRElhQm1ZcWZPMWR3bw?oc=5",
       "published": "Mon, 11 May 2026 16:35:00 GMT",
       "published_iso": "2026-05-11T16:35:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Rock beats Fairmont State, punches ticket to Round of 16 - Slippery Rock University Athletics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUlKbzJRNnZNZk5ONEV5RDFfZUF6elROeENtUFpFX21PcURuajhCcWUxQXRvZ2NqRXhVZWlUSmZ0RjNGN29WOEhfQ19wZ285VEpyalhqSjVJcXFhZVU5aDBSbmxwZlNNbTJNRzdTLUhXc0JvbXJYRWIzRVJxVEtrR3Q0V1BJMnFsWmpnUGRBVHJiV0hKX3Z0emFNSHBZb09sUTZvTUlfVUotdVZWLTNZRUkzVHk?oc=5\" target=\"_blank\">Rock",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUlKbzJRNnZNZk5ONEV5RDFfZUF6elROeENtUFpFX21PcURuajhCcWUxQXRvZ2NqRXhVZWlUSmZ0RjNGN29WOEhfQ19wZ285VEpyalhqSjVJcXFhZVU5aDBSbmxwZlNNbTJNRzdTLUhXc0JvbXJYRWIzRVJxVEtrR3Q0V1BJMnFsWmpnUGRBVHJiV0hKX3Z0emFNSHBZb09sUTZvTUlfVUotdVZWLTNZRUkzVHk?oc=5",
+      "published": "Sat, 09 May 2026 22:09:58 GMT",
+      "published_iso": "2026-05-09T22:09:58+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     }
@@ -903,6 +903,15 @@
       "bucket": "channel_news"
     },
     {
+      "title": "We Tried 7 Store-Bought Biscuits—And These Are The Ones We’ll Buy Again - Southern Living",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE84aDFZRmZydngwdmd6MXloZmpDV05ISmNvcERSN25uMDI5eE1ybmxSVTZ5WlV3eGdwVzlXM2tLY0V1MzFXT25jSURYc1FtaXNVSjBxeVFPOU52ZExySFVBbkd3N3ZzYkwwZnVxTWVZckRzZm8?oc=5\" target=\"_blank\">We Tried 7 Store-Bought Biscuits—And These Are The Ones We’ll Buy Again</a>&nbsp;&nbsp;<font",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84aDFZRmZydngwdmd6MXloZmpDV05ISmNvcERSN25uMDI5eE1ybmxSVTZ5WlV3eGdwVzlXM2tLY0V1MzFXT25jSURYc1FtaXNVSjBxeVFPOU52ZExySFVBbkd3N3ZzYkwwZnVxTWVZckRzZm8?oc=5",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "published_iso": "2026-05-12T07:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
       "title": "Best Buy debuts consultation spaces within Ikea stores - Retail Dive",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3d2S2RXTnpzdEtEOEo2MTNUT1B1dkZxcndrOTEydFA1cUlOMlY2S2lsQUZrWm1tSGIwMC05dHRLYlR1WkJGLVYwQWwtYzlYTDBJd3FGa2ItMkI4Wl8zOGJnVlpuVklnZ2JNYVpMU3RBTVdSRTFENzNZR2hRLVEzTWtWMW9qXzg4M1BZZkVpMUhNTlRzZndj?oc=5\" target=\"_blank\">Best Buy debuts consultation spaces within ",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3d2S2RXTnpzdEtEOEo2MTNUT1B1dkZxcndrOTEydFA1cUlOMlY2S2lsQUZrWm1tSGIwMC05dHRLYlR1WkJGLVYwQWwtYzlYTDBJd3FGa2ItMkI4Wl8zOGJnVlpuVklnZ2JNYVpMU3RBTVdSRTFENzNZR2hRLVEzTWtWMW9qXzg4M1BZZkVpMUhNTlRzZndj?oc=5",
@@ -930,29 +939,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "We Tried 7 Store-Bought Biscuits—And These Are The Ones We’ll Buy Again - Southern Living",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE84aDFZRmZydngwdmd6MXloZmpDV05ISmNvcERSN25uMDI5eE1ybmxSVTZ5WlV3eGdwVzlXM2tLY0V1MzFXT25jSURYc1FtaXNVSjBxeVFPOU52ZExySFVBbkd3N3ZzYkwwZnVxTWVZckRzZm8?oc=5\" target=\"_blank\">We Tried 7 Store-Bought Biscuits—And These Are The Ones We’ll Buy Again</a>&nbsp;&nbsp;<font",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84aDFZRmZydngwdmd6MXloZmpDV05ISmNvcERSN25uMDI5eE1ybmxSVTZ5WlV3eGdwVzlXM2tLY0V1MzFXT25jSURYc1FtaXNVSjBxeVFPOU52ZExySFVBbkd3N3ZzYkwwZnVxTWVZckRzZm8?oc=5",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "published_iso": "2026-05-12T07:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
       "title": "Amazon vs. Walmart: AI Is Reshaping the Retail Battlefield - The Motley Fool",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0x4cmRrT0hTRFVLX1hhaURDSE9seTFla3lCYjZwVEl2V3BxRXAwaFJkeXByUXlaQ3BNREV5MkxHeWZHVGRSS0wzZm0za19zZzdMeWhUZU9nYmRHOGZjZTZGSG5BZUN3VXI5RWJQelV1TFFsUHlnZGhiRXRXaHJ3LW84MnBqX1ppX2pRTHlYS1NJOEtmXzRoa1RGWDlicVE4REVBUkE3c3A?oc=5\" target=\"_blank\">Amazon vs. Walmart: ",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0x4cmRrT0hTRFVLX1hhaURDSE9seTFla3lCYjZwVEl2V3BxRXAwaFJkeXByUXlaQ3BNREV5MkxHeWZHVGRSS0wzZm0za19zZzdMeWhUZU9nYmRHOGZjZTZGSG5BZUN3VXI5RWJQelV1TFFsUHlnZGhiRXRXaHJ3LW84MnBqX1ppX2pRTHlYS1NJOEtmXzRoa1RGWDlicVE4REVBUkE3c3A?oc=5",
       "published": "Wed, 13 May 2026 17:54:00 GMT",
       "published_iso": "2026-05-13T17:54:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Best Buy to Expand Store Count for the First Time in a Decade - Retail TouchPoints",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5\" target=\"_blank\">Best Buy to Exp",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblRBVGpTZkVzT1NHRThDX0FYa29oR0xIaUpJU0d3dWRYUExfNDROemZncDhOWU81S2t3RV9uRHd4eFRWdmppQjRiV0FDeVZ3N1JCY3NURGhBMzdmZm1nX0Ffb0hPcjhCYmhnb01fSFg4QkVBR2dFekx0QUhfRjVNZmE2YmcyNWw5N2M2TU95RTM4amh2c2RKaS1KZi1LVW1obHJhcGhMSzlFS0Jp?oc=5",
-      "published": "Mon, 11 May 2026 16:53:04 GMT",
-      "published_iso": "2026-05-11T16:53:04+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -1011,6 +1002,15 @@
       "bucket": "channel_news"
     },
     {
+      "title": "7 shopping benefits that come with your Prime membership - About Amazon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9jWGxoWmFOdXhrRzk2d1pTQzZ2QlpIYVFKX29uTW1ObmtQTzdhdTRjdmx6bFNOQ2QwZ3FQNW1WMUc5WlpISVhua3BkeExrMk1ZdmFtRE1jbS0zZGJ3RTBuRll3aGtPMW9iYjNXdkJIRjZxNnJrS1JiRUpycmNyNDQ?oc=5\" target=\"_blank\">7 shopping benefits that come with your Prime membership</a>&nbsp;&nbsp;<fon",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jWGxoWmFOdXhrRzk2d1pTQzZ2QlpIYVFKX29uTW1ObmtQTzdhdTRjdmx6bFNOQ2QwZ3FQNW1WMUc5WlpISVhua3BkeExrMk1ZdmFtRE1jbS0zZGJ3RTBuRll3aGtPMW9iYjNXdkJIRjZxNnJrS1JiRUpycmNyNDQ?oc=5",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "published_iso": "2026-05-12T07:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
       "title": "I tested over 50 wireless earbuds from Apple, Sony, Bose, Beats and more. These were the best - NBC News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTF9XZGNGWG04VlEwY1Q3STVJdW01TUhxOEhELTNieEtmeC14d3ZGQWQ2cEowdmpSZzlhQjFybXFFZmJtbzBYT1dFVWFIRm9KYXBLaHN5bGtYdUVRYzVIelF0ZF9xeF9VTFp3djd2ZURaSUVtOGxocTNVaDFRMzROZnYtWng1S0FoTTE4?oc=5\" target=\"_blank\">I tested over 50 wireless earbuds from Apple, Sony, Bose, B",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTF9XZGNGWG04VlEwY1Q3STVJdW01TUhxOEhELTNieEtmeC14d3ZGQWQ2cEowdmpSZzlhQjFybXFFZmJtbzBYT1dFVWFIRm9KYXBLaHN5bGtYdUVRYzVIelF0ZF9xeF9VTFp3djd2ZURaSUVtOGxocTNVaDFRMzROZnYtWng1S0FoTTE4?oc=5",
@@ -1056,6 +1056,15 @@
       "bucket": "channel_news"
     },
     {
+      "title": "Best Buy slashed a whopping $180 off the price of Beats Studio Pro headphones - NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjVuSXJhLVh6SE5LZGpYYTlZZmw3aUlMcUlrdGlvUmhyaFlEdXZiZTY4YnUtUk5CVWVncjRvckMzRTFfcGJINzhnXy0yd2lKMDZmTU90NmlOcmdXOTdxWC1MTThqdThBR0FvYVNpUmMyZ1g0cVBrUHdMYUMwQ2RtN1R2Y1pCR0ZzdXEyX3lQUVREQkVpeld6Sk0zX0FLVWNoSHV0RDZDSHdtVHc5M2x1aEoyT3A4akFPaUJLeTNmb2HSAdQBQVVfeX",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjVuSXJhLVh6SE5LZGpYYTlZZmw3aUlMcUlrdGlvUmhyaFlEdXZiZTY4YnUtUk5CVWVncjRvckMzRTFfcGJINzhnXy0yd2lKMDZmTU90NmlOcmdXOTdxWC1MTThqdThBR0FvYVNpUmMyZ1g0cVBrUHdMYUMwQ2RtN1R2Y1pCR0ZzdXEyX3lQUVREQkVpeld6Sk0zX0FLVWNoSHV0RDZDSHdtVHc5M2x1aEoyT3A4akFPaUJLeTNmb2HSAdQBQVVfeXFMTWtzd050THZkWXd2N3V5V0p2WURtbkVZMmsxU2trblNIWFBDYnRQWTQ2RFdBOVp4RGdGZTd4V2hQQ3dhUmNlcTlpc0tTS0RVY1NMNUt3V2hDLXNZb21NOE00LWIwNF9Fak9mWW5wSFpQdG1sOUZBQWg3RGhieVd3MHlXdTV0c1ZwdXdlZU53ZjVGQkYydllqdHAtZnF6dVZJWlJFZG02TmEyZmo0cjhYNTR1RjNNT3pxV3B2NFJlQmkzNDF5WFdnS1pvRUduVHRKMFQ2dlU?oc=5",
+      "published": "Fri, 15 May 2026 18:01:00 GMT",
+      "published_iso": "2026-05-15T18:01:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
       "title": "7 Wireless Earbuds That Sound Better Than They Cost in 2026 - The Gadgeteer",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUW5LSURSdEhBWktBRnZHNFI3dkFtam1ZbzBoTlZOckNNb3h1T0hRX1loSExybU85S19kUmMxUVhCclJzSkYzUUctcnlYUHV4YzNfajVlX2k3X1MxcmJURmFhZExjdU1TZkMyRG02Ti1iZ0hEX1VmR3FQQUdLa2lNdXZSUTJNRC1IbjJxSGhRXy1BTS05YzNEY2lQLXZOUQ?oc=5\" target=\"_blank\">7 Wireless Earbuds That Sound Bet",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUW5LSURSdEhBWktBRnZHNFI3dkFtam1ZbzBoTlZOckNNb3h1T0hRX1loSExybU85S19kUmMxUVhCclJzSkYzUUctcnlYUHV4YzNfajVlX2k3X1MxcmJURmFhZExjdU1TZkMyRG02Ti1iZ0hEX1VmR3FQQUdLa2lNdXZSUTJNRC1IbjJxSGhRXy1BTS05YzNEY2lQLXZOUQ?oc=5",
@@ -1074,11 +1083,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Best Buy slashed a whopping $180 off the price of Beats Studio Pro headphones - NJ.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjVuSXJhLVh6SE5LZGpYYTlZZmw3aUlMcUlrdGlvUmhyaFlEdXZiZTY4YnUtUk5CVWVncjRvckMzRTFfcGJINzhnXy0yd2lKMDZmTU90NmlOcmdXOTdxWC1MTThqdThBR0FvYVNpUmMyZ1g0cVBrUHdMYUMwQ2RtN1R2Y1pCR0ZzdXEyX3lQUVREQkVpeld6Sk0zX0FLVWNoSHV0RDZDSHdtVHc5M2x1aEoyT3A4akFPaUJLeTNmb2HSAdQBQVVfeX",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjVuSXJhLVh6SE5LZGpYYTlZZmw3aUlMcUlrdGlvUmhyaFlEdXZiZTY4YnUtUk5CVWVncjRvckMzRTFfcGJINzhnXy0yd2lKMDZmTU90NmlOcmdXOTdxWC1MTThqdThBR0FvYVNpUmMyZ1g0cVBrUHdMYUMwQ2RtN1R2Y1pCR0ZzdXEyX3lQUVREQkVpeld6Sk0zX0FLVWNoSHV0RDZDSHdtVHc5M2x1aEoyT3A4akFPaUJLeTNmb2HSAdQBQVVfeXFMTWtzd050THZkWXd2N3V5V0p2WURtbkVZMmsxU2trblNIWFBDYnRQWTQ2RFdBOVp4RGdGZTd4V2hQQ3dhUmNlcTlpc0tTS0RVY1NMNUt3V2hDLXNZb21NOE00LWIwNF9Fak9mWW5wSFpQdG1sOUZBQWg3RGhieVd3MHlXdTV0c1ZwdXdlZU53ZjVGQkYydllqdHAtZnF6dVZJWlJFZG02TmEyZmo0cjhYNTR1RjNNT3pxV3B2NFJlQmkzNDF5WFdnS1pvRUduVHRKMFQ2dlU?oc=5",
-      "published": "Fri, 15 May 2026 18:01:00 GMT",
-      "published_iso": "2026-05-15T18:01:00+00:00",
+      "title": "Walmart’s $168 noise-canceling headphones with improved bass are now just $19 - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWZVdWxlNEF0MmJudDAxSDJGeHZEcERuY29NWG5GX2VMb19iRi0wbDRPOFVURmk1WGFaQkI3d0tLTjNzTzZLZGlDaWFtUWpYaElzd0JfSjJYeGljSG11MFBuTkQ4VWw3UW9oM1ZsMS1ja01kQlNGQm5YQ2g0ODVkQkFYV0taSzUwN1pnQU9Va1F2WGJUYlBfUExWWWk4WVQt?oc=5\" target=\"_blank\">Walmart’s $168 noise-canceling ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWZVdWxlNEF0MmJudDAxSDJGeHZEcERuY29NWG5GX2VMb19iRi0wbDRPOFVURmk1WGFaQkI3d0tLTjNzTzZLZGlDaWFtUWpYaElzd0JfSjJYeGljSG11MFBuTkQ4VWw3UW9oM1ZsMS1ja01kQlNGQm5YQ2g0ODVkQkFYV0taSzUwN1pnQU9Va1F2WGJUYlBfUExWWWk4WVQt?oc=5",
+      "published": "Sat, 09 May 2026 10:30:00 GMT",
+      "published_iso": "2026-05-09T10:30:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1101,15 +1110,6 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Grab AirPods Pro 3 for just $199.99 before this deal disappears again - Cult of Mac",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtOFFIaVNJYS1kVndNaTI2bGZtalhCWllzcENNOXEyY1J3V1MwRm51aUJvVllRUlUtak9PRlVvNW4tUDNaaG1mRzAtSlVPUjM0UnFZWEdNMTJLYXM4?oc=5\" target=\"_blank\">Grab AirPods Pro 3 for just $199.99 before this deal disappears again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cult of Mac</fon",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtOFFIaVNJYS1kVndNaTI2bGZtalhCWllzcENNOXEyY1J3V1MwRm51aUJvVllRUlUtak9PRlVvNW4tUDNaaG1mRzAtSlVPUjM0UnFZWEdNMTJLYXM4?oc=5",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "published_iso": "2026-05-09T07:00:00+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "The 4 Best Noise-Cancelling Headphones of 2026 | Reviews by Wirecutter - The New York Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFZTTHY3S1p5WkcwWHFPRnlwTm9yVzd3SkFubWM1ZGdNQjNoTmd1S1hSbFFwbGxmU3dDY2h6OEVmYTg3b3JwTWVRbHM1S1ZVTFRESEZhenpuYjJmaGFsYjZVMEdSWUQ5NEQzY19aa1JUS0syZ0JyVzNtUEFtMF9WODJB?oc=5\" target=\"_blank\">The 4 Best Noise-Cancelling Headphones of 2026 | Reviews by Wirecutter<",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFZTTHY3S1p5WkcwWHFPRnlwTm9yVzd3SkFubWM1ZGdNQjNoTmd1S1hSbFFwbGxmU3dDY2h6OEVmYTg3b3JwTWVRbHM1S1ZVTFRESEZhenpuYjJmaGFsYjZVMEdSWUQ5NEQzY19aa1JUS0syZ0JyVzNtUEFtMF9WODJB?oc=5",
@@ -1119,5 +1119,5 @@
       "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1778886362
+  "fetched_at": 1778889885
 }

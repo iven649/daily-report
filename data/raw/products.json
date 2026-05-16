@@ -1,6 +1,15 @@
 {
   "products": [
     {
+      "name": "Xbox is now XBOX",
+      "summary": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or XBOX. The results were in favor of XBOX,",
+      "date": "2026-05-15T19:10:13-04:00",
+      "published_iso": "2026-05-15T23:10:13+00:00",
+      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "YouTube is expanding its AI deepfake detection tool to all adult users",
       "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to m",
       "date": "2026-05-15T18:25:00-04:00",
@@ -82,15 +91,6 @@
       "_score": 20
     },
     {
-      "name": "OpenAI now wants ChatGPT to access your bank accounts",
-      "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging plat",
-      "date": "2026-05-15T12:00:00-04:00",
-      "published_iso": "2026-05-15T16:00:00+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
       "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
       "date": "Fri, 15 May 2026 20:30:20",
@@ -109,11 +109,11 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1778886369,
+  "fetched_at": 1778889892,
   "stats": {
     "source_count": 7,
-    "raw_count": 115,
-    "deduped_count": 115,
+    "raw_count": 114,
+    "deduped_count": 114,
     "kept_count": 12
   }
 }

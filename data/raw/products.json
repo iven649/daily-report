@@ -10,6 +10,15 @@
       "_score": 24
     },
     {
+      "name": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
+      "summary": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sports scores, Wear OS 7 will get the iPhone-style Live Updates t",
+      "date": "2026-05-19T19:24:36-04:00",
+      "published_iso": "2026-05-19T23:24:36+00:00",
+      "url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
       "summary": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's rates - before",
       "date": "2026-05-19T19:03:48-04:00",
@@ -91,15 +100,6 @@
       "_score": 20
     },
     {
-      "name": "Kickstarter just killed its new mature content rules",
-      "summary": "Last week, we noted Kickstarter's new content guidelines, which had some pretty weird new additions, including a prohibition on, among related things, projects whose rewards could provide \"sexual pleasure.\" The rules exempted \"sexual wellness products that are",
-      "date": "2026-05-19T14:30:43-04:00",
-      "published_iso": "2026-05-19T18:30:43+00:00",
-      "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "Google just declared itself a contender in AI design at IO 2026",
       "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
       "date": "Tue, 19 May 2026 21:33:30",
@@ -109,11 +109,11 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1779232579,
+  "fetched_at": 1779236218,
   "stats": {
     "source_count": 7,
-    "raw_count": 112,
-    "deduped_count": 112,
+    "raw_count": 111,
+    "deduped_count": 111,
     "kept_count": 12
   }
 }

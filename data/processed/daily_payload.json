@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01 07:13:58 CST",
+  "generated_at": "2026-06-01 08:15:18 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -704,37 +704,69 @@
     }
   ],
   "lead_story": {
-    "title": "Which retail giant — Walmart, Costco, or Best Buy — is built to win 2026? - Yahoo Finance",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXhkOXVhaEZ3VzVnMFVNRFZNSmF6UGJza3Nlazd3X0U3RjN3NDZJcWdiVlRZWjhGWHZlbHBiZVQyOGhDSFNlSnNlM00zVnQ3a3R1UnQxNFFIc0pGcENwSzY2UFFBZFBVTzdwV3I4d2xSeFlCNXc3U2hYb2tHN0JWZk1rVHlZOVRIc183LXJqUFpQTlNjQVpNQ0VNTnZ0cmlCV3E0RkUwRkl3WGVZY2JCYS1PQUhJQQ?oc=5\" target=\"_blank\">W",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXhkOXVhaEZ3VzVnMFVNRFZNSmF6UGJza3Nlazd3X0U3RjN3NDZJcWdiVlRZWjhGWHZlbHBiZVQyOGhDSFNlSnNlM00zVnQ3a3R1UnQxNFFIc0pGcENwSzY2UFFBZFBVTzdwV3I4d2xSeFlCNXc3U2hYb2tHN0JWZk1rVHlZOVRIc183LXJqUFpQTlNjQVpNQ0VNTnZ0cmlCV3E0RkUwRkl3WGVZY2JCYS1PQUhJQQ?oc=5",
-    "published": "Thu, 28 May 2026 14:36:29 GMT",
-    "published_iso": "2026-05-28T14:36:29+00:00",
-    "source": "Google News - Retail Platforms",
-    "bucket": "channel_news",
-    "hours_since_published": 80.6,
-    "freshness_label": "近7天",
+    "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+    "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+    "url": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+    "published": "Fri, 29 May 2026 14:00:00 +0000",
+    "published_iso": "2026-05-29T14:00:00+00:00",
+    "source": "Engadget",
+    "bucket": "consumer_electronics",
+    "hours_since_published": 58.2,
+    "freshness_label": "近3天",
     "monitor_hits": {
-      "brands": [],
-      "channels": [
-        "Best Buy",
-        "Walmart",
-        "Costco"
+      "brands": [
+        "Bose",
+        "Sony",
+        "Sennheiser"
       ],
-      "categories": []
+      "channels": [],
+      "categories": [
+        "headphone"
+      ]
     },
-    "_score": 374,
-    "display_title": "Which retail giant — Walmart, Costco...",
+    "_score": 376,
+    "display_title": "Sennheiser Momentum 5 Wireless review:...",
     "tags": [
-      "🛒 渠道零售",
-      "🏬 平台电商"
+      "🎧 耳机音频"
     ],
-    "impact_area": "电商",
+    "impact_area": "品牌营销",
     "importance": "高",
-    "business_note": "分析零售巨头的竞争优势，有助于制定电商和品牌营销策略。",
-    "suggested_action": "针对Best Buy和Walmart制定针对性电商营销方案，提升市场份额。"
+    "business_note": "Sennheiser Momentum 5无线耳机在音质和降噪方面表现出色，有助于提升品牌竞争力。",
+    "suggested_action": "加大品牌营销力度，突出耳机的音质和降噪优势，吸引更多消费者。"
   },
-  "lead_summary": "零售巨头竞争加剧，品牌需灵活应对市场变化，以保持盈利和市场份额。",
+  "lead_summary": "Sennheiser Momentum 5无线耳机音质卓越，将加剧高端市场竞争，",
   "headline_trio": [
+    {
+      "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+      "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+      "url": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+      "published": "Fri, 29 May 2026 14:00:00 +0000",
+      "published_iso": "2026-05-29T14:00:00+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 58.2,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose",
+          "Sony",
+          "Sennheiser"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 376,
+      "display_title": "Sennheiser Momentum 5 Wireless review:...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Sennheiser Momentum 5无线耳机在音质和降噪方面表现出色，有助于提升品牌竞争力。",
+      "suggested_action": "加大品牌营销力度，突出耳机的音质和降噪优势，吸引更多消费者。"
+    },
     {
       "title": "Which retail giant — Walmart, Costco, or Best Buy — is built to win 2026? - Yahoo Finance",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXhkOXVhaEZ3VzVnMFVNRFZNSmF6UGJza3Nlazd3X0U3RjN3NDZJcWdiVlRZWjhGWHZlbHBiZVQyOGhDSFNlSnNlM00zVnQ3a3R1UnQxNFFIc0pGcENwSzY2UFFBZFBVTzdwV3I4d2xSeFlCNXc3U2hYb2tHN0JWZk1rVHlZOVRIc183LXJqUFpQTlNjQVpNQ0VNTnZ0cmlCV3E0RkUwRkl3WGVZY2JCYS1PQUhJQQ?oc=5\" target=\"_blank\">W",
@@ -743,7 +775,7 @@
       "published_iso": "2026-05-28T14:36:29+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 80.6,
+      "hours_since_published": 81.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -762,8 +794,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "分析零售巨头的竞争优势，有助于制定电商和品牌营销策略。",
-      "suggested_action": "针对Best Buy和Walmart制定针对性电商营销方案，提升市场份额。"
+      "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
+      "suggested_action": "针对Best Buy和Walmart制定精准的品牌营销计划。"
     },
     {
       "title": "From Amazon warehouses to Walmart aisles, here's what retail workers earned in 2025 - Business Insider",
@@ -773,7 +805,7 @@
       "published_iso": "2026-05-25T09:04:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 158.2,
+      "hours_since_published": 159.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -791,40 +823,42 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "2025年零售工人工资变化将直接影响电商销售策略和品牌营销。",
-      "suggested_action": "针对电商渠道调整薪酬策略，以提升员工积极性和销售业绩。"
-    },
-    {
-      "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGVERHlKcWx2VllkX3h1WDU0R2RzUlJJWWY4MFR2bkNrLTJ2dTE5Z2hoMlNMWlpXeHV5QmpfdkFVbEZleE1tSXhCYjJCSkdOQUhEMWhOZHBJOTlfWG5qN0pvd0JMT1p3bnVGWG5UNVBnS1FlbHNIS2ZRUWJwMzBCNGNHUHNkNEV4QjBOSUFrVjAxbkVGc3lWc3Z0NkxfTENzdk9JUzB1YWIxQl9FMnhuQ05VYw?oc=5\" target=\"_blank\">Amazo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGVERHlKcWx2VllkX3h1WDU0R2RzUlJJWWY4MFR2bkNrLTJ2dTE5Z2hoMlNMWlpXeHV5QmpfdkFVbEZleE1tSXhCYjJCSkdOQUhEMWhOZHBJOTlfWG5qN0pvd0JMT1p3bnVGWG5UNVBnS1FlbHNIS2ZRUWJwMzBCNGNHUHNkNEV4QjBOSUFrVjAxbkVGc3lWc3Z0NkxfTENzdk9JUzB1YWIxQl9FMnhuQ05VYw?oc=5",
-      "published": "Thu, 28 May 2026 19:23:36 GMT",
-      "published_iso": "2026-05-28T19:23:36+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 75.8,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 320,
-      "display_title": "Amazon and Walmart Aren’t Just...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "亚马逊与沃尔玛在零售领域的竞争加剧，影响电商市场格局。",
-      "suggested_action": "加强电商平台的品牌营销策略，提升市场竞争力。"
+      "business_note": "电商渠道薪资变化将影响产品定价和市场竞争策略。",
+      "suggested_action": "建议优化电商平台的定价策略以应对薪资上涨。"
     }
   ],
   "consumer_electronics": [
+    {
+      "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+      "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+      "url": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+      "published": "Fri, 29 May 2026 14:00:00 +0000",
+      "published_iso": "2026-05-29T14:00:00+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 58.2,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose",
+          "Sony",
+          "Sennheiser"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 376,
+      "display_title": "Sennheiser Momentum 5 Wireless review:...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Sennheiser Momentum 5无线耳机在音质和降噪方面表现出色，有助于提升品牌竞争力。",
+      "suggested_action": "加大品牌营销力度，突出耳机的音质和降噪优势，吸引更多消费者。"
+    },
     {
       "title": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5\" targe",
@@ -833,7 +867,7 @@
       "published_iso": "2026-05-29T11:34:28+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 59.6,
+      "hours_since_published": 60.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -852,8 +886,40 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "开放式耳塞正成为消费者的新选择，需关注市场趋势。",
-      "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光。"
+      "business_note": "开放式耳塞成为新趋势，适合追求隐私的消费者，需关注市场动态。",
+      "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光度。"
+    },
+    {
+      "title": "Sennheiser Reveals New And Improved Momentum 5 Wireless Headphones - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGw4bm9IVHV2Wmk4ejNMSFY3VF9nd1hOUndsSHF5TTN1NlNNQzNERWxDSFVwSlZfSEUyX2pTWWNwdTNxQXFZQUJCaGcxVkdiX0l3Y2FkNmtONEVyMGw3UXYwajRYQjdvblVqQ0VjSmlxUDVzbXJ4U0Q5Y1NGMjEyandvU0NLR01FZGFXV2ZqSDNFandoYzVEdlNQc0lBcDhQeHQ2cXB2UHowWnFSUDlJa2llNXp2aEp4MGxR?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGw4bm9IVHV2Wmk4ejNMSFY3VF9nd1hOUndsSHF5TTN1NlNNQzNERWxDSFVwSlZfSEUyX2pTWWNwdTNxQXFZQUJCaGcxVkdiX0l3Y2FkNmtONEVyMGw3UXYwajRYQjdvblVqQ0VjSmlxUDVzbXJ4U0Q5Y1NGMjEyandvU0NLR01FZGFXV2ZqSDNFandoYzVEdlNQc0lBcDhQeHQ2cXB2UHowWnFSUDlJa2llNXp2aEp4MGxR?oc=5",
+      "published": "Mon, 25 May 2026 22:56:28 GMT",
+      "published_iso": "2026-05-25T22:56:28+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 145.3,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Sennheiser"
+        ],
+        "channels": [
+          "Target"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 269,
+      "display_title": "Sennheiser Reveals New And Improved...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Sennheiser新款Momentum 5无线耳机提升品牌形象，吸引更多电商消费者。",
+      "suggested_action": "加强与Target的合作，优化电商渠道营销策略，提升销量。"
     },
     {
       "title": "Sennheiser Momentum 5 Wireless Headphones Review: One Big Crucial Upgrade - CNET",
@@ -863,7 +929,7 @@
       "published_iso": "2026-05-28T14:01:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 81.2,
+      "hours_since_published": 82.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -881,64 +947,36 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sennheiser Momentum 5耳机的升级将提升品牌形象，吸引更多消费者关注。",
-      "suggested_action": "加大电商平台推广力度，提升品牌曝光和销售转化。"
+      "business_note": "Sennheiser Momentum 5无线耳机的升级将提升品牌形象，吸引更多消费者关注。",
+      "suggested_action": "加强电商平台宣传，利用社交媒体推广新产品特点。"
     },
     {
-      "title": "The Sennheiser Momentum 5 has BIG UPGRADES... but are they enough? - Headphones.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQRG9GS2UzUTlrT2tsdFdGaWdmdDBkZFNIb2FWTHZWN0JLV1R6LXdMbVlUTkhZcE52R0tvMHJ0a1RsT2VXdDlWQ0hfcGZyWDFWRUdfSmk5U21hM0t6ZDhVd0RzNUJxckZuWnJnMkZGOWNmdE1UNWhZN1pZUGVSRFJseXlzeFp6c0F4eGM2U1ZHbndqc0s1VnJWWXQ0azFjVmFB?oc=5\" target=\"_blank\">The Sennheiser Momentum 5 has B",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRG9GS2UzUTlrT2tsdFdGaWdmdDBkZFNIb2FWTHZWN0JLV1R6LXdMbVlUTkhZcE52R0tvMHJ0a1RsT2VXdDlWQ0hfcGZyWDFWRUdfSmk5U21hM0t6ZDhVd0RzNUJxckZuWnJnMkZGOWNmdE1UNWhZN1pZUGVSRFJseXlzeFp6c0F4eGM2U1ZHbndqc0s1VnJWWXQ0azFjVmFB?oc=5",
-      "published": "Mon, 25 May 2026 21:59:37 GMT",
-      "published_iso": "2026-05-25T21:59:37+00:00",
+      "title": "Sennheiser MOMENTUM 5 vs Bose QuietComfort Ultra 2: A closer match than you'd think - SoundGuys",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnd5UjVlcVZxX24zLXhXZUhuYkVRajJ4SENVb0plTW5iRGg3WWhuOF9IVVFsLVpldkJXNEVxWDJOOUFDcktIOV83Sk05dU85dW5wTUFZVFFEUFRiTnZOVVJITzJOV0l3UnVTMXBySHNxeGlxNjJWSk1oX2xuVWNMMEdlYmNnWVRLZmgzRQ?oc=5\" target=\"_blank\">Sennheiser MOMENTUM 5 vs Bose QuietComfort Ultra 2: A clo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnd5UjVlcVZxX24zLXhXZUhuYkVRajJ4SENVb0plTW5iRGg3WWhuOF9IVVFsLVpldkJXNEVxWDJOOUFDcktIOV83Sk05dU85dW5wTUFZVFFEUFRiTnZOVVJITzJOV0l3UnVTMXBySHNxeGlxNjJWSk1oX2xuVWNMMEdlYmNnWVRLZmgzRQ?oc=5",
+      "published": "Fri, 29 May 2026 10:07:18 GMT",
+      "published_iso": "2026-05-29T10:07:18+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 145.2,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Sennheiser"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 227,
-      "display_title": "The Sennheiser Momentum 5 has BIG...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Sennheiser Momentum 5 的升级可能影响品牌形象和市场竞争力。",
-      "suggested_action": "加强电商平台的品牌宣传，突出新功能优势。"
-    },
-    {
-      "title": "Sennheiser Momentum 5 Wireless Review: Worth The Wait - Engadget",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1aYVJEX19qelFza2xNVWEtejRpUUxUVVVUUXQtQmpHdVVVY3NhSnRNOU10MTMyQm82dzhUSERHVXdrdVBjX1lIckFCUlZCaXc4Mkk0ZzFVNkIzYW52ZDRlUjdYYlV2N3FrZ1JBblVFQ2paNjBlalJRa0dwcw?oc=5\" target=\"_blank\">Sennheiser Momentum 5 Wireless Review: Worth The Wait</a>&nbsp;&nbsp;<font color=",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aYVJEX19qelFza2xNVWEtejRpUUxUVVVUUXQtQmpHdVVVY3NhSnRNOU10MTMyQm82dzhUSERHVXdrdVBjX1lIckFCUlZCaXc4Mkk0ZzFVNkIzYW52ZDRlUjdYYlV2N3FrZ1JBblVFQ2paNjBlalJRa0dwcw?oc=5",
-      "published": "Fri, 29 May 2026 14:00:00 GMT",
-      "published_iso": "2026-05-29T14:00:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 57.2,
+      "hours_since_published": 62.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
+          "Bose",
           "Sennheiser"
         ],
         "channels": [],
         "categories": []
       },
-      "_score": 214,
-      "display_title": "Sennheiser Momentum 5 Wireless Review:...",
+      "_score": 216,
+      "display_title": "Sennheiser MOMENTUM 5 vs Bose...",
       "tags": [
         "📱 消费电子"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sennheiser Momentum 5无线耳机获得好评，有助于提升品牌形象和市场份额。",
-      "suggested_action": "加强电商平台推广，利用好评吸引更多消费者关注。"
+      "business_note": "Sennheiser和Bose在高端耳机市场竞争激烈，需加强品牌营销策略。",
+      "suggested_action": "针对目标用户制定精准的电商推广计划，提升品牌影响力。"
     },
     {
       "title": "The best bone conduction headphones: stay aware on the road, in the pool, and in the office - TechRadar",
@@ -948,7 +986,7 @@
       "published_iso": "2026-05-28T10:12:40+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 85.0,
+      "hours_since_published": 86.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -966,37 +1004,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "骨传导耳机在多个场景下的应用潜力巨大，需加强品牌宣传。",
-      "suggested_action": "建议通过电商平台推广骨传导耳机，提升市场认知度。"
-    },
-    {
-      "title": "Best Bone Conduction Headphones 2026: Buyer's Guide and Top Picks - The Gadgeteer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa3NDaDE2NDNYZGtucFZFdHQ1MTVQMmxMOG9zRHNtNXIzUUozeFNpY1F3ZHVJZW1NVFliX1RVQWJMOG1Eb0o5elptUnB5bEhHbmtVTnVzaUI1dllXSlZHb25KQ0Npd3ZzbGg4NDdnOXVvZHNuUFZGTnZHUWM3SzA?oc=5\" target=\"_blank\">Best Bone Conduction Headphones 2026: Buyer's Guide and Top Picks</a>&nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa3NDaDE2NDNYZGtucFZFdHQ1MTVQMmxMOG9zRHNtNXIzUUozeFNpY1F3ZHVJZW1NVFliX1RVQWJMOG1Eb0o5elptUnB5bEhHbmtVTnVzaUI1dllXSlZHb25KQ0Npd3ZzbGg4NDdnOXVvZHNuUFZGTnZHUWM3SzA?oc=5",
-      "published": "Tue, 26 May 2026 00:00:12 GMT",
-      "published_iso": "2026-05-26T00:00:12+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 143.2,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 211,
-      "display_title": "Best Bone Conduction Headphones 2026:...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "骨传导耳机市场潜力巨大，需加强品牌营销以提升市场份额。",
-      "suggested_action": "制定针对骨传导耳机的品牌推广策略，增强消费者认知。"
+      "business_note": "骨传导耳机在多场景下的应用潜力大，有助于提升品牌知名度。",
+      "suggested_action": "加大电商平台推广力度，吸引更多目标用户关注。"
     }
   ],
   "channel_news": [
@@ -1008,7 +1017,7 @@
       "published_iso": "2026-05-28T14:36:29+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 80.6,
+      "hours_since_published": 81.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1027,8 +1036,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "分析零售巨头的竞争优势，有助于制定电商和品牌营销策略。",
-      "suggested_action": "针对Best Buy和Walmart制定针对性电商营销方案，提升市场份额。"
+      "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
+      "suggested_action": "针对Best Buy和Walmart制定精准的品牌营销计划。"
     },
     {
       "title": "From Amazon warehouses to Walmart aisles, here's what retail workers earned in 2025 - Business Insider",
@@ -1038,7 +1047,7 @@
       "published_iso": "2026-05-25T09:04:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 158.2,
+      "hours_since_published": 159.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1056,8 +1065,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "2025年零售工人工资变化将直接影响电商销售策略和品牌营销。",
-      "suggested_action": "针对电商渠道调整薪酬策略，以提升员工积极性和销售业绩。"
+      "business_note": "电商渠道薪资变化将影响产品定价和市场竞争策略。",
+      "suggested_action": "建议优化电商平台的定价策略以应对薪资上涨。"
     },
     {
       "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
@@ -1067,7 +1076,7 @@
       "published_iso": "2026-05-28T19:23:36+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 75.8,
+      "hours_since_published": 76.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1085,7 +1094,7 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊与沃尔玛在零售领域的竞争加剧，影响电商市场格局。",
+      "business_note": "亚马逊与沃尔玛的竞争已超越零售，影响电商市场格局。",
       "suggested_action": "加强电商平台的品牌营销策略，提升市场竞争力。"
     },
     {
@@ -1096,7 +1105,7 @@
       "published_iso": "2026-05-28T11:00:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 84.2,
+      "hours_since_published": 85.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1114,8 +1123,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy股票因业绩超预期上涨，显示出电商销售潜力。",
-      "suggested_action": "加强电商平台的促销活动，吸引更多消费者。"
+      "business_note": "Best Buy股价上涨15%，表明其销售策略有效，需加大电商投入。",
+      "suggested_action": "建议优化电商平台，提升用户体验和促销活动。"
     },
     {
       "title": "As Target, Walmart and Aldi embrace naturally-colored food, brands rush to meet demand",
@@ -1125,7 +1134,7 @@
       "published_iso": "2026-05-29T04:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 67.2,
+      "hours_since_published": 68.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1143,8 +1152,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "随着主要零售商去除人工色素，电商需加速推广天然色素产品以满足市场需求。",
-      "suggested_action": "建议与天然色素品牌合作，优化电商平台的产品展示和营销策略。"
+      "business_note": "随着主要零售商去除人工色素，电商需加速推广自然色素产品以满足市场需求。",
+      "suggested_action": "建议与自然色素品牌合作，优化电商平台产品线，提升市场竞争力。"
     },
     {
       "title": "Best Buy forecasts upbeat sales as AI gadgets boost demand; shares rise - Reuters",
@@ -1154,7 +1163,7 @@
       "published_iso": "2026-05-28T16:21:58+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 78.9,
+      "hours_since_published": 79.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1172,8 +1181,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "AI设备需求增长将推动销售，需抓住电商机会。",
-      "suggested_action": "加强与Best Buy和Target的电商合作，提升品牌曝光。"
+      "business_note": "AI设备需求上升，推动Best Buy销售增长，需抓住电商机会。",
+      "suggested_action": "加强电商平台的AI产品推广，提升市场份额。"
     }
   ],
   "products": [
@@ -1185,7 +1194,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 82,
-      "hours_since_published": 59.6,
+      "hours_since_published": 60.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1197,17 +1206,45 @@
         ]
       },
       "display_title": "Open-ear earbuds are the new headphones...",
-      "display_summary": "北美消费电子市场持续增长，主要受智能设备和家居自动化需求推动。",
+      "display_summary": "某科技公司发布新款智能设备，聚焦提升用户体验，预计将推动销售增长。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "北美消费电子市场持续增长，主要受智能设备和家居自动化需求推动。",
+      "product_intro": "某科技公司发布新款智能设备，聚焦提升用户体验，预计将推动销售增长。",
       "importance": "高",
-      "business_note": "开放式耳塞耳机满足消费者对隐私和舒适的需求，市场潜力巨大。",
-      "suggested_action": "加大电商和品牌营销投入，推广开放式耳塞耳机的优势。"
+      "business_note": "开放式耳塞成为新趋势，满足消费者对隐私和舒适的需求。",
+      "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌知名度。"
+    },
+    {
+      "name": "AMD’s new pitch: our old tech is so good you should just keep using it",
+      "summary": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping pricetags (or no pricetags at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching thr",
+      "date": "2026-05-31T20:00:00-04:00",
+      "published_iso": "2026-06-01T00:00:00+00:00",
+      "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 0.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "AMD’s new pitch: our old tech is so...",
+      "display_summary": "台北Computex 2026展会正在进行，AMD将重新推出针对桌面PC游戏玩家的新产品，助",
+      "tags": [
+        "🚀 新品发布",
+        "💰 价格促销"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "新品发布",
+      "product_intro": "台北Computex。",
+      "importance": "中",
+      "business_note": "AMD重申旧技术的价值，可能影响品牌形象和消费者忠诚度。",
+      "suggested_action": "加强品牌营销，突出旧技术的优势，吸引忠实用户。"
     },
     {
       "name": "Apple’s strategy for smart glasses is the same as smart watches",
@@ -1217,7 +1254,7 @@
       "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 1.7,
+      "hours_since_published": 2.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1234,34 +1271,7 @@
       "product_intro": "苹果计划颠覆整个眼镜市场，不仅仅是与Meta竞争智能眼镜。",
       "importance": "高",
       "business_note": "苹果在智能眼镜市场的战略与智能手表相似，可能重塑整个眼镜行业。",
-      "suggested_action": "加强电商和品牌营销，提升智能眼镜的市场认知度。"
-    },
-    {
-      "name": "Feeble Little Horse leans into digital weirdness on bitknot",
-      "summary": "From the opening moments of bitknot, it's obvious that Feeble Little Horse has found an entirely new gear. Where on Girl with Fish the blown-out textures were more '90s indie rock and shoegaze, on their latest LP, there's a more modern edge to the distortion a",
-      "date": "2026-05-31T12:00:00-04:00",
-      "published_iso": "2026-05-31T16:00:00+00:00",
-      "url": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
-      "source": "The Verge",
-      "_score": 43,
-      "hours_since_published": 7.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "Feeble Little Horse leans into digital...",
-      "display_summary": "Feeble Little Horse在新专辑《bitknot》中展现出全新风格，现代化的失",
-      "tags": [
-        "🚀 新品"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "业务观察",
-      "product_intro": "Feeble Little。",
-      "importance": "中",
-      "business_note": "Feeble Little Horse在数字营销上展现新风格，有助于品牌形象提升。",
-      "suggested_action": "建议加强电商平台的品牌宣传，吸引年轻消费者。"
+      "suggested_action": "建议加强品牌营销，突出苹果眼镜的独特价值和创新性。"
     },
     {
       "name": "The best bone conduction headphones: stay aware on the road, in the pool, and in the office - TechRadar",
@@ -1271,7 +1281,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 41,
-      "hours_since_published": 85.0,
+      "hours_since_published": 86.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1282,17 +1292,17 @@
         ]
       },
       "display_title": "The best bone conduction headphones:...",
-      "display_summary": "最佳骨传导耳机推荐，适合运动和日常使用。",
+      "display_summary": "最佳骨传导耳机推荐，关注音质与舒适度。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "最佳骨传导耳机推荐，适合运动和日常使用。",
+      "product_intro": "最佳骨传导耳机推荐，关注音质与舒适度。",
       "importance": "中",
-      "business_note": "骨传导耳机在市场上逐渐受到关注，适合多场景使用。",
-      "suggested_action": "加强电商平台推广，提升品牌知名度和市场份额。"
+      "business_note": "骨传导耳机在特定场景下有独特优势，适合品牌营销推广。",
+      "suggested_action": "加强电商平台的骨传导耳机宣传，提升品牌认知度。"
     },
     {
       "name": "Best open-ear earbuds 2026: 6 picks worth your money - The Gadgeteer",
@@ -1302,7 +1312,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51T29yTzRNaXgxQTRucE8zcUpiZnMwa3J2N1l5bkt1b2VzWFFGUGRtZU9HbGpmbVBkblV0UXdzNkgxd1hHcUhYbmhkX0NFOXJRU1p6N0gtdlIwdWFZTko0OC05aUlfbXB0amNaOVdxYW9uQQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 41,
-      "hours_since_published": 110.7,
+      "hours_since_published": 111.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1313,17 +1323,17 @@
         ]
       },
       "display_title": "Best open-ear earbuds 2026: 6 picks...",
-      "display_summary": "2026年最佳开放式耳塞推荐，涵盖6款产品，助力提升用户音频体验。",
+      "display_summary": "2026年最佳开放式耳塞推荐，涵盖六款热门产品。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "2026年最佳开放式耳塞推荐，涵盖6款产品，助力提升用户音频体验。",
+      "product_intro": "2026年最佳开放式耳塞推荐，涵盖六款热门产品。",
       "importance": "高",
       "business_note": "2026年开放式耳塞市场潜力巨大，需加强品牌营销以提升市场份额。",
-      "suggested_action": "制定针对开放式耳塞的品牌营销策略，提升消费者认知度。"
+      "suggested_action": "制定针对开放式耳塞的品牌推广策略，提升消费者认知度。"
     },
     {
       "name": "Why open-ear earbuds are the better option for sound and awareness - Yahoo Tech",
@@ -1333,7 +1343,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS24yTU1BbnVrSmM0M3hOcUlacVdfRTZJNXBkenVFaUxpcGEtWmJNemlvdk1zeGZsSkt5cFhiUnVTT2RRVkYwRlU4eFVlTFdRd3dvQ1MwNXJlenJjOEZOOWJLU2FEeFQtSmN3eE14dVliQ0hTU3FPN3ZPYXo1SDJqUndmUGtiVU0?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 41,
-      "hours_since_published": 73.7,
+      "hours_since_published": 74.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1344,25 +1354,56 @@
         ]
       },
       "display_title": "Why open-ear earbuds are the better...",
-      "display_summary": "北美消费电子市场持续增长，预计未来将迎来更多创新产品和技术。",
+      "display_summary": "苹果计划在2024年推出新款iPad Pro，预计将搭载M3芯片，提升性能与用户体验。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "北美消费电子市场持续增长，预计未来将迎来更多创新产品和技术。",
+      "product_intro": "苹果计划在2024年推出新款iPad。",
       "importance": "高",
-      "business_note": "开放式耳塞在音质与环境意识之间取得平衡，适合现代消费者需求。",
-      "suggested_action": "加强电商平台推广，突出开放式耳塞的优势，吸引目标用户。"
+      "business_note": "开放耳式耳机在音质和环境意识上具优势，适合年轻消费者。",
+      "suggested_action": "加强电商平台推广，突出开放耳式耳机的独特卖点。"
     }
   ],
   "monitored_entities": [
     {
       "name": "headphone",
       "type": "品类",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+          "url": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+          "published": "Fri, 29 May 2026 14:00:00 +0000",
+          "published_iso": "2026-05-29T14:00:00+00:00",
+          "source": "Engadget",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 58.2,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose",
+              "Sony",
+              "Sennheiser"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 376,
+          "display_title": "Sennheiser Momentum 5 Wireless review:...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Sennheiser Momentum 5无线耳机在音质和降噪方面表现出色，有助于提升品牌竞争力。",
+          "suggested_action": "加大品牌营销力度，突出耳机的音质和降噪优势，吸引更多消费者。"
+        },
         {
           "title": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5\" targe",
@@ -1371,7 +1412,7 @@
           "published_iso": "2026-05-29T11:34:28+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 59.6,
+          "hours_since_published": 60.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1390,37 +1431,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "开放式耳塞正成为消费者的新选择，需关注市场趋势。",
-          "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光。"
-        },
-        {
-          "title": "Sennheiser Momentum 5 Wireless Headphones Review: One Big Crucial Upgrade - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFVxTWRRdGVTdlJRVDVzM3Y5U1ViaXVJNHVXbkxnOUVRRl94MWRGOVdXbi03YTFlcXZRY1hKYVh4Q1ZkaGhZN1NhUmdXTVVNSVExQkJlM0N6V2JDN0Z6SXVjZC1uTk1Ca1VoVWhfWG51eDdNUGpNSWxRMkRxTmNpVkZUcDd0T09XSmc?oc=5\" target=\"_blank\">Sennheiser Momentum 5 Wireless Headphones Review: One Big Cr",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFVxTWRRdGVTdlJRVDVzM3Y5U1ViaXVJNHVXbkxnOUVRRl94MWRGOVdXbi03YTFlcXZRY1hKYVh4Q1ZkaGhZN1NhUmdXTVVNSVExQkJlM0N6V2JDN0Z6SXVjZC1uTk1Ca1VoVWhfWG51eDdNUGpNSWxRMkRxTmNpVkZUcDd0T09XSmc?oc=5",
-          "published": "Thu, 28 May 2026 14:01:00 GMT",
-          "published_iso": "2026-05-28T14:01:00+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 81.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Sennheiser"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 247,
-          "display_title": "Sennheiser Momentum 5 Wireless...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Sennheiser Momentum 5耳机的升级将提升品牌形象，吸引更多消费者关注。",
-          "suggested_action": "加大电商平台推广力度，提升品牌曝光和销售转化。"
+          "business_note": "开放式耳塞成为新趋势，适合追求隐私的消费者，需关注市场动态。",
+          "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光度。"
         }
       ]
     },
@@ -1437,7 +1449,7 @@
           "published_iso": "2026-05-29T11:34:28+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 59.6,
+          "hours_since_published": 60.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1456,8 +1468,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "开放式耳塞正成为消费者的新选择，需关注市场趋势。",
-          "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光。"
+          "business_note": "开放式耳塞成为新趋势，适合追求隐私的消费者，需关注市场动态。",
+          "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光度。"
         },
         {
           "title": "Best open-ear earbuds 2026: 6 picks worth your money - The Gadgeteer",
@@ -1467,7 +1479,7 @@
           "published_iso": "2026-05-27T08:30:15+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 110.7,
+          "hours_since_published": 111.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1500,7 +1512,7 @@
           "published_iso": "2026-05-29T11:34:28+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 59.6,
+          "hours_since_published": 60.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1519,8 +1531,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "开放式耳塞正成为消费者的新选择，需关注市场趋势。",
-          "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光。"
+          "business_note": "开放式耳塞成为新趋势，适合追求隐私的消费者，需关注市场动态。",
+          "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光度。"
         },
         {
           "title": "Best open-ear earbuds 2026: 6 picks worth your money - The Gadgeteer",
@@ -1530,7 +1542,7 @@
           "published_iso": "2026-05-27T08:30:15+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 110.7,
+          "hours_since_published": 111.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1563,7 +1575,7 @@
           "published_iso": "2026-05-25T09:04:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 158.2,
+          "hours_since_published": 159.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1581,8 +1593,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "2025年零售工人工资变化将直接影响电商销售策略和品牌营销。",
-          "suggested_action": "针对电商渠道调整薪酬策略，以提升员工积极性和销售业绩。"
+          "business_note": "电商渠道薪资变化将影响产品定价和市场竞争策略。",
+          "suggested_action": "建议优化电商平台的定价策略以应对薪资上涨。"
         },
         {
           "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
@@ -1592,7 +1604,7 @@
           "published_iso": "2026-05-28T19:23:36+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 75.8,
+          "hours_since_published": 76.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1610,7 +1622,7 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊与沃尔玛在零售领域的竞争加剧，影响电商市场格局。",
+          "business_note": "亚马逊与沃尔玛的竞争已超越零售，影响电商市场格局。",
           "suggested_action": "加强电商平台的品牌营销策略，提升市场竞争力。"
         }
       ]
@@ -1628,7 +1640,7 @@
           "published_iso": "2026-05-28T14:36:29+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 80.6,
+          "hours_since_published": 81.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1647,8 +1659,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "分析零售巨头的竞争优势，有助于制定电商和品牌营销策略。",
-          "suggested_action": "针对Best Buy和Walmart制定针对性电商营销方案，提升市场份额。"
+          "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
+          "suggested_action": "针对Best Buy和Walmart制定精准的品牌营销计划。"
         },
         {
           "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
@@ -1658,7 +1670,7 @@
           "published_iso": "2026-05-28T11:00:48+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 84.2,
+          "hours_since_published": 85.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1676,8 +1688,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Best Buy股票因业绩超预期上涨，显示出电商销售潜力。",
-          "suggested_action": "加强电商平台的促销活动，吸引更多消费者。"
+          "business_note": "Best Buy股价上涨15%，表明其销售策略有效，需加大电商投入。",
+          "suggested_action": "建议优化电商平台，提升用户体验和促销活动。"
         }
       ]
     },
@@ -1694,7 +1706,7 @@
           "published_iso": "2026-05-28T14:36:29+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 80.6,
+          "hours_since_published": 81.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1713,8 +1725,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "分析零售巨头的竞争优势，有助于制定电商和品牌营销策略。",
-          "suggested_action": "针对Best Buy和Walmart制定针对性电商营销方案，提升市场份额。"
+          "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
+          "suggested_action": "针对Best Buy和Walmart制定精准的品牌营销计划。"
         },
         {
           "title": "From Amazon warehouses to Walmart aisles, here's what retail workers earned in 2025 - Business Insider",
@@ -1724,7 +1736,7 @@
           "published_iso": "2026-05-25T09:04:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 158.2,
+          "hours_since_published": 159.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1742,28 +1754,30 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "2025年零售工人工资变化将直接影响电商销售策略和品牌营销。",
-          "suggested_action": "针对电商渠道调整薪酬策略，以提升员工积极性和销售业绩。"
+          "business_note": "电商渠道薪资变化将影响产品定价和市场竞争策略。",
+          "suggested_action": "建议优化电商平台的定价策略以应对薪资上涨。"
         }
       ]
     },
     {
       "name": "Sennheiser",
       "type": "品牌",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Sennheiser Momentum 5 Wireless Headphones Review: One Big Crucial Upgrade - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFVxTWRRdGVTdlJRVDVzM3Y5U1ViaXVJNHVXbkxnOUVRRl94MWRGOVdXbi03YTFlcXZRY1hKYVh4Q1ZkaGhZN1NhUmdXTVVNSVExQkJlM0N6V2JDN0Z6SXVjZC1uTk1Ca1VoVWhfWG51eDdNUGpNSWxRMkRxTmNpVkZUcDd0T09XSmc?oc=5\" target=\"_blank\">Sennheiser Momentum 5 Wireless Headphones Review: One Big Cr",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFVxTWRRdGVTdlJRVDVzM3Y5U1ViaXVJNHVXbkxnOUVRRl94MWRGOVdXbi03YTFlcXZRY1hKYVh4Q1ZkaGhZN1NhUmdXTVVNSVExQkJlM0N6V2JDN0Z6SXVjZC1uTk1Ca1VoVWhfWG51eDdNUGpNSWxRMkRxTmNpVkZUcDd0T09XSmc?oc=5",
-          "published": "Thu, 28 May 2026 14:01:00 GMT",
-          "published_iso": "2026-05-28T14:01:00+00:00",
-          "source": "Google News - Competitor Watch",
+          "title": "Sennheiser Momentum 5 Wireless review: Worth the wait",
+          "summary": "Sennheiser's latest flagship headphones close the gap to Bose and Sony thanks to improved sound and more effective ANC.",
+          "url": "https://www.engadget.com/2183271/sennheiser-momentum-5-wireless-review/",
+          "published": "Fri, 29 May 2026 14:00:00 +0000",
+          "published_iso": "2026-05-29T14:00:00+00:00",
+          "source": "Engadget",
           "bucket": "consumer_electronics",
-          "hours_since_published": 81.2,
-          "freshness_label": "近7天",
+          "hours_since_published": 58.2,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
+              "Bose",
+              "Sony",
               "Sennheiser"
             ],
             "channels": [],
@@ -1771,129 +1785,132 @@
               "headphone"
             ]
           },
-          "_score": 247,
-          "display_title": "Sennheiser Momentum 5 Wireless...",
+          "_score": 376,
+          "display_title": "Sennheiser Momentum 5 Wireless review:...",
           "tags": [
             "🎧 耳机音频"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sennheiser Momentum 5耳机的升级将提升品牌形象，吸引更多消费者关注。",
-          "suggested_action": "加大电商平台推广力度，提升品牌曝光和销售转化。"
+          "business_note": "Sennheiser Momentum 5无线耳机在音质和降噪方面表现出色，有助于提升品牌竞争力。",
+          "suggested_action": "加大品牌营销力度，突出耳机的音质和降噪优势，吸引更多消费者。"
         },
         {
-          "title": "The Sennheiser Momentum 5 has BIG UPGRADES... but are they enough? - Headphones.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQRG9GS2UzUTlrT2tsdFdGaWdmdDBkZFNIb2FWTHZWN0JLV1R6LXdMbVlUTkhZcE52R0tvMHJ0a1RsT2VXdDlWQ0hfcGZyWDFWRUdfSmk5U21hM0t6ZDhVd0RzNUJxckZuWnJnMkZGOWNmdE1UNWhZN1pZUGVSRFJseXlzeFp6c0F4eGM2U1ZHbndqc0s1VnJWWXQ0azFjVmFB?oc=5\" target=\"_blank\">The Sennheiser Momentum 5 has B",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRG9GS2UzUTlrT2tsdFdGaWdmdDBkZFNIb2FWTHZWN0JLV1R6LXdMbVlUTkhZcE52R0tvMHJ0a1RsT2VXdDlWQ0hfcGZyWDFWRUdfSmk5U21hM0t6ZDhVd0RzNUJxckZuWnJnMkZGOWNmdE1UNWhZN1pZUGVSRFJseXlzeFp6c0F4eGM2U1ZHbndqc0s1VnJWWXQ0azFjVmFB?oc=5",
-          "published": "Mon, 25 May 2026 21:59:37 GMT",
-          "published_iso": "2026-05-25T21:59:37+00:00",
+          "title": "Sennheiser Reveals New And Improved Momentum 5 Wireless Headphones - Forbes",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGw4bm9IVHV2Wmk4ejNMSFY3VF9nd1hOUndsSHF5TTN1NlNNQzNERWxDSFVwSlZfSEUyX2pTWWNwdTNxQXFZQUJCaGcxVkdiX0l3Y2FkNmtONEVyMGw3UXYwajRYQjdvblVqQ0VjSmlxUDVzbXJ4U0Q5Y1NGMjEyandvU0NLR01FZGFXV2ZqSDNFandoYzVEdlNQc0lBcDhQeHQ2cXB2UHowWnFSUDlJa2llNXp2aEp4MGxR?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGw4bm9IVHV2Wmk4ejNMSFY3VF9nd1hOUndsSHF5TTN1NlNNQzNERWxDSFVwSlZfSEUyX2pTWWNwdTNxQXFZQUJCaGcxVkdiX0l3Y2FkNmtONEVyMGw3UXYwajRYQjdvblVqQ0VjSmlxUDVzbXJ4U0Q5Y1NGMjEyandvU0NLR01FZGFXV2ZqSDNFandoYzVEdlNQc0lBcDhQeHQ2cXB2UHowWnFSUDlJa2llNXp2aEp4MGxR?oc=5",
+          "published": "Mon, 25 May 2026 22:56:28 GMT",
+          "published_iso": "2026-05-25T22:56:28+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 145.2,
+          "hours_since_published": 145.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
               "Sennheiser"
             ],
-            "channels": [],
+            "channels": [
+              "Target"
+            ],
             "categories": [
               "headphone"
             ]
           },
-          "_score": 227,
-          "display_title": "The Sennheiser Momentum 5 has BIG...",
+          "_score": 269,
+          "display_title": "Sennheiser Reveals New And Improved...",
           "tags": [
-            "🎧 耳机音频"
+            "🎧 耳机音频",
+            "🏬 平台电商"
           ],
-          "impact_area": "品牌营销",
+          "impact_area": "电商",
           "importance": "高",
-          "business_note": "Sennheiser Momentum 5 的升级可能影响品牌形象和市场竞争力。",
-          "suggested_action": "加强电商平台的品牌宣传，突出新功能优势。"
+          "business_note": "Sennheiser新款Momentum 5无线耳机提升品牌形象，吸引更多电商消费者。",
+          "suggested_action": "加强与Target的合作，优化电商渠道营销策略，提升销量。"
         }
       ]
     },
     {
-      "name": "bone conduction",
-      "type": "品类",
+      "name": "Target",
+      "type": "渠道",
       "count": 3,
       "items": [
         {
-          "title": "The best bone conduction headphones: stay aware on the road, in the pool, and in the office - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5\" target=\"_blank\">The best bone conduction headphones: stay aware on the road, in the pool, and in the office</a>&n",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
-          "published": "Thu, 28 May 2026 10:12:40 GMT",
-          "published_iso": "2026-05-28T10:12:40+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 85.0,
-          "freshness_label": "近7天",
+          "title": "As Target, Walmart and Aldi embrace naturally-colored food, brands rush to meet demand",
+          "summary": "Major retailers like Walmart and Target are removing artificial food dyes from their aisles, especially in products like cereals and frozen treats. This has been a boon for startups already carrying naturally-colored products in their respective categories.",
+          "url": "https://www.modernretail.co/operations/as-target-walmart-and-aldi-embrace-naturally-colored-food-brands-rush-to-meet-demand/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Fri, 29 May 2026 04:00:00 +0000",
+          "published_iso": "2026-05-29T04:00:00+00:00",
+          "source": "Modern Retail",
+          "bucket": "channel_news",
+          "hours_since_published": 68.2,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
+            "channels": [
+              "Walmart",
+              "Target"
+            ],
+            "categories": []
           },
-          "_score": 211,
-          "display_title": "The best bone conduction headphones:...",
+          "_score": 285,
+          "display_title": "As Target, Walmart and Aldi embrace...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🛒 渠道零售",
+            "🏬 平台电商"
           ],
-          "impact_area": "品牌营销",
+          "impact_area": "电商",
           "importance": "高",
-          "business_note": "骨传导耳机在多个场景下的应用潜力巨大，需加强品牌宣传。",
-          "suggested_action": "建议通过电商平台推广骨传导耳机，提升市场认知度。"
+          "business_note": "随着主要零售商去除人工色素，电商需加速推广自然色素产品以满足市场需求。",
+          "suggested_action": "建议与自然色素品牌合作，优化电商平台产品线，提升市场竞争力。"
         },
         {
-          "title": "Best Bone Conduction Headphones 2026: Buyer's Guide and Top Picks - The Gadgeteer",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa3NDaDE2NDNYZGtucFZFdHQ1MTVQMmxMOG9zRHNtNXIzUUozeFNpY1F3ZHVJZW1NVFliX1RVQWJMOG1Eb0o5elptUnB5bEhHbmtVTnVzaUI1dllXSlZHb25KQ0Npd3ZzbGg4NDdnOXVvZHNuUFZGTnZHUWM3SzA?oc=5\" target=\"_blank\">Best Bone Conduction Headphones 2026: Buyer's Guide and Top Picks</a>&nbsp;&",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa3NDaDE2NDNYZGtucFZFdHQ1MTVQMmxMOG9zRHNtNXIzUUozeFNpY1F3ZHVJZW1NVFliX1RVQWJMOG1Eb0o5elptUnB5bEhHbmtVTnVzaUI1dllXSlZHb25KQ0Npd3ZzbGg4NDdnOXVvZHNuUFZGTnZHUWM3SzA?oc=5",
-          "published": "Tue, 26 May 2026 00:00:12 GMT",
-          "published_iso": "2026-05-26T00:00:12+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 143.2,
+          "title": "Best Buy forecasts upbeat sales as AI gadgets boost demand; shares rise - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5\" target=",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "published": "Thu, 28 May 2026 16:21:58 GMT",
+          "published_iso": "2026-05-28T16:21:58+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 79.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
+            "channels": [
+              "Best Buy",
+              "Target"
+            ],
+            "categories": []
           },
-          "_score": 211,
-          "display_title": "Best Bone Conduction Headphones 2026:...",
+          "_score": 274,
+          "display_title": "Best Buy forecasts upbeat sales as AI...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🛒 渠道零售",
+            "🏬 平台电商"
           ],
-          "impact_area": "品牌营销",
+          "impact_area": "电商",
           "importance": "高",
-          "business_note": "骨传导耳机市场潜力巨大，需加强品牌营销以提升市场份额。",
-          "suggested_action": "制定针对骨传导耳机的品牌推广策略，增强消费者认知。"
+          "business_note": "AI设备需求上升，推动Best Buy销售增长，需抓住电商机会。",
+          "suggested_action": "加强电商平台的AI产品推广，提升市场份额。"
         }
       ]
     }
   ],
   "takeaways": [
-    "随着开放式耳机的兴起，传统耳机市场份额可能受到挤压，品牌需迅速调整策略。",
-    "亚马逊与沃尔玛的竞争加剧，电商平台的价格战将影响利润空间。",
-    "Best Buy股价上涨15%，显示出其在消费电子领域的强劲复苏势头。",
-    "新品推出频繁，品牌需关注市场反馈，以便快速迭代产品。",
-    "随着智能眼镜的战略布局，苹果可能重塑可穿戴设备市场的竞争格局。"
+    "Sennheiser Momentum 5 Wireless的表现将推动高端耳机市场竞争加剧，Bose需加强创新应对。",
+    "开放式耳塞逐渐成为主流，传统耳机品牌需快速适应这一趋势以保持市场份额。",
+    "亚马逊与沃尔玛的竞争加剧，消费者将受益于更具价格竞争力的产品和服务。",
+    "Best Buy股价上涨反映出其在消费电子领域的强劲表现，未来可能吸引更多投资者关注。",
+    "新品发布频繁，品牌需在营销策略上加大力度，以便在激烈的市场环境中脱颖而出。"
   ],
   "opportunity_signals": [
-    "分析零售巨头的竞争优势，将帮助我们优化电商和品牌营销策略，提升市场份额。",
-    "关注2025年零售工人工资变化，及时调整电商销售策略，以应对成本上升带来的挑战。",
-    "随着消费者对天然色素产品的需求增加，电商应加速推广相关产品，以抢占市场先机。"
+    "Sennheiser Momentum 5无线耳机在音质和降噪方面表现出色，品牌可借此提升市场份额，增强竞争力。",
+    "分析零售巨头的电商战略，有助于识别行业趋势，优化自身的市场定位与销售策略。",
+    "随着主要零售商去除人工色素，电商应加速推广自然色素产品，以满足日益增长的消费者需求，抓住市场机会。"
   ],
   "risk_signals": [
-    "零售巨头如亚马逊和沃尔玛的竞争加剧，可能导致市场份额的快速流失，需密切关注竞争策略调整。",
-    "2025年零售工人工资变化将直接影响消费者购买力，需提前评估对电商销售策略的潜在影响。",
-    "随着主要零售商转向天然产品，未能及时调整产品线可能导致品牌失去市场竞争力。"
+    "主要零售商如亚马逊和沃尔玛的竞争加剧，可能导致我们在电商市场的份额下降。",
+    "电商渠道薪资变化将直接影响产品定价策略，若未及时调整可能损害利润率。",
+    "随着消费者对自然色素产品的需求上升，若未能快速响应市场趋势，可能失去竞争优势。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

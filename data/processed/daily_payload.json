@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03 07:57:53 CST",
+  "generated_at": "2026-06-03 09:46:24 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -711,7 +711,7 @@
     "published_iso": "2026-05-28T14:36:29+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 129.3,
+    "hours_since_published": 131.2,
     "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
@@ -730,10 +730,10 @@
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-    "suggested_action": "针对Best Buy和Walmart优化电商营销策略，提升市场份额。"
+    "business_note": "分析零售巨头的竞争优势，有助于优化电商策略和品牌定位。",
+    "suggested_action": "针对Best Buy、Walmart和Costco制定差异化电商营销方案。"
   },
-  "lead_summary": "大型零售商竞争加剧，电商战略需调整以应对市场份额变化。",
+  "lead_summary": "零售巨头竞争加剧，电商策略需调整以应对市场变化，关注Best Buy表现。",
   "headline_trio": [
     {
       "title": "Which retail giant — Walmart, Costco, or Best Buy — is built to win 2026? - Yahoo Finance",
@@ -743,7 +743,7 @@
       "published_iso": "2026-05-28T14:36:29+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 129.3,
+      "hours_since_published": 131.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -762,8 +762,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-      "suggested_action": "针对Best Buy和Walmart优化电商营销策略，提升市场份额。"
+      "business_note": "分析零售巨头的竞争优势，有助于优化电商策略和品牌定位。",
+      "suggested_action": "针对Best Buy、Walmart和Costco制定差异化电商营销方案。"
     },
     {
       "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
@@ -773,7 +773,7 @@
       "published_iso": "2026-05-28T19:23:36+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 124.6,
+      "hours_since_published": 126.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -791,40 +791,73 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊与沃尔玛竞争加剧，需加强电商渠道策略以提升市场份额。",
-      "suggested_action": "优化电商平台营销策略，提升品牌曝光和销售转化率。"
+      "business_note": "亚马逊与沃尔玛的竞争加剧，影响电商市场格局。",
+      "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
     },
     {
-      "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1RMY2x1Wkw4Zk5DNkktdHhoaC1TX2FvRFo2dVdXRG02M05Xc25CT2c?oc=5",
-      "published": "Thu, 28 May 2026 11:00:48 GMT",
-      "published_iso": "2026-05-28T11:00:48+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 132.9,
-      "freshness_label": "近7天",
+      "title": "'For AI assistants, there are no better devices than headphones': sports and bone conduction headphones company Shokz harbors plans for smart glasses and a 'record everything' AI assistant — according to its CEO and head of North America - TechRadar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxPMG5Fc1RsRVFiTmJvaWxUckVqaS1aS2NObWNScVV5b3dxdWJlT29mQWtyVEM3WDFfa1pkbVBMUW1ydEN1SGp4N053VVF2Y2xrX0xLdnpmTkFDZHlaNGZRcHFySzJHa0xnOTVMOHd0MDdRbnVQZ2M4NkpaTW5HckRQclA1WHF0VENzaUxtd0h6TVE2Z3BGd1dhVWZEYlM0VGFsRm10cC1Eb1hKeHhvZl9DRUs1YUdJbFRNX3Zod3c1NTJKSWVNZnZSMj",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPMG5Fc1RsRVFiTmJvaWxUckVqaS1aS2NObWNScVV5b3dxdWJlT29mQWtyVEM3WDFfa1pkbVBMUW1ydEN1SGp4N053VVF2Y2xrX0xLdnpmTkFDZHlaNGZRcHFySzJHa0xnOTVMOHd0MDdRbnVQZ2M4NkpaTW5HckRQclA1WHF0VENzaUxtd0h6TVE2Z3BGd1dhVWZEYlM0VGFsRm10cC1Eb1hKeHhvZl9DRUs1YUdJbFRNX3Zod3c1NTJKSWVNZnZSMjB2enp6WEUzMkRrMkJuMnpYU3VHREJ3ekk1Z29wdjZ0VEhhaGwtR2gtVXNsSjF4NXRvTWJrb3l4MFEtb0h5MWV0cXRuQ0RiTGRmRVN0aHpBWEhEZVRUalFZa3BBb2pLbHh3WXhKRFF2ZEc4YlpEYkwwRk05S184dmNTaC16M2xOWENZLWJKX2tZdGtmQUNWVjUzelVoMXU5NkdXNVZVb0xEdXcySHdZT2NNME1VWTZvekFtdnhWdGEzSFdmOFlwVlVSbVJFQ2gxemM5aV9QaU5kcWtFdjJsY2NCbXdZNmVD?oc=5",
+      "published": "Tue, 02 Jun 2026 13:17:41 GMT",
+      "published_iso": "2026-06-02T13:17:41+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 12.5,
+      "freshness_label": "24h内",
       "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy",
-          "REI"
+        "brands": [
+          "Shokz"
         ],
-        "categories": []
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
       },
-      "_score": 312,
-      "display_title": "Best Buy stock climbs 15% on earnings...",
+      "_score": 316,
+      "display_title": "'For AI assistants, there are no better...",
       "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
       ],
-      "impact_area": "电商",
+      "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Best Buy股票因业绩超预期上涨，显示出电商渠道销售潜力。",
-      "suggested_action": "加强电商平台营销，提升用户购买体验，促进销售增长。"
+      "business_note": "Shokz计划推出智能眼镜和AI助手，提升品牌竞争力。",
+      "suggested_action": "加大电商和品牌营销投入，抢占市场先机。"
     }
   ],
   "consumer_electronics": [
+    {
+      "title": "'For AI assistants, there are no better devices than headphones': sports and bone conduction headphones company Shokz harbors plans for smart glasses and a 'record everything' AI assistant — according to its CEO and head of North America - TechRadar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxPMG5Fc1RsRVFiTmJvaWxUckVqaS1aS2NObWNScVV5b3dxdWJlT29mQWtyVEM3WDFfa1pkbVBMUW1ydEN1SGp4N053VVF2Y2xrX0xLdnpmTkFDZHlaNGZRcHFySzJHa0xnOTVMOHd0MDdRbnVQZ2M4NkpaTW5HckRQclA1WHF0VENzaUxtd0h6TVE2Z3BGd1dhVWZEYlM0VGFsRm10cC1Eb1hKeHhvZl9DRUs1YUdJbFRNX3Zod3c1NTJKSWVNZnZSMj",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPMG5Fc1RsRVFiTmJvaWxUckVqaS1aS2NObWNScVV5b3dxdWJlT29mQWtyVEM3WDFfa1pkbVBMUW1ydEN1SGp4N053VVF2Y2xrX0xLdnpmTkFDZHlaNGZRcHFySzJHa0xnOTVMOHd0MDdRbnVQZ2M4NkpaTW5HckRQclA1WHF0VENzaUxtd0h6TVE2Z3BGd1dhVWZEYlM0VGFsRm10cC1Eb1hKeHhvZl9DRUs1YUdJbFRNX3Zod3c1NTJKSWVNZnZSMjB2enp6WEUzMkRrMkJuMnpYU3VHREJ3ekk1Z29wdjZ0VEhhaGwtR2gtVXNsSjF4NXRvTWJrb3l4MFEtb0h5MWV0cXRuQ0RiTGRmRVN0aHpBWEhEZVRUalFZa3BBb2pLbHh3WXhKRFF2ZEc4YlpEYkwwRk05S184dmNTaC16M2xOWENZLWJKX2tZdGtmQUNWVjUzelVoMXU5NkdXNVZVb0xEdXcySHdZT2NNME1VWTZvekFtdnhWdGEzSFdmOFlwVlVSbVJFQ2gxemM5aV9QaU5kcWtFdjJsY2NCbXdZNmVD?oc=5",
+      "published": "Tue, 02 Jun 2026 13:17:41 GMT",
+      "published_iso": "2026-06-02T13:17:41+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 12.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Shokz"
+        ],
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
+      },
+      "_score": 316,
+      "display_title": "'For AI assistants, there are no better...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Shokz计划推出智能眼镜和AI助手，提升品牌竞争力。",
+      "suggested_action": "加大电商和品牌营销投入，抢占市场先机。"
+    },
     {
       "title": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5\" targe",
@@ -833,7 +866,7 @@
       "published_iso": "2026-05-29T11:34:28+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 108.4,
+      "hours_since_published": 110.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -852,8 +885,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "开放式耳塞正成为消费者的新选择，需关注其市场潜力。",
-      "suggested_action": "加大电商和品牌营销力度，提升开放式耳塞的市场认知度。"
+      "business_note": "开放式耳塞耳机满足消费者对隐私和舒适的需求，市场潜力巨大。",
+      "suggested_action": "加大电商平台推广力度，提升品牌知名度和市场份额。"
     },
     {
       "title": "Sennheiser Momentum 5 Wireless Headphones Review: One Big Crucial Upgrade - CNET",
@@ -863,7 +896,7 @@
       "published_iso": "2026-05-28T14:01:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 129.9,
+      "hours_since_published": 131.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -881,8 +914,37 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sennheiser Momentum 5无线耳机的升级将提升品牌形象，吸引更多消费者关注。",
-      "suggested_action": "加大电商平台推广力度，提升品牌曝光和销售转化。"
+      "business_note": "Sennheiser Momentum 5无线耳机在品牌营销中具有重要影响，需加强推广。",
+      "suggested_action": "建议加大电商平台的广告投放，提升品牌曝光度。"
+    },
+    {
+      "title": "New Apple Beats Headphones Teased by Post Ahead of the World Cup - PCMag",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNEQ0YWFPMUNNUXhZeG5QazdRRXRQOTVwdUVGejUzaVZjUkdwVV9wOURNYlpaZFdldHRzdWhPWHVaZ29GNG41SmhkQTMtS3pCdUloNkNabWhiMnRlQ3lBODRKaGJBczBLRUlrQ2lvbENEaEtieVgtbWhrTVd2V0JnMWdUX3p6ZjBWZUh3XzhTLVdfVVpESUE?oc=5\" target=\"_blank\">New Apple Beats Headphones Teased by Post Ah",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNEQ0YWFPMUNNUXhZeG5QazdRRXRQOTVwdUVGejUzaVZjUkdwVV9wOURNYlpaZFdldHRzdWhPWHVaZ29GNG41SmhkQTMtS3pCdUloNkNabWhiMnRlQ3lBODRKaGJBczBLRUlrQ2lvbENEaEtieVgtbWhrTVd2V0JnMWdUX3p6ZjBWZUh3XzhTLVdfVVpESUE?oc=5",
+      "published": "Sun, 31 May 2026 13:23:11 GMT",
+      "published_iso": "2026-05-31T13:23:11+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 60.4,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Beats"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 242,
+      "display_title": "New Apple Beats Headphones Teased by...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "新款Beats耳机即将发布，可能提升品牌影响力和销量。",
+      "suggested_action": "加大电商和品牌营销力度，抓住世界杯机会。"
     },
     {
       "title": "Upcoming Beats headphones teased by Lamine Yamal: New design, pink colorway - 9to5Mac",
@@ -892,7 +954,7 @@
       "published_iso": "2026-05-30T19:12:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 76.8,
+      "hours_since_published": 78.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -910,37 +972,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "新款Beats耳机的设计和颜色可能吸引年轻消费者，提升品牌影响力。",
-      "suggested_action": "加大电商推广力度，针对年轻群体进行品牌营销活动。"
-    },
-    {
-      "title": "Lamine Yamal Teases Upcoming Beats Over-Ear Headphones - MacRumors",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXy02VDFFYTNlRk5aRmxadXhyejlYcUNOQjltb0dHSkpCektuX1FBdG5MWFNjbnRpUS1fYkRVVVZ4bmFCZERpcUpWekdVTVlFZmNrZnppa3dlYXU0cXZhcGdXSVdOZ2txWnVOY081am5wWlhyOGxBak9aZU5teFh4amk4N01iTGxFN2VZ?oc=5\" target=\"_blank\">Lamine Yamal Teases Upcoming Beats Over-Ear Headphones</a>&",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXy02VDFFYTNlRk5aRmxadXhyejlYcUNOQjltb0dHSkpCektuX1FBdG5MWFNjbnRpUS1fYkRVVVZ4bmFCZERpcUpWekdVTVlFZmNrZnppa3dlYXU0cXZhcGdXSVdOZ2txWnVOY081am5wWlhyOGxBak9aZU5teFh4amk4N01iTGxFN2VZ?oc=5",
-      "published": "Sat, 30 May 2026 18:19:45 GMT",
-      "published_iso": "2026-05-30T18:19:45+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 77.6,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Beats"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 227,
-      "display_title": "Lamine Yamal Teases Upcoming Beats...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Lamine Yamal即将推出Beats耳机，品牌影响力将提升。",
-      "suggested_action": "加大品牌营销力度，提前预热市场，吸引消费者关注。"
+      "business_note": "新款Beats耳机的发布将吸引年轻消费者，提升品牌影响力。",
+      "suggested_action": "加大电商和社交媒体营销力度，提前预热新产品。"
     },
     {
       "title": "Here&#8217;s seven bloody minutes of Wolverine on the PS5",
@@ -950,7 +983,7 @@
       "published_iso": "2026-06-02T21:11:46+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 2.8,
+      "hours_since_published": 4.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -966,37 +999,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "索尼新作《Wolverine》将提升品牌影响力，吸引更多玩家关注PS5。",
-      "suggested_action": "加大电商和品牌营销力度，提前预热游戏发布，吸引潜在用户。"
-    },
-    {
-      "title": "The best bone conduction headphones: stay aware on the road, in the pool, and in the office - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5\" target=\"_blank\">The best bone conduction headphones: stay aware on the road, in the pool, and in the office</a>&n",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
-      "published": "Thu, 28 May 2026 10:12:40 GMT",
-      "published_iso": "2026-05-28T10:12:40+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 133.7,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 211,
-      "display_title": "The best bone conduction headphones:...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "骨传导耳机在运动和办公场景中具有独特优势，市场潜力巨大。",
-      "suggested_action": "加强电商平台推广，提升品牌知名度，吸引目标用户。"
+      "business_note": "索尼新作《金刚狼》将提升PS5品牌形象，吸引更多玩家关注。",
+      "suggested_action": "加大电商推广力度，利用社交媒体进行品牌营销。"
     }
   ],
   "channel_news": [
@@ -1008,7 +1012,7 @@
       "published_iso": "2026-05-28T14:36:29+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 129.3,
+      "hours_since_published": 131.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1027,8 +1031,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-      "suggested_action": "针对Best Buy和Walmart优化电商营销策略，提升市场份额。"
+      "business_note": "分析零售巨头的竞争优势，有助于优化电商策略和品牌定位。",
+      "suggested_action": "针对Best Buy、Walmart和Costco制定差异化电商营销方案。"
     },
     {
       "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
@@ -1038,7 +1042,7 @@
       "published_iso": "2026-05-28T19:23:36+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 124.6,
+      "hours_since_published": 126.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1056,8 +1060,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊与沃尔玛竞争加剧，需加强电商渠道策略以提升市场份额。",
-      "suggested_action": "优化电商平台营销策略，提升品牌曝光和销售转化率。"
+      "business_note": "亚马逊与沃尔玛的竞争加剧，影响电商市场格局。",
+      "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
     },
     {
       "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
@@ -1067,7 +1071,7 @@
       "published_iso": "2026-05-28T11:00:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 132.9,
+      "hours_since_published": 134.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1085,8 +1089,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy股票因业绩超预期上涨，显示出电商渠道销售潜力。",
-      "suggested_action": "加强电商平台营销，提升用户购买体验，促进销售增长。"
+      "business_note": "Best Buy股价上涨15%，显示出电商销售潜力，需抓住市场机遇。",
+      "suggested_action": "加强电商平台营销，提升用户体验，促进销售增长。"
     },
     {
       "title": "Walmart: Store-fulfilled deliveries getting faster - Retail Dive",
@@ -1096,7 +1100,7 @@
       "published_iso": "2026-06-01T15:14:13+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 32.7,
+      "hours_since_published": 34.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1113,8 +1117,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart加快门店履行交付，有助于提升电商竞争力。",
-      "suggested_action": "建议优化电商物流策略，提升客户体验。"
+      "business_note": "Walmart 加快门店履约交付速度，有助于提升电商竞争力。",
+      "suggested_action": "建议优化电商渠道，提升物流效率，增强用户体验。"
     },
     {
       "title": "Mass retailers draw level with supermarkets as primary grocery destinations",
@@ -1124,7 +1128,7 @@
       "published_iso": "2026-06-02T14:39:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 9.3,
+      "hours_since_published": 11.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1142,8 +1146,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "大宗零售商与超市竞争，成为主要食品购物目的地，影响电商销售。",
-      "suggested_action": "加强与Walmart和Target的合作，提升电商渠道的品牌曝光。"
+      "business_note": "大型零售商如沃尔玛和塔吉特已成为主要食品购物目的地，影响电商销售。",
+      "suggested_action": "加强与沃尔玛和塔吉特的电商合作，提升品牌曝光和销售。"
     },
     {
       "title": "Best Buy forecasts upbeat sales as AI gadgets boost demand; shares rise - Reuters",
@@ -1153,7 +1157,7 @@
       "published_iso": "2026-05-28T16:21:58+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 127.6,
+      "hours_since_published": 129.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1171,8 +1175,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "AI设备需求上升，Best Buy销售预期乐观，需抓住电商机会。",
-      "suggested_action": "加强电商平台的AI产品推广，提升市场份额。"
+      "business_note": "AI设备需求增长将推动销售，需抓住电商机会。",
+      "suggested_action": "加强与Best Buy和Target的电商合作，提升品牌曝光。"
     }
   ],
   "products": [
@@ -1184,7 +1188,7 @@
       "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026",
       "source": "The Verge",
       "_score": 77,
-      "hours_since_published": 2.8,
+      "hours_since_published": 4.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1194,16 +1198,16 @@
         "categories": []
       },
       "display_title": "Here&#8217;s seven bloody minutes of...",
-      "display_summary": "索尼在State of Play活动中发布了Insomniac Games新作《漫威：金刚狼",
+      "display_summary": "索尼在State of Play活动中公布了Insomniac Games新作《漫威：金刚狼",
       "tags": [
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "索尼在State of Play活动中发布了Insomniac。",
+      "product_intro": "索尼在State of Play活动中公布了Insomniac。",
       "importance": "高",
-      "business_note": "索尼PS5独占游戏《Wolverine》将提升品牌影响力，吸引更多玩家关注。",
-      "suggested_action": "加大电商和品牌营销投入，提前布局相关促销活动。"
+      "business_note": "索尼新作《Wolverine》将吸引大量玩家，提升品牌影响力。",
+      "suggested_action": "加大电商和品牌营销力度，提前布局宣传活动。"
     },
     {
       "name": "God of War Laufey is coming to the PS5",
@@ -1213,7 +1217,7 @@
       "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
       "source": "The Verge",
       "_score": 69,
-      "hours_since_published": 1.7,
+      "hours_since_published": 3.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1223,7 +1227,7 @@
         "categories": []
       },
       "display_title": "God of War Laufey is coming to the PS5",
-      "display_summary": "索尼在State of Play展示中宣布新作《战神：劳菲》，由圣塔莫尼卡工作室开发，预计将",
+      "display_summary": "索尼在State of Play发布会上揭晓新作《战神：劳菲》，由圣塔莫尼卡工作室开发，预计",
       "tags": [
         "🚀 新品"
       ],
@@ -1231,8 +1235,8 @@
       "judgement_label": "竞品观察",
       "product_intro": "索尼在State of。",
       "importance": "高",
-      "business_note": "新游戏发布将显著提升品牌影响力，吸引更多玩家关注PS5。",
-      "suggested_action": "加大电商和品牌营销力度，提前预热游戏宣传，提升用户期待。"
+      "business_note": "新游戏发布将提升Sony品牌影响力，吸引更多玩家关注PS5。",
+      "suggested_action": "加大电商和品牌营销力度，提前预热游戏宣传。"
     },
     {
       "name": "PlayStation State of Play June 2026: All the news and trailers",
@@ -1242,7 +1246,7 @@
       "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
       "source": "The Verge",
       "_score": 69,
-      "hours_since_published": 3.3,
+      "hours_since_published": 5.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1252,7 +1256,7 @@
         "categories": []
       },
       "display_title": "PlayStation State of Play June 2026:...",
-      "display_summary": "索尼将在6月2日东部时间下午5点举行State of Play展示，提前为夏季游戏节预热，正",
+      "display_summary": "索尼将在6月2日东部时间下午5点举行State of Play展示，提前参与夏季游戏节，适逢",
       "tags": [
         "🚀 新品"
       ],
@@ -1260,8 +1264,8 @@
       "judgement_label": "竞品观察",
       "product_intro": "索尼将在6月2日东部时间下午5点举行State of。",
       "importance": "高",
-      "business_note": "PlayStation即将举行重要发布会，需加强品牌营销以提升市场关注度。",
-      "suggested_action": "在发布会前加大电商和社交媒体宣传力度，吸引更多用户关注。"
+      "business_note": "PlayStation的State of Play展示将提升品牌曝光，吸引更多消费者关注PS5。",
+      "suggested_action": "利用此次展示加强电商平台的促销活动，提升销量。"
     },
     {
       "name": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
@@ -1271,7 +1275,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 67,
-      "hours_since_published": 108.4,
+      "hours_since_published": 110.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1283,17 +1287,17 @@
         ]
       },
       "display_title": "Open-ear earbuds are the new headphones...",
-      "display_summary": "某消费电子公司发布新产品，聚焦提升用户体验，预计将推动销量增长。",
+      "display_summary": "北美消费电子市场持续增长，企业需关注新兴技术与消费者需求变化，以提升竞争力。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "某消费电子公司发布新产品，聚焦提升用户体验，预计将推动销量增长。",
+      "product_intro": "北美消费电子市场持续增长，企业需关注新兴技术与消费者需求变化，以提升竞争力。",
       "importance": "高",
-      "business_note": "开放式耳塞耳机满足消费者对隐私的需求，具有市场潜力。",
-      "suggested_action": "加强电商平台推广，提升品牌知名度和销售转化。"
+      "business_note": "开放式耳塞成为新潮流，适合追求隐私的消费者，需关注市场动态。",
+      "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光率。"
     },
     {
       "name": "I held the next-gen handheld",
@@ -1303,7 +1307,7 @@
       "url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.0,
+      "hours_since_published": 5.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1311,16 +1315,16 @@
         "categories": []
       },
       "display_title": "I held the next-gen handheld",
-      "display_summary": "英特尔面临裁员、声誉受损及市场份额流失，桌面游戏用户转向AMD，旗舰笔记本被苹果和高通挤压。",
+      "display_summary": "英特尔面临裁员、声誉受损及市场份额流失，AMD、苹果和高通加速其在旗舰笔记本市场的边缘化。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "英特尔面临裁员、声誉受损及市场份额流失，桌面游戏用户转向AMD，旗舰笔记本。",
+      "product_intro": "英特尔面临裁员、声誉受损及市场份额流失，AMD、苹果和高通加速其在旗舰笔记。",
       "importance": "高",
-      "business_note": "Intel面临竞争压力，需加强品牌营销以恢复市场信任。",
-      "suggested_action": "加大对Intel产品的电商推广力度，提升品牌形象。"
+      "business_note": "Intel在消费电子市场面临重大挑战，需加强品牌营销以恢复市场信任。",
+      "suggested_action": "建议制定针对性品牌营销策略，提升消费者对Intel产品的认知和信心。"
     },
     {
       "name": "Microsoft Build 2026: The 7 biggest announcements",
@@ -1330,7 +1334,7 @@
       "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.6,
+      "hours_since_published": 6.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1338,16 +1342,16 @@
         "categories": []
       },
       "display_title": "Microsoft Build 2026: The 7 biggest...",
-      "display_summary": "微软在Build 2026大会上发布新Surface硬件、常驻个人助手及多项AI更新，CEO",
+      "display_summary": "微软启动Build 2026，CEO纳德拉及高层发布新Surface硬件、常驻个人助手及AI",
       "tags": [
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "微软在Build。",
+      "product_intro": "微软启动Build。",
       "importance": "高",
-      "business_note": "微软Build 2026发布新硬件和AI更新，影响品牌营销策略。",
-      "suggested_action": "关注新产品发布，调整品牌营销策略以提升市场竞争力。"
+      "business_note": "微软Build 2026发布新硬件和AI更新，影响品牌形象和市场竞争力。",
+      "suggested_action": "加强品牌营销策略，突出新产品优势，提升市场认知度。"
     }
   ],
   "monitored_entities": [
@@ -1357,6 +1361,37 @@
       "count": 7,
       "items": [
         {
+          "title": "'For AI assistants, there are no better devices than headphones': sports and bone conduction headphones company Shokz harbors plans for smart glasses and a 'record everything' AI assistant — according to its CEO and head of North America - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxPMG5Fc1RsRVFiTmJvaWxUckVqaS1aS2NObWNScVV5b3dxdWJlT29mQWtyVEM3WDFfa1pkbVBMUW1ydEN1SGp4N053VVF2Y2xrX0xLdnpmTkFDZHlaNGZRcHFySzJHa0xnOTVMOHd0MDdRbnVQZ2M4NkpaTW5HckRQclA1WHF0VENzaUxtd0h6TVE2Z3BGd1dhVWZEYlM0VGFsRm10cC1Eb1hKeHhvZl9DRUs1YUdJbFRNX3Zod3c1NTJKSWVNZnZSMj",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPMG5Fc1RsRVFiTmJvaWxUckVqaS1aS2NObWNScVV5b3dxdWJlT29mQWtyVEM3WDFfa1pkbVBMUW1ydEN1SGp4N053VVF2Y2xrX0xLdnpmTkFDZHlaNGZRcHFySzJHa0xnOTVMOHd0MDdRbnVQZ2M4NkpaTW5HckRQclA1WHF0VENzaUxtd0h6TVE2Z3BGd1dhVWZEYlM0VGFsRm10cC1Eb1hKeHhvZl9DRUs1YUdJbFRNX3Zod3c1NTJKSWVNZnZSMjB2enp6WEUzMkRrMkJuMnpYU3VHREJ3ekk1Z29wdjZ0VEhhaGwtR2gtVXNsSjF4NXRvTWJrb3l4MFEtb0h5MWV0cXRuQ0RiTGRmRVN0aHpBWEhEZVRUalFZa3BBb2pLbHh3WXhKRFF2ZEc4YlpEYkwwRk05S184dmNTaC16M2xOWENZLWJKX2tZdGtmQUNWVjUzelVoMXU5NkdXNVZVb0xEdXcySHdZT2NNME1VWTZvekFtdnhWdGEzSFdmOFlwVlVSbVJFQ2gxemM5aV9QaU5kcWtFdjJsY2NCbXdZNmVD?oc=5",
+          "published": "Tue, 02 Jun 2026 13:17:41 GMT",
+          "published_iso": "2026-06-02T13:17:41+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 12.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 316,
+          "display_title": "'For AI assistants, there are no better...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz计划推出智能眼镜和AI助手，提升品牌竞争力。",
+          "suggested_action": "加大电商和品牌营销投入，抢占市场先机。"
+        },
+        {
           "title": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5\" targe",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
@@ -1364,7 +1399,7 @@
           "published_iso": "2026-05-29T11:34:28+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 108.4,
+          "hours_since_published": 110.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1383,37 +1418,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "开放式耳塞正成为消费者的新选择，需关注其市场潜力。",
-          "suggested_action": "加大电商和品牌营销力度，提升开放式耳塞的市场认知度。"
-        },
-        {
-          "title": "Sennheiser Momentum 5 Wireless Headphones Review: One Big Crucial Upgrade - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFVxTWRRdGVTdlJRVDVzM3Y5U1ViaXVJNHVXbkxnOUVRRl94MWRGOVdXbi03YTFlcXZRY1hKYVh4Q1ZkaGhZN1NhUmdXTVVNSVExQkJlM0N6V2JDN0Z6SXVjZC1uTk1Ca1VoVWhfWG51eDdNUGpNSWxRMkRxTmNpVkZUcDd0T09XSmc?oc=5\" target=\"_blank\">Sennheiser Momentum 5 Wireless Headphones Review: One Big Cr",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFVxTWRRdGVTdlJRVDVzM3Y5U1ViaXVJNHVXbkxnOUVRRl94MWRGOVdXbi03YTFlcXZRY1hKYVh4Q1ZkaGhZN1NhUmdXTVVNSVExQkJlM0N6V2JDN0Z6SXVjZC1uTk1Ca1VoVWhfWG51eDdNUGpNSWxRMkRxTmNpVkZUcDd0T09XSmc?oc=5",
-          "published": "Thu, 28 May 2026 14:01:00 GMT",
-          "published_iso": "2026-05-28T14:01:00+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 129.9,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Sennheiser"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 247,
-          "display_title": "Sennheiser Momentum 5 Wireless...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Sennheiser Momentum 5无线耳机的升级将提升品牌形象，吸引更多消费者关注。",
-          "suggested_action": "加大电商平台推广力度，提升品牌曝光和销售转化。"
+          "business_note": "开放式耳塞耳机满足消费者对隐私和舒适的需求，市场潜力巨大。",
+          "suggested_action": "加大电商平台推广力度，提升品牌知名度和市场份额。"
         }
       ]
     },
@@ -1430,7 +1436,7 @@
           "published_iso": "2026-06-02T21:11:46+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 2.8,
+          "hours_since_published": 4.6,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1446,8 +1452,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "索尼新作《Wolverine》将提升品牌影响力，吸引更多玩家关注PS5。",
-          "suggested_action": "加大电商和品牌营销力度，提前预热游戏发布，吸引潜在用户。"
+          "business_note": "索尼新作《金刚狼》将提升PS5品牌形象，吸引更多玩家关注。",
+          "suggested_action": "加大电商推广力度，利用社交媒体进行品牌营销。"
         },
         {
           "title": "God of War Laufey is coming to the PS5",
@@ -1457,7 +1463,7 @@
           "published_iso": "2026-06-02T22:16:08+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 1.7,
+          "hours_since_published": 3.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1488,7 +1494,7 @@
           "published_iso": "2026-05-28T14:36:29+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 129.3,
+          "hours_since_published": 131.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1507,8 +1513,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-          "suggested_action": "针对Best Buy和Walmart优化电商营销策略，提升市场份额。"
+          "business_note": "分析零售巨头的竞争优势，有助于优化电商策略和品牌定位。",
+          "suggested_action": "针对Best Buy、Walmart和Costco制定差异化电商营销方案。"
         },
         {
           "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
@@ -1518,7 +1524,7 @@
           "published_iso": "2026-05-28T11:00:48+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 132.9,
+          "hours_since_published": 134.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1536,8 +1542,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Best Buy股票因业绩超预期上涨，显示出电商渠道销售潜力。",
-          "suggested_action": "加强电商平台营销，提升用户购买体验，促进销售增长。"
+          "business_note": "Best Buy股价上涨15%，显示出电商销售潜力，需抓住市场机遇。",
+          "suggested_action": "加强电商平台营销，提升用户体验，促进销售增长。"
         }
       ]
     },
@@ -1554,7 +1560,7 @@
           "published_iso": "2026-05-28T14:36:29+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 129.3,
+          "hours_since_published": 131.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1573,8 +1579,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-          "suggested_action": "针对Best Buy和Walmart优化电商营销策略，提升市场份额。"
+          "business_note": "分析零售巨头的竞争优势，有助于优化电商策略和品牌定位。",
+          "suggested_action": "针对Best Buy、Walmart和Costco制定差异化电商营销方案。"
         },
         {
           "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
@@ -1584,7 +1590,7 @@
           "published_iso": "2026-05-28T19:23:36+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 124.6,
+          "hours_since_published": 126.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1602,8 +1608,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊与沃尔玛竞争加剧，需加强电商渠道策略以提升市场份额。",
-          "suggested_action": "优化电商平台营销策略，提升品牌曝光和销售转化率。"
+          "business_note": "亚马逊与沃尔玛的竞争加剧，影响电商市场格局。",
+          "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
         }
       ]
     },
@@ -1620,7 +1626,7 @@
           "published_iso": "2026-05-28T19:23:36+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 124.6,
+          "hours_since_published": 126.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1638,8 +1644,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊与沃尔玛竞争加剧，需加强电商渠道策略以提升市场份额。",
-          "suggested_action": "优化电商平台营销策略，提升品牌曝光和销售转化率。"
+          "business_note": "亚马逊与沃尔玛的竞争加剧，影响电商市场格局。",
+          "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
         },
         {
           "title": "Oregon Employers With Most SNAP Recipients Included Safeway, Walmart, and Amazon - Truthout",
@@ -1649,7 +1655,7 @@
           "published_iso": "2026-05-28T18:52:55+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 125.1,
+          "hours_since_published": 126.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1682,7 +1688,7 @@
           "published_iso": "2026-06-02T14:39:00+00:00",
           "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 9.3,
+          "hours_since_published": 11.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1700,8 +1706,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "大宗零售商与超市竞争，成为主要食品购物目的地，影响电商销售。",
-          "suggested_action": "加强与Walmart和Target的合作，提升电商渠道的品牌曝光。"
+          "business_note": "大型零售商如沃尔玛和塔吉特已成为主要食品购物目的地，影响电商销售。",
+          "suggested_action": "加强与沃尔玛和塔吉特的电商合作，提升品牌曝光和销售。"
         },
         {
           "title": "Best Buy forecasts upbeat sales as AI gadgets boost demand; shares rise - Reuters",
@@ -1711,7 +1717,7 @@
           "published_iso": "2026-05-28T16:21:58+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 127.6,
+          "hours_since_published": 129.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1729,8 +1735,72 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "AI设备需求上升，Best Buy销售预期乐观，需抓住电商机会。",
-          "suggested_action": "加强电商平台的AI产品推广，提升市场份额。"
+          "business_note": "AI设备需求增长将推动销售，需抓住电商机会。",
+          "suggested_action": "加强与Best Buy和Target的电商合作，提升品牌曝光。"
+        }
+      ]
+    },
+    {
+      "name": "bone conduction",
+      "type": "品类",
+      "count": 2,
+      "items": [
+        {
+          "title": "'For AI assistants, there are no better devices than headphones': sports and bone conduction headphones company Shokz harbors plans for smart glasses and a 'record everything' AI assistant — according to its CEO and head of North America - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxPMG5Fc1RsRVFiTmJvaWxUckVqaS1aS2NObWNScVV5b3dxdWJlT29mQWtyVEM3WDFfa1pkbVBMUW1ydEN1SGp4N053VVF2Y2xrX0xLdnpmTkFDZHlaNGZRcHFySzJHa0xnOTVMOHd0MDdRbnVQZ2M4NkpaTW5HckRQclA1WHF0VENzaUxtd0h6TVE2Z3BGd1dhVWZEYlM0VGFsRm10cC1Eb1hKeHhvZl9DRUs1YUdJbFRNX3Zod3c1NTJKSWVNZnZSMj",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPMG5Fc1RsRVFiTmJvaWxUckVqaS1aS2NObWNScVV5b3dxdWJlT29mQWtyVEM3WDFfa1pkbVBMUW1ydEN1SGp4N053VVF2Y2xrX0xLdnpmTkFDZHlaNGZRcHFySzJHa0xnOTVMOHd0MDdRbnVQZ2M4NkpaTW5HckRQclA1WHF0VENzaUxtd0h6TVE2Z3BGd1dhVWZEYlM0VGFsRm10cC1Eb1hKeHhvZl9DRUs1YUdJbFRNX3Zod3c1NTJKSWVNZnZSMjB2enp6WEUzMkRrMkJuMnpYU3VHREJ3ekk1Z29wdjZ0VEhhaGwtR2gtVXNsSjF4NXRvTWJrb3l4MFEtb0h5MWV0cXRuQ0RiTGRmRVN0aHpBWEhEZVRUalFZa3BBb2pLbHh3WXhKRFF2ZEc4YlpEYkwwRk05S184dmNTaC16M2xOWENZLWJKX2tZdGtmQUNWVjUzelVoMXU5NkdXNVZVb0xEdXcySHdZT2NNME1VWTZvekFtdnhWdGEzSFdmOFlwVlVSbVJFQ2gxemM5aV9QaU5kcWtFdjJsY2NCbXdZNmVD?oc=5",
+          "published": "Tue, 02 Jun 2026 13:17:41 GMT",
+          "published_iso": "2026-06-02T13:17:41+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 12.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 316,
+          "display_title": "'For AI assistants, there are no better...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz计划推出智能眼镜和AI助手，提升品牌竞争力。",
+          "suggested_action": "加大电商和品牌营销投入，抢占市场先机。"
+        },
+        {
+          "title": "The best bone conduction headphones: stay aware on the road, in the pool, and in the office - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5\" target=\"_blank\">The best bone conduction headphones: stay aware on the road, in the pool, and in the office</a>&n",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
+          "published": "Thu, 28 May 2026 10:12:40 GMT",
+          "published_iso": "2026-05-28T10:12:40+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 135.6,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 211,
+          "display_title": "The best bone conduction headphones:...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销"
         }
       ]
     },
@@ -1747,7 +1817,7 @@
           "published_iso": "2026-05-29T11:34:28+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 108.4,
+          "hours_since_published": 110.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1766,8 +1836,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "开放式耳塞正成为消费者的新选择，需关注其市场潜力。",
-          "suggested_action": "加大电商和品牌营销力度，提升开放式耳塞的市场认知度。"
+          "business_note": "开放式耳塞耳机满足消费者对隐私和舒适的需求，市场潜力巨大。",
+          "suggested_action": "加大电商平台推广力度，提升品牌知名度和市场份额。"
         },
         {
           "name": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
@@ -1777,7 +1847,7 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 67,
-          "hours_since_published": 108.4,
+          "hours_since_published": 110.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1789,106 +1859,37 @@
             ]
           },
           "display_title": "Open-ear earbuds are the new headphones...",
-          "display_summary": "某消费电子公司发布新产品，聚焦提升用户体验，预计将推动销量增长。",
+          "display_summary": "北美消费电子市场持续增长，企业需关注新兴技术与消费者需求变化，以提升竞争力。",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "judgement_label": "行业趋势",
-          "product_intro": "某消费电子公司发布新产品，聚焦提升用户体验，预计将推动销量增长。",
+          "product_intro": "北美消费电子市场持续增长，企业需关注新兴技术与消费者需求变化，以提升竞争力。",
           "importance": "高",
-          "business_note": "开放式耳塞耳机满足消费者对隐私的需求，具有市场潜力。",
-          "suggested_action": "加强电商平台推广，提升品牌知名度和销售转化。"
-        }
-      ]
-    },
-    {
-      "name": "earbuds",
-      "type": "品类",
-      "count": 2,
-      "items": [
-        {
-          "title": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5\" targe",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
-          "published": "Fri, 29 May 2026 11:34:28 GMT",
-          "published_iso": "2026-05-29T11:34:28+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 108.4,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "_score": 267,
-          "display_title": "Open-ear earbuds are the new headphones...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "开放式耳塞正成为消费者的新选择，需关注其市场潜力。",
-          "suggested_action": "加大电商和品牌营销力度，提升开放式耳塞的市场认知度。"
-        },
-        {
-          "name": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWU",
-          "date": "Fri, 29 May 2026 11:34:28",
-          "published_iso": "2026-05-29T11:34:28+00:00",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
-          "source": "Google News - Audio Wearable Watch",
-          "_score": 67,
-          "hours_since_published": 108.4,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "display_title": "Open-ear earbuds are the new headphones...",
-          "display_summary": "某消费电子公司发布新产品，聚焦提升用户体验，预计将推动销量增长。",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "judgement_label": "行业趋势",
-          "product_intro": "某消费电子公司发布新产品，聚焦提升用户体验，预计将推动销量增长。",
-          "importance": "高",
-          "business_note": "开放式耳塞耳机满足消费者对隐私的需求，具有市场潜力。",
-          "suggested_action": "加强电商平台推广，提升品牌知名度和销售转化。"
+          "business_note": "开放式耳塞成为新潮流，适合追求隐私的消费者，需关注市场动态。",
+          "suggested_action": "加强电商平台的开放式耳塞推广，提升品牌曝光率。"
         }
       ]
     }
   ],
   "takeaways": [
-    "大型零售商如沃尔玛和好市多在消费电子领域竞争加剧，可能影响市场份额分配。",
-    "亚马逊和沃尔玛的电商策略日益融合，零售渠道的竞争将更加激烈。",
-    "Best Buy 股价上涨15%反映出消费者对电子产品需求依旧强劲，值得关注其未来表现。",
-    "开放式耳塞逐渐取代传统耳机，可能会改变市场产品布局和消费者偏好。",
-    "新品发布频繁，尤其是Beats耳机的预告，显示出品牌对年轻市场的重视。"
+    "亚马逊与沃尔玛在电商市场的竞争加剧，未来将影响消费电子价格策略。",
+    "大型零售商如好市多正在提升电子产品的市场份额，可能威胁到传统电商平台。",
+    "Best Buy 股价上涨15%，显示其在消费电子领域的强劲表现，值得关注其后续策略。",
+    "开放耳式耳机的流行趋势可能改变音频产品的市场格局，需密切关注相关品牌的反应。",
+    "苹果新款Beats耳机的发布预示着其在音频市场的持续创新，竞争对手需加快应对。"
   ],
   "opportunity_signals": [
-    "分析零售巨头的竞争优势，有助于制定针对性的电商战略，以提升市场份额。",
-    "随着AI设备需求上升，Best Buy应加大电商渠道的投资，以抓住这一增长机会。",
-    "Walmart加快门店履行交付，建议我们借鉴其模式，提升自身电商竞争力。"
+    "分析零售巨头的竞争优势，有助于优化电商策略和品牌定位，提升市场份额。",
+    "Best Buy股价上涨15%，显示出电商销售潜力，需抓住这一增长机会，扩大在线业务。",
+    "Walmart 加快门店履约交付速度，提升电商竞争力，建议加大对快速配送服务的投资。"
   ],
   "risk_signals": [
-    "亚马逊与沃尔玛的竞争加剧，若未能及时调整电商策略，将可能导致市场份额进一步流失。",
-    "大宗零售商逐渐成为主要食品购物目的地，可能对传统电商销售造成显著冲击，需密切关注市场动态。",
-    "AI设备需求上升，若未能有效把握这一趋势，可能错失电商销售增长的关键机会。"
+    "亚马逊与沃尔玛的竞争加剧，可能导致市场份额流失，需警惕价格战带来的利润压力。",
+    "大型零售商如沃尔玛和塔吉特已成为主要食品购物目的地，可能削弱电子产品的销售渠道。",
+    "AI设备需求增长虽有利于销售，但若未能及时适应市场变化，可能错失重要商机。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

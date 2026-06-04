@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04 07:55:45 CST",
+  "generated_at": "2026-06-04 09:48:18 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -711,7 +711,7 @@
     "published_iso": "2026-05-28T14:36:29+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 153.3,
+    "hours_since_published": 155.2,
     "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
@@ -730,10 +730,10 @@
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-    "suggested_action": "加强与Best Buy的合作，提升电商销售渠道的竞争力。"
+    "business_note": "分析零售巨头竞争格局，有助于制定电商战略。",
+    "suggested_action": "加强与Best Buy的合作，提升电商销售渠道。"
   },
-  "lead_summary": "电商竞争加剧，亚马逊超越沃尔玛，消费电子市场乐观，耳机趋势向舒适便捷转变。",
+  "lead_summary": "零售巨头竞争加剧，电商战略需灵活应对价格战与市场变化。",
   "headline_trio": [
     {
       "title": "Which retail giant — Walmart, Costco, or Best Buy — is built to win 2026? - Yahoo Finance",
@@ -743,7 +743,7 @@
       "published_iso": "2026-05-28T14:36:29+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 153.3,
+      "hours_since_published": 155.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -762,38 +762,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-      "suggested_action": "加强与Best Buy的合作，提升电商销售渠道的竞争力。"
-    },
-    {
-      "title": "Amazon overthrows Walmart to become Fortune 500's top company -- ending superstore's 13-year reign at the top - New York Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaF",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaFE2bTlXbmxXeFZPOVFucGs5SnBo?oc=5",
-      "published": "Wed, 03 Jun 2026 10:45:00 GMT",
-      "published_iso": "2026-06-03T10:45:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 13.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart",
-          "REI"
-        ],
-        "categories": []
-      },
-      "_score": 374,
-      "display_title": "Amazon overthrows Walmart to become...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "亚马逊超越沃尔玛成为财富500强首位，显示电商市场竞争加剧。",
-      "suggested_action": "加强电商平台营销策略，提升品牌曝光和销售转化。"
+      "business_note": "分析零售巨头竞争格局，有助于制定电商战略。",
+      "suggested_action": "加强与Best Buy的合作，提升电商销售渠道。"
     },
     {
       "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
@@ -803,7 +773,7 @@
       "published_iso": "2026-05-28T19:23:36+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 148.5,
+      "hours_since_published": 150.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -821,8 +791,37 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊与沃尔玛的竞争已超越零售，影响电商格局。",
-      "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
+      "business_note": "亚马逊和沃尔玛在零售竞争之外，正在加大电商和品牌营销的投入。",
+      "suggested_action": "加强电商平台的品牌营销策略，以提升市场竞争力。"
+    },
+    {
+      "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1RMY2x1Wkw4Zk5DNkktdHhoaC1TX2FvRFo2dVdXRG02M05Xc25CT2c?oc=5",
+      "published": "Thu, 28 May 2026 11:00:48 GMT",
+      "published_iso": "2026-05-28T11:00:48+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 158.8,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Best Buy",
+          "REI"
+        ],
+        "categories": []
+      },
+      "_score": 312,
+      "display_title": "Best Buy stock climbs 15% on earnings...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Best Buy 股票因业绩超预期上涨，显示出电商销售潜力。",
+      "suggested_action": "加强电商平台的促销活动，吸引更多消费者。"
     }
   ],
   "consumer_electronics": [
@@ -834,7 +833,7 @@
       "published_iso": "2026-06-02T13:17:41+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 34.6,
+      "hours_since_published": 36.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -854,8 +853,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Shokz计划推出智能眼镜和AI助手，需加强品牌营销以提升市场认知。",
-      "suggested_action": "建议加大电商平台推广力度，吸引更多消费者关注新产品。"
+      "business_note": "Shokz计划推出智能眼镜和AI助手，拓展产品线，提升品牌影响力。",
+      "suggested_action": "加大电商和品牌营销力度，抢占市场先机，吸引更多消费者关注。"
     },
     {
       "title": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
@@ -865,7 +864,7 @@
       "published_iso": "2026-05-29T11:34:28+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 132.3,
+      "hours_since_published": 134.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -885,7 +884,7 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "开放式耳塞满足消费者对隐私和舒适的需求，市场潜力巨大。",
-      "suggested_action": "加大电商和品牌营销力度，推广开放式耳塞产品。"
+      "suggested_action": "加大电商平台推广力度，提升品牌知名度和市场份额。"
     },
     {
       "title": "Sony's most premium ANC headphones yet made luxury audio click for me - ZDNET",
@@ -895,7 +894,7 @@
       "published_iso": "2026-05-29T01:39:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 142.3,
+      "hours_since_published": 144.1,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -913,8 +912,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony推出的高端ANC耳机提升了品牌形象，吸引高端消费者。",
-      "suggested_action": "加大电商平台的推广力度，提升品牌曝光和销量。"
+      "business_note": "Sony推出的高端ANC耳机提升了奢侈音频市场的竞争力，值得关注。",
+      "suggested_action": "加强品牌营销，突出耳机的高端定位和音质优势。"
     },
     {
       "title": "Apple teases new Beats headphones through Lamine Yamal ahead of FIFA World Cup 2026 - MSN",
@@ -924,7 +923,7 @@
       "published_iso": "2026-06-01T06:25:19+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 65.5,
+      "hours_since_published": 67.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -943,8 +942,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Apple通过Lamine Yamal为2026年世界杯预热，提升Beats品牌曝光。",
-      "suggested_action": "加强电商渠道推广，结合世界杯营销活动，提升销量。"
+      "business_note": "通过Lamine Yamal宣传新款Beats耳机，有助于提升品牌知名度。",
+      "suggested_action": "加大电商推广力度，结合世界杯营销活动。"
     },
     {
       "title": "Beats Reveals New Over-Ear Headphones With Lamine Yamal Social Teaser - CNET",
@@ -954,7 +953,7 @@
       "published_iso": "2026-06-01T16:01:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 55.9,
+      "hours_since_published": 57.8,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -976,33 +975,35 @@
       "suggested_action": "加大电商推广力度，利用社交媒体进行品牌营销。"
     },
     {
-      "title": "Upcoming Beats headphones teased by Lamine Yamal: New design, pink colorway - 9to5Mac",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3hLaWxRZmpnWkRXaXJMQUc4SnNXT0trbnN4WnJxRGlydE9nZDVNbmVvb0lqT1RuQWc1cEx1ajQtdHNDcG1fWDk4M2paVUxYX3R6WVluT1E2THl5YkNwUnhOT0FSUVNMXy0yRVNFbm5rRnc3Q0NuQmQ3ZGJHZU5uRGo1d2pqUFZXZDl1ZkhxeXpRYVd2?oc=5\" target=\"_blank\">Upcoming Beats headphones teased by Lamine Yama",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3hLaWxRZmpnWkRXaXJMQUc4SnNXT0trbnN4WnJxRGlydE9nZDVNbmVvb0lqT1RuQWc1cEx1ajQtdHNDcG1fWDk4M2paVUxYX3R6WVluT1E2THl5YkNwUnhOT0FSUVNMXy0yRVNFbm5rRnc3Q0NuQmQ3ZGJHZU5uRGo1d2pqUFZXZDl1ZkhxeXpRYVd2?oc=5",
-      "published": "Sat, 30 May 2026 19:12:00 GMT",
-      "published_iso": "2026-05-30T19:12:00+00:00",
-      "source": "Google News - Competitor Watch",
+      "title": "A Must-Hear Early Amazon Prime Day Deal: The Soundcore V20i Headphones Are Almost Half-Off Already - PCMag",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3lqdUZZSko4ZW1EelNNSndrRzdweWZ6REZNaVBSOVVvdjBmRlEtdmQwRmxyb2FTNURkcmM4OEttVkhhLU93bk1sUkIxM3l3TXhjby1JWFBLZnBsQW5kdDRwV2ozR2h0MkRVN3pxblFnYkU3QXRiRUdVUk1ZQjdFcHlwR0Jqb3d4QU40bTQtX0ZOTlVqUGhz?oc=5\" target=\"_blank\">A Must-Hear Early Amazon Prime Day Deal: Th",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3lqdUZZSko4ZW1EelNNSndrRzdweWZ6REZNaVBSOVVvdjBmRlEtdmQwRmxyb2FTNURkcmM4OEttVkhhLU93bk1sUkIxM3l3TXhjby1JWFBLZnBsQW5kdDRwV2ozR2h0MkRVN3pxblFnYkU3QXRiRUdVUk1ZQjdFcHlwR0Jqb3d4QU40bTQtX0ZOTlVqUGhz?oc=5",
+      "published": "Wed, 03 Jun 2026 23:21:57 GMT",
+      "published_iso": "2026-06-03T23:21:57+00:00",
+      "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 100.7,
-      "freshness_label": "近7天",
+      "hours_since_published": 2.4,
+      "freshness_label": "24h内",
       "monitor_hits": {
-        "brands": [
-          "Beats"
+        "brands": [],
+        "channels": [
+          "Amazon"
         ],
-        "channels": [],
         "categories": [
           "headphone"
         ]
       },
-      "_score": 227,
-      "display_title": "Upcoming Beats headphones teased by...",
+      "_score": 233,
+      "display_title": "A Must-Hear Early Amazon Prime Day...",
       "tags": [
-        "🎧 耳机音频"
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🏬 平台电商"
       ],
-      "impact_area": "品牌营销",
+      "impact_area": "电商",
       "importance": "高",
-      "business_note": "新款Beats耳机的设计和颜色可能吸引年轻消费者，提升品牌影响力。",
-      "suggested_action": "加大电商平台的宣传力度，利用社交媒体进行品牌营销。"
+      "business_note": "Soundcore V20i耳机在亚马逊的折扣活动中表现突出，吸引消费者关注。",
+      "suggested_action": "加强电商平台的促销策略，提升品牌曝光率。"
     }
   ],
   "channel_news": [
@@ -1014,7 +1015,7 @@
       "published_iso": "2026-05-28T14:36:29+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 153.3,
+      "hours_since_published": 155.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1033,38 +1034,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-      "suggested_action": "加强与Best Buy的合作，提升电商销售渠道的竞争力。"
-    },
-    {
-      "title": "Amazon overthrows Walmart to become Fortune 500's top company -- ending superstore's 13-year reign at the top - New York Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaF",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaFE2bTlXbmxXeFZPOVFucGs5SnBo?oc=5",
-      "published": "Wed, 03 Jun 2026 10:45:00 GMT",
-      "published_iso": "2026-06-03T10:45:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 13.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart",
-          "REI"
-        ],
-        "categories": []
-      },
-      "_score": 374,
-      "display_title": "Amazon overthrows Walmart to become...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "亚马逊超越沃尔玛成为财富500强首位，显示电商市场竞争加剧。",
-      "suggested_action": "加强电商平台营销策略，提升品牌曝光和销售转化。"
+      "business_note": "分析零售巨头竞争格局，有助于制定电商战略。",
+      "suggested_action": "加强与Best Buy的合作，提升电商销售渠道。"
     },
     {
       "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
@@ -1074,7 +1045,7 @@
       "published_iso": "2026-05-28T19:23:36+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 148.5,
+      "hours_since_published": 150.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1092,8 +1063,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊与沃尔玛的竞争已超越零售，影响电商格局。",
-      "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
+      "business_note": "亚马逊和沃尔玛在零售竞争之外，正在加大电商和品牌营销的投入。",
+      "suggested_action": "加强电商平台的品牌营销策略，以提升市场竞争力。"
     },
     {
       "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
@@ -1103,7 +1074,7 @@
       "published_iso": "2026-05-28T11:00:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 156.9,
+      "hours_since_published": 158.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1121,8 +1092,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy股票因业绩超预期上涨，显示出电商渠道的潜力。",
-      "suggested_action": "加强电商平台的营销策略，提升销售转化率。"
+      "business_note": "Best Buy 股票因业绩超预期上涨，显示出电商销售潜力。",
+      "suggested_action": "加强电商平台的促销活动，吸引更多消费者。"
     },
     {
       "title": "Best Buy forecasts upbeat sales as AI gadgets boost demand; shares rise - Reuters",
@@ -1132,7 +1103,7 @@
       "published_iso": "2026-05-28T16:21:58+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 151.6,
+      "hours_since_published": 153.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1150,8 +1121,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "AI设备需求增长将推动销售，需抓住市场机遇。",
-      "suggested_action": "加强电商平台的AI产品推广，提升品牌曝光。"
+      "business_note": "AI设备需求上升，推动销售增长，需抓住电商机会。",
+      "suggested_action": "加强与Best Buy和Target的合作，提升电商渠道的产品曝光。"
     },
     {
       "title": "Oregon Employers With Most SNAP Recipients Included Safeway, Walmart, and Amazon - Truthout",
@@ -1161,7 +1132,7 @@
       "published_iso": "2026-05-28T18:52:55+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 149.0,
+      "hours_since_published": 150.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1181,6 +1152,34 @@
       "importance": "高",
       "business_note": "在Oregon，Safeway、Walmart和Amazon的SNAP受益者数量较多，影响电商销售。",
       "suggested_action": "加强与Walmart和Amazon的合作，提升电商渠道的市场渗透率。"
+    },
+    {
+      "title": "Best Buy incoming CEO: ‘We’re not just a retailer anymore’ - Retail Dive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3RRQzN6aGpYLWFBek1QZlBfRjhRYURkQ0NPZm95SHRreE1fNjhndFh2bDZyYlRwY3J5dzhURTRqeHJ3YTRIYjZSUkJvQ05BcXBiR2wtMlhWTTV1QUhLeFFhNzdJLXd0WWlXcEh2aHplNkI0OXFsZFhXVjVqZG5CM21MQlJ3a2dlVnBoQnBYUzVhYkZHYVJxM1A1QnEtdXM?oc=5\" target=\"_blank\">Best Buy incoming CEO: ‘We’re no",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3RRQzN6aGpYLWFBek1QZlBfRjhRYURkQ0NPZm95SHRreE1fNjhndFh2bDZyYlRwY3J5dzhURTRqeHJ3YTRIYjZSUkJvQ05BcXBiR2wtMlhWTTV1QUhLeFFhNzdJLXd0WWlXcEh2aHplNkI0OXFsZFhXVjVqZG5CM21MQlJ3a2dlVnBoQnBYUzVhYkZHYVJxM1A1QnEtdXM?oc=5",
+      "published": "Thu, 28 May 2026 15:56:39 GMT",
+      "published_iso": "2026-05-28T15:56:39+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 153.8,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 258,
+      "display_title": "Best Buy incoming CEO: ‘We’re not just...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Best Buy新任CEO强调转型，需关注电商与品牌营销策略。",
+      "suggested_action": "加强电商平台优化，提升用户体验与品牌曝光。"
     }
   ],
   "products": [
@@ -1192,7 +1191,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 67,
-      "hours_since_published": 132.3,
+      "hours_since_published": 134.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1204,17 +1203,17 @@
         ]
       },
       "display_title": "Open-ear earbuds are the new headphones...",
-      "display_summary": "苹果计划在2024年推出新款MacBook Pro，预计将搭载更强大的M3芯片，以提升性能和",
+      "display_summary": "某消费电子公司发布新产品，聚焦智能家居领域，预计将提升市场份额并增强品牌竞争力。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "苹果计划在2024年推出新款MacBook。",
+      "product_intro": "某消费电子公司发布新产品，聚焦智能家居领域，预计将提升市场份额并增强品牌竞争力。",
       "importance": "高",
       "business_note": "开放式耳塞耳机满足消费者对隐私和舒适的需求，市场潜力巨大。",
-      "suggested_action": "加强电商平台推广，结合品牌营销提升产品认知度。"
+      "suggested_action": "加大电商推广力度，强化品牌营销以吸引目标用户。"
     },
     {
       "name": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
@@ -1224,7 +1223,7 @@
       "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
       "source": "The Verge",
       "_score": 67,
-      "hours_since_published": 7.8,
+      "hours_since_published": 9.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1234,16 +1233,16 @@
         "categories": []
       },
       "display_title": "Amazon&#8217;s search bar will invent...",
-      "display_summary": "亚马逊更新搜索栏，用户可通过描述查看AI生成的服装和家居商品图片。",
+      "display_summary": "亚马逊更新搜索栏，用户可通过描述获取AI生成的服装和家居商品图像，提升购物体验。",
       "tags": [
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "亚马逊更新搜索栏，用户可通过描述查看AI生成的服装和家居商品图片。",
+      "product_intro": "亚马逊更新搜索栏，用户可通过描述获取AI生成的服装和家居商品图像，提升购物体验。",
       "importance": "高",
-      "business_note": "亚马逊搜索栏引入AI生成产品，提升用户体验和购买转化率。",
-      "suggested_action": "加强电商平台产品展示，利用AI技术提升品牌吸引力。"
+      "business_note": "亚马逊搜索栏引入AI生成产品，提升用户体验和购买转化。",
+      "suggested_action": "优化电商平台产品展示，结合AI技术提升用户互动。"
     },
     {
       "name": "Apple is bringing age verification to Texas this week",
@@ -1253,7 +1252,7 @@
       "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
       "source": "The Verge",
       "_score": 51,
-      "hours_since_published": 2.1,
+      "hours_since_published": 4.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1261,7 +1260,7 @@
         "categories": []
       },
       "display_title": "Apple is bringing age verification to...",
-      "display_summary": "苹果将于6月4日起在德克萨斯州的App Store引入年龄验证，响应联邦上诉法院批准的《Ap",
+      "display_summary": "苹果将于6月4日起在德克萨斯州的App Store引入年龄验证，符合德州应用商店问责法案要求",
       "tags": [
         "🛒 渠道零售"
       ],
@@ -1269,8 +1268,35 @@
       "judgement_label": "渠道动态",
       "product_intro": "苹果将于6月4日起在德克萨斯州的App。",
       "importance": "高",
-      "business_note": "苹果在德克萨斯州引入年龄验证，将影响渠道销售策略。",
-      "suggested_action": "建议加强与渠道合作，确保合规并优化用户体验。"
+      "business_note": "苹果在德克萨斯州实施年龄验证，将影响渠道销售策略。",
+      "suggested_action": "调整渠道销售策略，确保符合新规定，避免潜在风险。"
+    },
+    {
+      "name": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+      "summary": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is",
+      "date": "2026-06-03T20:04:04-04:00",
+      "published_iso": "2026-06-04T00:04:04+00:00",
+      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 1.7,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Nintendo confirms it will sell a new...",
+      "display_summary": "任天堂计划在欧盟推出可轻松更换电池的Switch 2硬件，以符合2027年2月18日生效的新",
+      "tags": [
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "新品发布",
+      "product_intro": "任天堂计划在欧盟推出可轻松更换电池的Switch。",
+      "importance": "中",
+      "business_note": "任天堂推出可更换电池的Switch 2，有助于提升品牌形象和用户满意度。",
+      "suggested_action": "关注电商渠道，提前准备相关市场营销策略。"
     },
     {
       "name": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
@@ -1280,7 +1306,7 @@
       "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.9,
+      "hours_since_published": 5.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1288,16 +1314,16 @@
         "categories": []
       },
       "display_title": "Nvidia is already planning N2X and N3X...",
-      "display_summary": "Nvidia计划持续推出RTX Spark，意在成为消费笔记本芯片的第五大供应商。",
+      "display_summary": "Nvidia计划在2026年台北Computex展会上推出RTX Spark，意在成为第五大",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "Nvidia计划持续推出RTX Spark，意在成为消费笔记本芯片的第五大供应商。",
+      "product_intro": "Nvidia计划在2026年台北Computex展会上推出RTX。",
       "importance": "高",
-      "business_note": "Nvidia计划推出新芯片，可能影响未来消费电子市场竞争格局。",
-      "suggested_action": "加强品牌营销，提前布局Nvidia相关产品的市场推广策略。"
+      "business_note": "Nvidia计划推出新芯片，可能改变消费电子市场格局，需关注其品牌影响力。",
+      "suggested_action": "加强电商平台宣传，提升品牌认知度，抓住市场机遇。"
     },
     {
       "name": "The best Bluetooth trackers for Apple and Android phones",
@@ -1307,7 +1333,7 @@
       "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.9,
+      "hours_since_published": 6.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1315,50 +1341,23 @@
         "categories": []
       },
       "display_title": "The best Bluetooth trackers for Apple...",
-      "display_summary": "有些人总能找到物品，而另一些人则常常丢失钱包、钥匙等日常物品。",
+      "display_summary": "有些人总能找到物品，而另一些人则常常丢失钱包、钥匙和遥控器。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "有些人总能找到物品，而另一些人则常常丢失钱包、钥匙等日常物品。",
-      "importance": "高",
-      "business_note": "蓝牙追踪器市场潜力巨大，需加强品牌营销以提升知名度。",
-      "suggested_action": "制定针对蓝牙追踪器的电商推广计划，吸引目标用户。"
-    },
-    {
-      "name": "The best Qi2 batteries for iPhone and Pixel",
-      "summary": "Compact power banks have gotten a lot faster in the past year — and it’s not just their USB-C charging speeds that have received a boost. The newest Qi2.2-certified models can wirelessly charge an iPhone 16 or later at up to 25W. Combine that with their abilit",
-      "date": "2026-06-03T14:00:00-04:00",
-      "published_iso": "2026-06-03T18:00:00+00:00",
-      "url": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
-      "source": "The Verge",
-      "_score": 43,
-      "hours_since_published": 5.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "The best Qi2 batteries for iPhone and...",
-      "display_summary": "新款Qi2.2认证的紧凑型移动电源支持最高25W无线充电，显著提升了充电速度。",
-      "tags": [
-        "🚀 新品"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "重大事件",
-      "product_intro": "新款Qi2.2认证的紧凑型移动电源支持最高25W无线充电，显著提升了充电速度。",
-      "importance": "高",
-      "business_note": "Qi2无线充电技术提升了充电速度，满足了消费者对快速充电的需求。",
-      "suggested_action": "加大对Qi2充电产品的品牌营销力度，提升市场认知度。"
+      "product_intro": "有些人总能找到物品，而另一些人则常常丢失钱包、钥匙和遥控器。",
+      "importance": "中",
+      "business_note": "蓝牙追踪器市场潜力大，需加强品牌营销以提升知名度。",
+      "suggested_action": "针对目标用户群体，开展线上推广活动，提升产品曝光率。"
     }
   ],
   "monitored_entities": [
     {
       "name": "headphone",
       "type": "品类",
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "title": "'For AI assistants, there are no better devices than headphones': sports and bone conduction headphones company Shokz harbors plans for smart glasses and a 'record everything' AI assistant — according to its CEO and head of North America - TechRadar",
@@ -1368,7 +1367,7 @@
           "published_iso": "2026-06-02T13:17:41+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 34.6,
+          "hours_since_published": 36.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1388,8 +1387,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz计划推出智能眼镜和AI助手，需加强品牌营销以提升市场认知。",
-          "suggested_action": "建议加大电商平台推广力度，吸引更多消费者关注新产品。"
+          "business_note": "Shokz计划推出智能眼镜和AI助手，拓展产品线，提升品牌影响力。",
+          "suggested_action": "加大电商和品牌营销力度，抢占市场先机，吸引更多消费者关注。"
         },
         {
           "title": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
@@ -1399,7 +1398,7 @@
           "published_iso": "2026-05-29T11:34:28+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 132.3,
+          "hours_since_published": 134.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1419,80 +1418,14 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "开放式耳塞满足消费者对隐私和舒适的需求，市场潜力巨大。",
-          "suggested_action": "加大电商和品牌营销力度，推广开放式耳塞产品。"
-        }
-      ]
-    },
-    {
-      "name": "Amazon",
-      "type": "渠道",
-      "count": 5,
-      "items": [
-        {
-          "title": "Amazon overthrows Walmart to become Fortune 500's top company -- ending superstore's 13-year reign at the top - New York Post",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaF",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaFE2bTlXbmxXeFZPOVFucGs5SnBo?oc=5",
-          "published": "Wed, 03 Jun 2026 10:45:00 GMT",
-          "published_iso": "2026-06-03T10:45:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 13.2,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "REI"
-            ],
-            "categories": []
-          },
-          "_score": 374,
-          "display_title": "Amazon overthrows Walmart to become...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "亚马逊超越沃尔玛成为财富500强首位，显示电商市场竞争加剧。",
-          "suggested_action": "加强电商平台营销策略，提升品牌曝光和销售转化。"
-        },
-        {
-          "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGVERHlKcWx2VllkX3h1WDU0R2RzUlJJWWY4MFR2bkNrLTJ2dTE5Z2hoMlNMWlpXeHV5QmpfdkFVbEZleE1tSXhCYjJCSkdOQUhEMWhOZHBJOTlfWG5qN0pvd0JMT1p3bnVGWG5UNVBnS1FlbHNIS2ZRUWJwMzBCNGNHUHNkNEV4QjBOSUFrVjAxbkVGc3lWc3Z0NkxfTENzdk9JUzB1YWIxQl9FMnhuQ05VYw?oc=5\" target=\"_blank\">Amazo",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGVERHlKcWx2VllkX3h1WDU0R2RzUlJJWWY4MFR2bkNrLTJ2dTE5Z2hoMlNMWlpXeHV5QmpfdkFVbEZleE1tSXhCYjJCSkdOQUhEMWhOZHBJOTlfWG5qN0pvd0JMT1p3bnVGWG5UNVBnS1FlbHNIS2ZRUWJwMzBCNGNHUHNkNEV4QjBOSUFrVjAxbkVGc3lWc3Z0NkxfTENzdk9JUzB1YWIxQl9FMnhuQ05VYw?oc=5",
-          "published": "Thu, 28 May 2026 19:23:36 GMT",
-          "published_iso": "2026-05-28T19:23:36+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 148.5,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 320,
-          "display_title": "Amazon and Walmart Aren’t Just...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "亚马逊与沃尔玛的竞争已超越零售，影响电商格局。",
-          "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
+          "suggested_action": "加大电商平台推广力度，提升品牌知名度和市场份额。"
         }
       ]
     },
     {
       "name": "Best Buy",
       "type": "渠道",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "Which retail giant — Walmart, Costco, or Best Buy — is built to win 2026? - Yahoo Finance",
@@ -1502,7 +1435,7 @@
           "published_iso": "2026-05-28T14:36:29+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 153.3,
+          "hours_since_published": 155.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1521,8 +1454,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-          "suggested_action": "加强与Best Buy的合作，提升电商销售渠道的竞争力。"
+          "business_note": "分析零售巨头竞争格局，有助于制定电商战略。",
+          "suggested_action": "加强与Best Buy的合作，提升电商销售渠道。"
         },
         {
           "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
@@ -1532,7 +1465,7 @@
           "published_iso": "2026-05-28T11:00:48+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 156.9,
+          "hours_since_published": 158.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1550,15 +1483,80 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Best Buy股票因业绩超预期上涨，显示出电商渠道的潜力。",
-          "suggested_action": "加强电商平台的营销策略，提升销售转化率。"
+          "business_note": "Best Buy 股票因业绩超预期上涨，显示出电商销售潜力。",
+          "suggested_action": "加强电商平台的促销活动，吸引更多消费者。"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "type": "渠道",
+      "count": 5,
+      "items": [
+        {
+          "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGVERHlKcWx2VllkX3h1WDU0R2RzUlJJWWY4MFR2bkNrLTJ2dTE5Z2hoMlNMWlpXeHV5QmpfdkFVbEZleE1tSXhCYjJCSkdOQUhEMWhOZHBJOTlfWG5qN0pvd0JMT1p3bnVGWG5UNVBnS1FlbHNIS2ZRUWJwMzBCNGNHUHNkNEV4QjBOSUFrVjAxbkVGc3lWc3Z0NkxfTENzdk9JUzB1YWIxQl9FMnhuQ05VYw?oc=5\" target=\"_blank\">Amazo",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGVERHlKcWx2VllkX3h1WDU0R2RzUlJJWWY4MFR2bkNrLTJ2dTE5Z2hoMlNMWlpXeHV5QmpfdkFVbEZleE1tSXhCYjJCSkdOQUhEMWhOZHBJOTlfWG5qN0pvd0JMT1p3bnVGWG5UNVBnS1FlbHNIS2ZRUWJwMzBCNGNHUHNkNEV4QjBOSUFrVjAxbkVGc3lWc3Z0NkxfTENzdk9JUzB1YWIxQl9FMnhuQ05VYw?oc=5",
+          "published": "Thu, 28 May 2026 19:23:36 GMT",
+          "published_iso": "2026-05-28T19:23:36+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 150.4,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 320,
+          "display_title": "Amazon and Walmart Aren’t Just...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊和沃尔玛在零售竞争之外，正在加大电商和品牌营销的投入。",
+          "suggested_action": "加强电商平台的品牌营销策略，以提升市场竞争力。"
+        },
+        {
+          "title": "Oregon Employers With Most SNAP Recipients Included Safeway, Walmart, and Amazon - Truthout",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDFKRkdDS3pwbDZuYnNCYWZtTS1STTFtdkdzdm9rNm1rakJlazlFS1RZT0gzU3IzU09rZ2d3Rk1xYjhVRDJYZkRrVkhuS3dNUWpqUFE1ZlVtczdMbjdJQXRtTjR3X1JrSzM2Z0NBZ1ZiU19sTHA0TUY1dkZIRVV5LTVILUhkbnRCS0VVS1Z3WjE5NllYT0hnaTVkR2lzcDNCdmZhdURCS1RBa3M3UkE?oc=5\" target=\"_blank\">Oregon Emplo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDFKRkdDS3pwbDZuYnNCYWZtTS1STTFtdkdzdm9rNm1rakJlazlFS1RZT0gzU3IzU09rZ2d3Rk1xYjhVRDJYZkRrVkhuS3dNUWpqUFE1ZlVtczdMbjdJQXRtTjR3X1JrSzM2Z0NBZ1ZiU19sTHA0TUY1dkZIRVV5LTVILUhkbnRCS0VVS1Z3WjE5NllYT0hnaTVkR2lzcDNCdmZhdURCS1RBa3M3UkE?oc=5",
+          "published": "Thu, 28 May 2026 18:52:55 GMT",
+          "published_iso": "2026-05-28T18:52:55+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 150.9,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 274,
+          "display_title": "Oregon Employers With Most SNAP...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "在Oregon，Safeway、Walmart和Amazon的SNAP受益者数量较多，影响电商销售。",
+          "suggested_action": "加强与Walmart和Amazon的合作，提升电商渠道的市场渗透率。"
         }
       ]
     },
     {
       "name": "Walmart",
       "type": "渠道",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "title": "Which retail giant — Walmart, Costco, or Best Buy — is built to win 2026? - Yahoo Finance",
@@ -1568,7 +1566,7 @@
           "published_iso": "2026-05-28T14:36:29+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 153.3,
+          "hours_since_published": 155.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1587,38 +1585,37 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "分析零售巨头的竞争优势，有助于制定电商战略。",
-          "suggested_action": "加强与Best Buy的合作，提升电商销售渠道的竞争力。"
+          "business_note": "分析零售巨头竞争格局，有助于制定电商战略。",
+          "suggested_action": "加强与Best Buy的合作，提升电商销售渠道。"
         },
         {
-          "title": "Amazon overthrows Walmart to become Fortune 500's top company -- ending superstore's 13-year reign at the top - New York Post",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaF",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaFE2bTlXbmxXeFZPOVFucGs5SnBo?oc=5",
-          "published": "Wed, 03 Jun 2026 10:45:00 GMT",
-          "published_iso": "2026-06-03T10:45:00+00:00",
+          "title": "Amazon and Walmart Aren’t Just Competing on Retail Anymore - PYMNTS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGVERHlKcWx2VllkX3h1WDU0R2RzUlJJWWY4MFR2bkNrLTJ2dTE5Z2hoMlNMWlpXeHV5QmpfdkFVbEZleE1tSXhCYjJCSkdOQUhEMWhOZHBJOTlfWG5qN0pvd0JMT1p3bnVGWG5UNVBnS1FlbHNIS2ZRUWJwMzBCNGNHUHNkNEV4QjBOSUFrVjAxbkVGc3lWc3Z0NkxfTENzdk9JUzB1YWIxQl9FMnhuQ05VYw?oc=5\" target=\"_blank\">Amazo",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGVERHlKcWx2VllkX3h1WDU0R2RzUlJJWWY4MFR2bkNrLTJ2dTE5Z2hoMlNMWlpXeHV5QmpfdkFVbEZleE1tSXhCYjJCSkdOQUhEMWhOZHBJOTlfWG5qN0pvd0JMT1p3bnVGWG5UNVBnS1FlbHNIS2ZRUWJwMzBCNGNHUHNkNEV4QjBOSUFrVjAxbkVGc3lWc3Z0NkxfTENzdk9JUzB1YWIxQl9FMnhuQ05VYw?oc=5",
+          "published": "Thu, 28 May 2026 19:23:36 GMT",
+          "published_iso": "2026-05-28T19:23:36+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 13.2,
-          "freshness_label": "24h内",
+          "hours_since_published": 150.4,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Amazon",
-              "Walmart",
-              "REI"
+              "Walmart"
             ],
             "categories": []
           },
-          "_score": 374,
-          "display_title": "Amazon overthrows Walmart to become...",
+          "_score": 320,
+          "display_title": "Amazon and Walmart Aren’t Just...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊超越沃尔玛成为财富500强首位，显示电商市场竞争加剧。",
-          "suggested_action": "加强电商平台营销策略，提升品牌曝光和销售转化。"
+          "business_note": "亚马逊和沃尔玛在零售竞争之外，正在加大电商和品牌营销的投入。",
+          "suggested_action": "加强电商平台的品牌营销策略，以提升市场竞争力。"
         }
       ]
     },
@@ -1635,7 +1632,7 @@
           "published_iso": "2026-06-01T06:25:19+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 65.5,
+          "hours_since_published": 67.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1654,8 +1651,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Apple通过Lamine Yamal为2026年世界杯预热，提升Beats品牌曝光。",
-          "suggested_action": "加强电商渠道推广，结合世界杯营销活动，提升销量。"
+          "business_note": "通过Lamine Yamal宣传新款Beats耳机，有助于提升品牌知名度。",
+          "suggested_action": "加大电商推广力度，结合世界杯营销活动。"
         },
         {
           "title": "Beats Reveals New Over-Ear Headphones With Lamine Yamal Social Teaser - CNET",
@@ -1665,7 +1662,7 @@
           "published_iso": "2026-06-01T16:01:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 55.9,
+          "hours_since_published": 57.8,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1689,72 +1686,6 @@
       ]
     },
     {
-      "name": "REI",
-      "type": "渠道",
-      "count": 2,
-      "items": [
-        {
-          "title": "Amazon overthrows Walmart to become Fortune 500's top company -- ending superstore's 13-year reign at the top - New York Post",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaF",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWgwc3lDaGw1a0xKaGkxbG5jX2dNb0FJcnlNZXFiQzhFcWJMckdWejZ6b0FPbXlQbzRVcmFISV93Z2tjbm8wVU05MHRtLTBKMzI0Vlc2My1VUHRZbVYwZUtRb2hCZkVFVWc3ZGlmQU13OW9IQzVEd0pJZFZoZURFV2VTYnFtLUExSy1MWUt5MEhOVGVfOUZJcVVWYWMtWnh2eEE5YllDUmdrbi1maFNFdnZoTkVxcnZlLTB2VExnbGt1N0FIZVIxaFE2bTlXbmxXeFZPOVFucGs5SnBo?oc=5",
-          "published": "Wed, 03 Jun 2026 10:45:00 GMT",
-          "published_iso": "2026-06-03T10:45:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 13.2,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "REI"
-            ],
-            "categories": []
-          },
-          "_score": 374,
-          "display_title": "Amazon overthrows Walmart to become...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "亚马逊超越沃尔玛成为财富500强首位，显示电商市场竞争加剧。",
-          "suggested_action": "加强电商平台营销策略，提升品牌曝光和销售转化。"
-        },
-        {
-          "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1RMY2x1Wkw4Zk5DNkktdHhoaC1TX2FvRFo2dVdXRG02M05Xc25CT2c?oc=5",
-          "published": "Thu, 28 May 2026 11:00:48 GMT",
-          "published_iso": "2026-05-28T11:00:48+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 156.9,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "REI"
-            ],
-            "categories": []
-          },
-          "_score": 312,
-          "display_title": "Best Buy stock climbs 15% on earnings...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Best Buy股票因业绩超预期上涨，显示出电商渠道的潜力。",
-          "suggested_action": "加强电商平台的营销策略，提升销售转化率。"
-        }
-      ]
-    },
-    {
       "name": "Target",
       "type": "渠道",
       "count": 2,
@@ -1767,7 +1698,7 @@
           "published_iso": "2026-05-28T16:21:58+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 151.6,
+          "hours_since_published": 153.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1785,8 +1716,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "AI设备需求增长将推动销售，需抓住市场机遇。",
-          "suggested_action": "加强电商平台的AI产品推广，提升品牌曝光。"
+          "business_note": "AI设备需求上升，推动销售增长，需抓住电商机会。",
+          "suggested_action": "加强与Best Buy和Target的合作，提升电商渠道的产品曝光。"
         },
         {
           "title": "Target’s ‘food-forward’ strategy includes supply chain improvements, too",
@@ -1796,7 +1727,7 @@
           "published_iso": "2026-06-03T14:35:00+00:00",
           "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 9.3,
+          "hours_since_published": 11.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1828,7 +1759,7 @@
           "published_iso": "2026-06-02T13:17:41+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 34.6,
+          "hours_since_published": 36.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1848,8 +1779,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz计划推出智能眼镜和AI助手，需加强品牌营销以提升市场认知。",
-          "suggested_action": "建议加大电商平台推广力度，吸引更多消费者关注新产品。"
+          "business_note": "Shokz计划推出智能眼镜和AI助手，拓展产品线，提升品牌影响力。",
+          "suggested_action": "加大电商和品牌营销力度，抢占市场先机，吸引更多消费者关注。"
         },
         {
           "title": "The best bone conduction headphones: stay aware on the road, in the pool, and in the office - TechRadar",
@@ -1859,7 +1790,7 @@
           "published_iso": "2026-05-28T10:12:40+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 157.7,
+          "hours_since_published": 159.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1878,24 +1809,93 @@
           "impact_area": "品牌营销"
         }
       ]
+    },
+    {
+      "name": "open-ear",
+      "type": "品类",
+      "count": 2,
+      "items": [
+        {
+          "title": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5\" targe",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
+          "published": "Fri, 29 May 2026 11:34:28 GMT",
+          "published_iso": "2026-05-29T11:34:28+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 134.2,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "earbuds",
+              "headphone"
+            ]
+          },
+          "_score": 267,
+          "display_title": "Open-ear earbuds are the new headphones...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "开放式耳塞满足消费者对隐私和舒适的需求，市场潜力巨大。",
+          "suggested_action": "加大电商平台推广力度，提升品牌知名度和市场份额。"
+        },
+        {
+          "name": "Open-ear earbuds are the new headphones for people who want plausible deniability - Digital Trends",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWU",
+          "date": "Fri, 29 May 2026 11:34:28",
+          "published_iso": "2026-05-29T11:34:28+00:00",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXJFc0t1WkJiZTBEZWpjalpPQzhkUlktMVdsYU1qOXF1MmJaMms5WDdHTFFjSXNlc3U0Sm5SOV9OLXY1WEhDNnVyUXk0ZHVSQ2xPUVNmMmtpa2o1ZDcwNjZhelZKRVExZzFPMmNIbll1dkZaRDdQa0pZYUprU3IxT3VXV0tYZ2VoWjE1UmhiVUREWTRiLVpxaWZWWUdyUGlIdkE0dE81eUtkLWU5SVAxOUxENm11akxWaXcwRXBZVQ?oc=5",
+          "source": "Google News - Audio Wearable Watch",
+          "_score": 67,
+          "hours_since_published": 134.2,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "earbuds",
+              "headphone"
+            ]
+          },
+          "display_title": "Open-ear earbuds are the new headphones...",
+          "display_summary": "某消费电子公司发布新产品，聚焦智能家居领域，预计将提升市场份额并增强品牌竞争力。",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "judgement_label": "行业趋势",
+          "product_intro": "某消费电子公司发布新产品，聚焦智能家居领域，预计将提升市场份额并增强品牌竞争力。",
+          "importance": "高",
+          "business_note": "开放式耳塞耳机满足消费者对隐私和舒适的需求，市场潜力巨大。",
+          "suggested_action": "加大电商推广力度，强化品牌营销以吸引目标用户。"
+        }
+      ]
     }
   ],
   "takeaways": [
-    "亚马逊超越沃尔玛成为北美最大零售商，显示电商平台的竞争力持续增强。",
-    "Best Buy股价上涨15%，反映出市场对消费电子需求的乐观预期。",
-    "开放耳式耳机逐渐取代传统耳机，表明消费者对舒适性和便捷性的偏好在上升。",
-    "苹果新款Beats耳机的发布可能进一步巩固其在高端音频市场的领导地位。",
-    "随着AI技术的应用，零售渠道的销售预测向好，预示着未来市场潜力巨大。"
+    "亚马逊和沃尔玛在电商领域的竞争将加剧，预计将推动价格战和促销活动的频繁出现。",
+    "Best Buy股价上涨15%反映出市场对其未来销售的乐观预期，值得关注其新品策略。",
+    "开放式耳塞的流行趋势将改变消费者对耳机的选择，传统耳机品牌需迅速应对。",
+    "苹果的新Beats耳机可能会进一步巩固其在高端音频市场的领导地位，竞争对手需加快创新步伐。",
+    "零售巨头如沃尔玛和好市多的市场策略将直接影响消费电子产品的渠道分布，需密切监测。"
   ],
   "opportunity_signals": [
-    "通过分析零售巨头的竞争优势，制定针对性的电商战略，以提升市场份额和竞争力。",
-    "随着AI设备需求的增长，抓住这一趋势可显著提升销售业绩，建议加大相关产品的推广力度。",
-    "强化品牌营销，尤其是在智能眼镜和AI助手领域，以提升市场认知度和消费者忠诚度。"
+    "深入分析零售巨头如沃尔玛和亚马逊的电商战略，有助于我们制定更具竞争力的市场进入策略。",
+    "随着AI设备需求上升，抓住电商销售增长的机会，将推动我们的产品线扩展和市场份额提升。",
+    "Shokz推出智能眼镜和AI助手的计划，表明品牌拓展新产品线的潜力，值得我们关注和投资。"
   ],
   "risk_signals": [
-    "亚马逊超越沃尔玛成为财富500强首位，显示电商市场竞争加剧，需警惕市场份额流失风险。",
-    "AI设备需求增长推动销售，但若未能及时调整产品策略，可能导致错失市场机遇。",
-    "在Oregon，SNAP受益者数量较多的零售商影响电商销售，需关注政策变化对业务的潜在影响。"
+    "零售巨头如亚马逊和沃尔玛加大电商投入，可能导致市场竞争加剧，影响我们市场份额的稳定性。",
+    "AI设备需求上升虽带动销售增长，但若未能及时抓住电商机会，可能错失重要的市场发展窗口。",
+    "SNAP受益者数量增加可能影响Oregon地区的消费能力，需密切关注该地区的电商销售趋势。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

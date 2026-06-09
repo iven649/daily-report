@@ -1,6 +1,33 @@
 {
   "consumer_electronics": [
     {
+      "title": "Instagram is finally letting everyone reorganize their profile grid",
+      "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. Until now, the posts on your Instagram profile [&#8230;]",
+      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+      "published": "2026-06-08T19:58:30-04:00",
+      "published_iso": "2026-06-08T23:58:30+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Apple’s Screen Time updates are too little, too late",
+      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost all the features touted already exist or are upgrades to current options. Why Apple chose to do this",
+      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "published": "2026-06-08T19:41:00-04:00",
+      "published_iso": "2026-06-08T23:41:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "5 things I already love from the iOS 27 beta",
+      "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of features [&#8230;]",
+      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "published": "2026-06-08T19:30:00-04:00",
+      "published_iso": "2026-06-08T23:30:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Apple is using AI to fix Safari’s extension problem",
       "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, t",
       "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
@@ -60,33 +87,6 @@
       "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
       "published": "2026-06-08T15:34:10-04:00",
       "published_iso": "2026-06-08T19:34:10+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Apple WWDC 2026: The 7 biggest announcements",
-      "summary": "Apple's keynote at this year's Worldwide Developers Conference was a big one. After months of delays, Apple reintroduced us to its AI-upgraded Siri, which will go beyond what the existing voice assistant can do by offering more personalized help. We also got a look at many other updates coming across the operating syst",
-      "url": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27",
-      "published": "2026-06-08T14:43:56-04:00",
-      "published_iso": "2026-06-08T18:43:56+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
-      "summary": "Fresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple Intelligence capabilities.\" Apple SVP of Software Engineering Craig Federighi and his team will be there, and so will we. The revamped Apple Intelligence is at the h",
-      "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
-      "published": "2026-06-08T14:42:53-04:00",
-      "published_iso": "2026-06-08T18:42:53+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Cameras get an Apple Intelligence boost in Apple Home",
-      "summary": "Apple Intelligence is coming to cameras connected to Apple Home. At WWDC, Apple announced that with iOS27, its HomeKit Secure Video service will use Apple Intelligence to analyze footage and generate descriptions summarizing what the camera saw. You can also search footage with natural language to find clips from acros",
-      "url": "https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k",
-      "published": "2026-06-08T14:37:31-04:00",
-      "published_iso": "2026-06-08T18:37:31+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics"
     },
@@ -199,6 +199,15 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "The iOS 27 beta pretty much confirms that an Apple foldable is happening",
+      "summary": "Can't a multi-trillion-dollar company have secrets any more?",
+      "url": "https://www.engadget.com/2190131/the-ios-27-beta-pretty-much-confirms-that-an-apple-foldable-is-happening/",
+      "published": "Mon, 08 Jun 2026 23:16:55 +0000",
+      "published_iso": "2026-06-08T23:16:55+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Meta quietly removes face-recognition code from its smart glasses app",
       "summary": "The 'disappearing into the bushes like Homer Simpson' strategy is a bold choice.",
       "url": "https://www.engadget.com/2190115/meta-quietly-removes-face-recognition-code-from-its-smart-glasses-app/",
@@ -294,15 +303,6 @@
       "url": "https://www.engadget.com/2189857/visionos-27-brings-the-new-siri-to-apples-headset/",
       "published": "Mon, 08 Jun 2026 18:42:00 +0000",
       "published_iso": "2026-06-08T18:42:00+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "AirPods are getting a customizable EQ in iOS 27",
-      "summary": "If you've wanted to tweak your AirPods sound, you'll soon get your chance.",
-      "url": "https://www.engadget.com/2189850/airpods-are-getting-a-customizable-eq-in-ios-27/",
-      "published": "Mon, 08 Jun 2026 18:35:51 +0000",
-      "published_iso": "2026-06-08T18:35:51+00:00",
       "source": "Engadget",
       "bucket": "consumer_electronics"
     },
@@ -595,20 +595,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony RIALTO 65 First Look at Cine Gear 2026 - Newsshooter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVJpSHlyM2dKb0F3SVdwMEZXVFhOLU1NWHA4Z3NQWFdvMm9DbE9Wc1Q5UmtkWFpuT05fN3V4LVNfS3lQNTJrOVZnRHhHTk5FTTIxb0cxRVFqZ1hkT1ppTzJlQ3BQajFNaVk5TDFDRlF1aERZTlBWdHluUi1ySHRXTHZtbEYtUWlsOUxV?oc=5\" target=\"_blank\">Sony RIALTO 65 First Look at Cine Gear 2026</a>&nbsp;&nbsp;",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVJpSHlyM2dKb0F3SVdwMEZXVFhOLU1NWHA4Z3NQWFdvMm9DbE9Wc1Q5UmtkWFpuT05fN3V4LVNfS3lQNTJrOVZnRHhHTk5FTTIxb0cxRVFqZ1hkT1ppTzJlQ3BQajFNaVk5TDFDRlF1aERZTlBWdHluUi1ySHRXTHZtbEYtUWlsOUxV?oc=5",
-      "published": "Sun, 07 Jun 2026 01:30:30 GMT",
-      "published_iso": "2026-06-07T01:30:30+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "DJI Osmo 360 Camera Review: Impressive Hardware, but There's a Catch - CNET",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTk1YZl9sbWRlZVZ6aTNjU1NENkRyZHlKeVRPbDB2eEVyZjZnbERwM0cwRVFMdk1zWXhEMDByNjByMlhKTnZwcXcwS1I2RDNEUjYzV0RqeUFCd0MyT25sSjRLVUVILUhvYjZubVZpZURZYTBGMXhoXy1Sa0YwQ3pyVFJ2UUZsQlNQYWVlQ0U3YkxqQzBtQXpFYTBzUVg1ZWEzREZmRw?oc=5\" target=\"_blank\">DJI Osmo 360 Camera Revie",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTk1YZl9sbWRlZVZ6aTNjU1NENkRyZHlKeVRPbDB2eEVyZjZnbERwM0cwRVFMdk1zWXhEMDByNjByMlhKTnZwcXcwS1I2RDNEUjYzV0RqeUFCd0MyT25sSjRLVUVILUhvYjZubVZpZURZYTBGMXhoXy1Sa0YwQ3pyVFJ2UUZsQlNQYWVlQ0U3YkxqQzBtQXpFYTBzUVg1ZWEzREZmRw?oc=5",
       "published": "Wed, 03 Jun 2026 16:58:27 GMT",
       "published_iso": "2026-06-03T16:58:27+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Sony RIALTO 65 First Look at Cine Gear 2026 - Newsshooter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVJpSHlyM2dKb0F3SVdwMEZXVFhOLU1NWHA4Z3NQWFdvMm9DbE9Wc1Q5UmtkWFpuT05fN3V4LVNfS3lQNTJrOVZnRHhHTk5FTTIxb0cxRVFqZ1hkT1ppTzJlQ3BQajFNaVk5TDFDRlF1aERZTlBWdHluUi1ySHRXTHZtbEYtUWlsOUxV?oc=5\" target=\"_blank\">Sony RIALTO 65 First Look at Cine Gear 2026</a>&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVJpSHlyM2dKb0F3SVdwMEZXVFhOLU1NWHA4Z3NQWFdvMm9DbE9Wc1Q5UmtkWFpuT05fN3V4LVNfS3lQNTJrOVZnRHhHTk5FTTIxb0cxRVFqZ1hkT1ppTzJlQ3BQajFNaVk5TDFDRlF1aERZTlBWdHluUi1ySHRXTHZtbEYtUWlsOUxV?oc=5",
+      "published": "Sun, 07 Jun 2026 01:30:30 GMT",
+      "published_iso": "2026-06-07T01:30:30+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -921,20 +921,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Walmart goes global with its Amazon-like flywheel - Modern Retail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNS1GNkhsdWFDdzZsLVNySUh5VnRVNXYzUDktOGs3NklqQUlTWDRlYnVOYU9RTVpTYnI1QXVFNThmUy1nMVNObmpob2Ffck1heWpfa3R0T0pBNHdkcF9fcktZRUZaN3ZiSTdubnlTay1jd2haTWs2RmU4S2t6MVNyUHVOZkJ5SWR5Ml9jQUhJMTZUbTQ?oc=5\" target=\"_blank\">Walmart goes global with its Amazon-like flywhee",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNS1GNkhsdWFDdzZsLVNySUh5VnRVNXYzUDktOGs3NklqQUlTWDRlYnVOYU9RTVpTYnI1QXVFNThmUy1nMVNObmpob2Ffck1heWpfa3R0T0pBNHdkcF9fcktZRUZaN3ZiSTdubnlTay1jd2haTWs2RmU4S2t6MVNyUHVOZkJ5SWR5Ml9jQUhJMTZUbTQ?oc=5",
-      "published": "Mon, 08 Jun 2026 04:03:56 GMT",
-      "published_iso": "2026-06-08T04:03:56+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
       "title": "I Tried 16 Ranch Dressing Brands, and This One Is Hands-Down the Best - Allrecipes",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFhkX08tLWUzeU9lY0pNaHlHRklNNjFoRmk4bm9EQ2xaNHNMRGxQMFB5MENlM2t6VWN2TUVxLVhaNjhrekhGYkNWSGM2RElwcWNsSmltY2F6S3pBLURtYU5lUFlnYWNOcVRJaVN0WFhNNm5sbnpRd29VejUzbGJ3V2pPaV9Bdw?oc=5\" target=\"_blank\">I Tried 16 Ranch Dressing Brands, and This One Is Hands-Down the ",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFhkX08tLWUzeU9lY0pNaHlHRklNNjFoRmk4bm9EQ2xaNHNMRGxQMFB5MENlM2t6VWN2TUVxLVhaNjhrekhGYkNWSGM2RElwcWNsSmltY2F6S3pBLURtYU5lUFlnYWNOcVRJaVN0WFhNNm5sbnpRd29VejUzbGJ3V2pPaV9Bdw?oc=5",
       "published": "Thu, 04 Jun 2026 09:00:00 GMT",
       "published_iso": "2026-06-04T09:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Walmart goes global with its Amazon-like flywheel - Modern Retail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNS1GNkhsdWFDdzZsLVNySUh5VnRVNXYzUDktOGs3NklqQUlTWDRlYnVOYU9RTVpTYnI1QXVFNThmUy1nMVNObmpob2Ffck1heWpfa3R0T0pBNHdkcF9fcktZRUZaN3ZiSTdubnlTay1jd2haTWs2RmU4S2t6MVNyUHVOZkJ5SWR5Ml9jQUhJMTZUbTQ?oc=5\" target=\"_blank\">Walmart goes global with its Amazon-like flywhee",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNS1GNkhsdWFDdzZsLVNySUh5VnRVNXYzUDktOGs3NklqQUlTWDRlYnVOYU9RTVpTYnI1QXVFNThmUy1nMVNObmpob2Ffck1heWpfa3R0T0pBNHdkcF9fcktZRUZaN3ZiSTdubnlTay1jd2haTWs2RmU4S2t6MVNyUHVOZkJ5SWR5Ml9jQUhJMTZUbTQ?oc=5",
+      "published": "Mon, 08 Jun 2026 04:03:56 GMT",
+      "published_iso": "2026-06-08T04:03:56+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -1047,11 +1047,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "The best wireless earbuds of 2026: Lab-tested by experts - SoundGuys",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xZkVIMkdEYjdkMmFDWGJnb19DT0JuMHNrNVF4cEdqTTdCUG5GRHAxcnBOUHN2T0NubUgybDdUdFBNUHl4NDlhWWhpdnZCRTgwQWFYa01COGRudUN6NE9YSm53aTVlYW8?oc=5\" target=\"_blank\">The best wireless earbuds of 2026: Lab-tested by experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoundGuys</fon",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xZkVIMkdEYjdkMmFDWGJnb19DT0JuMHNrNVF4cEdqTTdCUG5GRHAxcnBOUHN2T0NubUgybDdUdFBNUHl4NDlhWWhpdnZCRTgwQWFYa01COGRudUN6NE9YSm53aTVlYW8?oc=5",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "published_iso": "2026-06-02T07:00:00+00:00",
+      "title": "Looking for Wireless Earbuds That Rival the Latest AirPods Pro? Check Out My Recs. - Best Products",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHFZMlpEOHJJblVrSDVvX1dOYjFzanNLTkU5dWsxS1d1dnExMW54X1J2Q2FVNENnR3d3dUtuT0VfOVBqMnlLZHJxVW1OSm5YeDk2cWFpV2VBTjJ2QmdRNTVsLUFDbW5ZOTVsdVBSdUtvRWpPOENhNElMaEtEMVJjaVN5eFRVdGlqM09MbVp3?oc=5\" target=\"_blank\">Looking for Wireless Earbuds That Rival the Latest AirP",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHFZMlpEOHJJblVrSDVvX1dOYjFzanNLTkU5dWsxS1d1dnExMW54X1J2Q2FVNENnR3d3dUtuT0VfOVBqMnlLZHJxVW1OSm5YeDk2cWFpV2VBTjJ2QmdRNTVsLUFDbW5ZOTVsdVBSdUtvRWpPOENhNElMaEtEMVJjaVN5eFRVdGlqM09MbVp3?oc=5",
+      "published": "Sat, 06 Jun 2026 15:42:00 GMT",
+      "published_iso": "2026-06-06T15:42:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1065,11 +1065,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Looking for Wireless Earbuds That Rival the Latest AirPods Pro? Check Out My Recs. - Best Products",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHFZMlpEOHJJblVrSDVvX1dOYjFzanNLTkU5dWsxS1d1dnExMW54X1J2Q2FVNENnR3d3dUtuT0VfOVBqMnlLZHJxVW1OSm5YeDk2cWFpV2VBTjJ2QmdRNTVsLUFDbW5ZOTVsdVBSdUtvRWpPOENhNElMaEtEMVJjaVN5eFRVdGlqM09MbVp3?oc=5\" target=\"_blank\">Looking for Wireless Earbuds That Rival the Latest AirP",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHFZMlpEOHJJblVrSDVvX1dOYjFzanNLTkU5dWsxS1d1dnExMW54X1J2Q2FVNENnR3d3dUtuT0VfOVBqMnlLZHJxVW1OSm5YeDk2cWFpV2VBTjJ2QmdRNTVsLUFDbW5ZOTVsdVBSdUtvRWpPOENhNElMaEtEMVJjaVN5eFRVdGlqM09MbVp3?oc=5",
-      "published": "Sat, 06 Jun 2026 15:42:00 GMT",
-      "published_iso": "2026-06-06T15:42:00+00:00",
+      "title": "The best wireless earbuds of 2026: Lab-tested by experts - SoundGuys",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xZkVIMkdEYjdkMmFDWGJnb19DT0JuMHNrNVF4cEdqTTdCUG5GRHAxcnBOUHN2T0NubUgybDdUdFBNUHl4NDlhWWhpdnZCRTgwQWFYa01COGRudUN6NE9YSm53aTVlYW8?oc=5\" target=\"_blank\">The best wireless earbuds of 2026: Lab-tested by experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoundGuys</fon",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xZkVIMkdEYjdkMmFDWGJnb19DT0JuMHNrNVF4cEdqTTdCUG5GRHAxcnBOUHN2T0NubUgybDdUdFBNUHl4NDlhWWhpdnZCRTgwQWFYa01COGRudUN6NE9YSm53aTVlYW8?oc=5",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "published_iso": "2026-06-02T07:00:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1119,5 +1119,5 @@
       "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1780960779
+  "fetched_at": 1780964087
 }

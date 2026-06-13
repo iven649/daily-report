@@ -1,6 +1,15 @@
 {
   "consumer_electronics": [
     {
+      "title": "Valve just imported 13 tons of VR headsets in one day",
+      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. Import records show that Valve's distribution partner Ceva of",
+      "url": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+      "published": "2026-06-12T21:32:18-04:00",
+      "published_iso": "2026-06-13T01:32:18+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Nothing CEO says phone prices are going to keep going up",
       "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range phone: \"For Phone 4A ",
       "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
@@ -78,15 +87,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
       "published": "2026-06-12T10:03:39-04:00",
       "published_iso": "2026-06-12T14:03:39+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "SpaceX is now public",
-      "summary": "SpaceX is now a publicly traded company. In one of the most highly anticipated and controversial public offerings of all time, the rocket venture helmed by Elon Musk started trading on Nasdaq on June 12th at the take-it-or-leave-it price of $135-per-share - though most retail investors will likely pay far more. The IPO",
-      "url": "https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk",
-      "published": "2026-06-12T09:54:49-04:00",
-      "published_iso": "2026-06-12T13:54:49+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics"
     },
@@ -957,20 +957,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Exclusive: Nothing headphones and smartphones are now available at Best Buy in the US - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEVvREI4TG1RX25rRk1nWFNSX1J1Z3Q3WjFVLU5oRFBQcXVYazlkZVdsUFZremdYUEcwQ1k1VFNqVnFwRHF1dzlnc3lzdGtuTkRCM0o2aFRVcEFRYUo4TEw3U01HTVRFSkxFS3ZjSV84eDdwb2xPOUdNSk5HOVNaTw?oc=5\" target=\"_blank\">Exclusive: Nothing headphones and smartphones are now available at Best B",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEVvREI4TG1RX25rRk1nWFNSX1J1Z3Q3WjFVLU5oRFBQcXVYazlkZVdsUFZremdYUEcwQ1k1VFNqVnFwRHF1dzlnc3lzdGtuTkRCM0o2aFRVcEFRYUo4TEw3U01HTVRFSkxFS3ZjSV84eDdwb2xPOUdNSk5HOVNaTw?oc=5",
-      "published": "Fri, 12 Jun 2026 19:29:53 GMT",
-      "published_iso": "2026-06-12T19:29:53+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "Looking for Wireless Earbuds That Rival the Latest AirPods Pro? Check Out My Recs. - Best Products",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHFZMlpEOHJJblVrSDVvX1dOYjFzanNLTkU5dWsxS1d1dnExMW54X1J2Q2FVNENnR3d3dUtuT0VfOVBqMnlLZHJxVW1OSm5YeDk2cWFpV2VBTjJ2QmdRNTVsLUFDbW5ZOTVsdVBSdUtvRWpPOENhNElMaEtEMVJjaVN5eFRVdGlqM09MbVp3?oc=5\" target=\"_blank\">Looking for Wireless Earbuds That Rival the Latest AirP",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHFZMlpEOHJJblVrSDVvX1dOYjFzanNLTkU5dWsxS1d1dnExMW54X1J2Q2FVNENnR3d3dUtuT0VfOVBqMnlLZHJxVW1OSm5YeDk2cWFpV2VBTjJ2QmdRNTVsLUFDbW5ZOTVsdVBSdUtvRWpPOENhNElMaEtEMVJjaVN5eFRVdGlqM09MbVp3?oc=5",
       "published": "Sat, 06 Jun 2026 15:42:00 GMT",
       "published_iso": "2026-06-06T15:42:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Exclusive: Nothing headphones and smartphones are now available at Best Buy in the US - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEVvREI4TG1RX25rRk1nWFNSX1J1Z3Q3WjFVLU5oRFBQcXVYazlkZVdsUFZremdYUEcwQ1k1VFNqVnFwRHF1dzlnc3lzdGtuTkRCM0o2aFRVcEFRYUo4TEw3U01HTVRFSkxFS3ZjSV84eDdwb2xPOUdNSk5HOVNaTw?oc=5\" target=\"_blank\">Exclusive: Nothing headphones and smartphones are now available at Best B",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEVvREI4TG1RX25rRk1nWFNSX1J1Z3Q3WjFVLU5oRFBQcXVYazlkZVdsUFZremdYUEcwQ1k1VFNqVnFwRHF1dzlnc3lzdGtuTkRCM0o2aFRVcEFRYUo4TEw3U01HTVRFSkxFS3ZjSV84eDdwb2xPOUdNSk5HOVNaTw?oc=5",
+      "published": "Fri, 12 Jun 2026 19:29:53 GMT",
+      "published_iso": "2026-06-12T19:29:53+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -984,20 +984,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Best wireless earbuds in 2026 reviewed and rated - stuff.tv",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cb2JnVGNWX29uQV9aeEp5Y3ZkVHpEUkZFa1lrNllkTmVaTXJNbVJxN0VtY3RQS0JOSXphc1F2ZktlUGxteGo0NG5ZcnppX0pJbl9pblVLam9HY0tiT09ESWF3?oc=5\" target=\"_blank\">Best wireless earbuds in 2026 reviewed and rated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stuff.tv</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cb2JnVGNWX29uQV9aeEp5Y3ZkVHpEUkZFa1lrNllkTmVaTXJNbVJxN0VtY3RQS0JOSXphc1F2ZktlUGxteGo0NG5ZcnppX0pJbl9pblVLam9HY0tiT09ESWF3?oc=5",
-      "published": "Tue, 09 Jun 2026 15:03:47 GMT",
-      "published_iso": "2026-06-09T15:03:47+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "Nothing Phone and audio products are now in Best Buy stores - 9to5Google",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmlzYlJjS0xjTHd2blRKVnhLaF9ETHFJVmJHc3pGQXYzUmwzY0lhaWd0dWdNRW5YNHYzS0dEaktnMGZjdy04ZEJvZFVfQW02dGVKQlVEeEpqQ3BySHFCSmdFNzVHTDNLclQxLXdfc2V5b3Radm55YnZCYldOdm9fVlVYaWNaSk9BeEphbmNMQjZyTXhLRXU1LW5B?oc=5\" target=\"_blank\">Nothing Phone and audio products are no",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmlzYlJjS0xjTHd2blRKVnhLaF9ETHFJVmJHc3pGQXYzUmwzY0lhaWd0dWdNRW5YNHYzS0dEaktnMGZjdy04ZEJvZFVfQW02dGVKQlVEeEpqQ3BySHFCSmdFNzVHTDNLclQxLXdfc2V5b3Radm55YnZCYldOdm9fVlVYaWNaSk9BeEphbmNMQjZyTXhLRXU1LW5B?oc=5",
       "published": "Fri, 12 Jun 2026 13:25:00 GMT",
       "published_iso": "2026-06-12T13:25:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Best wireless earbuds in 2026 reviewed and rated - stuff.tv",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cb2JnVGNWX29uQV9aeEp5Y3ZkVHpEUkZFa1lrNllkTmVaTXJNbVJxN0VtY3RQS0JOSXphc1F2ZktlUGxteGo0NG5ZcnppX0pJbl9pblVLam9HY0tiT09ESWF3?oc=5\" target=\"_blank\">Best wireless earbuds in 2026 reviewed and rated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stuff.tv</font>",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cb2JnVGNWX29uQV9aeEp5Y3ZkVHpEUkZFa1lrNllkTmVaTXJNbVJxN0VtY3RQS0JOSXphc1F2ZktlUGxteGo0NG5ZcnppX0pJbl9pblVLam9HY0tiT09ESWF3?oc=5",
+      "published": "Tue, 09 Jun 2026 15:03:47 GMT",
+      "published_iso": "2026-06-09T15:03:47+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1029,11 +1029,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "I test tech all year — these are the early Prime Day deals I’d actually buy right now - NBC News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajZmMFNUSkZnc0l3U1NhU3dxUlpwcFVKalRIcTY4RTJXYm1va0x3aGtZbUZkUkc1dGhoNEpUMkYtak9ucG1vTXNRM2dXaWZJaUR3Ujk1UXBydDVISFQxRHhPbjNKYVRfNHhpTlRyZXhhblRtQlhWcThWaDAtOXdDV1FzM0h5LV9vVmpF?oc=5\" target=\"_blank\">I test tech all year — these are the early Prime Day deals ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajZmMFNUSkZnc0l3U1NhU3dxUlpwcFVKalRIcTY4RTJXYm1va0x3aGtZbUZkUkc1dGhoNEpUMkYtak9ucG1vTXNRM2dXaWZJaUR3Ujk1UXBydDVISFQxRHhPbjNKYVRfNHhpTlRyZXhhblRtQlhWcThWaDAtOXdDV1FzM0h5LV9vVmpF?oc=5",
-      "published": "Wed, 10 Jun 2026 19:12:04 GMT",
-      "published_iso": "2026-06-10T19:12:04+00:00",
+      "title": "Walmart has Bluetooth earbuds with 88-hour playback time for only $21 - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHNqaURjaXJfSHJ5OTBERXAtN2l2X1VkNmU2V1gzRHNCa3NhN1UwcmZwckV1eFRsRy1lZmltb3NnUWpxbDV5MXhDRElYRGctR3VHZFVuM3RJZm5HRUkyWU5aY1lOa2RhQWlJYi1hLXl1ckVwRzBEalFnZmdjNDR6anVSTVFhVFdMZHl4bEg2LVoyNE41TDVYa01SMTZqVWxVaDlzYUpUdw?oc=5\" target=\"_blank\">Walmart has Bluetooth",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHNqaURjaXJfSHJ5OTBERXAtN2l2X1VkNmU2V1gzRHNCa3NhN1UwcmZwckV1eFRsRy1lZmltb3NnUWpxbDV5MXhDRElYRGctR3VHZFVuM3RJZm5HRUkyWU5aY1lOa2RhQWlJYi1hLXl1ckVwRzBEalFnZmdjNDR6anVSTVFhVFdMZHl4bEg2LVoyNE41TDVYa01SMTZqVWxVaDlzYUpUdw?oc=5",
+      "published": "Tue, 09 Jun 2026 16:15:00 GMT",
+      "published_iso": "2026-06-09T16:15:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1047,11 +1047,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Noise-Cancelling Headphones: Best Models for 2025 - Audiophile ON",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWXRnbnlqc0JyUGI2MHM0WVc0ZTAxb0JfRGdpX0wwZUN6Rk92QThIaU5SaUdwVWFXbWRUZWFFazgwbkhLNFU0OW9NWXpkTFVyekVVSFF0cDJDdXNPT3ZfVjhRdkZwVTUyUUZSdHEyUzNVd0dkSlpOaUE5ZmRLek1Wbw?oc=5\" target=\"_blank\">Noise-Cancelling Headphones: Best Models for 2025</a>&nbsp;&nbsp;<font co",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWXRnbnlqc0JyUGI2MHM0WVc0ZTAxb0JfRGdpX0wwZUN6Rk92QThIaU5SaUdwVWFXbWRUZWFFazgwbkhLNFU0OW9NWXpkTFVyekVVSFF0cDJDdXNPT3ZfVjhRdkZwVTUyUUZSdHEyUzNVd0dkSlpOaUE5ZmRLek1Wbw?oc=5",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "published_iso": "2026-06-06T07:00:00+00:00",
+      "title": "I test tech all year — these are the early Prime Day deals I’d actually buy right now - NBC News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajZmMFNUSkZnc0l3U1NhU3dxUlpwcFVKalRIcTY4RTJXYm1va0x3aGtZbUZkUkc1dGhoNEpUMkYtak9ucG1vTXNRM2dXaWZJaUR3Ujk1UXBydDVISFQxRHhPbjNKYVRfNHhpTlRyZXhhblRtQlhWcThWaDAtOXdDV1FzM0h5LV9vVmpF?oc=5\" target=\"_blank\">I test tech all year — these are the early Prime Day deals ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajZmMFNUSkZnc0l3U1NhU3dxUlpwcFVKalRIcTY4RTJXYm1va0x3aGtZbUZkUkc1dGhoNEpUMkYtak9ucG1vTXNRM2dXaWZJaUR3Ujk1UXBydDVISFQxRHhPbjNKYVRfNHhpTlRyZXhhblRtQlhWcThWaDAtOXdDV1FzM0h5LV9vVmpF?oc=5",
+      "published": "Wed, 10 Jun 2026 19:12:04 GMT",
+      "published_iso": "2026-06-10T19:12:04+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1065,5 +1065,5 @@
       "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1781307625
+  "fetched_at": 1781314422
 }

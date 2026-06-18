@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18 07:47:15 CST",
+  "generated_at": "2026-06-18 09:40:15 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -711,7 +711,7 @@
     "published_iso": "2026-06-16T08:03:08+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 39.7,
+    "hours_since_published": 41.6,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -729,10 +729,10 @@
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "亚马逊利用沃尔玛的店内流量，显示出电商竞争的加剧，需关注市场动态。",
-    "suggested_action": "加强电商平台的品牌营销，提升用户粘性，抵御竞争压力。"
+    "business_note": "亚马逊通过吸引沃尔玛的店内流量，增强了其电商优势，威胁到传统零售商。",
+    "suggested_action": "加强电商平台的品牌营销，提升用户体验，争夺市场份额。"
   },
-  "lead_summary": "亚马逊借助沃尔玛流量加剧电商竞争，传统零售商需警惕市场动态与创新压力。",
+  "lead_summary": "亚马逊借助沃尔玛流量强化电商优势，传统零售商面临更大竞争压力。",
   "headline_trio": [
     {
       "title": "The Basket Breakaway: How Amazon Is Turning Walmart’s Store Traffic Into a Retail Weakness - PYMNTS.com",
@@ -742,7 +742,7 @@
       "published_iso": "2026-06-16T08:03:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 39.7,
+      "hours_since_published": 41.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -760,8 +760,37 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊利用沃尔玛的店内流量，显示出电商竞争的加剧，需关注市场动态。",
-      "suggested_action": "加强电商平台的品牌营销，提升用户粘性，抵御竞争压力。"
+      "business_note": "亚马逊通过吸引沃尔玛的店内流量，增强了其电商优势，威胁到传统零售商。",
+      "suggested_action": "加强电商平台的品牌营销，提升用户体验，争夺市场份额。"
+    },
+    {
+      "title": "What stores are open on Juneteenth 2026? Walmart, Costco, and more - NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5\" target=\"_blank\">What stores are open ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5",
+      "published": "Wed, 17 Jun 2026 08:00:00 GMT",
+      "published_iso": "2026-06-17T08:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 17.7,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart",
+          "Costco"
+        ],
+        "categories": []
+      },
+      "_score": 342,
+      "display_title": "What stores are open on Juneteenth...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "中",
+      "business_note": "关注节假日购物趋势，优化电商平台的促销活动。",
+      "suggested_action": "针对Juneteenth制定电商营销策略，提升品牌曝光。"
     },
     {
       "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
@@ -771,7 +800,7 @@
       "published_iso": "2026-06-17T14:47:14+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 9.0,
+      "hours_since_published": 10.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -790,37 +819,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "LGBTQ+消费者支出下降，影响电商平台品牌形象与销售。",
+      "business_note": "LGBTQ+消费者支出下降，影响电商平台销售，需引起重视。",
       "suggested_action": "加强对LGBTQ+群体的品牌营销，提升品牌忠诚度。"
-    },
-    {
-      "title": "Best Buy closes store after 32 years, opening new Aurora location - KUSA.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNG1YcnN2Mk04dmdleW9XVGZQdE5EWUZBTk9PY0k2M3N3MThIa1ZjaC1Uc19NanRNa1BuRTRxWE94SlFOZDRMclFadWY5WnN2VXZCei1aN2VJYnpvZWkyc1QtOEE0UzFBbW5OZTZtVnhMSUM5OGtKRExoZmJlSC0wYlVsMTh5eXpwMGFPM1lTazBmZ3JhcndnLUhoa3ZpZXNlSnB4YkNCSFkycFRERE9ja25DTnREV3d6MW4w?oc=5\" target=\"_bl",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNG1YcnN2Mk04dmdleW9XVGZQdE5EWUZBTk9PY0k2M3N3MThIa1ZjaC1Uc19NanRNa1BuRTRxWE94SlFOZDRMclFadWY5WnN2VXZCei1aN2VJYnpvZWkyc1QtOEE0UzFBbW5OZTZtVnhMSUM5OGtKRExoZmJlSC0wYlVsMTh5eXpwMGFPM1lTazBmZ3JhcndnLUhoa3ZpZXNlSnB4YkNCSFkycFRERE9ja25DTnREV3d6MW4w?oc=5",
-      "published": "Mon, 15 Jun 2026 12:39:00 GMT",
-      "published_iso": "2026-06-15T12:39:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 59.1,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy",
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 305,
-      "display_title": "Best Buy closes store after 32 years...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Best Buy关闭老店并开设新店，显示出零售渠道的动态变化。",
-      "suggested_action": "加强电商平台的品牌营销，吸引新客户。"
     }
   ],
   "consumer_electronics": [
@@ -832,7 +832,7 @@
       "published_iso": "2026-06-15T16:56:34+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 54.8,
+      "hours_since_published": 56.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -850,8 +850,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Beats通过世界杯宣传新耳机，提升品牌曝光和市场关注。",
-      "suggested_action": "加大电商和社交媒体推广力度，吸引消费者关注新产品。"
+      "business_note": "Beats在世界杯期间持续引发关注，提升品牌曝光度，吸引消费者关注新产品。",
+      "suggested_action": "加大电商渠道推广力度，利用世界杯热度进行品牌营销。"
     },
     {
       "title": "Apple releases Beats Studio Buds firmware update with important microphone security fix - 9to5Mac",
@@ -861,8 +861,8 @@
       "published_iso": "2026-06-16T23:58:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 23.8,
-      "freshness_label": "24h内",
+      "hours_since_published": 25.7,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Beats"
@@ -872,7 +872,7 @@
         ],
         "categories": []
       },
-      "_score": 231,
+      "_score": 216,
       "display_title": "Apple releases Beats Studio Buds...",
       "tags": [
         "🏬 平台电商",
@@ -880,8 +880,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Apple更新Beats Studio Buds固件，修复重要麦克风安全问题，提升用户信任。",
-      "suggested_action": "加强电商渠道宣传，确保用户及时更新固件，维护品牌形象。"
+      "business_note": "Apple发布Beats Studio Buds固件更新，修复重要的麦克风安全漏洞，影响电商销售。",
+      "suggested_action": "加强对Beats产品的电商宣传，确保消费者了解安全更新信息。"
     },
     {
       "title": "The best bone conduction headphones: stay aware on the road, in the pool, and in the office - TechRadar",
@@ -891,7 +891,7 @@
       "published_iso": "2026-06-11T10:43:59+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 157.0,
+      "hours_since_published": 158.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -909,8 +909,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "骨传导耳机市场潜力巨大，适合多场景使用，需加强品牌宣传。",
-      "suggested_action": "建议加大电商平台推广力度，提升品牌知名度。"
+      "business_note": "骨传导耳机在多个场景下的应用潜力巨大，需加强品牌宣传。",
+      "suggested_action": "加大电商平台推广力度，提升品牌知名度和市场份额。"
     },
     {
       "title": "DJI vs Insta360: The creator-tech cold war is officially over - DroneDJ",
@@ -920,7 +920,7 @@
       "published_iso": "2026-06-15T06:30:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 65.3,
+      "hours_since_published": 67.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -936,8 +936,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "DJI与Insta360的竞争结束，品牌营销策略需调整以适应市场变化。",
-      "suggested_action": "加强品牌宣传，突出DJI在创作者技术领域的优势。"
+      "business_note": "DJI与Insta360的竞争格局变化，将影响品牌营销策略和市场定位。",
+      "suggested_action": "加强品牌营销，突出DJI在创作者技术领域的优势。"
     },
     {
       "title": "Why was Jamal Musiala asked to cover his headphones with tape ahead of Germany’s FIFA World Cup match? - The Times of India",
@@ -947,7 +947,7 @@
       "published_iso": "2026-06-16T08:59:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 38.8,
+      "hours_since_published": 40.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -964,18 +964,18 @@
       ],
       "impact_area": "品牌营销",
       "importance": "中",
-      "business_note": "关注品牌形象，避免负面影响，确保产品在重要赛事中的曝光。",
-      "suggested_action": "加强与运动员的沟通，确保品牌形象不受损害。"
+      "business_note": "关注品牌形象，避免负面影响，提升消费者信任。",
+      "suggested_action": "加强品牌宣传，确保产品形象与消费者期望一致。"
     },
     {
-      "title": "Sony Semiconductor Solutions to Release LOFIC-Equipped CMOS Image Sensor for Mobile Applications with 100 dB Dynamic Range and Low Power Consumption｜Information - sony-semicon.com",
+      "title": "Sony Semiconductor Solutions to Release LOFIC-Equipped CMOS Image Sensor for Mobile Applications with 100 dB Dynamic Range and Low Power Consumption Delivering power saving, high-image quality 4K shooting and improved night view and outdo - sony-semicon.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BbWVyYVFhTWZrYS1qRUUtaE1SWWZEV0ZWYUp2dURpSU00bmtHZ0ZmcDdLY0g1V1IyR3RVSHB3QnQ1YWNaT1YxSkdxcUt5WV9fbWR4M1htbGxmT3hiWi1lZF9xNl9FNVJo?oc=5\" target=\"_blank\">Sony Semiconductor Solutions to Release LOFIC-Equipped CMOS Image Sensor for Mobile Applications with 100 d",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BbWVyYVFhTWZrYS1qRUUtaE1SWWZEV0ZWYUp2dURpSU00bmtHZ0ZmcDdLY0g1V1IyR3RVSHB3QnQ1YWNaT1YxSkdxcUt5WV9fbWR4M1htbGxmT3hiWi1lZF9xNl9FNVJo?oc=5",
       "published": "Wed, 17 Jun 2026 02:01:33 GMT",
       "published_iso": "2026-06-17T02:01:33+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 21.7,
+      "hours_since_published": 23.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -991,8 +991,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony推出的新CMOS图像传感器将提升移动设备的成像质量，增强品牌竞争力。",
-      "suggested_action": "加大对Sony新产品的市场推广力度，吸引更多电商渠道合作。"
+      "business_note": "索尼推出的新CMOS图像传感器将提升移动设备的拍摄质量，增强品牌竞争力。",
+      "suggested_action": "加大对新传感器的市场推广力度，吸引更多电商平台合作。"
     }
   ],
   "channel_news": [
@@ -1004,7 +1004,7 @@
       "published_iso": "2026-06-16T08:03:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 39.7,
+      "hours_since_published": 41.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1022,8 +1022,37 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊利用沃尔玛的店内流量，显示出电商竞争的加剧，需关注市场动态。",
-      "suggested_action": "加强电商平台的品牌营销，提升用户粘性，抵御竞争压力。"
+      "business_note": "亚马逊通过吸引沃尔玛的店内流量，增强了其电商优势，威胁到传统零售商。",
+      "suggested_action": "加强电商平台的品牌营销，提升用户体验，争夺市场份额。"
+    },
+    {
+      "title": "What stores are open on Juneteenth 2026? Walmart, Costco, and more - NJ.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5\" target=\"_blank\">What stores are open ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5",
+      "published": "Wed, 17 Jun 2026 08:00:00 GMT",
+      "published_iso": "2026-06-17T08:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 17.7,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart",
+          "Costco"
+        ],
+        "categories": []
+      },
+      "_score": 342,
+      "display_title": "What stores are open on Juneteenth...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "中",
+      "business_note": "关注节假日购物趋势，优化电商平台的促销活动。",
+      "suggested_action": "针对Juneteenth制定电商营销策略，提升品牌曝光。"
     },
     {
       "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
@@ -1033,7 +1062,7 @@
       "published_iso": "2026-06-17T14:47:14+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 9.0,
+      "hours_since_published": 10.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1052,7 +1081,7 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "LGBTQ+消费者支出下降，影响电商平台品牌形象与销售。",
+      "business_note": "LGBTQ+消费者支出下降，影响电商平台销售，需引起重视。",
       "suggested_action": "加强对LGBTQ+群体的品牌营销，提升品牌忠诚度。"
     },
     {
@@ -1063,7 +1092,7 @@
       "published_iso": "2026-06-15T12:39:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 59.1,
+      "hours_since_published": 61.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1081,8 +1110,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy关闭老店并开设新店，显示出零售渠道的动态变化。",
-      "suggested_action": "加强电商平台的品牌营销，吸引新客户。"
+      "business_note": "Best Buy关闭老店并开设新店，影响电商渠道销售策略。",
+      "suggested_action": "加强与Best Buy的电商合作，提升品牌曝光和销售。"
     },
     {
       "title": "Utah and Idaho have become key growth markets for Target, Kroger",
@@ -1092,7 +1121,7 @@
       "published_iso": "2026-06-15T04:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 67.8,
+      "hours_since_published": 69.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1109,8 +1138,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "犹他州和爱达荷州人口快速增长，为电商提供了新的市场机会。",
-      "suggested_action": "建议加大在这两个州的电商营销投入，吸引新客户。"
+      "business_note": "犹他州和爱达荷州快速增长，电商渠道需加大投入以抓住市场机会。",
+      "suggested_action": "建议加强与Target的合作，拓展电商销售渠道。"
     },
     {
       "title": "SpaceX tops Amazon in market value as retail investors race to buy shares - NBC News",
@@ -1120,7 +1149,7 @@
       "published_iso": "2026-06-16T20:12:35+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 27.6,
+      "hours_since_published": 29.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1137,36 +1166,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "SpaceX超越亚马逊，显示出电商市场竞争加剧，需关注投资者动向。",
-      "suggested_action": "加强电商平台的品牌营销，提升用户购买意愿。"
-    },
-    {
-      "title": "Best Buy closing Aurora store, opening new location - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXlLX0V3RHBUVWlzU2F0T3h4a0V0RVRaYTI1MlhaencyaWNGM2dxcXI4cFpqVEFtU3B5d1VBOTd0SnlMQWdKY2toSE1RMUd5NkF4R0VNV2V1SUFjeVBhS3F2Y3BoWWN6Ql94a3g2cmJYMnBGNTIyeFVzT2dSQnlUVHlXTXkzSDZuTFVZ?oc=5\" target=\"_blank\">Best Buy closing Aurora store, opening new location</a>&nbs",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXlLX0V3RHBUVWlzU2F0T3h4a0V0RVRaYTI1MlhaencyaWNGM2dxcXI4cFpqVEFtU3B5d1VBOTd0SnlMQWdKY2toSE1RMUd5NkF4R0VNV2V1SUFjeVBhS3F2Y3BoWWN6Ql94a3g2cmJYMnBGNTIyeFVzT2dSQnlUVHlXTXkzSDZuTFVZ?oc=5",
-      "published": "Mon, 15 Jun 2026 11:17:10 GMT",
-      "published_iso": "2026-06-15T11:17:10+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 60.5,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": []
-      },
-      "_score": 265,
-      "display_title": "Best Buy closing Aurora store, opening...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "中",
-      "business_note": "Best Buy关闭Aurora店铺并开设新店，可能影响电商销售渠道布局。",
-      "suggested_action": "关注新店开业对电商流量的影响，优化线上营销策略。"
+      "business_note": "SpaceX超越亚马逊市值，显示出电商市场竞争加剧，需关注投资者动向。",
+      "suggested_action": "加强电商平台的品牌营销，吸引更多零售投资者关注。"
     }
   ],
   "products": [
@@ -1178,7 +1179,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 5.3,
+      "hours_since_published": 7.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1188,16 +1189,16 @@
         "categories": []
       },
       "display_title": "Anthropic got hit by export rules...",
-      "display_summary": "Anthropic本周努力恢复新AI模型的在线服务，因特朗普政府突然限制所有外国用户访问，包",
+      "display_summary": "Anthropic本周努力恢复新AI模型在线服务，因特朗普政府突发命令限制所有外国用户访问，",
       "tags": [
         "🛒 渠道零售"
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "Anthropic本周努力恢复新AI模型的在线服务，因特朗普政府突然限制所。",
+      "product_intro": "Anthropic本周努力恢复新AI模型在线服务，因特朗普政府突发命令限制。",
       "importance": "高",
-      "business_note": "Anthropic面临出口规则限制，影响电商渠道销售，需迅速应对。",
-      "suggested_action": "建议加强与法律团队合作，确保合规并优化电商策略。"
+      "business_note": "Anthropic面临出口规则限制，影响电商业务和用户访问，需及时应对。",
+      "suggested_action": "建议加强与法律团队合作，确保合规并调整电商策略。"
     },
     {
       "name": "The Echo Dot Max is cheaper than ever in an early Prime Day sale",
@@ -1207,7 +1208,7 @@
       "url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
       "source": "The Verge",
       "_score": 67,
-      "hours_since_published": 7.0,
+      "hours_since_published": 8.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1217,17 +1218,17 @@
         "categories": []
       },
       "display_title": "The Echo Dot Max is cheaper than ever...",
-      "display_summary": "亚马逊Prime Day前，部分自家设备如Echo Dot Max降至新低价64.99美元，",
+      "display_summary": "亚马逊Prime Day前，Echo系列音箱降至新低价，Echo Dot Max售价64.9",
       "tags": [
         "🏬 平台电商",
         "💰 价格促销"
       ],
       "impact_area": "电商",
       "judgement_label": "价格促销",
-      "product_intro": "亚马逊Prime Day前，部分自家设备如Echo Dot。",
+      "product_intro": "亚马逊Prime Day前，Echo系列音箱降至新低价，Echo Dot。",
       "importance": "高",
-      "business_note": "提前促销活动为电商销售提供了良机，需抓住机会提升销量。",
-      "suggested_action": "加大对Echo Dot Max的电商推广力度，吸引更多消费者购买。"
+      "business_note": "提前促销活动为电商渠道提供了良好的销售机会。",
+      "suggested_action": "加强与亚马逊的合作，优化产品展示和促销策略。"
     },
     {
       "name": "Two-thirds of Americans think AI is advancing too quickly",
@@ -1237,7 +1238,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
       "source": "The Verge",
       "_score": 51,
-      "hours_since_published": 6.4,
+      "hours_since_published": 8.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1245,16 +1246,16 @@
         "categories": []
       },
       "display_title": "Two-thirds of Americans think AI is...",
-      "display_summary": "最新调查显示，49%的美国人偶尔使用聊天机器人，63%认为技术发展过快。自2024年以来，A",
+      "display_summary": "最新调查显示，49%的美国人偶尔使用聊天机器人，但63%认为技术发展过快。自2024年以来，",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "最新调查显示，49%的美国人偶尔使用聊天机器人，63%认为技术发展过快。自。",
+      "product_intro": "最新调查显示，49%的美国人偶尔使用聊天机器人，但63%认为技术发展过快。",
       "importance": "高",
-      "business_note": "消费者对AI技术的快速发展持谨慎态度，可能影响品牌形象。",
-      "suggested_action": "加强品牌沟通，强调AI技术的安全性与透明度。"
+      "business_note": "美国消费者对AI技术的快速发展表示担忧，可能影响品牌形象。",
+      "suggested_action": "加强品牌营销，传达对AI技术的负责任态度，提升消费者信任。"
     },
     {
       "name": "SanDisk’s new PlayStation 5 SSD will cost you more than three PS5 Pros",
@@ -1264,7 +1265,7 @@
       "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
       "source": "The Verge",
       "_score": 51,
-      "hours_since_published": 8.2,
+      "hours_since_published": 10.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1272,17 +1273,17 @@
         "categories": []
       },
       "display_title": "SanDisk’s new PlayStation 5 SSD will...",
-      "display_summary": "SanDisk推出Optimus GX PRO 850P NVMe SSD，官方认证PS5配",
+      "display_summary": "SanDisk推出PS5官方认证的Optimus GX PRO 850P NVMe SSD，",
       "tags": [
         "🛒 渠道零售",
         "🚀 新品发布"
       ],
       "impact_area": "渠道销售",
       "judgement_label": "渠道动态",
-      "product_intro": "SanDisk推出Optimus GX PRO 850P NVMe。",
+      "product_intro": "SanDisk推出PS5官方认证的Optimus GX PRO 850P。",
       "importance": "高",
-      "business_note": "SanDisk推出的PS5 SSD将显著影响渠道销售，需关注市场反应。",
-      "suggested_action": "加强电商平台宣传，提升产品曝光率，促进销售。"
+      "business_note": "SanDisk推出的PS5 SSD价格高昂，可能影响渠道销售策略。",
+      "suggested_action": "建议加强电商平台的促销活动，提升销售竞争力。"
     },
     {
       "name": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
@@ -1292,7 +1293,7 @@
       "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 2.1,
+      "hours_since_published": 4.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1300,16 +1301,16 @@
         "categories": []
       },
       "display_title": "Tim Cook says RAM expenses are...",
-      "display_summary": "苹果计划因内存短缺提高产品价格，CEO库克表示“价格上涨不可避免”。",
+      "display_summary": "苹果因内存短缺计划涨价，CEO库克表示“涨价不可避免”，正努力减轻成本传递影响。",
       "tags": [
         "💰 价格促销"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "苹果计划因内存短缺提高产品价格，CEO库克表示“价格上涨不可避免”。",
+      "product_intro": "苹果因内存短缺计划涨价，CEO库克表示“涨价不可避免”，正努力减轻成本传递影响。",
       "importance": "高",
       "business_note": "苹果因内存短缺将提高价格，影响品牌形象和销售策略。",
-      "suggested_action": "加强品牌营销，传达价值主张以应对价格上涨。"
+      "suggested_action": "加强品牌营销，传达产品价值，缓解价格上涨带来的负面影响。"
     },
     {
       "name": "Vibe-decoding the White House-Anthropic fight over Fable",
@@ -1319,7 +1320,7 @@
       "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 7.3,
+      "hours_since_published": 9.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1327,83 +1328,19 @@
         "categories": []
       },
       "display_title": "Vibe-decoding the White House-Anthropic...",
-      "display_summary": "欢迎订阅Regulator，获取科技与政治交汇的最新动态，关注自利与科学的碰撞。",
+      "display_summary": "欢迎订阅Regulator，获取科技与政治交汇的最新动态，了解利益冲突下的行业内幕。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "欢迎订阅Regulator，获取科技与政治交汇的最新动态，关注自利与科学的碰撞。",
+      "product_intro": "欢迎订阅Regulator，获取科技与政治交汇的最新动态，了解利益冲突下的。",
       "importance": "中",
-      "business_note": "关注科技与政治交集，提升品牌在相关话题中的影响力。",
-      "suggested_action": "加强品牌营销策略，利用热点话题吸引目标受众。"
+      "business_note": "关注白宫与Anthropic之间的争斗，有助于品牌营销策略的调整。",
+      "suggested_action": "加强对政策动态的监测，以优化品牌传播策略。"
     }
   ],
   "monitored_entities": [
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 6,
-      "items": [
-        {
-          "title": "Best Buy closes store after 32 years, opening new Aurora location - KUSA.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNG1YcnN2Mk04dmdleW9XVGZQdE5EWUZBTk9PY0k2M3N3MThIa1ZjaC1Uc19NanRNa1BuRTRxWE94SlFOZDRMclFadWY5WnN2VXZCei1aN2VJYnpvZWkyc1QtOEE0UzFBbW5OZTZtVnhMSUM5OGtKRExoZmJlSC0wYlVsMTh5eXpwMGFPM1lTazBmZ3JhcndnLUhoa3ZpZXNlSnB4YkNCSFkycFRERE9ja25DTnREV3d6MW4w?oc=5\" target=\"_bl",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNG1YcnN2Mk04dmdleW9XVGZQdE5EWUZBTk9PY0k2M3N3MThIa1ZjaC1Uc19NanRNa1BuRTRxWE94SlFOZDRMclFadWY5WnN2VXZCei1aN2VJYnpvZWkyc1QtOEE0UzFBbW5OZTZtVnhMSUM5OGtKRExoZmJlSC0wYlVsMTh5eXpwMGFPM1lTazBmZ3JhcndnLUhoa3ZpZXNlSnB4YkNCSFkycFRERE9ja25DTnREV3d6MW4w?oc=5",
-          "published": "Mon, 15 Jun 2026 12:39:00 GMT",
-          "published_iso": "2026-06-15T12:39:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 59.1,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 305,
-          "display_title": "Best Buy closes store after 32 years...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Best Buy关闭老店并开设新店，显示出零售渠道的动态变化。",
-          "suggested_action": "加强电商平台的品牌营销，吸引新客户。"
-        },
-        {
-          "title": "Best Buy closing Aurora store, opening new location - Yahoo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXlLX0V3RHBUVWlzU2F0T3h4a0V0RVRaYTI1MlhaencyaWNGM2dxcXI4cFpqVEFtU3B5d1VBOTd0SnlMQWdKY2toSE1RMUd5NkF4R0VNV2V1SUFjeVBhS3F2Y3BoWWN6Ql94a3g2cmJYMnBGNTIyeFVzT2dSQnlUVHlXTXkzSDZuTFVZ?oc=5\" target=\"_blank\">Best Buy closing Aurora store, opening new location</a>&nbs",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXlLX0V3RHBUVWlzU2F0T3h4a0V0RVRaYTI1MlhaencyaWNGM2dxcXI4cFpqVEFtU3B5d1VBOTd0SnlMQWdKY2toSE1RMUd5NkF4R0VNV2V1SUFjeVBhS3F2Y3BoWWN6Ql94a3g2cmJYMnBGNTIyeFVzT2dSQnlUVHlXTXkzSDZuTFVZ?oc=5",
-          "published": "Mon, 15 Jun 2026 11:17:10 GMT",
-          "published_iso": "2026-06-15T11:17:10+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 60.5,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 265,
-          "display_title": "Best Buy closing Aurora store, opening...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "中",
-          "business_note": "Best Buy关闭Aurora店铺并开设新店，可能影响电商销售渠道布局。",
-          "suggested_action": "关注新店开业对电商流量的影响，优化线上营销策略。"
-        }
-      ]
-    },
     {
       "name": "Amazon",
       "type": "渠道",
@@ -1417,7 +1354,7 @@
           "published_iso": "2026-06-16T08:03:08+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 39.7,
+          "hours_since_published": 41.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1435,8 +1372,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊利用沃尔玛的店内流量，显示出电商竞争的加剧，需关注市场动态。",
-          "suggested_action": "加强电商平台的品牌营销，提升用户粘性，抵御竞争压力。"
+          "business_note": "亚马逊通过吸引沃尔玛的店内流量，增强了其电商优势，威胁到传统零售商。",
+          "suggested_action": "加强电商平台的品牌营销，提升用户体验，争夺市场份额。"
         },
         {
           "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
@@ -1446,7 +1383,7 @@
           "published_iso": "2026-06-17T14:47:14+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 9.0,
+          "hours_since_published": 10.9,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1465,46 +1402,16 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "LGBTQ+消费者支出下降，影响电商平台品牌形象与销售。",
+          "business_note": "LGBTQ+消费者支出下降，影响电商平台销售，需引起重视。",
           "suggested_action": "加强对LGBTQ+群体的品牌营销，提升品牌忠诚度。"
         }
       ]
     },
     {
-      "name": "Target",
+      "name": "Best Buy",
       "type": "渠道",
-      "count": 4,
+      "count": 5,
       "items": [
-        {
-          "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE1adlJ2dWZaV3VuNXJiZ0J5M1haNDVPcl9Pc1FuNGpLVkNNRndpbU1UVTFDakdLOEExdUYwUVNwdUd1Ql9wZGpqY3A0UktpRWdWdHkzRURPeHh5SVlPUWVGc1VpYXc0OGFyMlFSbzlSLXhPNzYyTWU1V2dScWxVNGRKSEJBal9seVHSAY8BQVVfeXFMT3pkZ3ZKTzVydjY3eDg3VkV4akhIeWo3VVd3eWM5WGtSY0ZVR0VNR25RY1lVcmt4bmwzdX",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE1adlJ2dWZaV3VuNXJiZ0J5M1haNDVPcl9Pc1FuNGpLVkNNRndpbU1UVTFDakdLOEExdUYwUVNwdUd1Ql9wZGpqY3A0UktpRWdWdHkzRURPeHh5SVlPUWVGc1VpYXc0OGFyMlFSbzlSLXhPNzYyTWU1V2dScWxVNGRKSEJBal9seVHSAY8BQVVfeXFMT3pkZ3ZKTzVydjY3eDg3VkV4akhIeWo3VVd3eWM5WGtSY0ZVR0VNR25RY1lVcmt4bmwzdXU0NmZSYmVUQUhLM3YxYUlIa2Z2MVNyMXdkMnZ1ZWVGTHZNRGc2TEo5VThyWDMwbDlpWjdaUHhlUDYxVkFESTh2S1FhcmhJVkgxTjBIeW9BVUtkRHc?oc=5",
-          "published": "Wed, 17 Jun 2026 14:47:14 GMT",
-          "published_iso": "2026-06-17T14:47:14+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 9.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 336,
-          "display_title": "Target, Walmart and Amazon among brands...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "LGBTQ+消费者支出下降，影响电商平台品牌形象与销售。",
-          "suggested_action": "加强对LGBTQ+群体的品牌营销，提升品牌忠诚度。"
-        },
         {
           "title": "Best Buy closes store after 32 years, opening new Aurora location - KUSA.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNG1YcnN2Mk04dmdleW9XVGZQdE5EWUZBTk9PY0k2M3N3MThIa1ZjaC1Uc19NanRNa1BuRTRxWE94SlFOZDRMclFadWY5WnN2VXZCei1aN2VJYnpvZWkyc1QtOEE0UzFBbW5OZTZtVnhMSUM5OGtKRExoZmJlSC0wYlVsMTh5eXpwMGFPM1lTazBmZ3JhcndnLUhoa3ZpZXNlSnB4YkNCSFkycFRERE9ja25DTnREV3d6MW4w?oc=5\" target=\"_bl",
@@ -1513,7 +1420,7 @@
           "published_iso": "2026-06-15T12:39:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 59.1,
+          "hours_since_published": 61.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1531,8 +1438,99 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Best Buy关闭老店并开设新店，显示出零售渠道的动态变化。",
-          "suggested_action": "加强电商平台的品牌营销，吸引新客户。"
+          "business_note": "Best Buy关闭老店并开设新店，影响电商渠道销售策略。",
+          "suggested_action": "加强与Best Buy的电商合作，提升品牌曝光和销售。"
+        },
+        {
+          "title": "Best Buy closing Aurora store, opening new location - Yahoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXlLX0V3RHBUVWlzU2F0T3h4a0V0RVRaYTI1MlhaencyaWNGM2dxcXI4cFpqVEFtU3B5d1VBOTd0SnlMQWdKY2toSE1RMUd5NkF4R0VNV2V1SUFjeVBhS3F2Y3BoWWN6Ql94a3g2cmJYMnBGNTIyeFVzT2dSQnlUVHlXTXkzSDZuTFVZ?oc=5\" target=\"_blank\">Best Buy closing Aurora store, opening new location</a>&nbs",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXlLX0V3RHBUVWlzU2F0T3h4a0V0RVRaYTI1MlhaencyaWNGM2dxcXI4cFpqVEFtU3B5d1VBOTd0SnlMQWdKY2toSE1RMUd5NkF4R0VNV2V1SUFjeVBhS3F2Y3BoWWN6Ql94a3g2cmJYMnBGNTIyeFVzT2dSQnlUVHlXTXkzSDZuTFVZ?oc=5",
+          "published": "Mon, 15 Jun 2026 11:17:10 GMT",
+          "published_iso": "2026-06-15T11:17:10+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 62.4,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 265,
+          "display_title": "Best Buy closing Aurora store, opening...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "type": "渠道",
+      "count": 4,
+      "items": [
+        {
+          "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE1adlJ2dWZaV3VuNXJiZ0J5M1haNDVPcl9Pc1FuNGpLVkNNRndpbU1UVTFDakdLOEExdUYwUVNwdUd1Ql9wZGpqY3A0UktpRWdWdHkzRURPeHh5SVlPUWVGc1VpYXc0OGFyMlFSbzlSLXhPNzYyTWU1V2dScWxVNGRKSEJBal9seVHSAY8BQVVfeXFMT3pkZ3ZKTzVydjY3eDg3VkV4akhIeWo3VVd3eWM5WGtSY0ZVR0VNR25RY1lVcmt4bmwzdX",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE1adlJ2dWZaV3VuNXJiZ0J5M1haNDVPcl9Pc1FuNGpLVkNNRndpbU1UVTFDakdLOEExdUYwUVNwdUd1Ql9wZGpqY3A0UktpRWdWdHkzRURPeHh5SVlPUWVGc1VpYXc0OGFyMlFSbzlSLXhPNzYyTWU1V2dScWxVNGRKSEJBal9seVHSAY8BQVVfeXFMT3pkZ3ZKTzVydjY3eDg3VkV4akhIeWo3VVd3eWM5WGtSY0ZVR0VNR25RY1lVcmt4bmwzdXU0NmZSYmVUQUhLM3YxYUlIa2Z2MVNyMXdkMnZ1ZWVGTHZNRGc2TEo5VThyWDMwbDlpWjdaUHhlUDYxVkFESTh2S1FhcmhJVkgxTjBIeW9BVUtkRHc?oc=5",
+          "published": "Wed, 17 Jun 2026 14:47:14 GMT",
+          "published_iso": "2026-06-17T14:47:14+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 10.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 336,
+          "display_title": "Target, Walmart and Amazon among brands...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "LGBTQ+消费者支出下降，影响电商平台销售，需引起重视。",
+          "suggested_action": "加强对LGBTQ+群体的品牌营销，提升品牌忠诚度。"
+        },
+        {
+          "title": "Best Buy closes store after 32 years, opening new Aurora location - KUSA.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNG1YcnN2Mk04dmdleW9XVGZQdE5EWUZBTk9PY0k2M3N3MThIa1ZjaC1Uc19NanRNa1BuRTRxWE94SlFOZDRMclFadWY5WnN2VXZCei1aN2VJYnpvZWkyc1QtOEE0UzFBbW5OZTZtVnhMSUM5OGtKRExoZmJlSC0wYlVsMTh5eXpwMGFPM1lTazBmZ3JhcndnLUhoa3ZpZXNlSnB4YkNCSFkycFRERE9ja25DTnREV3d6MW4w?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNG1YcnN2Mk04dmdleW9XVGZQdE5EWUZBTk9PY0k2M3N3MThIa1ZjaC1Uc19NanRNa1BuRTRxWE94SlFOZDRMclFadWY5WnN2VXZCei1aN2VJYnpvZWkyc1QtOEE0UzFBbW5OZTZtVnhMSUM5OGtKRExoZmJlSC0wYlVsMTh5eXpwMGFPM1lTazBmZ3JhcndnLUhoa3ZpZXNlSnB4YkNCSFkycFRERE9ja25DTnREV3d6MW4w?oc=5",
+          "published": "Mon, 15 Jun 2026 12:39:00 GMT",
+          "published_iso": "2026-06-15T12:39:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 61.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 305,
+          "display_title": "Best Buy closes store after 32 years...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Best Buy关闭老店并开设新店，影响电商渠道销售策略。",
+          "suggested_action": "加强与Best Buy的电商合作，提升品牌曝光和销售。"
         }
       ]
     },
@@ -1549,7 +1547,7 @@
           "published_iso": "2026-06-16T20:21:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 27.4,
+          "hours_since_published": 29.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1579,7 +1577,7 @@
           "published_iso": "2026-06-15T16:56:34+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 54.8,
+          "hours_since_published": 56.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1597,8 +1595,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Beats通过世界杯宣传新耳机，提升品牌曝光和市场关注。",
-          "suggested_action": "加大电商和社交媒体推广力度，吸引消费者关注新产品。"
+          "business_note": "Beats在世界杯期间持续引发关注，提升品牌曝光度，吸引消费者关注新产品。",
+          "suggested_action": "加大电商渠道推广力度，利用世界杯热度进行品牌营销。"
         }
       ]
     },
@@ -1615,7 +1613,7 @@
           "published_iso": "2026-06-16T20:21:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 27.4,
+          "hours_since_published": 29.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1645,7 +1643,7 @@
           "published_iso": "2026-06-15T16:56:34+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 54.8,
+          "hours_since_published": 56.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1663,8 +1661,73 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Beats通过世界杯宣传新耳机，提升品牌曝光和市场关注。",
-          "suggested_action": "加大电商和社交媒体推广力度，吸引消费者关注新产品。"
+          "business_note": "Beats在世界杯期间持续引发关注，提升品牌曝光度，吸引消费者关注新产品。",
+          "suggested_action": "加大电商渠道推广力度，利用世界杯热度进行品牌营销。"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "渠道",
+      "count": 3,
+      "items": [
+        {
+          "title": "The Basket Breakaway: How Amazon Is Turning Walmart’s Store Traffic Into a Retail Weakness - PYMNTS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0JwM19mZTVUVmZyeXFzcTc3b1VhNVRUbjdOU05lWDk4X1ZwemVHTEtQMXJ0bEN2UVBMcE9DUDd5aVNhalZHc080MzhPd3d0a0ptSlBpTE82OFhiQ1ZBNVBuX3JaZXdBRF9tYU5XWDFGSG8tRHFRN29ySVJuakdiOWNCRk5Wb3RtdE82azQ5QzM1bEt3Zmtxa3FjU3JKYmtpUll2LWowZUdRX2xzTHJEMHRXWmZiakZHSTdFV0EzV2k0UQ?oc=5\" t",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0JwM19mZTVUVmZyeXFzcTc3b1VhNVRUbjdOU05lWDk4X1ZwemVHTEtQMXJ0bEN2UVBMcE9DUDd5aVNhalZHc080MzhPd3d0a0ptSlBpTE82OFhiQ1ZBNVBuX3JaZXdBRF9tYU5XWDFGSG8tRHFRN29ySVJuakdiOWNCRk5Wb3RtdE82azQ5QzM1bEt3Zmtxa3FjU3JKYmtpUll2LWowZUdRX2xzTHJEMHRXWmZiakZHSTdFV0EzV2k0UQ?oc=5",
+          "published": "Tue, 16 Jun 2026 08:03:08 GMT",
+          "published_iso": "2026-06-16T08:03:08+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 41.6,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 345,
+          "display_title": "The Basket Breakaway: How Amazon Is...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊通过吸引沃尔玛的店内流量，增强了其电商优势，威胁到传统零售商。",
+          "suggested_action": "加强电商平台的品牌营销，提升用户体验，争夺市场份额。"
+        },
+        {
+          "title": "What stores are open on Juneteenth 2026? Walmart, Costco, and more - NJ.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5\" target=\"_blank\">What stores are open ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5",
+          "published": "Wed, 17 Jun 2026 08:00:00 GMT",
+          "published_iso": "2026-06-17T08:00:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 17.7,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart",
+              "Costco"
+            ],
+            "categories": []
+          },
+          "_score": 342,
+          "display_title": "What stores are open on Juneteenth...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "中",
+          "business_note": "关注节假日购物趋势，优化电商平台的促销活动。",
+          "suggested_action": "针对Juneteenth制定电商营销策略，提升品牌曝光。"
         }
       ]
     },
@@ -1681,7 +1744,7 @@
           "published_iso": "2026-06-17T18:28:50+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 5.3,
+          "hours_since_published": 7.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1705,7 +1768,7 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
           "source": "The Verge",
           "_score": 75,
-          "hours_since_published": 5.3,
+          "hours_since_published": 7.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1715,138 +1778,72 @@
             "categories": []
           },
           "display_title": "Anthropic got hit by export rules...",
-          "display_summary": "Anthropic本周努力恢复新AI模型的在线服务，因特朗普政府突然限制所有外国用户访问，包",
+          "display_summary": "Anthropic本周努力恢复新AI模型在线服务，因特朗普政府突发命令限制所有外国用户访问，",
           "tags": [
             "🛒 渠道零售"
           ],
           "impact_area": "电商",
           "judgement_label": "渠道动态",
-          "product_intro": "Anthropic本周努力恢复新AI模型的在线服务，因特朗普政府突然限制所。",
+          "product_intro": "Anthropic本周努力恢复新AI模型在线服务，因特朗普政府突发命令限制。",
           "importance": "高",
-          "business_note": "Anthropic面临出口规则限制，影响电商渠道销售，需迅速应对。",
-          "suggested_action": "建议加强与法律团队合作，确保合规并优化电商策略。"
+          "business_note": "Anthropic面临出口规则限制，影响电商业务和用户访问，需及时应对。",
+          "suggested_action": "建议加强与法律团队合作，确保合规并调整电商策略。"
         }
       ]
     },
     {
-      "name": "Walmart",
+      "name": "Costco",
       "type": "渠道",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "title": "The Basket Breakaway: How Amazon Is Turning Walmart’s Store Traffic Into a Retail Weakness - PYMNTS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0JwM19mZTVUVmZyeXFzcTc3b1VhNVRUbjdOU05lWDk4X1ZwemVHTEtQMXJ0bEN2UVBMcE9DUDd5aVNhalZHc080MzhPd3d0a0ptSlBpTE82OFhiQ1ZBNVBuX3JaZXdBRF9tYU5XWDFGSG8tRHFRN29ySVJuakdiOWNCRk5Wb3RtdE82azQ5QzM1bEt3Zmtxa3FjU3JKYmtpUll2LWowZUdRX2xzTHJEMHRXWmZiakZHSTdFV0EzV2k0UQ?oc=5\" t",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0JwM19mZTVUVmZyeXFzcTc3b1VhNVRUbjdOU05lWDk4X1ZwemVHTEtQMXJ0bEN2UVBMcE9DUDd5aVNhalZHc080MzhPd3d0a0ptSlBpTE82OFhiQ1ZBNVBuX3JaZXdBRF9tYU5XWDFGSG8tRHFRN29ySVJuakdiOWNCRk5Wb3RtdE82azQ5QzM1bEt3Zmtxa3FjU3JKYmtpUll2LWowZUdRX2xzTHJEMHRXWmZiakZHSTdFV0EzV2k0UQ?oc=5",
-          "published": "Tue, 16 Jun 2026 08:03:08 GMT",
-          "published_iso": "2026-06-16T08:03:08+00:00",
+          "title": "What stores are open on Juneteenth 2026? Walmart, Costco, and more - NJ.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5\" target=\"_blank\">What stores are open ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5",
+          "published": "Wed, 17 Jun 2026 08:00:00 GMT",
+          "published_iso": "2026-06-17T08:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 39.7,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 345,
-          "display_title": "The Basket Breakaway: How Amazon Is...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "亚马逊利用沃尔玛的店内流量，显示出电商竞争的加剧，需关注市场动态。",
-          "suggested_action": "加强电商平台的品牌营销，提升用户粘性，抵御竞争压力。"
-        },
-        {
-          "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE1adlJ2dWZaV3VuNXJiZ0J5M1haNDVPcl9Pc1FuNGpLVkNNRndpbU1UVTFDakdLOEExdUYwUVNwdUd1Ql9wZGpqY3A0UktpRWdWdHkzRURPeHh5SVlPUWVGc1VpYXc0OGFyMlFSbzlSLXhPNzYyTWU1V2dScWxVNGRKSEJBal9seVHSAY8BQVVfeXFMT3pkZ3ZKTzVydjY3eDg3VkV4akhIeWo3VVd3eWM5WGtSY0ZVR0VNR25RY1lVcmt4bmwzdX",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE1adlJ2dWZaV3VuNXJiZ0J5M1haNDVPcl9Pc1FuNGpLVkNNRndpbU1UVTFDakdLOEExdUYwUVNwdUd1Ql9wZGpqY3A0UktpRWdWdHkzRURPeHh5SVlPUWVGc1VpYXc0OGFyMlFSbzlSLXhPNzYyTWU1V2dScWxVNGRKSEJBal9seVHSAY8BQVVfeXFMT3pkZ3ZKTzVydjY3eDg3VkV4akhIeWo3VVd3eWM5WGtSY0ZVR0VNR25RY1lVcmt4bmwzdXU0NmZSYmVUQUhLM3YxYUlIa2Z2MVNyMXdkMnZ1ZWVGTHZNRGc2TEo5VThyWDMwbDlpWjdaUHhlUDYxVkFESTh2S1FhcmhJVkgxTjBIeW9BVUtkRHc?oc=5",
-          "published": "Wed, 17 Jun 2026 14:47:14 GMT",
-          "published_iso": "2026-06-17T14:47:14+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 9.0,
+          "hours_since_published": 17.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Amazon",
               "Walmart",
-              "Target"
+              "Costco"
             ],
             "categories": []
           },
-          "_score": 336,
-          "display_title": "Target, Walmart and Amazon among brands...",
+          "_score": 342,
+          "display_title": "What stores are open on Juneteenth...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
-          "importance": "高",
-          "business_note": "LGBTQ+消费者支出下降，影响电商平台品牌形象与销售。",
-          "suggested_action": "加强对LGBTQ+群体的品牌营销，提升品牌忠诚度。"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 1,
-      "items": [
-        {
-          "title": "The best bone conduction headphones: stay aware on the road, in the pool, and in the office - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5\" target=\"_blank\">The best bone conduction headphones: stay aware on the road, in the pool, and in the office</a>&n",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
-          "published": "Thu, 11 Jun 2026 10:43:59 GMT",
-          "published_iso": "2026-06-11T10:43:59+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 157.0,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 211,
-          "display_title": "The best bone conduction headphones:...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "骨传导耳机市场潜力巨大，适合多场景使用，需加强品牌宣传。",
-          "suggested_action": "建议加大电商平台推广力度，提升品牌知名度。"
+          "importance": "中",
+          "business_note": "关注节假日购物趋势，优化电商平台的促销活动。",
+          "suggested_action": "针对Juneteenth制定电商营销策略，提升品牌曝光。"
         }
       ]
     }
   ],
   "takeaways": [
-    "亚马逊在电商平台的持续创新将加剧对传统零售商的冲击，尤其是Target和Walmart。",
-    "Beats通过世界杯营销策略提升品牌曝光，可能在年轻消费者中赢得更多市场份额。",
-    "Best Buy关闭门店表明其面对电商竞争的压力加大，未来需重新审视线下零售策略。",
-    "随着Utah和Idaho成为消费电子增长新兴市场，品牌应加大在这些地区的投资力度。",
-    "新推出的Echo Dot Max价格下调，可能会刺激智能音箱市场的进一步竞争。"
+    "亚马逊在电商平台的持续创新将进一步巩固其市场主导地位，其他竞争者需加速应对。",
+    "Beats新品发布将提升其在音频市场的竞争力，尤其是在年轻消费者中。",
+    "Best Buy关闭门店反映出传统零售面临的压力，电商渠道将成为未来的关键。",
+    "DJI与Insta360的竞争加剧，创作者市场将更加细分，品牌需明确定位。",
+    "随着PlayStation 5 SSD的推出，存储产品的需求将激增，相关厂商应抓住机遇。"
   ],
   "opportunity_signals": [
-    "犹他州和爱达荷州的人口快速增长，为电商企业提供了新的市场拓展机会，建议加大在这些地区的营销和物流投入。",
-    "随着Best Buy关闭老店并开设新店，零售渠道的动态变化可能影响消费者购物习惯，建议关注新店的销售表现和顾客反馈。",
-    "亚马逊利用沃尔玛的店内流量，显示出电商竞争加剧，需密切关注市场动态，以调整自身的竞争策略。"
+    "亚马逊通过吸引沃尔玛的店内流量，增强了其电商优势，传统零售商需加快数字化转型以应对竞争压力。",
+    "犹他州和爱达荷州的快速增长为电商渠道提供了新的市场机会，建议加大在这些地区的市场推广和产品投放。",
+    "LGBTQ+消费者支出下降可能影响电商销售，需及时调整营销策略以保持对该群体的吸引力。"
   ],
   "risk_signals": [
-    "亚马逊利用沃尔玛的店内流量，表明电商竞争加剧，需警惕市场份额被侵蚀的风险。",
-    "LGBTQ+消费者支出下降可能影响电商平台的品牌形象与销售，需关注多元化市场策略的有效性。",
-    "Best Buy关闭老店并开设新店，显示零售渠道动态变化，需评估新布局对整体销售的潜在影响。"
+    "亚马逊通过吸引沃尔玛的流量，可能导致传统零售商的市场份额进一步萎缩，需及时调整竞争策略。",
+    "LGBTQ+消费者支出下降，可能对电商平台的销售造成负面影响，需重新评估目标市场的营销策略。",
+    "Best Buy关闭老店并开设新店，可能影响品牌形象及电商渠道的销售策略，需密切关注消费者反应。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

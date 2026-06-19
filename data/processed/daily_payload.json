@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19 09:52:22 CST",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20 07:10:31 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -16,7 +16,7 @@
       "nth": 3,
       "icon": "👔",
       "date": "2026-06-21",
-      "countdown": 2,
+      "countdown": 1,
       "year": 2026,
       "origin": "父亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -45,7 +45,7 @@
       "day": 4,
       "icon": "🎆",
       "date": "2026-07-04",
-      "countdown": 15,
+      "countdown": 14,
       "year": 2026,
       "origin": "独立日是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -74,7 +74,7 @@
       "day": 15,
       "icon": "⚡",
       "date": "2026-07-15",
-      "countdown": 26,
+      "countdown": 25,
       "year": 2026,
       "origin": "Prime Day是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -101,7 +101,7 @@
       "day": 15,
       "icon": "🎒",
       "date": "2026-08-15",
-      "countdown": 57,
+      "countdown": 56,
       "year": 2026,
       "origin": "返校季是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -120,33 +120,6 @@
   ],
   "festival_pages": [
     {
-      "slug": "dragon-boat",
-      "name": "端午节",
-      "market": "CN",
-      "type": "traditional",
-      "priority": 4,
-      "rule": "fixed",
-      "month": 6,
-      "day": 19,
-      "icon": "🚣",
-      "date": "2026-06-19",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "端午节是中国的重要节日或营销节点。",
-      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
-      "customs": [
-        "节前备货",
-        "礼赠需求",
-        "节庆促销"
-      ],
-      "consumption": [
-        "礼品零售",
-        "出行相关",
-        "节庆营销"
-      ],
-      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
-    },
-    {
       "slug": "fathers-day",
       "name": "父亲节",
       "market": "US",
@@ -158,7 +131,7 @@
       "nth": 3,
       "icon": "👔",
       "date": "2026-06-21",
-      "countdown": 2,
+      "countdown": 1,
       "year": 2026,
       "origin": "父亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -187,7 +160,7 @@
       "day": 4,
       "icon": "🎆",
       "date": "2026-07-04",
-      "countdown": 15,
+      "countdown": 14,
       "year": 2026,
       "origin": "独立日是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -216,7 +189,7 @@
       "day": 15,
       "icon": "⚡",
       "date": "2026-07-15",
-      "countdown": 26,
+      "countdown": 25,
       "year": 2026,
       "origin": "Prime Day是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -243,7 +216,7 @@
       "day": 15,
       "icon": "🎒",
       "date": "2026-08-15",
-      "countdown": 57,
+      "countdown": 56,
       "year": 2026,
       "origin": "返校季是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -270,7 +243,7 @@
       "day": 19,
       "icon": "💗",
       "date": "2026-08-19",
-      "countdown": 61,
+      "countdown": 60,
       "year": 2026,
       "origin": "七夕是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -298,7 +271,7 @@
       "nth": 1,
       "icon": "🛍️",
       "date": "2026-09-07",
-      "countdown": 80,
+      "countdown": 79,
       "year": 2026,
       "origin": "Labor Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -327,7 +300,7 @@
       "day": 25,
       "icon": "🌕",
       "date": "2026-09-25",
-      "countdown": 98,
+      "countdown": 97,
       "year": 2026,
       "origin": "中秋节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -354,7 +327,7 @@
       "day": 1,
       "icon": "🇨🇳",
       "date": "2026-10-01",
-      "countdown": 104,
+      "countdown": 103,
       "year": 2026,
       "origin": "国庆节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -381,7 +354,7 @@
       "day": 31,
       "icon": "🎃",
       "date": "2026-10-31",
-      "countdown": 134,
+      "countdown": 133,
       "year": 2026,
       "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -410,7 +383,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 145,
+      "countdown": 144,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -438,7 +411,7 @@
       "nth": 4,
       "icon": "🦃",
       "date": "2026-11-26",
-      "countdown": 160,
+      "countdown": 159,
       "year": 2026,
       "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -467,7 +440,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 161,
+      "countdown": 160,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -494,7 +467,7 @@
       "offset_days": 4,
       "icon": "💻",
       "date": "2026-11-30",
-      "countdown": 164,
+      "countdown": 163,
       "year": 2026,
       "origin": "网一是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -521,7 +494,7 @@
       "day": 12,
       "icon": "🧾",
       "date": "2026-12-12",
-      "countdown": 176,
+      "countdown": 175,
       "year": 2026,
       "origin": "双12是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -548,7 +521,7 @@
       "day": 25,
       "icon": "🎄",
       "date": "2026-12-25",
-      "countdown": 189,
+      "countdown": 188,
       "year": 2026,
       "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -577,7 +550,7 @@
       "day": 14,
       "icon": "❤️",
       "date": "2027-02-14",
-      "countdown": 240,
+      "countdown": 239,
       "year": 2027,
       "origin": "情人节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -606,7 +579,7 @@
       "day": 17,
       "icon": "🧧",
       "date": "2027-02-17",
-      "countdown": 243,
+      "countdown": 242,
       "year": 2027,
       "origin": "春节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -633,7 +606,7 @@
       "day": 3,
       "icon": "🏮",
       "date": "2027-03-03",
-      "countdown": 257,
+      "countdown": 256,
       "year": 2027,
       "origin": "元宵节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -658,7 +631,7 @@
       "rule": "easter",
       "icon": "🥚",
       "date": "2027-03-28",
-      "countdown": 282,
+      "countdown": 281,
       "year": 2027,
       "origin": "复活节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -675,6 +648,33 @@
         "零售门店活动"
       ],
       "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "qingming",
+      "name": "清明节",
+      "market": "CN",
+      "type": "traditional",
+      "priority": 3,
+      "rule": "fixed",
+      "month": 4,
+      "day": 4,
+      "icon": "🌿",
+      "date": "2027-04-04",
+      "countdown": 288,
+      "year": 2027,
+      "origin": "清明节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
     }
   ],
   "us_timezones": [
@@ -704,36 +704,67 @@
     }
   ],
   "lead_story": {
-    "title": "Amazon and Walmart Battle to Become Retail’s Most Powerful Data Broker - PYMNTS.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOanBSLWRjRm1kM3dtWF82N1Y0a3d5QVg2MVhndXZsS3lzcDBTZm12bW9qSVRIVHRBdWk2dkp3eFhITDRvMzgzWjJnTVd6X3lFT0tkOHd4UHBJMHMycHRWb1FjaUdneUtMYTFMYnluV3JQRGtQczMybUF1V2daTm02M084dUQzbnI2UFU3bFM5aVBmZ1h5N1BBUzVmSlg4b1lOVnVqdlZmUWtNTjdPZjBR?oc=5\" target=\"_blank\">Amazon and ",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOanBSLWRjRm1kM3dtWF82N1Y0a3d5QVg2MVhndXZsS3lzcDBTZm12bW9qSVRIVHRBdWk2dkp3eFhITDRvMzgzWjJnTVd6X3lFT0tkOHd4UHBJMHMycHRWb1FjaUdneUtMYTFMYnluV3JQRGtQczMybUF1V2daTm02M084dUQzbnI2UFU3bFM5aVBmZ1h5N1BBUzVmSlg4b1lOVnVqdlZmUWtNTjdPZjBR?oc=5",
-    "published": "Thu, 18 Jun 2026 18:24:32 GMT",
-    "published_iso": "2026-06-18T18:24:32+00:00",
-    "source": "Google News - Retail Platforms",
-    "bucket": "channel_news",
-    "hours_since_published": 7.5,
+    "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+    "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+    "published_iso": "2026-06-19T12:00:00+00:00",
+    "source": "Google News - Competitor Watch",
+    "bucket": "consumer_electronics",
+    "hours_since_published": 11.2,
     "freshness_label": "24h内",
     "monitor_hits": {
-      "brands": [],
-      "channels": [
-        "Amazon",
-        "Walmart"
+      "brands": [
+        "Sony",
+        "Sennheiser"
       ],
-      "categories": []
+      "channels": [],
+      "categories": [
+        "headphone"
+      ]
     },
-    "_score": 342,
-    "display_title": "Amazon and Walmart Battle to Become...",
+    "_score": 339,
+    "display_title": "I flew 2,700 miles with Apple, Sony...",
     "tags": [
-      "🛒 渠道零售",
-      "🏬 平台电商"
+      "🎧 耳机音频"
     ],
-    "impact_area": "电商",
+    "impact_area": "品牌营销",
     "importance": "高",
-    "business_note": "亚马逊与沃尔玛争夺数据经纪市场，影响电商竞争格局。",
-    "suggested_action": "加强数据分析能力，优化电商平台营销策略。"
+    "business_note": "苹果、索尼和森海塞尔耳机的音质对品牌形象有显著影响。",
+    "suggested_action": "加强品牌营销，突出耳机音质优势，吸引更多消费者关注。"
   },
-  "lead_summary": "亚马逊与沃尔玛争夺数据市场，竞争加剧或引发价格战，影响整体利润率。",
+  "lead_summary": "苹果、索尼耳机音质提升品牌形象，传统零售受电商冲击，市场竞争加剧，需快速应对新品",
   "headline_trio": [
+    {
+      "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+      "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+      "published_iso": "2026-06-19T12:00:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 11.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Sony",
+          "Sennheiser"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 339,
+      "display_title": "I flew 2,700 miles with Apple, Sony...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "苹果、索尼和森海塞尔耳机的音质对品牌形象有显著影响。",
+      "suggested_action": "加强品牌营销，突出耳机音质优势，吸引更多消费者关注。"
+    },
     {
       "title": "Amazon and Walmart Battle to Become Retail’s Most Powerful Data Broker - PYMNTS.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOanBSLWRjRm1kM3dtWF82N1Y0a3d5QVg2MVhndXZsS3lzcDBTZm12bW9qSVRIVHRBdWk2dkp3eFhITDRvMzgzWjJnTVd6X3lFT0tkOHd4UHBJMHMycHRWb1FjaUdneUtMYTFMYnluV3JQRGtQczMybUF1V2daTm02M084dUQzbnI2UFU3bFM5aVBmZ1h5N1BBUzVmSlg4b1lOVnVqdlZmUWtNTjdPZjBR?oc=5\" target=\"_blank\">Amazon and ",
@@ -742,8 +773,8 @@
       "published_iso": "2026-06-18T18:24:32+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 7.5,
-      "freshness_label": "24h内",
+      "hours_since_published": 28.8,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -752,7 +783,7 @@
         ],
         "categories": []
       },
-      "_score": 342,
+      "_score": 327,
       "display_title": "Amazon and Walmart Battle to Become...",
       "tags": [
         "🛒 渠道零售",
@@ -760,18 +791,18 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊与沃尔玛争夺数据经纪市场，影响电商竞争格局。",
-      "suggested_action": "加强数据分析能力，优化电商平台营销策略。"
+      "business_note": "亚马逊和沃尔玛争夺数据主导地位，将影响电商策略和市场竞争。",
+      "suggested_action": "加强与亚马逊和沃尔玛的合作，优化数据利用策略。"
     },
     {
       "title": "What stores are open on Juneteenth 2026? Walmart, Costco, and more - NJ.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5\" target=\"_blank\">What stores are open ",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5",
-      "published": "Wed, 17 Jun 2026 08:00:00 GMT",
-      "published_iso": "2026-06-17T08:00:00+00:00",
+      "published": "Thu, 18 Jun 2026 15:28:00 GMT",
+      "published_iso": "2026-06-18T15:28:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 41.9,
+      "hours_since_published": 31.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -789,212 +820,185 @@
       ],
       "impact_area": "电商",
       "importance": "中",
-      "business_note": "关注节假日购物趋势，优化电商平台的促销策略。",
-      "suggested_action": "针对Juneteenth制定电商促销活动，提升销量。"
+      "business_note": "在重要节日如Juneteenth，电商渠道需提前布局，抓住消费者购物需求。",
+      "suggested_action": "建议加强与Walmart和Costco的合作，提升节日促销活动的曝光率。"
+    }
+  ],
+  "consumer_electronics": [
+    {
+      "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+      "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+      "published_iso": "2026-06-19T12:00:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 11.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Sony",
+          "Sennheiser"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 339,
+      "display_title": "I flew 2,700 miles with Apple, Sony...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "苹果、索尼和森海塞尔耳机的音质对品牌形象有显著影响。",
+      "suggested_action": "加强品牌营销，突出耳机音质优势，吸引更多消费者关注。"
     },
     {
-      "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE1adlJ2dWZaV3VuNXJiZ0J5M1haNDVPcl9Pc1FuNGpLVkNNRndpbU1UVTFDakdLOEExdUYwUVNwdUd1Ql9wZGpqY3A0UktpRWdWdHkzRURPeHh5SVlPUWVGc1VpYXc0OGFyMlFSbzlSLXhPNzYyTWU1V2dScWxVNGRKSEJBal9seVHSAY8BQVVfeXFMT3pkZ3ZKTzVydjY3eDg3VkV4akhIeWo3VVd3eWM5WGtSY0ZVR0VNR25RY1lVcmt4bmwzdX",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE1adlJ2dWZaV3VuNXJiZ0J5M1haNDVPcl9Pc1FuNGpLVkNNRndpbU1UVTFDakdLOEExdUYwUVNwdUd1Ql9wZGpqY3A0UktpRWdWdHkzRURPeHh5SVlPUWVGc1VpYXc0OGFyMlFSbzlSLXhPNzYyTWU1V2dScWxVNGRKSEJBal9seVHSAY8BQVVfeXFMT3pkZ3ZKTzVydjY3eDg3VkV4akhIeWo3VVd3eWM5WGtSY0ZVR0VNR25RY1lVcmt4bmwzdXU0NmZSYmVUQUhLM3YxYUlIa2Z2MVNyMXdkMnZ1ZWVGTHZNRGc2TEo5VThyWDMwbDlpWjdaUHhlUDYxVkFESTh2S1FhcmhJVkgxTjBIeW9BVUtkRHc?oc=5",
-      "published": "Wed, 17 Jun 2026 14:47:14 GMT",
-      "published_iso": "2026-06-17T14:47:14+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 35.1,
-      "freshness_label": "近3天",
+      "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5",
+      "published": "Fri, 19 Jun 2026 14:08:01 GMT",
+      "published_iso": "2026-06-19T14:08:01+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 9.0,
+      "freshness_label": "24h内",
       "monitor_hits": {
-        "brands": [],
+        "brands": [
+          "Sony"
+        ],
         "channels": [
-          "Amazon",
-          "Walmart",
-          "Target"
+          "Target",
+          "REI"
         ],
         "categories": []
       },
-      "_score": 321,
-      "display_title": "Target, Walmart and Amazon among brands...",
+      "_score": 251,
+      "display_title": "Sony’s ‘Destiny 2’ Obliteration Has...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "LGBTQ+消费者支出下降，影响电商平台销售，需重视品牌形象。",
-      "suggested_action": "加强与LGBTQ+社区的互动，优化品牌营销策略。"
-    }
-  ],
-  "consumer_electronics": [
-    {
-      "title": "Apple releases Beats Studio Buds firmware update with important microphone security fix - 9to5Mac",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlZPVFZOamJ6U2N1NWNCbmNUVXVJeVk5NUVzWlpWUmFUa2dmX0l1M2ZxbnQzTjhOTkx4dXQ2Q3lNTmxDblFJd3ZQbjlGVzdoa3FoMm40V0JESVNTdzhvUER1dElVS3Z0X2NPTmVoand0YUVxMmN6WGxmNGQwTjY0bW9zWldQTlNxYWlodWY3RlNNZTVzVFJUU1c0NU9pakFMemtPNVJlbzk0aDBoRjR3Mi1GaDJjSW9VZURv?oc=5\" target=\"_bl",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlZPVFZOamJ6U2N1NWNCbmNUVXVJeVk5NUVzWlpWUmFUa2dmX0l1M2ZxbnQzTjhOTkx4dXQ2Q3lNTmxDblFJd3ZQbjlGVzdoa3FoMm40V0JESVNTdzhvUER1dElVS3Z0X2NPTmVoand0YUVxMmN6WGxmNGQwTjY0bW9zWldQTlNxYWlodWY3RlNNZTVzVFJUU1c0NU9pakFMemtPNVJlbzk0aDBoRjR3Mi1GaDJjSW9VZURv?oc=5",
-      "published": "Tue, 16 Jun 2026 23:58:00 GMT",
-      "published_iso": "2026-06-16T23:58:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 49.9,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Beats"
-        ],
-        "channels": [
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 216,
-      "display_title": "Apple releases Beats Studio Buds...",
-      "tags": [
-        "🏬 平台电商",
-        "🚀 新品发布"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Apple发布Beats Studio Buds固件更新，修复重要的麦克风安全问题，影响电商销售。",
-      "suggested_action": "加强与Target的合作，确保消费者了解更新的重要性。"
+      "business_note": "Sony在‘Destiny 2’的市场表现异常，需关注电商渠道的销售策略。",
+      "suggested_action": "加强与Target和REI的合作，提升品牌曝光和销售转化。"
     },
     {
-      "title": "The DJI Mini 5 Pro has hit a new record-low price at Amazon — save $50 right now - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5FdUNZU2l3Mzk3VXA3YzcybHNLTUhYLVFIeWQwWF9mN1k2UlBJQTM5MTNVM0RQUFhRQlQ5Vmc5OW44bzJBcE85OEJpUzZOMjc2b2F0b01ZZXZVOE81enJyaXNUYXVSTkNRc3VEVVBpX0Nmdw?oc=5\" target=\"_blank\">The DJI Mini 5 Pro has hit a new record-low price at Amazon — save $50 right now</a>&nbsp;&nb",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FdUNZU2l3Mzk3VXA3YzcybHNLTUhYLVFIeWQwWF9mN1k2UlBJQTM5MTNVM0RQUFhRQlQ5Vmc5OW44bzJBcE85OEJpUzZOMjc2b2F0b01ZZXZVOE81enJyaXNUYXVSTkNRc3VEVVBpX0Nmdw?oc=5",
-      "published": "Thu, 18 Jun 2026 13:46:59 GMT",
-      "published_iso": "2026-06-18T13:46:59+00:00",
-      "source": "Google News - Competitor Watch",
+      "title": "FCC is easing drone rules, but DJI drones are still left grounded",
+      "summary": "FCC carves out a toy-drone loophole that DJI can't squeeze through.",
+      "url": "https://www.androidauthority.com/fcc-eases-drone-import-rules-3679457/",
+      "published": "Fri, 19 Jun 2026 14:21:11 +0000",
+      "published_iso": "2026-06-19T14:21:11+00:00",
+      "source": "Android Authority",
       "bucket": "consumer_electronics",
-      "hours_since_published": 12.1,
+      "hours_since_published": 8.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
           "DJI"
         ],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 209,
+      "display_title": "FCC is easing drone rules, but DJI...",
+      "tags": [
+        "🚁 无人机影像"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "FCC放宽无人机规则，但DJI仍受限，影响品牌营销策略。",
+      "suggested_action": "针对新规制定品牌传播计划，提升市场认知度。"
+    },
+    {
+      "title": "Our favorite early Prime Day 2026 deals and the best of the rest we’ve found so far!",
+      "summary": "We've waded though thousands of Amazon deals to find our favorite Prime Day bargains on phones, wearables, and more.",
+      "url": "https://www.androidauthority.com/best-prime-day-deals-2026-3676073/",
+      "published": "Fri, 19 Jun 2026 17:40:07 +0000",
+      "published_iso": "2026-06-19T17:40:07+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 5.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
         "channels": [
           "Amazon"
         ],
-        "categories": []
-      },
-      "_score": 211,
-      "display_title": "The DJI Mini 5 Pro has hit a new...",
-      "tags": [
-        "🚁 无人机影像",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "DJI Mini 5 Pro在亚马逊降价，有助于提升电商销量。",
-      "suggested_action": "利用降价机会加强品牌营销，吸引更多消费者关注。"
-    },
-    {
-      "title": "The best early Amazon Prime Day deals so far",
-      "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price at Amazon and Walmart (though, the sale keeps playing peek-a-boo). A",
-      "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
-      "published": "2026-06-18T14:54:32-04:00",
-      "published_iso": "2026-06-18T18:54:32+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 7.0,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 207,
-      "display_title": "The best early Amazon Prime Day deals...",
-      "tags": [
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "提前布局亚马逊Prime Day促销，有助于提升电商销售额。",
-      "suggested_action": "制定针对Prime Day的促销策略，优化产品曝光和库存管理。"
-    },
-    {
-      "title": "A year of Walmart Plus is half off ahead of Prime Day",
-      "summary": "Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription for $49, which typically costs $98. The membership includes perks like free delivery on orders over $35, free next-day and t",
-      "url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
-      "published": "2026-06-18T13:33:00-04:00",
-      "published_iso": "2026-06-18T17:33:00+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 8.3,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 207,
-      "display_title": "A year of Walmart Plus is half off...",
-      "tags": [
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Walmart Plus 降价促销将吸引更多消费者，提升电商竞争力。",
-      "suggested_action": "加强品牌营销，突出与 Walmart Plus 的差异化优势。"
-    },
-    {
-      "title": "Samsung’s latest smartwatch shipments paint a sorry picture — while Apple looms",
-      "summary": "Smartwatch shipment figures show big gains for Apple, but poor returns for Samsung's wearables.",
-      "url": "https://www.androidauthority.com/samsung-smartwatch-shipments-3679088/",
-      "published": "Thu, 18 Jun 2026 17:54:34 +0000",
-      "published_iso": "2026-06-18T17:54:34+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 8.0,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
         "categories": [
           "wearable"
         ]
       },
-      "_score": 193,
-      "display_title": "Samsung’s latest smartwatch shipments...",
+      "_score": 203,
+      "display_title": "Our favorite early Prime Day 2026 deals...",
       "tags": [
-        "🏃 运动穿戴"
+        "🏃 运动穿戴",
+        "🏬 平台电商",
+        "💰 价格促销"
       ],
-      "impact_area": "品牌营销",
+      "impact_area": "电商",
       "importance": "高",
-      "business_note": "三星智能手表出货量下滑，需加强品牌营销以应对苹果竞争。",
-      "suggested_action": "优化电商平台宣传，提升三星可穿戴设备的市场认知度。"
+      "business_note": "提前抓住Prime Day促销机会，提升可穿戴设备的销量。",
+      "suggested_action": "加强电商平台的促销策略，优化产品展示和广告投放。"
     },
     {
-      "title": "Bose Is Becoming a Media Company and Launching a Record Label - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHJiY0JPekxUOGpXbW1DdU5MUlRua0xaVV95NzA3TDM1OEJDLURCYlJZRDQ4aG41U01OVjRiT0NCcktZYWhzUnc4NDRWMEhxVkJvaVVNVlpwRnozQzJhQnBmZ2N6TWVoSl81Q3pWVl9sUU1oTnlLTEJKaVk4MDh3VUZ3QzY5STBHQkF1UXpYNl9jSHM?oc=5\" target=\"_blank\">Bose Is Becoming a Media Company and Launching a",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHJiY0JPekxUOGpXbW1DdU5MUlRua0xaVV95NzA3TDM1OEJDLURCYlJZRDQ4aG41U01OVjRiT0NCcktZYWhzUnc4NDRWMEhxVkJvaVVNVlpwRnozQzJhQnBmZ2N6TWVoSl81Q3pWVl9sUU1oTnlLTEJKaVk4MDh3VUZ3QzY5STBHQkF1UXpYNl9jSHM?oc=5",
-      "published": "Wed, 17 Jun 2026 10:26:00 GMT",
-      "published_iso": "2026-06-17T10:26:00+00:00",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "published": "2026-06-19T10:15:29-04:00",
+      "published_iso": "2026-06-19T14:15:29+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 8.9,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "REI"
+        ],
+        "categories": []
+      },
+      "_score": 199,
+      "display_title": "The film about Sam Altman has been...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "中",
+      "business_note": "亚马逊MGM放弃关于Sam Altman的电影，可能影响品牌形象。",
+      "suggested_action": "加强电商平台的品牌营销，提升用户对品牌的认知度。"
+    },
+    {
+      "title": "JLAB Daybreak Gaming Headset Review - Comics Gaming Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9ybndNb1VPclBUN0tNTjVFOGx2SEFiNjlXZVNGQ2VpSFNqNFI0dHRrUEdZNVpjOHNvMnA4bjdzRGlSRlRldHVlNGZseUxvakZXMFllNTlQcEhFdDBqNkxNMHQ4YTFNRURIeVRaaGZDVzhQU0d4Uzg2NDRQN3RNQQ?oc=5\" target=\"_blank\">JLAB Daybreak Gaming Headset Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Comi",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ybndNb1VPclBUN0tNTjVFOGx2SEFiNjlXZVNGQ2VpSFNqNFI0dHRrUEdZNVpjOHNvMnA4bjdzRGlSRlRldHVlNGZseUxvakZXMFllNTlQcEhFdDBqNkxNMHQ4YTFNRURIeVRaaGZDVzhQU0d4Uzg2NDRQN3RNQQ?oc=5",
+      "published": "Fri, 19 Jun 2026 11:00:00 GMT",
+      "published_iso": "2026-06-19T11:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 39.4,
-      "freshness_label": "近3天",
+      "hours_since_published": 12.2,
+      "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
-          "Bose"
+          "JLab"
         ],
         "channels": [],
         "categories": []
       },
-      "_score": 182,
-      "display_title": "Bose Is Becoming a Media Company and...",
+      "_score": 189,
+      "display_title": "JLAB Daybreak Gaming Headset Review...",
       "tags": [
-        "🚀 新品发布"
+        "📱 消费电子"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Bose转型为媒体公司，推出唱片公司，拓展品牌影响力。",
-      "suggested_action": "加强与Bose的合作，提升电商平台的品牌宣传力度。"
+      "business_note": "JLab Daybreak Gaming Headset的评测提升品牌知名度，有助于吸引更多游戏玩家。",
+      "suggested_action": "加强电商平台的推广，利用评测提升销量。"
     }
   ],
   "channel_news": [
@@ -1006,8 +1010,8 @@
       "published_iso": "2026-06-18T18:24:32+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 7.5,
-      "freshness_label": "24h内",
+      "hours_since_published": 28.8,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1016,7 +1020,7 @@
         ],
         "categories": []
       },
-      "_score": 342,
+      "_score": 327,
       "display_title": "Amazon and Walmart Battle to Become...",
       "tags": [
         "🛒 渠道零售",
@@ -1024,18 +1028,18 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊与沃尔玛争夺数据经纪市场，影响电商竞争格局。",
-      "suggested_action": "加强数据分析能力，优化电商平台营销策略。"
+      "business_note": "亚马逊和沃尔玛争夺数据主导地位，将影响电商策略和市场竞争。",
+      "suggested_action": "加强与亚马逊和沃尔玛的合作，优化数据利用策略。"
     },
     {
       "title": "What stores are open on Juneteenth 2026? Walmart, Costco, and more - NJ.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5\" target=\"_blank\">What stores are open ",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5",
-      "published": "Wed, 17 Jun 2026 08:00:00 GMT",
-      "published_iso": "2026-06-17T08:00:00+00:00",
+      "published": "Thu, 18 Jun 2026 15:28:00 GMT",
+      "published_iso": "2026-06-18T15:28:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 41.9,
+      "hours_since_published": 31.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1053,8 +1057,8 @@
       ],
       "impact_area": "电商",
       "importance": "中",
-      "business_note": "关注节假日购物趋势，优化电商平台的促销策略。",
-      "suggested_action": "针对Juneteenth制定电商促销活动，提升销量。"
+      "business_note": "在重要节日如Juneteenth，电商渠道需提前布局，抓住消费者购物需求。",
+      "suggested_action": "建议加强与Walmart和Costco的合作，提升节日促销活动的曝光率。"
     },
     {
       "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
@@ -1064,7 +1068,7 @@
       "published_iso": "2026-06-17T14:47:14+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 35.1,
+      "hours_since_published": 56.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1084,7 +1088,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "LGBTQ+消费者支出下降，影响电商平台销售，需重视品牌形象。",
-      "suggested_action": "加强与LGBTQ+社区的互动，优化品牌营销策略。"
+      "suggested_action": "加强与LGBTQ+社区的互动，调整营销策略以恢复消费者信任。"
     },
     {
       "title": "Best Buy closes store after 32 years, opening new Aurora location - KUSA.com",
@@ -1094,7 +1098,7 @@
       "published_iso": "2026-06-15T12:39:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 85.2,
+      "hours_since_published": 106.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1113,77 +1117,18 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Best Buy关闭老店并开设新店，影响电商渠道销售策略。",
-      "suggested_action": "加强与Best Buy的电商合作，提升线上品牌曝光。"
+      "suggested_action": "加强电商平台的促销活动，吸引新客户。"
     },
     {
-      "title": "The Supply Side: Walmart tests dark store in Fayetteville for speedy delivery - Talk Business & Politics",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVhJNEM3XzU0WTBRNUJtaUVJLVVzN2ZuTl9lc1p6Tm1LZDZhUDNyQlRhcjR2al9uYXEyM1NidHZ4a29neVdUVzV4eFZYSGY1X1puSGdMdC1XWnR2di1YVy1SR0pIRlY0Q09na2RCWWIzUHFFVnJhN3phZ2dPVGs1WjhkRVVfbHhJMVdtaFRLc1V5U1JXd2xUTGlQUUFvVFo1QzFWT2hxTk5wb181TG5R?oc=5\" target=\"_blank\">The Supply ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVhJNEM3XzU0WTBRNUJtaUVJLVVzN2ZuTl9lc1p6Tm1LZDZhUDNyQlRhcjR2al9uYXEyM1NidHZ4a29neVdUVzV4eFZYSGY1X1puSGdMdC1XWnR2di1YVy1SR0pIRlY0Q09na2RCWWIzUHFFVnJhN3phZ2dPVGs1WjhkRVVfbHhJMVdtaFRLc1V5U1JXd2xUTGlQUUFvVFo1QzFWT2hxTk5wb181TG5R?oc=5",
-      "published": "Thu, 18 Jun 2026 20:27:42 GMT",
-      "published_iso": "2026-06-18T20:27:42+00:00",
+      "title": "Walmart makes major move to lure customers from Amazon Prime Day - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2VVdE40RmdUYVlXdzhpWmFwSHg4UGhjUjl1RUVTTW9xYi1FV0dpRVBvSlpmRnJZUWItZUhUMlZ6dFpPQnJVdXlNY1VfRm15aXBOZWl3WDRZN1A0RWZYZFFBRWlSRDZtTTRKTUtaZUtIRmV3bzVnZTRQUldTLTV5UXZyNmtJUTBnbXVUc1J2ck1RSGlvWHdV?oc=5\" target=\"_blank\">Walmart makes major move to lure customers ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2VVdE40RmdUYVlXdzhpWmFwSHg4UGhjUjl1RUVTTW9xYi1FV0dpRVBvSlpmRnJZUWItZUhUMlZ6dFpPQnJVdXlNY1VfRm15aXBOZWl3WDRZN1A0RWZYZFFBRWlSRDZtTTRKTUtaZUtIRmV3bzVnZTRQUldTLTV5UXZyNmtJUTBnbXVUc1J2ck1RSGlvWHdV?oc=5",
+      "published": "Sat, 13 Jun 2026 15:08:04 GMT",
+      "published_iso": "2026-06-13T15:08:04+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 5.4,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 288,
-      "display_title": "The Supply Side: Walmart tests dark...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "沃尔玛测试暗店以提升配送速度，可能影响电商市场竞争格局。",
-      "suggested_action": "建议加强与沃尔玛的合作，优化电商配送策略。"
-    },
-    {
-      "title": "This Grocery Chain Is Even Cheaper Than Costco and Sam's Club When Buying Prime Beef - Allrecipes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVDhtdFU1dWRkcGJpQ3Y2QmxZQ1ZDc21FaXlUWFI0eG04QnU5YUFmZm0wNUdkWEstOXozSzBnMGlGWTBaU0FBaGd5ZTluNFdpR3pNWEZUYlF2d1R6TnVDY21JZF8yY19nM0FjUnlJS01UekhhUFE?oc=5\" target=\"_blank\">This Grocery Chain Is Even Cheaper Than Costco and Sam's Club When Buying Prime Beef</a>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVDhtdFU1dWRkcGJpQ3Y2QmxZQ1ZDc21FaXlUWFI0eG04QnU5YUFmZm0wNUdkWEstOXozSzBnMGlGWTBaU0FBaGd5ZTluNFdpR3pNWEZUYlF2d1R6TnVDY21JZF8yY19nM0FjUnlJS01UekhhUFE?oc=5",
-      "published": "Sat, 13 Jun 2026 15:00:00 GMT",
-      "published_iso": "2026-06-13T15:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 130.9,
+      "hours_since_published": 152.0,
       "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Costco",
-          "Sam's Club"
-        ],
-        "categories": []
-      },
-      "_score": 274,
-      "display_title": "This Grocery Chain Is Even Cheaper Than...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "该杂货连锁店在购买优质牛肉时价格低于Costco和Sam's Club，影响电商竞争力。",
-      "suggested_action": "考虑调整电商定价策略，提升优质肉类产品的市场竞争力。"
-    }
-  ],
-  "products": [
-    {
-      "name": "A year of Walmart Plus is half off ahead of Prime Day",
-      "summary": "Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription for $49, which typically costs $98. The membership includes perk",
-      "date": "2026-06-18T13:33:00-04:00",
-      "published_iso": "2026-06-18T17:33:00+00:00",
-      "url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
-      "source": "The Verge",
-      "_score": 107,
-      "hours_since_published": 8.3,
-      "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1192,28 +1137,88 @@
         ],
         "categories": []
       },
-      "display_title": "A year of Walmart Plus is half off...",
-      "display_summary": "沃尔玛现推出一年49美元的Walmart Plus订阅，原价98美元，会员享多项优惠，适合寻",
+      "_score": 282,
+      "display_title": "Walmart makes major move to lure...",
       "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Walmart通过重大举措吸引客户，直接挑战Amazon Prime Day，影响电商市场竞争格局。",
+      "suggested_action": "加强电商平台促销活动，提升品牌曝光，争取更多客户。"
+    },
+    {
+      "title": "The Supply Side: Walmart tests dark store in Fayetteville for speedy delivery - Talk Business & Politics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVhJNEM3XzU0WTBRNUJtaUVJLVVzN2ZuTl9lc1p6Tm1LZDZhUDNyQlRhcjR2al9uYXEyM1NidHZ4a29neVdUVzV4eFZYSGY1X1puSGdMdC1XWnR2di1YVy1SR0pIRlY0Q09na2RCWWIzUHFFVnJhN3phZ2dPVGs1WjhkRVVfbHhJMVdtaFRLc1V5U1JXd2xUTGlQUUFvVFo1QzFWT2hxTk5wb181TG5R?oc=5\" target=\"_blank\">The Supply ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVhJNEM3XzU0WTBRNUJtaUVJLVVzN2ZuTl9lc1p6Tm1LZDZhUDNyQlRhcjR2al9uYXEyM1NidHZ4a29neVdUVzV4eFZYSGY1X1puSGdMdC1XWnR2di1YVy1SR0pIRlY0Q09na2RCWWIzUHFFVnJhN3phZ2dPVGs1WjhkRVVfbHhJMVdtaFRLc1V5U1JXd2xUTGlQUUFvVFo1QzFWT2hxTk5wb181TG5R?oc=5",
+      "published": "Thu, 18 Jun 2026 23:04:22 GMT",
+      "published_iso": "2026-06-18T23:04:22+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 24.1,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 273,
+      "display_title": "The Supply Side: Walmart tests dark...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "沃尔玛在费耶特维尔测试暗店以提升配送速度，影响电商业务。",
+      "suggested_action": "建议加强与沃尔玛的合作，优化电商配送策略。"
+    }
+  ],
+  "products": [
+    {
+      "name": "The film about Sam Altman has been dropped by Amazon MGM",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in ",
+      "date": "2026-06-19T10:15:29-04:00",
+      "published_iso": "2026-06-19T14:15:29+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "source": "The Verge",
+      "_score": 99,
+      "hours_since_published": 8.9,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "REI"
+        ],
+        "categories": []
+      },
+      "display_title": "The film about Sam Altman has been...",
+      "display_summary": "亚马逊MGM已决定放弃Luca Guadagnino执导的关于OpenAI CEO Sam ",
+      "tags": [
+        "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "沃尔玛现推出一年49美元的Walmart。",
-      "importance": "高",
-      "business_note": "Walmart Plus 降价促销将吸引更多消费者，提升电商竞争力。",
-      "suggested_action": "加强品牌营销，突出与 Walmart Plus 的差异化优势。"
+      "product_intro": "亚马逊MGM已决定放弃Luca Guadagnino执导的关于OpenAI。",
+      "importance": "中",
+      "business_note": "亚马逊MGM放弃关于Sam Altman的电影，可能影响品牌形象。",
+      "suggested_action": "加强电商平台的品牌营销，提升用户对品牌的认知。"
     },
     {
-      "name": "Sennheiser debuts open-ear Accentum Clip earbuds with nine hours of battery life",
-      "summary": "Sennheiser joins the open-ear earbud craze with its first clip-on design.",
+      "name": "Sennheiser Debuts Open-Ear Accentum Clip Earbuds With Nine Hours Of Battery Life - Engadget",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFIxSUJUbjRDd3g0YUtrSVRSdmQ2VEZIMmd5d2U3Rm1YSGRkQmdPUFJfQVE1SVpUTnJSU1U3WW1GUF9lVFgzSFkzaThvTlFQcmFTdmY1ZU1WNEFjY1BXYmJEOUxINDhRTi1MTklkWTQyazlOSGVESnJ4dGJ6WXNWTUVKeEtEY2N1c3g0MjFwbE1uUnk0UFNOU25NYk",
       "date": "Thu, 18 Jun 2026 10:00:00",
       "published_iso": "2026-06-18T10:00:00+00:00",
-      "url": "https://www.engadget.com/2196333/sennheiser-debuts-open-ear-accentum-clip-earbuds-with-nine-hours-of-battery-life/",
-      "source": "Engadget",
-      "_score": 105,
-      "hours_since_published": 15.9,
-      "freshness_label": "24h内",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFIxSUJUbjRDd3g0YUtrSVRSdmQ2VEZIMmd5d2U3Rm1YSGRkQmdPUFJfQVE1SVpUTnJSU1U3WW1GUF9lVFgzSFkzaThvTlFQcmFTdmY1ZU1WNEFjY1BXYmJEOUxINDhRTi1MTklkWTQyazlOSGVESnJ4dGJ6WXNWTUVKeEtEY2N1c3g0MjFwbE1uUnk0UFNOU25NYk9YbmpUOFlhSHhUbXVJRXMtNF9iMmRoZjg?oc=5",
+      "source": "Google News - Competitor Watch",
+      "_score": 90,
+      "hours_since_published": 37.2,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Sennheiser"
@@ -1224,28 +1229,28 @@
           "earbuds"
         ]
       },
-      "display_title": "Sennheiser debuts open-ear Accentum...",
-      "display_summary": "森海塞尔推出首款夹式开放耳耳塞，加入开放耳耳塞市场。",
+      "display_title": "Sennheiser Debuts Open-Ear Accentum...",
+      "display_summary": "某消费电子公司发布新产品，聚焦智能家居市场，预计将提升市场份额并推动销售增长。",
       "tags": [
         "🎧 耳机音频",
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "森海塞尔推出首款夹式开放耳耳塞，加入开放耳耳塞市场。",
+      "product_intro": "某消费电子公司发布新产品，聚焦智能家居市场，预计将提升市场份额并推动销售增长。",
       "importance": "中",
-      "business_note": "Sennheiser推出开放式耳塞，拓展品牌在耳机市场的影响力。",
-      "suggested_action": "加强品牌营销，突出耳机的独特设计和电池续航优势。"
+      "business_note": "Sennheiser推出新款开放式耳塞，提升品牌在电商市场的竞争力。",
+      "suggested_action": "加强电商平台的品牌宣传，提升产品曝光率。"
     },
     {
-      "name": "The best early Amazon Prime Day deals so far",
-      "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price at Amazo",
-      "date": "2026-06-18T14:54:32-04:00",
-      "published_iso": "2026-06-18T18:54:32+00:00",
-      "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+      "name": "Kaleidescape’s movie player blows streaming, and your wallet, away",
+      "summary": "We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingertips, there's no need to run to Blockbuster for the weekend's ent",
+      "date": "2026-06-19T08:00:00-04:00",
+      "published_iso": "2026-06-19T12:00:00+00:00",
+      "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 7.0,
+      "hours_since_published": 11.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1254,108 +1259,105 @@
         ],
         "categories": []
       },
-      "display_title": "The best early Amazon Prime Day deals...",
-      "display_summary": "亚马逊提前推出的Prime Day将于6月23日开始，目前已有多款热销产品特惠，苹果AirP",
-      "tags": [
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "judgement_label": "价格促销",
-      "product_intro": "亚马逊提前推出的Prime。",
-      "importance": "高",
-      "business_note": "提前布局亚马逊Prime Day促销，有助于提升电商销售额。",
-      "suggested_action": "制定针对Prime Day的电商营销策略，抢占市场先机。"
-    },
-    {
-      "name": "Amazon employees say they’re facing termination for backing data center limits",
-      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employ",
-      "date": "2026-06-18T12:00:00-04:00",
-      "published_iso": "2026-06-18T16:00:00+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "source": "The Verge",
-      "_score": 75,
-      "hours_since_published": 9.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": []
-      },
-      "display_title": "Amazon employees say they’re facing...",
-      "display_summary": "亚马逊三名软件工程师在西雅图市议会听证会上指控公司违反禁止政治言论就业歧视的法律。",
+      "display_title": "Kaleidescape’s movie player blows...",
+      "display_summary": "过去15年，Netflix、亚马逊、迪士尼和苹果等平台让我们相信流媒体是家庭观看电影和节目的",
       "tags": [
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "亚马逊三名软件工程师在西雅图市议会听证会上指控公司违反禁止政治言论就业歧视的法律。",
+      "product_intro": "过去15年，Netflix、亚马逊、迪士尼和苹果等平台让我们相信流媒体是家。",
       "importance": "高",
-      "business_note": "亚马逊员工因支持数据中心限制面临解雇，可能影响电商业务稳定性。",
-      "suggested_action": "加强与亚马逊的沟通，确保品牌形象不受影响。"
+      "business_note": "Kaleidescape的电影播放器在电商市场中具备强大竞争力，需关注其对消费者购买习惯的影响。",
+      "suggested_action": "加强电商平台的品牌宣传，突出Kaleidescape的独特价值。"
     },
     {
-      "name": "This robotic self-driving toilet comes to you",
-      "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaob",
-      "date": "2026-06-18T14:08:17-04:00",
-      "published_iso": "2026-06-18T18:08:17+00:00",
-      "url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+      "name": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+      "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecra",
+      "date": "2026-06-19T14:41:48-04:00",
+      "published_iso": "2026-06-19T18:41:48+00:00",
+      "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
       "source": "The Verge",
-      "_score": 45,
-      "hours_since_published": 7.7,
+      "_score": 43,
+      "hours_since_published": 4.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "This robotic self-driving toilet comes...",
-      "display_summary": "在上海养老护理展会上，粤班公司推出了一款智能马桶，具备自主移动功能，首次实现“马桶来找你”。",
+      "display_title": "NASA selects Eric Schmidt&#8217;s...",
+      "display_summary": "Relativity Space获选于2028年为NASA发射Aeolus载荷，合作模式为公",
       "tags": [
         "🚀 新品发布"
       ],
-      "impact_area": "品牌营销",
+      "impact_area": "渠道销售",
       "judgement_label": "新品发布",
-      "product_intro": "在上海养老护理展会上，粤班公司推出了一款智能马桶，具备自主移动功能，首次实。",
+      "product_intro": "Relativity。",
       "importance": "中",
-      "business_note": "智能马桶的创新设计可能吸引关注，但市场需求尚需验证。",
-      "suggested_action": "考虑在电商平台上进行市场调研，评估消费者兴趣。"
+      "business_note": "NASA选择Relativity Space进行火星任务，展示了私营企业在航天领域的潜力。",
+      "suggested_action": "关注航天领域的品牌合作机会，探索电商渠道的拓展。"
     },
     {
-      "name": "You can now use the Game Boy Camera with your phone",
-      "summary": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy Ca",
-      "date": "2026-06-18T16:22:46-04:00",
-      "published_iso": "2026-06-18T20:22:46+00:00",
-      "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+      "name": "Our long national sunscreen nightmare is almost over",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On TikTok, the tanned youths are explaining ",
+      "date": "2026-06-19T10:00:00-04:00",
+      "published_iso": "2026-06-19T14:00:00+00:00",
+      "url": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.5,
+      "hours_since_published": 9.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "You can now use the Game Boy Camera...",
-      "display_summary": "$50 GB Operator配件新增功能，支持在PC等设备上连接、播放和认证Game Bo",
+      "display_title": "Our long national sunscreen nightmare...",
+      "display_summary": "《Optimizer》是Verge资深评测师Victoria Song每周发布的通讯，深入解",
       "tags": [
-        "🚁 无人机影像"
+        "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "$50 GB。",
+      "product_intro": "《Optimizer》是Verge资深评测师Victoria。",
       "importance": "中",
-      "business_note": "Game Boy Camera的新功能可吸引复古游戏爱好者，提升品牌影响力。",
-      "suggested_action": "通过社交媒体和电商平台推广新功能，吸引目标用户。"
+      "business_note": "随着消费者对防晒产品的关注增加，品牌需加强市场营销以提升认知度。",
+      "suggested_action": "建议通过社交媒体推广防晒产品，吸引年轻消费者关注。"
+    },
+    {
+      "name": "Barret Zoph is out at OpenAI again after just five months",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company ",
+      "date": "2026-06-19T00:49:33-04:00",
+      "published_iso": "2026-06-19T04:49:33+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 18.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Barret Zoph is out at OpenAI again...",
+      "display_summary": "OpenAI企业AI销售负责人Barret Zoph在回归五个月后离职，此前他曾担任竞争对手",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "价格促销",
+      "product_intro": "OpenAI企业AI销售负责人Barret。",
+      "importance": "高",
+      "business_note": "Barret Zoph的离职可能影响OpenAI的品牌形象和市场信心。",
+      "suggested_action": "加强品牌营销策略，提升市场对OpenAI的信任和认知。"
     }
   ],
   "monitored_entities": [
     {
       "name": "Amazon",
       "type": "渠道",
-      "count": 10,
+      "count": 7,
       "items": [
         {
           "title": "Amazon and Walmart Battle to Become Retail’s Most Powerful Data Broker - PYMNTS.com",
@@ -1365,8 +1367,8 @@
           "published_iso": "2026-06-18T18:24:32+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 7.5,
-          "freshness_label": "24h内",
+          "hours_since_published": 28.8,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1375,7 +1377,7 @@
             ],
             "categories": []
           },
-          "_score": 342,
+          "_score": 327,
           "display_title": "Amazon and Walmart Battle to Become...",
           "tags": [
             "🛒 渠道零售",
@@ -1383,8 +1385,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊与沃尔玛争夺数据经纪市场，影响电商竞争格局。",
-          "suggested_action": "加强数据分析能力，优化电商平台营销策略。"
+          "business_note": "亚马逊和沃尔玛争夺数据主导地位，将影响电商策略和市场竞争。",
+          "suggested_action": "加强与亚马逊和沃尔玛的合作，优化数据利用策略。"
         },
         {
           "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
@@ -1394,7 +1396,7 @@
           "published_iso": "2026-06-17T14:47:14+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 35.1,
+          "hours_since_published": 56.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1414,14 +1416,14 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "LGBTQ+消费者支出下降，影响电商平台销售，需重视品牌形象。",
-          "suggested_action": "加强与LGBTQ+社区的互动，优化品牌营销策略。"
+          "suggested_action": "加强与LGBTQ+社区的互动，调整营销策略以恢复消费者信任。"
         }
       ]
     },
     {
       "name": "Walmart",
       "type": "渠道",
-      "count": 7,
+      "count": 5,
       "items": [
         {
           "title": "Amazon and Walmart Battle to Become Retail’s Most Powerful Data Broker - PYMNTS.com",
@@ -1431,8 +1433,8 @@
           "published_iso": "2026-06-18T18:24:32+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 7.5,
-          "freshness_label": "24h内",
+          "hours_since_published": 28.8,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1441,7 +1443,7 @@
             ],
             "categories": []
           },
-          "_score": 342,
+          "_score": 327,
           "display_title": "Amazon and Walmart Battle to Become...",
           "tags": [
             "🛒 渠道零售",
@@ -1449,18 +1451,18 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊与沃尔玛争夺数据经纪市场，影响电商竞争格局。",
-          "suggested_action": "加强数据分析能力，优化电商平台营销策略。"
+          "business_note": "亚马逊和沃尔玛争夺数据主导地位，将影响电商策略和市场竞争。",
+          "suggested_action": "加强与亚马逊和沃尔玛的合作，优化数据利用策略。"
         },
         {
           "title": "What stores are open on Juneteenth 2026? Walmart, Costco, and more - NJ.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5\" target=\"_blank\">What stores are open ",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5",
-          "published": "Wed, 17 Jun 2026 08:00:00 GMT",
-          "published_iso": "2026-06-17T08:00:00+00:00",
+          "published": "Thu, 18 Jun 2026 15:28:00 GMT",
+          "published_iso": "2026-06-18T15:28:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 41.9,
+          "hours_since_published": 31.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1478,15 +1480,15 @@
           ],
           "impact_area": "电商",
           "importance": "中",
-          "business_note": "关注节假日购物趋势，优化电商平台的促销策略。",
-          "suggested_action": "针对Juneteenth制定电商促销活动，提升销量。"
+          "business_note": "在重要节日如Juneteenth，电商渠道需提前布局，抓住消费者购物需求。",
+          "suggested_action": "建议加强与Walmart和Costco的合作，提升节日促销活动的曝光率。"
         }
       ]
     },
     {
       "name": "Target",
       "type": "渠道",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "Target, Walmart and Amazon among brands losing LGBTQ+ consumer spending, new survey says - CNBC",
@@ -1496,7 +1498,7 @@
           "published_iso": "2026-06-17T14:47:14+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 35.1,
+          "hours_since_published": 56.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1516,7 +1518,7 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "LGBTQ+消费者支出下降，影响电商平台销售，需重视品牌形象。",
-          "suggested_action": "加强与LGBTQ+社区的互动，优化品牌营销策略。"
+          "suggested_action": "加强与LGBTQ+社区的互动，调整营销策略以恢复消费者信任。"
         },
         {
           "title": "Best Buy closes store after 32 years, opening new Aurora location - KUSA.com",
@@ -1526,7 +1528,7 @@
           "published_iso": "2026-06-15T12:39:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 85.2,
+          "hours_since_published": 106.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1545,7 +1547,74 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Best Buy关闭老店并开设新店，影响电商渠道销售策略。",
-          "suggested_action": "加强与Best Buy的电商合作，提升线上品牌曝光。"
+          "suggested_action": "加强电商平台的促销活动，吸引新客户。"
+        }
+      ]
+    },
+    {
+      "name": "REI",
+      "type": "渠道",
+      "count": 3,
+      "items": [
+        {
+          "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry - Forbes",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5",
+          "published": "Fri, 19 Jun 2026 14:08:01 GMT",
+          "published_iso": "2026-06-19T14:08:01+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 9.0,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
+            ],
+            "channels": [
+              "Target",
+              "REI"
+            ],
+            "categories": []
+          },
+          "_score": 251,
+          "display_title": "Sony’s ‘Destiny 2’ Obliteration Has...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Sony在‘Destiny 2’的市场表现异常，需关注电商渠道的销售策略。",
+          "suggested_action": "加强与Target和REI的合作，提升品牌曝光和销售转化。"
+        },
+        {
+          "title": "The film about Sam Altman has been dropped by Amazon MGM",
+          "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complet",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+          "published": "2026-06-19T10:15:29-04:00",
+          "published_iso": "2026-06-19T14:15:29+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 8.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "REI"
+            ],
+            "categories": []
+          },
+          "_score": 199,
+          "display_title": "The film about Sam Altman has been...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "中",
+          "business_note": "亚马逊MGM放弃关于Sam Altman的电影，可能影响品牌形象。",
+          "suggested_action": "加强电商平台的品牌营销，提升用户对品牌的认知度。"
         }
       ]
     },
@@ -1562,7 +1631,7 @@
           "published_iso": "2026-06-15T12:39:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 85.2,
+          "hours_since_published": 106.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1581,17 +1650,17 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Best Buy关闭老店并开设新店，影响电商渠道销售策略。",
-          "suggested_action": "加强与Best Buy的电商合作，提升线上品牌曝光。"
+          "suggested_action": "加强电商平台的促销活动，吸引新客户。"
         },
         {
           "title": "Beats headphones up to $220 off at Best Buy right now, buds from $50 - 9to5Toys",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1VaE5MRDE1T0dXTXpfWUFBUG03V1duWUxuNUNOSW4wT2ZOaGF4SnduSmI3LWhseFNvakFDM3EtLWR4TmtqN0VtQXVPRGRtSTREeG5tMm0tTHN3TVBPZ19jRDV1UVVWQWFub1ZjWTlULVhXQkVz?oc=5\" target=\"_blank\">Beats headphones up to $220 off at Best Buy right now, buds from $50</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VaE5MRDE1T0dXTXpfWUFBUG03V1duWUxuNUNOSW4wT2ZOaGF4SnduSmI3LWhseFNvakFDM3EtLWR4TmtqN0VtQXVPRGRtSTREeG5tMm0tTHN3TVBPZ19jRDV1UVVWQWFub1ZjWTlULVhXQkVz?oc=5",
-          "published": "Tue, 16 Jun 2026 20:21:00 GMT",
-          "published_iso": "2026-06-16T20:21:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ad2FOLUQ4MGQtbWpONl9sY0JQOTlDYVczYTVzYVpKLXpXTWVGbWdRSlplNnR3NXpTeElfelVJTDJDUkRqYURtUFBWMThYaXp4U0lVeW02SmFuU1FaWTdNVVdiclhTcmJSd3hoNnBxRTl0ZG5m?oc=5\" target=\"_blank\">Beats headphones up to $220 off at Best Buy right now, buds from $50</a>&nbsp;&nbsp;<font c",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ad2FOLUQ4MGQtbWpONl9sY0JQOTlDYVczYTVzYVpKLXpXTWVGbWdRSlplNnR3NXpTeElfelVJTDJDUkRqYURtUFBWMThYaXp4U0lVeW02SmFuU1FaWTdNVVdiclhTcmJSd3hoNnBxRTl0ZG5m?oc=5",
+          "published": "Thu, 18 Jun 2026 12:32:00 GMT",
+          "published_iso": "2026-06-18T12:32:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 53.5,
+          "hours_since_published": 34.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1616,213 +1685,117 @@
       ]
     },
     {
-      "name": "Costco",
-      "type": "渠道",
-      "count": 2,
-      "items": [
-        {
-          "title": "What stores are open on Juneteenth 2026? Walmart, Costco, and more - NJ.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5\" target=\"_blank\">What stores are open ",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjZZY0dKd1ZGZHFxb1NWZmVvTEY5WFpteW1xa29maW1MR0RJMGhOVFZoSXFuT3h1dDN2WklLaWQxVW1jOWpBenZkd0R3NWg2d3VZMGVCcG5xbHFhMnVEbUtWcklialFidDRtS2t1RlBhNjRHOXFCXzBoTVdvSWVnM21nUjlxVFpmTzJUaDYwUXk3MTlwazVlN2M2bTFzeGZLTVQ2eS1vMA?oc=5",
-          "published": "Wed, 17 Jun 2026 08:00:00 GMT",
-          "published_iso": "2026-06-17T08:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 41.9,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 327,
-          "display_title": "What stores are open on Juneteenth...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "中",
-          "business_note": "关注节假日购物趋势，优化电商平台的促销策略。",
-          "suggested_action": "针对Juneteenth制定电商促销活动，提升销量。"
-        },
-        {
-          "title": "This Grocery Chain Is Even Cheaper Than Costco and Sam's Club When Buying Prime Beef - Allrecipes",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVDhtdFU1dWRkcGJpQ3Y2QmxZQ1ZDc21FaXlUWFI0eG04QnU5YUFmZm0wNUdkWEstOXozSzBnMGlGWTBaU0FBaGd5ZTluNFdpR3pNWEZUYlF2d1R6TnVDY21JZF8yY19nM0FjUnlJS01UekhhUFE?oc=5\" target=\"_blank\">This Grocery Chain Is Even Cheaper Than Costco and Sam's Club When Buying Prime Beef</a>",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVDhtdFU1dWRkcGJpQ3Y2QmxZQ1ZDc21FaXlUWFI0eG04QnU5YUFmZm0wNUdkWEstOXozSzBnMGlGWTBaU0FBaGd5ZTluNFdpR3pNWEZUYlF2d1R6TnVDY21JZF8yY19nM0FjUnlJS01UekhhUFE?oc=5",
-          "published": "Sat, 13 Jun 2026 15:00:00 GMT",
-          "published_iso": "2026-06-13T15:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 130.9,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Costco",
-              "Sam's Club"
-            ],
-            "categories": []
-          },
-          "_score": 274,
-          "display_title": "This Grocery Chain Is Even Cheaper Than...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "该杂货连锁店在购买优质牛肉时价格低于Costco和Sam's Club，影响电商竞争力。",
-          "suggested_action": "考虑调整电商定价策略，提升优质肉类产品的市场竞争力。"
-        }
-      ]
-    },
-    {
-      "name": "Beats",
+      "name": "Sony",
       "type": "品牌",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Beats headphones up to $220 off at Best Buy right now, buds from $50 - 9to5Toys",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1VaE5MRDE1T0dXTXpfWUFBUG03V1duWUxuNUNOSW4wT2ZOaGF4SnduSmI3LWhseFNvakFDM3EtLWR4TmtqN0VtQXVPRGRtSTREeG5tMm0tTHN3TVBPZ19jRDV1UVVWQWFub1ZjWTlULVhXQkVz?oc=5\" target=\"_blank\">Beats headphones up to $220 off at Best Buy right now, buds from $50</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VaE5MRDE1T0dXTXpfWUFBUG03V1duWUxuNUNOSW4wT2ZOaGF4SnduSmI3LWhseFNvakFDM3EtLWR4TmtqN0VtQXVPRGRtSTREeG5tMm0tTHN3TVBPZ19jRDV1UVVWQWFub1ZjWTlULVhXQkVz?oc=5",
-          "published": "Tue, 16 Jun 2026 20:21:00 GMT",
-          "published_iso": "2026-06-16T20:21:00+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 53.5,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Beats"
-            ],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 257,
-          "display_title": "Beats headphones up to $220 off at Best...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        },
-        {
-          "title": "Apple releases Beats Studio Buds firmware update with important microphone security fix - 9to5Mac",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlZPVFZOamJ6U2N1NWNCbmNUVXVJeVk5NUVzWlpWUmFUa2dmX0l1M2ZxbnQzTjhOTkx4dXQ2Q3lNTmxDblFJd3ZQbjlGVzdoa3FoMm40V0JESVNTdzhvUER1dElVS3Z0X2NPTmVoand0YUVxMmN6WGxmNGQwTjY0bW9zWldQTlNxYWlodWY3RlNNZTVzVFJUU1c0NU9pakFMemtPNVJlbzk0aDBoRjR3Mi1GaDJjSW9VZURv?oc=5\" target=\"_bl",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlZPVFZOamJ6U2N1NWNCbmNUVXVJeVk5NUVzWlpWUmFUa2dmX0l1M2ZxbnQzTjhOTkx4dXQ2Q3lNTmxDblFJd3ZQbjlGVzdoa3FoMm40V0JESVNTdzhvUER1dElVS3Z0X2NPTmVoand0YUVxMmN6WGxmNGQwTjY0bW9zWldQTlNxYWlodWY3RlNNZTVzVFJUU1c0NU9pakFMemtPNVJlbzk0aDBoRjR3Mi1GaDJjSW9VZURv?oc=5",
-          "published": "Tue, 16 Jun 2026 23:58:00 GMT",
-          "published_iso": "2026-06-16T23:58:00+00:00",
+          "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+          "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+          "published_iso": "2026-06-19T12:00:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 49.9,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Beats"
-            ],
-            "channels": [
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 216,
-          "display_title": "Apple releases Beats Studio Buds...",
-          "tags": [
-            "🏬 平台电商",
-            "🚀 新品发布"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Apple发布Beats Studio Buds固件更新，修复重要的麦克风安全问题，影响电商销售。",
-          "suggested_action": "加强与Target的合作，确保消费者了解更新的重要性。"
-        }
-      ]
-    },
-    {
-      "name": "DJI",
-      "type": "品牌",
-      "count": 2,
-      "items": [
-        {
-          "title": "The DJI Mini 5 Pro has hit a new record-low price at Amazon — save $50 right now - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5FdUNZU2l3Mzk3VXA3YzcybHNLTUhYLVFIeWQwWF9mN1k2UlBJQTM5MTNVM0RQUFhRQlQ5Vmc5OW44bzJBcE85OEJpUzZOMjc2b2F0b01ZZXZVOE81enJyaXNUYXVSTkNRc3VEVVBpX0Nmdw?oc=5\" target=\"_blank\">The DJI Mini 5 Pro has hit a new record-low price at Amazon — save $50 right now</a>&nbsp;&nb",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FdUNZU2l3Mzk3VXA3YzcybHNLTUhYLVFIeWQwWF9mN1k2UlBJQTM5MTNVM0RQUFhRQlQ5Vmc5OW44bzJBcE85OEJpUzZOMjc2b2F0b01ZZXZVOE81enJyaXNUYXVSTkNRc3VEVVBpX0Nmdw?oc=5",
-          "published": "Thu, 18 Jun 2026 13:46:59 GMT",
-          "published_iso": "2026-06-18T13:46:59+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 12.1,
+          "hours_since_published": 11.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
-              "DJI"
+              "Sony",
+              "Sennheiser"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 339,
+          "display_title": "I flew 2,700 miles with Apple, Sony...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "苹果、索尼和森海塞尔耳机的音质对品牌形象有显著影响。",
+          "suggested_action": "加强品牌营销，突出耳机音质优势，吸引更多消费者关注。"
+        },
+        {
+          "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry - Forbes",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5",
+          "published": "Fri, 19 Jun 2026 14:08:01 GMT",
+          "published_iso": "2026-06-19T14:08:01+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 9.0,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
             ],
             "channels": [
-              "Amazon"
+              "Target",
+              "REI"
             ],
             "categories": []
           },
-          "_score": 211,
-          "display_title": "The DJI Mini 5 Pro has hit a new...",
+          "_score": 251,
+          "display_title": "Sony’s ‘Destiny 2’ Obliteration Has...",
           "tags": [
-            "🚁 无人机影像",
-            "🏬 平台电商",
-            "💰 价格促销"
+            "🛒 渠道零售",
+            "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "DJI Mini 5 Pro在亚马逊降价，有助于提升电商销量。",
-          "suggested_action": "利用降价机会加强品牌营销，吸引更多消费者关注。"
-        },
-        {
-          "title": "DJI vs Insta360: The creator-tech cold war is officially over - DroneDJ",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZTUJXV1NMb2VKSTd4ek1kamhNU0VWQm9TaW5NdGFnUGxHMVBfbjJLQV8zNlBBY0ltTGpUQ0FmM2ZYOE5LNjB1R2tFYmdSQjA3U2g0eHQ5NkhSRU1LSE95OWlTcU5JLUF6eHFTRmE0Yw?oc=5\" target=\"_blank\">DJI vs Insta360: The creator-tech cold war is officially over</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZTUJXV1NMb2VKSTd4ek1kamhNU0VWQm9TaW5NdGFnUGxHMVBfbjJLQV8zNlBBY0ltTGpUQ0FmM2ZYOE5LNjB1R2tFYmdSQjA3U2g0eHQ5NkhSRU1LSE95OWlTcU5JLUF6eHFTRmE0Yw?oc=5",
-          "published": "Mon, 15 Jun 2026 06:30:00 GMT",
-          "published_iso": "2026-06-15T06:30:00+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 91.4,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "DJI"
-            ],
-            "channels": [],
-            "categories": []
-          },
-          "_score": 179,
-          "display_title": "DJI vs Insta360: The creator-tech cold...",
-          "tags": [
-            "🚁 无人机影像"
-          ],
-          "impact_area": "品牌营销"
+          "business_note": "Sony在‘Destiny 2’的市场表现异常，需关注电商渠道的销售策略。",
+          "suggested_action": "加强与Target和REI的合作，提升品牌曝光和销售转化。"
         }
       ]
     },
     {
       "name": "headphone",
       "type": "品类",
-      "count": 2,
+      "count": 3,
       "items": [
         {
+          "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+          "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+          "published_iso": "2026-06-19T12:00:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 11.2,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Sony",
+              "Sennheiser"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 339,
+          "display_title": "I flew 2,700 miles with Apple, Sony...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "苹果、索尼和森海塞尔耳机的音质对品牌形象有显著影响。",
+          "suggested_action": "加强品牌营销，突出耳机音质优势，吸引更多消费者关注。"
+        },
+        {
           "title": "Beats headphones up to $220 off at Best Buy right now, buds from $50 - 9to5Toys",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1VaE5MRDE1T0dXTXpfWUFBUG03V1duWUxuNUNOSW4wT2ZOaGF4SnduSmI3LWhseFNvakFDM3EtLWR4TmtqN0VtQXVPRGRtSTREeG5tMm0tTHN3TVBPZ19jRDV1UVVWQWFub1ZjWTlULVhXQkVz?oc=5\" target=\"_blank\">Beats headphones up to $220 off at Best Buy right now, buds from $50</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VaE5MRDE1T0dXTXpfWUFBUG03V1duWUxuNUNOSW4wT2ZOaGF4SnduSmI3LWhseFNvakFDM3EtLWR4TmtqN0VtQXVPRGRtSTREeG5tMm0tTHN3TVBPZ19jRDV1UVVWQWFub1ZjWTlULVhXQkVz?oc=5",
-          "published": "Tue, 16 Jun 2026 20:21:00 GMT",
-          "published_iso": "2026-06-16T20:21:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ad2FOLUQ4MGQtbWpONl9sY0JQOTlDYVczYTVzYVpKLXpXTWVGbWdRSlplNnR3NXpTeElfelVJTDJDUkRqYURtUFBWMThYaXp4U0lVeW02SmFuU1FaWTdNVVdiclhTcmJSd3hoNnBxRTl0ZG5m?oc=5\" target=\"_blank\">Beats headphones up to $220 off at Best Buy right now, buds from $50</a>&nbsp;&nbsp;<font c",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ad2FOLUQ4MGQtbWpONl9sY0JQOTlDYVczYTVzYVpKLXpXTWVGbWdRSlplNnR3NXpTeElfelVJTDJDUkRqYURtUFBWMThYaXp4U0lVeW02SmFuU1FaWTdNVVdiclhTcmJSd3hoNnBxRTl0ZG5m?oc=5",
+          "published": "Thu, 18 Jun 2026 12:32:00 GMT",
+          "published_iso": "2026-06-18T12:32:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 53.5,
+          "hours_since_published": 34.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1843,29 +1816,63 @@
             "🏬 平台电商"
           ],
           "impact_area": "电商"
+        }
+      ]
+    },
+    {
+      "name": "DJI",
+      "type": "品牌",
+      "count": 3,
+      "items": [
+        {
+          "title": "FCC is easing drone rules, but DJI drones are still left grounded",
+          "summary": "FCC carves out a toy-drone loophole that DJI can't squeeze through.",
+          "url": "https://www.androidauthority.com/fcc-eases-drone-import-rules-3679457/",
+          "published": "Fri, 19 Jun 2026 14:21:11 +0000",
+          "published_iso": "2026-06-19T14:21:11+00:00",
+          "source": "Android Authority",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 8.8,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "DJI"
+            ],
+            "channels": [],
+            "categories": []
+          },
+          "_score": 209,
+          "display_title": "FCC is easing drone rules, but DJI...",
+          "tags": [
+            "🚁 无人机影像"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "FCC放宽无人机规则，但DJI仍受限，影响品牌营销策略。",
+          "suggested_action": "针对新规制定品牌传播计划，提升市场认知度。"
         },
         {
-          "title": "The 4 Best Over-Ear Headphones Under $100 of 2026 - RTINGS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEk4X0xqZ1VXanItdHZGaWJINWtMZUtUVVR0NUNUemJ2UjhFLVcxOWdxVFNRWVpYbWpNSTdyLVhDdlV5VXZOeklMOVdkak9iWUJySnB5dW91a3RfbExWVEFJc1pVMXphNkNGa0luNmtrSTJILThSSUlPQ1V6WHNkbm93?oc=5\" target=\"_blank\">The 4 Best Over-Ear Headphones Under $100 of 2026</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEk4X0xqZ1VXanItdHZGaWJINWtMZUtUVVR0NUNUemJ2UjhFLVcxOWdxVFNRWVpYbWpNSTdyLVhDdlV5VXZOeklMOVdkak9iWUJySnB5dW91a3RfbExWVEFJc1pVMXphNkNGa0luNmtrSTJILThSSUlPQ1V6WHNkbm93?oc=5",
-          "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-          "published_iso": "2026-06-16T07:00:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "DJI Osmo Pocket 4P: specs and price confirmed as China pre-orders open - Red Shark News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBUVUxqY3A2Qy1UbnpSN3NzRmJWRXhFRlRXdDl5cGJSS19KN25qYnFkbktGU0QwdVJVaFlubGxkNlBVSDFVUVRpMTB4a05tcU5naFJOWGxrWG83SDhxcFY0MWcza0F3Tkc1VTZKcVVsbUYtUXJVb2ZPONIBiAFBVV95cUxQLXVPY3lqMG83R3prRGtZQUNFRFp5eDZubnQxYXNQOElfNW9qN3VqYUdiaGlqNFNhdFA5cXUzYnpkTFhDZWhFUjhnS1ZET0",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUVUxqY3A2Qy1UbnpSN3NzRmJWRXhFRlRXdDl5cGJSS19KN25qYnFkbktGU0QwdVJVaFlubGxkNlBVSDFVUVRpMTB4a05tcU5naFJOWGxrWG83SDhxcFY0MWcza0F3Tkc1VTZKcVVsbUYtUXJVb2ZPONIBiAFBVV95cUxQLXVPY3lqMG83R3prRGtZQUNFRFp5eDZubnQxYXNQOElfNW9qN3VqYUdiaGlqNFNhdFA5cXUzYnpkTFhDZWhFUjhnS1ZET0pEQTZJeXZvNk5iZ01nT1FZb0c2TGxLVWFSYlhlSmlOLU9fV1k3TnBKdmtzNzJBdXdZVzZuRFd6Uzc4?oc=5",
+          "published": "Fri, 19 Jun 2026 07:56:41 GMT",
+          "published_iso": "2026-06-19T07:56:41+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 66.9,
-          "freshness_label": "近3天",
+          "hours_since_published": 15.2,
+          "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [],
+            "brands": [
+              "DJI"
+            ],
             "channels": [],
-            "categories": [
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 178,
-          "display_title": "The 4 Best Over-Ear Headphones Under...",
+          "_score": 181,
+          "display_title": "DJI Osmo Pocket 4P: specs and price...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🚁 无人机影像",
+            "💰 价格促销"
           ],
           "impact_area": "品牌营销"
         }
@@ -1873,21 +1880,21 @@
     }
   ],
   "takeaways": [
-    "亚马逊和沃尔玛的竞争将加剧，可能导致价格战，影响利润率。",
-    "苹果新发布的Beats耳机将进一步巩固其在无线音频市场的领导地位。",
-    "亚马逊Prime Day的早期优惠将吸引更多消费者，推动电商销售增长。",
-    "沃尔玛Plus的半价促销可能吸引新用户，增强其在会员制市场的竞争力。",
-    "Best Buy的关店现象反映出实体零售面临的持续压力，需加速转型。"
+    "亚马逊与沃尔玛的竞争将加剧，影响消费电子价格和市场份额。",
+    "Best Buy 关闭门店反映出传统零售在电商冲击下的脆弱性。",
+    "新品发布频繁，品牌需快速适应市场变化以维持竞争力。",
+    "FCC放宽无人机规则，可能为消费电子行业带来新机遇。",
+    "消费者对早期Prime Day折扣的关注显示出电商促销的有效性。"
   ],
   "opportunity_signals": [
-    "亚马逊与沃尔玛在数据经纪市场的竞争为我们提供了利用数据分析优化电商策略的机会。",
-    "随着节假日购物趋势的变化，优化促销策略以吸引消费者将是提升销售的关键。",
-    "LGBTQ+消费者支出下降提示我们需加强品牌形象，以维护和吸引多元化客户群体。"
+    "苹果、索尼等品牌的音质对品牌形象影响显著，企业可考虑提升音频产品质量以增强市场竞争力。",
+    "亚马逊与沃尔玛在数据主导权的争夺将重塑电商策略，企业需优化数据分析能力以提升决策效率。",
+    "在重要节日如Juneteenth提前布局电商渠道，将有效抓住消费者购物需求，提升销售额。"
   ],
   "risk_signals": [
-    "亚马逊与沃尔玛争夺数据经纪市场，可能导致电商竞争格局的剧烈变化，需及时调整市场策略以应对竞争压力。",
-    "LGBTQ+消费者支出下降，可能对品牌形象和电商销售造成负面影响，需加强品牌定位和市场沟通。",
-    "Best Buy关闭老店并开设新店，可能影响其电商渠道的销售策略，需评估新店布局对整体销售的长期影响。"
+    "亚马逊和沃尔玛的竞争加剧，可能导致价格战，压缩利润空间，需谨慎评估定价策略。",
+    "LGBTQ+消费者支出下降，可能影响品牌形象和销售业绩，需加强市场调研和品牌定位。",
+    "Best Buy关闭老店的决策可能导致客户流失，需及时调整电商渠道策略以保持竞争力。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

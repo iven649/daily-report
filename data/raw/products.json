@@ -1,6 +1,15 @@
 {
   "products": [
     {
+      "name": "Stay aware of your surroundings with the best open-ear headphones - Runner's World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjBIUnc3MURiVk9tSlE1Q0UtS3lTVzRLYTd1eG5KNnBOY2JpenJhMUNpQnlEQnZPazJMVjNHM2FBakJxSGxaUEVKSkFxLVRyS3o2TjNzQVZZZHFwa2hvNVpxd0x2SzRwMGZkZ1R4dmhtWDJmT2MxZjhscVBUR0tTaHlpNkdXdw?oc=5\" target=\"_blank\">Stay ",
+      "date": "Thu, 18 Jun 2026 07:00:00",
+      "published_iso": "2026-06-18T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjBIUnc3MURiVk9tSlE1Q0UtS3lTVzRLYTd1eG5KNnBOY2JpenJhMUNpQnlEQnZPazJMVjNHM2FBakJxSGxaUEVKSkFxLVRyS3o2TjNzQVZZZHFwa2hvNVpxd0x2SzRwMGZkZ1R4dmhtWDJmT2MxZjhscVBUR0tTaHlpNkdXdw?oc=5",
+      "source": "Google News - Audio Wearable Watch",
+      "_score": 24
+    },
+    {
       "name": "Sennheiser Debuts Open-Ear Accentum Clip Earbuds With Nine Hours Of Battery Life - Engadget",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFIxSUJUbjRDd3g0YUtrSVRSdmQ2VEZIMmd5d2U3Rm1YSGRkQmdPUFJfQVE1SVpUTnJSU1U3WW1GUF9lVFgzSFkzaThvTlFQcmFTdmY1ZU1WNEFjY1BXYmJEOUxINDhRTi1MTklkWTQyazlOSGVESnJ4dGJ6WXNWTUVKeEtEY2N1c3g0MjFwbE1uUnk0UFNOU25NYk",
       "date": "Thu, 18 Jun 2026 10:00:00",
@@ -98,22 +107,13 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
       "source": "The Verge",
       "_score": 20
-    },
-    {
-      "name": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "date": "Fri, 19 Jun 2026 22:40:14",
-      "published_iso": "2026-06-19T22:40:14+00:00",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "source": "TechCrunch",
-      "_score": 10
     }
   ],
-  "fetched_at": 1781910590,
+  "fetched_at": 1781914716,
   "stats": {
     "source_count": 7,
-    "raw_count": 104,
-    "deduped_count": 104,
+    "raw_count": 106,
+    "deduped_count": 106,
     "kept_count": 12
   }
 }

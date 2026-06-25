@@ -46,6 +46,15 @@
       "_score": 24
     },
     {
+      "name": "The top tech Prime Day deals to shop on day two",
+      "summary": "Welcome to day two of Amazon&#8217;s four-day Prime Day event, which, if we&#8217;re being honest, looks a lot like day one. That&#8217;s actually good news, though, because many of the best deals are still around, and some new ones have joined them. If you&#8",
+      "date": "2026-06-24T19:48:19-04:00",
+      "published_iso": "2026-06-24T23:48:19+00:00",
+      "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "This year’s Prime Day deals on Apple products are the best I’ve seen",
       "summary": "Amazon&#8217;s Prime Day is now in its second day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the Ai",
       "date": "2026-06-24T17:58:59-04:00",
@@ -98,22 +107,13 @@
       "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
       "source": "The Verge",
       "_score": 20
-    },
-    {
-      "name": "GTA VI is a worrying sign for the future of physical games",
-      "summary": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physical versions of GTA VI won't include a disc, and instead will onl",
-      "date": "2026-06-24T14:42:07-04:00",
-      "published_iso": "2026-06-24T18:42:07+00:00",
-      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
-      "source": "The Verge",
-      "_score": 20
     }
   ],
-  "fetched_at": 1782343006,
+  "fetched_at": 1782346845,
   "stats": {
     "source_count": 7,
-    "raw_count": 119,
-    "deduped_count": 119,
+    "raw_count": 118,
+    "deduped_count": 118,
     "kept_count": 12
   }
 }

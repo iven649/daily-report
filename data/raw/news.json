@@ -1,6 +1,15 @@
 {
   "consumer_electronics": [
     {
+      "title": "The top tech Prime Day deals to shop on day two",
+      "summary": "Welcome to day two of Amazon&#8217;s four-day Prime Day event, which, if we&#8217;re being honest, looks a lot like day one. That&#8217;s actually good news, though, because many of the best deals are still around, and some new ones have joined them. If you&#8217;ve got a Prime subscription, whether through a free tria",
+      "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+      "published": "2026-06-24T19:48:19-04:00",
+      "published_iso": "2026-06-24T23:48:19+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
       "summary": "Amazon&#8217;s Prime Day is now in its second day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Tim [&#8230;]",
       "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
@@ -82,12 +91,21 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-      "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the r",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "published": "2026-06-24T13:25:00-04:00",
-      "published_iso": "2026-06-24T17:25:00+00:00",
-      "source": "The Verge",
+      "title": "Europe is pushing back on Washington’s chip war",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "published": "Thu, 25 Jun 2026 00:08:36 +0000",
+      "published_iso": "2026-06-25T00:08:36+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "published": "Wed, 24 Jun 2026 23:26:52 +0000",
+      "published_iso": "2026-06-24T23:26:52+00:00",
+      "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
     {
@@ -181,21 +199,12 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "published": "Wed, 24 Jun 2026 16:48:43 +0000",
-      "published_iso": "2026-06-24T16:48:43+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "NTSB launches probe into fatal Texas Tesla crash",
-      "summary": "The safety board, known for its thorough investigations, is probing the crash alongside the National Highway Traffic Safety Administration.",
-      "url": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
-      "published": "Wed, 24 Jun 2026 16:39:08 +0000",
-      "published_iso": "2026-06-24T16:39:08+00:00",
-      "source": "TechCrunch",
+      "title": "After successfully selling over 15 cars, Faraday Future would now like you to buy its robots",
+      "summary": "Farday Future hasn't quite given up on EVs, but it's now also pitching a lineup of robots, including humanoids and a quadruped with an optional canine heads.",
+      "url": "https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/",
+      "published": "Wed, 24 Jun 2026 23:22:44 +0000",
+      "published_iso": "2026-06-24T23:22:44+00:00",
+      "source": "Engadget",
       "bucket": "consumer_electronics"
     },
     {
@@ -294,15 +303,6 @@
       "url": "https://www.engadget.com/2200116/google-home-speaker-review/",
       "published": "Wed, 24 Jun 2026 13:00:00 +0000",
       "published_iso": "2026-06-24T13:00:00+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "US government reportedly urging Meta to share its AI models",
-      "summary": "The US government is reportedly asking Meta to share its AI models for review, in the midst of growing security and safety concerns over the technology.",
-      "url": "https://www.engadget.com/2200490/us-government-reportedly-urging-meta-to-share-its-ai-models/",
-      "published": "Wed, 24 Jun 2026 12:00:00 +0000",
-      "published_iso": "2026-06-24T12:00:00+00:00",
       "source": "Engadget",
       "bucket": "consumer_electronics"
     },
@@ -451,20 +451,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Review: Ultra-light smart sports glasses capture your active life outdoors - New Atlas",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUpzemk1cVZ4dk9KZjlsaUFVNEl2ak1yOVZLcFJPbVUwRzRkZVZFT1NBUFlXLUxhMEVJYUp3MkxUMEY3ZEhRd0JOaXZlTXRLcXZLd2tNckxKY2lpaG1TSS1GMHZGUHQ0REEwZnJlWmJ5UU1TMVBrR1kzNjMzd2s5NWRBeWw?oc=5\" target=\"_blank\">Review: Ultra-light smart sports glasses capture your active life ou",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUpzemk1cVZ4dk9KZjlsaUFVNEl2ak1yOVZLcFJPbVUwRzRkZVZFT1NBUFlXLUxhMEVJYUp3MkxUMEY3ZEhRd0JOaXZlTXRLcXZLd2tNckxKY2lpaG1TSS1GMHZGUHQ0REEwZnJlWmJ5UU1TMVBrR1kzNjMzd2s5NWRBeWw?oc=5",
-      "published": "Wed, 24 Jun 2026 08:17:28 GMT",
-      "published_iso": "2026-06-24T08:17:28+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Prime Day deals on essentials for summer travel - Techlicious",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFhpcGN2b1hIWWVhWjlicHNWS1h1bl95bk5EQ2Q1SDFpOC1yeFNaYmZRVHFQTlJ0QmFSS3c4ckNUYldsSzc5SS1IcHUyd1FOalZMYXRkRU1iNkFWMFlzcEJQd3RwNmhYUHozZGZQTzZieFJsc09TTHVUUHJtaUhCSks5d25iSnVn?oc=5\" target=\"_blank\">Prime Day deals on essentials for summer travel</a>&nbsp;&nbsp;",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFhpcGN2b1hIWWVhWjlicHNWS1h1bl95bk5EQ2Q1SDFpOC1yeFNaYmZRVHFQTlJ0QmFSS3c4ckNUYldsSzc5SS1IcHUyd1FOalZMYXRkRU1iNkFWMFlzcEJQd3RwNmhYUHozZGZQTzZieFJsc09TTHVUUHJtaUhCSks5d25iSnVn?oc=5",
       "published": "Wed, 24 Jun 2026 15:57:53 GMT",
       "published_iso": "2026-06-24T15:57:53+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Review: Ultra-light smart sports glasses capture your active life outdoors - New Atlas",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUpzemk1cVZ4dk9KZjlsaUFVNEl2ak1yOVZLcFJPbVUwRzRkZVZFT1NBUFlXLUxhMEVJYUp3MkxUMEY3ZEhRd0JOaXZlTXRLcXZLd2tNckxKY2lpaG1TSS1GMHZGUHQ0REEwZnJlWmJ5UU1TMVBrR1kzNjMzd2s5NWRBeWw?oc=5\" target=\"_blank\">Review: Ultra-light smart sports glasses capture your active life ou",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUpzemk1cVZ4dk9KZjlsaUFVNEl2ak1yOVZLcFJPbVUwRzRkZVZFT1NBUFlXLUxhMEVJYUp3MkxUMEY3ZEhRd0JOaXZlTXRLcXZLd2tNckxKY2lpaG1TSS1GMHZGUHQ0REEwZnJlWmJ5UU1TMVBrR1kzNjMzd2s5NWRBeWw?oc=5",
+      "published": "Wed, 24 Jun 2026 08:17:28 GMT",
+      "published_iso": "2026-06-24T08:17:28+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -496,15 +496,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Five of the Best Workout Headphones (Including My Personal Favorite) on Sale for Prime Day - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE45SkJ2cWJOWHZHX0RKRXdmVzhPaS1kem5YcXREaE95VkQ4OEYwMUNvUUxhNm5IN1VkN1Y1TkhiNUtpOFJwSlB6QXdIZDB6MUZNZkN6X0xBV0VhWWJmMjhkRmZEdDJsM0NGSWlnQXBDdmFtU3E2STI0?oc=5\" target=\"_blank\">Five of the Best Workout Headphones (Including My Personal Favorite) on Sale for Prime ",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45SkJ2cWJOWHZHX0RKRXdmVzhPaS1kem5YcXREaE95VkQ4OEYwMUNvUUxhNm5IN1VkN1Y1TkhiNUtpOFJwSlB6QXdIZDB6MUZNZkN6X0xBV0VhWWJmMjhkRmZEdDJsM0NGSWlnQXBDdmFtU3E2STI0?oc=5",
-      "published": "Tue, 23 Jun 2026 16:24:34 GMT",
-      "published_iso": "2026-06-23T16:24:34+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "30 Amazon Prime Day Bike Deals I’ve Actually Tested - Outside Magazine",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRfUE90dmdJOTlpaGltcUpHUWNHVFlBOWZiRE5tS0Q5NWo4RU1nTjJJTkprUjdQQWpnOF9WMDZuMmcwRlNTcVFUT19SaXdfYkt2R1NpS1lPS0VCa19CMTRBMzh2b2EwRXBscjBqOEF0WGplYUNQeUNqWlNVZUl4NDJNeFhYakoxT3hqQkllY1Y?oc=5\" target=\"_blank\">30 Amazon Prime Day Bike Deals I’ve Actually Tested<",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRfUE90dmdJOTlpaGltcUpHUWNHVFlBOWZiRE5tS0Q5NWo4RU1nTjJJTkprUjdQQWpnOF9WMDZuMmcwRlNTcVFUT19SaXdfYkt2R1NpS1lPS0VCa19CMTRBMzh2b2EwRXBscjBqOEF0WGplYUNQeUNqWlNVZUl4NDJNeFhYakoxT3hqQkllY1Y?oc=5",
@@ -519,6 +510,15 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnM2c2c2cHFaVnUzYnJReS1GOUtZLXZFV2t5Yl9XdXZJcnAyODNZNlZHYXV3QVdya0Rya0hPbjVzZlZOakhDdTd3aE5fb0Y1YjZyT2ZWUEdCWnVRSmFXVW41d0tESnAxZl9LWkF3alZaWGRsX2l2RW10cEdiVnZHOWd4THBUMUgwUFlOM1JPekhra253aUN5bURXZ3NUZ2x3amFjX0VIS0hBLXFHQ1dyV1l6UGdrYUdPMTF2a3RnOGF1bFV6?oc=5",
       "published": "Thu, 18 Jun 2026 22:32:00 GMT",
       "published_iso": "2026-06-18T22:32:00+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Five of the Best Workout Headphones (Including My Personal Favorite) on Sale for Prime Day - Lifehacker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE45SkJ2cWJOWHZHX0RKRXdmVzhPaS1kem5YcXREaE95VkQ4OEYwMUNvUUxhNm5IN1VkN1Y1TkhiNUtpOFJwSlB6QXdIZDB6MUZNZkN6X0xBV0VhWWJmMjhkRmZEdDJsM0NGSWlnQXBDdmFtU3E2STI0?oc=5\" target=\"_blank\">Five of the Best Workout Headphones (Including My Personal Favorite) on Sale for Prime ",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45SkJ2cWJOWHZHX0RKRXdmVzhPaS1kem5YcXREaE95VkQ4OEYwMUNvUUxhNm5IN1VkN1Y1TkhiNUtpOFJwSlB6QXdIZDB6MUZNZkN6X0xBV0VhWWJmMjhkRmZEdDJsM0NGSWlnQXBDdmFtU3E2STI0?oc=5",
+      "published": "Tue, 23 Jun 2026 16:00:00 GMT",
+      "published_iso": "2026-06-23T16:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -541,20 +541,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5\" target=\"_bl",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5",
-      "published": "Fri, 19 Jun 2026 14:08:01 GMT",
-      "published_iso": "2026-06-19T14:08:01+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Bose Launches Bose Studios, Sets Steven Soderbergh Project (EXCLUSIVE) - Deadline",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEVyQVJRUXVaRmFQXzJhLWNHNnJjNERsU05kb0VMaTN3T29Tc2x3OFRVVnM1SHdGeDhLaEszRXlsaXhEU1VhYnBzbjZHeUV5aUlvYWlJTXlkUExnZ09pc2xCM05Td0VSQ0U3UHE2RTFkb28zLURjZVdRR3REaEx3Z1YyRWhMMHI4eW9uSVBWTnBfNWNnc2tZTU5uS3dDSGs?oc=5\" target=\"_blank\">Bose Launches Bose Studios, Sets",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEVyQVJRUXVaRmFQXzJhLWNHNnJjNERsU05kb0VMaTN3T29Tc2x3OFRVVnM1SHdGeDhLaEszRXlsaXhEU1VhYnBzbjZHeUV5aUlvYWlJTXlkUExnZ09pc2xCM05Td0VSQ0U3UHE2RTFkb28zLURjZVdRR3REaEx3Z1YyRWhMMHI4eW9uSVBWTnBfNWNnc2tZTU5uS3dDSGs?oc=5",
       "published": "Wed, 24 Jun 2026 16:36:00 GMT",
       "published_iso": "2026-06-24T16:36:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzhXZTFURU1TaDlVUFlCS1g0SHJuNmdZU3Y4Q0RZdGNwVS1QYnFMRkh2REI5UDZGREJpcjZkaTUxLXZqMXVldGF5ZGpqazNXM1pRUFhkU3dpRnlUWk1GT3VLekxzbGNhSEh3VUlScVpDR0NmU1RZamhMWFBLaXlVWWM1cmxNZFJWQXdtNll4S1RZSnp2LW1WdTI4bVgta1Q1Sy1xZjFPX3pkX0hTUnJfMnZha0Y5Z2FMaC1j?oc=5",
+      "published": "Fri, 19 Jun 2026 14:08:01 GMT",
+      "published_iso": "2026-06-19T14:08:01+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -571,17 +571,17 @@
       "title": "Sony Pictures Entertainment Investing $100 Million Into Cosm Immersive Venue Business - The Hollywood Reporter",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDJSc3EwV2pabFY5VjQ2SmFlRlpQZmUwMGxnR2RfQjFuTG55WmhzQlptaDRqTjd1RXQ0TW10SlEyNnM0NzFlN1pBNnJ3VFZtNmJKUlRYQ25fRVFnNmx0bk0zNUN5eFl0U21rZ0QyUW1XclJpNHJWS05PdnpIWVM0V1hFSURHdGgwZy10YTFBbFVORlljTGlqZEwzSVp6MXBhRWV3aXhfdHpXWHdpLVdXQU9WQ2pMQlo5TTFV?oc=5\" target=\"_bl",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDJSc3EwV2pabFY5VjQ2SmFlRlpQZmUwMGxnR2RfQjFuTG55WmhzQlptaDRqTjd1RXQ0TW10SlEyNnM0NzFlN1pBNnJ3VFZtNmJKUlRYQ25fRVFnNmx0bk0zNUN5eFl0U21rZ0QyUW1XclJpNHJWS05PdnpIWVM0V1hFSURHdGgwZy10YTFBbFVORlljTGlqZEwzSVp6MXBhRWV3aXhfdHpXWHdpLVdXQU9WQ2pMQlo5TTFV?oc=5",
-      "published": "Wed, 24 Jun 2026 17:31:07 GMT",
-      "published_iso": "2026-06-24T17:31:07+00:00",
+      "published": "Wed, 24 Jun 2026 20:01:07 GMT",
+      "published_iso": "2026-06-24T20:01:07+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "The best Prime Day speaker deals: Shop Sony, Sonos, JBL, and more of our top picks - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE91NDNzNHVCeHk2TjNrLUtib2JnbU1ZRHZCTVVWVEc3R1BiU0VvQVVtUVpWS3F0M2M5Q3JvaXl5U3c5c09Xb2daUERzM19RQWdZMHBtWlN6RFczN2ViYjdHY2VLbXRrbG9LTVI4cnNkTzNqdw?oc=5\" target=\"_blank\">The best Prime Day speaker deals: Shop Sony, Sonos, JBL, and more of our top picks</a>&nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91NDNzNHVCeHk2TjNrLUtib2JnbU1ZRHZCTVVWVEc3R1BiU0VvQVVtUVpWS3F0M2M5Q3JvaXl5U3c5c09Xb2daUERzM19RQWdZMHBtWlN6RFczN2ViYjdHY2VLbXRrbG9LTVI4cnNkTzNqdw?oc=5",
-      "published": "Wed, 24 Jun 2026 20:03:53 GMT",
-      "published_iso": "2026-06-24T20:03:53+00:00",
+      "title": "Best Prime Day headphones deals 2026: Record prices on AirPods, Sony XM6 headphones - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5OMGotUDZZUFB1UTI3UWxvS3hReXk1emtoYUhTMmluQllXaWVGZm90T2FMblRSTmNtQnVCMnZGeXhZeko4NERUd0ZMYmZDaXpVRGZjSUI2S3lFVTZPeEcycEJ3ZWZidTlxTFQ2aVRET2dWYjBxMnc?oc=5\" target=\"_blank\">Best Prime Day headphones deals 2026: Record prices on AirPods, Sony XM6 headphones</a>&",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OMGotUDZZUFB1UTI3UWxvS3hReXk1emtoYUhTMmluQllXaWVGZm90T2FMblRSTmNtQnVCMnZGeXhZeko4NERUd0ZMYmZDaXpVRGZjSUI2S3lFVTZPeEcycEJ3ZWZidTlxTFQ2aVRET2dWYjBxMnc?oc=5",
+      "published": "Wed, 24 Jun 2026 23:55:58 GMT",
+      "published_iso": "2026-06-24T23:55:58+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -604,11 +604,11 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "This Garmin smartwatch is our top-selling Prime Day deal so far - ZDNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1FmRXdRT1F3Q3pndHlCVWRCODFyNXVZM2d5VTUxT0RnWkJkUm56U085Qk5wMzBNMy1OQVZZLXc5Z2czQV9XVGoyMnN3ZVl2R3hBYkp2eVkwNlVFUG16RDdyaVktM0h3ZTBoRURNamhVek5uVFFYSnppSEVIaklpcEZjb1NzWmc?oc=5\" target=\"_blank\">This Garmin smartwatch is our top-selling Prime Day deal so far<",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1FmRXdRT1F3Q3pndHlCVWRCODFyNXVZM2d5VTUxT0RnWkJkUm56U085Qk5wMzBNMy1OQVZZLXc5Z2czQV9XVGoyMnN3ZVl2R3hBYkp2eVkwNlVFUG16RDdyaVktM0h3ZTBoRURNamhVek5uVFFYSnppSEVIaklpcEZjb1NzWmc?oc=5",
-      "published": "Tue, 23 Jun 2026 19:49:00 GMT",
-      "published_iso": "2026-06-23T19:49:00+00:00",
+      "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+      "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+      "published_iso": "2026-06-19T12:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -622,11 +622,11 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Best Prime Day Headphone and Earbud Deals: Sony and Bose Are up to 50% Off - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVF9yZ3JLMEdHU1d4UUppcElZN3Z1dHlYWGEwMy1Ec0lyV1YzRHB4dkhzY1R6dVdCWkROZ0pKRWxNZ19zNUlUV1pGWWR0dlpTcUFqbjVZc25ucHFqZTNRYXA1TDNscUxubmF5Ui1tVFlZM3NJbXF2Qk0temV0WlNjbXl1S20?oc=5\" target=\"_blank\">Best Prime Day Headphone and Earbud Deals: Sony and Bose Are up to 5",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVF9yZ3JLMEdHU1d4UUppcElZN3Z1dHlYWGEwMy1Ec0lyV1YzRHB4dkhzY1R6dVdCWkROZ0pKRWxNZ19zNUlUV1pGWWR0dlpTcUFqbjVZc25ucHFqZTNRYXA1TDNscUxubmF5Ui1tVFlZM3NJbXF2Qk0temV0WlNjbXl1S20?oc=5",
-      "published": "Tue, 23 Jun 2026 19:01:00 GMT",
-      "published_iso": "2026-06-23T19:01:00+00:00",
+      "title": "Review: Dead or Alive 6 Last Round (Sony PlayStation 5) - Digitally Downloaded",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlFQU1BHZlF1ZmFmSE5oWkhZT1gtWGxBY1psY1lHTnBaZnVFTXFidzBBdS1zc2xXMW80OHZ5ajkzbndlVEpHbVhYRnI4X193MW82dnV5R0VKMnpkRHpybWhyTDk2NUkta1ZLMEQ3UkdvMHljZThZVkljcVF4Vjg3ZlNEaXJCS19hb003LVhHSmJCanFXZmtsY2tjcWg4RWhMdDNn?oc=5\" target=\"_blank\">Review: Dead or Alive 6 Las",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlFQU1BHZlF1ZmFmSE5oWkhZT1gtWGxBY1psY1lHTnBaZnVFTXFidzBBdS1zc2xXMW80OHZ5ajkzbndlVEpHbVhYRnI4X193MW82dnV5R0VKMnpkRHpybWhyTDk2NUkta1ZLMEQ3UkdvMHljZThZVkljcVF4Vjg3ZlNEaXJCS19hb003LVhHSmJCanFXZmtsY2tjcWg4RWhMdDNn?oc=5",
+      "published": "Wed, 24 Jun 2026 12:27:05 GMT",
+      "published_iso": "2026-06-24T12:27:05+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     }
@@ -939,11 +939,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Prime Day competitor sales that are just as good if not better than Amazon - ABC7 New York",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEpyeG9Pa25jdm5BdncyTHFNQjdoYWdVc1o1aUtwMUhkWHFGYlpYUDlpblBvWVJ2X0pVQ1VRNTBzdGlxckVpQkV6TmdqU2tlaG5zeUhuRDRRR3drWWFBdXY0Vk9Qd1JvcVlEdm9Ncl85NVYyZkJDTVFmRmVkTHdzVEpST0ZNTW5ia0FDMVFOa1VhRFpLeE9QUnJ0TGVZb2JLWWcxVGRvX1N4THFPcmtabURveld6QUE?oc=5\" target=\"_blank\">",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEpyeG9Pa25jdm5BdncyTHFNQjdoYWdVc1o1aUtwMUhkWHFGYlpYUDlpblBvWVJ2X0pVQ1VRNTBzdGlxckVpQkV6TmdqU2tlaG5zeUhuRDRRR3drWWFBdXY0Vk9Qd1JvcVlEdm9Ncl85NVYyZkJDTVFmRmVkTHdzVEpST0ZNTW5ia0FDMVFOa1VhRFpLeE9QUnJ0TGVZb2JLWWcxVGRvX1N4THFPcmtabURveld6QUE?oc=5",
-      "published": "Wed, 24 Jun 2026 15:52:41 GMT",
-      "published_iso": "2026-06-24T15:52:41+00:00",
+      "title": "Amazon Prime Day 2026 alternative sales: The best deals from retail competitors like Walmart, Nordstrom, Lululemon and more - ABC7 New York",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlZvYUxUTVU0c1lJNURMWjdQRjV0bU1zZXBsNjI5RDR6M2ljWDJrZklJTDFCODk0U3JTWWl0RXpSOUdCci1ZaHJ6TDFYSUxaa0JZa0VTY1VVYlFkMVFvYUtXVFFpZTFZMkJqc3BvZTE0OU1RR1ZvMlNQNHdPeXgzSVByaVpYby1jWlM0VVRVTTFrdFFOZVExZFBjSVZNOGlVQ0FZRmI4WElhclFxcFFaWWhYTlp5NXpDMVZjdtIBvAFBVV95cUxNMl",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlZvYUxUTVU0c1lJNURMWjdQRjV0bU1zZXBsNjI5RDR6M2ljWDJrZklJTDFCODk0U3JTWWl0RXpSOUdCci1ZaHJ6TDFYSUxaa0JZa0VTY1VVYlFkMVFvYUtXVFFpZTFZMkJqc3BvZTE0OU1RR1ZvMlNQNHdPeXgzSVByaVpYby1jWlM0VVRVTTFrdFFOZVExZFBjSVZNOGlVQ0FZRmI4WElhclFxcFFaWWhYTlp5NXpDMVZjdtIBvAFBVV95cUxNMlZvYUxUTVU0c1lJNURMWjdQRjV0bU1zZXBsNjI5RDR6M2ljWDJrZklJTDFCODk0U3JTWWl0RXpSOUdCci1ZaHJ6TDFYSUxaa0JZa0VTY1VVYlFkMVFvYUtXVFFpZTFZMkJqc3BvZTE0OU1RR1ZvMlNQNHdPeXgzSVByaVpYby1jWlM0VVRVTTFrdFFOZVExZFBjSVZNOGlVQ0FZRmI4WElhclFxcFFaWWhYTlp5NXpDMVZjdg?oc=5",
+      "published": "Wed, 24 Jun 2026 15:51:43 GMT",
+      "published_iso": "2026-06-24T15:51:43+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "The No. 1 grocery rotisserie chicken isn’t sold at Costco, per a recent study. Is it possible? - OregonLive.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWk3TFh4VnJfLXBTNDBJbUxuQUVOaFJCYmlEa2NaRjhjSXhWSzc2V09kaXA0RzlTcnoyZkpqYU1KeHBNRjdPY2lFaEg2bm9BRzJ3VFFKVnBfMmZiZmxWclBBdEFQY3BteU1VOFEzbmZOd2tXc3o3VlFRcnpiUEREY1VyNzFGV2IyaWV4NWZnVEQ0cm1zNjZvZWRmMG5MTUZ6dFRoaUFVSEZJc1dZNGxTOVdRX05qQTRzQ3BKSC0zRUJkTjZlLXF5Mn",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWk3TFh4VnJfLXBTNDBJbUxuQUVOaFJCYmlEa2NaRjhjSXhWSzc2V09kaXA0RzlTcnoyZkpqYU1KeHBNRjdPY2lFaEg2bm9BRzJ3VFFKVnBfMmZiZmxWclBBdEFQY3BteU1VOFEzbmZOd2tXc3o3VlFRcnpiUEREY1VyNzFGV2IyaWV4NWZnVEQ0cm1zNjZvZWRmMG5MTUZ6dFRoaUFVSEZJc1dZNGxTOVdRX05qQTRzQ3BKSC0zRUJkTjZlLXF5MnVkUHdlbGluRXfSAeYBQVVfeXFMTVlyRlB5ZWRiM0xISXpPSVNGSFhpc3NzUDkzRlpXbU5LNEt5LWZyeUpzeE02MU8wVS1vLWhGTG1KaklrRks0dXVwbWJ5RHVBVk0xU2Q5ekZtc2JRRE55dXVTLWQyd3FrSkIzaXlUaXhMNG5vU1lRejh3MElrYlA1TTdGNlZfd1FXbjRmaGFheHk3MTdmU0k4bDZzNnljeDk5cTI0bHBCSms3ZDJiRGpxZkxyRm9HMVhjMmpuRjlwRDJ6RkxpOUN1dW5IcHJwZjItUjFnMnBUcl9QUFIxVE55Sm5qelFuSWc?oc=5",
+      "published": "Tue, 23 Jun 2026 20:23:00 GMT",
+      "published_iso": "2026-06-23T20:23:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -966,20 +975,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "I'm an Editor Who Reports on Groceries — These Are the 10 Best Snacks You Can Buy at Costco - The Kitchn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zTEZfNkxJLVpBMEp1dGdsLU0zWElIcVBBX21lSEx3bjZzeVY0Z28xQ21pSmV2aU15Y0g1MDBWU2l4VXVGN0dkLWdzLUdGanh0OGI1cEc4TzNNVjAyY2VjS2w3OVhkQUho?oc=5\" target=\"_blank\">I'm an Editor Who Reports on Groceries — These Are the 10 Best Snacks You Can Buy at Costco</a>&nbsp;&nbsp;",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zTEZfNkxJLVpBMEp1dGdsLU0zWElIcVBBX21lSEx3bjZzeVY0Z28xQ21pSmV2aU15Y0g1MDBWU2l4VXVGN0dkLWdzLUdGanh0OGI1cEc4TzNNVjAyY2VjS2w3OVhkQUho?oc=5",
-      "published": "Mon, 22 Jun 2026 16:30:00 GMT",
-      "published_iso": "2026-06-22T16:30:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
       "title": "I Tried 7 Canned Chickpeas—This $1 Can Is the Only One I'm Buying From Now On - Allrecipes",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE50Q1RqaXVxQ3FzN1JGcDJ0RVdMeENrQ21jWUh3YjQ1NnBxYWpMZEozSGZnYTUxcVdOY0ppRDhWUTFyLVdpV3VMb09mSDlkdE8yOXRYMjBvM044aGFRT0h0ODJFX0o3TGJQWmdFQ19nNzU4TDltb3ZZ?oc=5\" target=\"_blank\">I Tried 7 Canned Chickpeas—This $1 Can Is the Only One I'm Buying From Now On</a>&nbsp;",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50Q1RqaXVxQ3FzN1JGcDJ0RVdMeENrQ21jWUh3YjQ1NnBxYWpMZEozSGZnYTUxcVdOY0ppRDhWUTFyLVdpV3VMb09mSDlkdE8yOXRYMjBvM044aGFRT0h0ODJFX0o3TGJQWmdFQ19nNzU4TDltb3ZZ?oc=5",
       "published": "Wed, 24 Jun 2026 00:04:04 GMT",
       "published_iso": "2026-06-24T00:04:04+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "I'm an Editor Who Reports on Groceries — These Are the 10 Best Snacks You Can Buy at Costco - The Kitchn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zTEZfNkxJLVpBMEp1dGdsLU0zWElIcVBBX21lSEx3bjZzeVY0Z28xQ21pSmV2aU15Y0g1MDBWU2l4VXVGN0dkLWdzLUdGanh0OGI1cEc4TzNNVjAyY2VjS2w3OVhkQUho?oc=5\" target=\"_blank\">I'm an Editor Who Reports on Groceries — These Are the 10 Best Snacks You Can Buy at Costco</a>&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zTEZfNkxJLVpBMEp1dGdsLU0zWElIcVBBX21lSEx3bjZzeVY0Z28xQ21pSmV2aU15Y0g1MDBWU2l4VXVGN0dkLWdzLUdGanh0OGI1cEc4TzNNVjAyY2VjS2w3OVhkQUho?oc=5",
+      "published": "Mon, 22 Jun 2026 16:30:00 GMT",
+      "published_iso": "2026-06-22T16:30:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -1002,20 +1011,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Believing is Seeing: Inside Best Buy’s bold new RGB TV marketing campaign - Best Buy Corporate",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwMWlCZzJlVDdNUHFlYmtNM3V6YzJLM1JjVFg4aWxGT3lfOVBFM1NwV0MybnlRSTI4Zm9jOHdBakk3YUZMZDBuZlhsSTlvb19SNTRQNmp1eVhxcHcwNzhxcA?oc=5\" target=\"_blank\">Believing is Seeing: Inside Best Buy’s bold new RGB TV marketing campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Best B",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwMWlCZzJlVDdNUHFlYmtNM3V6YzJLM1JjVFg4aWxGT3lfOVBFM1NwV0MybnlRSTI4Zm9jOHdBakk3YUZMZDBuZlhsSTlvb19SNTRQNmp1eVhxcHcwNzhxcA?oc=5",
-      "published": "Mon, 22 Jun 2026 13:04:24 GMT",
-      "published_iso": "2026-06-22T13:04:24+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "The 35 Best Prime Day Audio Deals on Speakers, Headphones, and Earbuds: Save Up to 58% - Rolling Stone",
+      "title": "The 45 Best Prime Day Audio Deals on Speakers, Headphones, and Earbuds: Save Up to 58% - Rolling Stone",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPclFsMVlyS2w1c0lqOXdpVG4wVFYtLVdYRUJtWndWbnJwX2hlWmlwN2RuS29vMVJ3WHd3QjBxLVhzY3NFMVFjd1g3dWFYejFMalBpMlcxNHN2Wjg5S1ZQaTQwY0J3d1NGeVpBTDNRWjVzaTVpV20wNkcydjktbmI2eXZWR3M0R0RnblB1NGpVdldEQUh4VXNBMUp4QjNLUHRmX3VUdTZxM1NvcWJtcDdxcGktWDJNdWZoSXc?oc=5\" target=\"_bla",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclFsMVlyS2w1c0lqOXdpVG4wVFYtLVdYRUJtWndWbnJwX2hlWmlwN2RuS29vMVJ3WHd3QjBxLVhzY3NFMVFjd1g3dWFYejFMalBpMlcxNHN2Wjg5S1ZQaTQwY0J3d1NGeVpBTDNRWjVzaTVpV20wNkcydjktbmI2eXZWR3M0R0RnblB1NGpVdldEQUh4VXNBMUp4QjNLUHRmX3VUdTZxM1NvcWJtcDdxcGktWDJNdWZoSXc?oc=5",
-      "published": "Tue, 23 Jun 2026 21:08:42 GMT",
-      "published_iso": "2026-06-23T21:08:42+00:00",
+      "published": "Wed, 24 Jun 2026 23:51:48 GMT",
+      "published_iso": "2026-06-24T23:51:48+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1092,15 +1092,6 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Walmart undercuts Amazon Prime Day with lowest prices on headphones - MassLive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjU0ZmdzclR4Q1NCWFpzX296c2VZcDZTWjdrbGM1UnM5THVpd2lpVW1KTDBjam9NYTlTUENPc3haSzY5OWlGMlo4SkZydzR4MEphNVZ1VmVLVFlzb3N2UkJIRjNERWNrUWZ3R3R4Vy1hcnFnY2NEWkxkaXFWR2plaWlTRElRREFaa0lscU1icXlDTDM0RVBLUjkyMUw5X2VPak1GOE1aOUI3OGlOcWlwSll2Y1rSAcgBQVVfeXFMUHEzMWV6aHhwZD",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjU0ZmdzclR4Q1NCWFpzX296c2VZcDZTWjdrbGM1UnM5THVpd2lpVW1KTDBjam9NYTlTUENPc3haSzY5OWlGMlo4SkZydzR4MEphNVZ1VmVLVFlzb3N2UkJIRjNERWNrUWZ3R3R4Vy1hcnFnY2NEWkxkaXFWR2plaWlTRElRREFaa0lscU1icXlDTDM0RVBLUjkyMUw5X2VPak1GOE1aOUI3OGlOcWlwSll2Y1rSAcgBQVVfeXFMUHEzMWV6aHhwZDZ2WmJVSjMzUDRvYlQ5Tm9IYXZUekUtZk80bkZuUE1ZQlVQdkhfaFphMnJnUmRpNXR5SDgwVWdjQkFtUjR5dmh0emR2bFlwRHE1cXJtUkpfSUNDa1JYRzBsSGFHb1dGXzR6c0QzUnUzektZdVFiZFlNb3B3VEwxNngtNFZ3ajRxVlZ3NzhobDdQRDBBOGtWU0FvUUNWNG9EZlBlMFhnVXAyZHgwRXdmOVRQenQ2T2ZwRVJPcXpQdlQ?oc=5",
-      "published": "Tue, 23 Jun 2026 23:27:00 GMT",
-      "published_iso": "2026-06-23T23:27:00+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "Beats headphones up to $220 off at Best Buy right now, buds from $50 - 9to5Toys",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ad2FOLUQ4MGQtbWpONl9sY0JQOTlDYVczYTVzYVpKLXpXTWVGbWdRSlplNnR3NXpTeElfelVJTDJDUkRqYURtUFBWMThYaXp4U0lVeW02SmFuU1FaWTdNVVdiclhTcmJSd3hoNnBxRTl0ZG5m?oc=5\" target=\"_blank\">Beats headphones up to $220 off at Best Buy right now, buds from $50</a>&nbsp;&nbsp;<font c",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ad2FOLUQ4MGQtbWpONl9sY0JQOTlDYVczYTVzYVpKLXpXTWVGbWdRSlplNnR3NXpTeElfelVJTDJDUkRqYURtUFBWMThYaXp4U0lVeW02SmFuU1FaWTdNVVdiclhTcmJSd3hoNnBxRTl0ZG5m?oc=5",
@@ -1117,7 +1108,16 @@
       "published_iso": "2026-06-22T17:29:29+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
+    },
+    {
+      "title": "Walmart’s bestselling $170 noise-canceling earbuds are on sale for $19 - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXFkSG5sd0dmTFZqeU40SE9LTlh0Y2NPdjVfb2o4VWdGVmg0MUZ2UHNabmMycGpMZTQ1OVF6R1NTelZsU3ZoZmg3ODhmUTliek96S0NONEl6UllRTXhVYVhzdjF5VGp6VU4zWlA5d1dKWHpWcWs4NWtRUmFLeERsQUxIMlRySnlnQ21HUG1sTjRmUQ?oc=5\" target=\"_blank\">Walmart’s bestselling $170 noise-canceling earbud",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXFkSG5sd0dmTFZqeU40SE9LTlh0Y2NPdjVfb2o4VWdGVmg0MUZ2UHNabmMycGpMZTQ1OVF6R1NTelZsU3ZoZmg3ODhmUTliek96S0NONEl6UllRTXhVYVhzdjF5VGp6VU4zWlA5d1dKWHpWcWs4NWtRUmFLeERsQUxIMlRySnlnQ21HUG1sTjRmUQ?oc=5",
+      "published": "Sun, 21 Jun 2026 01:30:00 GMT",
+      "published_iso": "2026-06-21T01:30:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1782342998
+  "fetched_at": 1782346838
 }

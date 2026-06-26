@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26 07:39:22 CST",
+  "generated_at": "2026-06-26 09:29:22 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -708,7 +708,7 @@
     "published_iso": "2026-06-23T20:34:00+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 51.1,
+    "hours_since_published": 52.9,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -727,10 +727,10 @@
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "本周亚马逊、塔吉特和沃尔玛促销活动为电商销售提供了良机。",
-    "suggested_action": "建议加强电商平台的促销宣传，吸引更多消费者。"
+    "business_note": "本周亚马逊、塔吉特和沃尔玛的促销活动将显著影响电商销售。",
+    "suggested_action": "加强电商平台的促销宣传，吸引更多消费者关注。"
   },
-  "lead_summary": "本周电商促销激增，亚马逊巩固市场主导地位，竞争加剧，消费者更倾向于选择价格优势平",
+  "lead_summary": "本周电商促销将重塑市场格局，各大品牌需加速创新以应对竞争压力。",
   "headline_trio": [
     {
       "title": "How to save during Amazon, Target, and Walmart sales this week - WBAL-TV",
@@ -740,7 +740,7 @@
       "published_iso": "2026-06-23T20:34:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 51.1,
+      "hours_since_published": 52.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -759,8 +759,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "本周亚马逊、塔吉特和沃尔玛促销活动为电商销售提供了良机。",
-      "suggested_action": "建议加强电商平台的促销宣传，吸引更多消费者。"
+      "business_note": "本周亚马逊、塔吉特和沃尔玛的促销活动将显著影响电商销售。",
+      "suggested_action": "加强电商平台的促销宣传，吸引更多消费者关注。"
     },
     {
       "title": "Amazon Unseats Walmart as Top US Retailer - PYMNTS.com",
@@ -770,7 +770,7 @@
       "published_iso": "2026-06-25T16:24:53+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 7.2,
+      "hours_since_published": 9.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -788,8 +788,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊超越沃尔玛成为美国最大零售商，影响电商市场格局。",
-      "suggested_action": "加强在亚马逊平台的品牌营销和产品推广策略。"
+      "business_note": "亚马逊超越沃尔玛成为美国最大零售商，电商市场竞争加剧。",
+      "suggested_action": "加强电商平台营销，提升品牌在亚马逊的曝光率。"
     },
     {
       "title": "Amazon Prime Day 2026 alternative sales: The best deals from retail competitors like Walmart, Nordstrom, Lululemon and more - ABC7 New York",
@@ -799,7 +799,7 @@
       "published_iso": "2026-06-24T15:51:43+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 31.8,
+      "hours_since_published": 33.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -818,8 +818,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊Prime Day竞争对手促销活动将影响电商销售策略。",
-      "suggested_action": "加强与Walmart等零售商的合作，优化促销策略。"
+      "business_note": "亚马逊Prime Day期间，竞争对手如沃尔玛等提供优质折扣，需关注市场动态。",
+      "suggested_action": "加强电商平台的促销策略，以应对竞争对手的影响。"
     }
   ],
   "consumer_electronics": [
@@ -831,7 +831,7 @@
       "published_iso": "2026-06-23T08:30:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 63.1,
+      "hours_since_published": 65.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -851,8 +851,38 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony WH-1000XM6在市场上表现优异，品牌影响力显著。",
+      "business_note": "Sony WH-1000XM6在市场上表现优异，品牌影响力持续增强。",
       "suggested_action": "加强对Sony品牌的电商推广，提升市场份额。"
+    },
+    {
+      "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+      "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+      "published_iso": "2026-06-19T12:00:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 157.5,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Sony",
+          "Sennheiser"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 309,
+      "display_title": "I flew 2,700 miles with Apple, Sony...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "在耳机市场中，Sony和Sennheiser的品牌影响力显著，需加强品牌营销策略。",
+      "suggested_action": "针对耳机产品，优化电商平台的品牌推广和用户评价管理。"
     },
     {
       "title": "Near Record Low on the Shokz OpenRun Pro, the Bone Conduction Headphones Runners Swear By - Gizmodo",
@@ -862,7 +892,7 @@
       "published_iso": "2026-06-21T21:50:07+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 97.8,
+      "hours_since_published": 99.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -886,7 +916,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Shokz OpenRun Pro耳机价格接近历史低点，电商销售机会显著。",
-      "suggested_action": "加强电商平台促销，提升Shokz品牌曝光度。"
+      "suggested_action": "加强与Target的合作，提升Shokz品牌曝光和销量。"
     },
     {
       "title": "My favorite Shokz open ear headphones are $60 off for Prime Day - PCWorld",
@@ -896,7 +926,7 @@
       "published_iso": "2026-06-25T16:01:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 7.6,
+      "hours_since_published": 9.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -915,8 +945,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Shokz耳机在Prime Day促销中大幅降价，有助于提升品牌曝光和销量。",
-      "suggested_action": "加强电商平台的推广力度，吸引更多消费者关注Shokz耳机。"
+      "business_note": "Prime Day期间Shokz耳机大幅降价，有助于提升品牌曝光和销量。",
+      "suggested_action": "利用电商平台加强Shokz耳机的促销宣传，吸引更多消费者。"
     },
     {
       "title": "I'm a big gym goer, and I've found 9 Prime Day deals on our favorite fitness headphones that are perfect for soundtracking your workouts — from Shokz to Beats, and more - TechRadar",
@@ -926,7 +956,7 @@
       "published_iso": "2026-06-25T12:56:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 10.7,
+      "hours_since_published": 12.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -947,7 +977,7 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Prime Day促销为健身耳机带来销售机会，需抓住电商流量。",
+      "business_note": "Prime Day促销为健身耳机提供了良好销售机会，需抓住电商流量。",
       "suggested_action": "加强电商平台的品牌推广，提升Shokz和Beats的曝光率。"
     },
     {
@@ -958,7 +988,7 @@
       "published_iso": "2026-06-25T20:42:38+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 2.9,
+      "hours_since_published": 4.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -979,37 +1009,6 @@
       "importance": "高",
       "business_note": "2026年Prime Day耳机销售创纪录，需抓住电商机会。",
       "suggested_action": "加强Sony耳机的电商推广，提升品牌曝光。"
-    },
-    {
-      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-      "summary": "Amazon&#8217;s Prime Day is now in its third day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Apple [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "published": "2026-06-25T19:04:23-04:00",
-      "published_iso": "2026-06-25T23:04:23+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 0.6,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": [
-          "earbuds"
-        ]
-      },
-      "_score": 255,
-      "display_title": "This year’s Prime Day deals on Apple...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "今年Prime Day苹果产品折扣力度空前，电商销售机会显著。",
-      "suggested_action": "加强与亚马逊的合作，优化产品推广策略，提升销量。"
     }
   ],
   "channel_news": [
@@ -1021,7 +1020,7 @@
       "published_iso": "2026-06-23T20:34:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 51.1,
+      "hours_since_published": 52.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1040,8 +1039,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "本周亚马逊、塔吉特和沃尔玛促销活动为电商销售提供了良机。",
-      "suggested_action": "建议加强电商平台的促销宣传，吸引更多消费者。"
+      "business_note": "本周亚马逊、塔吉特和沃尔玛的促销活动将显著影响电商销售。",
+      "suggested_action": "加强电商平台的促销宣传，吸引更多消费者关注。"
     },
     {
       "title": "Amazon Unseats Walmart as Top US Retailer - PYMNTS.com",
@@ -1051,7 +1050,7 @@
       "published_iso": "2026-06-25T16:24:53+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 7.2,
+      "hours_since_published": 9.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1069,8 +1068,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊超越沃尔玛成为美国最大零售商，影响电商市场格局。",
-      "suggested_action": "加强在亚马逊平台的品牌营销和产品推广策略。"
+      "business_note": "亚马逊超越沃尔玛成为美国最大零售商，电商市场竞争加剧。",
+      "suggested_action": "加强电商平台营销，提升品牌在亚马逊的曝光率。"
     },
     {
       "title": "Amazon Prime Day 2026 alternative sales: The best deals from retail competitors like Walmart, Nordstrom, Lululemon and more - ABC7 New York",
@@ -1080,7 +1079,7 @@
       "published_iso": "2026-06-24T15:51:43+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 31.8,
+      "hours_since_published": 33.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1099,8 +1098,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊Prime Day竞争对手促销活动将影响电商销售策略。",
-      "suggested_action": "加强与Walmart等零售商的合作，优化促销策略。"
+      "business_note": "亚马逊Prime Day期间，竞争对手如沃尔玛等提供优质折扣，需关注市场动态。",
+      "suggested_action": "加强电商平台的促销策略，以应对竞争对手的影响。"
     },
     {
       "title": "Walmart’s $1.4 billion Vibe.co deal is a direct shot at Amazon’s booming ad business - Fortune",
@@ -1110,7 +1109,7 @@
       "published_iso": "2026-06-25T07:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 16.6,
+      "hours_since_published": 18.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1129,8 +1128,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart收购Vibe.co意在增强广告业务，直接挑战Amazon，提升电商竞争力。",
-      "suggested_action": "加强与Walmart的合作，优化广告投放策略，提升品牌曝光。"
+      "business_note": "Walmart收购Vibe.co意在增强广告业务，直接挑战Amazon，提升市场竞争力。",
+      "suggested_action": "加强电商平台广告投放，提升品牌曝光率，争夺市场份额。"
     },
     {
       "title": "Best Buy’s Best Deal This Week? These Beats Headphones are $200 Off - PennLive.com",
@@ -1140,7 +1139,7 @@
       "published_iso": "2026-06-25T14:27:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 9.2,
+      "hours_since_published": 11.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1163,7 +1162,7 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Beats耳机在Best Buy的促销活动有助于提升电商销售额。",
+      "business_note": "Beats耳机在Best Buy的促销活动将显著提升电商销售。",
       "suggested_action": "加强与Best Buy的合作，推广此促销活动以吸引更多消费者。"
     },
     {
@@ -1174,7 +1173,7 @@
       "published_iso": "2026-06-23T04:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 67.6,
+      "hours_since_published": 69.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1193,7 +1192,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Miniso计划在美国开设更大门店，聚焦自有知识产权，提升品牌影响力。",
-      "suggested_action": "建议加大电商渠道投入，提升自有IP的线上推广力度。"
+      "suggested_action": "建议加强与Walmart和Target的合作，推动电商销售增长。"
     }
   ],
   "products": [
@@ -1205,7 +1204,7 @@
       "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
       "source": "The Verge",
       "_score": 139,
-      "hours_since_published": 4.9,
+      "hours_since_published": 6.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1217,7 +1216,7 @@
         "categories": []
       },
       "display_title": "The 16 best robot vacuum deals...",
-      "display_summary": "亚马逊、百思买和沃尔玛等零售商在Prime Day期间推出机器人吸尘器促销，适合寻找性价比高",
+      "display_summary": "亚马逊、百思买和沃尔玛等零售商在Prime Day期间推出机器人吸尘器促销，适合有意购买的消",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商",
@@ -1227,8 +1226,8 @@
       "judgement_label": "价格促销",
       "product_intro": "亚马逊、百思买和沃尔玛等零售商在Prime。",
       "importance": "高",
-      "business_note": "Prime Day期间，机器人吸尘器的促销活动将推动电商销售增长。",
-      "suggested_action": "加强与Amazon等平台的合作，优化促销策略以提升销量。"
+      "business_note": "Prime Day期间，机器人吸尘器的促销活动为电商销售提供了良机。",
+      "suggested_action": "加强与亚马逊等平台的合作，提升产品曝光率。"
     },
     {
       "name": "My favorite Shokz open ear headphones are $60 off for Prime Day - PCWorld",
@@ -1238,7 +1237,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDVabGE1b19fdkF4ZTVBTXByYTYyb0RUQ2Itcl9teTVaaEVkak1sUmRwRlNmcHB6LUM0Sk1GWksyTlVGMjRuYWJ2Qzk4TnRiWlJ2OXZEekpYNW9PZERkc1ZsTjBZSUNYWXNTZEotRXdlN0NnU2NRUks2OFl6cHliZ1ZtQTJoZ2IzM2o4U1NuYldNVjVfV3ZVTTFJRWRSVW8ybEFoa0tR?oc=5",
       "source": "Google News - Competitor Watch",
       "_score": 105,
-      "hours_since_published": 7.6,
+      "hours_since_published": 9.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1251,16 +1250,16 @@
         ]
       },
       "display_title": "My favorite Shokz open ear headphones...",
-      "display_summary": "某科技公司推出新款智能手机，具备更强处理器和改进相机功能，预计将提升市场竞争力。",
+      "display_summary": "北美消费电子市场持续增长，推动新产品发布和技术创新，企业需关注市场动态与竞争策略。",
       "tags": [
         "🎧 耳机音频"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "某科技公司推出新款智能手机，具备更强处理器和改进相机功能，预计将提升市场竞争力。",
+      "product_intro": "北美消费电子市场持续增长，推动新产品发布和技术创新，企业需关注市场动态与竞争策略。",
       "importance": "高",
       "business_note": "Prime Day期间Shokz耳机大幅降价，有助于提升品牌曝光和销量。",
-      "suggested_action": "加大电商平台推广力度，吸引更多消费者关注Shokz耳机。"
+      "suggested_action": "加强电商平台的促销活动，吸引更多消费者关注Shokz耳机。"
     },
     {
       "name": "This year’s Prime Day deals on Apple products are the best I’ve seen",
@@ -1270,7 +1269,7 @@
       "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
       "source": "The Verge",
       "_score": 85,
-      "hours_since_published": 0.6,
+      "hours_since_published": 2.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1282,7 +1281,7 @@
         ]
       },
       "display_title": "This year’s Prime Day deals on Apple...",
-      "display_summary": "亚马逊Prime Day进入第三天，苹果手表系列11降至新低，耳机和智能手表等产品均有折扣。",
+      "display_summary": "亚马逊Prime Day进入第三天，Apple Watch Series 11已降至新低价，",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴",
@@ -1290,10 +1289,10 @@
       ],
       "impact_area": "电商",
       "judgement_label": "价格促销",
-      "product_intro": "亚马逊Prime。",
+      "product_intro": "亚马逊Prime Day进入第三天，Apple Watch Series。",
       "importance": "高",
       "business_note": "今年Prime Day苹果产品折扣力度空前，电商销售机会显著。",
-      "suggested_action": "加强与亚马逊的合作，优化产品推广策略，提升销量。"
+      "suggested_action": "加强与亚马逊的合作，优化产品推广策略，抓住销售机会。"
     },
     {
       "name": "Near Record Low on the Shokz OpenRun Pro, the Bone Conduction Headphones Runners Swear By - Gizmodo",
@@ -1303,7 +1302,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjZZOHBsWFpLc3NiUkhvRjRkallhUXRwZF9oZGRrdUpLR3VEWl9JeFN0N0t2elVPMDFUWVllSmRKN2VBc0RPWlZzem1wUnNySVE1bXNneHVEQ2d4bEhIeVcyOVgwdU1ZTHFYZWNBdHNRSzM4X2RaclFGY3NOVU5mWjZVMnBIb0Y2R3YxcVR3S2ZmWGM3ODZMNnVHWVJtY0ZvLUZMTnl1c0d1eXNKY2tIWTRTN1RZVDhDSFJz?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 75,
-      "hours_since_published": 97.8,
+      "hours_since_published": 99.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1316,17 +1315,17 @@
         ]
       },
       "display_title": "Near Record Low on the Shokz OpenRun...",
-      "display_summary": "苹果计划在2024年推出新款MacBook Pro，预计将搭载更强大的M3芯片，提升性能和续",
+      "display_summary": "苹果计划在2024年推出新款iPad Pro，预计将搭载M3芯片，提升性能与用户体验。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "苹果计划在2024年推出新款MacBook。",
+      "product_intro": "苹果计划在2024年推出新款iPad。",
       "importance": "高",
-      "business_note": "Shokz OpenRun Pro耳机价格接近历史低点，需抓住市场机会。",
-      "suggested_action": "加强电商平台推广，提升品牌曝光和销量。"
+      "business_note": "Shokz OpenRun Pro耳机价格接近历史低点，需抓住电商销售机会。",
+      "suggested_action": "加强品牌营销，利用促销活动提升销量，吸引更多消费者。"
     },
     {
       "name": "Stay aware of your surroundings with the best open-ear headphones - Runner's World",
@@ -1336,7 +1335,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjBIUnc3MURiVk9tSlE1Q0UtS3lTVzRLYTd1eG5KNnBOY2JpenJhMUNpQnlEQnZPazJMVjNHM2FBakJxSGxaUEVKSkFxLVRyS3o2TjNzQVZZZHFwa2hvNVpxd0x2SzRwMGZkZ1R4dmhtWDJmT2MxZjhscVBUR0tTaHlpNkdXdw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 56,
-      "hours_since_published": 64.6,
+      "hours_since_published": 66.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1347,17 +1346,17 @@
         ]
       },
       "display_title": "Stay aware of your surroundings with...",
-      "display_summary": "北美消费电子市场持续增长，预计2023年销售额将突破千亿美元，推动行业创新与竞争加剧。",
+      "display_summary": "苹果计划在2024年推出新款MacBook Pro，预计将搭载更强大的M3芯片，提升性能和续",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "北美消费电子市场持续增长，预计2023年销售额将突破千亿美元，推动行业创新。",
+      "product_intro": "苹果计划在2024年推出新款MacBook。",
       "importance": "中",
-      "business_note": "开放耳机市场潜力大，需加强品牌营销以提升市场份额。",
-      "suggested_action": "建议开展针对开放耳机的线上营销活动，吸引更多消费者关注。"
+      "business_note": "开放耳机市场潜力大，需加强品牌营销以提升市场认知度。",
+      "suggested_action": "建议开展针对性电商推广活动，提升开放耳机的品牌曝光。"
     },
     {
       "name": "Framework has good news and bad news",
@@ -1367,7 +1366,7 @@
       "url": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 2.3,
+      "hours_since_published": 4.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1375,16 +1374,16 @@
         "categories": []
       },
       "display_title": "Framework has good news and bad news",
-      "display_summary": "由于组件危机，新电脑需求受限。Framework Laptop 13 Pro的预购用户迎来好",
+      "display_summary": "由于组件危机，购新电脑不易。Framework Laptop 13 Pro的预购者获悉，Fr",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "由于组件危机，新电脑需求受限。Framework Laptop 13。",
+      "product_intro": "由于组件危机，购新电脑不易。Framework Laptop 13。",
       "importance": "高",
-      "business_note": "Framework Laptop 13 Pro 预售消息有助于提升品牌形象，吸引更多用户关注。",
-      "suggested_action": "加大品牌营销力度，利用预售机会进行宣传，吸引潜在客户。"
+      "business_note": "Framework Laptop 13 Pro 预购消息积极，有助于提升品牌形象。",
+      "suggested_action": "加强品牌营销，利用预购热度吸引更多消费者关注。"
     }
   ],
   "monitored_entities": [
@@ -1401,7 +1400,7 @@
           "published_iso": "2026-06-23T08:30:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 63.1,
+          "hours_since_published": 65.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1421,42 +1420,38 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sony WH-1000XM6在市场上表现优异，品牌影响力显著。",
+          "business_note": "Sony WH-1000XM6在市场上表现优异，品牌影响力持续增强。",
           "suggested_action": "加强对Sony品牌的电商推广，提升市场份额。"
         },
         {
-          "title": "Near Record Low on the Shokz OpenRun Pro, the Bone Conduction Headphones Runners Swear By - Gizmodo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjZZOHBsWFpLc3NiUkhvRjRkallhUXRwZF9oZGRrdUpLR3VEWl9JeFN0N0t2elVPMDFUWVllSmRKN2VBc0RPWlZzem1wUnNySVE1bXNneHVEQ2d4bEhIeVcyOVgwdU1ZTHFYZWNBdHNRSzM4X2RaclFGY3NOVU5mWjZVMnBIb0Y2R3YxcVR3S2ZmWGM3ODZMNnVHWVJtY0ZvLUZMTnl1c0d1eXNKY2tIWTRTN1RZVDhDSFJz?oc=5\" target=\"_bl",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjZZOHBsWFpLc3NiUkhvRjRkallhUXRwZF9oZGRrdUpLR3VEWl9JeFN0N0t2elVPMDFUWVllSmRKN2VBc0RPWlZzem1wUnNySVE1bXNneHVEQ2d4bEhIeVcyOVgwdU1ZTHFYZWNBdHNRSzM4X2RaclFGY3NOVU5mWjZVMnBIb0Y2R3YxcVR3S2ZmWGM3ODZMNnVHWVJtY0ZvLUZMTnl1c0d1eXNKY2tIWTRTN1RZVDhDSFJz?oc=5",
-          "published": "Sun, 21 Jun 2026 21:50:07 GMT",
-          "published_iso": "2026-06-21T21:50:07+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+          "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+          "published_iso": "2026-06-19T12:00:00+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 97.8,
+          "hours_since_published": 157.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
-              "Shokz"
+              "Sony",
+              "Sennheiser"
             ],
-            "channels": [
-              "Target"
-            ],
+            "channels": [],
             "categories": [
-              "bone conduction",
               "headphone"
             ]
           },
-          "_score": 307,
-          "display_title": "Near Record Low on the Shokz OpenRun...",
+          "_score": 309,
+          "display_title": "I flew 2,700 miles with Apple, Sony...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
+            "🎧 耳机音频"
           ],
-          "impact_area": "电商",
+          "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz OpenRun Pro耳机价格接近历史低点，电商销售机会显著。",
-          "suggested_action": "加强电商平台促销，提升Shokz品牌曝光度。"
+          "business_note": "在耳机市场中，Sony和Sennheiser的品牌影响力显著，需加强品牌营销策略。",
+          "suggested_action": "针对耳机产品，优化电商平台的品牌推广和用户评价管理。"
         }
       ]
     },
@@ -1473,7 +1468,7 @@
           "published_iso": "2026-06-23T20:34:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 51.1,
+          "hours_since_published": 52.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1492,8 +1487,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "本周亚马逊、塔吉特和沃尔玛促销活动为电商销售提供了良机。",
-          "suggested_action": "建议加强电商平台的促销宣传，吸引更多消费者。"
+          "business_note": "本周亚马逊、塔吉特和沃尔玛的促销活动将显著影响电商销售。",
+          "suggested_action": "加强电商平台的促销宣传，吸引更多消费者关注。"
         },
         {
           "title": "Amazon Unseats Walmart as Top US Retailer - PYMNTS.com",
@@ -1503,7 +1498,7 @@
           "published_iso": "2026-06-25T16:24:53+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 7.2,
+          "hours_since_published": 9.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1521,8 +1516,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊超越沃尔玛成为美国最大零售商，影响电商市场格局。",
-          "suggested_action": "加强在亚马逊平台的品牌营销和产品推广策略。"
+          "business_note": "亚马逊超越沃尔玛成为美国最大零售商，电商市场竞争加剧。",
+          "suggested_action": "加强电商平台营销，提升品牌在亚马逊的曝光率。"
         }
       ]
     },
@@ -1539,7 +1534,7 @@
           "published_iso": "2026-06-23T20:34:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 51.1,
+          "hours_since_published": 52.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1558,8 +1553,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "本周亚马逊、塔吉特和沃尔玛促销活动为电商销售提供了良机。",
-          "suggested_action": "建议加强电商平台的促销宣传，吸引更多消费者。"
+          "business_note": "本周亚马逊、塔吉特和沃尔玛的促销活动将显著影响电商销售。",
+          "suggested_action": "加强电商平台的促销宣传，吸引更多消费者关注。"
         },
         {
           "title": "Amazon Unseats Walmart as Top US Retailer - PYMNTS.com",
@@ -1569,7 +1564,7 @@
           "published_iso": "2026-06-25T16:24:53+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 7.2,
+          "hours_since_published": 9.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1587,8 +1582,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊超越沃尔玛成为美国最大零售商，影响电商市场格局。",
-          "suggested_action": "加强在亚马逊平台的品牌营销和产品推广策略。"
+          "business_note": "亚马逊超越沃尔玛成为美国最大零售商，电商市场竞争加剧。",
+          "suggested_action": "加强电商平台营销，提升品牌在亚马逊的曝光率。"
         }
       ]
     },
@@ -1605,7 +1600,7 @@
           "published_iso": "2026-06-21T21:50:07+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 97.8,
+          "hours_since_published": 99.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1629,7 +1624,7 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Shokz OpenRun Pro耳机价格接近历史低点，电商销售机会显著。",
-          "suggested_action": "加强电商平台促销，提升Shokz品牌曝光度。"
+          "suggested_action": "加强与Target的合作，提升Shokz品牌曝光和销量。"
         },
         {
           "title": "My favorite Shokz open ear headphones are $60 off for Prime Day - PCWorld",
@@ -1639,7 +1634,7 @@
           "published_iso": "2026-06-25T16:01:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 7.6,
+          "hours_since_published": 9.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1658,8 +1653,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz耳机在Prime Day促销中大幅降价，有助于提升品牌曝光和销量。",
-          "suggested_action": "加强电商平台的推广力度，吸引更多消费者关注Shokz耳机。"
+          "business_note": "Prime Day期间Shokz耳机大幅降价，有助于提升品牌曝光和销量。",
+          "suggested_action": "利用电商平台加强Shokz耳机的促销宣传，吸引更多消费者。"
         }
       ]
     },
@@ -1676,7 +1671,7 @@
           "published_iso": "2026-06-25T14:27:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 9.2,
+          "hours_since_published": 11.0,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1699,7 +1694,7 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Beats耳机在Best Buy的促销活动有助于提升电商销售额。",
+          "business_note": "Beats耳机在Best Buy的促销活动将显著提升电商销售。",
           "suggested_action": "加强与Best Buy的合作，推广此促销活动以吸引更多消费者。"
         },
         {
@@ -1710,7 +1705,7 @@
           "published_iso": "2026-06-24T12:14:13+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 35.4,
+          "hours_since_published": 37.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1742,7 +1737,7 @@
           "published_iso": "2026-06-23T20:34:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 51.1,
+          "hours_since_published": 52.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1761,8 +1756,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "本周亚马逊、塔吉特和沃尔玛促销活动为电商销售提供了良机。",
-          "suggested_action": "建议加强电商平台的促销宣传，吸引更多消费者。"
+          "business_note": "本周亚马逊、塔吉特和沃尔玛的促销活动将显著影响电商销售。",
+          "suggested_action": "加强电商平台的促销宣传，吸引更多消费者关注。"
         },
         {
           "title": "Near Record Low on the Shokz OpenRun Pro, the Bone Conduction Headphones Runners Swear By - Gizmodo",
@@ -1772,7 +1767,7 @@
           "published_iso": "2026-06-21T21:50:07+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 97.8,
+          "hours_since_published": 99.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1796,7 +1791,7 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Shokz OpenRun Pro耳机价格接近历史低点，电商销售机会显著。",
-          "suggested_action": "加强电商平台促销，提升Shokz品牌曝光度。"
+          "suggested_action": "加强与Target的合作，提升Shokz品牌曝光和销量。"
         }
       ]
     },
@@ -1813,7 +1808,7 @@
           "published_iso": "2026-06-25T16:01:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 7.6,
+          "hours_since_published": 9.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1832,8 +1827,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz耳机在Prime Day促销中大幅降价，有助于提升品牌曝光和销量。",
-          "suggested_action": "加强电商平台的推广力度，吸引更多消费者关注Shokz耳机。"
+          "business_note": "Prime Day期间Shokz耳机大幅降价，有助于提升品牌曝光和销量。",
+          "suggested_action": "利用电商平台加强Shokz耳机的促销宣传，吸引更多消费者。"
         },
         {
           "title": "Stay aware of your surroundings with the best open-ear headphones - Runner's World",
@@ -1843,7 +1838,7 @@
           "published_iso": "2026-06-23T07:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 64.6,
+          "hours_since_published": 66.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1864,87 +1859,90 @@
       ]
     },
     {
-      "name": "earbuds",
-      "type": "品类",
+      "name": "Sony",
+      "type": "品牌",
       "count": 3,
       "items": [
         {
-          "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-          "summary": "Amazon&#8217;s Prime Day is now in its third day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Apple [&#8230;]",
-          "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-          "published": "2026-06-25T19:04:23-04:00",
-          "published_iso": "2026-06-25T23:04:23+00:00",
-          "source": "The Verge",
+          "title": "‘Simply the best wireless headphones money can buy’: I still use the Sony WH-1000XM6 every day, one year on from their launch — I've tested Bose QuietComfort Ultra and AirPods Max 2, but here's why I always come back to them - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVpDYkFqdm8xRk04ZE1qLVd6TzluWmlnVXhqXzBhWnhfQlNZZjlwNmFaejVkZjg0N1pRUkdQb205YzhSTWFQZXQ3Sm9KLXdEb2dvOXd1S3BMbWszeHVDU1ItSFpvSmc3TlR6MGhYdW00U3pJYzdTWC0zb1pBTGRHbU5tVkdHdw?oc=5\" target=\"_blank\">‘Simply the best wireless headphones money can buy’: I still use ",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVpDYkFqdm8xRk04ZE1qLVd6TzluWmlnVXhqXzBhWnhfQlNZZjlwNmFaejVkZjg0N1pRUkdQb205YzhSTWFQZXQ3Sm9KLXdEb2dvOXd1S3BMbWszeHVDU1ItSFpvSmc3TlR6MGhYdW00U3pJYzdTWC0zb1pBTGRHbU5tVkdHdw?oc=5",
+          "published": "Tue, 23 Jun 2026 08:30:00 GMT",
+          "published_iso": "2026-06-23T08:30:00+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 0.6,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "earbuds"
-            ]
-          },
-          "_score": 255,
-          "display_title": "This year’s Prime Day deals on Apple...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "今年Prime Day苹果产品折扣力度空前，电商销售机会显著。",
-          "suggested_action": "加强与亚马逊的合作，优化产品推广策略，提升销量。"
-        },
-        {
-          "title": "I've Found Deep Discounts on More Than 40 Headphones and Earbuds Thanks to Prime Day Deals - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVklOaTg4QVFMUWFIal9QOHBpbTY3b281UmpiZ0VROWlkaE42QlAyYWg4OEdqMklUeXRSWm9ZUzVfRUY4Z1FTSkozM1hLZnpib092SDZTaGYtbXlLcXAzX0Y0WHI5UHVOS1FhSnlOMWZsWUR5dzFZTTVZRU9PeWZRdlJSOVZyUm8tcHpN?oc=5\" target=\"_blank\">I've Found Deep Discounts on More Than 40 Headphones and Ea",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVklOaTg4QVFMUWFIal9QOHBpbTY3b281UmpiZ0VROWlkaE42QlAyYWg4OEdqMklUeXRSWm9ZUzVfRUY4Z1FTSkozM1hLZnpib092SDZTaGYtbXlLcXAzX0Y0WHI5UHVOS1FhSnlOMWZsWUR5dzFZTTVZRU9PeWZRdlJSOVZyUm8tcHpN?oc=5",
-          "published": "Wed, 24 Jun 2026 06:21:54 GMT",
-          "published_iso": "2026-06-24T06:21:54+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 41.3,
+          "hours_since_published": 65.0,
           "freshness_label": "近3天",
           "monitor_hits": {
-            "brands": [],
+            "brands": [
+              "Bose",
+              "Sony"
+            ],
             "channels": [],
             "categories": [
-              "earbuds",
               "headphone"
             ]
           },
-          "_score": 226,
-          "display_title": "I've Found Deep Discounts on More Than...",
+          "_score": 317,
+          "display_title": "‘Simply the best wireless headphones...",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "💰 价格促销"
+            "🚀 新品发布"
           ],
-          "impact_area": "电商"
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Sony WH-1000XM6在市场上表现优异，品牌影响力持续增强。",
+          "suggested_action": "加强对Sony品牌的电商推广，提升市场份额。"
+        },
+        {
+          "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio - ZDNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5\" target=\"_blank\">I flew 2,700 miles with Apple, Sony, and Sennheiser headphon",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDRZdVllN0F0V18zT2Italc4NTlXNVloWUxBTFNUZG13N1h1UmRERm52cm80Qk10SDZmblJ1LVpjcFZWNDN4dGFzZmRpcjQ3LWhuOUt6MGQ2ZWV0OFNsMkY2ZVJQcm4yV0N3WHlaaE8tb1VRY1o1WmJ5WTFBYXFjVldaeTZROU9CTVE?oc=5",
+          "published": "Fri, 19 Jun 2026 12:00:00 GMT",
+          "published_iso": "2026-06-19T12:00:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 157.5,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Sony",
+              "Sennheiser"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 309,
+          "display_title": "I flew 2,700 miles with Apple, Sony...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "在耳机市场中，Sony和Sennheiser的品牌影响力显著，需加强品牌营销策略。",
+          "suggested_action": "针对耳机产品，优化电商平台的品牌推广和用户评价管理。"
         }
       ]
     }
   ],
   "takeaways": [
-    "亚马逊在北美市场的主导地位进一步巩固，电商竞争将愈发激烈。",
-    "随着Target和Walmart的促销活动增加，消费者将更倾向于选择价格更具吸引力的平台。",
-    "Shokz耳机的价格接近历史低点，可能会吸引更多健身爱好者的关注。",
-    "Best Buy在促销策略上需加大力度，以应对亚马逊的强劲竞争压力。",
-    "机器人吸尘器的热销表明，智能家居产品在北美市场的需求持续增长。"
+    "亚马逊在电商市场的主导地位进一步巩固，竞争对手需加速创新以应对。",
+    "沃尔玛与Vibe.co的交易显示其对年轻消费者的重视，未来可能影响市场格局。",
+    "新品发布频繁，品牌需通过差异化策略吸引消费者，尤其是在耳机和智能家居领域。",
+    "促销活动频繁，消费者在电商平台上更倾向于寻找性价比高的产品，零售商需优化定价策略。",
+    "随着智能家居产品的普及，相关配件和服务的需求将持续增长，市场潜力巨大。"
   ],
   "opportunity_signals": [
-    "亚马逊、塔吉特和沃尔玛的促销活动为电商销售提供了良机，建议加大在这些平台的广告投放以提升品牌曝光率。",
-    "随着亚马逊超越沃尔玛成为美国最大零售商，企业应重新审视电商渠道布局，以抓住市场份额的转变。",
-    "Walmart收购Vibe.co增强广告业务，企业应考虑与新兴平台合作，提升广告效果并增强市场竞争力。"
+    "随着亚马逊超越沃尔玛成为美国最大零售商，企业应加大电商平台的投资，以抓住市场份额增长的机会。",
+    "沃尔玛收购Vibe.co后，广告业务将显著增强，企业需考虑与其合作，提升品牌曝光率和销售转化率。",
+    "在耳机市场中，Sony和Sennheiser的品牌影响力持续上升，企业应优化品牌营销策略，提升产品竞争力。"
   ],
   "risk_signals": [
-    "亚马逊超越沃尔玛成为最大零售商，可能导致市场竞争加剧，影响传统零售商的销售额和市场份额。",
-    "随着亚马逊Prime Day竞争对手促销活动的增加，消费者的购物选择多样化，可能削弱品牌忠诚度，影响长期销售策略。",
-    "沃尔玛收购Vibe.co以增强广告业务，若未能有效整合资源，可能导致广告效果不佳，影响整体营收增长。"
+    "亚马逊、沃尔玛等电商巨头的促销活动可能导致价格竞争加剧，影响利润率和市场份额。",
+    "随着亚马逊成为美国最大零售商，需警惕其对行业定价策略和消费者行为的潜在影响。",
+    "沃尔玛收购Vibe.co增强广告业务，可能加剧对亚马逊的市场挑战，需密切关注竞争动态。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

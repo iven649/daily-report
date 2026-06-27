@@ -28,6 +28,24 @@
       "_score": 24
     },
     {
+      "name": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+      "summary": "Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the ",
+      "date": "2026-06-26T19:41:12-04:00",
+      "published_iso": "2026-06-26T23:41:12+00:00",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling",
+      "date": "2026-06-26T19:26:09-04:00",
+      "published_iso": "2026-06-26T23:26:09+00:00",
+      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
       "summary": "We&#8217;ve already rounded up the best Philips Hue deals of Prime Day, but if you&#8217;re looking for something a little more budget-friendly, Govee&#8217;s latest sale is worth checking out. The company has heavily discounted several of its color-changing s",
       "date": "2026-06-26T18:51:28-04:00",
@@ -51,15 +69,6 @@
       "date": "2026-06-26T17:25:22-04:00",
       "published_iso": "2026-06-26T21:25:22+00:00",
       "url": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling",
-      "date": "2026-06-26T16:38:57-04:00",
-      "published_iso": "2026-06-26T20:38:57+00:00",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
       "source": "The Verge",
       "_score": 20
     },
@@ -98,22 +107,13 @@
       "url": "https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale",
       "source": "The Verge",
       "_score": 20
-    },
-    {
-      "name": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship",
-      "date": "2026-06-26T13:00:00-04:00",
-      "published_iso": "2026-06-26T17:00:00+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "source": "The Verge",
-      "_score": 20
     }
   ],
-  "fetched_at": 1782515864,
+  "fetched_at": 1782519552,
   "stats": {
     "source_count": 7,
-    "raw_count": 122,
-    "deduped_count": 122,
+    "raw_count": 117,
+    "deduped_count": 117,
     "kept_count": 12
   }
 }

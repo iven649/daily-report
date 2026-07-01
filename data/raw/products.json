@@ -10,15 +10,6 @@
       "_score": 24
     },
     {
-      "name": "5 Open-Ear Headphones for Runners, Swimmers, and Desk Calls - The Gadgeteer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1XS3d0TlBDSzVGSGhGSEpiQ1ZzbGZCUjFtbnlVTENJQ0JZNFRWU2ZhUGcweUlCWTc3VXNrandNQ3ZNSUZzUGhqR0o4UkJ2cFdWTFE0Q3FYTWE2QXhCVWFjUzdJa29MWXNuaXE2TzRhSQ?oc=5\" target=\"_blank\">5 Open-Ear Headphones for Runners, Sw",
-      "date": "Mon, 29 Jun 2026 06:00:07",
-      "published_iso": "2026-06-29T06:00:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XS3d0TlBDSzVGSGhGSEpiQ1ZzbGZCUjFtbnlVTENJQ0JZNFRWU2ZhUGcweUlCWTc3VXNrandNQ3ZNSUZzUGhqR0o4UkJ2cFdWTFE0Q3FYTWE2QXhCVWFjUzdJa29MWXNuaXE2TzRhSQ?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 24
-    },
-    {
       "name": "My favorite Shokz open ear headphones are $60 off for Prime Day - PCWorld",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORDVabGE1b19fdkF4ZTVBTXByYTYyb0RUQ2Itcl9teTVaaEVkak1sUmRwRlNmcHB6LUM0Sk1GWksyTlVGMjRuYWJ2Qzk4TnRiWlJ2OXZEekpYNW9PZERkc1ZsTjBZSUNYWXNTZEotRXdlN0NnU2NRUks2OFl6cHliZ1ZtQTJoZ2IzM2o4U1NuYldNVjVfV3ZVTTFJRW",
       "date": "Thu, 25 Jun 2026 16:01:00",
@@ -26,6 +17,15 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDVabGE1b19fdkF4ZTVBTXByYTYyb0RUQ2Itcl9teTVaaEVkak1sUmRwRlNmcHB6LUM0Sk1GWksyTlVGMjRuYWJ2Qzk4TnRiWlJ2OXZEekpYNW9PZERkc1ZsTjBZSUNYWXNTZEotRXdlN0NnU2NRUks2OFl6cHliZ1ZtQTJoZ2IzM2o4U1NuYldNVjVfV3ZVTTFJRWRSVW8ybEFoa0tR?oc=5",
       "source": "Google News - Competitor Watch",
       "_score": 24
+    },
+    {
+      "name": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Departmen",
+      "date": "2026-06-30T20:03:55-04:00",
+      "published_iso": "2026-07-01T00:03:55+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "source": "The Verge",
+      "_score": 20
     },
     {
       "name": "Dish files for bankruptcy, but not shutting down",
@@ -109,11 +109,11 @@
       "_score": 20
     }
   ],
-  "fetched_at": 1782861769,
+  "fetched_at": 1782865179,
   "stats": {
     "source_count": 7,
-    "raw_count": 122,
-    "deduped_count": 121,
+    "raw_count": 113,
+    "deduped_count": 112,
     "kept_count": 12
   }
 }

@@ -1,6 +1,78 @@
 {
   "consumer_electronics": [
     {
+      "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+      "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of int",
+      "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+      "published": "2026-07-04T15:06:27-04:00",
+      "published_iso": "2026-07-04T19:06:27+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+      "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain on the grid by setting their AC to 78 degr",
+      "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "published": "2026-07-04T12:19:06-04:00",
+      "published_iso": "2026-07-04T16:19:06+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
+      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you&#8217;ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to $1,495. Matic told The Verge that the new price reflects [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "published": "2026-07-04T12:00:00-04:00",
+      "published_iso": "2026-07-04T16:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
+      "summary": "Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated with everyone from Joey Bada$$ and the Rza to James Blake and hardcore punk band Trash Talk. But perhaps the most unexpecte",
+      "url": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
+      "published": "2026-07-04T11:00:00-04:00",
+      "published_iso": "2026-07-04T15:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Hey number pad lovers, this is a keyboard we can finally agree on",
+      "summary": "I know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keyboard with a charming retro aesthetic, a fun CRT-like screen, VIA compatibility, a nice typing feel, [&#8230;]",
+      "url": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+      "published": "2026-07-04T10:00:00-04:00",
+      "published_iso": "2026-07-04T14:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "The square-ish phone that I wanted to love",
+      "summary": "The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you can use it for selfies - you can even open it partway to use as a stand or a kind [&#8230;]",
+      "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+      "published": "2026-07-04T09:00:00-04:00",
+      "published_iso": "2026-07-04T13:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "The fanfiction community is at war with AI — and itself",
+      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "published": "2026-07-04T08:00:00-04:00",
+      "published_iso": "2026-07-04T12:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Qi fan fan",
+      "summary": "Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but I'm a convert after spending a week with the new $59.99 Kuxiu D5 Qi2.2 charging dock. Its active cooling system [&#8230;]",
+      "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+      "published": "2026-07-04T03:00:00-04:00",
+      "published_iso": "2026-07-04T07:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
       "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now ships [&#8230;]",
       "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
@@ -19,75 +91,39 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "This slim camera has a transparent LCD screen for a viewfinder",
-      "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its photography lighting prod",
-      "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-      "published": "2026-07-03T10:51:38-04:00",
-      "published_iso": "2026-07-03T14:51:38+00:00",
-      "source": "The Verge",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "published": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "published_iso": "2026-07-04T20:55:25+00:00",
+      "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "I finally got my Trump phone",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 (gold version), I'm finally holding one in my own hands. That's right, The Verge's Trump [&#8230;]",
-      "url": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
-      "published": "2026-07-03T10:41:11-04:00",
-      "published_iso": "2026-07-03T14:41:11+00:00",
-      "source": "The Verge",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published": "Sat, 04 Jul 2026 18:00:05 +0000",
+      "published_iso": "2026-07-04T18:00:05+00:00",
+      "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Hydration isn’t complicated: Just drink water",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Europe is melting, the eastern US is currently trapped in a \"heat dome,\" the Midwest has the corn sweats",
-      "url": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
-      "published": "2026-07-03T10:00:00-04:00",
-      "published_iso": "2026-07-03T14:00:00+00:00",
-      "source": "The Verge",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "published": "Sat, 04 Jul 2026 16:32:08 +0000",
+      "published_iso": "2026-07-04T16:32:08+00:00",
+      "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Anthropic wants to develop its own drugs",
-      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful A",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "published": "2026-07-03T09:56:52-04:00",
-      "published_iso": "2026-07-03T13:56:52+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
-      "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he \"planned or participated in any conspiracy or coordinated scheme\" for the \"purpose of injuring Apple.\" However, Prosser admitted",
-      "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
-      "published": "2026-07-03T09:12:35-04:00",
-      "published_iso": "2026-07-03T13:12:35+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
-      "summary": "In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selection of things that are IN for summer and OUT for summer - and each time there are some strong feelings. (Here are the last [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
-      "published": "2026-07-03T09:00:00-04:00",
-      "published_iso": "2026-07-03T13:00:00+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Apple TV is hitting its stride",
-      "summary": "Since its inception, Apple TV, n&#233;e Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite good. It's a strategy that has brought comparisons to the HBO of [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
-      "published": "2026-07-03T08:00:00-04:00",
-      "published_iso": "2026-07-03T12:00:00+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "published": "2026-07-03T07:49:10-04:00",
-      "published_iso": "2026-07-03T11:49:10+00:00",
-      "source": "The Verge",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "published": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "published_iso": "2026-07-04T15:51:32+00:00",
+      "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
     {
@@ -163,39 +199,75 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
-      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-      "published": "Thu, 02 Jul 2026 21:57:10 +0000",
-      "published_iso": "2026-07-02T21:57:10+00:00",
-      "source": "TechCrunch",
+      "title": "A 10-year sky survey begins filming a 'cosmic movie,' cyborg cockroaches go for a dive and more science stories",
+      "summary": "This week's science news.",
+      "url": "https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/",
+      "published": "Sat, 04 Jul 2026 19:45:00 +0000",
+      "published_iso": "2026-07-04T19:45:00+00:00",
+      "source": "Engadget",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-      "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
-      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-      "published": "Thu, 02 Jul 2026 20:42:48 +0000",
-      "published_iso": "2026-07-02T20:42:48+00:00",
-      "source": "TechCrunch",
+      "title": "How your smartwatch and AI might detect early signs of illness",
+      "summary": "Wearables are best at noticing breaks from your body's usual patterns. Those outliers can hint that something warrants further investigation with your doctor.",
+      "url": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
+      "published": "Sat, 04 Jul 2026 18:30:00 +0000",
+      "published_iso": "2026-07-04T18:30:00+00:00",
+      "source": "Engadget",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "published": "Thu, 02 Jul 2026 20:11:59 +0000",
-      "published_iso": "2026-07-02T20:11:59+00:00",
-      "source": "TechCrunch",
+      "title": "Tesla expands robotaxi service to small section of Miami",
+      "summary": "The company's robotaxi roadmap mentions future expansions to Orlando and Tampa.",
+      "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+      "published": "Sat, 04 Jul 2026 17:30:00 +0000",
+      "published_iso": "2026-07-04T17:30:00+00:00",
+      "source": "Engadget",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-      "summary": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.",
-      "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-      "published": "Thu, 02 Jul 2026 19:14:46 +0000",
-      "published_iso": "2026-07-02T19:14:46+00:00",
-      "source": "TechCrunch",
+      "title": "NASA mission to rescue the falling Swift observatory has launched",
+      "summary": "NASA has made contact with LINK, the robotic spacecraft made for the Swift Boost mission.",
+      "url": "https://www.engadget.com/2207959/nasa-boost-mission-rescue-falling-swift-observatory-launched/",
+      "published": "Sat, 04 Jul 2026 16:00:37 +0000",
+      "published_iso": "2026-07-04T16:00:37+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Tesla driver charged with manslaughter for Texas crash that killed a woman in her home",
+      "summary": "The incident is also being investigated by the National Highway Traffic Safety Administration.",
+      "url": "https://www.engadget.com/2207957/tesla-driver-charged-manslaughter-texas-crash-killed-woman-in-home/",
+      "published": "Sat, 04 Jul 2026 15:47:31 +0000",
+      "published_iso": "2026-07-04T15:47:31+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Only these iPhone models are getting the new Siri AI this fall",
+      "summary": "Some Apple devices are about to get much more intelligent, while others are getting left behind.",
+      "url": "https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/",
+      "published": "Sat, 04 Jul 2026 15:30:00 +0000",
+      "published_iso": "2026-07-04T15:30:00+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Router brands could be misleading you with that Wi-Fi 7 label",
+      "summary": "Wi-Fi standards remain as confusing as ever.",
+      "url": "https://www.engadget.com/2206012/router-brands-could-be-misleading-you-with-that-wi-fi-7-label/",
+      "published": "Sat, 04 Jul 2026 13:30:00 +0000",
+      "published_iso": "2026-07-04T13:30:00+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Midjourney wants the Hollywood studios that sued it to show the court how they use AI",
+      "summary": "Midjourney is asking the court to get Disney, Warner Bros. and Universal to submit information on their AI use.",
+      "url": "https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/",
+      "published": "Sat, 04 Jul 2026 11:33:18 +0000",
+      "published_iso": "2026-07-04T11:33:18+00:00",
+      "source": "Engadget",
       "bucket": "consumer_electronics"
     },
     {
@@ -235,75 +307,57 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Engadget Podcast: Who needs Valve's Steam Machine?",
-      "summary": "This week on the Engadget Podcast, we've got our first impressions of Valve's pricey Steam Machine, and we chat about Sony dumping PlayStation discs in 2028.",
-      "url": "https://www.engadget.com/2207598/engadget-podcast-who-needs-valve-steam-machine/",
-      "published": "Fri, 03 Jul 2026 13:35:55 +0000",
-      "published_iso": "2026-07-03T13:35:55+00:00",
-      "source": "Engadget",
+      "title": "Planning to keep your next phone for 3 years or more? Know these 7 tips before buying",
+      "summary": "From charging cycles to durability, here's what you should know before buying your next phone for the long haul.",
+      "url": "https://www.androidauthority.com/buying-phone-long-term-tips-3680435/",
+      "published": "Sat, 04 Jul 2026 12:00:37 +0000",
+      "published_iso": "2026-07-04T12:00:37+00:00",
+      "source": "Android Authority",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "How to claim a WhatsApp username",
-      "summary": "Get ready to navigate a free-for-all of social media handles.",
-      "url": "https://www.engadget.com/2207358/how-to-claim-whatsapp-username/",
-      "published": "Fri, 03 Jul 2026 13:30:00 +0000",
-      "published_iso": "2026-07-03T13:30:00+00:00",
-      "source": "Engadget",
+      "title": "With T-Mobile killing legacy plans, Verizon is the only big US carrier I recommend in 2026",
+      "summary": "Verizon is getting easier to recommend than it once was.",
+      "url": "https://www.androidauthority.com/verizon-only-big-us-carrier-recommend-2026-3683420/",
+      "published": "Sat, 04 Jul 2026 11:00:07 +0000",
+      "published_iso": "2026-07-04T11:00:07+00:00",
+      "source": "Android Authority",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "PlayStation just struck a hammer blow to game preservation",
-      "summary": "Killing game discs is an anti-consumer move that only benefits Sony.",
-      "url": "https://www.engadget.com/2207297/playstation-just-struck-a-hammer-blow-to-game-preservation/",
-      "published": "Fri, 03 Jul 2026 12:30:00 +0000",
-      "published_iso": "2026-07-03T12:30:00+00:00",
-      "source": "Engadget",
+      "title": "I turned my old Android phone into an iPod Classic for $5, and I couldn’t be happier",
+      "summary": "NostalgicPod captures nearly everything that made the iPod special.",
+      "url": "https://www.androidauthority.com/turned-android-phone-into-ipod-nostalgicpod-hands-on-3682104/",
+      "published": "Sat, 04 Jul 2026 10:30:06 +0000",
+      "published_iso": "2026-07-04T10:30:06+00:00",
+      "source": "Android Authority",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony already invested $34 million to repurpose its EU PlayStation disc factory",
-      "summary": "Sony is converting its PlayStation disc factory into a plant for optical microlenses.",
-      "url": "https://www.engadget.com/2207546/sony-repurposing-austrian-playstation-disc-factory/",
-      "published": "Fri, 03 Jul 2026 11:12:15 +0000",
-      "published_iso": "2026-07-03T11:12:15+00:00",
-      "source": "Engadget",
+      "title": "5 Android phones you should buy instead of the Moto G Power (2026)",
+      "summary": "It's not the only option for $400.",
+      "url": "https://www.androidauthority.com/motorola-moto-g-power-2026-alternatives-3682487/",
+      "published": "Sat, 04 Jul 2026 10:00:20 +0000",
+      "published_iso": "2026-07-04T10:00:20+00:00",
+      "source": "Android Authority",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Microsoft filing shows how it shifts profits around to reduce its European tax bill",
-      "summary": "A new mandatory compliance report released by Microsoft shows how it declares profits in different European nations to reduce its tax bill.",
-      "url": "https://www.engadget.com/2207542/microsoft-eu-tax-disclosure-report/",
-      "published": "Fri, 03 Jul 2026 11:01:52 +0000",
-      "published_iso": "2026-07-03T11:01:52+00:00",
-      "source": "Engadget",
+      "title": "This gorgeous Android launcher is basically dead — and it’s all Google’s fault",
+      "summary": "Google's rigid app policies are already driving developers to despair.",
+      "url": "https://www.androidauthority.com/stario-launcher-hands-on-dead-google-fault-3682817/",
+      "published": "Sat, 04 Jul 2026 09:30:55 +0000",
+      "published_iso": "2026-07-04T09:30:55+00:00",
+      "source": "Android Authority",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Tesla's Model Y L finally comes to the US with six seats and a $62,000 price tag",
-      "summary": "Tesla has started taking orders for the Model Y Long Wheelbase in the US and Puerto Rico.",
-      "url": "https://www.engadget.com/2207503/teslas-model-y-long-wheelbase-comes-to-the-us/",
-      "published": "Fri, 03 Jul 2026 07:00:33 +0000",
-      "published_iso": "2026-07-03T07:00:33+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Meta has released an app for making generative AI games",
-      "summary": "Pocket is listed in app stores but seemingly unavailable in the US.",
-      "url": "https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/",
-      "published": "Thu, 02 Jul 2026 22:53:42 +0000",
-      "published_iso": "2026-07-02T22:53:42+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Cloudflare will filter out web crawlers that serve AI companies",
-      "summary": "The hosting platform wants sites to have more control over how AI companies use their content.",
-      "url": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/",
-      "published": "Thu, 02 Jul 2026 21:17:10 +0000",
-      "published_iso": "2026-07-02T21:17:10+00:00",
-      "source": "Engadget",
+      "title": "I self-hosted PewDiePie’s Odysseus AI workspace, and it’s surprisingly brilliant",
+      "summary": "A genuinely powerful privacy-focused AI workspace made by a YouTuber? Get out of here.",
+      "url": "https://www.androidauthority.com/pewdiepie-odysseus-ai-hands-on-3682909/",
+      "published": "Sat, 04 Jul 2026 09:00:01 +0000",
+      "published_iso": "2026-07-04T09:00:01+00:00",
+      "source": "Android Authority",
       "bucket": "consumer_electronics"
     },
     {
@@ -361,60 +415,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Google Maps may soon expand beyond restaurant suggestions to actually placing your order",
-      "summary": "Maps could place your food order while you're already driving to pick it up.",
-      "url": "https://www.androidauthority.com/google-maps-food-order-3684065/",
-      "published": "Fri, 03 Jul 2026 16:39:14 +0000",
-      "published_iso": "2026-07-03T16:39:14+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Need a budget 55-inch smart TV? This Insignia Fire TV is 49% off",
-      "summary": "The Insignia 55-inch 4K Fire TV drops to $179.99, which matches the best deal we've ever seen on the affordable display.",
-      "url": "https://www.androidauthority.com/insignia-fire-tv-4k-deal-3684156/",
-      "published": "Fri, 03 Jul 2026 16:19:39 +0000",
-      "published_iso": "2026-07-03T16:19:39+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Google Sheets gets a key visual improvement for data nerds",
-      "summary": "Google is finally letting Sheets users import 3D bar charts to their spreadsheets the right way.",
-      "url": "https://www.androidauthority.com/google-sheets-3d-graphs-3684085/",
-      "published": "Fri, 03 Jul 2026 15:26:37 +0000",
-      "published_iso": "2026-07-03T15:26:37+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Amazon slashes $80 off the Eufy Security Video Doorbell E340 Kit",
-      "summary": "Eufy’s dual-camera video doorbell drops to $139.99, with package monitoring, color night vision, and no monthly fee.",
-      "url": "https://www.androidauthority.com/eufy-security-video-doorbell-e340-kit-deal-3684141/",
-      "published": "Fri, 03 Jul 2026 15:19:47 +0000",
-      "published_iso": "2026-07-03T15:19:47+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Google is finally banning Chrome extensions that let you jailbreak chatbots",
-      "summary": "Google gives Chrome extension developers a month to meet new policies.",
-      "url": "https://www.androidauthority.com/chrome-web-store-extension-stricter-rules-3684115/",
-      "published": "Fri, 03 Jul 2026 14:54:45 +0000",
-      "published_iso": "2026-07-03T14:54:45+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "The Samsung Galaxy A57 5G is still at its teasing Prime Day price on Amazon!",
-      "summary": "The Samsung Galaxy A57 5G is still at an all-time low price of just $509.99 for the 256GB model with a 4.6-star rating.",
-      "url": "https://www.androidauthority.com/samsung-galaxy-a57-2026-deal-3684112/",
-      "published": "Fri, 03 Jul 2026 14:41:34 +0000",
-      "published_iso": "2026-07-03T14:41:34+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "The Best Action Cameras We've Tested for 2026 - PCMag",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RExXZTdUQWhrdVZqbDFWbVVKT19UaDRNZGw1cGpFeWRFdWQtaTd5SUdfVU1WVXUzczRScm1tM3lkYlQ0TF8wMjRkblZFd3p4R0pWRUV5emhvaUhfdFNycQ?oc=5\" target=\"_blank\">The Best Action Cameras We've Tested for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RExXZTdUQWhrdVZqbDFWbVVKT19UaDRNZGw1cGpFeWRFdWQtaTd5SUdfVU1WVXUzczRScm1tM3lkYlQ0TF8wMjRkblZFd3p4R0pWRUV5emhvaUhfdFNycQ?oc=5",
@@ -424,11 +424,29 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "Listen to Music Through Your Cheekbones With the Best Bone Conduction Headphones - WIRED",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUy1FMTd2bmttLVFyRktGbWtIWmwyNGdEVEJmWlZWTzEyYkJ6TzRRMl9Qc3c0UTQxQ0U4NHVkVTdkbDhiU185RHhLNjRKaHJ1aE5UOGJTbG1sNWZiUkVNckx1eDFyWk82T1JtaGZaVQ?oc=5\" target=\"_blank\">Listen to Music Through Your Cheekbones With the Best Bone Conduction Headphones</a>&nbsp;&nbsp;<",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUy1FMTd2bmttLVFyRktGbWtIWmwyNGdEVEJmWlZWTzEyYkJ6TzRRMl9Qc3c0UTQxQ0U4NHVkVTdkbDhiU185RHhLNjRKaHJ1aE5UOGJTbG1sNWZiUkVNckx1eDFyWk82T1JtaGZaVQ?oc=5",
+      "published": "Fri, 03 Jul 2026 11:30:00 GMT",
+      "published_iso": "2026-07-03T11:30:00+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-      "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-      "published_iso": "2026-07-03T20:27:44+00:00",
+      "published": "Sat, 04 Jul 2026 13:14:53 GMT",
+      "published_iso": "2026-07-04T13:14:53+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "We Went Diving With Sharks to Find the Best Action Cameras - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBMSzNycHdtSXdWQks1N3VJejlmMW14cGo3WlhUX3BZUUtrQm40QUZ3STJSRjlkSXd0MjNBS2htU2kxT0pZOENCclZNMTgzSW5MNF90UlZEOXl6bW1zOHJmTzk5amVyVlNUX1EwNnBJWQ?oc=5\" target=\"_blank\">We Went Diving With Sharks to Find the Best Action Cameras</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMSzNycHdtSXdWQks1N3VJejlmMW14cGo3WlhUX3BZUUtrQm40QUZ3STJSRjlkSXd0MjNBS2htU2kxT0pZOENCclZNMTgzSW5MNF90UlZEOXl6bW1zOHJmTzk5amVyVlNUX1EwNnBJWQ?oc=5",
+      "published": "Thu, 02 Jul 2026 14:59:23 GMT",
+      "published_iso": "2026-07-02T14:59:23+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -451,15 +469,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "5 Hacks Every Shokz User Should Know - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE82SzFVaU9mcWFYMlltNzRrMFFRcVNtYkVKWWd3bkp2VmI2Wm5PMWJTc0dVNUFEMFZ3VE1MUk9HSVBLcjZwUHR0QV9WRjRLbTBvbXZGLUt3UHhpeVI0NVJCTDJSYnhzMDFTOTA0VTIzY2Zvb3ZwZjUtMA?oc=5\" target=\"_blank\">5 Hacks Every Shokz User Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lifehacker<",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82SzFVaU9mcWFYMlltNzRrMFFRcVNtYkVKWWd3bkp2VmI2Wm5PMWJTc0dVNUFEMFZ3VE1MUk9HSVBLcjZwUHR0QV9WRjRLbTBvbXZGLUt3UHhpeVI0NVJCTDJSYnhzMDFTOTA0VTIzY2Zvb3ZwZjUtMA?oc=5",
-      "published": "Wed, 01 Jul 2026 21:00:00 GMT",
-      "published_iso": "2026-07-01T21:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "The 8 best headphones and earbuds of 2026, as tested by our audio editor - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPSEVLd3BoTm1WLUZxMjJpcWhSUjFPZVhNWDVrTWRvY2NSVHlJWjhnSTJFSjZSQ09ZUk9oNDBLWlVvZWREbU9jQW9Ublc1M2xEb0hZQUZISjNiUG5MTzVlVG9rTkNYZE1taWVnUGxhUFFDTHhKaDducmhURTlDbi1KUXltY0NvNlZIeUg2VGxoeWVGNUh2RDMySjc0YUNrTjdJVkFHSmRVd1ljd1NvUEMxeldib1o2NnM4SkVlX1lwMlNiLUZBNGVVZU",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSEVLd3BoTm1WLUZxMjJpcWhSUjFPZVhNWDVrTWRvY2NSVHlJWjhnSTJFSjZSQ09ZUk9oNDBLWlVvZWREbU9jQW9Ublc1M2xEb0hZQUZISjNiUG5MTzVlVG9rTkNYZE1taWVnUGxhUFFDTHhKaDducmhURTlDbi1KUXltY0NvNlZIeUg2VGxoeWVGNUh2RDMySjc0YUNrTjdJVkFHSmRVd1ljd1NvUEMxeldib1o2NnM4SkVlX1lwMlNiLUZBNGVVZU03TmVqdXdUaE9abF9qOVkwUU8teXFoSWQ0T0I0N19RcFF4Q2h1eWgzel9xUXp5bGx3VmtWN3JMcVU3XzZkT2hpb25JMjNYSjZVUQ?oc=5",
@@ -478,11 +487,11 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "I test tech all year — these are the Prime Day deals I’d actually buy right now - NBC News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajZmMFNUSkZnc0l3U1NhU3dxUlpwcFVKalRIcTY4RTJXYm1va0x3aGtZbUZkUkc1dGhoNEpUMkYtak9ucG1vTXNRM2dXaWZJaUR3Ujk1UXBydDVISFQxRHhPbjNKYVRfNHhpTlRyZXhhblRtQlhWcThWaDAtOXdDV1FzM0h5LV9vVmpF?oc=5\" target=\"_blank\">I test tech all year — these are the Prime Day deals I’d ac",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajZmMFNUSkZnc0l3U1NhU3dxUlpwcFVKalRIcTY4RTJXYm1va0x3aGtZbUZkUkc1dGhoNEpUMkYtak9ucG1vTXNRM2dXaWZJaUR3Ujk1UXBydDVISFQxRHhPbjNKYVRfNHhpTlRyZXhhblRtQlhWcThWaDAtOXdDV1FzM0h5LV9vVmpF?oc=5",
-      "published": "Sat, 27 Jun 2026 01:15:00 GMT",
-      "published_iso": "2026-06-27T01:15:00+00:00",
+      "title": "World Cup fans react after camera cuts to gigantic dog in stands wearing headphones - Yahoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTlB6YldjYVk4VUNVVkFqbmxUX1h4NmhTSjJoeEh6RVVzTjVDckZFYTE5aFlWaGVkLUpFVnhaU21xNzh1YzVVYW1MU0I1SWpabXVwc29oM01CRU1keWoteDZfOTQxVU8wUlF5YmJRcU5mNHJuZXp1V1Bsc0hCNE8zMnpnUVVmcEZrWVdQazd3TTg5TXowRTl3UG9Kd1UzZw?oc=5\" target=\"_blank\">World Cup fans react after camera",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlB6YldjYVk4VUNVVkFqbmxUX1h4NmhTSjJoeEh6RVVzTjVDckZFYTE5aFlWaGVkLUpFVnhaU21xNzh1YzVVYW1MU0I1SWpabXVwc29oM01CRU1keWoteDZfOTQxVU8wUlF5YmJRcU5mNHJuZXp1V1Bsc0hCNE8zMnpnUVVmcEZrWVdQazd3TTg5TXowRTl3UG9Kd1UzZw?oc=5",
+      "published": "Sat, 04 Jul 2026 08:40:26 GMT",
+      "published_iso": "2026-07-04T08:40:26+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -496,15 +505,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Cyclists ride around Bonifacio Global City in Taguig City while wearing AI-powered smart sports glasses on Saturday. The AI-powered action camera also features real-time communication, and open-ear audio, enabling them to record rides, stay connected, e - facebook.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHVZUFl0bEUwRjJtMElCaDgwQVozQTNBZXFyTXJmQU5FcUZESUxIXzFkWkpxYmJmQ1VFWWo4X3lVMUt3dnZHa1ZXSXIwRWhVRFE5LThlNVhOWll6SDk3TzhiUDRPeW9xYUNUYml3UFNhNnh2emRUN08wd3ZvY2FFWTgxbmlUV01BM1UyQzA5QkVDRjVzYUZORGVzSFJsRS1aR0dCMktLRFhselI5cUdNYWdRRVdkYlpqRTJGNWV2TWpqZ2ZyUWZOZm",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHVZUFl0bEUwRjJtMElCaDgwQVozQTNBZXFyTXJmQU5FcUZESUxIXzFkWkpxYmJmQ1VFWWo4X3lVMUt3dnZHa1ZXSXIwRWhVRFE5LThlNVhOWll6SDk3TzhiUDRPeW9xYUNUYml3UFNhNnh2emRUN08wd3ZvY2FFWTgxbmlUV01BM1UyQzA5QkVDRjVzYUZORGVzSFJsRS1aR0dCMktLRFhselI5cUdNYWdRRVdkYlpqRTJGNWV2TWpqZ2ZyUWZOZmY4ckZ4SlFaUkJCMHNBZUZfcEZM?oc=5",
-      "published": "Sat, 27 Jun 2026 20:13:13 GMT",
-      "published_iso": "2026-06-27T20:13:13+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Best POV camera in 2026 – Tiny hands-free action cameras you can wear and go - Digital Camera World",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbDZVeU1FSVdhVVRPMWwtYnFfZzdzdjlDeEFxOHkxQ3RaRndSUTY0RzNHZ3NOc2pGZmFnNmx3OEtOd09nQm1wVFRYQjZMRF9xbkZTSnlUeGFfeFNUdFZLcGtLWDQxbl9ZWld4YlhXWnFjNGlKdk1zYmRvWmtBUQ?oc=5\" target=\"_blank\">Best POV camera in 2026 – Tiny hands-free action cameras you can wear and go<",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbDZVeU1FSVdhVVRPMWwtYnFfZzdzdjlDeEFxOHkxQ3RaRndSUTY0RzNHZ3NOc2pGZmFnNmx3OEtOd09nQm1wVFRYQjZMRF9xbkZTSnlUeGFfeFNUdFZLcGtLWDQxbl9ZWld4YlhXWnFjNGlKdk1zYmRvWmtBUQ?oc=5",
@@ -514,11 +514,11 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "BleeqUp AI Ranger Sports Glasses launched in the Philippines - YugaTech",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDk1WUQtcU9ubTFxZEVZNXV6eWJ3UXFObmNoU21DeVUwU0s4VTZldjRjOTdNeXpYejhkZkQ5bkRhNEZXM2lWYzQ4cG44VnR6dzl3ZXdIaFZScWllOWF6X1BWemFSclVHVThDM1U5X2l6VzVyT0RPVmdjcGoxS0FIOGJHVmFPOURHLWNhVFR3TEpqTXNMTHc?oc=5\" target=\"_blank\">BleeqUp AI Ranger Sports Glasses launched in",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDk1WUQtcU9ubTFxZEVZNXV6eWJ3UXFObmNoU21DeVUwU0s4VTZldjRjOTdNeXpYejhkZkQ5bkRhNEZXM2lWYzQ4cG44VnR6dzl3ZXdIaFZScWllOWF6X1BWemFSclVHVThDM1U5X2l6VzVyT0RPVmdjcGoxS0FIOGJHVmFPOURHLWNhVFR3TEpqTXNMTHc?oc=5",
-      "published": "Mon, 29 Jun 2026 19:15:34 GMT",
-      "published_iso": "2026-06-29T19:15:34+00:00",
+      "title": "Top 10 Best Headphones for Snowmobile Helmet You Need Now - mikesmowersspokane.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5EeG0ycEJUeWpSY2JXaXdDV0paUDkyUEF3OEQ5dkUzZFpBb21RUHpfZkxGZUd1clFuNUtvX3BmOFFzV0FMaXZwVHFTUUNpSmk4d2IxNTJUdzJCRG84R3paOS00ZTlXYnBoVGYxZHQ4dU9uVVlHNHZKQw?oc=5\" target=\"_blank\">Top 10 Best Headphones for Snowmobile Helmet You Need Now</a>&nbsp;&nbsp;<font color=",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EeG0ycEJUeWpSY2JXaXdDV0paUDkyUEF3OEQ5dkUzZFpBb21RUHpfZkxGZUd1clFuNUtvX3BmOFFzV0FMaXZwVHFTUUNpSmk4d2IxNTJUdzJCRG84R3paOS00ZTlXYnBoVGYxZHQ4dU9uVVlHNHZKQw?oc=5",
+      "published": "Thu, 02 Jul 2026 06:25:53 GMT",
+      "published_iso": "2026-07-02T06:25:53+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -550,11 +550,11 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony’s PlayStation disc factory is already being repurposed - The Verge",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORFdwQXVWeWNwTjMta1hObDVJMTZBd1VhWThGVnh3TVpreHVyR0dvWlRXZEgtbTBrcVJVeEg5UE5uRnU1Rl9qZjBNRDZTZ0R3R01NVm9PSmcxS1pNX1NUd2RBTXpEQ1RSdmx3clNoZGdvQXMycTdVdjM1dUdfb0ZRdnJ1S1RQRTlXZGpiX1dLUG00X21lS2JJZkZ5SU1SY3c?oc=5\" target=\"_blank\">Sony’s PlayStation disc factory ",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFdwQXVWeWNwTjMta1hObDVJMTZBd1VhWThGVnh3TVpreHVyR0dvWlRXZEgtbTBrcVJVeEg5UE5uRnU1Rl9qZjBNRDZTZ0R3R01NVm9PSmcxS1pNX1NUd2RBTXpEQ1RSdmx3clNoZGdvQXMycTdVdjM1dUdfb0ZRdnJ1S1RQRTlXZGpiX1dLUG00X21lS2JJZkZ5SU1SY3c?oc=5",
-      "published": "Fri, 03 Jul 2026 01:05:00 GMT",
-      "published_iso": "2026-07-03T01:05:00+00:00",
+      "title": "We found 15+ headphone deals still live post-Prime Day: Sony, Bose, Marshall - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVdSWlVLRXJHYlFvUHJzLWdlU1FmZE52Wk40UXY3RWRfMVZ6TXF3U0p6Y0p3MVpDMG50cTNidFhWcFNFWGFiYjJhdFcxNEFQM2g5QUVBYmhONlZNV0tuZVAtSWRZT1hBbDZ1ZEpxYVZNRWwzbGc?oc=5\" target=\"_blank\">We found 15+ headphone deals still live post-Prime Day: Sony, Bose, Marshall</a>&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVdSWlVLRXJHYlFvUHJzLWdlU1FmZE52Wk40UXY3RWRfMVZ6TXF3U0p6Y0p3MVpDMG50cTNidFhWcFNFWGFiYjJhdFcxNEFQM2g5QUVBYmhONlZNV0tuZVAtSWRZT1hBbDZ1ZEpxYVZNRWwzbGc?oc=5",
+      "published": "Sat, 04 Jul 2026 09:00:00 GMT",
+      "published_iso": "2026-07-04T09:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -568,20 +568,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Playstation Discs Will Be Scrapped Starting In 2028 - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmVZRWNFOTlUQVFlUDRCcTNHdkVxQlVPTXJrVndTUTNZRXZGRzlJcW9uNW5QTU1JTTlQNG5sUFo0b3RISlJpcU9jZUktajhyS2N2SkxIWXBSNXhlMm9tbDJvQUM1Nk9nbmh5TFBxMzcwQ3B3bnZIdm5fajJLVEtZcW42cEx4c2ZjWS1BZERyWTd1N1V4bnNOckNydGhJZ2cwbFZJTEFUaE0?oc=5\" target=\"_blank\">Playstation Discs Wi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmVZRWNFOTlUQVFlUDRCcTNHdkVxQlVPTXJrVndTUTNZRXZGRzlJcW9uNW5QTU1JTTlQNG5sUFo0b3RISlJpcU9jZUktajhyS2N2SkxIWXBSNXhlMm9tbDJvQUM1Nk9nbmh5TFBxMzcwQ3B3bnZIdm5fajJLVEtZcW42cEx4c2ZjWS1BZERyWTd1N1V4bnNOckNydGhJZ2cwbFZJTEFUaE0?oc=5",
-      "published": "Wed, 01 Jul 2026 13:04:44 GMT",
-      "published_iso": "2026-07-01T13:04:44+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Sony to stop making physical discs for PlayStation starting in 2028 - CBS News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE91dzEtUWxLWjRhSVM3djBMbVBlcnJXQXF4d1pTYU9JbXpYQ29QV3lvdGV4UFVNZENycUlvN2xUZTh3WTY0WnZRVzJHRWFtNEtjNC1QVVpsbXdVX0NDaHdJelc5LWpTQUpwQ2VzVFo5MVFRM25ONUJCSDc0b0h5N1E?oc=5\" target=\"_blank\">Sony to stop making physical discs for PlayStation starting in 2028</a>&nbsp",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91dzEtUWxLWjRhSVM3djBMbVBlcnJXQXF4d1pTYU9JbXpYQ29QV3lvdGV4UFVNZENycUlvN2xUZTh3WTY0WnZRVzJHRWFtNEtjNC1QVVpsbXdVX0NDaHdJelc5LWpTQUpwQ2VzVFo5MVFRM25ONUJCSDc0b0h5N1E?oc=5",
       "published": "Wed, 01 Jul 2026 14:43:00 GMT",
       "published_iso": "2026-07-01T14:43:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Sony to end discs for new PlayStation releases as gaming shifts online - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnF4VkZTWGpLendNNEpEeFBXbmRtblRLS25kVUNYckdpMU9ka3BQeWIxdkRrZmRhNlpsZjFxd1lRRWZKMDM4czcxa3FqT1BON3F0SE44VWlrY24xdXRoUE5mWmRkWWtoRGhyWHJJN1VqQklnaFFkRG0tUXI3cVozUDluRXB4YmVYd1BWY1lWVEg1dWVVRDFZOUpMaE9ac0E4cTMxRHFKck15eF9HWFYtNlZvR3Q5UQ?oc=5\" target=\"_blank\">S",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnF4VkZTWGpLendNNEpEeFBXbmRtblRLS25kVUNYckdpMU9ka3BQeWIxdkRrZmRhNlpsZjFxd1lRRWZKMDM4czcxa3FqT1BON3F0SE44VWlrY24xdXRoUE5mWmRkWWtoRGhyWHJJN1VqQklnaFFkRG0tUXI3cVozUDluRXB4YmVYd1BWY1lWVEg1dWVVRDFZOUpMaE9ac0E4cTMxRHFKck15eF9HWFYtNlZvR3Q5UQ?oc=5",
+      "published": "Wed, 01 Jul 2026 18:51:23 GMT",
+      "published_iso": "2026-07-01T18:51:23+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -604,20 +604,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony to end discs for new PlayStation releases as gaming shifts online - Reuters",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnF4VkZTWGpLendNNEpEeFBXbmRtblRLS25kVUNYckdpMU9ka3BQeWIxdkRrZmRhNlpsZjFxd1lRRWZKMDM4czcxa3FqT1BON3F0SE44VWlrY24xdXRoUE5mWmRkWWtoRGhyWHJJN1VqQklnaFFkRG0tUXI3cVozUDluRXB4YmVYd1BWY1lWVEg1dWVVRDFZOUpMaE9ac0E4cTMxRHFKck15eF9HWFYtNlZvR3Q5UQ?oc=5\" target=\"_blank\">S",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnF4VkZTWGpLendNNEpEeFBXbmRtblRLS25kVUNYckdpMU9ka3BQeWIxdkRrZmRhNlpsZjFxd1lRRWZKMDM4czcxa3FqT1BON3F0SE44VWlrY24xdXRoUE5mWmRkWWtoRGhyWHJJN1VqQklnaFFkRG0tUXI3cVozUDluRXB4YmVYd1BWY1lWVEg1dWVVRDFZOUpMaE9ac0E4cTMxRHFKck15eF9HWFYtNlZvR3Q5UQ?oc=5",
-      "published": "Wed, 01 Jul 2026 18:51:23 GMT",
-      "published_iso": "2026-07-01T18:51:23+00:00",
+      "title": "I brought a Bose, Sony, and JBL speaker to the beach - this one's my new outdoor essential - ZDNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGI4RzIxWVVDaWhVZVptQ0ZudGhWdk1YWkt3M05XUWRHZGp0VGY4Y3dzNmZJcWlZSURPVjVJWEdEemt1ODl4THB5MzdaSXRmU3k1TTdFOVNtS3U5dmJVWWtNcFJtRGNnOHRrbG1xdkdTRTNoRmVsLVhUZ2RHMHhfSkNIT3JGcjFtSm5VeGRzdlJ5RjBFWjU3ZTEyUDJNb3BTWnZEa0FCSHlkWnJzS04weA?oc=5\" target=\"_blank\">I brought",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGI4RzIxWVVDaWhVZVptQ0ZudGhWdk1YWkt3M05XUWRHZGp0VGY4Y3dzNmZJcWlZSURPVjVJWEdEemt1ODl4THB5MzdaSXRmU3k1TTdFOVNtS3U5dmJVWWtNcFJtRGNnOHRrbG1xdkdTRTNoRmVsLVhUZ2RHMHhfSkNIT3JGcjFtSm5VeGRzdlJ5RjBFWjU3ZTEyUDJNb3BTWnZEa0FCSHlkWnJzS04weA?oc=5",
+      "published": "Tue, 30 Jun 2026 20:31:00 GMT",
+      "published_iso": "2026-06-30T20:31:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony will cease production of discs for new PlayStation games in 2028 - Game File | Stephen Totilo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUJMSjJFOGZBMjNGblJHaE9qMDZKYmxIRXN4cHNzcnBpcFBhYTdzN3JXZTltdTY4NFhDQ0RwTGVrQmxzQnVyWWV3UENZS0diZEIycF91M092ei1BZy1GY0E1UFpIZmhXb3ZFUGV3WDRDRl9HVFhPQWhVcEFfOFY5aGJCcTU5ZDBEZmJUbUFB?oc=5\" target=\"_blank\">Sony will cease production of discs for new PlayStation",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUJMSjJFOGZBMjNGblJHaE9qMDZKYmxIRXN4cHNzcnBpcFBhYTdzN3JXZTltdTY4NFhDQ0RwTGVrQmxzQnVyWWV3UENZS0diZEIycF91M092ei1BZy1GY0E1UFpIZmhXb3ZFUGV3WDRDRl9HVFhPQWhVcEFfOFY5aGJCcTU5ZDBEZmJUbUFB?oc=5",
-      "published": "Wed, 01 Jul 2026 12:01:51 GMT",
-      "published_iso": "2026-07-01T12:01:51+00:00",
+      "title": "Sony PlayStation to End Production of Physical Game Discs in 2028 - The Hollywood Reporter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFlRcG5nMF9TYVcyWnZfdHQya0pCRTZ2TnRQc1RNTzNDUU1sLWxyd1hTalRYVFZoMU4wWFFVWU5lUHZfLUdCeTJxTFVxQkZHRllZUnEwcjRsVnVJU0NKbEJZM2ljOTlSZjExMnR3Q3R5OFFoWnVZVFB6bzVoUlFLYXB0ZmZGNXdtcE4tbG9UbklZVUtDbGkxcEx4RlMwTUpXR01wNHdva2pBb3hQ?oc=5\" target=\"_blank\">Sony PlayStatio",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFlRcG5nMF9TYVcyWnZfdHQya0pCRTZ2TnRQc1RNTzNDUU1sLWxyd1hTalRYVFZoMU4wWFFVWU5lUHZfLUdCeTJxTFVxQkZHRllZUnEwcjRsVnVJU0NKbEJZM2ljOTlSZjExMnR3Q3R5OFFoWnVZVFB6bzVoUlFLYXB0ZmZGNXdtcE4tbG9UbklZVUtDbGkxcEx4RlMwTUpXR01wNHdva2pBb3hQ?oc=5",
+      "published": "Wed, 01 Jul 2026 12:39:05 GMT",
+      "published_iso": "2026-07-01T12:39:05+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -948,6 +948,15 @@
       "bucket": "channel_news"
     },
     {
+      "title": "Amazon’s Prime Day drives online sales in the US up 9.3% - Retail Dive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVlUMTBSWEFQU08wT0EzMGt4clI3cTQ4N2o4Z3NxbF9xRzRUcGdqWE9weG02MS1waFprYnBrNzgzRVBXOWl1WGFPQnlGQVJYd0d6VXhua2Z0R2ExOTVGNjhmRGNjb2JJX3pkc0l4bVo3RWJycFJRZFNIbnVoTUtuSzhiU3ZHSmhFSXBvOU9yRW5icFBP?oc=5\" target=\"_blank\">Amazon’s Prime Day drives online sales in the U",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVlUMTBSWEFQU08wT0EzMGt4clI3cTQ4N2o4Z3NxbF9xRzRUcGdqWE9weG02MS1waFprYnBrNzgzRVBXOWl1WGFPQnlGQVJYd0d6VXhua2Z0R2ExOTVGNjhmRGNjb2JJX3pkc0l4bVo3RWJycFJRZFNIbnVoTUtuSzhiU3ZHSmhFSXBvOU9yRW5icFBP?oc=5",
+      "published": "Mon, 29 Jun 2026 16:37:02 GMT",
+      "published_iso": "2026-06-29T16:37:02+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
       "title": "Amazon and Walmart’s Summer Sale Wars Deliver a Win (With An Asterisk) - PYMNTS.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmE1d0VzMUJjd29kdDBKUHh5SDFIaF9KbVhFZEZ4UUg3VWtPVDVQMDF2VU80UVR0NFNFMWp1ajJSd0t2U0NiSUV3NlBxREhtNzVta3h4XzBjT1ZObk1ub2JYRm1rQmN5Z1Z4TE5Ja0FnMThhMnI2MlpuWXNaT25YMlVwQ3JZZjBackllZ3VpVUxYTGpzNUp1YTlMQ0JodUM1Mkd1d2wxSGtNN19s?oc=5\" target=\"_blank\">Amazon and Walm",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmE1d0VzMUJjd29kdDBKUHh5SDFIaF9KbVhFZEZ4UUg3VWtPVDVQMDF2VU80UVR0NFNFMWp1ajJSd0t2U0NiSUV3NlBxREhtNzVta3h4XzBjT1ZObk1ub2JYRm1rQmN5Z1Z4TE5Ja0FnMThhMnI2MlpuWXNaT25YMlVwQ3JZZjBackllZ3VpVUxYTGpzNUp1YTlMQ0JodUM1Mkd1d2wxSGtNN19s?oc=5",
@@ -957,11 +966,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Amazon’s Prime Day drives online sales in the US up 9.3% - Retail Dive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVlUMTBSWEFQU08wT0EzMGt4clI3cTQ4N2o4Z3NxbF9xRzRUcGdqWE9weG02MS1waFprYnBrNzgzRVBXOWl1WGFPQnlGQVJYd0d6VXhua2Z0R2ExOTVGNjhmRGNjb2JJX3pkc0l4bVo3RWJycFJRZFNIbnVoTUtuSzhiU3ZHSmhFSXBvOU9yRW5icFBP?oc=5\" target=\"_blank\">Amazon’s Prime Day drives online sales in the U",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVlUMTBSWEFQU08wT0EzMGt4clI3cTQ4N2o4Z3NxbF9xRzRUcGdqWE9weG02MS1waFprYnBrNzgzRVBXOWl1WGFPQnlGQVJYd0d6VXhua2Z0R2ExOTVGNjhmRGNjb2JJX3pkc0l4bVo3RWJycFJRZFNIbnVoTUtuSzhiU3ZHSmhFSXBvOU9yRW5icFBP?oc=5",
-      "published": "Mon, 29 Jun 2026 16:37:02 GMT",
-      "published_iso": "2026-06-29T16:37:02+00:00",
+      "title": "Q1 Earnings Roundup: Best Buy (NYSE:BBY) And The Rest Of The Specialty Retail Segment - StockStory",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQzhSM19GOVdMQnBQWTFPS2g5cHotbU5UMnM1S184TVpJNGNUSUVqV3FsaFhNcHFOZU5aUExubVl2OE9fUzRqSzZfWlhpSjB4ZmZXQ2VxMGxZdjduRzV2TDlVM1Izc3RkS0pfbXZqRkUxZW5kR3h0amJwQVBsQXpwanNaU2NJZXAtSERXRFFQTWdFVVFEYnp2X3pqSG1nRTl6bk5hZGdoMXhVazdPSk9CVWFUZHdKZFhuZmg4SnBwRl81RGZ4cGhLSE",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQzhSM19GOVdMQnBQWTFPS2g5cHotbU5UMnM1S184TVpJNGNUSUVqV3FsaFhNcHFOZU5aUExubVl2OE9fUzRqSzZfWlhpSjB4ZmZXQ2VxMGxZdjduRzV2TDlVM1Izc3RkS0pfbXZqRkUxZW5kR3h0amJwQVBsQXpwanNaU2NJZXAtSERXRFFQTWdFVVFEYnp2X3pqSG1nRTl6bk5hZGdoMXhVazdPSk9CVWFUZHdKZFhuZmg4SnBwRl81RGZ4cGhLSENNd3puV2pPM1JF?oc=5",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "published_iso": "2026-07-02T07:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "These Target Sheets Are So Freakin' Comfy, You'll Never Want To Leave Your Bed - BuzzFeed",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSmpDbktCSktXaTl2aXRhQ2x0YVMyMVFWX1d4a3hldFJmTUVGOUgtU0l3RUxSNjFhSXM1T2hsS0lPM080MTlucnZHRi1qWUFrX0Z3ZWdWRGZ6NVo3eVRHNGt1LUg3SC1iY2ZGZFFEZjh1OHNSZGRJanFURQ?oc=5\" target=\"_blank\">These Target Sheets Are So Freakin' Comfy, You'll Never Want To Leave Your Bed</a",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSmpDbktCSktXaTl2aXRhQ2x0YVMyMVFWX1d4a3hldFJmTUVGOUgtU0l3RUxSNjFhSXM1T2hsS0lPM080MTlucnZHRi1qWUFrX0Z3ZWdWRGZ6NVo3eVRHNGt1LUg3SC1iY2ZGZFFEZjh1OHNSZGRJanFURQ?oc=5",
+      "published": "Thu, 02 Jul 2026 17:06:20 GMT",
+      "published_iso": "2026-07-02T17:06:20+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -993,24 +1011,6 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Americans Say Coca-Cola, Walmart, Amazon Are the Most Patriotic Food Retail Brands: Report - Consumer Goods Technology",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tkUWlJUDZZZFRQby1QTlp1Wlc5VzRocXljNkhxU0diNm5CM2Jfa3k3OVRSdU9lQ1pXeGREbDdJaW1PU2lwZzBPb09aSkZjbUExUHpydXVHcFVoYmQzb05VTVNuOW1UNHpqczI4MHFpYnZHVTNiaUNFUUg4OWZYdVA0emNoX0owTHRYVkxWOGlaQzFpcWNkRVl3WGh6T211bHhvVmVDYWZzZHhxNkE?oc=5\" target=\"_blank\">Americans Sa",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tkUWlJUDZZZFRQby1QTlp1Wlc5VzRocXljNkhxU0diNm5CM2Jfa3k3OVRSdU9lQ1pXeGREbDdJaW1PU2lwZzBPb09aSkZjbUExUHpydXVHcFVoYmQzb05VTVNuOW1UNHpqczI4MHFpYnZHVTNiaUNFUUg4OWZYdVA0emNoX0owTHRYVkxWOGlaQzFpcWNkRVl3WGh6T211bHhvVmVDYWZzZHhxNkE?oc=5",
-      "published": "Wed, 01 Jul 2026 18:34:19 GMT",
-      "published_iso": "2026-07-01T18:34:19+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "59+ deals at Walmart that beat out Prime Day prices right now - NBC News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGxiWEo4S0xOOTNpc2wxZmhId3VvZk5ob0lZN04ySTlrUVVTRW5MeWRJNHN1c3NTOXJPdFMzMk16YWdaQXZrTHZUZm9Vb2w2TDVkaC0tT1pYU1AtQWRFYzhEXzU2WmhZcnhuWk1nRkNZQ2RrSzJwX09YR3RiLXZuNjQ4b3RHZw?oc=5\" target=\"_blank\">59+ deals at Walmart that beat out Prime Day prices right now</a>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGxiWEo4S0xOOTNpc2wxZmhId3VvZk5ob0lZN04ySTlrUVVTRW5MeWRJNHN1c3NTOXJPdFMzMk16YWdaQXZrTHZUZm9Vb2w2TDVkaC0tT1pYU1AtQWRFYzhEXzU2WmhZcnhuWk1nRkNZQ2RrSzJwX09YR3RiLXZuNjQ4b3RHZw?oc=5",
-      "published": "Sat, 27 Jun 2026 03:44:00 GMT",
-      "published_iso": "2026-06-27T03:44:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
       "title": "The Best Earbuds With Ear Hooks of 2026 - Rolling Stone",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0VIc0gydWhObEpHWFNTVzVfOWNnWVl4MWJBVk9aUEI0SFhVcUx4bWdsb2s0UTNiaDQ1dmRUdHZiQzZEbldFYm5wbm4yS1FIV0xCa2FtbkdoUlJBX2x3YkJESTlkOGs3QkJPT2c3Y0V5Y0VuNWIwMUZCM1VpcGYzV1lKNGEzTGZtaGtSbURybGlEN2dISmF4TldR?oc=5\" target=\"_blank\">The Best Earbuds With Ear Hooks of 2026",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0VIc0gydWhObEpHWFNTVzVfOWNnWVl4MWJBVk9aUEI0SFhVcUx4bWdsb2s0UTNiaDQ1dmRUdHZiQzZEbldFYm5wbm4yS1FIV0xCa2FtbkdoUlJBX2x3YkJESTlkOGs3QkJPT2c3Y0V5Y0VuNWIwMUZCM1VpcGYzV1lKNGEzTGZtaGtSbURybGlEN2dISmF4TldR?oc=5",
@@ -1020,20 +1020,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Amazon is selling wireless Bluetooth earbuds with 30,400+ 5-star ratings for just $10 - thestreet.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGdTak4yMzgzRWN4YzN1cXplUzFSTGZDWjlMUHI5dWlDdWpxNjJ6NHowTDJWREhiTUhEQnlDa2dWXzFoeEp4aFJwOUVqOEpHbFRIYUo2WVVZTHVmb2lZTW5BSTV6TzNxcjhLVWZ6ZEtIQ0FwcU1VaWNhMk1mS1BNWg?oc=5\" target=\"_blank\">Amazon is selling wireless Bluetooth earbuds with 30,400+ 5-star ratings ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGdTak4yMzgzRWN4YzN1cXplUzFSTGZDWjlMUHI5dWlDdWpxNjJ6NHowTDJWREhiTUhEQnlDa2dWXzFoeEp4aFJwOUVqOEpHbFRIYUo2WVVZTHVmb2lZTW5BSTV6TzNxcjhLVWZ6ZEtIQ0FwcU1VaWNhMk1mS1BNWg?oc=5",
-      "published": "Thu, 02 Jul 2026 10:30:00 GMT",
-      "published_iso": "2026-07-02T10:30:00+00:00",
+      "title": "We Spent Weeks Running In the Newest Headphones—These 8 Picks Withstood Our Sweat Mile After Mile - Runner's World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGNheGJDTzhsMmZiMDJncHpQQ2R3dXRYTHRBb0puWUdnTmlnWThOSjhTVEUzY0h6eGhNQ0xiX3hjTGhIUGdMdFhTWUlZTVZ0RVVxbl95TVJxVTN5MlR3cHBPbzc0cGZhNkJPWE45dU92b1F0Wk1COHJDSC1NRTc2d0ZhOWlMQVVXd2dzc293?oc=5\" target=\"_blank\">We Spent Weeks Running In the Newest Headphones—These 8",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGNheGJDTzhsMmZiMDJncHpQQ2R3dXRYTHRBb0puWUdnTmlnWThOSjhTVEUzY0h6eGhNQ0xiX3hjTGhIUGdMdFhTWUlZTVZ0RVVxbl95TVJxVTN5MlR3cHBPbzc0cGZhNkJPWE45dU92b1F0Wk1COHJDSC1NRTc2d0ZhOWlMQVVXd2dzc293?oc=5",
+      "published": "Thu, 02 Jul 2026 16:52:00 GMT",
+      "published_iso": "2026-07-02T16:52:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
     {
-      "title": "AirPods are a rare 28% off this Prime Day, and the deals are still live - NBC News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbUdZWTNtaTN0cjR0UDhJbC1FUWtRRXdRVVdHdmFadHdfWHFDVlV4ZHNKLWNtRXU3Z2F2YWpza0d1QkhDc0F6aTJXR2tqeENXaGxCSVU1X3pkU0hKelh0LTUyN0M0d2s0QVdEaDNGN1lwb1ZlS3d2SnpjU3U1UGcxXzM1SGVaenNNYnJGams2TQ?oc=5\" target=\"_blank\">AirPods are a rare 28% off this Prime Day, and the de",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbUdZWTNtaTN0cjR0UDhJbC1FUWtRRXdRVVdHdmFadHdfWHFDVlV4ZHNKLWNtRXU3Z2F2YWpza0d1QkhDc0F6aTJXR2tqeENXaGxCSVU1X3pkU0hKelh0LTUyN0M0d2s0QVdEaDNGN1lwb1ZlS3d2SnpjU3U1UGcxXzM1SGVaenNNYnJGams2TQ?oc=5",
-      "published": "Sat, 27 Jun 2026 01:20:00 GMT",
-      "published_iso": "2026-06-27T01:20:00+00:00",
+      "title": "The 3 Best Bluetooth Wireless Headphones of 2026 | Reviews by Wirecutter - The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBVTTF1a1R0V0tLTGVjWnc3TWZhUWhvRzMweTRycDF6RUxKTk1FalhLaUhidW9jM0QzVkxXSFRBQmtoS1JxZi1seUoySGI4cFhxTTBFMjhrXzZKQkdnQ29wWXlmaVIyb25SYTh5eXRCSE5kNDJNal93ZA?oc=5\" target=\"_blank\">The 3 Best Bluetooth Wireless Headphones of 2026 | Reviews by Wirecutter</a>&nbsp;&nb",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVTTF1a1R0V0tLTGVjWnc3TWZhUWhvRzMweTRycDF6RUxKTk1FalhLaUhidW9jM0QzVkxXSFRBQmtoS1JxZi1seUoySGI4cFhxTTBFMjhrXzZKQkdnQ29wWXlmaVIyb25SYTh5eXRCSE5kNDJNal93ZA?oc=5",
+      "published": "Mon, 29 Jun 2026 13:50:04 GMT",
+      "published_iso": "2026-06-29T13:50:04+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1047,27 +1047,18 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-      "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-      "published_iso": "2026-07-03T20:27:44+00:00",
+      "title": "Soundcore Space 2 headphones: Specs, price, where to buy - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8xa3UxLU1nQ1VwVmx5cnFmdnlvZzFLX1Z3MUdoMnU4clJXYlN6Z25qM28wdWtJQ3Z0TGNXT0NhRjFXZTY3Y1lOUUY4TXVETmZwMlhPNnVnUFlWZjloaHRtbjdjRmJrejB3RWlDRWoyQW9GX0kw?oc=5\" target=\"_blank\">Soundcore Space 2 headphones: Specs, price, where to buy</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xa3UxLU1nQ1VwVmx5cnFmdnlvZzFLX1Z3MUdoMnU4clJXYlN6Z25qM28wdWtJQ3Z0TGNXT0NhRjFXZTY3Y1lOUUY4TXVETmZwMlhPNnVnUFlWZjloaHRtbjdjRmJrejB3RWlDRWoyQW9GX0kw?oc=5",
+      "published": "Fri, 03 Jul 2026 19:10:12 GMT",
+      "published_iso": "2026-07-03T19:10:12+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
     {
-      "title": "Which Shokz Open-Ear Headphones Should You Buy? - Tech My Money",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZE9QNWxnOURTYXBjOHk2Qi1kOEwwVVRpRXhpOGJ3c2UtOVZ6S0ZqUWR5SDd5bWhfOTJqM1VrbjNGcGFuV014MDF5R09qYzBvdDE5NUZnUUZBS2pNXzNZTncwZE5wcDNQXzUyd181RWozX1QtSnhkbGFqazdrYTI4bDhITUVQY2Z2dHfSAYoBQVVfeXFMTmRPUDVsZzlEU2FwYzh5NkItZDhMMFVUaUV4aThid3NlLTlWektGalFkeUg3eW1oXzkyaj",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZE9QNWxnOURTYXBjOHk2Qi1kOEwwVVRpRXhpOGJ3c2UtOVZ6S0ZqUWR5SDd5bWhfOTJqM1VrbjNGcGFuV014MDF5R09qYzBvdDE5NUZnUUZBS2pNXzNZTncwZE5wcDNQXzUyd181RWozX1QtSnhkbGFqazdrYTI4bDhITUVQY2Z2dHfSAYoBQVVfeXFMTmRPUDVsZzlEU2FwYzh5NkItZDhMMFVUaUV4aThid3NlLTlWektGalFkeUg3eW1oXzkyajNVa24zRnBhbldNeDAxeUdPamMwb3QxOTVGZ1FGQUtqTV8zWU53MGROcHAzUF81MndfNUVqM19ULUp4ZGxhams3a2EyOGw4SE1FUGNmdnR3?oc=5",
-      "published": "Sat, 27 Jun 2026 09:12:10 GMT",
-      "published_iso": "2026-06-27T09:12:10+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "The Best Cheap Wireless Earbuds under $50 - July 2026 - Scarbir",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9FX2pSSXZaUGFWMEdHQ0wzNllVa1QxVVNyZVVfa0s5ZXBCN0JWSzFLQlA2aUZCeGJNS1k2a2hfaTR2TUI3WUlhUDIyM2ZsSmxUTlV6Um1wNzhJaEpEc3dKSWkxelRkMkdOdTM1MkNYZWwzYkVwV1VrWXpaaDk?oc=5\" target=\"_blank\">The Best Cheap Wireless Earbuds under $50 - July 2026</a>&nbsp;&nbsp;<font color",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FX2pSSXZaUGFWMEdHQ0wzNllVa1QxVVNyZVVfa0s5ZXBCN0JWSzFLQlA2aUZCeGJNS1k2a2hfaTR2TUI3WUlhUDIyM2ZsSmxUTlV6Um1wNzhJaEpEc3dKSWkxelRkMkdOdTM1MkNYZWwzYkVwV1VrWXpaaDk?oc=5",
+      "title": "The Best Cheap Wireless Earbuds under $25 - July 2026 - Scarbir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3WC1wUVBtXy1aa09aamg1QmZnazdhcE1ldjBPY1dqVy1EY0xQeThzOWZOUVZ0bDhseVZkRzdYbDFJdXZnNVJteXNTRzU0VXp0WGp1X2JtcVBrWGwzMnM4OHNBWVNJQVg0QkFpRDJuR3U3Zw?oc=5\" target=\"_blank\">The Best Cheap Wireless Earbuds under $25 - July 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sc",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3WC1wUVBtXy1aa09aamg1QmZnazdhcE1ldjBPY1dqVy1EY0xQeThzOWZOUVZ0bDhseVZkRzdYbDFJdXZnNVJteXNTRzU0VXp0WGp1X2JtcVBrWGwzMnM4OHNBWVNJQVg0QkFpRDJuR3U3Zw?oc=5",
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "published_iso": "2026-07-01T07:00:00+00:00",
       "source": "Google News - US Retail Audio",
@@ -1079,6 +1070,24 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRThUMmhVRlI1bU1fWG14SDJ2SzlZaFFlOWlyUTRqam91b1o0c2dEQ1RpWmpyV2tMbnEwS2xxTTJYMWdrWm9YUmhQZ1doby04bGhvcWx5WkxXS2tKX1RaNU9EY21KLTRDVC14X3ZmdjhJTkc1SkZJMURKcnRPOGw4LV9R?oc=5",
       "published": "Wed, 01 Jul 2026 12:02:03 GMT",
       "published_iso": "2026-07-01T12:02:03+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Best Wireless Earbuds Under $50 in 2026: Cheap ANC and Workout Picks - The Gadgeteer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAzOFFQUTA1dUN2c2tFRTNvSXA1SFRmNS00OUN4dzVkNWl1Sm01eEVtMEUwSHJSOTF1V08xYjBtY1J5ZHdFejRmcU1GVUVsa05MdU1WVjR6Vnl3LXk1N3daRmkwQXJJTG5Cd3lhQlZZeW5tMlllNnNZ?oc=5\" target=\"_blank\">Best Wireless Earbuds Under $50 in 2026: Cheap ANC and Workout Picks</a>&nbsp;&nbsp;<fo",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzOFFQUTA1dUN2c2tFRTNvSXA1SFRmNS00OUN4dzVkNWl1Sm01eEVtMEUwSHJSOTF1V08xYjBtY1J5ZHdFejRmcU1GVUVsa05MdU1WVjR6Vnl3LXk1N3daRmkwQXJJTG5Cd3lhQlZZeW5tMlllNnNZ?oc=5",
+      "published": "Wed, 01 Jul 2026 11:02:14 GMT",
+      "published_iso": "2026-07-01T11:02:14+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Amazon is selling wireless Bluetooth earbuds with 30,400+ 5-star ratings for just $10 - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGdTak4yMzgzRWN4YzN1cXplUzFSTGZDWjlMUHI5dWlDdWpxNjJ6NHowTDJWREhiTUhEQnlDa2dWXzFoeEp4aFJwOUVqOEpHbFRIYUo2WVVZTHVmb2lZTW5BSTV6TzNxcjhLVWZ6ZEtIQ0FwcU1VaWNhMk1mS1BNWg?oc=5\" target=\"_blank\">Amazon is selling wireless Bluetooth earbuds with 30,400+ 5-star ratings ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGdTak4yMzgzRWN4YzN1cXplUzFSTGZDWjlMUHI5dWlDdWpxNjJ6NHowTDJWREhiTUhEQnlDa2dWXzFoeEp4aFJwOUVqOEpHbFRIYUo2WVVZTHVmb2lZTW5BSTV6TzNxcjhLVWZ6ZEtIQ0FwcU1VaWNhMk1mS1BNWg?oc=5",
+      "published": "Thu, 02 Jul 2026 10:30:00 GMT",
+      "published_iso": "2026-07-02T10:30:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1095,8 +1104,8 @@
       "title": "The 6 Best Gaming Headsets of 2026 - RTINGS.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5wajd4UVBadzFfRUlmUXVDTUwxaWNLa3NsVGxUSG5uSmxYdDlkWHJXVnJnYmwta3M2cmFRZDhLOFRGYVB1ZGpRS2RVS1dhbjdoOWs5NTJzZkViVzJHUE5WWjFScDlFWjNsa1hDNC1vWQ?oc=5\" target=\"_blank\">The 6 Best Gaming Headsets of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</font>",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wajd4UVBadzFfRUlmUXVDTUwxaWNLa3NsVGxUSG5uSmxYdDlkWHJXVnJnYmwta3M2cmFRZDhLOFRGYVB1ZGpRS2RVS1dhbjdoOWs5NTJzZkViVzJHUE5WWjFScDlFWjNsa1hDNC1vWQ?oc=5",
-      "published": "Fri, 03 Jul 2026 21:32:50 GMT",
-      "published_iso": "2026-07-03T21:32:50+00:00",
+      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "published_iso": "2026-07-03T07:00:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1108,16 +1117,7 @@
       "published_iso": "2026-06-29T19:56:02+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
-    },
-    {
-      "title": "Amazon Forgot to Remove These 50+ Prime Day Headphone Deals, Get Yours Before They’re Gone - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWF6ZkJ0cEFYRFIzMklxdEEtRUdBVXgtQkUyT21ZMFhnQmdMcWxESkh5MUV2eHI3c0l2NGZUWTgxRUYyblNZX2xhNGFEZUlNRk9tMGJrNWozRjNwNnM4WnlYeVNGZ2I0VTNiN2ltUDdNWFRoRTRQWmp6aTFzVW1ENHRjcUUwczRUTm9R?oc=5\" target=\"_blank\">Amazon Forgot to Remove These 50+ Prime Day Headphone Deals",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWF6ZkJ0cEFYRFIzMklxdEEtRUdBVXgtQkUyT21ZMFhnQmdMcWxESkh5MUV2eHI3c0l2NGZUWTgxRUYyblNZX2xhNGFEZUlNRk9tMGJrNWozRjNwNnM4WnlYeVNGZ2I0VTNiN2ltUDdNWFRoRTRQWmp6aTFzVW1ENHRjcUUwczRUTm9R?oc=5",
-      "published": "Sat, 27 Jun 2026 07:00:00 GMT",
-      "published_iso": "2026-06-27T07:00:00+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1783124179
+  "fetched_at": 1783206438
 }

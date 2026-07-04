@@ -1,38 +1,9 @@
 {
-  "date": "2026-07-04",
-  "generated_at": "2026-07-04 08:17:06 CST",
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05 07:08:01 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
-    {
-      "slug": "independence-day",
-      "name": "独立日",
-      "market": "US",
-      "type": "holiday",
-      "priority": 5,
-      "rule": "fixed",
-      "month": 7,
-      "day": 4,
-      "icon": "🎆",
-      "date": "2026-07-04",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "独立日是美国市场的重要节日或零售节点。",
-      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
-      "customs": [
-        "家庭消费",
-        "礼品采购",
-        "平台促销",
-        "线下零售活动"
-      ],
-      "consumption": [
-        "礼赠类消费",
-        "平台大促",
-        "家庭出行与户外",
-        "零售门店活动"
-      ],
-      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
-    },
     {
       "slug": "labor-day-us",
       "name": "Labor Day",
@@ -45,7 +16,7 @@
       "nth": 1,
       "icon": "🛍️",
       "date": "2026-09-07",
-      "countdown": 65,
+      "countdown": 64,
       "year": 2026,
       "origin": "Labor Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -64,75 +35,19 @@
       "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
     },
     {
-      "slug": "prime-day",
-      "name": "Prime Day",
-      "market": "ECOM",
-      "type": "campaign",
-      "priority": 4,
-      "rule": "fixed",
-      "month": 7,
-      "day": 15,
-      "icon": "⚡",
-      "date": "2026-07-15",
-      "countdown": 11,
-      "year": 2026,
-      "origin": "Prime Day是重要的电商营销节点。",
-      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
-      "customs": [
-        "平台大促",
-        "价格竞争",
-        "流量冲刺"
-      ],
-      "consumption": [
-        "折扣活动",
-        "广告投放",
-        "库存与履约"
-      ],
-      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
-    },
-    {
-      "slug": "back-to-school",
-      "name": "返校季",
-      "market": "ECOM",
-      "type": "campaign",
-      "priority": 4,
-      "rule": "fixed",
-      "month": 8,
-      "day": 15,
-      "icon": "🎒",
-      "date": "2026-08-15",
-      "countdown": 42,
-      "year": 2026,
-      "origin": "返校季是重要的电商营销节点。",
-      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
-      "customs": [
-        "平台大促",
-        "价格竞争",
-        "流量冲刺"
-      ],
-      "consumption": [
-        "折扣活动",
-        "广告投放",
-        "库存与履约"
-      ],
-      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
-    }
-  ],
-  "festival_pages": [
-    {
-      "slug": "independence-day",
-      "name": "独立日",
+      "slug": "halloween",
+      "name": "万圣节",
       "market": "US",
       "type": "holiday",
-      "priority": 5,
+      "priority": 4,
       "rule": "fixed",
-      "month": 7,
-      "day": 4,
-      "icon": "🎆",
-      "date": "2026-07-04",
-      "countdown": 0,
+      "month": 10,
+      "day": 31,
+      "icon": "🎃",
+      "date": "2026-10-31",
+      "countdown": 118,
       "year": 2026,
-      "origin": "独立日是美国市场的重要节日或零售节点。",
+      "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
       "customs": [
         "家庭消费",
@@ -159,7 +74,7 @@
       "day": 15,
       "icon": "⚡",
       "date": "2026-07-15",
-      "countdown": 11,
+      "countdown": 10,
       "year": 2026,
       "origin": "Prime Day是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -186,7 +101,63 @@
       "day": 15,
       "icon": "🎒",
       "date": "2026-08-15",
-      "countdown": 42,
+      "countdown": 41,
+      "year": 2026,
+      "origin": "返校季是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    }
+  ],
+  "festival_pages": [
+    {
+      "slug": "prime-day",
+      "name": "Prime Day",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 7,
+      "day": 15,
+      "icon": "⚡",
+      "date": "2026-07-15",
+      "countdown": 10,
+      "year": 2026,
+      "origin": "Prime Day是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "back-to-school",
+      "name": "返校季",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 8,
+      "day": 15,
+      "icon": "🎒",
+      "date": "2026-08-15",
+      "countdown": 41,
       "year": 2026,
       "origin": "返校季是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -213,7 +184,7 @@
       "day": 19,
       "icon": "💗",
       "date": "2026-08-19",
-      "countdown": 46,
+      "countdown": 45,
       "year": 2026,
       "origin": "七夕是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -241,7 +212,7 @@
       "nth": 1,
       "icon": "🛍️",
       "date": "2026-09-07",
-      "countdown": 65,
+      "countdown": 64,
       "year": 2026,
       "origin": "Labor Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -270,7 +241,7 @@
       "day": 25,
       "icon": "🌕",
       "date": "2026-09-25",
-      "countdown": 83,
+      "countdown": 82,
       "year": 2026,
       "origin": "中秋节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -297,7 +268,7 @@
       "day": 1,
       "icon": "🇨🇳",
       "date": "2026-10-01",
-      "countdown": 89,
+      "countdown": 88,
       "year": 2026,
       "origin": "国庆节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -324,7 +295,7 @@
       "day": 31,
       "icon": "🎃",
       "date": "2026-10-31",
-      "countdown": 119,
+      "countdown": 118,
       "year": 2026,
       "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -353,7 +324,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 130,
+      "countdown": 129,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -381,7 +352,7 @@
       "nth": 4,
       "icon": "🦃",
       "date": "2026-11-26",
-      "countdown": 145,
+      "countdown": 144,
       "year": 2026,
       "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -410,7 +381,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 146,
+      "countdown": 145,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -437,7 +408,7 @@
       "offset_days": 4,
       "icon": "💻",
       "date": "2026-11-30",
-      "countdown": 149,
+      "countdown": 148,
       "year": 2026,
       "origin": "网一是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -464,7 +435,7 @@
       "day": 12,
       "icon": "🧾",
       "date": "2026-12-12",
-      "countdown": 161,
+      "countdown": 160,
       "year": 2026,
       "origin": "双12是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -491,7 +462,7 @@
       "day": 25,
       "icon": "🎄",
       "date": "2026-12-25",
-      "countdown": 174,
+      "countdown": 173,
       "year": 2026,
       "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -520,7 +491,7 @@
       "day": 14,
       "icon": "❤️",
       "date": "2027-02-14",
-      "countdown": 225,
+      "countdown": 224,
       "year": 2027,
       "origin": "情人节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -549,7 +520,7 @@
       "day": 17,
       "icon": "🧧",
       "date": "2027-02-17",
-      "countdown": 228,
+      "countdown": 227,
       "year": 2027,
       "origin": "春节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -576,7 +547,7 @@
       "day": 3,
       "icon": "🏮",
       "date": "2027-03-03",
-      "countdown": 242,
+      "countdown": 241,
       "year": 2027,
       "origin": "元宵节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -601,7 +572,7 @@
       "rule": "easter",
       "icon": "🥚",
       "date": "2027-03-28",
-      "countdown": 267,
+      "countdown": 266,
       "year": 2027,
       "origin": "复活节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -630,7 +601,7 @@
       "day": 4,
       "icon": "🌿",
       "date": "2027-04-04",
-      "countdown": 274,
+      "countdown": 273,
       "year": 2027,
       "origin": "清明节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -657,7 +628,7 @@
       "day": 1,
       "icon": "🛠️",
       "date": "2027-05-01",
-      "countdown": 301,
+      "countdown": 300,
       "year": 2027,
       "origin": "劳动节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -672,6 +643,36 @@
         "节庆营销"
       ],
       "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
+    },
+    {
+      "slug": "mothers-day",
+      "name": "母亲节",
+      "market": "US",
+      "type": "holiday",
+      "priority": 4,
+      "rule": "nth_weekday",
+      "month": 5,
+      "weekday": 6,
+      "nth": 2,
+      "icon": "🌸",
+      "date": "2027-05-09",
+      "countdown": 308,
+      "year": 2027,
+      "origin": "母亲节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
     }
   ],
   "us_timezones": [
@@ -708,8 +709,8 @@
     "published_iso": "2026-07-01T15:08:58+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 57.1,
-    "freshness_label": "近3天",
+    "hours_since_published": 80.0,
+    "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
       "channels": [
@@ -719,7 +720,7 @@
       ],
       "categories": []
     },
-    "_score": 369,
+    "_score": 354,
     "display_title": "Placer.ai: Prime Day boosts Walmart...",
     "tags": [
       "🛒 渠道零售",
@@ -727,10 +728,10 @@
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "Prime Day显著提升了Walmart、Target和Best Buy的店铺流量，电商销售潜力巨大。",
-    "suggested_action": "加强电商平台促销活动，吸引更多消费者关注和购买。"
+    "business_note": "Prime Day显著提升了Walmart、Target和Best Buy的店内流量，反映出电商活动的强大影响力。",
+    "suggested_action": "加强电商促销策略，利用Prime Day流量提升品牌曝光和销售。"
   },
-  "lead_summary": "Prime Day显著提升Walmart等零售商流量，电商竞争加剧，市场份额争夺",
+  "lead_summary": "Prime Day推动沃尔玛等零售商流量增长，显示电商活动对市场的深远影响。",
   "headline_trio": [
     {
       "title": "Placer.ai: Prime Day boosts Walmart, Target, Best Buy, Kohl’s store traffic - Chain Store Age",
@@ -740,8 +741,8 @@
       "published_iso": "2026-07-01T15:08:58+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 57.1,
-      "freshness_label": "近3天",
+      "hours_since_published": 80.0,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -751,7 +752,7 @@
         ],
         "categories": []
       },
-      "_score": 369,
+      "_score": 354,
       "display_title": "Placer.ai: Prime Day boosts Walmart...",
       "tags": [
         "🛒 渠道零售",
@@ -759,8 +760,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Prime Day显著提升了Walmart、Target和Best Buy的店铺流量，电商销售潜力巨大。",
-      "suggested_action": "加强电商平台促销活动，吸引更多消费者关注和购买。"
+      "business_note": "Prime Day显著提升了Walmart、Target和Best Buy的店内流量，反映出电商活动的强大影响力。",
+      "suggested_action": "加强电商促销策略，利用Prime Day流量提升品牌曝光和销售。"
     },
     {
       "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
@@ -770,8 +771,8 @@
       "published_iso": "2026-07-03T04:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 20.3,
-      "freshness_label": "24h内",
+      "hours_since_published": 43.1,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -781,7 +782,7 @@
         ],
         "categories": []
       },
-      "_score": 362,
+      "_score": 347,
       "display_title": "Back-to-school season has become a...",
       "tags": [
         "🛒 渠道零售",
@@ -790,8 +791,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
-      "suggested_action": "加强电商平台的促销活动，提升品牌曝光和销售转化。"
+      "business_note": "提前的返校季促销为电商带来新的销售机会，需抓住这一趋势。",
+      "suggested_action": "优化电商平台的返校季营销策略，提前布局促销活动。"
     },
     {
       "title": "Walmart and Amazon remain at the top of US retail in 2026 rankings - Yahoo Finance",
@@ -801,8 +802,8 @@
       "published_iso": "2026-07-03T07:49:21+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 16.5,
-      "freshness_label": "24h内",
+      "hours_since_published": 39.3,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -811,7 +812,7 @@
         ],
         "categories": []
       },
-      "_score": 350,
+      "_score": 335,
       "display_title": "Walmart and Amazon remain at the top of...",
       "tags": [
         "🛒 渠道零售",
@@ -819,8 +820,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart和Amazon在2026年零售排名中继续领先，电商渠道至关重要。",
-      "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售额。"
+      "business_note": "Walmart和Amazon在2026年零售排名中继续领先，电商市场竞争激烈。",
+      "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售渠道。"
     }
   ],
   "consumer_electronics": [
@@ -828,11 +829,11 @@
       "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-      "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-      "published_iso": "2026-07-03T20:27:44+00:00",
+      "published": "Sat, 04 Jul 2026 13:14:53 GMT",
+      "published_iso": "2026-07-04T13:14:53+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 3.8,
+      "hours_since_published": 9.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -855,8 +856,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Bose Ultra Open Earbuds在亚马逊上降价，有助于提升销量和品牌曝光。",
-      "suggested_action": "加强电商推广，利用降价机会吸引更多消费者关注。"
+      "business_note": "Bose Ultra Open Earbuds在亚马逊的折扣可提升销量，抓住电商机会。",
+      "suggested_action": "加强亚马逊平台的品牌营销，利用折扣吸引消费者。"
     },
     {
       "title": "Shokz Goes Big on Bone Conduction Headphones With 40% Off the New OpenRun Pro 2 for Those Who Missed Prime Day - Gizmodo",
@@ -866,8 +867,8 @@
       "published_iso": "2026-07-03T12:10:03+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 12.1,
-      "freshness_label": "24h内",
+      "hours_since_published": 35.0,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Shokz"
@@ -878,7 +879,7 @@
           "headphone"
         ]
       },
-      "_score": 305,
+      "_score": 290,
       "display_title": "Shokz Goes Big on Bone Conduction...",
       "tags": [
         "🎧 耳机音频",
@@ -886,8 +887,39 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌知名度和市场份额。",
-      "suggested_action": "建议加强电商平台宣传，利用折扣促销吸引更多用户购买。"
+      "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌曝光和销售额。",
+      "suggested_action": "建议加大电商和社交媒体营销力度，提升品牌知名度。"
+    },
+    {
+      "title": "We found 15+ headphone deals still live post-Prime Day: Sony, Bose, Marshall - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVdSWlVLRXJHYlFvUHJzLWdlU1FmZE52Wk40UXY3RWRfMVZ6TXF3U0p6Y0p3MVpDMG50cTNidFhWcFNFWGFiYjJhdFcxNEFQM2g5QUVBYmhONlZNV0tuZVAtSWRZT1hBbDZ1ZEpxYVZNRWwzbGc?oc=5\" target=\"_blank\">We found 15+ headphone deals still live post-Prime Day: Sony, Bose, Marshall</a>&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVdSWlVLRXJHYlFvUHJzLWdlU1FmZE52Wk40UXY3RWRfMVZ6TXF3U0p6Y0p3MVpDMG50cTNidFhWcFNFWGFiYjJhdFcxNEFQM2g5QUVBYmhONlZNV0tuZVAtSWRZT1hBbDZ1ZEpxYVZNRWwzbGc?oc=5",
+      "published": "Sat, 04 Jul 2026 09:00:00 GMT",
+      "published_iso": "2026-07-04T09:00:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 14.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Bose",
+          "Sony"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 279,
+      "display_title": "We found 15+ headphone deals still live...",
+      "tags": [
+        "🎧 耳机音频",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "后Prime Day仍有15个耳机优惠，需抓住电商机会。",
+      "suggested_action": "加强电商推广，利用优惠吸引消费者购买。"
     },
     {
       "title": "SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long",
@@ -897,8 +929,8 @@
       "published_iso": "2026-07-03T21:29:15+00:00",
       "source": "Android Authority",
       "bucket": "consumer_electronics",
-      "hours_since_published": 2.8,
-      "freshness_label": "24h内",
+      "hours_since_published": 25.6,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Shokz"
@@ -909,7 +941,7 @@
           "earbuds"
         ]
       },
-      "_score": 275,
+      "_score": 260,
       "display_title": "SHOKZ OpenDots ONE hit Prime Day price...",
       "tags": [
         "🎧 耳机音频",
@@ -917,8 +949,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "SHOKZ OpenDots ONE 在Prime Day期间降价30%，有助于提升销量和品牌曝光。",
-      "suggested_action": "利用此机会加强电商推广，吸引更多消费者购买。"
+      "business_note": "SHOKZ OpenDots ONE在Prime Day期间降价30%，提升电商销售潜力。",
+      "suggested_action": "利用降价机会加强电商推广，吸引更多消费者购买。"
     },
     {
       "title": "The 8 best headphones and earbuds of 2026, as tested by our audio editor - TechRadar",
@@ -928,8 +960,8 @@
       "published_iso": "2026-07-03T12:19:17+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 12.0,
-      "freshness_label": "24h内",
+      "hours_since_published": 34.8,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [],
@@ -938,7 +970,7 @@
           "headphone"
         ]
       },
-      "_score": 271,
+      "_score": 256,
       "display_title": "The 8 best headphones and earbuds of...",
       "tags": [
         "🎧 耳机音频",
@@ -947,69 +979,36 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "2026年最佳耳机和耳塞评测将影响品牌形象和销售策略。",
-      "suggested_action": "加强电商平台的耳机和耳塞推广，提升品牌曝光度。"
+      "suggested_action": "加强电商平台的耳机和耳塞推广，提升品牌知名度。"
     },
     {
-      "title": "Amazon Deals of the Day: Our Favorite Bone-Conduction Headphones Are $80 Off - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE96TE1Nb0JPZ3FTR19VSDdjdi0zbEE3WFpLT1FwY2k2aVFKYVZxOVJRRm5sdXRuZ2hPMklOUW9KdDNBbVNPTFNLdlE2UlNRbkpHbzVFVHpwVzhmNnlJOWx6ZWU3VDJaNGpwM3c?oc=5\" target=\"_blank\">Amazon Deals of the Day: Our Favorite Bone-Conduction Headphones Are $80 Off</a>&nbsp;&nbsp;<font color=",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96TE1Nb0JPZ3FTR19VSDdjdi0zbEE3WFpLT1FwY2k2aVFKYVZxOVJRRm5sdXRuZ2hPMklOUW9KdDNBbVNPTFNLdlE2UlNRbkpHbzVFVHpwVzhmNnlJOWx6ZWU3VDJaNGpwM3c?oc=5",
-      "published": "Thu, 02 Jul 2026 15:12:00 GMT",
-      "published_iso": "2026-07-02T15:12:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
+      "title": "I brought a Bose, Sony, and JBL speaker to the beach - this one's my new outdoor essential - ZDNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGI4RzIxWVVDaWhVZVptQ0ZudGhWdk1YWkt3M05XUWRHZGp0VGY4Y3dzNmZJcWlZSURPVjVJWEdEemt1ODl4THB5MzdaSXRmU3k1TTdFOVNtS3U5dmJVWWtNcFJtRGNnOHRrbG1xdkdTRTNoRmVsLVhUZ2RHMHhfSkNIT3JGcjFtSm5VeGRzdlJ5RjBFWjU3ZTEyUDJNb3BTWnZEa0FCSHlkWnJzS04weA?oc=5\" target=\"_blank\">I brought",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGI4RzIxWVVDaWhVZVptQ0ZudGhWdk1YWkt3M05XUWRHZGp0VGY4Y3dzNmZJcWlZSURPVjVJWEdEemt1ODl4THB5MzdaSXRmU3k1TTdFOVNtS3U5dmJVWWtNcFJtRGNnOHRrbG1xdkdTRTNoRmVsLVhUZ2RHMHhfSkNIT3JGcjFtSm5VeGRzdlJ5RjBFWjU3ZTEyUDJNb3BTWnZEa0FCSHlkWnJzS04weA?oc=5",
+      "published": "Tue, 30 Jun 2026 20:31:00 GMT",
+      "published_iso": "2026-06-30T20:31:00+00:00",
+      "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 33.1,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 228,
-      "display_title": "Amazon Deals of the Day: Our Favorite...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "亚马逊促销活动对骨传导耳机销售有显著推动作用。",
-      "suggested_action": "加强电商平台的促销策略，提升品牌曝光和销量。"
-    },
-    {
-      "title": "Cyclists ride around Bonifacio Global City in Taguig City while wearing AI-powered smart sports glasses on Saturday. The AI-powered action camera also features real-time communication, and open-ear audio, enabling them to record rides, stay connected, e - facebook.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHVZUFl0bEUwRjJtMElCaDgwQVozQTNBZXFyTXJmQU5FcUZESUxIXzFkWkpxYmJmQ1VFWWo4X3lVMUt3dnZHa1ZXSXIwRWhVRFE5LThlNVhOWll6SDk3TzhiUDRPeW9xYUNUYml3UFNhNnh2emRUN08wd3ZvY2FFWTgxbmlUV01BM1UyQzA5QkVDRjVzYUZORGVzSFJsRS1aR0dCMktLRFhselI5cUdNYWdRRVdkYlpqRTJGNWV2TWpqZ2ZyUWZOZm",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHVZUFl0bEUwRjJtMElCaDgwQVozQTNBZXFyTXJmQU5FcUZESUxIXzFkWkpxYmJmQ1VFWWo4X3lVMUt3dnZHa1ZXSXIwRWhVRFE5LThlNVhOWll6SDk3TzhiUDRPeW9xYUNUYml3UFNhNnh2emRUN08wd3ZvY2FFWTgxbmlUV01BM1UyQzA5QkVDRjVzYUZORGVzSFJsRS1aR0dCMktLRFhselI5cUdNYWdRRVdkYlpqRTJGNWV2TWpqZ2ZyUWZOZmY4ckZ4SlFaUkJCMHNBZUZfcEZM?oc=5",
-      "published": "Sat, 27 Jun 2026 20:13:13 GMT",
-      "published_iso": "2026-06-27T20:13:13+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 148.1,
+      "hours_since_published": 98.6,
       "freshness_label": "近7天",
       "monitor_hits": {
-        "brands": [],
+        "brands": [
+          "Bose",
+          "Sony",
+          "JBL"
+        ],
         "channels": [],
-        "categories": [
-          "open-ear",
-          "action camera"
-        ]
+        "categories": []
       },
-      "_score": 206,
-      "display_title": "Cyclists ride around Bonifacio Global...",
+      "_score": 253,
+      "display_title": "I brought a Bose, Sony, and JBL speaker...",
       "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🚁 无人机影像"
+        "📱 消费电子"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "AI智能运动眼镜为骑行者提供实时沟通和录制功能，提升用户体验。",
-      "suggested_action": "加大电商推广力度，吸引更多运动爱好者关注和购买。"
+      "business_note": "该文章强调了户外音响的重要性，提升品牌曝光和销售潜力。",
+      "suggested_action": "加强户外音响的电商推广和品牌营销活动，吸引更多消费者。"
     }
   ],
   "channel_news": [
@@ -1021,8 +1020,8 @@
       "published_iso": "2026-07-01T15:08:58+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 57.1,
-      "freshness_label": "近3天",
+      "hours_since_published": 80.0,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1032,7 +1031,7 @@
         ],
         "categories": []
       },
-      "_score": 369,
+      "_score": 354,
       "display_title": "Placer.ai: Prime Day boosts Walmart...",
       "tags": [
         "🛒 渠道零售",
@@ -1040,8 +1039,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Prime Day显著提升了Walmart、Target和Best Buy的店铺流量，电商销售潜力巨大。",
-      "suggested_action": "加强电商平台促销活动，吸引更多消费者关注和购买。"
+      "business_note": "Prime Day显著提升了Walmart、Target和Best Buy的店内流量，反映出电商活动的强大影响力。",
+      "suggested_action": "加强电商促销策略，利用Prime Day流量提升品牌曝光和销售。"
     },
     {
       "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
@@ -1051,8 +1050,8 @@
       "published_iso": "2026-07-03T04:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 20.3,
-      "freshness_label": "24h内",
+      "hours_since_published": 43.1,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1062,7 +1061,7 @@
         ],
         "categories": []
       },
-      "_score": 362,
+      "_score": 347,
       "display_title": "Back-to-school season has become a...",
       "tags": [
         "🛒 渠道零售",
@@ -1071,8 +1070,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
-      "suggested_action": "加强电商平台的促销活动，提升品牌曝光和销售转化。"
+      "business_note": "提前的返校季促销为电商带来新的销售机会，需抓住这一趋势。",
+      "suggested_action": "优化电商平台的返校季营销策略，提前布局促销活动。"
     },
     {
       "title": "Walmart and Amazon remain at the top of US retail in 2026 rankings - Yahoo Finance",
@@ -1082,66 +1081,7 @@
       "published_iso": "2026-07-03T07:49:21+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 16.5,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 350,
-      "display_title": "Walmart and Amazon remain at the top of...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Walmart和Amazon在2026年零售排名中继续领先，电商渠道至关重要。",
-      "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售额。"
-    },
-    {
-      "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - Allrecipes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmx0dVRQaENOWG9kOGlXbWlKTnpYcVBTQUl6cFE4Rk9mUEhwQlh0MGQyOTRSZ2s1S2Z0N1hPdkZ6YUdZbVM2b0kwcmc2bzJxcDdFVFJERnBxOURTS2o2ZmFMUUMzVFBqWmlMN0tQWUQ5enpKWnp0MDlpYndUUWR1aA?oc=5\" target=\"_blank\">I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clea",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmx0dVRQaENOWG9kOGlXbWlKTnpYcVBTQUl6cFE4Rk9mUEhwQlh0MGQyOTRSZ2s1S2Z0N1hPdkZ6YUdZbVM2b0kwcmc2bzJxcDdFVFJERnBxOURTS2o2ZmFMUUMzVFBqWmlMN0tQWUQ5enpKWnp0MDlpYndUUWR1aA?oc=5",
-      "published": "Fri, 03 Jul 2026 10:00:00 GMT",
-      "published_iso": "2026-07-03T10:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 14.3,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 342,
-      "display_title": "I Compared Meat Prices at Costco...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "通过比较肉类价格，了解竞争对手的定价策略，有助于优化我们的电商定价。",
-      "suggested_action": "建议分析各大电商平台的价格策略，调整我们的产品定价以提升竞争力。"
-    },
-    {
-      "title": "Americans Say Coca-Cola, Walmart, Amazon Are the Most Patriotic Food Retail Brands: Report - Consumer Goods Technology",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tkUWlJUDZZZFRQby1QTlp1Wlc5VzRocXljNkhxU0diNm5CM2Jfa3k3OVRSdU9lQ1pXeGREbDdJaW1PU2lwZzBPb09aSkZjbUExUHpydXVHcFVoYmQzb05VTVNuOW1UNHpqczI4MHFpYnZHVTNiaUNFUUg4OWZYdVA0emNoX0owTHRYVkxWOGlaQzFpcWNkRVl3WGh6T211bHhvVmVDYWZzZHhxNkE?oc=5\" target=\"_blank\">Americans Sa",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tkUWlJUDZZZFRQby1QTlp1Wlc5VzRocXljNkhxU0diNm5CM2Jfa3k3OVRSdU9lQ1pXeGREbDdJaW1PU2lwZzBPb09aSkZjbUExUHpydXVHcFVoYmQzb05VTVNuOW1UNHpqczI4MHFpYnZHVTNiaUNFUUg4OWZYdVA0emNoX0owTHRYVkxWOGlaQzFpcWNkRVl3WGh6T211bHhvVmVDYWZzZHhxNkE?oc=5",
-      "published": "Wed, 01 Jul 2026 18:34:19 GMT",
-      "published_iso": "2026-07-01T18:34:19+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 53.7,
+      "hours_since_published": 39.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1152,15 +1092,45 @@
         "categories": []
       },
       "_score": 335,
-      "display_title": "Americans Say Coca-Cola, Walmart...",
+      "display_title": "Walmart and Amazon remain at the top of...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "美国消费者认为可口可乐、沃尔玛和亚马逊是最具爱国情怀的食品零售品牌，影响品牌形象。",
-      "suggested_action": "加强在电商平台的品牌宣传，突出爱国情怀，提升消费者认同感。"
+      "business_note": "Walmart和Amazon在2026年零售排名中继续领先，电商市场竞争激烈。",
+      "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售渠道。"
+    },
+    {
+      "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - Allrecipes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmx0dVRQaENOWG9kOGlXbWlKTnpYcVBTQUl6cFE4Rk9mUEhwQlh0MGQyOTRSZ2s1S2Z0N1hPdkZ6YUdZbVM2b0kwcmc2bzJxcDdFVFJERnBxOURTS2o2ZmFMUUMzVFBqWmlMN0tQWUQ5enpKWnp0MDlpYndUUWR1aA?oc=5\" target=\"_blank\">I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clea",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmx0dVRQaENOWG9kOGlXbWlKTnpYcVBTQUl6cFE4Rk9mUEhwQlh0MGQyOTRSZ2s1S2Z0N1hPdkZ6YUdZbVM2b0kwcmc2bzJxcDdFVFJERnBxOURTS2o2ZmFMUUMzVFBqWmlMN0tQWUQ5enpKWnp0MDlpYndUUWR1aA?oc=5",
+      "published": "Fri, 03 Jul 2026 10:00:00 GMT",
+      "published_iso": "2026-07-03T10:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 37.1,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart",
+          "Costco"
+        ],
+        "categories": []
+      },
+      "_score": 327,
+      "display_title": "I Compared Meat Prices at Costco...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "通过对比肉类价格，明确了各大电商平台的竞争优势，需关注价格策略。",
+      "suggested_action": "建议优化电商平台的肉类定价策略，提升竞争力。"
     },
     {
       "title": "Amazon, Walmart And Home Depot: The Rise Of The Omnivore Retailer - Forbes",
@@ -1170,7 +1140,7 @@
       "published_iso": "2026-06-29T23:45:05+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 96.5,
+      "hours_since_published": 119.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1188,20 +1158,49 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "电商巨头的崛起对市场竞争格局产生深远影响，需关注其策略变化。",
-      "suggested_action": "加强与Amazon和Walmart的合作，优化电商渠道布局。"
+      "business_note": "电商平台的全渠道零售模式正在崛起，需加速适应市场变化。",
+      "suggested_action": "加强与Amazon和Walmart的合作，提升品牌曝光和销售渠道。"
+    },
+    {
+      "title": "Amazon and Walmart’s Summer Sale Wars Deliver a Win (With An Asterisk) - PYMNTS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmE1d0VzMUJjd29kdDBKUHh5SDFIaF9KbVhFZEZ4UUg3VWtPVDVQMDF2VU80UVR0NFNFMWp1ajJSd0t2U0NiSUV3NlBxREhtNzVta3h4XzBjT1ZObk1ub2JYRm1rQmN5Z1Z4TE5Ja0FnMThhMnI2MlpuWXNaT25YMlVwQ3JZZjBackllZ3VpVUxYTGpzNUp1YTlMQ0JodUM1Mkd1d2wxSGtNN19s?oc=5\" target=\"_blank\">Amazon and Walm",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmE1d0VzMUJjd29kdDBKUHh5SDFIaF9KbVhFZEZ4UUg3VWtPVDVQMDF2VU80UVR0NFNFMWp1ajJSd0t2U0NiSUV3NlBxREhtNzVta3h4XzBjT1ZObk1ub2JYRm1rQmN5Z1Z4TE5Ja0FnMThhMnI2MlpuWXNaT25YMlVwQ3JZZjBackllZ3VpVUxYTGpzNUp1YTlMQ0JodUM1Mkd1d2wxSGtNN19s?oc=5",
+      "published": "Fri, 03 Jul 2026 02:22:57 GMT",
+      "published_iso": "2026-07-03T02:22:57+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 44.7,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 289,
+      "display_title": "Amazon and Walmart’s Summer Sale Wars...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "亚马逊和沃尔玛的夏季促销战为电商带来竞争优势，需关注市场动态。",
+      "suggested_action": "加强电商平台的促销策略，提升品牌曝光和销售转化。"
     }
   ],
   "products": [
     {
       "name": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Ope",
-      "date": "Fri, 03 Jul 2026 20:27:44",
-      "published_iso": "2026-07-03T20:27:44+00:00",
+      "date": "Sat, 04 Jul 2026 13:14:53",
+      "published_iso": "2026-07-04T13:14:53+00:00",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 137,
-      "hours_since_published": 3.8,
+      "hours_since_published": 9.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1216,7 +1215,7 @@
         ]
       },
       "display_title": "Prime Day is over, but Bose Ultra Open...",
-      "display_summary": "Bose Ultra Open耳机在Prime Day后仍受关注，市场反响积极。",
+      "display_summary": "Bose推出Ultra Open耳机，Prime Day后持续吸引消费者关注。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴",
@@ -1224,10 +1223,10 @@
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "Bose Ultra Open耳机在Prime Day后仍受关注，市场反响积极。",
+      "product_intro": "Bose推出Ultra Open耳机，Prime Day后持续吸引消费者关注。",
       "importance": "高",
-      "business_note": "Bose Ultra Open Earbuds在亚马逊上降价，需抓住电商销售机会。",
-      "suggested_action": "加强亚马逊平台的品牌推广，提升销量。"
+      "business_note": "Bose Ultra Open Earbuds在亚马逊上降价，有助于提升销量和品牌曝光。",
+      "suggested_action": "加强电商平台的促销活动，吸引更多消费者关注。"
     },
     {
       "name": "SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long",
@@ -1236,9 +1235,9 @@
       "published_iso": "2026-07-03T21:29:15+00:00",
       "url": "https://www.androidauthority.com/shokz-opendots-one-deal-3684227/",
       "source": "Android Authority",
-      "_score": 105,
-      "hours_since_published": 2.8,
-      "freshness_label": "24h内",
+      "_score": 90,
+      "hours_since_published": 25.6,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Shokz"
@@ -1250,7 +1249,7 @@
         ]
       },
       "display_title": "SHOKZ OpenDots ONE hit Prime Day price...",
-      "display_summary": "SHOKZ OpenDots ONE闪购价降至$139.95，创下开放式耳塞最佳价格。",
+      "display_summary": "SHOKZ OpenDots ONE闪购价降至$139.95，创下开放式耳塞的最佳价格。",
       "tags": [
         "🎧 耳机音频",
         "💰 价格促销"
@@ -1259,8 +1258,8 @@
       "judgement_label": "价格促销",
       "product_intro": "SHOKZ OpenDots。",
       "importance": "高",
-      "business_note": "SHOKZ OpenDots ONE 在Prime Day期间再次降价，有助于提升销量和品牌曝光。",
-      "suggested_action": "建议加大电商推广力度，利用限时折扣吸引消费者。"
+      "business_note": "SHOKZ OpenDots ONE 在Prime Day期间降价30%，对电商销售有重要影响。",
+      "suggested_action": "迅速推广此优惠，增加电商渠道的曝光和销售。"
     },
     {
       "name": "Shokz Goes Big on Bone Conduction Headphones With 40% Off the New OpenRun Pro 2 for Those Who Missed Prime Day - Gizmodo",
@@ -1269,9 +1268,9 @@
       "published_iso": "2026-07-03T12:10:03+00:00",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3RrN3ZuUlFRZnlrTVJERQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
-      "_score": 105,
-      "hours_since_published": 12.1,
-      "freshness_label": "24h内",
+      "_score": 90,
+      "hours_since_published": 35.0,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Shokz"
@@ -1283,47 +1282,48 @@
         ]
       },
       "display_title": "Shokz Goes Big on Bone Conduction...",
-      "display_summary": "苹果计划在2024年推出新款MacBook Pro，预计将搭载更强大的M3芯片，提升性能和续",
+      "display_summary": "全球消费电子市场持续增长，预计2023年将达到新的销售高峰，推动行业创新与竞争加剧。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "苹果计划在2024年推出新款MacBook。",
+      "product_intro": "全球消费电子市场持续增长，预计2023年将达到新的销售高峰，推动行业创新与。",
       "importance": "高",
-      "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌知名度和销量。",
-      "suggested_action": "建议加大电商推广力度，利用折扣吸引更多用户关注。"
+      "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌知名度和市场份额。",
+      "suggested_action": "建议加强电商平台宣传，利用折扣促销吸引更多用户关注。"
     },
     {
-      "name": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came w",
-      "date": "2026-07-03T13:33:55-04:00",
-      "published_iso": "2026-07-03T17:33:55+00:00",
-      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-      "source": "The Verge",
-      "_score": 67,
-      "hours_since_published": 6.7,
-      "freshness_label": "24h内",
+      "name": "Listen to Music Through Your Cheekbones With the Best Bone Conduction Headphones - WIRED",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUy1FMTd2bmttLVFyRktGbWtIWmwyNGdEVEJmWlZWTzEyYkJ6TzRRMl9Qc3c0UTQxQ0U4NHVkVTdkbDhiU185RHhLNjRKaHJ1aE5UOGJTbG1sNWZiUkVNckx1eDFyWk82T1JtaGZaVQ?oc=5\" target=\"_blank\">Listen to Music Through Your Cheekbon",
+      "date": "Fri, 03 Jul 2026 11:30:00",
+      "published_iso": "2026-07-03T11:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUy1FMTd2bmttLVFyRktGbWtIWmwyNGdEVEJmWlZWTzEyYkJ6TzRRMl9Qc3c0UTQxQ0U4NHVkVTdkbDhiU185RHhLNjRKaHJ1aE5UOGJTbG1sNWZiUkVNckx1eDFyWk82T1JtaGZaVQ?oc=5",
+      "source": "Google News - Audio Wearable Watch",
+      "_score": 64,
+      "hours_since_published": 35.6,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": []
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
       },
-      "display_title": "Amazon updated 2023’s Fire HD 10 tablet...",
-      "display_summary": "2024年发布的Fire HD 8是亚马逊平价平板系列的最后一款新产品，2023年更新了前年",
+      "display_title": "Listen to Music Through Your Cheekbones...",
+      "display_summary": "新技术可通过颧骨传输音乐，提升听觉体验，开拓消费电子市场新机遇。",
       "tags": [
-        "🏬 平台电商",
-        "🚀 新品发布"
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
       ],
-      "impact_area": "电商",
-      "judgement_label": "渠道动态",
-      "product_intro": "2024年发布的Fire HD。",
-      "importance": "高",
-      "business_note": "亚马逊更新Fire HD 10平板，提升了电商竞争力，需关注市场反应。",
-      "suggested_action": "加强电商平台的宣传，提升Fire HD 10的市场曝光率。"
+      "impact_area": "品牌营销",
+      "judgement_label": "行业趋势",
+      "product_intro": "新技术可通过颧骨传输音乐，提升听觉体验，开拓消费电子市场新机遇。",
+      "importance": "中",
+      "business_note": "骨传导耳机市场潜力大，需加强品牌营销以提升认知度。",
+      "suggested_action": "建议通过社交媒体和影响者合作推广骨传导耳机。"
     },
     {
       "name": "FEICO Bone Conduction Headphones with Bluetooth 5.3 drops to $29.99 - Technobezz",
@@ -1333,7 +1333,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmtiY0tlbS13aVVYTDlGOGowaXZjRVRPTkh4ZkRJUFZIN3hjdkhyUEhTZmJxR0JUREJHUXhQTjJBUDRpQmptNlpKaWMteXhtZkpmMEp3RkJJQ21raFpOanphRWZZYW0teUFaajlCYVdCYmFZYTUyQ0VTX25PdTEtNWpPWVRFcFJWOGx1dVVkTUk2MlJiMk5yX3JxQW4?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 56,
-      "hours_since_published": 32.9,
+      "hours_since_published": 55.8,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1344,51 +1344,51 @@
         ]
       },
       "display_title": "FEICO Bone Conduction Headphones with...",
-      "display_summary": "某公司发布新款消费电子产品，聚焦提升用户体验与智能化功能，预计将推动市场份额增长。",
+      "display_summary": "某消费电子公司发布新产品，预计将推动市场份额增长，增强竞争力。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "某公司发布新款消费电子产品，聚焦提升用户体验与智能化功能，预计将推动市场份额增长。",
+      "product_intro": "某消费电子公司发布新产品，预计将推动市场份额增长，增强竞争力。",
       "importance": "高",
-      "business_note": "FEICO骨传导耳机降价至29.99美元，可能提升销量和市场份额。",
-      "suggested_action": "加强电商平台推广，利用降价吸引消费者关注。"
+      "business_note": "FEICO骨传导耳机价格下调，有助于提升品牌知名度和市场份额。",
+      "suggested_action": "加强电商平台推广，利用价格优势吸引消费者关注。"
     },
     {
-      "name": "Hydration isn’t complicated: Just drink water",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Europe is melting, the eastern US is current",
-      "date": "2026-07-03T10:00:00-04:00",
-      "published_iso": "2026-07-03T14:00:00+00:00",
-      "url": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
+      "name": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+      "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The co",
+      "date": "2026-07-04T15:06:27-04:00",
+      "published_iso": "2026-07-04T19:06:27+00:00",
+      "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 10.3,
+      "hours_since_published": 4.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "Hydration isn’t complicated: Just drink...",
-      "display_summary": "《Optimizer》是Verge高级评测员Victoria Song每周发布的通讯，深入分",
+      "display_title": "NASA launched an emergency mission to...",
+      "display_summary": "Swift天文台自2004年发射，因太阳风暴轨道降低，面临今年烧毁风险。NASA已与Kata",
       "tags": [
-        "🚀 新品"
+        "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
-      "judgement_label": "业务观察",
-      "product_intro": "《Optimizer》是Verge高级评测员Victoria。",
+      "judgement_label": "新品发布",
+      "product_intro": "Swift天文台自2004年发射，因太阳风暴轨道降低，面临今年烧毁风险。N。",
       "importance": "中",
-      "business_note": "关注水分补充的产品营销，有助于提升品牌认知度。",
-      "suggested_action": "加强电商平台的水分补充产品推广，吸引更多消费者关注。"
+      "business_note": "NASA的紧急任务可能影响品牌形象，需关注公众反应。",
+      "suggested_action": "加强品牌营销，利用此事件提升品牌认知度。"
     }
   ],
   "monitored_entities": [
     {
       "name": "Amazon",
       "type": "渠道",
-      "count": 13,
+      "count": 9,
       "items": [
         {
           "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
@@ -1398,8 +1398,8 @@
           "published_iso": "2026-07-03T04:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 20.3,
-          "freshness_label": "24h内",
+          "hours_since_published": 43.1,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1409,7 +1409,7 @@
             ],
             "categories": []
           },
-          "_score": 362,
+          "_score": 347,
           "display_title": "Back-to-school season has become a...",
           "tags": [
             "🛒 渠道零售",
@@ -1418,8 +1418,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
-          "suggested_action": "加强电商平台的促销活动，提升品牌曝光和销售转化。"
+          "business_note": "提前的返校季促销为电商带来新的销售机会，需抓住这一趋势。",
+          "suggested_action": "优化电商平台的返校季营销策略，提前布局促销活动。"
         },
         {
           "title": "Walmart and Amazon remain at the top of US retail in 2026 rankings - Yahoo Finance",
@@ -1429,8 +1429,8 @@
           "published_iso": "2026-07-03T07:49:21+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 16.5,
-          "freshness_label": "24h内",
+          "hours_since_published": 39.3,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1439,7 +1439,7 @@
             ],
             "categories": []
           },
-          "_score": 350,
+          "_score": 335,
           "display_title": "Walmart and Amazon remain at the top of...",
           "tags": [
             "🛒 渠道零售",
@@ -1447,227 +1447,15 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Walmart和Amazon在2026年零售排名中继续领先，电商渠道至关重要。",
-          "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售额。"
-        }
-      ]
-    },
-    {
-      "name": "Walmart",
-      "type": "渠道",
-      "count": 8,
-      "items": [
-        {
-          "title": "Placer.ai: Prime Day boosts Walmart, Target, Best Buy, Kohl’s store traffic - Chain Store Age",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkdiSzlhRENwS1lLaVZ5VVZ6NUM0R3h3RXM5dkwzZG5oYU1KWWsyUGNuQXYtQkU3Mi1hUkR3RmZ5cTA5YnBQdGUwWWxFMUo1VEJlaWptNW5pamlyUldWZldVcVNNZDZpX3RmZ2tlMlQ0SlNmWVpsWTRrMEVLVFRUdXoyMk1UQWhuQ1VZaENXSkZ6ZG52bjItZWlLNA?oc=5\" target=\"_blank\">Placer.ai: Prime Day boosts Walmart, ",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkdiSzlhRENwS1lLaVZ5VVZ6NUM0R3h3RXM5dkwzZG5oYU1KWWsyUGNuQXYtQkU3Mi1hUkR3RmZ5cTA5YnBQdGUwWWxFMUo1VEJlaWptNW5pamlyUldWZldVcVNNZDZpX3RmZ2tlMlQ0SlNmWVpsWTRrMEVLVFRUdXoyMk1UQWhuQ1VZaENXSkZ6ZG52bjItZWlLNA?oc=5",
-          "published": "Wed, 01 Jul 2026 15:08:58 GMT",
-          "published_iso": "2026-07-01T15:08:58+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 57.1,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "Walmart",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 369,
-          "display_title": "Placer.ai: Prime Day boosts Walmart...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Prime Day显著提升了Walmart、Target和Best Buy的店铺流量，电商销售潜力巨大。",
-          "suggested_action": "加强电商平台促销活动，吸引更多消费者关注和购买。"
-        },
-        {
-          "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
-          "summary": "Amazon’s earlier Prime Day this year pushed back-to-school deals into June. With that, competing retailers including Walmart and Target joined in chasing budget-focused shoppers long before school starts.",
-          "url": "https://www.modernretail.co/marketing/back-to-school-season-has-become-a-summer-long-event-thanks-to-an-earlier-prime-day/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "published": "Fri, 03 Jul 2026 04:00:00 +0000",
-          "published_iso": "2026-07-03T04:00:00+00:00",
-          "source": "Modern Retail",
-          "bucket": "channel_news",
-          "hours_since_published": 20.3,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 362,
-          "display_title": "Back-to-school season has become a...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
-          "suggested_action": "加强电商平台的促销活动，提升品牌曝光和销售转化。"
-        }
-      ]
-    },
-    {
-      "name": "open-ear",
-      "type": "品类",
-      "count": 6,
-      "items": [
-        {
-          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-          "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-          "published_iso": "2026-07-03T20:27:44+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 3.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "open-ear",
-              "earbuds"
-            ]
-          },
-          "_score": 307,
-          "display_title": "Prime Day is over, but Bose Ultra Open...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Bose Ultra Open Earbuds在亚马逊上降价，有助于提升销量和品牌曝光。",
-          "suggested_action": "加强电商推广，利用降价机会吸引更多消费者关注。"
-        },
-        {
-          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-          "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-          "published_iso": "2026-07-03T20:27:44+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 3.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "open-ear",
-              "earbuds"
-            ]
-          },
-          "_score": 290,
-          "display_title": "Prime Day is over, but Bose Ultra Open...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "earbuds",
-      "type": "品类",
-      "count": 6,
-      "items": [
-        {
-          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-          "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-          "published_iso": "2026-07-03T20:27:44+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 3.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "open-ear",
-              "earbuds"
-            ]
-          },
-          "_score": 307,
-          "display_title": "Prime Day is over, but Bose Ultra Open...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Bose Ultra Open Earbuds在亚马逊上降价，有助于提升销量和品牌曝光。",
-          "suggested_action": "加强电商推广，利用降价机会吸引更多消费者关注。"
-        },
-        {
-          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-          "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-          "published_iso": "2026-07-03T20:27:44+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 3.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "open-ear",
-              "earbuds"
-            ]
-          },
-          "_score": 290,
-          "display_title": "Prime Day is over, but Bose Ultra Open...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
+          "business_note": "Walmart和Amazon在2026年零售排名中继续领先，电商市场竞争激烈。",
+          "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售渠道。"
         }
       ]
     },
     {
       "name": "headphone",
       "type": "品类",
-      "count": 5,
+      "count": 9,
       "items": [
         {
           "title": "Shokz Goes Big on Bone Conduction Headphones With 40% Off the New OpenRun Pro 2 for Those Who Missed Prime Day - Gizmodo",
@@ -1677,8 +1465,8 @@
           "published_iso": "2026-07-03T12:10:03+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 12.1,
-          "freshness_label": "24h内",
+          "hours_since_published": 35.0,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Shokz"
@@ -1689,7 +1477,7 @@
               "headphone"
             ]
           },
-          "_score": 305,
+          "_score": 290,
           "display_title": "Shokz Goes Big on Bone Conduction...",
           "tags": [
             "🎧 耳机音频",
@@ -1697,37 +1485,387 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌知名度和市场份额。",
-          "suggested_action": "建议加强电商平台宣传，利用折扣促销吸引更多用户购买。"
+          "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌曝光和销售额。",
+          "suggested_action": "建议加大电商和社交媒体营销力度，提升品牌知名度。"
         },
         {
-          "title": "The 8 best headphones and earbuds of 2026, as tested by our audio editor - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPSEVLd3BoTm1WLUZxMjJpcWhSUjFPZVhNWDVrTWRvY2NSVHlJWjhnSTJFSjZSQ09ZUk9oNDBLWlVvZWREbU9jQW9Ublc1M2xEb0hZQUZISjNiUG5MTzVlVG9rTkNYZE1taWVnUGxhUFFDTHhKaDducmhURTlDbi1KUXltY0NvNlZIeUg2VGxoeWVGNUh2RDMySjc0YUNrTjdJVkFHSmRVd1ljd1NvUEMxeldib1o2NnM4SkVlX1lwMlNiLUZBNGVVZU",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSEVLd3BoTm1WLUZxMjJpcWhSUjFPZVhNWDVrTWRvY2NSVHlJWjhnSTJFSjZSQ09ZUk9oNDBLWlVvZWREbU9jQW9Ublc1M2xEb0hZQUZISjNiUG5MTzVlVG9rTkNYZE1taWVnUGxhUFFDTHhKaDducmhURTlDbi1KUXltY0NvNlZIeUg2VGxoeWVGNUh2RDMySjc0YUNrTjdJVkFHSmRVd1ljd1NvUEMxeldib1o2NnM4SkVlX1lwMlNiLUZBNGVVZU03TmVqdXdUaE9abF9qOVkwUU8teXFoSWQ0T0I0N19RcFF4Q2h1eWgzel9xUXp5bGx3VmtWN3JMcVU3XzZkT2hpb25JMjNYSjZVUQ?oc=5",
-          "published": "Fri, 03 Jul 2026 12:19:17 GMT",
-          "published_iso": "2026-07-03T12:19:17+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "We found 15+ headphone deals still live post-Prime Day: Sony, Bose, Marshall - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVdSWlVLRXJHYlFvUHJzLWdlU1FmZE52Wk40UXY3RWRfMVZ6TXF3U0p6Y0p3MVpDMG50cTNidFhWcFNFWGFiYjJhdFcxNEFQM2g5QUVBYmhONlZNV0tuZVAtSWRZT1hBbDZ1ZEpxYVZNRWwzbGc?oc=5\" target=\"_blank\">We found 15+ headphone deals still live post-Prime Day: Sony, Bose, Marshall</a>&nbsp;&n",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVdSWlVLRXJHYlFvUHJzLWdlU1FmZE52Wk40UXY3RWRfMVZ6TXF3U0p6Y0p3MVpDMG50cTNidFhWcFNFWGFiYjJhdFcxNEFQM2g5QUVBYmhONlZNV0tuZVAtSWRZT1hBbDZ1ZEpxYVZNRWwzbGc?oc=5",
+          "published": "Sat, 04 Jul 2026 09:00:00 GMT",
+          "published_iso": "2026-07-04T09:00:00+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 12.0,
+          "hours_since_published": 14.1,
           "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [],
+            "brands": [
+              "Bose",
+              "Sony"
+            ],
             "channels": [],
             "categories": [
-              "earbuds",
               "headphone"
             ]
           },
-          "_score": 271,
-          "display_title": "The 8 best headphones and earbuds of...",
+          "_score": 279,
+          "display_title": "We found 15+ headphone deals still live...",
+          "tags": [
+            "🎧 耳机音频",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "后Prime Day仍有15个耳机优惠，需抓住电商机会。",
+          "suggested_action": "加强电商推广，利用优惠吸引消费者购买。"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "渠道",
+      "count": 7,
+      "items": [
+        {
+          "title": "Placer.ai: Prime Day boosts Walmart, Target, Best Buy, Kohl’s store traffic - Chain Store Age",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkdiSzlhRENwS1lLaVZ5VVZ6NUM0R3h3RXM5dkwzZG5oYU1KWWsyUGNuQXYtQkU3Mi1hUkR3RmZ5cTA5YnBQdGUwWWxFMUo1VEJlaWptNW5pamlyUldWZldVcVNNZDZpX3RmZ2tlMlQ0SlNmWVpsWTRrMEVLVFRUdXoyMk1UQWhuQ1VZaENXSkZ6ZG52bjItZWlLNA?oc=5\" target=\"_blank\">Placer.ai: Prime Day boosts Walmart, ",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkdiSzlhRENwS1lLaVZ5VVZ6NUM0R3h3RXM5dkwzZG5oYU1KWWsyUGNuQXYtQkU3Mi1hUkR3RmZ5cTA5YnBQdGUwWWxFMUo1VEJlaWptNW5pamlyUldWZldVcVNNZDZpX3RmZ2tlMlQ0SlNmWVpsWTRrMEVLVFRUdXoyMk1UQWhuQ1VZaENXSkZ6ZG52bjItZWlLNA?oc=5",
+          "published": "Wed, 01 Jul 2026 15:08:58 GMT",
+          "published_iso": "2026-07-01T15:08:58+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 80.0,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy",
+              "Walmart",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 354,
+          "display_title": "Placer.ai: Prime Day boosts Walmart...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Prime Day显著提升了Walmart、Target和Best Buy的店内流量，反映出电商活动的强大影响力。",
+          "suggested_action": "加强电商促销策略，利用Prime Day流量提升品牌曝光和销售。"
+        },
+        {
+          "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
+          "summary": "Amazon’s earlier Prime Day this year pushed back-to-school deals into June. With that, competing retailers including Walmart and Target joined in chasing budget-focused shoppers long before school starts.",
+          "url": "https://www.modernretail.co/marketing/back-to-school-season-has-become-a-summer-long-event-thanks-to-an-earlier-prime-day/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Fri, 03 Jul 2026 04:00:00 +0000",
+          "published_iso": "2026-07-03T04:00:00+00:00",
+          "source": "Modern Retail",
+          "bucket": "channel_news",
+          "hours_since_published": 43.1,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 347,
+          "display_title": "Back-to-school season has become a...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "提前的返校季促销为电商带来新的销售机会，需抓住这一趋势。",
+          "suggested_action": "优化电商平台的返校季营销策略，提前布局促销活动。"
+        }
+      ]
+    },
+    {
+      "name": "bone conduction",
+      "type": "品类",
+      "count": 6,
+      "items": [
+        {
+          "title": "Shokz Goes Big on Bone Conduction Headphones With 40% Off the New OpenRun Pro 2 for Those Who Missed Prime Day - Gizmodo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3RrN3ZuUlFRZnlrTVJERQ?oc=5",
+          "published": "Fri, 03 Jul 2026 12:10:03 GMT",
+          "published_iso": "2026-07-03T12:10:03+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 35.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 290,
+          "display_title": "Shokz Goes Big on Bone Conduction...",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "2026年最佳耳机和耳塞评测将影响品牌形象和销售策略。",
-          "suggested_action": "加强电商平台的耳机和耳塞推广，提升品牌曝光度。"
+          "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌曝光和销售额。",
+          "suggested_action": "建议加大电商和社交媒体营销力度，提升品牌知名度。"
+        },
+        {
+          "title": "Listen to Music Through Your Cheekbones With the Best Bone Conduction Headphones - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUy1FMTd2bmttLVFyRktGbWtIWmwyNGdEVEJmWlZWTzEyYkJ6TzRRMl9Qc3c0UTQxQ0U4NHVkVTdkbDhiU185RHhLNjRKaHJ1aE5UOGJTbG1sNWZiUkVNckx1eDFyWk82T1JtaGZaVQ?oc=5\" target=\"_blank\">Listen to Music Through Your Cheekbones With the Best Bone Conduction Headphones</a>&nbsp;&nbsp;<",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUy1FMTd2bmttLVFyRktGbWtIWmwyNGdEVEJmWlZWTzEyYkJ6TzRRMl9Qc3c0UTQxQ0U4NHVkVTdkbDhiU185RHhLNjRKaHJ1aE5UOGJTbG1sNWZiUkVNckx1eDFyWk82T1JtaGZaVQ?oc=5",
+          "published": "Fri, 03 Jul 2026 11:30:00 GMT",
+          "published_iso": "2026-07-03T11:30:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 35.6,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 234,
+          "display_title": "Listen to Music Through Your Cheekbones...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销"
+        }
+      ]
+    },
+    {
+      "name": "earbuds",
+      "type": "品类",
+      "count": 5,
+      "items": [
+        {
+          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
+          "published": "Sat, 04 Jul 2026 13:14:53 GMT",
+          "published_iso": "2026-07-04T13:14:53+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 9.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 307,
+          "display_title": "Prime Day is over, but Bose Ultra Open...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Bose Ultra Open Earbuds在亚马逊的折扣可提升销量，抓住电商机会。",
+          "suggested_action": "加强亚马逊平台的品牌营销，利用折扣吸引消费者。"
+        },
+        {
+          "title": "SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long",
+          "summary": "This SHOKZ OpenDots ONE Lightning Deal cuts the price to $139.95, matching the best we’ve seen for the open-ear earbuds.",
+          "url": "https://www.androidauthority.com/shokz-opendots-one-deal-3684227/",
+          "published": "Fri, 03 Jul 2026 21:29:15 +0000",
+          "published_iso": "2026-07-03T21:29:15+00:00",
+          "source": "Android Authority",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 25.6,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 260,
+          "display_title": "SHOKZ OpenDots ONE hit Prime Day price...",
+          "tags": [
+            "🎧 耳机音频",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "SHOKZ OpenDots ONE在Prime Day期间降价30%，提升电商销售潜力。",
+          "suggested_action": "利用降价机会加强电商推广，吸引更多消费者购买。"
+        }
+      ]
+    },
+    {
+      "name": "Bose",
+      "type": "品牌",
+      "count": 4,
+      "items": [
+        {
+          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
+          "published": "Sat, 04 Jul 2026 13:14:53 GMT",
+          "published_iso": "2026-07-04T13:14:53+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 9.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 307,
+          "display_title": "Prime Day is over, but Bose Ultra Open...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Bose Ultra Open Earbuds在亚马逊的折扣可提升销量，抓住电商机会。",
+          "suggested_action": "加强亚马逊平台的品牌营销，利用折扣吸引消费者。"
+        },
+        {
+          "title": "We found 15+ headphone deals still live post-Prime Day: Sony, Bose, Marshall - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVdSWlVLRXJHYlFvUHJzLWdlU1FmZE52Wk40UXY3RWRfMVZ6TXF3U0p6Y0p3MVpDMG50cTNidFhWcFNFWGFiYjJhdFcxNEFQM2g5QUVBYmhONlZNV0tuZVAtSWRZT1hBbDZ1ZEpxYVZNRWwzbGc?oc=5\" target=\"_blank\">We found 15+ headphone deals still live post-Prime Day: Sony, Bose, Marshall</a>&nbsp;&n",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVdSWlVLRXJHYlFvUHJzLWdlU1FmZE52Wk40UXY3RWRfMVZ6TXF3U0p6Y0p3MVpDMG50cTNidFhWcFNFWGFiYjJhdFcxNEFQM2g5QUVBYmhONlZNV0tuZVAtSWRZT1hBbDZ1ZEpxYVZNRWwzbGc?oc=5",
+          "published": "Sat, 04 Jul 2026 09:00:00 GMT",
+          "published_iso": "2026-07-04T09:00:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 14.1,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose",
+              "Sony"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 279,
+          "display_title": "We found 15+ headphone deals still live...",
+          "tags": [
+            "🎧 耳机音频",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "后Prime Day仍有15个耳机优惠，需抓住电商机会。",
+          "suggested_action": "加强电商推广，利用优惠吸引消费者购买。"
+        }
+      ]
+    },
+    {
+      "name": "open-ear",
+      "type": "品类",
+      "count": 4,
+      "items": [
+        {
+          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
+          "published": "Sat, 04 Jul 2026 13:14:53 GMT",
+          "published_iso": "2026-07-04T13:14:53+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 9.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 307,
+          "display_title": "Prime Day is over, but Bose Ultra Open...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Bose Ultra Open Earbuds在亚马逊的折扣可提升销量，抓住电商机会。",
+          "suggested_action": "加强亚马逊平台的品牌营销，利用折扣吸引消费者。"
+        },
+        {
+          "title": "SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long",
+          "summary": "This SHOKZ OpenDots ONE Lightning Deal cuts the price to $139.95, matching the best we’ve seen for the open-ear earbuds.",
+          "url": "https://www.androidauthority.com/shokz-opendots-one-deal-3684227/",
+          "published": "Fri, 03 Jul 2026 21:29:15 +0000",
+          "published_iso": "2026-07-03T21:29:15+00:00",
+          "source": "Android Authority",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 25.6,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 260,
+          "display_title": "SHOKZ OpenDots ONE hit Prime Day price...",
+          "tags": [
+            "🎧 耳机音频",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "SHOKZ OpenDots ONE在Prime Day期间降价30%，提升电商销售潜力。",
+          "suggested_action": "利用降价机会加强电商推广，吸引更多消费者购买。"
         }
       ]
     },
@@ -1744,8 +1882,8 @@
           "published_iso": "2026-07-03T12:10:03+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 12.1,
-          "freshness_label": "24h内",
+          "hours_since_published": 35.0,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Shokz"
@@ -1756,7 +1894,7 @@
               "headphone"
             ]
           },
-          "_score": 305,
+          "_score": 290,
           "display_title": "Shokz Goes Big on Bone Conduction...",
           "tags": [
             "🎧 耳机音频",
@@ -1764,8 +1902,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌知名度和市场份额。",
-          "suggested_action": "建议加强电商平台宣传，利用折扣促销吸引更多用户购买。"
+          "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌曝光和销售额。",
+          "suggested_action": "建议加大电商和社交媒体营销力度，提升品牌知名度。"
         },
         {
           "title": "SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long",
@@ -1775,8 +1913,8 @@
           "published_iso": "2026-07-03T21:29:15+00:00",
           "source": "Android Authority",
           "bucket": "consumer_electronics",
-          "hours_since_published": 2.8,
-          "freshness_label": "24h内",
+          "hours_since_published": 25.6,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Shokz"
@@ -1787,7 +1925,7 @@
               "earbuds"
             ]
           },
-          "_score": 275,
+          "_score": 260,
           "display_title": "SHOKZ OpenDots ONE hit Prime Day price...",
           "tags": [
             "🎧 耳机音频",
@@ -1795,170 +1933,28 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "SHOKZ OpenDots ONE 在Prime Day期间降价30%，有助于提升销量和品牌曝光。",
-          "suggested_action": "利用此机会加强电商推广，吸引更多消费者购买。"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 4,
-      "items": [
-        {
-          "title": "Shokz Goes Big on Bone Conduction Headphones With 40% Off the New OpenRun Pro 2 for Those Who Missed Prime Day - Gizmodo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3RrN3ZuUlFRZnlrTVJERQ?oc=5",
-          "published": "Fri, 03 Jul 2026 12:10:03 GMT",
-          "published_iso": "2026-07-03T12:10:03+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 12.1,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 305,
-          "display_title": "Shokz Goes Big on Bone Conduction...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌知名度和市场份额。",
-          "suggested_action": "建议加强电商平台宣传，利用折扣促销吸引更多用户购买。"
-        },
-        {
-          "title": "Amazon Deals of the Day: Our Favorite Bone-Conduction Headphones Are $80 Off - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE96TE1Nb0JPZ3FTR19VSDdjdi0zbEE3WFpLT1FwY2k2aVFKYVZxOVJRRm5sdXRuZ2hPMklOUW9KdDNBbVNPTFNLdlE2UlNRbkpHbzVFVHpwVzhmNnlJOWx6ZWU3VDJaNGpwM3c?oc=5\" target=\"_blank\">Amazon Deals of the Day: Our Favorite Bone-Conduction Headphones Are $80 Off</a>&nbsp;&nbsp;<font color=",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96TE1Nb0JPZ3FTR19VSDdjdi0zbEE3WFpLT1FwY2k2aVFKYVZxOVJRRm5sdXRuZ2hPMklOUW9KdDNBbVNPTFNLdlE2UlNRbkpHbzVFVHpwVzhmNnlJOWx6ZWU3VDJaNGpwM3c?oc=5",
-          "published": "Thu, 02 Jul 2026 15:12:00 GMT",
-          "published_iso": "2026-07-02T15:12:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 33.1,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 228,
-          "display_title": "Amazon Deals of the Day: Our Favorite...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "亚马逊促销活动对骨传导耳机销售有显著推动作用。",
-          "suggested_action": "加强电商平台的促销策略，提升品牌曝光和销量。"
-        }
-      ]
-    },
-    {
-      "name": "Bose",
-      "type": "品牌",
-      "count": 3,
-      "items": [
-        {
-          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-          "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-          "published_iso": "2026-07-03T20:27:44+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 3.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "open-ear",
-              "earbuds"
-            ]
-          },
-          "_score": 307,
-          "display_title": "Prime Day is over, but Bose Ultra Open...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Bose Ultra Open Earbuds在亚马逊上降价，有助于提升销量和品牌曝光。",
-          "suggested_action": "加强电商推广，利用降价机会吸引更多消费者关注。"
-        },
-        {
-          "title": "Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5\" target=\"_blank\">Prime Day is over, but Bose Ultra Open Earbuds are still $100 off at Amazon</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTkyZ3p5aks3NGJweU5HRUZFdFpISnpmX19zNDhrcmxnY2N5QnZWbllKV0V5Y3VSV3llME5Eai0zc1hQUjcwWkRCXzh3SDJKQVBQNzBsUmxFVWVJNHduNS1JZlRJcGNBU25xcDkwQQ?oc=5",
-          "published": "Fri, 03 Jul 2026 20:27:44 GMT",
-          "published_iso": "2026-07-03T20:27:44+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 3.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "open-ear",
-              "earbuds"
-            ]
-          },
-          "_score": 290,
-          "display_title": "Prime Day is over, but Bose Ultra Open...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
+          "business_note": "SHOKZ OpenDots ONE在Prime Day期间降价30%，提升电商销售潜力。",
+          "suggested_action": "利用降价机会加强电商推广，吸引更多消费者购买。"
         }
       ]
     }
   ],
   "takeaways": [
-    "Prime Day后，Walmart在市场份额上显著提升，显示出其强大的电商竞争力。",
-    "SHOKZ在骨传导耳机领域的扩张表明，创新产品能有效吸引消费者关注。",
-    "亚马逊的促销活动持续影响市场，竞争对手需加快调整策略以应对。",
-    "随着返校季临近，消费电子产品需求将进一步上升，零售商需提前布局。",
-    "Bose新款耳机的推出可能会改变高端音频市场的竞争格局，值得关注。"
+    "Prime Day后，沃尔玛的销售增长显示出其在电商市场的强劲竞争力。",
+    "骨传导耳机的热销表明，消费者对新兴音频技术的接受度正在提升。",
+    "亚马逊和沃尔玛在返校季的竞争将进一步加剧，影响市场份额。",
+    "Bose和Shokz等品牌的促销策略有效吸引了消费者，需关注其长期影响。",
+    "耳机和耳塞的持续折扣反映出市场对高性价比产品的需求不断上升。"
   ],
   "opportunity_signals": [
-    "利用Prime Day的成功经验，优化电商促销策略，以提升店铺流量和销售额。",
-    "抓住提前返校季的机会，推出针对性促销活动，以满足消费者预算并提升电商销售。",
-    "关注电商巨头的策略变化，及时调整我们的市场定位和定价策略，以保持竞争优势。"
+    "返校季促销为电商带来了新的销售机会，企业应提前布局以最大化收益。",
+    "随着全渠道零售模式的崛起，企业需加速整合线上线下资源，以提升市场竞争力。",
+    "针对价格竞争，需优化定价策略，以应对Walmart和Amazon的市场压力，确保品牌优势。"
   ],
   "risk_signals": [
-    "电商巨头如亚马逊和沃尔玛的持续领先可能导致市场份额被侵蚀，需警惕竞争加剧的风险。",
-    "提前的返校季促销虽带来新机遇，但若未能有效吸引消费者，可能导致销售目标未达成的风险。",
-    "竞争对手的定价策略变化可能影响我们的电商定价策略，需密切关注市场动态以避免利润下降。"
+    "电商活动的强大影响力可能导致传统零售商流量下降，需谨慎评估线下业务的可持续性。",
+    "随着返校季促销提前，未能及时调整营销策略可能错失重要销售机会，影响整体业绩。",
+    "电商市场竞争加剧，若未能优化价格策略，将面临客户流失和市场份额下降的风险。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

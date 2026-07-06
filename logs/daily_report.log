@@ -15037,3 +15037,71 @@
 2026-07-06 08:15:40 | INFO | Validation passed | date=2026-07-06, consumer=10, channel=10, products=6
 2026-07-06 08:15:40 | INFO | [DONE] validate_outputs
 2026-07-06 08:15:40 | INFO | ========== Daily report generated successfully ==========
+2026-07-07 07:18:03 | INFO | ========== Daily report job started ==========
+2026-07-07 07:18:03 | INFO | [START] fetch_news
+2026-07-07 07:18:03 | INFO | Fetching news bucket=consumer_electronics, sources=7
+2026-07-07 07:18:03 | INFO | Fetched 9 items from The Verge
+2026-07-07 07:18:03 | INFO | Fetched 12 items from TechCrunch
+2026-07-07 07:18:03 | INFO | Fetched 12 items from Engadget
+2026-07-07 07:18:04 | INFO | Fetched 12 items from Android Authority
+2026-07-07 07:18:05 | INFO | Fetched 0 items from PhoneArena
+2026-07-07 07:18:06 | INFO | Fetched 12 items from Google News - Audio Wearable Watch
+2026-07-07 07:18:06 | INFO | Fetched 12 items from Google News - Competitor Watch
+2026-07-07 07:18:06 | INFO | Bucket consumer_electronics raw=69 deduped=69
+2026-07-07 07:18:06 | INFO | Fetching news bucket=channel_news, sources=6
+2026-07-07 07:18:07 | INFO | Fetched 10 items from RetailWire
+2026-07-07 07:18:07 | INFO | Fetched 0 items from Chain Store Age
+2026-07-07 07:18:07 | INFO | Fetched 10 items from Modern Retail
+2026-07-07 07:18:08 | INFO | Fetched 10 items from Retail Dive
+2026-07-07 07:18:08 | INFO | Fetched 12 items from Google News - Retail Platforms
+2026-07-07 07:18:09 | INFO | Fetched 12 items from Google News - US Retail Audio
+2026-07-07 07:18:09 | INFO | Bucket channel_news raw=54 deduped=54
+2026-07-07 07:18:09 | INFO | Saved data/raw/news.json | consumer=69, channel=54, total=123
+2026-07-07 07:18:09 | INFO | [DONE] fetch_news
+2026-07-07 07:18:09 | INFO | [START] fetch_products
+2026-07-07 07:18:09 | INFO | Using config/product_sources.yaml -> sources.consumer_electronics (fallback)
+2026-07-07 07:18:09 | INFO | Fetching product sources: 7
+2026-07-07 07:18:09 | INFO | Fetched 9 product items from The Verge
+2026-07-07 07:18:09 | INFO | Fetched 20 product items from TechCrunch
+2026-07-07 07:18:09 | INFO | Fetched 20 product items from Engadget
+2026-07-07 07:18:10 | INFO | Fetched 24 product items from Android Authority
+2026-07-07 07:18:10 | INFO | Fetched 0 product items from PhoneArena
+2026-07-07 07:18:10 | INFO | Fetched 12 product items from Google News - Audio Wearable Watch
+2026-07-07 07:18:10 | INFO | Fetched 24 product items from Google News - Competitor Watch
+2026-07-07 07:18:10 | INFO | Saved data/raw/products.json | sources=7, raw=109, deduped=109, kept=12
+2026-07-07 07:18:10 | INFO | [DONE] fetch_products
+2026-07-07 07:18:10 | INFO | [START] detect_festivals
+2026-07-07 07:18:10 | INFO | Saved data/processed/festivals.json
+2026-07-07 07:18:10 | INFO | [DONE] detect_festivals
+2026-07-07 07:18:10 | INFO | [START] process_content
+2026-07-07 07:18:10 | INFO | Loaded raw content | consumer=69, channel=44, products=12
+2026-07-07 07:18:49 | INFO | Saved data/processed/daily_payload.json | date=2026-07-07, generated_at=2026-07-07 07:18:49 CST, consumer=10, channel=10, products=6, entities=8
+2026-07-07 07:18:49 | INFO | [DONE] process_content
+2026-07-07 07:18:49 | INFO | [START] build_pages
+2026-07-07 07:18:49 | INFO | Saved docs/index.html | md5=253492e0e0
+2026-07-07 07:18:49 | INFO | Saved docs/prime-day.html | md5=61e46336a8
+2026-07-07 07:18:49 | INFO | Saved docs/back-to-school.html | md5=5e87c1ed30
+2026-07-07 07:18:49 | INFO | Saved docs/qixi.html | md5=0a43f6dab3
+2026-07-07 07:18:49 | INFO | Saved docs/labor-day-us.html | md5=1dad6fdd0f
+2026-07-07 07:18:49 | INFO | Saved docs/mid-autumn.html | md5=2d51e2bd8e
+2026-07-07 07:18:49 | INFO | Saved docs/national-day-cn.html | md5=043755638e
+2026-07-07 07:18:49 | INFO | Saved docs/halloween.html | md5=bb4af8a3c0
+2026-07-07 07:18:49 | INFO | Saved docs/double-11.html | md5=3fef9fb4ce
+2026-07-07 07:18:49 | INFO | Saved docs/thanksgiving.html | md5=2c1cec9306
+2026-07-07 07:18:49 | INFO | Saved docs/black-friday.html | md5=f086d4de94
+2026-07-07 07:18:49 | INFO | Saved docs/cyber-monday.html | md5=edbcd03fdf
+2026-07-07 07:18:49 | INFO | Saved docs/double-12.html | md5=5fadf52276
+2026-07-07 07:18:49 | INFO | Saved docs/christmas.html | md5=9b22c53b55
+2026-07-07 07:18:49 | INFO | Saved docs/valentines-day.html | md5=6c0fad1390
+2026-07-07 07:18:49 | INFO | Saved docs/spring-festival.html | md5=4348bbce1d
+2026-07-07 07:18:49 | INFO | Saved docs/lantern-festival.html | md5=23eae1f74a
+2026-07-07 07:18:49 | INFO | Saved docs/easter.html | md5=a564efb098
+2026-07-07 07:18:49 | INFO | Saved docs/qingming.html | md5=2f06cd0aed
+2026-07-07 07:18:49 | INFO | Saved docs/labor-day-cn.html | md5=c552f29ecc
+2026-07-07 07:18:49 | INFO | Saved docs/mothers-day.html | md5=dde8ef18d5
+2026-07-07 07:18:49 | INFO | Page build finished | changed_files=21
+2026-07-07 07:18:49 | INFO | [DONE] build_pages
+2026-07-07 07:18:49 | INFO | [START] validate_outputs
+2026-07-07 07:18:49 | INFO | Validation passed | date=2026-07-07, consumer=10, channel=10, products=6
+2026-07-07 07:18:49 | INFO | [DONE] validate_outputs
+2026-07-07 07:18:49 | INFO | ========== Daily report generated successfully ==========

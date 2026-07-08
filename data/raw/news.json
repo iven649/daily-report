@@ -1,6 +1,15 @@
 {
   "consumer_electronics": [
     {
+      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+      "summary": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light. The update is meant to address modders who have taken actions such as physically dr",
+      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "published": "2026-07-07T19:55:19-04:00",
+      "published_iso": "2026-07-07T23:55:19+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Of course viewers are giving up on Netflix shows",
       "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it returned earlier this year. There seems to be so",
       "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
@@ -78,15 +87,6 @@
       "url": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
       "published": "2026-07-07T12:09:48-04:00",
       "published_iso": "2026-07-07T16:09:48+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images",
-      "summary": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, such as chessboards, game textures, and even Minecraft invento",
-      "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-      "published": "2026-07-07T11:02:30-04:00",
-      "published_iso": "2026-07-07T15:02:30+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics"
     },
@@ -199,6 +199,15 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "Meta built an AI detection tool to ID images and video created with its new models",
+      "summary": "Meta's new AI detector has rate limits for some reason.",
+      "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
+      "published": "Tue, 07 Jul 2026 23:23:52 +0000",
+      "published_iso": "2026-07-07T23:23:52+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "The next Samsung Galaxy Unpacked launch is happening on July 22",
       "summary": "The next Samsung Galaxy Unpacked launch is happening on July 22.",
       "url": "https://www.engadget.com/2209773/the-next-samsung-galaxy-unpacked-launch-is-happening-on-july-22/",
@@ -294,15 +303,6 @@
       "url": "https://www.engadget.com/2209749/the-x-app-for-ios-now-has-a-built-in-video-editor/",
       "published": "Tue, 07 Jul 2026 17:06:38 +0000",
       "published_iso": "2026-07-07T17:06:38+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Avatar Aang: The Last Airbender finally has a trailer and a July 25 release date",
-      "summary": "If you want to (legally) watch Avatar Aang: The Last Airbender, it finally has a trailer and a July 25 release date.",
-      "url": "https://www.engadget.com/2209710/avatar-aang-the-last-airbender-finally-has-a-trailer-and-a-july-25-release-date/",
-      "published": "Tue, 07 Jul 2026 16:42:47 +0000",
-      "published_iso": "2026-07-07T16:42:47+00:00",
       "source": "Engadget",
       "bucket": "consumer_electronics"
     },
@@ -418,8 +418,8 @@
       "title": "I swapped bone conduction headphones for open buds on my runs, and I’m not going back — here’s why - Tom's Guide",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2x2TkJjVVNGOE51NTVfbmRlbkJjYW5VcW84NUlNTmVZeUo0QThucjNiSkNMX19ZV3UydTRHY1J2OWk0aERsbmdqUlAtWXJwdmh4YU9hczVmbGxZUUJLYnFMTUkteF9SbjB2N25HdmoxMVYzTUtzMjl5MUI3WENsNWRMX185Z3JLQnRRc2VZeU5GUHhOSDdkOFd6WU5PVFlYWHJwVGpuand5R1FJTmwzSXB3UUN2RWJldlFReER0akNTMndMSlpvdj",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2x2TkJjVVNGOE51NTVfbmRlbkJjYW5VcW84NUlNTmVZeUo0QThucjNiSkNMX19ZV3UydTRHY1J2OWk0aERsbmdqUlAtWXJwdmh4YU9hczVmbGxZUUJLYnFMTUkteF9SbjB2N25HdmoxMVYzTUtzMjl5MUI3WENsNWRMX185Z3JLQnRRc2VZeU5GUHhOSDdkOFd6WU5PVFlYWHJwVGpuand5R1FJTmwzSXB3UUN2RWJldlFReER0akNTMndMSlpvdjFtYTVSTWs5U1E?oc=5",
-      "published": "Sat, 04 Jul 2026 04:15:00 GMT",
-      "published_iso": "2026-07-04T04:15:00+00:00",
+      "published": "Sat, 04 Jul 2026 04:28:14 GMT",
+      "published_iso": "2026-07-04T04:28:14+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -429,15 +429,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMSzNycHdtSXdWQks1N3VJejlmMW14cGo3WlhUX3BZUUtrQm40QUZ3STJSRjlkSXd0MjNBS2htU2kxT0pZOENCclZNMTgzSW5MNF90UlZEOXl6bW1zOHJmTzk5amVyVlNUX1EwNnBJWQ?oc=5",
       "published": "Thu, 02 Jul 2026 14:59:23 GMT",
       "published_iso": "2026-07-02T14:59:23+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Nothing Ear (3a) earbuds have dropped to under $100 — what’s new and how to buy - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1IWDNyZnVZN2ZxcFE1S1pVaE96bFNFbFJiRHQwdFg2enV2TmhBTTZZRlBGX2pORGRRMUFMdlRwN2JFWkp4UWVkSmhtWjg0ZVl3OGlwcXR0bm01YlFBLWwxQ3NKQ2JOWlM0ZnllWG9KYW1scjJK?oc=5\" target=\"_blank\">Nothing Ear (3a) earbuds have dropped to under $100 — what’s new and how to buy</a>&nbsp;&n",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IWDNyZnVZN2ZxcFE1S1pVaE96bFNFbFJiRHQwdFg2enV2TmhBTTZZRlBGX2pORGRRMUFMdlRwN2JFWkp4UWVkSmhtWjg0ZVl3OGlwcXR0bm01YlFBLWwxQ3NKQ2JOWlM0ZnllWG9KYW1scjJK?oc=5",
-      "published": "Tue, 07 Jul 2026 15:55:00 GMT",
-      "published_iso": "2026-07-07T15:55:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -465,15 +456,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4NHBVY2drdzdaX2xMdmU4UDZCNjFfSFZuT3MtYzViaDdZTnJzVVhpc0xWYXQwT21xOXBKMXNhaTkyMzJ2c0p3WHUzaEpGV2hhd1hYNXlXdVBWTmc1NGNZLWN5aHlFUWxBdjZKSnpYdnY5dw?oc=5",
       "published": "Fri, 03 Jul 2026 09:30:59 GMT",
       "published_iso": "2026-07-03T09:30:59+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "5 Hacks Every Shokz User Should Know - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE82SzFVaU9mcWFYMlltNzRrMFFRcVNtYkVKWWd3bkp2VmI2Wm5PMWJTc0dVNUFEMFZ3VE1MUk9HSVBLcjZwUHR0QV9WRjRLbTBvbXZGLUt3UHhpeVI0NVJCTDJSYnhzMDFTOTA0VTIzY2Zvb3ZwZjUtMA?oc=5\" target=\"_blank\">5 Hacks Every Shokz User Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lifehacker<",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82SzFVaU9mcWFYMlltNzRrMFFRcVNtYkVKWWd3bkp2VmI2Wm5PMWJTc0dVNUFEMFZ3VE1MUk9HSVBLcjZwUHR0QV9WRjRLbTBvbXZGLUt3UHhpeVI0NVJCTDJSYnhzMDFTOTA0VTIzY2Zvb3ZwZjUtMA?oc=5",
-      "published": "Wed, 01 Jul 2026 21:00:00 GMT",
-      "published_iso": "2026-07-01T21:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -532,15 +514,6 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Sony a7RVI Review Update: Is this Camera Really That Special? - The Phoblographer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVMzS0dHdFRTamNydDJGcWJBamxEZ29ybDk0XzR3cC1TRTJUNTRSRUJDUHR6QzNVLVRhNXJ1czhkMjlPbzFiVDQ3UGJuQUJLR281RFd2NjE0MUg0YWpua2pGSDVPeEplZ2NlcVlvUFVQbmxGME5SN056eGV3WThsaE9mMA?oc=5\" target=\"_blank\">Sony a7RVI Review Update: Is this Camera Really That Special?</a>&nbs",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVMzS0dHdFRTamNydDJGcWJBamxEZ29ybDk0XzR3cC1TRTJUNTRSRUJDUHR6QzNVLVRhNXJ1czhkMjlPbzFiVDQ3UGJuQUJLR281RFd2NjE0MUg0YWpua2pGSDVPeEplZ2NlcVlvUFVQbmxGME5SN056eGV3WThsaE9mMA?oc=5",
-      "published": "Fri, 03 Jul 2026 10:04:17 GMT",
-      "published_iso": "2026-07-03T10:04:17+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Sony Championship Hawaii to be contested on PGA TOUR Champions beginning in 2027 - PGA Tour",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd09fU2JaQkxUdS14SjYwbUh2c2R4SFVzY3VkeGU3ejBneHVxY29ZcVNtMGdnQWxLLWdKRzF3ZWV5YVJHM0FGTURRZEFNU1VPUXl6VTZlSUVJek9XZm5EcE44S1dIWWlQR0tuNmUyUmc5ekpDVE50T09TQWw1MHZnTVhzMmpxb0czcGFPOVdLb1JyTmNTNjlKTko3ZWlNOUNnT2VKLWlId3Y0RXd2UkZxWE4tUm5DY09zbkdObHp4YUVTQ09zUFctTz",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd09fU2JaQkxUdS14SjYwbUh2c2R4SFVzY3VkeGU3ejBneHVxY29ZcVNtMGdnQWxLLWdKRzF3ZWV5YVJHM0FGTURRZEFNU1VPUXl6VTZlSUVJek9XZm5EcE44S1dIWWlQR0tuNmUyUmc5ekpDVE50T09TQWw1MHZnTVhzMmpxb0czcGFPOVdLb1JyTmNTNjlKTko3ZWlNOUNnT2VKLWlId3Y0RXd2UkZxWE4tUm5DY09zbkdObHp4YUVTQ09zUFctTzVBeUlaaHhmcFZnTF9ETUY1RnJJckNtc2FVTVdpUQ?oc=5",
@@ -577,6 +550,15 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "PBR Bulls and Beats: Know Before You Go - Colorado State Athletics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE1zbjlsVTRmWVpNRE50bzlSSDRGQUZIYVJNaDh2LUU2V2tkZVMyNkJNQm1ZMnZkUnV2aFAxQnlnR2hBZC1BbmZTMExuUWpRTVVNa082MWdHYVgzTVFvRUE0eW9QV2taTGg2Mms2M1B1cHdDXy1MRERPa0xWaDNNSG5TbEh1dzQ?oc=5\" target=\"_blank\">PBR Bulls and Beats: Know Before You Go</a>&nbsp;&nbsp;<font col",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE1zbjlsVTRmWVpNRE50bzlSSDRGQUZIYVJNaDh2LUU2V2tkZVMyNkJNQm1ZMnZkUnV2aFAxQnlnR2hBZC1BbmZTMExuUWpRTVVNa082MWdHYVgzTVFvRUE0eW9QV2taTGg2Mms2M1B1cHdDXy1MRERPa0xWaDNNSG5TbEh1dzQ?oc=5",
+      "published": "Tue, 07 Jul 2026 19:11:34 GMT",
+      "published_iso": "2026-07-07T19:11:34+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Sony to end disc production for new PlayStation games | CNN Business - CNN",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzBHcTJUSVFDTWNLR3Y3RkVoY3VFLVBlbUhHWWNQZnJSVThmQnkydFZfalJlUGI2ak85ODFSOWRXWmNPRTFZa3FNcC1feW1TZ0ZtY1JUYmkwT0ZmYkpKQTFlOGt0QU9uLXFXLWt4V0pfY2xuUHU1QTY3dXJzeFdWcmN1RHFhelc2LW1PQVVGWThqRVR6ZXN6RnRaZkc2WktyV3JOV3dGLUhZejNmeW94Ty1yVUtsQmNmUU1pbmFTdVFYWEk?oc=5\" ",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzBHcTJUSVFDTWNLR3Y3RkVoY3VFLVBlbUhHWWNQZnJSVThmQnkydFZfalJlUGI2ak85ODFSOWRXWmNPRTFZa3FNcC1feW1TZ0ZtY1JUYmkwT0ZmYkpKQTFlOGt0QU9uLXFXLWt4V0pfY2xuUHU1QTY3dXJzeFdWcmN1RHFhelc2LW1PQVVGWThqRVR6ZXN6RnRaZkc2WktyV3JOV3dGLUhZejNmeW94Ty1yVUtsQmNmUU1pbmFTdVFYWEk?oc=5",
@@ -604,20 +586,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties - Variety",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdG1wR1VRNGdIZXlsTDFJNDdsOEVYa2ZJVnNqSHB2MmtUUWw4TEh5YnE5MXA0QzlkOV9vS0NDTDZYaTlnVW50NFRRc0FrUl9yNDh6TFFTRTVJdEhLeWllQzA3RGVhNFc0b0dQSkdkc3RtQk5qOXVvQ29LR3htcVZBNUpPcE55NzNUdzFKTjl4Ti1GNExiNzRGTGJlRFFEN0dJMGpFdjdnZno5STQ?oc=5\" target=\"_blank\">Jermaine Dupri S",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdG1wR1VRNGdIZXlsTDFJNDdsOEVYa2ZJVnNqSHB2MmtUUWw4TEh5YnE5MXA0QzlkOV9vS0NDTDZYaTlnVW50NFRRc0FrUl9yNDh6TFFTRTVJdEhLeWllQzA3RGVhNFc0b0dQSkdkc3RtQk5qOXVvQ29LR3htcVZBNUpPcE55NzNUdzFKTjl4Ti1GNExiNzRGTGJlRFFEN0dJMGpFdjdnZno5STQ?oc=5",
-      "published": "Tue, 07 Jul 2026 18:04:00 GMT",
-      "published_iso": "2026-07-07T18:04:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Sony to stop making physical discs for PlayStation starting in 2028 - CBS News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE91dzEtUWxLWjRhSVM3djBMbVBlcnJXQXF4d1pTYU9JbXpYQ29QV3lvdGV4UFVNZENycUlvN2xUZTh3WTY0WnZRVzJHRWFtNEtjNC1QVVpsbXdVX0NDaHdJelc5LWpTQUpwQ2VzVFo5MVFRM25ONUJCSDc0b0h5N1E?oc=5\" target=\"_blank\">Sony to stop making physical discs for PlayStation starting in 2028</a>&nbsp",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91dzEtUWxLWjRhSVM3djBMbVBlcnJXQXF4d1pTYU9JbXpYQ29QV3lvdGV4UFVNZENycUlvN2xUZTh3WTY0WnZRVzJHRWFtNEtjNC1QVVpsbXdVX0NDaHdJelc5LWpTQUpwQ2VzVFo5MVFRM25ONUJCSDc0b0h5N1E?oc=5",
       "published": "Wed, 01 Jul 2026 14:43:00 GMT",
       "published_iso": "2026-07-01T14:43:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties - Variety",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdG1wR1VRNGdIZXlsTDFJNDdsOEVYa2ZJVnNqSHB2MmtUUWw4TEh5YnE5MXA0QzlkOV9vS0NDTDZYaTlnVW50NFRRc0FrUl9yNDh6TFFTRTVJdEhLeWllQzA3RGVhNFc0b0dQSkdkc3RtQk5qOXVvQ29LR3htcVZBNUpPcE55NzNUdzFKTjl4Ti1GNExiNzRGTGJlRFFEN0dJMGpFdjdnZno5STQ?oc=5\" target=\"_blank\">Jermaine Dupri S",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdG1wR1VRNGdIZXlsTDFJNDdsOEVYa2ZJVnNqSHB2MmtUUWw4TEh5YnE5MXA0QzlkOV9vS0NDTDZYaTlnVW50NFRRc0FrUl9yNDh6TFFTRTVJdEhLeWllQzA3RGVhNFc0b0dQSkdkc3RtQk5qOXVvQ29LR3htcVZBNUpPcE55NzNUdzFKTjl4Ti1GNExiNzRGTGJlRFFEN0dJMGpFdjdnZno5STQ?oc=5",
+      "published": "Tue, 07 Jul 2026 18:04:00 GMT",
+      "published_iso": "2026-07-07T18:04:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     },
@@ -632,6 +614,96 @@
     }
   ],
   "channel_news": [
+    {
+      "title": "Target’s Tech Chief Has a Central Role in the Retailer’s Turnaround Plan",
+      "summary": "Prat Vemana, Target&#8217;s chief information and product officer, says improved technology is a throughline in the retailer&#8217;s recovery plan after several...",
+      "url": "https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/",
+      "published": "Mon, 16 Mar 2026 19:12:35 +0000",
+      "published_iso": "2026-03-16T19:12:35+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "State lawmakers draft rounding rules as U.S. Mint stops penny production",
+      "summary": "The U.S. Mint has halted production of new pennies, prompting at least six state legislatures to introduce bills standardizing how retailers round cash transactions to the nearest nickel.",
+      "url": "https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/",
+      "published": "Mon, 16 Mar 2026 15:44:53 +0000",
+      "published_iso": "2026-03-16T15:44:53+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Top 10 Retail Tech at eTail West 2026",
+      "summary": "eTail Palm Springs remains one of the more concentrated gatherings of retail operators, growth leaders, and technology companies working inside ecommerce...",
+      "url": "https://retailwire.com/top-10-retail-tech-at-etail-west-2026/",
+      "published": "Tue, 03 Mar 2026 15:31:34 +0000",
+      "published_iso": "2026-03-03T15:31:34+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "L.L.Bean Appoints Greg Elder as CEO, Prioritizes Brand Legacy and Expansion",
+      "summary": "L.L.Bean announced Friday that Greg Elder, its chief retail officer, will become the company&#8217;s fifth president and CEO. Elder will take...",
+      "url": "https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/",
+      "published": "Sat, 10 Jan 2026 00:45:59 +0000",
+      "published_iso": "2026-01-10T00:45:59+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "“No Contract, No Coffee”: Starbucks’ Red Cup Day Turns Into “Red Cup Rebellion” as Politicians Join Boycott",
+      "summary": "Workers strike during the coffee giant's busiest promotional day, drawing support from elected officials in Seattle and New York",
+      "url": "https://retailwire.com/starbucks-red-cup-rebellion/",
+      "published": "Sat, 15 Nov 2025 16:34:48 +0000",
+      "published_iso": "2025-11-15T16:34:48+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Walmart’s Sixth CEO: John Furner to Take the Helm as McMillon Steps Down",
+      "summary": "The world's largest retailer announces a major leadership transition, marking only the sixth CEO change in its history",
+      "url": "https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/",
+      "published": "Sat, 15 Nov 2025 16:11:31 +0000",
+      "published_iso": "2025-11-15T16:11:31+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Firehouse Subs Brings on Carolina Berti as CMO for U.S. and Canada",
+      "summary": "Firehouse Subs has appointed Carolina Berti as Chief Marketing Officer for its U.S. and Canadian operations. She will oversee brand marketing,...",
+      "url": "https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/",
+      "published": "Fri, 03 Oct 2025 18:02:27 +0000",
+      "published_iso": "2025-10-03T18:02:27+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Nike at a Crossroads: Q1 2026 Results Reveal Rebound, Headwinds, and a Strategic Reset",
+      "summary": "Nike’s first-quarter fiscal 2026 results (ended August 31, 2025) painted a picture of cautious optimism for one of the world’s most...",
+      "url": "https://retailwire.com/nike-at-a-crossroads-q1-2026-results-reveal-rebound-headwinds-and-a-strategic-reset/",
+      "published": "Wed, 03 Sep 2025 13:48:00 +0000",
+      "published_iso": "2025-09-03T13:48:00+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "IKEA and Best Buy Launch Shop-in-Shop Pilot Across 10 Stores in Florida and Texas",
+      "summary": "IKEA is partnering with Best Buy to place small shops within the latter's larger stores in a pilot project.",
+      "url": "https://retailwire.com/ikea-best-buy-pilot-florida-texas/",
+      "published": "Tue, 05 Aug 2025 15:35:22 +0000",
+      "published_iso": "2025-08-05T15:35:22+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Del Monte’s Bankruptcy Filing Reflects Cans, Costs and a Changing Grocery Aisle",
+      "summary": "After 139 years on U.S. grocery shelves, legacy canned-food brand Del Monte Foods has filed for Chapter 11 bankruptcy protection, citing...",
+      "url": "https://retailwire.com/del-montes-bankruptcy-filing-reflects-cans-costs-and-a-changing-grocery-aisle/",
+      "published": "Thu, 03 Jul 2025 23:17:00 +0000",
+      "published_iso": "2025-07-03T23:17:00+00:00",
+      "source": "RetailWire",
+      "bucket": "channel_news"
+    },
     {
       "title": "Brands Briefing: Salomon is working to double its US store count by 2028",
       "summary": "Sporting-goods company Salomon is going \"city by city\" as it looks to grow its retail presence in the U.S., executives say. The brand is considering opening stores in Boston, San Francisco and Miami.",
@@ -831,11 +903,29 @@
       "bucket": "channel_news"
     },
     {
+      "title": "Amazon and Walmart’s Summer Sale Wars Deliver a Win (With An Asterisk) - PYMNTS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmE1d0VzMUJjd29kdDBKUHh5SDFIaF9KbVhFZEZ4UUg3VWtPVDVQMDF2VU80UVR0NFNFMWp1ajJSd0t2U0NiSUV3NlBxREhtNzVta3h4XzBjT1ZObk1ub2JYRm1rQmN5Z1Z4TE5Ja0FnMThhMnI2MlpuWXNaT25YMlVwQ3JZZjBackllZ3VpVUxYTGpzNUp1YTlMQ0JodUM1Mkd1d2wxSGtNN19s?oc=5\" target=\"_blank\">Amazon and Walm",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmE1d0VzMUJjd29kdDBKUHh5SDFIaF9KbVhFZEZ4UUg3VWtPVDVQMDF2VU80UVR0NFNFMWp1ajJSd0t2U0NiSUV3NlBxREhtNzVta3h4XzBjT1ZObk1ub2JYRm1rQmN5Z1Z4TE5Ja0FnMThhMnI2MlpuWXNaT25YMlVwQ3JZZjBackllZ3VpVUxYTGpzNUp1YTlMQ0JodUM1Mkd1d2wxSGtNN19s?oc=5",
+      "published": "Fri, 03 Jul 2026 02:22:57 GMT",
+      "published_iso": "2026-07-03T02:22:57+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
       "title": "These Target Sheets Are So Freakin' Comfy, You'll Never Want To Leave Your Bed - BuzzFeed",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSmpDbktCSktXaTl2aXRhQ2x0YVMyMVFWX1d4a3hldFJmTUVGOUgtU0l3RUxSNjFhSXM1T2hsS0lPM080MTlucnZHRi1qWUFrX0Z3ZWdWRGZ6NVo3eVRHNGt1LUg3SC1iY2ZGZFFEZjh1OHNSZGRJanFURQ?oc=5\" target=\"_blank\">These Target Sheets Are So Freakin' Comfy, You'll Never Want To Leave Your Bed</a",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSmpDbktCSktXaTl2aXRhQ2x0YVMyMVFWX1d4a3hldFJmTUVGOUgtU0l3RUxSNjFhSXM1T2hsS0lPM080MTlucnZHRi1qWUFrX0Z3ZWdWRGZ6NVo3eVRHNGt1LUg3SC1iY2ZGZFFEZjh1OHNSZGRJanFURQ?oc=5",
       "published": "Thu, 02 Jul 2026 17:06:20 GMT",
       "published_iso": "2026-07-02T17:06:20+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon - Next in Media | Mike Shields",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5\" target=\"_blank\">Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon</a>&",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5",
+      "published": "Tue, 07 Jul 2026 12:46:35 GMT",
+      "published_iso": "2026-07-07T12:46:35+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -849,20 +939,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Costco vs Walmart: What's the Better Retail Stock to Buy Right Now? - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5\" target=\"_blank\">Costco vs Walmart: What's the Better ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5",
-      "published": "Mon, 06 Jul 2026 17:24:59 GMT",
-      "published_iso": "2026-07-06T17:24:59+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Q1 Earnings Roundup: Best Buy (NYSE:BBY) And The Rest Of The Specialty Retail Segment - TradingView",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMmV3QnU3Q3Njb3YwQjdoajF6NElpRnVMZzRzV2NNbDZIeVBJM1hsNVhBZGhKcmM0d0hkTV9Pc2U0YWViOFJxNU5zdzFweWJYNENJejAteHotTGUzRG5oRHpXeXZtTXdjZ3ROa1hJYl9zbVdIQ2NZcl9vdVgwOUNtbGJ3RWxnY0thT0IxRVRwcGhqVlpPQlZzbzlNaDVfbWVjRGNpU3VaVUNRd1hsQjd0OHlNaXJ4YlFybUtsQkVXcWJtc0t0ZjJWMF",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMmV3QnU3Q3Njb3YwQjdoajF6NElpRnVMZzRzV2NNbDZIeVBJM1hsNVhBZGhKcmM0d0hkTV9Pc2U0YWViOFJxNU5zdzFweWJYNENJejAteHotTGUzRG5oRHpXeXZtTXdjZ3ROa1hJYl9zbVdIQ2NZcl9vdVgwOUNtbGJ3RWxnY0thT0IxRVRwcGhqVlpPQlZzbzlNaDVfbWVjRGNpU3VaVUNRd1hsQjd0OHlNaXJ4YlFybUtsQkVXcWJtc0t0ZjJWMFRaa3VFOEFlc3FKQ3NjX2xvLU0?oc=5",
-      "published": "Fri, 03 Jul 2026 03:38:00 GMT",
-      "published_iso": "2026-07-03T03:38:00+00:00",
+      "title": "Americans Say Coca-Cola, Walmart, Amazon Are the Most Patriotic Food Retail Brands: Report - Consumer Goods Technology",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tkUWlJUDZZZFRQby1QTlp1Wlc5VzRocXljNkhxU0diNm5CM2Jfa3k3OVRSdU9lQ1pXeGREbDdJaW1PU2lwZzBPb09aSkZjbUExUHpydXVHcFVoYmQzb05VTVNuOW1UNHpqczI4MHFpYnZHVTNiaUNFUUg4OWZYdVA0emNoX0owTHRYVkxWOGlaQzFpcWNkRVl3WGh6T211bHhvVmVDYWZzZHhxNkE?oc=5\" target=\"_blank\">Americans Sa",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tkUWlJUDZZZFRQby1QTlp1Wlc5VzRocXljNkhxU0diNm5CM2Jfa3k3OVRSdU9lQ1pXeGREbDdJaW1PU2lwZzBPb09aSkZjbUExUHpydXVHcFVoYmQzb05VTVNuOW1UNHpqczI4MHFpYnZHVTNiaUNFUUg4OWZYdVA0emNoX0owTHRYVkxWOGlaQzFpcWNkRVl3WGh6T211bHhvVmVDYWZzZHhxNkE?oc=5",
+      "published": "Wed, 01 Jul 2026 18:34:19 GMT",
+      "published_iso": "2026-07-01T18:34:19+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -894,29 +975,20 @@
       "bucket": "channel_news"
     },
     {
+      "title": "Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From This Southern Chain - Daily Meal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5\" target=\"_blank\">Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5",
+      "published": "Sun, 05 Jul 2026 20:39:00 GMT",
+      "published_iso": "2026-07-05T20:39:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
       "title": "This grocery store in RI has one of the best rotisserie chickens in US - The Providence Journal",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWRGdTJ6bFNLeVFvS2F3UFEyU0poVUdzNGpSTm1udmpyRWNFc09wd1ptRmU5UjNZRlpwT3hlNFBOc3dXUXo2bEhPZEtaajhDV1prZVBZbFJGY1VYb05LREhrcjF1aWl2M2wtRFNDSGxsRC1PY2VnMlh5UkhFQ05MWG5pU2RFQUp0aDlDYU9kYWF5dkRkQmM4TVpuem1Nb1R0OHJ5aEpPLUpCU3ZRZFhjWFZYeHB1NlVoVjYxT212VG9CSDVP?oc=5\"",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWRGdTJ6bFNLeVFvS2F3UFEyU0poVUdzNGpSTm1udmpyRWNFc09wd1ptRmU5UjNZRlpwT3hlNFBOc3dXUXo2bEhPZEtaajhDV1prZVBZbFJGY1VYb05LREhrcjF1aWl2M2wtRFNDSGxsRC1PY2VnMlh5UkhFQ05MWG5pU2RFQUp0aDlDYU9kYWF5dkRkQmM4TVpuem1Nb1R0OHJ5aEpPLUpCU3ZRZFhjWFZYeHB1NlVoVjYxT212VG9CSDVP?oc=5",
       "published": "Wed, 01 Jul 2026 14:54:00 GMT",
       "published_iso": "2026-07-01T14:54:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "We Found The Best Store-Bought Lemonade After Tasting 9 Popular Brands - Southern Living",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1jR2tNbEJuOFF3Nl9KU2lEMUVsQno4djdnYUtQYTlmemVMcV9GUlBfZzg1MHFhNTZQcEwyZUdQenlRTUxtMDRnTkpNZXg3X1NUR0xQRUhsNFZ6TDdydkdRTGFTczNIMGZBdkpV?oc=5\" target=\"_blank\">We Found The Best Store-Bought Lemonade After Tasting 9 Popular Brands</a>&nbsp;&nbsp;<font color=\"#6f6",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jR2tNbEJuOFF3Nl9KU2lEMUVsQno4djdnYUtQYTlmemVMcV9GUlBfZzg1MHFhNTZQcEwyZUdQenlRTUxtMDRnTkpNZXg3X1NUR0xQRUhsNFZ6TDdydkdRTGFTczNIMGZBdkpV?oc=5",
-      "published": "Fri, 03 Jul 2026 20:03:23 GMT",
-      "published_iso": "2026-07-03T20:03:23+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "I Just Got a Sam's Club Membership—These Are the 20 Best Deals I Got on My First Trip - parade.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE82ZHdMblhmWFpmTWYtMVFqRVVSVjBMSy1LSk83aGJlWm4yR29UbnhpRG1mem5VY1BuWFZDbzBSWl9uSlJUdjRLdDYyV2xQZjdFeFEwVU9lS3FWSHYySzRSVE9PMmZ0UQ?oc=5\" target=\"_blank\">I Just Got a Sam's Club Membership—These Are the 20 Best Deals I Got on My First Trip</a>&nbsp;&nbsp;<font co",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82ZHdMblhmWFpmTWYtMVFqRVVSVjBMSy1LSk83aGJlWm4yR29UbnhpRG1mem5VY1BuWFZDbzBSWl9uSlJUdjRLdDYyV2xQZjdFeFEwVU9lS3FWSHYySzRSVE9PMmZ0UQ?oc=5",
-      "published": "Sat, 04 Jul 2026 06:38:04 GMT",
-      "published_iso": "2026-07-04T06:38:04+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -957,20 +1029,20 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Best Wireless Headphones of 2026 - TechGearLab",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1KM1BNQjJmZ2VEY3B5cFNxUklDS19NNkJsWWswTURTSWlpMkxoY3BWVzRwZGhjMS1xZG1BREtpS09BbXhOcVh2QmtvaDRwV3k5cTdDSEpzM05qSk5Yek5pTDduemI4bWt2QkltSExLMGtybkE?oc=5\" target=\"_blank\">Best Wireless Headphones of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechGearLab</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KM1BNQjJmZ2VEY3B5cFNxUklDS19NNkJsWWswTURTSWlpMkxoY3BWVzRwZGhjMS1xZG1BREtpS09BbXhOcVh2QmtvaDRwV3k5cTdDSEpzM05qSk5Yek5pTDduemI4bWt2QkltSExLMGtybkE?oc=5",
-      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "published_iso": "2026-07-04T07:00:00+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "The 8 Best Studio Headphones For Mixing And Recording of 2026 - RTINGS.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uRmdHZmhLTU9zQ1Zpa2M5c3RuQmttV2k5WVZrWXZPZUFybkpqcHZRQ21keEd6Ri1hTGJSeHZ3cGNLWUc1dVdmYUNLZ3haRnNvOXhjV3NGbGlkMFVyZW16UEJaWQ?oc=5\" target=\"_blank\">The 8 Best Studio Headphones For Mixing And Recording of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</fo",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uRmdHZmhLTU9zQ1Zpa2M5c3RuQmttV2k5WVZrWXZPZUFybkpqcHZRQ21keEd6Ri1hTGJSeHZ3cGNLWUc1dVdmYUNLZ3haRnNvOXhjV3NGbGlkMFVyZW16UEJaWQ?oc=5",
       "published": "Fri, 03 Jul 2026 07:00:00 GMT",
       "published_iso": "2026-07-03T07:00:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "Best Wireless Headphones of 2026 - TechGearLab",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1KM1BNQjJmZ2VEY3B5cFNxUklDS19NNkJsWWswTURTSWlpMkxoY3BWVzRwZGhjMS1xZG1BREtpS09BbXhOcVh2QmtvaDRwV3k5cTdDSEpzM05qSk5Yek5pTDduemI4bWt2QkltSExLMGtybkE?oc=5\" target=\"_blank\">Best Wireless Headphones of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechGearLab</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KM1BNQjJmZ2VEY3B5cFNxUklDS19NNkJsWWswTURTSWlpMkxoY3BWVzRwZGhjMS1xZG1BREtpS09BbXhOcVh2QmtvaDRwV3k5cTdDSEpzM05qSk5Yek5pTDduemI4bWt2QkltSExLMGtybkE?oc=5",
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "published_iso": "2026-07-04T07:00:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1002,9 +1074,9 @@
       "bucket": "channel_news"
     },
     {
-      "title": "The Best Cheap Wireless Earbuds under $50 - July 2026 - Scarbir",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9FX2pSSXZaUGFWMEdHQ0wzNllVa1QxVVNyZVVfa0s5ZXBCN0JWSzFLQlA2aUZCeGJNS1k2a2hfaTR2TUI3WUlhUDIyM2ZsSmxUTlV6Um1wNzhJaEpEc3dKSWkxelRkMkdOdTM1MkNYZWwzYkVwV1VrWXpaaDk?oc=5\" target=\"_blank\">The Best Cheap Wireless Earbuds under $50 - July 2026</a>&nbsp;&nbsp;<font color",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FX2pSSXZaUGFWMEdHQ0wzNllVa1QxVVNyZVVfa0s5ZXBCN0JWSzFLQlA2aUZCeGJNS1k2a2hfaTR2TUI3WUlhUDIyM2ZsSmxUTlV6Um1wNzhJaEpEc3dKSWkxelRkMkdOdTM1MkNYZWwzYkVwV1VrWXpaaDk?oc=5",
+      "title": "The Best Cheap Wireless Earbuds under $25 - July 2026 - Scarbir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3WC1wUVBtXy1aa09aamg1QmZnazdhcE1ldjBPY1dqVy1EY0xQeThzOWZOUVZ0bDhseVZkRzdYbDFJdXZnNVJteXNTRzU0VXp0WGp1X2JtcVBrWGwzMnM4OHNBWVNJQVg0QkFpRDJuR3U3Zw?oc=5\" target=\"_blank\">The Best Cheap Wireless Earbuds under $25 - July 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sc",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3WC1wUVBtXy1aa09aamg1QmZnazdhcE1ldjBPY1dqVy1EY0xQeThzOWZOUVZ0bDhseVZkRzdYbDFJdXZnNVJteXNTRzU0VXp0WGp1X2JtcVBrWGwzMnM4OHNBWVNJQVg0QkFpRDJuR3U3Zw?oc=5",
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "published_iso": "2026-07-01T07:00:00+00:00",
       "source": "Google News - US Retail Audio",
@@ -1020,14 +1092,14 @@
       "bucket": "channel_news"
     },
     {
-      "title": "The Best Cheap Wireless Earbuds under $25 - July 2026 - Scarbir",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA3WC1wUVBtXy1aa09aamg1QmZnazdhcE1ldjBPY1dqVy1EY0xQeThzOWZOUVZ0bDhseVZkRzdYbDFJdXZnNVJteXNTRzU0VXp0WGp1X2JtcVBrWGwzMnM4OHNBWVNJQVg0QkFpRDJuR3U3Zw?oc=5\" target=\"_blank\">The Best Cheap Wireless Earbuds under $25 - July 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sc",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3WC1wUVBtXy1aa09aamg1QmZnazdhcE1ldjBPY1dqVy1EY0xQeThzOWZOUVZ0bDhseVZkRzdYbDFJdXZnNVJteXNTRzU0VXp0WGp1X2JtcVBrWGwzMnM4OHNBWVNJQVg0QkFpRDJuR3U3Zw?oc=5",
+      "title": "The Best Cheap Wireless Earbuds under $50 - July 2026 - Scarbir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9FX2pSSXZaUGFWMEdHQ0wzNllVa1QxVVNyZVVfa0s5ZXBCN0JWSzFLQlA2aUZCeGJNS1k2a2hfaTR2TUI3WUlhUDIyM2ZsSmxUTlV6Um1wNzhJaEpEc3dKSWkxelRkMkdOdTM1MkNYZWwzYkVwV1VrWXpaaDk?oc=5\" target=\"_blank\">The Best Cheap Wireless Earbuds under $50 - July 2026</a>&nbsp;&nbsp;<font color",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FX2pSSXZaUGFWMEdHQ0wzNllVa1QxVVNyZVVfa0s5ZXBCN0JWSzFLQlA2aUZCeGJNS1k2a2hfaTR2TUI3WUlhUDIyM2ZsSmxUTlV6Um1wNzhJaEpEc3dKSWkxelRkMkdOdTM1MkNYZWwzYkVwV1VrWXpaaDk?oc=5",
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "published_iso": "2026-07-01T07:00:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1783465835
+  "fetched_at": 1783469414
 }

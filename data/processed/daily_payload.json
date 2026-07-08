@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08 07:11:17 CST",
+  "generated_at": "2026-07-08 08:11:08 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -702,38 +702,96 @@
     }
   ],
   "lead_story": {
-    "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
-    "summary": "Amazon’s earlier Prime Day this year pushed back-to-school deals into June. With that, competing retailers including Walmart and Target joined in chasing budget-focused shoppers long before school starts.",
-    "url": "https://www.modernretail.co/marketing/back-to-school-season-has-become-a-summer-long-event-thanks-to-an-earlier-prime-day/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-    "published": "Fri, 03 Jul 2026 04:00:00 +0000",
-    "published_iso": "2026-07-03T04:00:00+00:00",
-    "source": "Modern Retail",
+    "title": "Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon - Next in Media | Mike Shields",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5\" target=\"_blank\">Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon</a>&",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5",
+    "published": "Tue, 07 Jul 2026 12:46:35 GMT",
+    "published_iso": "2026-07-07T12:46:35+00:00",
+    "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 115.2,
-    "freshness_label": "近7天",
+    "hours_since_published": 11.4,
+    "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
       "channels": [
         "Amazon",
         "Walmart",
-        "Target"
+        "Sam's Club"
       ],
       "categories": []
     },
-    "_score": 332,
-    "display_title": "Back-to-school season has become a...",
+    "_score": 366,
+    "display_title": "Where Sam's Club (With Help From...",
     "tags": [
       "🛒 渠道零售",
-      "🏬 平台电商",
-      "💰 价格促销"
+      "🏬 平台电商"
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "提前的返校季促销将影响电商销售策略，需及时调整。",
-    "suggested_action": "建议优化电商平台的促销活动，吸引预算有限的消费者。"
+    "business_note": "Sam's Club借助Walmart的力量，计划挑战Amazon，提升电商市场竞争力。",
+    "suggested_action": "加强与Walmart的合作，优化电商平台策略，提升用户体验。"
   },
-  "lead_summary": "返校季促销将显著影响电商销售策略，需及时调整以吸引学生群体并应对市场竞争。",
+  "lead_summary": "Sam's Club借助Walmart助力，积极布局电商，力争提升市场竞争力，影",
   "headline_trio": [
+    {
+      "title": "Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon - Next in Media | Mike Shields",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5\" target=\"_blank\">Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon</a>&",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5",
+      "published": "Tue, 07 Jul 2026 12:46:35 GMT",
+      "published_iso": "2026-07-07T12:46:35+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 11.4,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "Sam's Club"
+        ],
+        "categories": []
+      },
+      "_score": 366,
+      "display_title": "Where Sam's Club (With Help From...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Sam's Club借助Walmart的力量，计划挑战Amazon，提升电商市场竞争力。",
+      "suggested_action": "加强与Walmart的合作，优化电商平台策略，提升用户体验。"
+    },
+    {
+      "title": "Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From This Southern Chain - Daily Meal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5\" target=\"_blank\">Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5",
+      "published": "Sun, 05 Jul 2026 20:39:00 GMT",
+      "published_iso": "2026-07-05T20:39:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 51.5,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Costco",
+          "Sam's Club"
+        ],
+        "categories": []
+      },
+      "_score": 335,
+      "display_title": "Not Costco, Not Sam's Club: The Best...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "中",
+      "business_note": "南方连锁超市的寿司品质提升了消费者的购物体验，值得关注。",
+      "suggested_action": "考虑与该超市合作，推广我们的相关产品。"
+    },
     {
       "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
       "summary": "Amazon’s earlier Prime Day this year pushed back-to-school deals into June. With that, competing retailers including Walmart and Target joined in chasing budget-focused shoppers long before school starts.",
@@ -742,7 +800,7 @@
       "published_iso": "2026-07-03T04:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 115.2,
+      "hours_since_published": 116.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -762,67 +820,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "提前的返校季促销将影响电商销售策略，需及时调整。",
-      "suggested_action": "建议优化电商平台的促销活动，吸引预算有限的消费者。"
-    },
-    {
-      "title": "Costco vs Walmart: What's the Better Retail Stock to Buy Right Now? - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5\" target=\"_blank\">Costco vs Walmart: What's the Better ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5",
-      "published": "Mon, 06 Jul 2026 17:24:59 GMT",
-      "published_iso": "2026-07-06T17:24:59+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 29.8,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 327,
-      "display_title": "Costco vs Walmart: What's the Better...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Costco与Walmart的竞争将影响电商市场份额，需关注各自策略。",
-      "suggested_action": "加强电商平台的品牌营销，提升用户转化率。"
-    },
-    {
-      "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - Allrecipes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmx0dVRQaENOWG9kOGlXbWlKTnpYcVBTQUl6cFE4Rk9mUEhwQlh0MGQyOTRSZ2s1S2Z0N1hPdkZ6YUdZbVM2b0kwcmc2bzJxcDdFVFJERnBxOURTS2o2ZmFMUUMzVFBqWmlMN0tQWUQ5enpKWnp0MDlpYndUUWR1aA?oc=5\" target=\"_blank\">I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clea",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmx0dVRQaENOWG9kOGlXbWlKTnpYcVBTQUl6cFE4Rk9mUEhwQlh0MGQyOTRSZ2s1S2Z0N1hPdkZ6YUdZbVM2b0kwcmc2bzJxcDdFVFJERnBxOURTS2o2ZmFMUUMzVFBqWmlMN0tQWUQ5enpKWnp0MDlpYndUUWR1aA?oc=5",
-      "published": "Fri, 03 Jul 2026 10:00:00 GMT",
-      "published_iso": "2026-07-03T10:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 109.2,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 312,
-      "display_title": "I Compared Meat Prices at Costco...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "通过比较主要零售商的肉类价格，识别出最佳价值，有助于优化电商定价策略。",
-      "suggested_action": "建议加强与Walmart和Costco的合作，提升电商平台的竞争力。"
+      "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
+      "suggested_action": "加强电商平台的促销活动，提前布局返校季营销策略。"
     }
   ],
   "consumer_electronics": [
@@ -834,7 +833,7 @@
       "published_iso": "2026-07-03T12:10:03+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 107.0,
+      "hours_since_published": 108.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -855,7 +854,7 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌曝光和销量。",
-      "suggested_action": "加强电商平台的推广，利用折扣吸引更多用户购买。"
+      "suggested_action": "建议加强电商平台推广，利用折扣吸引更多用户购买。"
     },
     {
       "title": "Sony WF-1000XM6 Bluetooth headphones review: full power - hi-Tech.ua",
@@ -865,7 +864,7 @@
       "published_iso": "2026-07-06T02:34:56+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 44.6,
+      "hours_since_published": 45.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -884,8 +883,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony WF-1000XM6耳机评测显示其强大性能，有助于提升品牌形象。",
-      "suggested_action": "加强电商平台的推广，提升产品曝光率和销售转化。"
+      "business_note": "Sony WF-1000XM6耳机在市场上表现优异，提升品牌影响力。",
+      "suggested_action": "加强电商平台推广，提升销量和品牌知名度。"
     },
     {
       "title": "The 8 best headphones and earbuds of 2026, as tested by our audio editor - TechRadar",
@@ -895,7 +894,7 @@
       "published_iso": "2026-07-03T12:19:17+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 106.9,
+      "hours_since_published": 107.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -913,8 +912,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "2026年最佳耳机和耳塞评测将提升品牌知名度，吸引更多消费者关注。",
-      "suggested_action": "加强电商平台推广，利用评测提升品牌形象和销售转化。"
+      "business_note": "2026年最佳耳机和耳塞评测将影响品牌形象和销售策略。",
+      "suggested_action": "加强电商平台的耳机和耳塞推广，提升品牌曝光度。"
     },
     {
       "title": "Amazon Deals of the Day: Our Favorite Bone-Conduction Headphones Are $80 Off - CNET",
@@ -924,7 +923,7 @@
       "published_iso": "2026-07-02T15:12:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 128.0,
+      "hours_since_published": 129.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -945,18 +944,18 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "骨传导耳机在亚马逊的促销活动中降价，吸引消费者关注。",
-      "suggested_action": "加强电商平台的促销策略，提升品牌曝光率。"
+      "business_note": "亚马逊促销活动显著降低骨传导耳机价格，有助于提升销量。",
+      "suggested_action": "加强电商平台的营销策略，抓住促销机会。"
     },
     {
       "title": "I swapped bone conduction headphones for open buds on my runs, and I’m not going back — here’s why - Tom's Guide",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2x2TkJjVVNGOE51NTVfbmRlbkJjYW5VcW84NUlNTmVZeUo0QThucjNiSkNMX19ZV3UydTRHY1J2OWk0aERsbmdqUlAtWXJwdmh4YU9hczVmbGxZUUJLYnFMTUkteF9SbjB2N25HdmoxMVYzTUtzMjl5MUI3WENsNWRMX185Z3JLQnRRc2VZeU5GUHhOSDdkOFd6WU5PVFlYWHJwVGpuand5R1FJTmwzSXB3UUN2RWJldlFReER0akNTMndMSlpvdj",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2x2TkJjVVNGOE51NTVfbmRlbkJjYW5VcW84NUlNTmVZeUo0QThucjNiSkNMX19ZV3UydTRHY1J2OWk0aERsbmdqUlAtWXJwdmh4YU9hczVmbGxZUUJLYnFMTUkteF9SbjB2N25HdmoxMVYzTUtzMjl5MUI3WENsNWRMX185Z3JLQnRRc2VZeU5GUHhOSDdkOFd6WU5PVFlYWHJwVGpuand5R1FJTmwzSXB3UUN2RWJldlFReER0akNTMndMSlpvdjFtYTVSTWs5U1E?oc=5",
-      "published": "Sat, 04 Jul 2026 04:15:00 GMT",
-      "published_iso": "2026-07-04T04:15:00+00:00",
+      "published": "Sat, 04 Jul 2026 04:28:14 GMT",
+      "published_iso": "2026-07-04T04:28:14+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 90.9,
+      "hours_since_published": 91.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -974,8 +973,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "骨传导耳机在跑步时的用户体验提升，可能影响品牌形象和市场份额。",
-      "suggested_action": "加强品牌营销，突出骨传导耳机的独特优势，吸引跑步爱好者。"
+      "business_note": "骨传导耳机在跑步时的用户体验提升，可能影响品牌形象与销售。",
+      "suggested_action": "加强电商平台的骨传导耳机推广，提升品牌知名度。"
     },
     {
       "title": "Garmin launches LiveScope 2, its clearest live sonar yet - PR Newswire",
@@ -985,7 +984,7 @@
       "published_iso": "2026-07-07T10:57:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 12.2,
+      "hours_since_published": 13.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1002,11 +1001,70 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Garmin推出LiveScope 2，提升品牌竞争力，增强市场份额。",
-      "suggested_action": "加大电商渠道推广力度，提升产品曝光率。"
+      "business_note": "Garmin推出LiveScope 2，提升了实时声纳的清晰度，增强品牌竞争力。",
+      "suggested_action": "加大电商和品牌营销投入，推广新产品优势，吸引目标用户。"
     }
   ],
   "channel_news": [
+    {
+      "title": "Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon - Next in Media | Mike Shields",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5\" target=\"_blank\">Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon</a>&",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5",
+      "published": "Tue, 07 Jul 2026 12:46:35 GMT",
+      "published_iso": "2026-07-07T12:46:35+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 11.4,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "Sam's Club"
+        ],
+        "categories": []
+      },
+      "_score": 366,
+      "display_title": "Where Sam's Club (With Help From...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Sam's Club借助Walmart的力量，计划挑战Amazon，提升电商市场竞争力。",
+      "suggested_action": "加强与Walmart的合作，优化电商平台策略，提升用户体验。"
+    },
+    {
+      "title": "Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From This Southern Chain - Daily Meal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5\" target=\"_blank\">Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5",
+      "published": "Sun, 05 Jul 2026 20:39:00 GMT",
+      "published_iso": "2026-07-05T20:39:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 51.5,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Costco",
+          "Sam's Club"
+        ],
+        "categories": []
+      },
+      "_score": 335,
+      "display_title": "Not Costco, Not Sam's Club: The Best...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "中",
+      "business_note": "南方连锁超市的寿司品质提升了消费者的购物体验，值得关注。",
+      "suggested_action": "考虑与该超市合作，推广我们的相关产品。"
+    },
     {
       "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
       "summary": "Amazon’s earlier Prime Day this year pushed back-to-school deals into June. With that, competing retailers including Walmart and Target joined in chasing budget-focused shoppers long before school starts.",
@@ -1015,7 +1073,7 @@
       "published_iso": "2026-07-03T04:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 115.2,
+      "hours_since_published": 116.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1035,37 +1093,37 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "提前的返校季促销将影响电商销售策略，需及时调整。",
-      "suggested_action": "建议优化电商平台的促销活动，吸引预算有限的消费者。"
+      "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
+      "suggested_action": "加强电商平台的促销活动，提前布局返校季营销策略。"
     },
     {
-      "title": "Costco vs Walmart: What's the Better Retail Stock to Buy Right Now? - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5\" target=\"_blank\">Costco vs Walmart: What's the Better ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5",
-      "published": "Mon, 06 Jul 2026 17:24:59 GMT",
-      "published_iso": "2026-07-06T17:24:59+00:00",
+      "title": "Americans Say Coca-Cola, Walmart, Amazon Are the Most Patriotic Food Retail Brands: Report - Consumer Goods Technology",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tkUWlJUDZZZFRQby1QTlp1Wlc5VzRocXljNkhxU0diNm5CM2Jfa3k3OVRSdU9lQ1pXeGREbDdJaW1PU2lwZzBPb09aSkZjbUExUHpydXVHcFVoYmQzb05VTVNuOW1UNHpqczI4MHFpYnZHVTNiaUNFUUg4OWZYdVA0emNoX0owTHRYVkxWOGlaQzFpcWNkRVl3WGh6T211bHhvVmVDYWZzZHhxNkE?oc=5\" target=\"_blank\">Americans Sa",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tkUWlJUDZZZFRQby1QTlp1Wlc5VzRocXljNkhxU0diNm5CM2Jfa3k3OVRSdU9lQ1pXeGREbDdJaW1PU2lwZzBPb09aSkZjbUExUHpydXVHcFVoYmQzb05VTVNuOW1UNHpqczI4MHFpYnZHVTNiaUNFUUg4OWZYdVA0emNoX0owTHRYVkxWOGlaQzFpcWNkRVl3WGh6T211bHhvVmVDYWZzZHhxNkE?oc=5",
+      "published": "Wed, 01 Jul 2026 18:34:19 GMT",
+      "published_iso": "2026-07-01T18:34:19+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 29.8,
-      "freshness_label": "近3天",
+      "hours_since_published": 149.6,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Walmart",
-          "Costco"
+          "Amazon",
+          "Walmart"
         ],
         "categories": []
       },
-      "_score": 327,
-      "display_title": "Costco vs Walmart: What's the Better...",
+      "_score": 320,
+      "display_title": "Americans Say Coca-Cola, Walmart...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Costco与Walmart的竞争将影响电商市场份额，需关注各自策略。",
-      "suggested_action": "加强电商平台的品牌营销，提升用户转化率。"
+      "business_note": "美国消费者认为可口可乐、沃尔玛和亚马逊是最具爱国情怀的食品零售品牌，影响品牌形象。",
+      "suggested_action": "加强与亚马逊和沃尔玛的合作，提升品牌的爱国情怀营销策略。"
     },
     {
       "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - Allrecipes",
@@ -1075,7 +1133,7 @@
       "published_iso": "2026-07-03T10:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 109.2,
+      "hours_since_published": 110.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1094,97 +1152,37 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "通过比较主要零售商的肉类价格，识别出最佳价值，有助于优化电商定价策略。",
-      "suggested_action": "建议加强与Walmart和Costco的合作，提升电商平台的竞争力。"
+      "business_note": "在电商平台上比较肉类价格，有助于优化定价策略，提升竞争力。",
+      "suggested_action": "加强与Walmart和Costco的合作，提升电商渠道的肉类销售。"
     },
     {
-      "title": "This Store Just Dethroned Costco as Having the Top-Ranked Rotisserie Chicken - People.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMEdTd1M0Sm80UDJucTlFOWQ0U3NUU0R5Z2RRdUpSMHFHdXFaWC1OcVliUWRnemtWdzhtR21QVExzLWhiNmJMQUx4UFU4UjFuQlkzM2FxLVYwNUF2SDVxdWJ3cExOS3ROMjZha19xU3VlMlFybzZNQ1hGb0pnVVJHR1F5aFRWY01zUzRGcUN3WQ?oc=5\" target=\"_blank\">This Store Just Dethroned Costco as Having the Top-Ra",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMEdTd1M0Sm80UDJucTlFOWQ0U3NUU0R5Z2RRdUpSMHFHdXFaWC1OcVliUWRnemtWdzhtR21QVExzLWhiNmJMQUx4UFU4UjFuQlkzM2FxLVYwNUF2SDVxdWJ3cExOS3ROMjZha19xU3VlMlFybzZNQ1hGb0pnVVJHR1F5aFRWY01zUzRGcUN3WQ?oc=5",
-      "published": "Wed, 01 Jul 2026 18:37:16 GMT",
-      "published_iso": "2026-07-01T18:37:16+00:00",
+      "title": "Amazon and Walmart’s Summer Sale Wars Deliver a Win (With An Asterisk) - PYMNTS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmE1d0VzMUJjd29kdDBKUHh5SDFIaF9KbVhFZEZ4UUg3VWtPVDVQMDF2VU80UVR0NFNFMWp1ajJSd0t2U0NiSUV3NlBxREhtNzVta3h4XzBjT1ZObk1ub2JYRm1rQmN5Z1Z4TE5Ja0FnMThhMnI2MlpuWXNaT25YMlVwQ3JZZjBackllZ3VpVUxYTGpzNUp1YTlMQ0JodUM1Mkd1d2wxSGtNN19s?oc=5\" target=\"_blank\">Amazon and Walm",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmE1d0VzMUJjd29kdDBKUHh5SDFIaF9KbVhFZEZ4UUg3VWtPVDVQMDF2VU80UVR0NFNFMWp1ajJSd0t2U0NiSUV3NlBxREhtNzVta3h4XzBjT1ZObk1ub2JYRm1rQmN5Z1Z4TE5Ja0FnMThhMnI2MlpuWXNaT25YMlVwQ3JZZjBackllZ3VpVUxYTGpzNUp1YTlMQ0JodUM1Mkd1d2wxSGtNN19s?oc=5",
+      "published": "Fri, 03 Jul 2026 02:22:57 GMT",
+      "published_iso": "2026-07-03T02:22:57+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 148.6,
+      "hours_since_published": 117.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Costco"
+          "Amazon",
+          "Walmart"
         ],
         "categories": []
       },
-      "_score": 258,
-      "display_title": "This Store Just Dethroned Costco as...",
+      "_score": 274,
+      "display_title": "Amazon and Walmart’s Summer Sale Wars...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "该店的成功挑战Costco，显示出电商渠道的潜力和竞争力。",
-      "suggested_action": "加强电商平台的品牌营销，提升产品曝光率。"
-    },
-    {
-      "title": "Best Buy's 4th of July Sale is live: Save up to 50% on Hisense TVs, Bose headphones, Windows laptops, and more - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUmVlVWc0OWhlaVhZMUxodWs2cWs2ZWJldzJpTlYxcEhzd0FxV184RktKLWJLNW9SaTdHN0h4dDRJb2JLcVVhaDRXWXltUWVxZ2dsNV9IR2ZPbk5IRG1IS0RhbFBjVnJtZGowMGczMA?oc=5\" target=\"_blank\">Best Buy's 4th of July Sale is live: Save up to 50% on Hisense TVs, Bose headphones, Windows lapt",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUmVlVWc0OWhlaVhZMUxodWs2cWs2ZWJldzJpTlYxcEhzd0FxV184RktKLWJLNW9SaTdHN0h4dDRJb2JLcVVhaDRXWXltUWVxZ2dsNV9IR2ZPbk5IRG1IS0RhbFBjVnJtZGowMGczMA?oc=5",
-      "published": "Sun, 05 Jul 2026 09:06:25 GMT",
-      "published_iso": "2026-07-05T09:06:25+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news",
-      "hours_since_published": 62.1,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 257,
-      "display_title": "Best Buy's 4th of July Sale is live:...",
-      "tags": [
-        "🎧 耳机音频",
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Best Buy的促销活动为电商销售提供了重要机会，需抓住节日购物热潮。",
-      "suggested_action": "加强与Best Buy的合作，提升Bose耳机的品牌曝光和销售。"
-    },
-    {
-      "title": "Retailers like Target, Aldi take pages from collectibles culture with drops, blind boxes",
-      "summary": "Retailers are bringing sales tactics from the collectibles industry, such as \"blind boxes\" and limited drops, into new categories like food and apparel.",
-      "url": "https://www.modernretail.co/marketing/retailers-like-target-aldi-take-pages-from-collectibles-culture-with-drops-blind-boxes/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Mon, 06 Jul 2026 04:00:00 +0000",
-      "published_iso": "2026-07-06T04:00:00+00:00",
-      "source": "Modern Retail",
-      "bucket": "channel_news",
-      "hours_since_published": 43.2,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 253,
-      "display_title": "Retailers like Target, Aldi take pages...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "零售商借鉴收藏文化的销售策略，有助于提升电商销售额。",
-      "suggested_action": "建议探索在电商平台推出限量版产品，吸引消费者关注。"
+      "business_note": "亚马逊和沃尔玛的夏季促销战为电商带来了竞争优势，需关注市场动态。",
+      "suggested_action": "加强电商平台的促销策略，提升品牌曝光和销售转化。"
     }
   ],
   "products": [
@@ -1196,7 +1194,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3RrN3ZuUlFRZnlrTVJERQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 75,
-      "hours_since_published": 107.0,
+      "hours_since_published": 108.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1209,17 +1207,17 @@
         ]
       },
       "display_title": "Shokz Goes Big on Bone Conduction...",
-      "display_summary": "苹果计划在2024年推出新款iPad Pro，搭载M3芯片，预计将提升性能和用户体验。",
+      "display_summary": "某科技公司发布新款智能设备，提升用户体验，预计将推动市场销售增长。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "苹果计划在2024年推出新款iPad。",
+      "product_intro": "某科技公司发布新款智能设备，提升用户体验，预计将推动市场销售增长。",
       "importance": "高",
-      "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌知名度和销量。",
-      "suggested_action": "建议加强电商平台的推广，利用折扣吸引更多用户关注。"
+      "business_note": "Shokz通过大幅折扣提升骨传导耳机的市场关注度，吸引更多消费者。",
+      "suggested_action": "建议加大电商平台的推广力度，提升品牌曝光和销售转化。"
     },
     {
       "name": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
@@ -1229,7 +1227,7 @@
       "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 1.6,
+      "hours_since_published": 2.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1245,8 +1243,8 @@
       "judgement_label": "价格促销",
       "product_intro": "自8月3日起，Netflix将新增BuzzFeed、Condé。",
       "importance": "高",
-      "business_note": "Netflix引入BuzzFeed等内容，将吸引更多用户，提升电商潜力。",
-      "suggested_action": "加强与Netflix的合作，利用新内容进行品牌营销。"
+      "business_note": "Netflix引入多家数字媒体品牌视频，将吸引更多用户关注和订阅。",
+      "suggested_action": "加强与Netflix的合作，提升电商平台的品牌曝光和销售机会。"
     },
     {
       "name": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
@@ -1256,7 +1254,7 @@
       "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 2.6,
+      "hours_since_published": 3.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1272,8 +1270,8 @@
       "judgement_label": "新品发布",
       "product_intro": "Meta推出首个AI图像生成模型Muse Image，已在Meta。",
       "importance": "高",
-      "business_note": "Meta推出的AI图像生成模型将提升品牌营销的创新能力，吸引更多用户参与。",
-      "suggested_action": "建议加大对Meta平台的品牌营销投入，利用新工具提升用户互动。"
+      "business_note": "Meta推出的Muse Image模型将提升品牌在社交平台的视觉营销效果。",
+      "suggested_action": "建议加大对Meta平台的品牌营销投入，利用AI生成图像吸引用户。"
     },
     {
       "name": "X says top accounts steal videos from other users as it announces new video tools",
@@ -1283,7 +1281,7 @@
       "url": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.7,
+      "hours_since_published": 5.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1291,16 +1289,16 @@
         "categories": []
       },
       "display_title": "X says top accounts steal videos from...",
-      "display_summary": "X产品负责人Nikita Bier表示，许多热门视频被盗用，且有近一半视频来自平台外部用户。",
+      "display_summary": "X公司产品负责人Nikita Bier表示，许多热门视频被盗用，且有近一半视频来自其他用户。",
       "tags": [
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "X产品负责人Nikita。",
+      "product_intro": "X公司产品负责人Nikita。",
       "importance": "高",
-      "business_note": "视频盗用问题影响品牌形象，需加强内容保护措施。",
-      "suggested_action": "建议加强品牌视频内容的监测与保护，提升用户信任。"
+      "business_note": "视频盗用问题影响品牌形象，需加强内容保护。",
+      "suggested_action": "建议优化品牌视频监控，提升原创内容保护力度。"
     },
     {
       "name": "The ‘G-Wagen of golf carts’ could be the ideal second car",
@@ -1310,7 +1308,7 @@
       "url": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.3,
+      "hours_since_published": 6.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1318,16 +1316,16 @@
         "categories": []
       },
       "display_title": "The ‘G-Wagen of golf carts’ could be...",
-      "display_summary": "葡萄牙初创公司Amble推出新型电动越野车，专注于不同于传统电动车的市场方向。",
+      "display_summary": "葡萄牙里斯本的新电动车初创公司Amble推出了一款电动越野车，打破了传统电动车市场的常规思维",
       "tags": [
         "💰 价格促销"
       ],
       "impact_area": "电商",
       "judgement_label": "价格促销",
-      "product_intro": "葡萄牙初创公司Amble推出新型电动越野车，专注于不同于传统电动车的市场方向。",
+      "product_intro": "葡萄牙里斯本的新电动车初创公司Amble推出了一款电动越野车，打破了传统电。",
       "importance": "中",
-      "business_note": "新兴电动高尔夫车市场潜力大，适合二次购车需求。",
-      "suggested_action": "加强电商平台推广，吸引高尔夫爱好者关注。"
+      "business_note": "新兴电动高尔夫车市场潜力大，适合拓展电商渠道。",
+      "suggested_action": "考虑与电动高尔夫车品牌合作，推动电商销售。"
     },
     {
       "name": "Anthropic is launching Claude Cowork on mobile and web",
@@ -1337,7 +1335,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.4,
+      "hours_since_published": 6.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1353,8 +1351,8 @@
       "judgement_label": "新品发布",
       "product_intro": "Anthropic的Claude Cowork。",
       "importance": "高",
-      "business_note": "Claude Cowork的移动和网页推出将提升品牌曝光，吸引更多用户关注。",
-      "suggested_action": "加大品牌营销力度，利用新平台推广Claude Cowork。"
+      "business_note": "Anthropic推出Claude Cowork，拓展了AI平台的可及性，提升品牌影响力。",
+      "suggested_action": "加强品牌营销策略，利用新平台吸引更多用户关注。"
     }
   ],
   "monitored_entities": [
@@ -1371,7 +1369,7 @@
           "published_iso": "2026-07-03T12:10:03+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 107.0,
+          "hours_since_published": 108.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1392,7 +1390,7 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌曝光和销量。",
-          "suggested_action": "加强电商平台的推广，利用折扣吸引更多用户购买。"
+          "suggested_action": "建议加强电商平台推广，利用折扣吸引更多用户购买。"
         },
         {
           "title": "Sony WF-1000XM6 Bluetooth headphones review: full power - hi-Tech.ua",
@@ -1402,7 +1400,7 @@
           "published_iso": "2026-07-06T02:34:56+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 44.6,
+          "hours_since_published": 45.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1421,16 +1419,46 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sony WF-1000XM6耳机评测显示其强大性能，有助于提升品牌形象。",
-          "suggested_action": "加强电商平台的推广，提升产品曝光率和销售转化。"
+          "business_note": "Sony WF-1000XM6耳机在市场上表现优异，提升品牌影响力。",
+          "suggested_action": "加强电商平台推广，提升销量和品牌知名度。"
         }
       ]
     },
     {
       "name": "Walmart",
       "type": "渠道",
-      "count": 4,
+      "count": 6,
       "items": [
+        {
+          "title": "Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon - Next in Media | Mike Shields",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5\" target=\"_blank\">Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon</a>&",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5",
+          "published": "Tue, 07 Jul 2026 12:46:35 GMT",
+          "published_iso": "2026-07-07T12:46:35+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 11.4,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart",
+              "Sam's Club"
+            ],
+            "categories": []
+          },
+          "_score": 366,
+          "display_title": "Where Sam's Club (With Help From...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Sam's Club借助Walmart的力量，计划挑战Amazon，提升电商市场竞争力。",
+          "suggested_action": "加强与Walmart的合作，优化电商平台策略，提升用户体验。"
+        },
         {
           "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
           "summary": "Amazon’s earlier Prime Day this year pushed back-to-school deals into June. With that, competing retailers including Walmart and Target joined in chasing budget-focused shoppers long before school starts.",
@@ -1439,7 +1467,7 @@
           "published_iso": "2026-07-03T04:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 115.2,
+          "hours_since_published": 116.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1459,37 +1487,76 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "提前的返校季促销将影响电商销售策略，需及时调整。",
-          "suggested_action": "建议优化电商平台的促销活动，吸引预算有限的消费者。"
-        },
+          "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
+          "suggested_action": "加强电商平台的促销活动，提前布局返校季营销策略。"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "type": "渠道",
+      "count": 5,
+      "items": [
         {
-          "title": "Costco vs Walmart: What's the Better Retail Stock to Buy Right Now? - Yahoo Finance",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5\" target=\"_blank\">Costco vs Walmart: What's the Better ",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5",
-          "published": "Mon, 06 Jul 2026 17:24:59 GMT",
-          "published_iso": "2026-07-06T17:24:59+00:00",
+          "title": "Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon - Next in Media | Mike Shields",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5\" target=\"_blank\">Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon</a>&",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5",
+          "published": "Tue, 07 Jul 2026 12:46:35 GMT",
+          "published_iso": "2026-07-07T12:46:35+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 29.8,
-          "freshness_label": "近3天",
+          "hours_since_published": 11.4,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
+              "Amazon",
               "Walmart",
-              "Costco"
+              "Sam's Club"
             ],
             "categories": []
           },
-          "_score": 327,
-          "display_title": "Costco vs Walmart: What's the Better...",
+          "_score": 366,
+          "display_title": "Where Sam's Club (With Help From...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Costco与Walmart的竞争将影响电商市场份额，需关注各自策略。",
-          "suggested_action": "加强电商平台的品牌营销，提升用户转化率。"
+          "business_note": "Sam's Club借助Walmart的力量，计划挑战Amazon，提升电商市场竞争力。",
+          "suggested_action": "加强与Walmart的合作，优化电商平台策略，提升用户体验。"
+        },
+        {
+          "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
+          "summary": "Amazon’s earlier Prime Day this year pushed back-to-school deals into June. With that, competing retailers including Walmart and Target joined in chasing budget-focused shoppers long before school starts.",
+          "url": "https://www.modernretail.co/marketing/back-to-school-season-has-become-a-summer-long-event-thanks-to-an-earlier-prime-day/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Fri, 03 Jul 2026 04:00:00 +0000",
+          "published_iso": "2026-07-03T04:00:00+00:00",
+          "source": "Modern Retail",
+          "bucket": "channel_news",
+          "hours_since_published": 116.2,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 332,
+          "display_title": "Back-to-school season has become a...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
+          "suggested_action": "加强电商平台的促销活动，提前布局返校季营销策略。"
         }
       ]
     },
@@ -1506,7 +1573,7 @@
           "published_iso": "2026-07-03T12:10:03+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 107.0,
+          "hours_since_published": 108.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1527,7 +1594,7 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌曝光和销量。",
-          "suggested_action": "加强电商平台的推广，利用折扣吸引更多用户购买。"
+          "suggested_action": "建议加强电商平台推广，利用折扣吸引更多用户购买。"
         },
         {
           "title": "Amazon Deals of the Day: Our Favorite Bone-Conduction Headphones Are $80 Off - CNET",
@@ -1537,7 +1604,7 @@
           "published_iso": "2026-07-02T15:12:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 128.0,
+          "hours_since_published": 129.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1558,8 +1625,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "骨传导耳机在亚马逊的促销活动中降价，吸引消费者关注。",
-          "suggested_action": "加强电商平台的促销策略，提升品牌曝光率。"
+          "business_note": "亚马逊促销活动显著降低骨传导耳机价格，有助于提升销量。",
+          "suggested_action": "加强电商平台的营销策略，抓住促销机会。"
         }
       ]
     },
@@ -1576,7 +1643,7 @@
           "published_iso": "2026-07-03T04:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 115.2,
+          "hours_since_published": 116.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1596,8 +1663,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "提前的返校季促销将影响电商销售策略，需及时调整。",
-          "suggested_action": "建议优化电商平台的促销活动，吸引预算有限的消费者。"
+          "business_note": "提前的返校季促销为电商带来新机遇，需抓住消费者预算。",
+          "suggested_action": "加强电商平台的促销活动，提前布局返校季营销策略。"
         },
         {
           "title": "Retailers like Target, Aldi take pages from collectibles culture with drops, blind boxes",
@@ -1607,7 +1674,7 @@
           "published_iso": "2026-07-06T04:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 43.2,
+          "hours_since_published": 44.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1622,10 +1689,7 @@
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "零售商借鉴收藏文化的销售策略，有助于提升电商销售额。",
-          "suggested_action": "建议探索在电商平台推出限量版产品，吸引消费者关注。"
+          "impact_area": "电商"
         }
       ]
     },
@@ -1635,33 +1699,33 @@
       "count": 3,
       "items": [
         {
-          "title": "Costco vs Walmart: What's the Better Retail Stock to Buy Right Now? - Yahoo Finance",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5\" target=\"_blank\">Costco vs Walmart: What's the Better ",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTR2MnRldFJZeWhTZ1QzQXBjMkJhQUZhVEtMZTBvdHN2eEQyVnpla25SakwyWVNUMFZTOFdtYjF6dGJvSE93bmR0YVRoekJocGNvdnFjdlFOLXN4THRpNlpjc0ZMUERFZUYtaVZwV1BBNUFDSjNHd0FlZTc0M1pmTElMb2lOaDkwMVRkbFR3VkpZeXVQeUdvdExYUQ?oc=5",
-          "published": "Mon, 06 Jul 2026 17:24:59 GMT",
-          "published_iso": "2026-07-06T17:24:59+00:00",
+          "title": "Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From This Southern Chain - Daily Meal",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5\" target=\"_blank\">Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From ",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5",
+          "published": "Sun, 05 Jul 2026 20:39:00 GMT",
+          "published_iso": "2026-07-05T20:39:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 29.8,
+          "hours_since_published": 51.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Walmart",
-              "Costco"
+              "Costco",
+              "Sam's Club"
             ],
             "categories": []
           },
-          "_score": 327,
-          "display_title": "Costco vs Walmart: What's the Better...",
+          "_score": 335,
+          "display_title": "Not Costco, Not Sam's Club: The Best...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Costco与Walmart的竞争将影响电商市场份额，需关注各自策略。",
-          "suggested_action": "加强电商平台的品牌营销，提升用户转化率。"
+          "importance": "中",
+          "business_note": "南方连锁超市的寿司品质提升了消费者的购物体验，值得关注。",
+          "suggested_action": "考虑与该超市合作，推广我们的相关产品。"
         },
         {
           "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - Allrecipes",
@@ -1671,7 +1735,7 @@
           "published_iso": "2026-07-03T10:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 109.2,
+          "hours_since_published": 110.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1690,225 +1754,165 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "通过比较主要零售商的肉类价格，识别出最佳价值，有助于优化电商定价策略。",
-          "suggested_action": "建议加强与Walmart和Costco的合作，提升电商平台的竞争力。"
+          "business_note": "在电商平台上比较肉类价格，有助于优化定价策略，提升竞争力。",
+          "suggested_action": "加强与Walmart和Costco的合作，提升电商渠道的肉类销售。"
         }
       ]
     },
     {
-      "name": "Sony",
-      "type": "品牌",
-      "count": 3,
+      "name": "Sam's Club",
+      "type": "渠道",
+      "count": 2,
       "items": [
         {
-          "title": "Sony WF-1000XM6 Bluetooth headphones review: full power - hi-Tech.ua",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTE1UQjhNVDhjV1RXLWcyanBtNlF2eU1hTUpwdXBZR183cE91WmlmeFRNTnVZamtmVGtZcF9EUHdKSVBmeDBPUEYxM1FESFpNQkNNd3dUMXRULTBRTjdSWHAzYkxkTC16cHl1SnVIa0NlMlg5eUtuNjdRWTBsMGc?oc=5\" target=\"_blank\">Sony WF-1000XM6 Bluetooth headphones review: full power</a>&nbsp;&nbsp;<font",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTE1UQjhNVDhjV1RXLWcyanBtNlF2eU1hTUpwdXBZR183cE91WmlmeFRNTnVZamtmVGtZcF9EUHdKSVBmeDBPUEYxM1FESFpNQkNNd3dUMXRULTBRTjdSWHAzYkxkTC16cHl1SnVIa0NlMlg5eUtuNjdRWTBsMGc?oc=5",
-          "published": "Mon, 06 Jul 2026 02:34:56 GMT",
-          "published_iso": "2026-07-06T02:34:56+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 44.6,
+          "title": "Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon - Next in Media | Mike Shields",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5\" target=\"_blank\">Where Sam's Club (With Help From Walmart) Thinks it Can Challenge Amazon</a>&",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UWVKNFVDZXFrU25lY28tQWVQODZYSmJLRmY3c3JBQzZUY2Q5WlFNeEN6TFNnY0h3YVRJOUxKNWo4Z2ZnNXBtZ2lyMHExNkx1VjJhM1dvTVppczRMMmRXMlM0UDNZX3lLUHVZN1FNVzdyX3NaeWhfV25yc1AyQQ?oc=5",
+          "published": "Tue, 07 Jul 2026 12:46:35 GMT",
+          "published_iso": "2026-07-07T12:46:35+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 11.4,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart",
+              "Sam's Club"
+            ],
+            "categories": []
+          },
+          "_score": 366,
+          "display_title": "Where Sam's Club (With Help From...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Sam's Club借助Walmart的力量，计划挑战Amazon，提升电商市场竞争力。",
+          "suggested_action": "加强与Walmart的合作，优化电商平台策略，提升用户体验。"
+        },
+        {
+          "title": "Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From This Southern Chain - Daily Meal",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5\" target=\"_blank\">Not Costco, Not Sam's Club: The Best Grocery Store Sushi Comes From ",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVdpV3VaUTJtLUtiN3FDaUhkLXRabVp5WkY4cDRMTklqNVBnMFVqOWRPV2pWNUZ2cEZDRWgxNjBoS2dhRVE0VDdrdWo1LTdrWVF6UU1ta1U0S0RsNFM2U1FUdUg1di01RnAzS0MwdWtkZ0VzdkhpMFFjNlI1NHV2NkdFZW8?oc=5",
+          "published": "Sun, 05 Jul 2026 20:39:00 GMT",
+          "published_iso": "2026-07-05T20:39:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 51.5,
           "freshness_label": "近3天",
           "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Costco",
+              "Sam's Club"
+            ],
+            "categories": []
+          },
+          "_score": 335,
+          "display_title": "Not Costco, Not Sam's Club: The Best...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "中",
+          "business_note": "南方连锁超市的寿司品质提升了消费者的购物体验，值得关注。",
+          "suggested_action": "考虑与该超市合作，推广我们的相关产品。"
+        }
+      ]
+    },
+    {
+      "name": "Shokz",
+      "type": "品牌",
+      "count": 2,
+      "items": [
+        {
+          "title": "Shokz Goes Big on Bone Conduction Headphones With 40% Off the New OpenRun Pro 2 for Those Who Missed Prime Day - Gizmodo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3RrN3ZuUlFRZnlrTVJERQ?oc=5",
+          "published": "Fri, 03 Jul 2026 12:10:03 GMT",
+          "published_iso": "2026-07-03T12:10:03+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 108.0,
+          "freshness_label": "近7天",
+          "monitor_hits": {
             "brands": [
-              "Sony"
+              "Shokz"
             ],
             "channels": [],
             "categories": [
+              "bone conduction",
               "headphone"
             ]
           },
-          "_score": 262,
-          "display_title": "Sony WF-1000XM6 Bluetooth headphones...",
+          "_score": 275,
+          "display_title": "Shokz Goes Big on Bone Conduction...",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sony WF-1000XM6耳机评测显示其强大性能，有助于提升品牌形象。",
-          "suggested_action": "加强电商平台的推广，提升产品曝光率和销售转化。"
+          "business_note": "Shokz通过大幅折扣吸引消费者，提升品牌曝光和销量。",
+          "suggested_action": "建议加强电商平台推广，利用折扣吸引更多用户购买。"
         },
         {
-          "title": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties - Variety",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdG1wR1VRNGdIZXlsTDFJNDdsOEVYa2ZJVnNqSHB2MmtUUWw4TEh5YnE5MXA0QzlkOV9vS0NDTDZYaTlnVW50NFRRc0FrUl9yNDh6TFFTRTVJdEhLeWllQzA3RGVhNFc0b0dQSkdkc3RtQk5qOXVvQ29LR3htcVZBNUpPcE55NzNUdzFKTjl4Ti1GNExiNzRGTGJlRFFEN0dJMGpFdjdnZno5STQ?oc=5\" target=\"_blank\">Jermaine Dupri S",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdG1wR1VRNGdIZXlsTDFJNDdsOEVYa2ZJVnNqSHB2MmtUUWw4TEh5YnE5MXA0QzlkOV9vS0NDTDZYaTlnVW50NFRRc0FrUl9yNDh6TFFTRTVJdEhLeWllQzA3RGVhNFc0b0dQSkdkc3RtQk5qOXVvQ29LR3htcVZBNUpPcE55NzNUdzFKTjl4Ti1GNExiNzRGTGJlRFFEN0dJMGpFdjdnZno5STQ?oc=5",
-          "published": "Tue, 07 Jul 2026 18:04:00 GMT",
-          "published_iso": "2026-07-07T18:04:00+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 5.1,
-          "freshness_label": "24h内",
+          "name": "Shokz Goes Big on Bone Conduction Headphones With 40% Off the New OpenRun Pro 2 for Those Who Missed Prime Day - Gizmodo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZE",
+          "date": "Fri, 03 Jul 2026 12:10:03",
+          "published_iso": "2026-07-03T12:10:03+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3RrN3ZuUlFRZnlrTVJERQ?oc=5",
+          "source": "Google News - Audio Wearable Watch",
+          "_score": 75,
+          "hours_since_published": 108.0,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
-              "Sony"
+              "Shokz"
             ],
             "channels": [],
-            "categories": []
-          },
-          "_score": 187,
-          "display_title": "Jermaine Dupri Sues Sony Music for $18...",
-          "tags": [
-            "📱 消费电子"
-          ],
-          "impact_area": "品牌营销"
-        }
-      ]
-    },
-    {
-      "name": "Amazon",
-      "type": "渠道",
-      "count": 2,
-      "items": [
-        {
-          "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
-          "summary": "Amazon’s earlier Prime Day this year pushed back-to-school deals into June. With that, competing retailers including Walmart and Target joined in chasing budget-focused shoppers long before school starts.",
-          "url": "https://www.modernretail.co/marketing/back-to-school-season-has-become-a-summer-long-event-thanks-to-an-earlier-prime-day/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "published": "Fri, 03 Jul 2026 04:00:00 +0000",
-          "published_iso": "2026-07-03T04:00:00+00:00",
-          "source": "Modern Retail",
-          "bucket": "channel_news",
-          "hours_since_published": 115.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 332,
-          "display_title": "Back-to-school season has become a...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "提前的返校季促销将影响电商销售策略，需及时调整。",
-          "suggested_action": "建议优化电商平台的促销活动，吸引预算有限的消费者。"
-        },
-        {
-          "title": "Amazon Deals of the Day: Our Favorite Bone-Conduction Headphones Are $80 Off - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE96TE1Nb0JPZ3FTR19VSDdjdi0zbEE3WFpLT1FwY2k2aVFKYVZxOVJRRm5sdXRuZ2hPMklOUW9KdDNBbVNPTFNLdlE2UlNRbkpHbzVFVHpwVzhmNnlJOWx6ZWU3VDJaNGpwM3c?oc=5\" target=\"_blank\">Amazon Deals of the Day: Our Favorite Bone-Conduction Headphones Are $80 Off</a>&nbsp;&nbsp;<font color=",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96TE1Nb0JPZ3FTR19VSDdjdi0zbEE3WFpLT1FwY2k2aVFKYVZxOVJRRm5sdXRuZ2hPMklOUW9KdDNBbVNPTFNLdlE2UlNRbkpHbzVFVHpwVzhmNnlJOWx6ZWU3VDJaNGpwM3c?oc=5",
-          "published": "Thu, 02 Jul 2026 15:12:00 GMT",
-          "published_iso": "2026-07-02T15:12:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 128.0,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon"
-            ],
             "categories": [
               "bone conduction",
               "headphone"
             ]
           },
-          "_score": 213,
-          "display_title": "Amazon Deals of the Day: Our Favorite...",
+          "display_title": "Shokz Goes Big on Bone Conduction...",
+          "display_summary": "某科技公司发布新款智能设备，提升用户体验，预计将推动市场销售增长。",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
+            "🏃 运动穿戴"
           ],
-          "impact_area": "电商",
+          "impact_area": "品牌营销",
+          "judgement_label": "竞品观察",
+          "product_intro": "某科技公司发布新款智能设备，提升用户体验，预计将推动市场销售增长。",
           "importance": "高",
-          "business_note": "骨传导耳机在亚马逊的促销活动中降价，吸引消费者关注。",
-          "suggested_action": "加强电商平台的促销策略，提升品牌曝光率。"
-        }
-      ]
-    },
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 2,
-      "items": [
-        {
-          "title": "Best Buy's 4th of July Sale is live: Save up to 50% on Hisense TVs, Bose headphones, Windows laptops, and more - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUmVlVWc0OWhlaVhZMUxodWs2cWs2ZWJldzJpTlYxcEhzd0FxV184RktKLWJLNW9SaTdHN0h4dDRJb2JLcVVhaDRXWXltUWVxZ2dsNV9IR2ZPbk5IRG1IS0RhbFBjVnJtZGowMGczMA?oc=5\" target=\"_blank\">Best Buy's 4th of July Sale is live: Save up to 50% on Hisense TVs, Bose headphones, Windows lapt",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUmVlVWc0OWhlaVhZMUxodWs2cWs2ZWJldzJpTlYxcEhzd0FxV184RktKLWJLNW9SaTdHN0h4dDRJb2JLcVVhaDRXWXltUWVxZ2dsNV9IR2ZPbk5IRG1IS0RhbFBjVnJtZGowMGczMA?oc=5",
-          "published": "Sun, 05 Jul 2026 09:06:25 GMT",
-          "published_iso": "2026-07-05T09:06:25+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 62.1,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 257,
-          "display_title": "Best Buy's 4th of July Sale is live:...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Best Buy的促销活动为电商销售提供了重要机会，需抓住节日购物热潮。",
-          "suggested_action": "加强与Best Buy的合作，提升Bose耳机的品牌曝光和销售。"
-        },
-        {
-          "title": "Best Buy and Apple flag a price shock for shoppers - thestreet.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlF5MFM4QnB6ak1POWVhV2lwc1h1c3J4bWNnajdxcWQyUnpVNU94alZEbnZ3OG5USnEwUmQxLTM5ZWw0NWFvcHdpeEo5RnRLUXVvM3J5S2dJVE9PdzRaM043X3BRTGpMdHhsMXpQNGdBWklseHlBc01iR0tabEhNbGxhNzlTZGtmNWt3TTFERDY?oc=5\" target=\"_blank\">Best Buy and Apple flag a price shock for shoppers</",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlF5MFM4QnB6ak1POWVhV2lwc1h1c3J4bWNnajdxcWQyUnpVNU94alZEbnZ3OG5USnEwUmQxLTM5ZWw0NWFvcHdpeEo5RnRLUXVvM3J5S2dJVE9PdzRaM043X3BRTGpMdHhsMXpQNGdBWklseHlBc01iR0tabEhNbGxhNzlTZGtmNWt3TTFERDY?oc=5",
-          "published": "Tue, 07 Jul 2026 16:16:08 GMT",
-          "published_iso": "2026-07-07T16:16:08+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 6.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 242,
-          "display_title": "Best Buy and Apple flag a price shock...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商"
+          "business_note": "Shokz通过大幅折扣提升骨传导耳机的市场关注度，吸引更多消费者。",
+          "suggested_action": "建议加大电商平台的推广力度，提升品牌曝光和销售转化。"
         }
       ]
     }
   ],
   "takeaways": [
-    "开学季将推动耳机和音频设备销量增长，电商平台需调整促销策略以吸引学生群体。",
-    "Shokz的骨传导耳机将加剧市场竞争，传统耳机品牌需加强创新以保持市场份额。",
-    "亚马逊的日常特价活动对消费者购买决策影响显著，其他电商平台需优化价格策略以应对。",
-    "Costco和Walmart的竞争加剧，消费者对价格和服务的敏感度将决定市场赢家。",
-    "索尼WF-1000XM6耳机的发布将提升高端耳机市场的标准，竞争对手需迅速跟进以避免落后。"
+    "Sam's Club借助新策略提升电子产品销售，未来可能影响竞争对手的市场份额。",
+    "Shokz在骨传导耳机领域的扩张，预示着市场对创新音频技术的需求持续增长。",
+    "Sony WF-1000XM6耳机的推出，将进一步加剧无线耳机市场的竞争，影响消费者选择。",
+    "亚马逊的促销活动可能会刺激消费者购买欲望，推动整体电子产品销售增长。",
+    "随着返校季的临近，电子产品的需求将显著上升，零售渠道需提前布局以抓住商机。"
   ],
   "opportunity_signals": [
-    "提前的返校季促销将影响电商销售策略，需及时调整以抓住市场机会。",
-    "Costco与Walmart的竞争将影响电商市场份额，需关注各自策略以优化自身定位。",
-    "Shokz通过大幅折扣吸引消费者，建议借鉴其策略以提升品牌曝光和销量。"
+    "Sam's Club借助Walmart的资源，计划增强电商竞争力，企业应考虑与其合作以拓展市场份额。",
+    "提前的返校季促销为电商带来新机遇，企业应优化营销策略以吸引预算有限的消费者。",
+    "Shokz通过大幅折扣提升品牌曝光，建议企业关注折扣策略以快速提升销量和市场认知度。"
   ],
   "risk_signals": [
-    "提前的返校季促销可能导致电商销售策略失效，需及时调整以避免销售下滑风险。",
-    "Costco与Walmart的竞争加剧，可能导致市场份额流失，需密切关注各自的市场策略变化。",
-    "新兴零售商挑战传统巨头，显示电商渠道竞争加剧，需评估自身市场定位以应对潜在威胁。"
+    "Sam's Club借助Walmart的力量挑战Amazon，若未能有效执行，可能导致市场份额流失。",
+    "提前的返校季促销为电商带来新机遇，若未能精准把握消费者预算，可能错失销售增长机会。",
+    "亚马逊和沃尔玛的夏季促销战加剧竞争，若未能及时调整策略，可能影响品牌的市场地位。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

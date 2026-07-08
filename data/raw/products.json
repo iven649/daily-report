@@ -3,8 +3,8 @@
     {
       "name": "I swapped bone conduction headphones for open buds on my runs, and I’m not going back — here’s why - Tom's Guide",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2x2TkJjVVNGOE51NTVfbmRlbkJjYW5VcW84NUlNTmVZeUo0QThucjNiSkNMX19ZV3UydTRHY1J2OWk0aERsbmdqUlAtWXJwdmh4YU9hczVmbGxZUUJLYnFMTUkteF9SbjB2N25HdmoxMVYzTUtzMjl5MUI3WENsNWRMX185Z3JLQnRRc2VZeU5GUHhOSDdkOFd6WU",
-      "date": "Sat, 04 Jul 2026 04:15:00",
-      "published_iso": "2026-07-04T04:15:00+00:00",
+      "date": "Sat, 04 Jul 2026 04:28:14",
+      "published_iso": "2026-07-04T04:28:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2x2TkJjVVNGOE51NTVfbmRlbkJjYW5VcW84NUlNTmVZeUo0QThucjNiSkNMX19ZV3UydTRHY1J2OWk0aERsbmdqUlAtWXJwdmh4YU9hczVmbGxZUUJLYnFMTUkteF9SbjB2N25HdmoxMVYzTUtzMjl5MUI3WENsNWRMX185Z3JLQnRRc2VZeU5GUHhOSDdkOFd6WU5PVFlYWHJwVGpuand5R1FJTmwzSXB3UUN2RWJldlFReER0akNTMndMSlpvdjFtYTVSTWs5U1E?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 24
@@ -17,6 +17,15 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWFVLcHVCd2hFcjZIMm5Obnp1M3h1RGJLZkduU3FUNnN1dko2bGxBY3hKaXpNSHlpQVRmQjYtZUlnNC1vblZzTGszaDhCNDhqeTVNUGpqM3JHQlVYZjkzZWViTWpoUml4SER2eHJ0Tm1Md2hCYTluWllPNWZVWkNCcklpZ0JzV1Y5MWRINE92WDJYUm9XbkxnRW1CZENUVW9KRmtYdG9qT182OUxvQXdCWW9QWjV1RUFMOERyWmdxT3pNbWJYR0FwV3RrN3ZuUlFRZnlrTVJERQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 24
+    },
+    {
+      "name": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+      "summary": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light. The update is meant to ",
+      "date": "2026-07-07T19:55:19-04:00",
+      "published_iso": "2026-07-07T23:55:19+00:00",
+      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "source": "The Verge",
+      "_score": 20
     },
     {
       "name": "Of course viewers are giving up on Netflix shows",
@@ -98,22 +107,13 @@
       "url": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
       "source": "The Verge",
       "_score": 20
-    },
-    {
-      "name": "Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images",
-      "summary": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, su",
-      "date": "2026-07-07T11:02:30-04:00",
-      "published_iso": "2026-07-07T15:02:30+00:00",
-      "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-      "source": "The Verge",
-      "_score": 20
     }
   ],
-  "fetched_at": 1783465842,
+  "fetched_at": 1783469422,
   "stats": {
     "source_count": 7,
-    "raw_count": 110,
-    "deduped_count": 110,
+    "raw_count": 108,
+    "deduped_count": 108,
     "kept_count": 12
   }
 }

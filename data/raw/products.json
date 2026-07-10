@@ -55,6 +55,24 @@
       "_score": 24
     },
     {
+      "name": "Microsoft’s carbon emissions went up 25 percent last year",
+      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric to",
+      "date": "2026-07-09T20:04:13-04:00",
+      "published_iso": "2026-07-10T00:04:13+00:00",
+      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a ",
+      "date": "2026-07-09T19:24:04-04:00",
+      "published_iso": "2026-07-09T23:24:04+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Netflix reportedly considers adding always-on channels",
       "summary": "Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services like Pluto TV and Tubi, except the big hook for those is that th",
       "date": "2026-07-09T19:00:31-04:00",
@@ -89,27 +107,9 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
       "source": "The Verge",
       "_score": 20
-    },
-    {
-      "name": "Google&#8217;s Nest Thermostat has hit its best price of the year",
-      "summary": "If you&#8217;re looking for a relatively affordable way to cut down on cooling costs, Google&#8217;s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right now it’s on sale in white for $79 ($50 off), which is its best ",
-      "date": "2026-07-09T13:33:46-04:00",
-      "published_iso": "2026-07-09T17:33:46+00:00",
-      "url": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Microsoft’s patch Tuesdays are about to get bigger",
-      "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included ",
-      "date": "2026-07-09T13:00:00-04:00",
-      "published_iso": "2026-07-09T17:00:00+00:00",
-      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "source": "The Verge",
-      "_score": 20
     }
   ],
-  "fetched_at": 1783639341,
+  "fetched_at": 1783642647,
   "stats": {
     "source_count": 7,
     "raw_count": 115,

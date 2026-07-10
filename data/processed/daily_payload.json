@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10 07:23:03 CST",
+  "generated_at": "2026-07-10 08:18:10 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -702,73 +702,37 @@
     }
   ],
   "lead_story": {
-    "title": "Sonos Ace wireless headphones are steeply discounted",
-    "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, and directly from So",
-    "url": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
-    "published": "2026-07-09T10:30:00-04:00",
-    "published_iso": "2026-07-09T14:30:00+00:00",
-    "source": "The Verge",
-    "bucket": "consumer_electronics",
-    "hours_since_published": 8.9,
-    "freshness_label": "24h内",
+    "title": "ADWEEK Commerce Advantage: Walmart Chases Amazon While Amazon Prepares for an AI Future - ADWEEK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHdpNjF1YmM2eTF3MkpjRUtNVHJFRE1KZDA3N3NJcnJBd3dHQzNfYURVSW05S2lTUzRTQllGaXh4RDd4ckJNbjEyZkpaYWhuN0ZLbTczTjRDS1o3OGlOT2RwZ2xSUmN5Y3dOV0FqTlVTNGh5UWx5ZC02Tk5oeEZqQktiR2dmaFNtMzlvSUl2LUFHd29fYk5YbVNjWXYyLTZKOEVIMnJ4enF6MHUzREJTTnMxUUNqT2lLWm5V?oc=5\" target=\"_bl",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHdpNjF1YmM2eTF3MkpjRUtNVHJFRE1KZDA3N3NJcnJBd3dHQzNfYURVSW05S2lTUzRTQllGaXh4RDd4ckJNbjEyZkpaYWhuN0ZLbTczTjRDS1o3OGlOT2RwZ2xSUmN5Y3dOV0FqTlVTNGh5UWx5ZC02Tk5oeEZqQktiR2dmaFNtMzlvSUl2LUFHd29fYk5YbVNjWXYyLTZKOEVIMnJ4enF6MHUzREJTTnMxUUNqT2lLWm5V?oc=5",
+    "published": "Tue, 07 Jul 2026 10:00:00 GMT",
+    "published_iso": "2026-07-07T10:00:00+00:00",
+    "source": "Google News - Retail Platforms",
+    "bucket": "channel_news",
+    "hours_since_published": 62.3,
+    "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
       "channels": [
         "Amazon",
-        "Best Buy",
-        "Walmart"
+        "Walmart",
+        "Target"
       ],
-      "categories": [
-        "headphone"
-      ]
+      "categories": []
     },
-    "_score": 335,
-    "display_title": "Sonos Ace wireless headphones are...",
+    "_score": 321,
+    "display_title": "ADWEEK Commerce Advantage: Walmart...",
     "tags": [
-      "🎧 耳机音频",
       "🛒 渠道零售",
       "🏬 平台电商"
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "Sonos Ace耳机降价，有助于提升电商销售额和品牌曝光。",
-    "suggested_action": "加大电商平台的广告投放，吸引更多消费者关注。"
+    "business_note": "Walmart积极追赶Amazon，电商竞争加剧，需关注市场动态。",
+    "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
   },
-  "lead_summary": "Sonos Ace耳机降价将提升电商销售，激化高端市场竞争，影响Sony和Sen",
+  "lead_summary": "沃尔玛加速追赶亚马逊，电商竞争加剧，市场格局面临重大变革，需密切关注动态。",
   "headline_trio": [
-    {
-      "title": "Sonos Ace wireless headphones are steeply discounted",
-      "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, and directly from So",
-      "url": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
-      "published": "2026-07-09T10:30:00-04:00",
-      "published_iso": "2026-07-09T14:30:00+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 8.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Best Buy",
-          "Walmart"
-        ],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 335,
-      "display_title": "Sonos Ace wireless headphones are...",
-      "tags": [
-        "🎧 耳机音频",
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Sonos Ace耳机降价，有助于提升电商销售额和品牌曝光。",
-      "suggested_action": "加大电商平台的广告投放，吸引更多消费者关注。"
-    },
     {
       "title": "ADWEEK Commerce Advantage: Walmart Chases Amazon While Amazon Prepares for an AI Future - ADWEEK",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHdpNjF1YmM2eTF3MkpjRUtNVHJFRE1KZDA3N3NJcnJBd3dHQzNfYURVSW05S2lTUzRTQllGaXh4RDd4ckJNbjEyZkpaYWhuN0ZLbTczTjRDS1o3OGlOT2RwZ2xSUmN5Y3dOV0FqTlVTNGh5UWx5ZC02Tk5oeEZqQktiR2dmaFNtMzlvSUl2LUFHd29fYk5YbVNjWXYyLTZKOEVIMnJ4enF6MHUzREJTTnMxUUNqT2lLWm5V?oc=5\" target=\"_bl",
@@ -777,7 +741,7 @@
       "published_iso": "2026-07-07T10:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 61.4,
+      "hours_since_published": 62.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -797,7 +761,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Walmart积极追赶Amazon，电商竞争加剧，需关注市场动态。",
-      "suggested_action": "加强电商平台营销策略，提升品牌竞争力。"
+      "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
     },
     {
       "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - Allrecipes",
@@ -807,7 +771,7 @@
       "published_iso": "2026-07-03T10:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 157.4,
+      "hours_since_published": 158.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -826,44 +790,40 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "通过对比主要零售商的肉类价格，识别出最佳价值，有助于优化电商定价策略。",
-      "suggested_action": "建议加强与Walmart和Costco的合作，提升电商平台的肉类产品竞争力。"
-    }
-  ],
-  "consumer_electronics": [
+      "business_note": "通过比较主要零售商的肉类价格，识别出最佳价值，有助于优化电商定价策略。",
+      "suggested_action": "建议在电商平台上调整肉类产品定价，以提升竞争力。"
+    },
     {
-      "title": "Sonos Ace wireless headphones are steeply discounted",
-      "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, and directly from So",
-      "url": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
-      "published": "2026-07-09T10:30:00-04:00",
-      "published_iso": "2026-07-09T14:30:00+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 8.9,
+      "title": "Amazon and Walmart’s AI Shopping Race Is Now a Battle for Context, Not Clicks - PYMNTS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG9WTWJWUjJudENGYndiMzdnSE9RdGROamtJZXg1SWxMeUd6Vm53bnVGaHB5ckpVby1XbHV3YkN3NzNONkRFcXNEZ3FVemtxb252ZzFsNGV2Y2I4dElpRkRaSWRHVnF4OTV0N052N2MyZkxlSjREdkxCeGpxRU9sRm1MVFpzM2VhNzM1YmEtT0l2Njdya19MUEs3Z25za1d2MnFYUA?oc=5\" target=\"_blank\">Amazon and Walmart’s AI S",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG9WTWJWUjJudENGYndiMzdnSE9RdGROamtJZXg1SWxMeUd6Vm53bnVGaHB5ckpVby1XbHV3YkN3NzNONkRFcXNEZ3FVemtxb252ZzFsNGV2Y2I4dElpRkRaSWRHVnF4OTV0N052N2MyZkxlSjREdkxCeGpxRU9sRm1MVFpzM2VhNzM1YmEtT0l2Njdya19MUEs3Z25za1d2MnFYUA?oc=5",
+      "published": "Thu, 09 Jul 2026 19:25:39 GMT",
+      "published_iso": "2026-07-09T19:25:39+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 4.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
           "Amazon",
-          "Best Buy",
           "Walmart"
         ],
-        "categories": [
-          "headphone"
-        ]
+        "categories": []
       },
-      "_score": 335,
-      "display_title": "Sonos Ace wireless headphones are...",
+      "_score": 304,
+      "display_title": "Amazon and Walmart’s AI Shopping Race...",
       "tags": [
-        "🎧 耳机音频",
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Sonos Ace耳机降价，有助于提升电商销售额和品牌曝光。",
-      "suggested_action": "加大电商平台的广告投放，吸引更多消费者关注。"
-    },
+      "business_note": "亚马逊与沃尔玛在AI购物领域的竞争将影响电商市场格局。",
+      "suggested_action": "加强AI技术应用，提升用户购物体验，抢占市场份额。"
+    }
+  ],
+  "consumer_electronics": [
     {
       "title": "Sony WF-1000XM6 Bluetooth headphones review: full power - hi-Tech.ua",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTE1UQjhNVDhjV1RXLWcyanBtNlF2eU1hTUpwdXBZR183cE91WmlmeFRNTnVZamtmVGtZcF9EUHdKSVBmeDBPUEYxM1FESFpNQkNNd3dUMXRULTBRTjdSWHAzYkxkTC16cHl1SnVIa0NlMlg5eUtuNjdRWTBsMGc?oc=5\" target=\"_blank\">Sony WF-1000XM6 Bluetooth headphones review: full power</a>&nbsp;&nbsp;<font",
@@ -872,7 +832,7 @@
       "published_iso": "2026-07-06T02:34:56+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 92.8,
+      "hours_since_published": 93.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -891,8 +851,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Sony WF-1000XM6耳机在市场上表现强劲，提升品牌影响力。",
-      "suggested_action": "加大电商平台推广力度，吸引更多消费者关注。"
+      "business_note": "Sony WF-1000XM6耳机在市场上表现强劲，有助于提升品牌形象。",
+      "suggested_action": "加强电商平台的宣传，提升产品曝光率和销量。"
     },
     {
       "title": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life - The Guardian",
@@ -902,7 +862,7 @@
       "published_iso": "2026-07-06T06:01:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 89.4,
+      "hours_since_published": 90.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -921,7 +881,7 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "Sennheiser Momentum 5耳机在音质和电池续航方面表现出色，提升品牌形象。",
-      "suggested_action": "加强电商平台推广，利用用户评价提升品牌认知度。"
+      "suggested_action": "加强品牌营销，突出耳机的音质和续航优势，吸引更多消费者。"
     },
     {
       "title": "The 8 best headphones and earbuds of 2026, as tested by our audio editor - TechRadar",
@@ -931,7 +891,7 @@
       "published_iso": "2026-07-03T12:19:17+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 155.1,
+      "hours_since_published": 156.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -949,8 +909,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "2026年最佳耳机和耳塞评测将提升品牌知名度，吸引消费者关注。",
-      "suggested_action": "加强电商平台推广，利用评测结果进行品牌营销。"
+      "business_note": "2026年最佳耳机和耳塞评测将提升品牌知名度，吸引更多消费者关注。",
+      "suggested_action": "加强电商平台推广，结合评测结果进行品牌营销活动。"
     },
     {
       "title": "Listen to Music Through Your Cheekbones With the Best Bone Conduction Headphones - WIRED",
@@ -960,7 +920,7 @@
       "published_iso": "2026-07-03T11:30:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 155.9,
+      "hours_since_published": 156.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -977,9 +937,9 @@
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
-      "importance": "中",
-      "business_note": "骨传导耳机市场潜力大，需加强品牌营销以提升认知度。",
-      "suggested_action": "建议开展针对骨传导耳机的线上推广活动，吸引目标用户。"
+      "importance": "高",
+      "business_note": "骨传导耳机市场潜力巨大，需加强品牌营销以提升市场份额。",
+      "suggested_action": "建议开展针对骨传导耳机的电商推广活动，吸引年轻消费者。"
     },
     {
       "title": "I swapped bone conduction headphones for open buds on my runs, and I’m not going back — here’s why - Tom's Guide",
@@ -989,7 +949,7 @@
       "published_iso": "2026-07-04T04:28:14+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 138.9,
+      "hours_since_published": 139.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1007,8 +967,38 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "骨传导耳机在跑步时的用户体验提升，可能影响品牌形象和市场份额。",
-      "suggested_action": "加强电商平台的骨传导耳机推广，提升品牌知名度。"
+      "business_note": "骨传导耳机在跑步中的使用体验提升了用户满意度，影响品牌形象。",
+      "suggested_action": "加强品牌营销，突出耳机在运动中的优势，吸引更多消费者。"
+    },
+    {
+      "title": "Samsung Tipped To Enter Open-Ear Earbuds Market With Galaxy Able - channelnews.com.au",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5\" target=\"_blank\">Samsung Tipped To Enter Open-Ear Ear",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5",
+      "published": "Thu, 09 Jul 2026 01:19:46 GMT",
+      "published_iso": "2026-07-09T01:19:46+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 23.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "open-ear",
+          "earbuds"
+        ]
+      },
+      "_score": 211,
+      "display_title": "Samsung Tipped To Enter Open-Ear...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "三星即将进入开放式耳塞市场，可能影响市场竞争格局。",
+      "suggested_action": "加强电商渠道的产品推广，提升品牌曝光度。"
     }
   ],
   "channel_news": [
@@ -1020,7 +1010,7 @@
       "published_iso": "2026-07-07T10:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 61.4,
+      "hours_since_published": 62.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1040,7 +1030,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Walmart积极追赶Amazon，电商竞争加剧，需关注市场动态。",
-      "suggested_action": "加强电商平台营销策略，提升品牌竞争力。"
+      "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
     },
     {
       "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - Allrecipes",
@@ -1050,7 +1040,7 @@
       "published_iso": "2026-07-03T10:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 157.4,
+      "hours_since_published": 158.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1069,8 +1059,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "通过对比主要零售商的肉类价格，识别出最佳价值，有助于优化电商定价策略。",
-      "suggested_action": "建议加强与Walmart和Costco的合作，提升电商平台的肉类产品竞争力。"
+      "business_note": "通过比较主要零售商的肉类价格，识别出最佳价值，有助于优化电商定价策略。",
+      "suggested_action": "建议在电商平台上调整肉类产品定价，以提升竞争力。"
     },
     {
       "title": "Amazon and Walmart’s AI Shopping Race Is Now a Battle for Context, Not Clicks - PYMNTS.com",
@@ -1080,7 +1070,7 @@
       "published_iso": "2026-07-09T19:25:39+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 3.9,
+      "hours_since_published": 4.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1098,8 +1088,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊和沃尔玛在AI购物领域的竞争将影响电商销售策略。",
-      "suggested_action": "加强AI技术在电商平台的应用，提高用户购物体验。"
+      "business_note": "亚马逊与沃尔玛在AI购物领域的竞争将影响电商市场格局。",
+      "suggested_action": "加强AI技术应用，提升用户购物体验，抢占市场份额。"
     },
     {
       "title": "Beats Studio Pro headphones are down by $150 at Best Buy - Mashable",
@@ -1109,7 +1099,7 @@
       "published_iso": "2026-07-08T22:00:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 25.4,
+      "hours_since_published": 26.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1131,8 +1121,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Beats Studio Pro耳机在Best Buy降价150美元，提升电商销售潜力。",
-      "suggested_action": "加强电商推广，利用降价吸引消费者购买。"
+      "business_note": "Beats Studio Pro耳机在Best Buy降价150美元，提升电商销售机会。",
+      "suggested_action": "加强电商推广，利用降价信息吸引消费者购买。"
     },
     {
       "title": "Best Buy's 4th of July Sale is live: Save up to 50% on Hisense TVs, Bose headphones, Windows laptops, and more - Mashable",
@@ -1142,7 +1132,7 @@
       "published_iso": "2026-07-05T09:06:25+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 110.3,
+      "hours_since_published": 111.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1164,8 +1154,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy的促销活动对电商销售至关重要，需抓住机会提升品牌曝光。",
-      "suggested_action": "建议加大在电商平台的广告投放，吸引更多消费者关注。"
+      "business_note": "Best Buy的促销活动对电商销售有显著推动作用，需关注品牌表现。",
+      "suggested_action": "建议加强与Best Buy的合作，提升Bose耳机的市场曝光率。"
     },
     {
       "title": "Marketplace Briefing: AI traffic is poised to reshape the Amazon funnel",
@@ -1175,7 +1165,7 @@
       "published_iso": "2026-07-09T15:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 8.4,
+      "hours_since_published": 9.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1205,7 +1195,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 79,
-      "hours_since_published": 22.0,
+      "hours_since_published": 23.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1216,7 +1206,7 @@
         ]
       },
       "display_title": "Samsung Tipped To Enter Open-Ear...",
-      "display_summary": "北美消费电子市场持续增长，预计未来一年将推动新产品发布和技术创新。",
+      "display_summary": "北美消费电子市场持续增长，预计未来季度将推动新产品发布和销售增长。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴",
@@ -1224,10 +1214,10 @@
       ],
       "impact_area": "渠道销售",
       "judgement_label": "渠道动态",
-      "product_intro": "北美消费电子市场持续增长，预计未来一年将推动新产品发布和技术创新。",
+      "product_intro": "北美消费电子市场持续增长，预计未来季度将推动新产品发布和销售增长。",
       "importance": "高",
-      "business_note": "三星即将推出开放式耳塞，可能改变市场竞争格局。",
-      "suggested_action": "加强电商渠道宣传，抢占市场先机。"
+      "business_note": "三星即将进入开放式耳塞市场，可能影响市场竞争格局。",
+      "suggested_action": "加强电商平台的耳机产品推广，抢占市场先机。"
     },
     {
       "name": "Rollme AirCam Puts an 8MP Camera in Open-Ear Earbuds, AI and Live Translation Included - Qoo10.co.id",
@@ -1237,7 +1227,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUm5weENiY1lSUE9QTW9qOGJnbzd5TThZcEtKM2I0Z0NmNHJYNVVaMlU3TGEwUk8yYzZNRUxfY09wV1JLMFdiUlNQZkZhTDNPOTJvSEhDOVB1bWEyRURVSmgweVZuM1dqVXpzT1Rxb2tfNm91NkhkYkszUG50OGw3WmtKNGpsdjlzcHBz0gGTAUFVX3lxTE82SHJ0VEgwSTV1ZGxveUlkeC1VZERJcGh2Y3RaejN6N3JEek95QkhEVG1TMDNsSkREc2FJQnhPZVpMY1E1dl9zSDJyLTNlNHJDLUVTYkNBMjNMNzk0aUR0bDdoTjFTMElNM2dham8xTG1Ca2VaRlFFbU5JdHJMNWc4OUQyRlRheW82dzcxVEdHUFh1dw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 71,
-      "hours_since_published": 13.8,
+      "hours_since_published": 14.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1248,7 +1238,7 @@
         ]
       },
       "display_title": "Rollme AirCam Puts an 8MP Camera in...",
-      "display_summary": "北美消费电子市场持续增长，智能设备需求上升，推动行业创新与竞争加剧。",
+      "display_summary": "某科技公司发布新款智能设备，聚焦提升用户体验，预计将推动销售增长。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴",
@@ -1256,10 +1246,40 @@
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "北美消费电子市场持续增长，智能设备需求上升，推动行业创新与竞争加剧。",
+      "product_intro": "某科技公司发布新款智能设备，聚焦提升用户体验，预计将推动销售增长。",
       "importance": "高",
-      "business_note": "Rollme AirCam耳机具备8MP摄像头和AI实时翻译功能，提升用户体验。",
-      "suggested_action": "加大电商平台推广力度，吸引更多年轻消费者关注。"
+      "business_note": "Rollme AirCam耳机具备8MP摄像头及AI翻译功能，提升用户体验。",
+      "suggested_action": "加强电商平台推广，突出耳机的创新功能，吸引目标用户。"
+    },
+    {
+      "name": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a ",
+      "date": "2026-07-09T19:24:04-04:00",
+      "published_iso": "2026-07-09T23:24:04+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "source": "The Verge",
+      "_score": 69,
+      "hours_since_published": 0.9,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "DJI"
+        ],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Fidji Simo steps down from leading...",
+      "display_summary": "OpenAI的Fidji Simo将辞去AGI首席职务，转为兼职顾问，因医疗休假后做出此决定",
+      "tags": [
+        "🚁 无人机影像",
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "新品发布",
+      "product_intro": "OpenAI的Fidji。",
+      "importance": "中",
+      "business_note": "Fidji Simo的离职可能影响品牌营销策略的执行，需关注品牌形象。",
+      "suggested_action": "加强与DJI的沟通，确保品牌营销活动的持续性和一致性。"
     },
     {
       "name": "This new affordable open-ear bone conduction headset comes with a camera, Wi-Fi 6, translation - Notebookcheck",
@@ -1269,7 +1289,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHAyQ1NSTjhJbmlhN2VUYTh5cVlZUGk2eFlnOWMxZU15c0hvUWtQNEl2b21PVTZjZ0g2U20tUXVtNFN2ci1KTldBSk10QTdfQV9pLUZuN2F1U1RQM3Z3M0NZNEtRd0U3YmtTSHVEZUVmOTJiYUNZOEJEN2NCUlhfamlUSVg2am5rRU16YlpSYW1XS2FFNnM0VkFJTk1oSnF6Vk1HR1RuWjR0Ynl1azR5MzVTWEYyRDUyWGxnaGE2dzdrcVFzOWZnNTlsVFQ3VXlTQUlB?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 64,
-      "hours_since_published": 38.7,
+      "hours_since_published": 39.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1280,7 +1300,7 @@
         ]
       },
       "display_title": "This new affordable open-ear bone...",
-      "display_summary": "某科技公司发布新款智能手机，搭载先进处理器与高效摄像系统，预计将提升市场竞争力。",
+      "display_summary": "某科技公司推出新款智能设备，提升用户体验，预计将推动销量增长。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴",
@@ -1288,10 +1308,10 @@
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "某科技公司发布新款智能手机，搭载先进处理器与高效摄像系统，预计将提升市场竞争力。",
+      "product_intro": "某科技公司推出新款智能设备，提升用户体验，预计将推动销量增长。",
       "importance": "高",
-      "business_note": "新款开放式骨传导耳机具备多项功能，适合年轻消费者，市场潜力大。",
-      "suggested_action": "加强电商平台推广，结合社交媒体营销，提高品牌曝光率。"
+      "business_note": "新款开放式骨传导耳机具备多项创新功能，提升用户体验，具有市场竞争力。",
+      "suggested_action": "加大电商平台推广力度，吸引年轻消费者关注。"
     },
     {
       "name": "Rollme launches AirCam: AI wearable w/ 8MP cam + open-ear sound - GIZGUIDE",
@@ -1301,7 +1321,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVhRU21OSC0wU0k0RWFPb3hPVmh4cGtDOVpCbWtVZG5ZTXJxSVAwQXRvWmMzenZyZ3NQMTc1ZFQ5QkpvdEJzS1o0SzNpUUxVVTlRMENVLURuX0ZvSnVKOEsxUEhnWjA0ZUNQcHBxM0FOR21PQXV1VDhEOTBWVXFFQVpqWUI?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 56,
-      "hours_since_published": 38.2,
+      "hours_since_published": 39.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1312,7 +1332,7 @@
         ]
       },
       "display_title": "Rollme launches AirCam: AI wearable w...",
-      "display_summary": "Rollme推出新款智能设备，聚焦用户体验与创新功能，进一步拓展市场份额。",
+      "display_summary": "Rollme推出新款智能设备，聚焦用户体验与功能创新，进一步拓展市场份额。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴",
@@ -1320,10 +1340,10 @@
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "Rollme推出新款智能设备，聚焦用户体验与创新功能，进一步拓展市场份额。",
+      "product_intro": "Rollme推出新款智能设备，聚焦用户体验与功能创新，进一步拓展市场份额。",
       "importance": "高",
-      "business_note": "Rollme推出的AirCam具备AI功能，可能引发市场关注，提升品牌影响力。",
-      "suggested_action": "加强电商平台的推广，利用社交媒体进行品牌营销。"
+      "business_note": "Rollme推出的AirCam具备AI技术，提升可穿戴设备市场竞争力。",
+      "suggested_action": "加强电商平台宣传，利用社交媒体提升品牌知名度。"
     },
     {
       "name": "Listen to Music Through Your Cheekbones With the Best Bone Conduction Headphones - WIRED",
@@ -1333,7 +1353,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUy1FMTd2bmttLVFyRktGbWtIWmwyNGdEVEJmWlZWTzEyYkJ6TzRRMl9Qc3c0UTQxQ0U4NHVkVTdkbDhiU185RHhLNjRKaHJ1aE5UOGJTbG1sNWZiUkVNckx1eDFyWk82T1JtaGZaVQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 49,
-      "hours_since_published": 155.9,
+      "hours_since_published": 156.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1344,85 +1364,25 @@
         ]
       },
       "display_title": "Listen to Music Through Your Cheekbones...",
-      "display_summary": "新技术可通过颧骨传输音乐，提升听觉体验，潜在应用于消费电子产品。",
+      "display_summary": "新技术可通过颧骨传输音乐，提升音频体验，开拓消费电子市场新机遇。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "新技术可通过颧骨传输音乐，提升听觉体验，潜在应用于消费电子产品。",
+      "product_intro": "新技术可通过颧骨传输音乐，提升音频体验，开拓消费电子市场新机遇。",
       "importance": "中",
-      "business_note": "骨传导耳机在市场上逐渐受到关注，适合推广新兴消费趋势。",
-      "suggested_action": "加强电商平台的品牌宣传，提升骨传导耳机的市场认知度。"
-    },
-    {
-      "name": "Google will now tell you if an ad was made with AI",
-      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under t",
-      "date": "2026-07-09T16:11:38-04:00",
-      "published_iso": "2026-07-09T20:11:38+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "source": "The Verge",
-      "_score": 43,
-      "hours_since_published": 3.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "Google will now tell you if an ad was...",
-      "display_summary": "谷歌“我的广告中心”新增“由AI创建或编辑”标签，用户可查看Google搜索、Discove",
-      "tags": [
-        "🚀 新品发布"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "新品发布",
-      "product_intro": "谷歌“我的广告中心”新增“由AI创建或编辑”标签，用户可查看Google搜。",
-      "importance": "高",
-      "business_note": "谷歌新功能将影响品牌广告的透明度，需关注AI广告的接受度。",
-      "suggested_action": "调整品牌营销策略，强调广告创作的真实性与透明度。"
+      "business_note": "骨传导耳机市场潜力大，需加强品牌宣传以吸引消费者关注。",
+      "suggested_action": "建议通过电商平台推出促销活动，提升品牌知名度。"
     }
   ],
   "monitored_entities": [
     {
       "name": "headphone",
       "type": "品类",
-      "count": 10,
+      "count": 9,
       "items": [
-        {
-          "title": "Sonos Ace wireless headphones are steeply discounted",
-          "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, and directly from So",
-          "url": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
-          "published": "2026-07-09T10:30:00-04:00",
-          "published_iso": "2026-07-09T14:30:00+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 8.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy",
-              "Walmart"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 335,
-          "display_title": "Sonos Ace wireless headphones are...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Sonos Ace耳机降价，有助于提升电商销售额和品牌曝光。",
-          "suggested_action": "加大电商平台的广告投放，吸引更多消费者关注。"
-        },
         {
           "title": "Beats Studio Pro headphones are down by $150 at Best Buy - Mashable",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPMGtWbXhRN3R1NXllWnR2NE1Ba2FrZmEwcmNFX0lrYU1QVXJZY0xzYkozdlIyeWNJOVA4OURhcWNXZE9VNDZUZVlfRnZkOEptcEQ3Q2xkVXV5Q1ZVNXgteW9hMzdGV0xv?oc=5\" target=\"_blank\">Beats Studio Pro headphones are down by $150 at Best Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</fon",
@@ -1431,7 +1391,7 @@
           "published_iso": "2026-07-08T22:00:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 25.4,
+          "hours_since_published": 26.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1453,49 +1413,112 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Beats Studio Pro耳机在Best Buy降价150美元，提升电商销售潜力。",
-          "suggested_action": "加强电商推广，利用降价吸引消费者购买。"
+          "business_note": "Beats Studio Pro耳机在Best Buy降价150美元，提升电商销售机会。",
+          "suggested_action": "加强电商推广，利用降价信息吸引消费者购买。"
+        },
+        {
+          "title": "Sony WF-1000XM6 Bluetooth headphones review: full power - hi-Tech.ua",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTE1UQjhNVDhjV1RXLWcyanBtNlF2eU1hTUpwdXBZR183cE91WmlmeFRNTnVZamtmVGtZcF9EUHdKSVBmeDBPUEYxM1FESFpNQkNNd3dUMXRULTBRTjdSWHAzYkxkTC16cHl1SnVIa0NlMlg5eUtuNjdRWTBsMGc?oc=5\" target=\"_blank\">Sony WF-1000XM6 Bluetooth headphones review: full power</a>&nbsp;&nbsp;<font",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTE1UQjhNVDhjV1RXLWcyanBtNlF2eU1hTUpwdXBZR183cE91WmlmeFRNTnVZamtmVGtZcF9EUHdKSVBmeDBPUEYxM1FESFpNQkNNd3dUMXRULTBRTjdSWHAzYkxkTC16cHl1SnVIa0NlMlg5eUtuNjdRWTBsMGc?oc=5",
+          "published": "Mon, 06 Jul 2026 02:34:56 GMT",
+          "published_iso": "2026-07-06T02:34:56+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 93.7,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 247,
+          "display_title": "Sony WF-1000XM6 Bluetooth headphones...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Sony WF-1000XM6耳机在市场上表现强劲，有助于提升品牌形象。",
+          "suggested_action": "加强电商平台的宣传，提升产品曝光率和销量。"
+        }
+      ]
+    },
+    {
+      "name": "open-ear",
+      "type": "品类",
+      "count": 7,
+      "items": [
+        {
+          "title": "Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5\" target=\"_blank\">Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5",
+          "published": "Wed, 08 Jul 2026 00:20:00 GMT",
+          "published_iso": "2026-07-08T00:20:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 48.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz",
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 220,
+          "display_title": "Best Open Earbuds for 2026: Top Picks...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售"
+          ],
+          "impact_area": "品牌营销"
+        },
+        {
+          "title": "Samsung Tipped To Enter Open-Ear Earbuds Market With Galaxy Able - channelnews.com.au",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5\" target=\"_blank\">Samsung Tipped To Enter Open-Ear Ear",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5",
+          "published": "Thu, 09 Jul 2026 01:19:46 GMT",
+          "published_iso": "2026-07-09T01:19:46+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 23.0,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 211,
+          "display_title": "Samsung Tipped To Enter Open-Ear...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🛒 渠道零售"
+          ],
+          "impact_area": "渠道销售",
+          "importance": "高",
+          "business_note": "三星即将进入开放式耳塞市场，可能影响市场竞争格局。",
+          "suggested_action": "加强电商渠道的产品推广，提升品牌曝光度。"
         }
       ]
     },
     {
       "name": "Walmart",
       "type": "渠道",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "Sonos Ace wireless headphones are steeply discounted",
-          "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, and directly from So",
-          "url": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
-          "published": "2026-07-09T10:30:00-04:00",
-          "published_iso": "2026-07-09T14:30:00+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 8.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy",
-              "Walmart"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 335,
-          "display_title": "Sonos Ace wireless headphones are...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Sonos Ace耳机降价，有助于提升电商销售额和品牌曝光。",
-          "suggested_action": "加大电商平台的广告投放，吸引更多消费者关注。"
-        },
         {
           "title": "ADWEEK Commerce Advantage: Walmart Chases Amazon While Amazon Prepares for an AI Future - ADWEEK",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHdpNjF1YmM2eTF3MkpjRUtNVHJFRE1KZDA3N3NJcnJBd3dHQzNfYURVSW05S2lTUzRTQllGaXh4RDd4ckJNbjEyZkpaYWhuN0ZLbTczTjRDS1o3OGlOT2RwZ2xSUmN5Y3dOV0FqTlVTNGh5UWx5ZC02Tk5oeEZqQktiR2dmaFNtMzlvSUl2LUFHd29fYk5YbVNjWXYyLTZKOEVIMnJ4enF6MHUzREJTTnMxUUNqT2lLWm5V?oc=5\" target=\"_bl",
@@ -1504,7 +1527,7 @@
           "published_iso": "2026-07-07T10:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 61.4,
+          "hours_since_published": 62.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1524,66 +1547,100 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Walmart积极追赶Amazon，电商竞争加剧，需关注市场动态。",
-          "suggested_action": "加强电商平台营销策略，提升品牌竞争力。"
+          "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
+        },
+        {
+          "title": "I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clearly Offered the Best Value - Allrecipes",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmx0dVRQaENOWG9kOGlXbWlKTnpYcVBTQUl6cFE4Rk9mUEhwQlh0MGQyOTRSZ2s1S2Z0N1hPdkZ6YUdZbVM2b0kwcmc2bzJxcDdFVFJERnBxOURTS2o2ZmFMUUMzVFBqWmlMN0tQWUQ5enpKWnp0MDlpYndUUWR1aA?oc=5\" target=\"_blank\">I Compared Meat Prices at Costco, Sam’s, Walmart, and Aldi—One Store Clea",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmx0dVRQaENOWG9kOGlXbWlKTnpYcVBTQUl6cFE4Rk9mUEhwQlh0MGQyOTRSZ2s1S2Z0N1hPdkZ6YUdZbVM2b0kwcmc2bzJxcDdFVFJERnBxOURTS2o2ZmFMUUMzVFBqWmlMN0tQWUQ5enpKWnp0MDlpYndUUWR1aA?oc=5",
+          "published": "Fri, 03 Jul 2026 10:00:00 GMT",
+          "published_iso": "2026-07-03T10:00:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 158.3,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart",
+              "Costco"
+            ],
+            "categories": []
+          },
+          "_score": 312,
+          "display_title": "I Compared Meat Prices at Costco...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "通过比较主要零售商的肉类价格，识别出最佳价值，有助于优化电商定价策略。",
+          "suggested_action": "建议在电商平台上调整肉类产品定价，以提升竞争力。"
         }
       ]
     },
     {
-      "name": "open-ear",
+      "name": "earbuds",
       "type": "品类",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Samsung Tipped To Enter Open-Ear Earbuds Market With Galaxy Able - channelnews.com.au",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5\" target=\"_blank\">Samsung Tipped To Enter Open-Ear Ear",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5",
-          "published": "Thu, 09 Jul 2026 01:19:46 GMT",
-          "published_iso": "2026-07-09T01:19:46+00:00",
+          "title": "The 8 best headphones and earbuds of 2026, as tested by our audio editor - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPSEVLd3BoTm1WLUZxMjJpcWhSUjFPZVhNWDVrTWRvY2NSVHlJWjhnSTJFSjZSQ09ZUk9oNDBLWlVvZWREbU9jQW9Ublc1M2xEb0hZQUZISjNiUG5MTzVlVG9rTkNYZE1taWVnUGxhUFFDTHhKaDducmhURTlDbi1KUXltY0NvNlZIeUg2VGxoeWVGNUh2RDMySjc0YUNrTjdJVkFHSmRVd1ljd1NvUEMxeldib1o2NnM4SkVlX1lwMlNiLUZBNGVVZU",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSEVLd3BoTm1WLUZxMjJpcWhSUjFPZVhNWDVrTWRvY2NSVHlJWjhnSTJFSjZSQ09ZUk9oNDBLWlVvZWREbU9jQW9Ublc1M2xEb0hZQUZISjNiUG5MTzVlVG9rTkNYZE1taWVnUGxhUFFDTHhKaDducmhURTlDbi1KUXltY0NvNlZIeUg2VGxoeWVGNUh2RDMySjc0YUNrTjdJVkFHSmRVd1ljd1NvUEMxeldib1o2NnM4SkVlX1lwMlNiLUZBNGVVZU03TmVqdXdUaE9abF9qOVkwUU8teXFoSWQ0T0I0N19RcFF4Q2h1eWgzel9xUXp5bGx3VmtWN3JMcVU3XzZkT2hpb25JMjNYSjZVUQ?oc=5",
+          "published": "Fri, 03 Jul 2026 12:19:17 GMT",
+          "published_iso": "2026-07-03T12:19:17+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 22.0,
-          "freshness_label": "24h内",
+          "hours_since_published": 156.0,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
+            "channels": [],
+            "categories": [
+              "earbuds",
+              "headphone"
+            ]
+          },
+          "_score": 241,
+          "display_title": "The 8 best headphones and earbuds of...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "2026年最佳耳机和耳塞评测将提升品牌知名度，吸引更多消费者关注。",
+          "suggested_action": "加强电商平台推广，结合评测结果进行品牌营销活动。"
+        },
+        {
+          "title": "Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5\" target=\"_blank\">Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5",
+          "published": "Wed, 08 Jul 2026 00:20:00 GMT",
+          "published_iso": "2026-07-08T00:20:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 48.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz",
+              "Bose"
+            ],
             "channels": [],
             "categories": [
               "open-ear",
               "earbuds"
             ]
           },
-          "_score": 211,
-          "display_title": "Samsung Tipped To Enter Open-Ear...",
+          "_score": 220,
+          "display_title": "Best Open Earbuds for 2026: Top Picks...",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴",
             "🛒 渠道零售"
-          ],
-          "impact_area": "渠道销售"
-        },
-        {
-          "title": "This new affordable open-ear bone conduction headset comes with a camera, Wi-Fi 6, translation - Notebookcheck",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHAyQ1NSTjhJbmlhN2VUYTh5cVlZUGk2eFlnOWMxZU15c0hvUWtQNEl2b21PVTZjZ0g2U20tUXVtNFN2ci1KTldBSk10QTdfQV9pLUZuN2F1U1RQM3Z3M0NZNEtRd0U3YmtTSHVEZUVmOTJiYUNZOEJEN2NCUlhfamlUSVg2am5rRU16YlpSYW1XS2FFNnM0VkFJTk1oSnF6Vk1HR1RuWjR0Ynl1azR5MzVTWEYyRDUyWGxnaGE2dzdrcVFzOWZnNT",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHAyQ1NSTjhJbmlhN2VUYTh5cVlZUGk2eFlnOWMxZU15c0hvUWtQNEl2b21PVTZjZ0g2U20tUXVtNFN2ci1KTldBSk10QTdfQV9pLUZuN2F1U1RQM3Z3M0NZNEtRd0U3YmtTSHVEZUVmOTJiYUNZOEJEN2NCUlhfamlUSVg2am5rRU16YlpSYW1XS2FFNnM0VkFJTk1oSnF6Vk1HR1RuWjR0Ynl1azR5MzVTWEYyRDUyWGxnaGE2dzdrcVFzOWZnNTlsVFQ3VXlTQUlB?oc=5",
-          "published": "Wed, 08 Jul 2026 08:39:00 GMT",
-          "published_iso": "2026-07-08T08:39:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 38.7,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "bone conduction"
-            ]
-          },
-          "_score": 204,
-          "display_title": "This new affordable open-ear bone...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🚁 无人机影像"
           ],
           "impact_area": "品牌营销"
         }
@@ -1602,7 +1659,7 @@
           "published_iso": "2026-07-03T11:30:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 155.9,
+          "hours_since_published": 156.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1619,9 +1676,9 @@
             "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
-          "importance": "中",
-          "business_note": "骨传导耳机市场潜力大，需加强品牌营销以提升认知度。",
-          "suggested_action": "建议开展针对骨传导耳机的线上推广活动，吸引目标用户。"
+          "importance": "高",
+          "business_note": "骨传导耳机市场潜力巨大，需加强品牌营销以提升市场份额。",
+          "suggested_action": "建议开展针对骨传导耳机的电商推广活动，吸引年轻消费者。"
         },
         {
           "title": "I swapped bone conduction headphones for open buds on my runs, and I’m not going back — here’s why - Tom's Guide",
@@ -1631,7 +1688,7 @@
           "published_iso": "2026-07-04T04:28:14+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 138.9,
+          "hours_since_published": 139.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1649,49 +1706,16 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "骨传导耳机在跑步时的用户体验提升，可能影响品牌形象和市场份额。",
-          "suggested_action": "加强电商平台的骨传导耳机推广，提升品牌知名度。"
+          "business_note": "骨传导耳机在跑步中的使用体验提升了用户满意度，影响品牌形象。",
+          "suggested_action": "加强品牌营销，突出耳机在运动中的优势，吸引更多消费者。"
         }
       ]
     },
     {
       "name": "Amazon",
       "type": "渠道",
-      "count": 4,
+      "count": 3,
       "items": [
-        {
-          "title": "Sonos Ace wireless headphones are steeply discounted",
-          "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, and directly from So",
-          "url": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
-          "published": "2026-07-09T10:30:00-04:00",
-          "published_iso": "2026-07-09T14:30:00+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 8.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy",
-              "Walmart"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 335,
-          "display_title": "Sonos Ace wireless headphones are...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Sonos Ace耳机降价，有助于提升电商销售额和品牌曝光。",
-          "suggested_action": "加大电商平台的广告投放，吸引更多消费者关注。"
-        },
         {
           "title": "ADWEEK Commerce Advantage: Walmart Chases Amazon While Amazon Prepares for an AI Future - ADWEEK",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHdpNjF1YmM2eTF3MkpjRUtNVHJFRE1KZDA3N3NJcnJBd3dHQzNfYURVSW05S2lTUzRTQllGaXh4RDd4ckJNbjEyZkpaYWhuN0ZLbTczTjRDS1o3OGlOT2RwZ2xSUmN5Y3dOV0FqTlVTNGh5UWx5ZC02Tk5oeEZqQktiR2dmaFNtMzlvSUl2LUFHd29fYk5YbVNjWXYyLTZKOEVIMnJ4enF6MHUzREJTTnMxUUNqT2lLWm5V?oc=5\" target=\"_bl",
@@ -1700,7 +1724,7 @@
           "published_iso": "2026-07-07T10:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 61.4,
+          "hours_since_published": 62.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1720,48 +1744,44 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Walmart积极追赶Amazon，电商竞争加剧，需关注市场动态。",
-          "suggested_action": "加强电商平台营销策略，提升品牌竞争力。"
+          "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
+        },
+        {
+          "title": "Amazon and Walmart’s AI Shopping Race Is Now a Battle for Context, Not Clicks - PYMNTS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG9WTWJWUjJudENGYndiMzdnSE9RdGROamtJZXg1SWxMeUd6Vm53bnVGaHB5ckpVby1XbHV3YkN3NzNONkRFcXNEZ3FVemtxb252ZzFsNGV2Y2I4dElpRkRaSWRHVnF4OTV0N052N2MyZkxlSjREdkxCeGpxRU9sRm1MVFpzM2VhNzM1YmEtT0l2Njdya19MUEs3Z25za1d2MnFYUA?oc=5\" target=\"_blank\">Amazon and Walmart’s AI S",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG9WTWJWUjJudENGYndiMzdnSE9RdGROamtJZXg1SWxMeUd6Vm53bnVGaHB5ckpVby1XbHV3YkN3NzNONkRFcXNEZ3FVemtxb252ZzFsNGV2Y2I4dElpRkRaSWRHVnF4OTV0N052N2MyZkxlSjREdkxCeGpxRU9sRm1MVFpzM2VhNzM1YmEtT0l2Njdya19MUEs3Z25za1d2MnFYUA?oc=5",
+          "published": "Thu, 09 Jul 2026 19:25:39 GMT",
+          "published_iso": "2026-07-09T19:25:39+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 4.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 304,
+          "display_title": "Amazon and Walmart’s AI Shopping Race...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊与沃尔玛在AI购物领域的竞争将影响电商市场格局。",
+          "suggested_action": "加强AI技术应用，提升用户购物体验，抢占市场份额。"
         }
       ]
     },
     {
       "name": "Best Buy",
       "type": "渠道",
-      "count": 4,
+      "count": 3,
       "items": [
-        {
-          "title": "Sonos Ace wireless headphones are steeply discounted",
-          "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, and directly from So",
-          "url": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
-          "published": "2026-07-09T10:30:00-04:00",
-          "published_iso": "2026-07-09T14:30:00+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 8.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy",
-              "Walmart"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 335,
-          "display_title": "Sonos Ace wireless headphones are...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Sonos Ace耳机降价，有助于提升电商销售额和品牌曝光。",
-          "suggested_action": "加大电商平台的广告投放，吸引更多消费者关注。"
-        },
         {
           "title": "Beats Studio Pro headphones are down by $150 at Best Buy - Mashable",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPMGtWbXhRN3R1NXllWnR2NE1Ba2FrZmEwcmNFX0lrYU1QVXJZY0xzYkozdlIyeWNJOVA4OURhcWNXZE9VNDZUZVlfRnZkOEptcEQ3Q2xkVXV5Q1ZVNXgteW9hMzdGV0xv?oc=5\" target=\"_blank\">Beats Studio Pro headphones are down by $150 at Best Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</fon",
@@ -1770,7 +1790,7 @@
           "published_iso": "2026-07-08T22:00:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 25.4,
+          "hours_since_published": 26.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1792,71 +1812,41 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Beats Studio Pro耳机在Best Buy降价150美元，提升电商销售潜力。",
-          "suggested_action": "加强电商推广，利用降价吸引消费者购买。"
-        }
-      ]
-    },
-    {
-      "name": "earbuds",
-      "type": "品类",
-      "count": 4,
-      "items": [
+          "business_note": "Beats Studio Pro耳机在Best Buy降价150美元，提升电商销售机会。",
+          "suggested_action": "加强电商推广，利用降价信息吸引消费者购买。"
+        },
         {
-          "title": "The 8 best headphones and earbuds of 2026, as tested by our audio editor - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPSEVLd3BoTm1WLUZxMjJpcWhSUjFPZVhNWDVrTWRvY2NSVHlJWjhnSTJFSjZSQ09ZUk9oNDBLWlVvZWREbU9jQW9Ublc1M2xEb0hZQUZISjNiUG5MTzVlVG9rTkNYZE1taWVnUGxhUFFDTHhKaDducmhURTlDbi1KUXltY0NvNlZIeUg2VGxoeWVGNUh2RDMySjc0YUNrTjdJVkFHSmRVd1ljd1NvUEMxeldib1o2NnM4SkVlX1lwMlNiLUZBNGVVZU",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSEVLd3BoTm1WLUZxMjJpcWhSUjFPZVhNWDVrTWRvY2NSVHlJWjhnSTJFSjZSQ09ZUk9oNDBLWlVvZWREbU9jQW9Ublc1M2xEb0hZQUZISjNiUG5MTzVlVG9rTkNYZE1taWVnUGxhUFFDTHhKaDducmhURTlDbi1KUXltY0NvNlZIeUg2VGxoeWVGNUh2RDMySjc0YUNrTjdJVkFHSmRVd1ljd1NvUEMxeldib1o2NnM4SkVlX1lwMlNiLUZBNGVVZU03TmVqdXdUaE9abF9qOVkwUU8teXFoSWQ0T0I0N19RcFF4Q2h1eWgzel9xUXp5bGx3VmtWN3JMcVU3XzZkT2hpb25JMjNYSjZVUQ?oc=5",
-          "published": "Fri, 03 Jul 2026 12:19:17 GMT",
-          "published_iso": "2026-07-03T12:19:17+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 155.1,
+          "title": "Best Buy's 4th of July Sale is live: Save up to 50% on Hisense TVs, Bose headphones, Windows laptops, and more - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUmVlVWc0OWhlaVhZMUxodWs2cWs2ZWJldzJpTlYxcEhzd0FxV184RktKLWJLNW9SaTdHN0h4dDRJb2JLcVVhaDRXWXltUWVxZ2dsNV9IR2ZPbk5IRG1IS0RhbFBjVnJtZGowMGczMA?oc=5\" target=\"_blank\">Best Buy's 4th of July Sale is live: Save up to 50% on Hisense TVs, Bose headphones, Windows lapt",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtUmVlVWc0OWhlaVhZMUxodWs2cWs2ZWJldzJpTlYxcEhzd0FxV184RktKLWJLNW9SaTdHN0h4dDRJb2JLcVVhaDRXWXltUWVxZ2dsNV9IR2ZPbk5IRG1IS0RhbFBjVnJtZGowMGczMA?oc=5",
+          "published": "Sun, 05 Jul 2026 09:06:25 GMT",
+          "published_iso": "2026-07-05T09:06:25+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 111.2,
           "freshness_label": "近7天",
           "monitor_hits": {
-            "brands": [],
-            "channels": [],
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Best Buy"
+            ],
             "categories": [
-              "earbuds",
               "headphone"
             ]
           },
-          "_score": 241,
-          "display_title": "The 8 best headphones and earbuds of...",
+          "_score": 242,
+          "display_title": "Best Buy's 4th of July Sale is live:...",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🛒 渠道零售",
+            "🏬 平台电商"
           ],
-          "impact_area": "品牌营销",
+          "impact_area": "电商",
           "importance": "高",
-          "business_note": "2026年最佳耳机和耳塞评测将提升品牌知名度，吸引消费者关注。",
-          "suggested_action": "加强电商平台推广，利用评测结果进行品牌营销。"
-        },
-        {
-          "title": "Samsung Tipped To Enter Open-Ear Earbuds Market With Galaxy Able - channelnews.com.au",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5\" target=\"_blank\">Samsung Tipped To Enter Open-Ear Ear",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3lhNTdGX21MTXVRLTRFbjR4TGQwdXd2LVR0dWJiY1FwU19LYy1CRVpVQzhqNDRyTTF4aE13NVRxMXN3THQ4Q0lJa0Y2dzVfdk1QZmc0UUpmTncxOXNkeXJNTVRfOFFyT01vMExTRWY0TzdWMUhxWkZsRzFIZVJpZ21Jc3U4MUs1T0N0RVU5bkxnTndkX3FJa3U4ei0?oc=5",
-          "published": "Thu, 09 Jul 2026 01:19:46 GMT",
-          "published_iso": "2026-07-09T01:19:46+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 22.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "earbuds"
-            ]
-          },
-          "_score": 211,
-          "display_title": "Samsung Tipped To Enter Open-Ear...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🛒 渠道零售"
-          ],
-          "impact_area": "渠道销售"
+          "business_note": "Best Buy的促销活动对电商销售有显著推动作用，需关注品牌表现。",
+          "suggested_action": "建议加强与Best Buy的合作，提升Bose耳机的市场曝光率。"
         }
       ]
     },
@@ -1873,7 +1863,7 @@
           "published_iso": "2026-07-07T10:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 61.4,
+          "hours_since_published": 62.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1893,7 +1883,7 @@
           "impact_area": "电商",
           "importance": "高",
           "business_note": "Walmart积极追赶Amazon，电商竞争加剧，需关注市场动态。",
-          "suggested_action": "加强电商平台营销策略，提升品牌竞争力。"
+          "suggested_action": "加强电商平台的品牌营销策略，提升市场份额。"
         },
         {
           "title": "The ChatGPT browser is already dead",
@@ -1903,7 +1893,7 @@
           "published_iso": "2026-07-09T20:34:05+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 2.8,
+          "hours_since_published": 3.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1924,21 +1914,21 @@
     }
   ],
   "takeaways": [
-    "Sonos Ace耳机的发布将进一步加剧高端耳机市场的竞争，可能影响Sony和Sennheiser的销量。",
-    "亚马逊和沃尔玛在AI购物领域的竞争加剧，可能会改变消费者的购买习惯和渠道选择。",
-    "Beats Studio Pro耳机降价，可能会吸引预算有限的消费者，影响同类产品的市场表现。",
-    "Samsung进入开放式耳机市场，可能会对现有品牌造成冲击，值得密切关注其市场策略。",
-    "新推出的Rollme AirCam可能会吸引年轻消费者，对传统相机市场形成一定挑战。"
+    "亚马逊与沃尔玛的AI购物竞争加剧，未来电商市场格局将发生重大变化。",
+    "索尼WF-1000XM6耳机在北美市场表现强劲，可能会对竞争对手造成压力。",
+    "新品推出频繁，尤其是开放式耳机，消费者需求将推动市场创新。",
+    "Best Buy的促销活动吸引了大量消费者，短期内将提升其市场份额。",
+    "骨传导耳机逐渐受到关注，可能会改变传统耳机市场的竞争动态。"
   ],
   "opportunity_signals": [
-    "Sonos Ace耳机降价将提升电商销售额，建议加大线上推广力度以抓住这一机会。",
-    "随着Walmart积极追赶Amazon，需密切关注电商市场动态，以调整竞争策略。",
-    "通过对比主要零售商的肉类价格，优化电商定价策略将有助于提升市场竞争力。"
+    "随着沃尔玛积极追赶亚马逊，电商竞争加剧，需及时调整市场策略以保持竞争优势。",
+    "通过比较主要零售商的肉类价格，识别最佳价值，有助于优化电商定价策略，提升市场份额。",
+    "亚马逊与沃尔玛在AI购物领域的竞争将重塑电商市场格局，投资相关技术可抢占先机。"
   ],
   "risk_signals": [
-    "Sonos Ace耳机降价可能短期内提升销售，但长期品牌价值可能受损，需谨慎评估降价策略的可持续性。",
-    "亚马逊与沃尔玛在AI购物领域的竞争加剧，若未能及时调整销售策略，可能导致市场份额下降。",
-    "Best Buy的促销活动虽然能短期提升销量，但若未能有效转化为品牌忠诚度，长期收益将受限。"
+    "随着沃尔玛积极追赶亚马逊，电商竞争加剧，若未能及时调整市场策略，可能导致市场份额下降。",
+    "亚马逊与沃尔玛在AI购物领域的竞争加剧，若未能有效利用AI技术，可能会错失提升客户体验和销售转化的机会。",
+    "Best Buy的促销活动对电商销售有显著推动作用，若未能优化促销策略，可能会影响品牌在市场中的竞争力。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

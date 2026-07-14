@@ -19,15 +19,6 @@
       "_score": 44
     },
     {
-      "name": "VibeLens MusicCam Pro Kickstarter Campaign Launches For New Bone Conduction Wearable Action Camera - Technetbook",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGM1WGF1RjlnbUtaRG9qeEFhbGdoR3lNSTlfSEUyejFjQ1c5Z3l3TV9fWjBNV3YtZV9MUWVGZ1FwSTZaWVg2ZThPOGcxOE53bUFUT0VDTTNnd2NmVjdTaWNhSzJKTi1CbDJxaWgxRVNDV0tqdkhGdDJTV2dCYXBLVA?oc=5\" target=\"_blank\">VibeLens Musi",
-      "date": "Sun, 12 Jul 2026 15:09:00",
-      "published_iso": "2026-07-12T15:09:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGM1WGF1RjlnbUtaRG9qeEFhbGdoR3lNSTlfSEUyejFjQ1c5Z3l3TV9fWjBNV3YtZV9MUWVGZ1FwSTZaWVg2ZThPOGcxOE53bUFUT0VDTTNnd2NmVjdTaWNhSzJKTi1CbDJxaWgxRVNDV0tqdkhGdDJTV2dCYXBLVA?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 24
-    },
-    {
       "name": "Rollme launches AirCam: AI wearable w/ 8MP cam + open-ear sound - GIZGUIDE",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVhRU21OSC0wU0k0RWFPb3hPVmh4cGtDOVpCbWtVZG5ZTXJxSVAwQXRvWmMzenZyZ3NQMTc1ZFQ5QkpvdEJzS1o0SzNpUUxVVTlRMENVLURuX0ZvSnVKOEsxUEhnWjA0ZUNQcHBxM0FOR21PQXV1VDhEOTBWVXFFQVpqWUI?oc=5\" target=\"_blank\">Rollme l",
       "date": "Wed, 08 Jul 2026 09:13:00",
@@ -107,13 +98,22 @@
       "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
       "source": "The Verge",
       "_score": 20
+    },
+    {
+      "name": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
+      "summary": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distributors. The states - California, Arizona, Colorado, Connecticut, Massachusetts, Minne",
+      "date": "2026-07-13T14:35:48-04:00",
+      "published_iso": "2026-07-13T18:35:48+00:00",
+      "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
+      "source": "The Verge",
+      "_score": 20
     }
   ],
-  "fetched_at": 1783983898,
+  "fetched_at": 1783987516,
   "stats": {
     "source_count": 7,
-    "raw_count": 112,
-    "deduped_count": 112,
+    "raw_count": 111,
+    "deduped_count": 111,
     "kept_count": 12
   }
 }

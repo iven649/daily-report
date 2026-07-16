@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16 07:08:10 CST",
+  "generated_at": "2026-07-16 08:08:40 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -705,36 +705,67 @@
     }
   ],
   "lead_story": {
-    "title": "Coresight: Walmart, Amazon cross major market-share milestone - Chain Store Age",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWZhYUJWT2REV29SS3RzSHFvMEY2R05CeERKQmhCb29jckRjSUdaaUxjTEgxeFZSbHl4bDVpemN5M0pQaU9IQndQSmcwa1oyUEVCZjJfbkpqV2tIUnVYdjhuSVl1b1BYRzZibHpoMUhzM0UtNGVlZzR2QWFrZmdYNEdZSmViTVNDeXBZR1h3?oc=5\" target=\"_blank\">Coresight: Walmart, Amazon cross major market-share mil",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWZhYUJWT2REV29SS3RzSHFvMEY2R05CeERKQmhCb29jckRjSUdaaUxjTEgxeFZSbHl4bDVpemN5M0pQaU9IQndQSmcwa1oyUEVCZjJfbkpqV2tIUnVYdjhuSVl1b1BYRzZibHpoMUhzM0UtNGVlZzR2QWFrZmdYNEdZSmViTVNDeXBZR1h3?oc=5",
-    "published": "Tue, 14 Jul 2026 16:17:33 GMT",
-    "published_iso": "2026-07-14T16:17:33+00:00",
-    "source": "Google News - Retail Platforms",
-    "bucket": "channel_news",
-    "hours_since_published": 30.8,
-    "freshness_label": "近3天",
+    "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+    "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in ",
+    "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+    "published": "2026-07-15T20:00:00-04:00",
+    "published_iso": "2026-07-16T00:00:00+00:00",
+    "source": "The Verge",
+    "bucket": "consumer_electronics",
+    "hours_since_published": 0.1,
+    "freshness_label": "24h内",
     "monitor_hits": {
-      "brands": [],
-      "channels": [
-        "Amazon",
-        "Walmart"
+      "brands": [
+        "Bose"
       ],
-      "categories": []
+      "channels": [],
+      "categories": [
+        "headphone"
+      ]
     },
-    "_score": 327,
-    "display_title": "Coresight: Walmart, Amazon cross major...",
+    "_score": 345,
+    "display_title": "Skullcandy’s bass-boosting Crusher...",
     "tags": [
-      "🛒 渠道零售",
-      "🏬 平台电商"
+      "🎧 耳机音频",
+      "🚀 新品发布"
     ],
-    "impact_area": "电商",
+    "impact_area": "品牌营销",
     "importance": "高",
-    "business_note": "Walmart和Amazon在市场份额上取得重大里程碑，影响电商竞争格局。",
-    "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售渠道。"
+    "business_note": "Skullcandy与Bose合作推出新耳机，提升品牌竞争力。",
+    "suggested_action": "加大电商推广力度，突出新技术优势，吸引消费者关注。"
   },
-  "lead_summary": "Walmart与Amazon市场份额的重大变化，将重塑电商竞争格局，影响消费电子",
+  "lead_summary": "Skullcandy与Bose合作新耳机，将吸引年轻消费者，进一步提升品牌竞争力",
   "headline_trio": [
+    {
+      "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+      "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in ",
+      "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+      "published": "2026-07-15T20:00:00-04:00",
+      "published_iso": "2026-07-16T00:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 0.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 345,
+      "display_title": "Skullcandy’s bass-boosting Crusher...",
+      "tags": [
+        "🎧 耳机音频",
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Skullcandy与Bose合作推出新耳机，提升品牌竞争力。",
+      "suggested_action": "加大电商推广力度，突出新技术优势，吸引消费者关注。"
+    },
     {
       "title": "Coresight: Walmart, Amazon cross major market-share milestone - Chain Store Age",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWZhYUJWT2REV29SS3RzSHFvMEY2R05CeERKQmhCb29jckRjSUdaaUxjTEgxeFZSbHl4bDVpemN5M0pQaU9IQndQSmcwa1oyUEVCZjJfbkpqV2tIUnVYdjhuSVl1b1BYRzZibHpoMUhzM0UtNGVlZzR2QWFrZmdYNEdZSmViTVNDeXBZR1h3?oc=5\" target=\"_blank\">Coresight: Walmart, Amazon cross major market-share mil",
@@ -743,7 +774,7 @@
       "published_iso": "2026-07-14T16:17:33+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 30.8,
+      "hours_since_published": 31.8,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -761,74 +792,100 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart和Amazon在市场份额上取得重大里程碑，影响电商竞争格局。",
-      "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售渠道。"
+      "business_note": "Walmart和Amazon在市场份额上达成重要里程碑，影响电商竞争格局。",
+      "suggested_action": "加强与Amazon和Walmart的合作，提升品牌曝光和销售渠道。"
     },
     {
-      "title": "Walmart has hefty lead over Amazon in online grocery ordering: report - Supermarket News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTFZURjYyMkVZUkgzVnZZcHU4MlBFaDRMb3UzOGgxS1lWcnN4ZkdrZ2Z4bGV1NlE5dWtXZGFUbXZyaThBczhpSWlIbE85VUFiaVp5ZllBWW9mVWkxbFRaYTRVMjdiVFBGMmNHUmhVY3pMQkZNMzFjU1BXejRXRFpFU19RWktsVWZadjdvN0o0UmxVcnhjQWhDcWFfQ1FyeUwtZnJhbnZ5WDl2RVdZYVRhZ1RULXA1UW4xMkZB?oc=5\" target=\"_bl",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTFZURjYyMkVZUkgzVnZZcHU4MlBFaDRMb3UzOGgxS1lWcnN4ZkdrZ2Z4bGV1NlE5dWtXZGFUbXZyaThBczhpSWlIbE85VUFiaVp5ZllBWW9mVWkxbFRaYTRVMjdiVFBGMmNHUmhVY3pMQkZNMzFjU1BXejRXRFpFU19RWktsVWZadjdvN0o0UmxVcnhjQWhDcWFfQ1FyeUwtZnJhbnZ5WDl2RVdZYVRhZ1RULXA1UW4xMkZB?oc=5",
-      "published": "Thu, 09 Jul 2026 17:19:26 GMT",
-      "published_iso": "2026-07-09T17:19:26+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 149.8,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart",
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 306,
-      "display_title": "Walmart has hefty lead over Amazon in...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Walmart在在线杂货订单方面领先Amazon，需关注电商竞争格局。",
-      "suggested_action": "加强电商平台的品牌营销，提升用户粘性。"
-    },
-    {
-      "title": "Searching for bargain running headphones? I recommend the 4.5-star Shokz OpenRun Pro at this record-low price - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDNNbGR3M1ZTTW5BSGtuaVRINmV2X0hOXzV3Z2NZcTJld1d3V3g0LUktckpZRW9OTHhYLTRaX0hPaUxJeUJzaGVRWG5iOVA5NU9HaW03QnlFS21QMVVDa01hUEJTbE43ZlZEdVladXNaTm1WdVpjYjVkbENlS2IwQzVSd3A1VzJRYlpLellqRmhXVmhaaUFUekpVb0o5RlpsUlFXTmpEZkwwR2o1UU9aUVRWaTJvb2d5bjIwR2FObnhOYl9XTjFZcT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDNNbGR3M1ZTTW5BSGtuaVRINmV2X0hOXzV3Z2NZcTJld1d3V3g0LUktckpZRW9OTHhYLTRaX0hPaUxJeUJzaGVRWG5iOVA5NU9HaW03QnlFS21QMVVDa01hUEJTbE43ZlZEdVladXNaTm1WdVpjYjVkbENlS2IwQzVSd3A1VzJRYlpLellqRmhXVmhaaUFUekpVb0o5RlpsUlFXTmpEZkwwR2o1UU9aUVRWaTJvb2d5bjIwR2FObnhOYl9XTjFZcTk5YUtuQQ?oc=5",
-      "published": "Tue, 14 Jul 2026 11:28:45 GMT",
-      "published_iso": "2026-07-14T11:28:45+00:00",
-      "source": "Google News - Audio Wearable Watch",
+      "title": "Skullcandy Crusher 1080 review: Haptic bass meets whisper-quiet ANC",
+      "summary": "Skullcandy's new flagship Crusher 1080 headphones blend Bose audio and big bass.",
+      "url": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
+      "published": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "published_iso": "2026-07-16T00:00:00+00:00",
+      "source": "Engadget",
       "bucket": "consumer_electronics",
-      "hours_since_published": 35.6,
-      "freshness_label": "近3天",
+      "hours_since_published": 0.1,
+      "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
-          "Shokz"
+          "Bose"
         ],
         "channels": [],
         "categories": [
-          "headphone",
-          "UAV"
+          "headphone"
         ]
       },
-      "_score": 290,
-      "display_title": "Searching for bargain running...",
+      "_score": 315,
+      "display_title": "Skullcandy Crusher 1080 review: Haptic...",
       "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🚁 无人机影像"
+        "🎧 耳机音频"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Shokz OpenRun Pro耳机在电商平台的低价促销将吸引大量消费者关注。",
-      "suggested_action": "加强品牌营销，利用促销机会提升Shokz的市场份额。"
+      "business_note": "Skullcandy Crusher 1080耳机结合了Bose音质与强劲低音，具有市场竞争力。",
+      "suggested_action": "加强品牌营销，突出其音质与低音优势，吸引目标消费者。"
     }
   ],
   "consumer_electronics": [
     {
+      "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+      "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in ",
+      "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+      "published": "2026-07-15T20:00:00-04:00",
+      "published_iso": "2026-07-16T00:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 0.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 345,
+      "display_title": "Skullcandy’s bass-boosting Crusher...",
+      "tags": [
+        "🎧 耳机音频",
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Skullcandy与Bose合作推出新耳机，提升品牌竞争力。",
+      "suggested_action": "加大电商推广力度，突出新技术优势，吸引消费者关注。"
+    },
+    {
+      "title": "Skullcandy Crusher 1080 review: Haptic bass meets whisper-quiet ANC",
+      "summary": "Skullcandy's new flagship Crusher 1080 headphones blend Bose audio and big bass.",
+      "url": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
+      "published": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "published_iso": "2026-07-16T00:00:00+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 0.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 315,
+      "display_title": "Skullcandy Crusher 1080 review: Haptic...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Skullcandy Crusher 1080耳机结合了Bose音质与强劲低音，具有市场竞争力。",
+      "suggested_action": "加强品牌营销，突出其音质与低音优势，吸引目标消费者。"
+    },
+    {
       "title": "Searching for bargain running headphones? I recommend the 4.5-star Shokz OpenRun Pro at this record-low price - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDNNbGR3M1ZTTW5BSGtuaVRINmV2X0hOXzV3Z2NZcTJld1d3V3g0LUktckpZRW9OTHhYLTRaX0hPaUxJeUJzaGVRWG5iOVA5NU9HaW03QnlFS21QMVVDa01hUEJTbE43ZlZEdVladXNaTm1WdVpjYjVkbENlS2IwQzVSd3A1VzJRYlpLellqRmhXVmhaaUFUekpVb0o5RlpsUlFXTmpEZkwwR2o1UU9aUVRWaTJvb2d5bjIwR2FObnhOYl9XTjFZcT",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDNNbGR3M1ZTTW5BSGtuaVRINmV2X0hOXzV3Z2NZcTJld1d3V3g0LUktckpZRW9OTHhYLTRaX0hPaUxJeUJzaGVRWG5iOVA5NU9HaW03QnlFS21QMVVDa01hUEJTbE43ZlZEdVladXNaTm1WdVpjYjVkbENlS2IwQzVSd3A1VzJRYlpLellqRmhXVmhaaUFUekpVb0o5RlpsUlFXTmpEZkwwR2o1UU9aUVRWaTJvb2d5bjIwR2FObnhOYl9XTjFZcTk5YUtuQQ?oc=5",
@@ -836,7 +893,7 @@
       "published_iso": "2026-07-14T11:28:45+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 35.6,
+      "hours_since_published": 36.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -858,7 +915,7 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "Shokz OpenRun Pro耳机在电商平台的低价促销将吸引大量消费者关注。",
-      "suggested_action": "加强品牌营销，利用促销机会提升Shokz的市场份额。"
+      "suggested_action": "加强品牌营销，利用促销信息提升Shokz的市场曝光率。"
     },
     {
       "title": "These Bose Ultra Open Earbuds Are $100 Off Right Now - Lifehacker",
@@ -868,7 +925,7 @@
       "published_iso": "2026-07-13T19:30:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 51.6,
+      "hours_since_published": 52.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -888,8 +945,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Bose耳塞降价100美元，提升品牌曝光和销售机会。",
-      "suggested_action": "加大电商推广力度，吸引更多消费者关注Bose耳塞。"
+      "business_note": "Bose耳机降价100美元，吸引消费者关注，提升品牌销量。",
+      "suggested_action": "利用降价信息加强电商平台的推广，提升品牌曝光。"
     },
     {
       "title": "Shokz OpenRun headphones just dropped to their best price in months - Trusted Reviews",
@@ -899,7 +956,7 @@
       "published_iso": "2026-07-14T14:51:22+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 32.3,
+      "hours_since_published": 33.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -919,8 +976,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Shokz OpenRun耳机降价，提升品牌竞争力，吸引更多消费者关注。",
-      "suggested_action": "加大电商推广力度，利用社交媒体宣传降价信息，刺激购买欲望。"
+      "business_note": "Shokz OpenRun耳机降价，提升品牌曝光和销售机会。",
+      "suggested_action": "利用电商平台加大促销力度，吸引更多消费者关注。"
     },
     {
       "title": "Hear It All for Less With These Shokz OpenRun Headphones at Their Lowest Price Yet - CNET",
@@ -930,7 +987,7 @@
       "published_iso": "2026-07-13T12:52:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 58.3,
+      "hours_since_published": 59.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -950,65 +1007,8 @@
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Shokz OpenRun耳机降价，有助于提升品牌知名度和销量。",
-      "suggested_action": "加大电商推广力度，利用社交媒体进行品牌营销。"
-    },
-    {
-      "title": "These new bone conduction headphones are 'designed for the world outside the screen' — and come with AI and a 4K camera - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN2RUM005SVM3MUpCWGlHSWtZQ29SZnVhbThpbHJLWmFZR29FMkhtSkZTUXl3ZktONzdrdEN4d1p6SUhnb1FtUmR4cS1udWZyVVZTVmc0b25qWDA2eWZKbk5teHlxUjBON3VnNFRYbTFVTGlrRjU2M184YUZ6YUVjZVNpekdra0Y5MFUxUDRjNnBjbHJtSFRBVFVJUjNkanE2cUo1dU5HNlRTWTZQRzc5eDZwZXp4TDJSQm1iOTVwLW85ZEdjNkRsMH",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN2RUM005SVM3MUpCWGlHSWtZQ29SZnVhbThpbHJLWmFZR29FMkhtSkZTUXl3ZktONzdrdEN4d1p6SUhnb1FtUmR4cS1udWZyVVZTVmc0b25qWDA2eWZKbk5teHlxUjBON3VnNFRYbTFVTGlrRjU2M184YUZ6YUVjZVNpekdra0Y5MFUxUDRjNnBjbHJtSFRBVFVJUjNkanE2cUo1dU5HNlRTWTZQRzc5eDZwZXp4TDJSQm1iOTVwLW85ZEdjNkRsMHBhd2NVNk5iSzBMUFI3T0VhRElsM3A4WDJtNkNhbmRTMWVYMFN3TFZ4NUFIdm50TUVQT1k?oc=5",
-      "published": "Tue, 14 Jul 2026 12:57:43 GMT",
-      "published_iso": "2026-07-14T12:57:43+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 34.2,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 226,
-      "display_title": "These new bone conduction headphones...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🚁 无人机影像"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "新款骨传导耳机结合AI与4K摄像头，适合户外使用，市场潜力大。",
-      "suggested_action": "加强电商平台推广，利用品牌营销提升产品认知度。"
-    },
-    {
-      "title": "European Commission will not force smartwatches and other wearables to have replaceable batteries",
-      "summary": "The EU adopted regulation in 2023 that requires many electronics to have replaceable batteries by 2027.",
-      "url": "https://www.engadget.com/2216075/european-commission-will-not-force-smartwatches-and-other-wearables-to-have-replaceable-batteries/",
-      "published": "Wed, 15 Jul 2026 20:10:57 +0000",
-      "published_iso": "2026-07-15T20:10:57+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 2.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "wearable"
-        ]
-      },
-      "_score": 203,
-      "display_title": "European Commission will not force...",
-      "tags": [
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "欧盟新规将影响可穿戴设备的市场竞争，需提前布局应对。",
-      "suggested_action": "加强品牌营销，突出产品的可持续性和创新性。"
+      "business_note": "Shokz OpenRun耳机降价，提升品牌曝光和销售机会。",
+      "suggested_action": "加大电商平台推广力度，吸引更多消费者关注。"
     }
   ],
   "channel_news": [
@@ -1020,7 +1020,7 @@
       "published_iso": "2026-07-14T16:17:33+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 30.8,
+      "hours_since_published": 31.8,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1038,8 +1038,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart和Amazon在市场份额上取得重大里程碑，影响电商竞争格局。",
-      "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售渠道。"
+      "business_note": "Walmart和Amazon在市场份额上达成重要里程碑，影响电商竞争格局。",
+      "suggested_action": "加强与Amazon和Walmart的合作，提升品牌曝光和销售渠道。"
     },
     {
       "title": "Walmart has hefty lead over Amazon in online grocery ordering: report - Supermarket News",
@@ -1049,7 +1049,7 @@
       "published_iso": "2026-07-09T17:19:26+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 149.8,
+      "hours_since_published": 150.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1068,8 +1068,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart在在线杂货订单方面领先Amazon，需关注电商竞争格局。",
-      "suggested_action": "加强电商平台的品牌营销，提升用户粘性。"
+      "business_note": "Walmart在在线杂货订单方面领先Amazon，影响电商市场格局。",
+      "suggested_action": "加强电商平台的竞争策略，提升用户体验和服务质量。"
     },
     {
       "title": "Best Buy revamps C-suite ahead of CEO change - Retail Dive",
@@ -1079,7 +1079,7 @@
       "published_iso": "2026-07-15T15:38:06+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 7.5,
+      "hours_since_published": 8.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1096,8 +1096,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy 高层重组可能影响电商战略，需关注其后续发展。",
-      "suggested_action": "建议加强与 Best Buy 的沟通，调整电商策略以适应变化。"
+      "business_note": "Best Buy高管更换可能影响电商战略，需关注其后续动向。",
+      "suggested_action": "建议密切监测Best Buy电商策略变化，及时调整我们的市场应对方案。"
     },
     {
       "title": "This Grocery Store Just Passed ALDI And Walmart For The Best Savings - Southern Living",
@@ -1107,7 +1107,7 @@
       "published_iso": "2026-07-14T15:54:23+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 31.2,
+      "hours_since_published": 32.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1125,7 +1125,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "该超市在价格竞争中超越ALDI和Walmart，显示出强大的市场吸引力。",
-      "suggested_action": "加强电商平台的价格策略，提升品牌竞争力。"
+      "suggested_action": "建议加强电商平台的价格策略，以吸引更多消费者。"
     },
     {
       "title": "Walmart and TJX are the best discount retail stocks, says Jim Cramer - CNBC",
@@ -1135,7 +1135,7 @@
       "published_iso": "2026-07-14T00:05:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 47.0,
+      "hours_since_published": 48.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1154,7 +1154,7 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Walmart作为折扣零售巨头，电商销售潜力巨大，需加强品牌曝光。",
-      "suggested_action": "建议加大在Walmart平台的广告投放，提升产品可见度。"
+      "suggested_action": "建议加大在Walmart平台的营销投入，提升产品可见度。"
     },
     {
       "title": "Caraway debuts cookware in over 500 Walmart stores",
@@ -1164,7 +1164,7 @@
       "published_iso": "2026-07-14T15:44:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 31.4,
+      "hours_since_published": 32.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1182,11 +1182,43 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Caraway在500多家Walmart门店推出炊具，提升品牌曝光与销售机会。",
-      "suggested_action": "加强与Walmart的合作，优化电商渠道营销策略。"
+      "business_note": "Caraway在500多家沃尔玛门店推出炊具，提升品牌曝光和销售潜力。",
+      "suggested_action": "加强与沃尔玛的合作，优化电商渠道的产品推广策略。"
     }
   ],
   "products": [
+    {
+      "name": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+      "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition throu",
+      "date": "2026-07-15T20:00:00-04:00",
+      "published_iso": "2026-07-16T00:00:00+00:00",
+      "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+      "source": "The Verge",
+      "_score": 95,
+      "hours_since_published": 0.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "display_title": "Skullcandy’s bass-boosting Crusher...",
+      "display_summary": "Skullcandy发布新款Crusher无线耳机，采用Bose的QuietControl ",
+      "tags": [
+        "🎧 耳机音频",
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "新品发布",
+      "product_intro": "Skullcandy发布新款Crusher无线耳机，采用Bose的Quie。",
+      "importance": "高",
+      "business_note": "Skullcandy推出新款耳机，结合Bose音频技术，提升品牌竞争力。",
+      "suggested_action": "加强品牌营销，突出新技术优势，吸引目标消费者。"
+    },
     {
       "name": "These Bose Ultra Open Earbuds Are $100 Off Right Now - Lifehacker",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNXI5VWQ3LTZoakxCQlJ1djdJQ1B5YmRfRFlJcmg5WGJ1c1MtanhpYlByVG1yTHVpSVZ3OThwd01pVHFVZXR5c1NvcEh3dHhaWUVFS0dmRHpTMXYzVlFVRXZMbFAyS1JrRjJ5U3F6bnNZdklT?oc=5\" target=\"_blank\">These Bose Ultra Open Earbuds A",
@@ -1195,7 +1227,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNXI5VWQ3LTZoakxCQlJ1djdJQ1B5YmRfRFlJcmg5WGJ1c1MtanhpYlByVG1yTHVpSVZ3OThwd01pVHFVZXR5c1NvcEh3dHhaWUVFS0dmRHpTMXYzVlFVRXZMbFAyS1JrRjJ5U3F6bnNZdklT?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 90,
-      "hours_since_published": 51.6,
+      "hours_since_published": 52.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1208,7 +1240,7 @@
         ]
       },
       "display_title": "These Bose Ultra Open Earbuds Are $100...",
-      "display_summary": "Bose推出Ultra Open Earbuds A，专注于开放式设计，提升用户音质体验，适",
+      "display_summary": "Bose推出Ultra Open Earbuds A，具备开放式设计，提升音质与舒适度，适合",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
@@ -1217,8 +1249,8 @@
       "judgement_label": "竞品观察",
       "product_intro": "Bose推出Ultra Open Earbuds。",
       "importance": "高",
-      "business_note": "Bose耳机降价促销，有助于提升品牌知名度和销量。",
-      "suggested_action": "利用电商平台加大宣传，吸引更多消费者关注。"
+      "business_note": "Bose耳机降价100美元，提升品牌曝光和销售机会。",
+      "suggested_action": "加大电商推广力度，吸引消费者关注和购买。"
     },
     {
       "name": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
@@ -1228,7 +1260,7 @@
       "url": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 0.3,
+      "hours_since_published": 1.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1238,17 +1270,17 @@
         "categories": []
       },
       "display_title": "HP&#8217;s OLED-equipped 2-in-1 laptop...",
-      "display_summary": "Best Buy推出HP OmniBook X Flip 2合1笔记本，现价999.99美元",
+      "display_summary": "Best Buy现售HP OmniBook X Flip 2合1笔记本，特价999.99美元",
       "tags": [
         "🏬 平台电商",
         "💰 价格促销"
       ],
       "impact_area": "电商",
       "judgement_label": "价格促销",
-      "product_intro": "Best Buy推出HP OmniBook X Flip。",
+      "product_intro": "Best Buy现售HP OmniBook X Flip。",
       "importance": "高",
-      "business_note": "HP的2合1笔记本电脑在开学季提供了极具吸引力的折扣，有助于提升电商销售。",
-      "suggested_action": "加强与Best Buy的合作，推广该产品以吸引更多消费者。"
+      "business_note": "HP的2合1笔记本在开学季提供了极具吸引力的折扣，适合电商推广。",
+      "suggested_action": "利用此促销机会加强电商平台的广告宣传，吸引更多消费者。"
     },
     {
       "name": "Brendan Carr plans to let broadcast giants dominate the airwaves",
@@ -1258,7 +1290,7 @@
       "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 1.6,
+      "hours_since_published": 2.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1268,17 +1300,17 @@
         "categories": []
       },
       "display_title": "Brendan Carr plans to let broadcast...",
-      "display_summary": "美国联邦通信委员会将于下月投票决定是否允许单一公司拥有覆盖超过39%美国家庭的广播电台。",
+      "display_summary": "联邦通信委员会将于下月投票决定单一公司是否可拥有覆盖超过39%美国家庭的广播电台。",
       "tags": [
         "🛒 渠道零售",
         "🚀 新品发布"
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "美国联邦通信委员会将于下月投票决定是否允许单一公司拥有覆盖超过39%美国家。",
+      "product_intro": "联邦通信委员会将于下月投票决定单一公司是否可拥有覆盖超过39%美国家庭的广播电台。",
       "importance": "高",
-      "business_note": "FCC的投票可能影响电商广告投放策略，需密切关注政策变化。",
-      "suggested_action": "建议团队提前制定应对方案，调整电商营销策略。"
+      "business_note": "FCC的投票可能影响电商平台的广告投放策略，需密切关注政策变化。",
+      "suggested_action": "建议团队提前制定应对方案，以优化广告投放和品牌曝光。"
     },
     {
       "name": "These new bone conduction headphones are 'designed for the world outside the screen' — and come with AI and a 4K camera - TechRadar",
@@ -1288,7 +1320,7 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN2RUM005SVM3MUpCWGlHSWtZQ29SZnVhbThpbHJLWmFZR29FMkhtSkZTUXl3ZktONzdrdEN4d1p6SUhnb1FtUmR4cS1udWZyVVZTVmc0b25qWDA2eWZKbk5teHlxUjBON3VnNFRYbTFVTGlrRjU2M184YUZ6YUVjZVNpekdra0Y5MFUxUDRjNnBjbHJtSFRBVFVJUjNkanE2cUo1dU5HNlRTWTZQRzc5eDZwZXp4TDJSQm1iOTVwLW85ZEdjNkRsMHBhd2NVNk5iSzBMUFI3T0VhRElsM3A4WDJtNkNhbmRTMWVYMFN3TFZ4NUFIdm50TUVQT1k?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 56,
-      "hours_since_published": 34.2,
+      "hours_since_published": 35.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1299,7 +1331,7 @@
         ]
       },
       "display_title": "These new bone conduction headphones...",
-      "display_summary": "某科技公司发布新款智能设备，提升用户体验，预计将推动销售增长。",
+      "display_summary": "某消费电子公司发布新产品，聚焦智能家居市场，预计将提升市场份额和用户体验。",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴",
@@ -1307,10 +1339,10 @@
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
-      "product_intro": "某科技公司发布新款智能设备，提升用户体验，预计将推动销售增长。",
-      "importance": "中",
+      "product_intro": "某消费电子公司发布新产品，聚焦智能家居市场，预计将提升市场份额和用户体验。",
+      "importance": "高",
       "business_note": "新款骨传导耳机结合AI与4K摄像头，适合户外使用，具备市场潜力。",
-      "suggested_action": "加强电商平台推广，突出其户外使用优势，吸引目标用户。"
+      "suggested_action": "加强电商平台推广，利用品牌营销提升产品认知度。"
     },
     {
       "name": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
@@ -1320,7 +1352,7 @@
       "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.5,
+      "hours_since_published": 1.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1328,7 +1360,7 @@
         "categories": []
       },
       "display_title": "Apple’s reportedly raising the price...",
-      "display_summary": "苹果Mac和iPad的AppleCare Plus订阅费用将上涨，新用户每月增加0.50美元",
+      "display_summary": "苹果Mac和iPad的AppleCare Plus订阅费用将上涨，每月增加0.50美元或每年",
       "tags": [
         "💰 价格促销"
       ],
@@ -1336,42 +1368,81 @@
       "judgement_label": "竞品观察",
       "product_intro": "苹果Mac和iPad的AppleCare。",
       "importance": "中",
-      "business_note": "AppleCare Plus提价可能影响消费者购买决策，需关注品牌形象。",
-      "suggested_action": "加强品牌营销，突出AppleCare Plus的价值，提升消费者认知。"
-    },
-    {
-      "name": "Valve says iFixit will keep selling Steam Deck batteries after all",
-      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixi",
-      "date": "2026-07-15T18:16:46-04:00",
-      "published_iso": "2026-07-15T22:16:46+00:00",
-      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
-      "source": "The Verge",
-      "_score": 43,
-      "hours_since_published": 0.8,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "Valve says iFixit will keep selling...",
-      "display_summary": "Valve停止Steam Deck LCD手持设备电池供应，令需要维修的客户感到意外，无法通",
-      "tags": [
-        "🚀 新品"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "业务观察",
-      "product_intro": "Valve停止Steam Deck。",
-      "importance": "中",
-      "business_note": "Valve继续支持Steam Deck电池销售，有助于提升品牌形象和客户满意度。",
-      "suggested_action": "加强与iFixit的合作，推广Steam Deck维修服务，提升用户体验。"
+      "business_note": "AppleCare Plus提价将影响消费者购买决策，需加强品牌营销以提升用户认知。",
+      "suggested_action": "针对AppleCare Plus提价，推出促销活动吸引新用户，增强品牌忠诚度。"
     }
   ],
   "monitored_entities": [
     {
+      "name": "headphone",
+      "type": "品类",
+      "count": 9,
+      "items": [
+        {
+          "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+          "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in ",
+          "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+          "published": "2026-07-15T20:00:00-04:00",
+          "published_iso": "2026-07-16T00:00:00+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 0.1,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 345,
+          "display_title": "Skullcandy’s bass-boosting Crusher...",
+          "tags": [
+            "🎧 耳机音频",
+            "🚀 新品发布"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Skullcandy与Bose合作推出新耳机，提升品牌竞争力。",
+          "suggested_action": "加大电商推广力度，突出新技术优势，吸引消费者关注。"
+        },
+        {
+          "title": "Skullcandy Crusher 1080 review: Haptic bass meets whisper-quiet ANC",
+          "summary": "Skullcandy's new flagship Crusher 1080 headphones blend Bose audio and big bass.",
+          "url": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
+          "published": "Thu, 16 Jul 2026 00:00:00 +0000",
+          "published_iso": "2026-07-16T00:00:00+00:00",
+          "source": "Engadget",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 0.1,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 315,
+          "display_title": "Skullcandy Crusher 1080 review: Haptic...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Skullcandy Crusher 1080耳机结合了Bose音质与强劲低音，具有市场竞争力。",
+          "suggested_action": "加强品牌营销，突出其音质与低音优势，吸引目标消费者。"
+        }
+      ]
+    },
+    {
       "name": "Walmart",
       "type": "渠道",
-      "count": 7,
+      "count": 6,
       "items": [
         {
           "title": "Coresight: Walmart, Amazon cross major market-share milestone - Chain Store Age",
@@ -1381,7 +1452,7 @@
           "published_iso": "2026-07-14T16:17:33+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 30.8,
+          "hours_since_published": 31.8,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1399,8 +1470,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Walmart和Amazon在市场份额上取得重大里程碑，影响电商竞争格局。",
-          "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售渠道。"
+          "business_note": "Walmart和Amazon在市场份额上达成重要里程碑，影响电商竞争格局。",
+          "suggested_action": "加强与Amazon和Walmart的合作，提升品牌曝光和销售渠道。"
         },
         {
           "title": "Walmart has hefty lead over Amazon in online grocery ordering: report - Supermarket News",
@@ -1410,7 +1481,7 @@
           "published_iso": "2026-07-09T17:19:26+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 149.8,
+          "hours_since_published": 150.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1429,144 +1500,74 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Walmart在在线杂货订单方面领先Amazon，需关注电商竞争格局。",
-          "suggested_action": "加强电商平台的品牌营销，提升用户粘性。"
+          "business_note": "Walmart在在线杂货订单方面领先Amazon，影响电商市场格局。",
+          "suggested_action": "加强电商平台的竞争策略，提升用户体验和服务质量。"
         }
       ]
     },
     {
-      "name": "headphone",
-      "type": "品类",
-      "count": 6,
+      "name": "Bose",
+      "type": "品牌",
+      "count": 5,
       "items": [
         {
-          "title": "Searching for bargain running headphones? I recommend the 4.5-star Shokz OpenRun Pro at this record-low price - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDNNbGR3M1ZTTW5BSGtuaVRINmV2X0hOXzV3Z2NZcTJld1d3V3g0LUktckpZRW9OTHhYLTRaX0hPaUxJeUJzaGVRWG5iOVA5NU9HaW03QnlFS21QMVVDa01hUEJTbE43ZlZEdVladXNaTm1WdVpjYjVkbENlS2IwQzVSd3A1VzJRYlpLellqRmhXVmhaaUFUekpVb0o5RlpsUlFXTmpEZkwwR2o1UU9aUVRWaTJvb2d5bjIwR2FObnhOYl9XTjFZcT",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDNNbGR3M1ZTTW5BSGtuaVRINmV2X0hOXzV3Z2NZcTJld1d3V3g0LUktckpZRW9OTHhYLTRaX0hPaUxJeUJzaGVRWG5iOVA5NU9HaW03QnlFS21QMVVDa01hUEJTbE43ZlZEdVladXNaTm1WdVpjYjVkbENlS2IwQzVSd3A1VzJRYlpLellqRmhXVmhaaUFUekpVb0o5RlpsUlFXTmpEZkwwR2o1UU9aUVRWaTJvb2d5bjIwR2FObnhOYl9XTjFZcTk5YUtuQQ?oc=5",
-          "published": "Tue, 14 Jul 2026 11:28:45 GMT",
-          "published_iso": "2026-07-14T11:28:45+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+          "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in ",
+          "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+          "published": "2026-07-15T20:00:00-04:00",
+          "published_iso": "2026-07-16T00:00:00+00:00",
+          "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 35.6,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone",
-              "UAV"
-            ]
-          },
-          "_score": 290,
-          "display_title": "Searching for bargain running...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🚁 无人机影像"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz OpenRun Pro耳机在电商平台的低价促销将吸引大量消费者关注。",
-          "suggested_action": "加强品牌营销，利用促销机会提升Shokz的市场份额。"
-        },
-        {
-          "title": "Shokz OpenRun headphones just dropped to their best price in months - Trusted Reviews",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3ppM24xLUM0YzBzczlXbnRIa2s4Q3EwTjRrRU5xN3U4TDZiMzZ6R2swQURzWmF6WGo5VnRaVlFWWVA0TDJrd0NNb1lWcGZfZW5JOXl0S25GWDByczBYdnFaaURVWWxHZHZPRzlWNnBtbTkxYnBubHhnWWZPNlNZRHdKSEFSVVpib1JFUlJ2OEF3eENZU3dKcUtOLVBDVmFVMXNnRUpwTQ?oc=5\" target=\"_blank\">Shokz OpenRun headpho",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3ppM24xLUM0YzBzczlXbnRIa2s4Q3EwTjRrRU5xN3U4TDZiMzZ6R2swQURzWmF6WGo5VnRaVlFWWVA0TDJrd0NNb1lWcGZfZW5JOXl0S25GWDByczBYdnFaaURVWWxHZHZPRzlWNnBtbTkxYnBubHhnWWZPNlNZRHdKSEFSVVpib1JFUlJ2OEF3eENZU3dKcUtOLVBDVmFVMXNnRUpwTQ?oc=5",
-          "published": "Tue, 14 Jul 2026 14:51:22 GMT",
-          "published_iso": "2026-07-14T14:51:22+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 32.3,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 260,
-          "display_title": "Shokz OpenRun headphones just dropped...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "💰 价格促销"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz OpenRun耳机降价，提升品牌竞争力，吸引更多消费者关注。",
-          "suggested_action": "加大电商推广力度，利用社交媒体宣传降价信息，刺激购买欲望。"
-        }
-      ]
-    },
-    {
-      "name": "earbuds",
-      "type": "品类",
-      "count": 4,
-      "items": [
-        {
-          "title": "These Bose Ultra Open Earbuds Are $100 Off Right Now - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNXI5VWQ3LTZoakxCQlJ1djdJQ1B5YmRfRFlJcmg5WGJ1c1MtanhpYlByVG1yTHVpSVZ3OThwd01pVHFVZXR5c1NvcEh3dHhaWUVFS0dmRHpTMXYzVlFVRXZMbFAyS1JrRjJ5U3F6bnNZdklT?oc=5\" target=\"_blank\">These Bose Ultra Open Earbuds Are $100 Off Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNXI5VWQ3LTZoakxCQlJ1djdJQ1B5YmRfRFlJcmg5WGJ1c1MtanhpYlByVG1yTHVpSVZ3OThwd01pVHFVZXR5c1NvcEh3dHhaWUVFS0dmRHpTMXYzVlFVRXZMbFAyS1JrRjJ5U3F6bnNZdklT?oc=5",
-          "published": "Mon, 13 Jul 2026 19:30:00 GMT",
-          "published_iso": "2026-07-13T19:30:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 51.6,
-          "freshness_label": "近3天",
+          "hours_since_published": 0.1,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
               "Bose"
             ],
             "channels": [],
             "categories": [
-              "open-ear",
-              "earbuds"
+              "headphone"
             ]
           },
-          "_score": 260,
-          "display_title": "These Bose Ultra Open Earbuds Are $100...",
+          "_score": 345,
+          "display_title": "Skullcandy’s bass-boosting Crusher...",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🚀 新品发布"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Bose耳塞降价100美元，提升品牌曝光和销售机会。",
-          "suggested_action": "加大电商推广力度，吸引更多消费者关注Bose耳塞。"
+          "business_note": "Skullcandy与Bose合作推出新耳机，提升品牌竞争力。",
+          "suggested_action": "加大电商推广力度，突出新技术优势，吸引消费者关注。"
         },
         {
-          "title": "Walmart has Bluetooth earbuds with 88-hour playback time for only $22 - thestreet.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMm9BV3BuWndvUFh3V201OTgwUTYtSk9JYlYyX0NQSmVpRjJ0TndmOGVwTE81TTBaS25JeEk2SG9pNVlxSDM5UjBNLVp5YjBPRXlUVUVEanJ6WC1qaVRHd2J1Tmx2bGZJNzMxaE43X0ZMdmhBZ3p0eS11SVBZLTZ0bmlPZWZqUGZXejJ1c25zS3FCbVhLT1lQeDBhamlKS0d1SVpZMF9mZw?oc=5\" target=\"_blank\">Walmart has Bluetooth",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMm9BV3BuWndvUFh3V201OTgwUTYtSk9JYlYyX0NQSmVpRjJ0TndmOGVwTE81TTBaS25JeEk2SG9pNVlxSDM5UjBNLVp5YjBPRXlUVUVEanJ6WC1qaVRHd2J1Tmx2bGZJNzMxaE43X0ZMdmhBZ3p0eS11SVBZLTZ0bmlPZWZqUGZXejJ1c25zS3FCbVhLT1lQeDBhamlKS0d1SVpZMF9mZw?oc=5",
-          "published": "Tue, 14 Jul 2026 04:15:00 GMT",
-          "published_iso": "2026-07-14T04:15:00+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 42.9,
-          "freshness_label": "近3天",
+          "title": "Skullcandy Crusher 1080 review: Haptic bass meets whisper-quiet ANC",
+          "summary": "Skullcandy's new flagship Crusher 1080 headphones blend Bose audio and big bass.",
+          "url": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
+          "published": "Thu, 16 Jul 2026 00:00:00 +0000",
+          "published_iso": "2026-07-16T00:00:00+00:00",
+          "source": "Engadget",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 0.1,
+          "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart"
+            "brands": [
+              "Bose"
             ],
+            "channels": [],
             "categories": [
-              "earbuds"
+              "headphone"
             ]
           },
-          "_score": 235,
-          "display_title": "Walmart has Bluetooth earbuds with...",
+          "_score": 315,
+          "display_title": "Skullcandy Crusher 1080 review: Haptic...",
           "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
+            "🎧 耳机音频"
           ],
-          "impact_area": "电商"
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Skullcandy Crusher 1080耳机结合了Bose音质与强劲低音，具有市场竞争力。",
+          "suggested_action": "加强品牌营销，突出其音质与低音优势，吸引目标消费者。"
         }
       ]
     },
@@ -1583,7 +1584,7 @@
           "published_iso": "2026-07-15T15:38:06+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 7.5,
+          "hours_since_published": 8.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1600,8 +1601,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Best Buy 高层重组可能影响电商战略，需关注其后续发展。",
-          "suggested_action": "建议加强与 Best Buy 的沟通，调整电商策略以适应变化。"
+          "business_note": "Best Buy高管更换可能影响电商战略，需关注其后续动向。",
+          "suggested_action": "建议密切监测Best Buy电商策略变化，及时调整我们的市场应对方案。"
         },
         {
           "title": "Best Buy announces Executive Team updates - Best Buy Corporate",
@@ -1611,7 +1612,7 @@
           "published_iso": "2026-07-14T20:49:24+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 26.3,
+          "hours_since_published": 27.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1644,7 +1645,7 @@
           "published_iso": "2026-07-14T11:28:45+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 35.6,
+          "hours_since_published": 36.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1666,7 +1667,7 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "Shokz OpenRun Pro耳机在电商平台的低价促销将吸引大量消费者关注。",
-          "suggested_action": "加强品牌营销，利用促销机会提升Shokz的市场份额。"
+          "suggested_action": "加强品牌营销，利用促销信息提升Shokz的市场曝光率。"
         },
         {
           "title": "Shokz OpenRun headphones just dropped to their best price in months - Trusted Reviews",
@@ -1676,7 +1677,7 @@
           "published_iso": "2026-07-14T14:51:22+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 32.3,
+          "hours_since_published": 33.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1696,8 +1697,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz OpenRun耳机降价，提升品牌竞争力，吸引更多消费者关注。",
-          "suggested_action": "加大电商推广力度，利用社交媒体宣传降价信息，刺激购买欲望。"
+          "business_note": "Shokz OpenRun耳机降价，提升品牌曝光和销售机会。",
+          "suggested_action": "利用电商平台加大促销力度，吸引更多消费者关注。"
         }
       ]
     },
@@ -1714,7 +1715,7 @@
           "published_iso": "2026-07-15T21:30:17+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 1.6,
+          "hours_since_published": 2.6,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1739,7 +1740,7 @@
           "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
           "source": "The Verge",
           "_score": 75,
-          "hours_since_published": 1.6,
+          "hours_since_published": 2.6,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1749,17 +1750,17 @@
             "categories": []
           },
           "display_title": "Brendan Carr plans to let broadcast...",
-          "display_summary": "美国联邦通信委员会将于下月投票决定是否允许单一公司拥有覆盖超过39%美国家庭的广播电台。",
+          "display_summary": "联邦通信委员会将于下月投票决定单一公司是否可拥有覆盖超过39%美国家庭的广播电台。",
           "tags": [
             "🛒 渠道零售",
             "🚀 新品发布"
           ],
           "impact_area": "电商",
           "judgement_label": "渠道动态",
-          "product_intro": "美国联邦通信委员会将于下月投票决定是否允许单一公司拥有覆盖超过39%美国家。",
+          "product_intro": "联邦通信委员会将于下月投票决定单一公司是否可拥有覆盖超过39%美国家庭的广播电台。",
           "importance": "高",
-          "business_note": "FCC的投票可能影响电商广告投放策略，需密切关注政策变化。",
-          "suggested_action": "建议团队提前制定应对方案，调整电商营销策略。"
+          "business_note": "FCC的投票可能影响电商平台的广告投放策略，需密切关注政策变化。",
+          "suggested_action": "建议团队提前制定应对方案，以优化广告投放和品牌曝光。"
         }
       ]
     },
@@ -1776,7 +1777,7 @@
           "published_iso": "2026-07-14T16:17:33+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 30.8,
+          "hours_since_published": 31.8,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1794,8 +1795,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Walmart和Amazon在市场份额上取得重大里程碑，影响电商竞争格局。",
-          "suggested_action": "加强与Walmart和Amazon的合作，提升品牌曝光和销售渠道。"
+          "business_note": "Walmart和Amazon在市场份额上达成重要里程碑，影响电商竞争格局。",
+          "suggested_action": "加强与Amazon和Walmart的合作，提升品牌曝光和销售渠道。"
         },
         {
           "title": "Walmart has hefty lead over Amazon in online grocery ordering: report - Supermarket News",
@@ -1805,7 +1806,7 @@
           "published_iso": "2026-07-09T17:19:26+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 149.8,
+          "hours_since_published": 150.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1824,14 +1825,14 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Walmart在在线杂货订单方面领先Amazon，需关注电商竞争格局。",
-          "suggested_action": "加强电商平台的品牌营销，提升用户粘性。"
+          "business_note": "Walmart在在线杂货订单方面领先Amazon，影响电商市场格局。",
+          "suggested_action": "加强电商平台的竞争策略，提升用户体验和服务质量。"
         }
       ]
     },
     {
-      "name": "Bose",
-      "type": "品牌",
+      "name": "open-ear",
+      "type": "品类",
       "count": 2,
       "items": [
         {
@@ -1842,7 +1843,7 @@
           "published_iso": "2026-07-13T19:30:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 51.6,
+          "hours_since_published": 52.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1862,8 +1863,8 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Bose耳塞降价100美元，提升品牌曝光和销售机会。",
-          "suggested_action": "加大电商推广力度，吸引更多消费者关注Bose耳塞。"
+          "business_note": "Bose耳机降价100美元，吸引消费者关注，提升品牌销量。",
+          "suggested_action": "利用降价信息加强电商平台的推广，提升品牌曝光。"
         },
         {
           "name": "These Bose Ultra Open Earbuds Are $100 Off Right Now - Lifehacker",
@@ -1873,7 +1874,7 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNXI5VWQ3LTZoakxCQlJ1djdJQ1B5YmRfRFlJcmg5WGJ1c1MtanhpYlByVG1yTHVpSVZ3OThwd01pVHFVZXR5c1NvcEh3dHhaWUVFS0dmRHpTMXYzVlFVRXZMbFAyS1JrRjJ5U3F6bnNZdklT?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 90,
-          "hours_since_published": 51.6,
+          "hours_since_published": 52.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1886,7 +1887,7 @@
             ]
           },
           "display_title": "These Bose Ultra Open Earbuds Are $100...",
-          "display_summary": "Bose推出Ultra Open Earbuds A，专注于开放式设计，提升用户音质体验，适",
+          "display_summary": "Bose推出Ultra Open Earbuds A，具备开放式设计，提升音质与舒适度，适合",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
@@ -1895,28 +1896,28 @@
           "judgement_label": "竞品观察",
           "product_intro": "Bose推出Ultra Open Earbuds。",
           "importance": "高",
-          "business_note": "Bose耳机降价促销，有助于提升品牌知名度和销量。",
-          "suggested_action": "利用电商平台加大宣传，吸引更多消费者关注。"
+          "business_note": "Bose耳机降价100美元，提升品牌曝光和销售机会。",
+          "suggested_action": "加大电商推广力度，吸引消费者关注和购买。"
         }
       ]
     }
   ],
   "takeaways": [
-    "Walmart在电商领域的领先地位将加剧对亚马逊的竞争，影响消费电子产品的价格策略。",
-    "Bose和Shokz等品牌的降价促销，可能导致市场份额的重新分配，消费者购买意愿显著提升。",
-    "Best Buy的高管变动可能会影响其在消费电子市场的战略调整，需关注后续发展。",
-    "新型骨传导耳机的推出，表明市场对创新音频产品的需求正在上升，竞争将更加激烈。",
-    "随着折扣零售商的崛起，传统电商平台需要重新评估定价和促销策略，以保持市场竞争力。"
+    "Skullcandy的Crusher耳机在北美市场可能会吸引年轻消费者，增强品牌影响力。",
+    "随着Walmart在电商领域的领先地位，Amazon需加快创新步伐以维持竞争力。",
+    "Best Buy的高管变动可能影响其战略方向，需关注后续市场反应。",
+    "Bose新款耳机降价100美元，可能刺激消费者购买欲望，提升市场份额。",
+    "Shokz OpenRun耳机的推出将进一步加剧运动耳机市场竞争，需密切关注销售表现。"
   ],
   "opportunity_signals": [
-    "Walmart在在线杂货市场的领先地位为其扩展电商业务提供了良好机会，建议加大对在线杂货的投资和推广力度。",
-    "Shokz OpenRun Pro耳机的低价促销策略能够吸引大量消费者，建议借此机会优化品牌营销，提升市场份额。",
-    "Best Buy高层重组可能带来新的电商战略方向，建议密切关注其后续动向，以便及时调整市场策略。"
+    "Skullcandy与Bose的合作提升了品牌竞争力，建议加大对高端耳机市场的投资，以吸引音质追求者。",
+    "Walmart在在线杂货订单方面领先Amazon，建议优化供应链管理，进一步巩固在电商领域的市场份额。",
+    "Shokz OpenRun Pro耳机的低价促销将吸引大量消费者，建议及时调整定价策略，以抓住市场机会。"
   ],
   "risk_signals": [
-    "Walmart在在线杂货订单方面的领先地位可能加剧电商市场的竞争压力，需密切关注其对其他零售商的影响。",
-    "Best Buy高层重组可能导致电商战略的重大调整，管理层需评估其对市场份额和客户忠诚度的潜在风险。",
-    "新兴超市在价格竞争中超越ALDI和Walmart，可能对传统零售商的销售造成冲击，需及时调整定价策略以应对。"
+    "Walmart和Amazon在市场份额上的竞争加剧，可能导致价格战，影响整体利润率。",
+    "Best Buy高管更换可能导致电商战略不稳定，需密切关注其后续决策的市场反应。",
+    "新兴超市在价格竞争中超越ALDI和Walmart，可能分流消费者，影响传统零售商的市场份额。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18 06:59:20 CST",
+  "generated_at": "2026-07-18 08:07:59 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -705,97 +705,36 @@
     }
   ],
   "lead_story": {
-    "title": "The $557 Back-to-School Amazon-Walmart Tug of War - PYMNTS.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5\" target=\"_blank\">The $557 Back-to-School Amazon-Walmar",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5",
-    "published": "Fri, 17 Jul 2026 02:02:04 GMT",
-    "published_iso": "2026-07-17T02:02:04+00:00",
-    "source": "Google News - Retail Platforms",
+    "title": "Marketplace Briefing: What’s driving a surge in Amazon sales for 3 startups",
+    "summary": "Amid a challenging macroeconomic year, Amazon has proven to be a powerful sales engine for many digitally native startups. Modern Retail spoke with three startups — Suri, P.F. Candle Co, and Pretty Tasty Tea – about what they believe is driving their surge in Amazon sales this year.",
+    "url": "https://www.modernretail.co/operations/marketplace-briefing-whats-driving-a-surge-in-amazon-sales-for-3-startups/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "published": "Thu, 16 Jul 2026 17:30:00 +0000",
+    "published_iso": "2026-07-16T17:30:00+00:00",
+    "source": "Modern Retail",
     "bucket": "channel_news",
-    "hours_since_published": 20.9,
-    "freshness_label": "24h内",
+    "hours_since_published": 30.6,
+    "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
       "channels": [
-        "Amazon",
-        "Walmart"
+        "Amazon"
       ],
       "categories": []
     },
-    "_score": 304,
-    "display_title": "The $557 Back-to-School Amazon-Walmart...",
+    "_score": 283,
+    "display_title": "Marketplace Briefing: What’s driving a...",
     "tags": [
       "🛒 渠道零售",
       "🏬 平台电商"
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "亚马逊与沃尔玛在返校季的竞争加剧，影响电商销售策略。",
-    "suggested_action": "加强电商平台的促销活动，以提升市场份额。"
+    "business_note": "亚马逊成为数字原生初创企业的重要销售引擎，需关注其成功因素。",
+    "suggested_action": "加强电商策略，借鉴成功案例提升在亚马逊的销售表现。"
   },
-  "lead_summary": "亚马逊与沃尔玛的返校季竞争加剧，电商销售策略面临重大挑战。",
+  "lead_summary": "亚马逊引领数字销售，关注其成功要素；同时，Walmart与TikTok动态将影响",
   "headline_trio": [
     {
-      "title": "The $557 Back-to-School Amazon-Walmart Tug of War - PYMNTS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5\" target=\"_blank\">The $557 Back-to-School Amazon-Walmar",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5",
-      "published": "Fri, 17 Jul 2026 02:02:04 GMT",
-      "published_iso": "2026-07-17T02:02:04+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 20.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 304,
-      "display_title": "The $557 Back-to-School Amazon-Walmart...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "亚马逊与沃尔玛在返校季的竞争加剧，影响电商销售策略。",
-      "suggested_action": "加强电商平台的促销活动，以提升市场份额。"
-    },
-    {
-      "title": "For the First Time, These Shokz Bone Conduction Headphones Are Under $100 - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5\" target=\"_blank\">For the First Time, These Shokz Bone Conduction ",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5",
-      "published": "Thu, 16 Jul 2026 16:42:43 GMT",
-      "published_iso": "2026-07-16T16:42:43+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 30.3,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 290,
-      "display_title": "For the First Time, These Shokz Bone...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Shokz骨传导耳机首次降价至100美元以下，吸引更多消费者关注。",
-      "suggested_action": "加大电商推广力度，利用降价信息吸引目标客户。"
-    },
-    {
       "title": "Marketplace Briefing: What’s driving a surge in Amazon sales for 3 startups",
       "summary": "Amid a challenging macroeconomic year, Amazon has proven to be a powerful sales engine for many digitally native startups. Modern Retail spoke with three startups — Suri, P.F. Candle Co, and Pretty Tasty Tea – about what they believe is driving their surge in Amazon sales this year.",
       "url": "https://www.modernretail.co/operations/marketplace-briefing-whats-driving-a-surge-in-amazon-sales-for-3-startups/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -803,7 +742,7 @@
       "published_iso": "2026-07-16T17:30:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 29.5,
+      "hours_since_published": 30.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -820,308 +759,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊成为数字原生初创企业的重要销售渠道，需加强电商策略。",
-      "suggested_action": "优化亚马逊平台的产品展示和营销策略，提升销量。"
-    }
-  ],
-  "consumer_electronics": [
-    {
-      "title": "For the First Time, These Shokz Bone Conduction Headphones Are Under $100 - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5\" target=\"_blank\">For the First Time, These Shokz Bone Conduction ",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5",
-      "published": "Thu, 16 Jul 2026 16:42:43 GMT",
-      "published_iso": "2026-07-16T16:42:43+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 30.3,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 290,
-      "display_title": "For the First Time, These Shokz Bone...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Shokz骨传导耳机首次降价至100美元以下，吸引更多消费者关注。",
-      "suggested_action": "加大电商推广力度，利用降价信息吸引目标客户。"
-    },
-    {
-      "title": "Shokz OpenRun headphones just dropped to their best price in months - Trusted Reviews",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3ppM24xLUM0YzBzczlXbnRIa2s4Q3EwTjRrRU5xN3U4TDZiMzZ6R2swQURzWmF6WGo5VnRaVlFWWVA0TDJrd0NNb1lWcGZfZW5JOXl0S25GWDByczBYdnFaaURVWWxHZHZPRzlWNnBtbTkxYnBubHhnWWZPNlNZRHdKSEFSVVpib1JFUlJ2OEF3eENZU3dKcUtOLVBDVmFVMXNnRUpwTQ?oc=5\" target=\"_blank\">Shokz OpenRun headpho",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3ppM24xLUM0YzBzczlXbnRIa2s4Q3EwTjRrRU5xN3U4TDZiMzZ6R2swQURzWmF6WGo5VnRaVlFWWVA0TDJrd0NNb1lWcGZfZW5JOXl0S25GWDByczBYdnFaaURVWWxHZHZPRzlWNnBtbTkxYnBubHhnWWZPNlNZRHdKSEFSVVpib1JFUlJ2OEF3eENZU3dKcUtOLVBDVmFVMXNnRUpwTQ?oc=5",
-      "published": "Tue, 14 Jul 2026 14:51:22 GMT",
-      "published_iso": "2026-07-14T14:51:22+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 80.1,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 245,
-      "display_title": "Shokz OpenRun headphones just dropped...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "💰 价格促销"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Shokz OpenRun耳机降价，有助于提升品牌曝光和销售。",
-      "suggested_action": "利用降价机会加强电商和品牌营销活动。"
-    },
-    {
-      "title": "This $100 Shokz OpenRun Headphones Deal, a New Low Price, Will Make Your Next Run Sound Better - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFlSYXBZZXZVV1N2YXdMeHZ3THMxMG8zYVYwekkzZ09FS1dId2pNVUVVRmRWdEZoQ203RjV3bWRFOTIwWXNMV1BacjczSkRCcEQydmVkYmVpUFJSbVZkcWVOS0xJVjVyYWQ4R1VTTlY1X1FNM1FPaWh1NnZCZ1VpWEh3cw?oc=5\" target=\"_blank\">This $100 Shokz OpenRun Headphones Deal, a New Low Price, Will Make Y",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFlSYXBZZXZVV1N2YXdMeHZ3THMxMG8zYVYwekkzZ09FS1dId2pNVUVVRmRWdEZoQ203RjV3bWRFOTIwWXNMV1BacjczSkRCcEQydmVkYmVpUFJSbVZkcWVOS0xJVjVyYWQ4R1VTTlY1X1FNM1FPaWh1NnZCZ1VpWEh3cw?oc=5",
-      "published": "Thu, 16 Jul 2026 12:55:00 GMT",
-      "published_iso": "2026-07-16T12:55:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 34.1,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 242,
-      "display_title": "This $100 Shokz OpenRun Headphones...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Shokz OpenRun耳机降价，有助于提升电商销售和品牌知名度。",
-      "suggested_action": "加大电商推广力度，利用降价吸引更多消费者。"
-    },
-    {
-      "title": "Skullcandy and Bose reunite for the new Crusher 1080 ANC, a headphone full of firsts - Popular Science",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjhGSldjVGd3a2ZkQlVDMUJQanBsZ2VSbnh5TWhvNTRnV29xY0VFNE03N3V6Nko5R0F4ODNqak50Y2RyNk1QRGdMVmx5N2hGaVpzSDBfNTkxZUxad0g0VFhnT1Zja1g3Ri1kNk5BOFRPV0tkQTB1ZklrR0VxcWUtWUk4NWRiWTd4VDA5Vmw2TnBqZHBZM2dGX3ZrdkVibXQySWoyeEVXT3o1UUZxUVd1YVdlQlUtc0p2dy10dWtySWVGQS1jX1Brek",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjhGSldjVGd3a2ZkQlVDMUJQanBsZ2VSbnh5TWhvNTRnV29xY0VFNE03N3V6Nko5R0F4ODNqak50Y2RyNk1QRGdMVmx5N2hGaVpzSDBfNTkxZUxad0g0VFhnT1Zja1g3Ri1kNk5BOFRPV0tkQTB1ZklrR0VxcWUtWUk4NWRiWTd4VDA5Vmw2TnBqZHBZM2dGX3ZrdkVibXQySWoyeEVXT3o1UUZxUVd1YVdlQlUtc0p2dy10dWtySWVGQS1jX1BrekNOcHQtSGR0cHc0VmdoRGdEU1RMTHBNUmxB?oc=5",
-      "published": "Fri, 17 Jul 2026 21:55:18 GMT",
-      "published_iso": "2026-07-17T21:55:18+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 1.1,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 235,
-      "display_title": "Skullcandy and Bose reunite for the new...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Skullcandy与Bose合作推出新款耳机，具有多项创新功能，提升品牌影响力。",
-      "suggested_action": "加大电商推广力度，利用社交媒体提升品牌曝光。"
-    },
-    {
-      "title": "The 4.5-star Shokz OpenRun Pro are now an even better bargain at this new record-low price - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDNNbGR3M1ZTTW5BSGtuaVRINmV2X0hOXzV3Z2NZcTJld1d3V3g0LUktckpZRW9OTHhYLTRaX0hPaUxJeUJzaGVRWG5iOVA5NU9HaW03QnlFS21QMVVDa01hUEJTbE43ZlZEdVladXNaTm1WdVpjYjVkbENlS2IwQzVSd3A1VzJRYlpLellqRmhXVmhaaUFUekpVb0o5RlpsUlFXTmpEZkwwR2o1UU9aUVRWaTJvb2d5bjIwR2FObnhOYl9XTjFZcT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDNNbGR3M1ZTTW5BSGtuaVRINmV2X0hOXzV3Z2NZcTJld1d3V3g0LUktckpZRW9OTHhYLTRaX0hPaUxJeUJzaGVRWG5iOVA5NU9HaW03QnlFS21QMVVDa01hUEJTbE43ZlZEdVladXNaTm1WdVpjYjVkbENlS2IwQzVSd3A1VzJRYlpLellqRmhXVmhaaUFUekpVb0o5RlpsUlFXTmpEZkwwR2o1UU9aUVRWaTJvb2d5bjIwR2FObnhOYl9XTjFZcTk5YUtuQQ?oc=5",
-      "published": "Fri, 17 Jul 2026 15:53:40 GMT",
-      "published_iso": "2026-07-17T15:53:40+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 7.1,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "UAV"
-        ]
-      },
-      "_score": 227,
-      "display_title": "The 4.5-star Shokz OpenRun Pro are now...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🚁 无人机影像"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Shokz OpenRun Pro降价，提升品牌竞争力，吸引更多消费者关注。",
-      "suggested_action": "加强电商平台推广，利用降价机会提升销量。"
-    },
-    {
-      "title": "Shokz takes on jewellery earbuds with bling - pickr.com.au",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXI1OF9wbjA1OGpHelBHU2RIUGNFR1VlRDY3RG9MXzV5RXNxRDhJN0QtS2hRQmZxSDlRVkJtZ2R0cFM0Z1N2TVFIa2RTUWJaRVQwbjRmcV9sTVhQX2xpZnVxR0gyVEU4eVZGY3VXUkItWF8zWnJ6Rk92dy1JWUhCVHNRc21LQQ?oc=5\" target=\"_blank\">Shokz takes on jewellery earbuds with bling</a>&nbsp;&nbsp;<font ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXI1OF9wbjA1OGpHelBHU2RIUGNFR1VlRDY3RG9MXzV5RXNxRDhJN0QtS2hRQmZxSDlRVkJtZ2R0cFM0Z1N2TVFIa2RTUWJaRVQwbjRmcV9sTVhQX2xpZnVxR0gyVEU4eVZGY3VXUkItWF8zWnJ6Rk92dy1JWUhCVHNRc21LQQ?oc=5",
-      "published": "Wed, 15 Jul 2026 22:56:40 GMT",
-      "published_iso": "2026-07-15T22:56:40+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 48.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "earbuds"
-        ]
-      },
-      "_score": 212,
-      "display_title": "Shokz takes on jewellery earbuds with...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Shokz推出珠宝耳塞，提升品牌形象，吸引年轻消费者。",
-      "suggested_action": "加强电商平台推广，结合时尚元素进行品牌营销。"
-    }
-  ],
-  "channel_news": [
-    {
-      "title": "The $557 Back-to-School Amazon-Walmart Tug of War - PYMNTS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5\" target=\"_blank\">The $557 Back-to-School Amazon-Walmar",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5",
-      "published": "Fri, 17 Jul 2026 02:02:04 GMT",
-      "published_iso": "2026-07-17T02:02:04+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 20.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 304,
-      "display_title": "The $557 Back-to-School Amazon-Walmart...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "亚马逊与沃尔玛在返校季的竞争加剧，影响电商销售策略。",
-      "suggested_action": "加强电商平台的促销活动，以提升市场份额。"
-    },
-    {
-      "title": "Marketplace Briefing: What’s driving a surge in Amazon sales for 3 startups",
-      "summary": "Amid a challenging macroeconomic year, Amazon has proven to be a powerful sales engine for many digitally native startups. Modern Retail spoke with three startups — Suri, P.F. Candle Co, and Pretty Tasty Tea – about what they believe is driving their surge in Amazon sales this year.",
-      "url": "https://www.modernretail.co/operations/marketplace-briefing-whats-driving-a-surge-in-amazon-sales-for-3-startups/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Thu, 16 Jul 2026 17:30:00 +0000",
-      "published_iso": "2026-07-16T17:30:00+00:00",
-      "source": "Modern Retail",
-      "bucket": "channel_news",
-      "hours_since_published": 29.5,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": []
-      },
-      "_score": 283,
-      "display_title": "Marketplace Briefing: What’s driving a...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "亚马逊成为数字原生初创企业的重要销售渠道，需加强电商策略。",
-      "suggested_action": "优化亚马逊平台的产品展示和营销策略，提升销量。"
-    },
-    {
-      "title": "This Grocery Store Just Passed ALDI And Walmart For The Best Savings - Southern Living",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1jeG1NUkpYSnByMHkxVTFQQmlaUm5ubTZWNkJjN1BRUDRYSlA3Rkk5eHRrOWZLQ3ZnSmotMDRJM3UxVFhJX3ZaZWFHLVV0cDBnaXYzSFpyNXVXVHFfTExiN05oSm1mQ3k5LTFScmJzUEQ1Yi1xSThhalo0OA?oc=5\" target=\"_blank\">This Grocery Store Just Passed ALDI And Walmart For The Best Savings</a>&nbsp;&nb",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jeG1NUkpYSnByMHkxVTFQQmlaUm5ubTZWNkJjN1BRUDRYSlA3Rkk5eHRrOWZLQ3ZnSmotMDRJM3UxVFhJX3ZaZWFHLVV0cDBnaXYzSFpyNXVXVHFfTExiN05oSm1mQ3k5LTFScmJzUEQ1Yi1xSThhalo0OA?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "published_iso": "2026-07-16T07:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 40.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 273,
-      "display_title": "This Grocery Store Just Passed ALDI And...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "该超市在价格竞争中超越ALDI和Walmart，显示出强大的市场吸引力。",
-      "suggested_action": "加强电商平台的价格策略，提升品牌竞争力。"
-    },
-    {
-      "title": "Plaud Teams Up With Best Buy to Expand U.S. Retail Presence - Business Wire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDhwNnJfd1cxeU1VM04ycTBMQlktYzc0bGpaZVBneHJ2NDdOSE9vamtpZXRkSTNWaFpVQ1NJQ0VnRWdhbnoyOVlHN0VkVXZtaF8zVXl3NU9aWkEwek03WFdRNVdBbU1ReUNrdkE5a0xtdVFlbS03OC1ZX21EVktRRW9JWHMwUkdYUDJZOVVNanNKdjIzdDhSSExQSkxMdmQzdXRqd2RmeDVyRjdWWlRhdVJkOGZhTWc?oc=5\" target=\"_blank\">",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDhwNnJfd1cxeU1VM04ycTBMQlktYzc0bGpaZVBneHJ2NDdOSE9vamtpZXRkSTNWaFpVQ1NJQ0VnRWdhbnoyOVlHN0VkVXZtaF8zVXl3NU9aWkEwek03WFdRNVdBbU1ReUNrdkE5a0xtdVFlbS03OC1ZX21EVktRRW9JWHMwUkdYUDJZOVVNanNKdjIzdDhSSExQSkxMdmQzdXRqd2RmeDVyRjdWWlRhdVJkOGZhTWc?oc=5",
-      "published": "Thu, 16 Jul 2026 14:00:00 GMT",
-      "published_iso": "2026-07-16T14:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 33.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": []
-      },
-      "_score": 273,
-      "display_title": "Plaud Teams Up With Best Buy to Expand...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Plaud与Best Buy合作，扩大美国零售市场，有助于提升品牌曝光和销售。",
-      "suggested_action": "加强与Best Buy的电商合作，提升产品在线可见性和销售转化。"
+      "business_note": "亚马逊成为数字原生初创企业的重要销售引擎，需关注其成功因素。",
+      "suggested_action": "加强电商策略，借鉴成功案例提升在亚马逊的销售表现。"
     },
     {
       "title": "Sam’s Club takes Manhattan for wellness event with creators",
@@ -1131,7 +770,7 @@
       "published_iso": "2026-07-17T04:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 19.0,
+      "hours_since_published": 20.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1149,35 +788,360 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Sam's Club通过健康活动提升品牌形象，吸引年轻消费者关注健康产品。",
-      "suggested_action": "建议加强电商平台健康产品的推广，利用活动影响力吸引更多用户。"
+      "suggested_action": "加强电商平台健康产品的推广，利用社交媒体扩大影响力。"
     },
     {
-      "title": "Best Buy Reshapes Executive Team To Accelerate Retail, Media And Technology Strategy - Pulse 2.0",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTNudFhBWGhJQmMxWUVjdGY5UEZiS1F0b0l1MUxmOUdjeWluWXFUSDU1RUI2TzFqUG9aVU9QSVRsYjJ4R2hVMUdGSldpRjU0SE9sMFNRRWkzNDJhMFhIaW1Vd1g0SlFwZmc4M3Q4UWZjdHRMbFByNTdRMTRXVVltOFAzd0doNEs3UmVpeHZDVUw0MERhTEd5TzlXd2I5TU5ieG16WU5NN2x0UUHSAasBQVVfeXFMUFEzbnRYQVhoSUJjMVlFY3RmOV",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTNudFhBWGhJQmMxWUVjdGY5UEZiS1F0b0l1MUxmOUdjeWluWXFUSDU1RUI2TzFqUG9aVU9QSVRsYjJ4R2hVMUdGSldpRjU0SE9sMFNRRWkzNDJhMFhIaW1Vd1g0SlFwZmc4M3Q4UWZjdHRMbFByNTdRMTRXVVltOFAzd0doNEs3UmVpeHZDVUw0MERhTEd5TzlXd2I5TU5ieG16WU5NN2x0UUHSAasBQVVfeXFMUFEzbnRYQVhoSUJjMVlFY3RmOVBGYktRdG9JdTFMZjlHY3lpbllxVEg1NUVCNk8xalBvWlVPUElUbGIyeEdoVTFHRkpXaUY1NEhPbDBTUUVpMzQyYTBYSGltVXdYNEpRcGZnODN0OFFmY3R0TGxQcjU3UTE0V1VZbThQM3dHaDRLN1JlaXh2Q1VMNDBEYUxHeU85V3diOU1OYnhtellOTTdsdFFB?oc=5",
-      "published": "Fri, 17 Jul 2026 12:17:38 GMT",
-      "published_iso": "2026-07-17T12:17:38+00:00",
-      "source": "Google News - Retail Platforms",
+      "title": "Walmart touts some of its lowest back-to-school pricing since 2019",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WDZSrFcYgUyBwvli_5Vqb-uxyTP52UgqPWxLUOa9NLU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaGlsZHJlbl9zaG9wcGluZ19mb3Jfc2Nob29sX2dsdWVfc3VwcGxpZXMuanBn.webp\" /></div></figure><p>The retailer&rsquo;s value focus is similar to past years, with anoth",
+      "url": "https://www.retaildive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825412/",
+      "published": "Thu, 16 Jul 2026 11:46:00 -0400",
+      "published_iso": "2026-07-16T15:46:00+00:00",
+      "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 10.7,
+      "hours_since_published": 32.4,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 253,
+      "display_title": "Walmart touts some of its lowest...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Walmart推出低价回校促销，可能影响电商销售策略。",
+      "suggested_action": "调整电商定价策略，增强竞争力，吸引更多消费者。"
+    }
+  ],
+  "consumer_electronics": [
+    {
+      "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
+      "summary": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy, and B&#38;H Photo have this model on sale for $899.99 (usually $1,299.99)",
+      "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
+      "published": "2026-07-17T12:47:13-04:00",
+      "published_iso": "2026-07-17T16:47:13+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 7.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
+          "Amazon",
           "Best Buy"
         ],
         "categories": []
       },
-      "_score": 268,
-      "display_title": "Best Buy Reshapes Executive Team To...",
+      "_score": 207,
+      "display_title": "Asus’ top-end 4K QD-OLED gaming monitor...",
+      "tags": [
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Asus高端游戏显示器降价，有助于提升电商销售额。",
+      "suggested_action": "加强与电商平台的合作，推广该显示器的促销活动。"
+    },
+    {
+      "title": "Sony Xperia 10 VIII reveals new details in FCC filing",
+      "summary": "Sony's Xperia 10 VIII feels closer than ever after stop by FCC.",
+      "url": "https://www.androidauthority.com/sony-xperia-10-viii-fcc-filing-3688858/",
+      "published": "Fri, 17 Jul 2026 17:10:19 +0000",
+      "published_iso": "2026-07-17T17:10:19+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 7.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Sony"
+        ],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 179,
+      "display_title": "Sony Xperia 10 VIII reveals new details...",
+      "tags": [
+        "📱 消费电子"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Sony Xperia 10 VIII FCC 备案信息显示新特性，可能影响品牌形象和市场竞争力。",
+      "suggested_action": "加强品牌营销策略，提前布局Xperia 10 VIII的市场推广。"
+    },
+    {
+      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+      "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an interview this week. \"Do people trust the pr",
+      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "published": "2026-07-17T15:14:42-04:00",
+      "published_iso": "2026-07-17T19:14:42+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 4.9,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 173,
+      "display_title": "Pebble founder Eric Migicovsky says his...",
+      "tags": [
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "中",
+      "business_note": "Pebble通过短保修期强调信任，需加强品牌形象与客户沟通。",
+      "suggested_action": "建议优化电商平台的客户反馈机制，提升消费者信任度。"
+    },
+    {
+      "title": "A bug in AWS has caused some customers' bills to spike from a few cents to billions of dollars",
+      "summary": "\"The displayed billing estimates do not reflect actual usage and charges,\" Amazon said.",
+      "url": "https://www.engadget.com/2217648/a-bug-in-aws-has-caused-some-customer-bills-to-spike-from-a-few-cents-to-billions-of-dollars/",
+      "published": "Fri, 17 Jul 2026 17:07:47 +0000",
+      "published_iso": "2026-07-17T17:07:47+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 7.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": []
+      },
+      "_score": 165,
+      "display_title": "A bug in AWS has caused some customers'...",
+      "tags": [
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "AWS账单错误可能导致客户流失，影响电商收入。",
+      "suggested_action": "立即与AWS沟通，确保账单准确性，维护客户信任。"
+    },
+    {
+      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+      "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distrib",
+      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+      "published": "2026-07-17T18:09:47-04:00",
+      "published_iso": "2026-07-17T22:09:47+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 2.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 163,
+      "display_title": "Taylor Farms pulls iceberg lettuce from...",
+      "tags": [
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Taylor Farms主动撤回生菜，影响品牌形象和销售，需密切关注消费者反应。",
+      "suggested_action": "加强品牌营销，传达产品安全信息，恢复消费者信任。"
+    },
+    {
+      "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
+      "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs, including a Qualcom",
+      "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
+      "published": "2026-07-17T11:52:50-04:00",
+      "published_iso": "2026-07-17T15:52:50+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 8.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 163,
+      "display_title": "Samsung&#8217;s redesigned Z Fold 8...",
+      "tags": [
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "三星Z Fold 8的设计泄露将影响品牌形象和市场预期。",
+      "suggested_action": "提前制定品牌营销策略，确保产品发布时的市场热度。"
+    }
+  ],
+  "channel_news": [
+    {
+      "title": "Marketplace Briefing: What’s driving a surge in Amazon sales for 3 startups",
+      "summary": "Amid a challenging macroeconomic year, Amazon has proven to be a powerful sales engine for many digitally native startups. Modern Retail spoke with three startups — Suri, P.F. Candle Co, and Pretty Tasty Tea – about what they believe is driving their surge in Amazon sales this year.",
+      "url": "https://www.modernretail.co/operations/marketplace-briefing-whats-driving-a-surge-in-amazon-sales-for-3-startups/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Thu, 16 Jul 2026 17:30:00 +0000",
+      "published_iso": "2026-07-16T17:30:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 30.6,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": []
+      },
+      "_score": 283,
+      "display_title": "Marketplace Briefing: What’s driving a...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy重组高管团队，有助于提升零售、媒体和技术战略的执行力。",
-      "suggested_action": "建议加强与Best Buy的电商合作，提升品牌曝光和销售转化。"
+      "business_note": "亚马逊成为数字原生初创企业的重要销售引擎，需关注其成功因素。",
+      "suggested_action": "加强电商策略，借鉴成功案例提升在亚马逊的销售表现。"
+    },
+    {
+      "title": "Sam’s Club takes Manhattan for wellness event with creators",
+      "summary": "On Thursday, Sam's Club hosted its first-ever Sam's Wellness Club, an exclusive event bringing together creators, media and merchants at a loft event space overlooking Midtown Manhattan. Here's why the club retailer is so keen on promoting its health and wellness offerings right now.",
+      "url": "https://www.modernretail.co/marketing/sams-club-takes-manhattan-for-wellness-event-with-creators/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Fri, 17 Jul 2026 04:00:00 +0000",
+      "published_iso": "2026-07-17T04:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 20.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Sam's Club"
+        ],
+        "categories": []
+      },
+      "_score": 268,
+      "display_title": "Sam’s Club takes Manhattan for wellness...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Sam's Club通过健康活动提升品牌形象，吸引年轻消费者关注健康产品。",
+      "suggested_action": "加强电商平台健康产品的推广，利用社交媒体扩大影响力。"
+    },
+    {
+      "title": "Walmart touts some of its lowest back-to-school pricing since 2019",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WDZSrFcYgUyBwvli_5Vqb-uxyTP52UgqPWxLUOa9NLU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaGlsZHJlbl9zaG9wcGluZ19mb3Jfc2Nob29sX2dsdWVfc3VwcGxpZXMuanBn.webp\" /></div></figure><p>The retailer&rsquo;s value focus is similar to past years, with anoth",
+      "url": "https://www.retaildive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825412/",
+      "published": "Thu, 16 Jul 2026 11:46:00 -0400",
+      "published_iso": "2026-07-16T15:46:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 32.4,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 253,
+      "display_title": "Walmart touts some of its lowest...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Walmart推出低价回校促销，可能影响电商销售策略。",
+      "suggested_action": "调整电商定价策略，增强竞争力，吸引更多消费者。"
+    },
+    {
+      "title": "Walmart US chief operating officer to depart",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/AaNQKPgvH9L8xmsTnXOE43OuyEt69fQ3Ykf2J1X5DNA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg3MjQ0MzMzLmpwZw==.webp\" /></div></figure><p>Leadership shakeups are continuing at the mass retailer about five months after John Furner f",
+      "url": "https://www.retaildive.com/news/walmart-us-chief-operating-officer-depart/825549/",
+      "published": "Fri, 17 Jul 2026 12:32:00 -0400",
+      "published_iso": "2026-07-17T16:32:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 7.6,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 238,
+      "display_title": "Walmart US chief operating officer to...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "沃尔玛高管离职可能影响电商策略，需密切关注市场变化。",
+      "suggested_action": "加强与沃尔玛的沟通，调整电商策略以应对变化。"
+    },
+    {
+      "title": "The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys",
+      "summary": "This State of the Industry report, sponsored by Swap, explores how brands, retailers and agencies are adopting agentic commerce, including agentic storefronts, to enhance shopping experiences. Artificial intelligence is the new entry point in e-commerce, as more shoppers rely on AI-powered summaries and assistants to d",
+      "url": "https://www.modernretail.co/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Wed, 15 Jul 2026 20:22:52 +0000",
+      "published_iso": "2026-07-15T20:22:52+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 51.7,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 214,
+      "display_title": "The state of agentic storefronts: How...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "AI驱动的购物体验将提升消费者满意度，推动销售增长。",
+      "suggested_action": "加大对AI技术的投资，优化电商平台的购物流程。"
+    },
+    {
+      "title": "‘The store is a lemonade stand’: Brands are lending their retail spaces to other brands for events",
+      "summary": "Brands like P.F. Candle Co. and Sorbara’s are lending their physical spaces to other brands for guest pop-ups. The strategy helps lift foot traffic and offset real estate costs.",
+      "url": "https://www.modernretail.co/operations/the-store-is-a-lemonade-stand-brands-are-lending-their-retail-spaces-to-other-brands-for-events/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Fri, 17 Jul 2026 04:00:00 +0000",
+      "published_iso": "2026-07-17T04:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 20.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 211,
+      "display_title": "‘The store is a lemonade stand’: Brands...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "电商",
+      "importance": "中",
+      "business_note": "品牌共享零售空间可提升客流量，降低成本，促进销售。",
+      "suggested_action": "考虑与其他品牌合作，利用共享空间进行活动推广。"
     }
   ],
   "products": [
@@ -1189,7 +1153,7 @@
       "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
       "source": "The Verge",
       "_score": 107,
-      "hours_since_published": 6.2,
+      "hours_since_published": 7.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1200,49 +1164,16 @@
         "categories": []
       },
       "display_title": "Asus’ top-end 4K QD-OLED gaming monitor...",
-      "display_summary": "华硕ROG Swift 32寸4K QD-OLED游戏显示器具备QD-OLED面板，提供深邃",
+      "display_summary": "华硕ROG Swift 32英寸4K QD-OLED游戏显示器具备QD-OLED面板，提供深",
       "tags": [
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "judgement_label": "渠道动态",
-      "product_intro": "华硕ROG Swift 32寸4K。",
+      "product_intro": "华硕ROG Swift 32英寸4K。",
       "importance": "高",
-      "business_note": "Asus高端4K显示器降价，有助于提升电商销售额。",
-      "suggested_action": "加强在Amazon和Best Buy的促销活动，吸引更多消费者。"
-    },
-    {
-      "name": "For the First Time, These Shokz Bone Conduction Headphones Are Under $100 - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5\" targ",
-      "date": "Thu, 16 Jul 2026 16:42:43",
-      "published_iso": "2026-07-16T16:42:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 90,
-      "hours_since_published": 30.3,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "display_title": "For the First Time, These Shokz Bone...",
-      "display_summary": "某消费电子公司发布新产品，预计将提升市场份额，进一步增强品牌竞争力。",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "竞品观察",
-      "product_intro": "某消费电子公司发布新产品，预计将提升市场份额，进一步增强品牌竞争力。",
-      "importance": "高",
-      "business_note": "Shokz骨传导耳机首次降价至100美元以下，提升品牌竞争力。",
-      "suggested_action": "加大电商推广力度，吸引更多消费者关注和购买。"
+      "business_note": "Asus高端游戏显示器降价，有助于提升电商销售业绩。",
+      "suggested_action": "加强与Amazon和Best Buy的合作，推广该产品。"
     },
     {
       "name": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
@@ -1252,7 +1183,7 @@
       "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.8,
+      "hours_since_published": 2.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1260,16 +1191,16 @@
         "categories": []
       },
       "display_title": "Taylor Farms pulls iceberg lettuce from...",
-      "display_summary": "泰勒农场宣布自愿撤回所有来自墨西哥中部的冰山生菜，以应对环孢子虫疫情。",
+      "display_summary": "泰勒农场宣布自愿撤回所有来自中墨的冰山生菜，以应对环孢子虫疫情。",
       "tags": [
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "泰勒农场宣布自愿撤回所有来自墨西哥中部的冰山生菜，以应对环孢子虫疫情。",
+      "product_intro": "泰勒农场宣布自愿撤回所有来自中墨的冰山生菜，以应对环孢子虫疫情。",
       "importance": "高",
-      "business_note": "Taylor Farms撤回生菜可能影响品牌形象，需加强消费者信任。",
-      "suggested_action": "建议立即启动品牌危机公关，重建消费者信任。"
+      "business_note": "Taylor Farms主动撤回生菜，可能影响品牌形象和销售。",
+      "suggested_action": "加强品牌营销，提升消费者信任，避免销售下滑。"
     },
     {
       "name": "TikTok is testing an AI likeness detection tool",
@@ -1279,7 +1210,7 @@
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.4,
+      "hours_since_published": 4.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1287,16 +1218,16 @@
         "categories": []
       },
       "display_title": "TikTok is testing an AI likeness...",
-      "display_summary": "TikTok正在测试一项工具，允许创作者报告AI肖像，初期面向部分美国创作者。",
+      "display_summary": "TikTok正在测试一项工具，允许美国创作者报告AI肖像，旨在加强内容管理。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "TikTok正在测试一项工具，允许创作者报告AI肖像，初期面向部分美国创作者。",
+      "product_intro": "TikTok正在测试一项工具，允许美国创作者报告AI肖像，旨在加强内容管理。",
       "importance": "高",
-      "business_note": "TikTok推出AI相似度检测工具，将影响品牌营销策略和内容创作。",
-      "suggested_action": "建议密切关注TikTok动态，调整品牌营销策略以适应新工具。"
+      "business_note": "TikTok测试AI相似度检测工具，可能影响品牌内容创作与保护。",
+      "suggested_action": "建议加强品牌内容审核，确保创作者权益与品牌形象。"
     },
     {
       "name": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
@@ -1306,7 +1237,7 @@
       "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.7,
+      "hours_since_published": 4.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1314,16 +1245,16 @@
         "categories": []
       },
       "display_title": "Pebble founder Eric Migicovsky says his...",
-      "display_summary": "Pebble创始人Eric Migicovsky表示，消费者需了解新款电子纸智能手表的短期保",
+      "display_summary": "Pebble创始人Eric Migicovsky表示，消费者需了解新款电子纸智能手表的特点，",
       "tags": [
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
       "product_intro": "Pebble创始人Eric。",
-      "importance": "高",
-      "business_note": "建立消费者信任是品牌成功的关键，短保修期需有效沟通。",
-      "suggested_action": "加强品牌营销，突出信任与客户支持，提升消费者信心。"
+      "importance": "中",
+      "business_note": "Pebble的短保修期强调了品牌与消费者之间的信任关系，需加强品牌形象。",
+      "suggested_action": "建议通过电商平台加强消费者信任，提升售后服务体验。"
     },
     {
       "name": "Apple Music is getting a price hike",
@@ -1333,7 +1264,7 @@
       "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.7,
+      "hours_since_published": 5.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1341,7 +1272,7 @@
         "categories": []
       },
       "display_title": "Apple Music is getting a price hike",
-      "display_summary": "Apple Music在美国调价：个人计划涨至$11.99，家庭计划$19.99，学生计划$",
+      "display_summary": "Apple Music在美国涨价，个人计划月费升至$11.99，家庭计划$19.99，学生计",
       "tags": [
         "💰 价格促销"
       ],
@@ -1349,248 +1280,43 @@
       "judgement_label": "竞品观察",
       "product_intro": "Apple。",
       "importance": "高",
-      "business_note": "Apple Music提价将影响用户订阅决策，需加强品牌营销以维持用户忠诚度。",
-      "suggested_action": "推出促销活动，吸引新用户并鼓励现有用户续订。"
+      "business_note": "Apple Music提价将影响用户留存和品牌形象，需关注市场反应。",
+      "suggested_action": "加强品牌营销，突出服务价值，缓解用户对提价的不满。"
+    },
+    {
+      "name": "Apple’s plot to crush OpenAI",
+      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight",
+      "date": "2026-07-17T13:41:32-04:00",
+      "published_iso": "2026-07-17T17:41:32+00:00",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 6.4,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Apple’s plot to crush OpenAI",
+      "display_summary": "苹果起诉OpenAI，指控内容引发关注，专家认为部分指控属行业常态。苹果此举意在何为，值得关",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "竞品观察",
+      "product_intro": "苹果起诉OpenAI，指控内容引发关注，专家认为部分指控属行业常态。苹果此。",
+      "importance": "高",
+      "business_note": "苹果起诉OpenAI可能影响品牌形象，需关注舆论动态。",
+      "suggested_action": "加强品牌营销策略，提升公众对品牌的正面认知。"
     }
   ],
   "monitored_entities": [
-    {
-      "name": "Shokz",
-      "type": "品牌",
-      "count": 7,
-      "items": [
-        {
-          "title": "For the First Time, These Shokz Bone Conduction Headphones Are Under $100 - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5\" target=\"_blank\">For the First Time, These Shokz Bone Conduction ",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5",
-          "published": "Thu, 16 Jul 2026 16:42:43 GMT",
-          "published_iso": "2026-07-16T16:42:43+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 30.3,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 290,
-          "display_title": "For the First Time, These Shokz Bone...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz骨传导耳机首次降价至100美元以下，吸引更多消费者关注。",
-          "suggested_action": "加大电商推广力度，利用降价信息吸引目标客户。"
-        },
-        {
-          "title": "Why Buy Generic Earbuds When SHOKZ's OpenRun Bone Conduction Headphones Hit an All-Time Low? - Gizmodo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1hRVkF1X2J5dGxCY1NoMTJIcmZzakROR2hwUEZLV2FiN2IyQWYzWFYwLXlmbVd6amQ3M2VJVmFVUi1xTnAzSTk2eWRyemxDVC0wbF9JbC10RFdMSmhJekVXNDBMWlRVQzY5WEpqY1dZS0JpaGExTW9XOUVSVGdPWHFxaDAyanI5Rm9JWEJ6bHU0UFVCb1lIWUM1R1hGN0FOci0wQ05QU256NDhoc0hnR20yZzZKa0tEM0c5QWt3?oc=5\" target=",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1hRVkF1X2J5dGxCY1NoMTJIcmZzakROR2hwUEZLV2FiN2IyQWYzWFYwLXlmbVd6amQ3M2VJVmFVUi1xTnAzSTk2eWRyemxDVC0wbF9JbC10RFdMSmhJekVXNDBMWlRVQzY5WEpqY1dZS0JpaGExTW9XOUVSVGdPWHFxaDAyanI5Rm9JWEJ6bHU0UFVCb1lIWUM1R1hGN0FOci0wQ05QU256NDhoc0hnR20yZzZKa0tEM0c5QWt3?oc=5",
-          "published": "Wed, 15 Jul 2026 14:10:10 GMT",
-          "published_iso": "2026-07-15T14:10:10+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 56.8,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [
-              "Target"
-            ],
-            "categories": [
-              "bone conduction",
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "_score": 263,
-          "display_title": "Why Buy Generic Earbuds When SHOKZ's...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "headphone",
-      "type": "品类",
-      "count": 7,
-      "items": [
-        {
-          "title": "For the First Time, These Shokz Bone Conduction Headphones Are Under $100 - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5\" target=\"_blank\">For the First Time, These Shokz Bone Conduction ",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5",
-          "published": "Thu, 16 Jul 2026 16:42:43 GMT",
-          "published_iso": "2026-07-16T16:42:43+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 30.3,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 290,
-          "display_title": "For the First Time, These Shokz Bone...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz骨传导耳机首次降价至100美元以下，吸引更多消费者关注。",
-          "suggested_action": "加大电商推广力度，利用降价信息吸引目标客户。"
-        },
-        {
-          "title": "Why Buy Generic Earbuds When SHOKZ's OpenRun Bone Conduction Headphones Hit an All-Time Low? - Gizmodo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1hRVkF1X2J5dGxCY1NoMTJIcmZzakROR2hwUEZLV2FiN2IyQWYzWFYwLXlmbVd6amQ3M2VJVmFVUi1xTnAzSTk2eWRyemxDVC0wbF9JbC10RFdMSmhJekVXNDBMWlRVQzY5WEpqY1dZS0JpaGExTW9XOUVSVGdPWHFxaDAyanI5Rm9JWEJ6bHU0UFVCb1lIWUM1R1hGN0FOci0wQ05QU256NDhoc0hnR20yZzZKa0tEM0c5QWt3?oc=5\" target=",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1hRVkF1X2J5dGxCY1NoMTJIcmZzakROR2hwUEZLV2FiN2IyQWYzWFYwLXlmbVd6amQ3M2VJVmFVUi1xTnAzSTk2eWRyemxDVC0wbF9JbC10RFdMSmhJekVXNDBMWlRVQzY5WEpqY1dZS0JpaGExTW9XOUVSVGdPWHFxaDAyanI5Rm9JWEJ6bHU0UFVCb1lIWUM1R1hGN0FOci0wQ05QU256NDhoc0hnR20yZzZKa0tEM0c5QWt3?oc=5",
-          "published": "Wed, 15 Jul 2026 14:10:10 GMT",
-          "published_iso": "2026-07-15T14:10:10+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 56.8,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [
-              "Target"
-            ],
-            "categories": [
-              "bone conduction",
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "_score": 263,
-          "display_title": "Why Buy Generic Earbuds When SHOKZ's...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 6,
-      "items": [
-        {
-          "title": "Plaud Teams Up With Best Buy to Expand U.S. Retail Presence - Business Wire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDhwNnJfd1cxeU1VM04ycTBMQlktYzc0bGpaZVBneHJ2NDdOSE9vamtpZXRkSTNWaFpVQ1NJQ0VnRWdhbnoyOVlHN0VkVXZtaF8zVXl3NU9aWkEwek03WFdRNVdBbU1ReUNrdkE5a0xtdVFlbS03OC1ZX21EVktRRW9JWHMwUkdYUDJZOVVNanNKdjIzdDhSSExQSkxMdmQzdXRqd2RmeDVyRjdWWlRhdVJkOGZhTWc?oc=5\" target=\"_blank\">",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDhwNnJfd1cxeU1VM04ycTBMQlktYzc0bGpaZVBneHJ2NDdOSE9vamtpZXRkSTNWaFpVQ1NJQ0VnRWdhbnoyOVlHN0VkVXZtaF8zVXl3NU9aWkEwek03WFdRNVdBbU1ReUNrdkE5a0xtdVFlbS03OC1ZX21EVktRRW9JWHMwUkdYUDJZOVVNanNKdjIzdDhSSExQSkxMdmQzdXRqd2RmeDVyRjdWWlRhdVJkOGZhTWc?oc=5",
-          "published": "Thu, 16 Jul 2026 14:00:00 GMT",
-          "published_iso": "2026-07-16T14:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 33.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 273,
-          "display_title": "Plaud Teams Up With Best Buy to Expand...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Plaud与Best Buy合作，扩大美国零售市场，有助于提升品牌曝光和销售。",
-          "suggested_action": "加强与Best Buy的电商合作，提升产品在线可见性和销售转化。"
-        },
-        {
-          "title": "Best Buy Reshapes Executive Team To Accelerate Retail, Media And Technology Strategy - Pulse 2.0",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTNudFhBWGhJQmMxWUVjdGY5UEZiS1F0b0l1MUxmOUdjeWluWXFUSDU1RUI2TzFqUG9aVU9QSVRsYjJ4R2hVMUdGSldpRjU0SE9sMFNRRWkzNDJhMFhIaW1Vd1g0SlFwZmc4M3Q4UWZjdHRMbFByNTdRMTRXVVltOFAzd0doNEs3UmVpeHZDVUw0MERhTEd5TzlXd2I5TU5ieG16WU5NN2x0UUHSAasBQVVfeXFMUFEzbnRYQVhoSUJjMVlFY3RmOV",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTNudFhBWGhJQmMxWUVjdGY5UEZiS1F0b0l1MUxmOUdjeWluWXFUSDU1RUI2TzFqUG9aVU9QSVRsYjJ4R2hVMUdGSldpRjU0SE9sMFNRRWkzNDJhMFhIaW1Vd1g0SlFwZmc4M3Q4UWZjdHRMbFByNTdRMTRXVVltOFAzd0doNEs3UmVpeHZDVUw0MERhTEd5TzlXd2I5TU5ieG16WU5NN2x0UUHSAasBQVVfeXFMUFEzbnRYQVhoSUJjMVlFY3RmOVBGYktRdG9JdTFMZjlHY3lpbllxVEg1NUVCNk8xalBvWlVPUElUbGIyeEdoVTFHRkpXaUY1NEhPbDBTUUVpMzQyYTBYSGltVXdYNEpRcGZnODN0OFFmY3R0TGxQcjU3UTE0V1VZbThQM3dHaDRLN1JlaXh2Q1VMNDBEYUxHeU85V3diOU1OYnhtellOTTdsdFFB?oc=5",
-          "published": "Fri, 17 Jul 2026 12:17:38 GMT",
-          "published_iso": "2026-07-17T12:17:38+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 10.7,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 268,
-          "display_title": "Best Buy Reshapes Executive Team To...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Best Buy重组高管团队，有助于提升零售、媒体和技术战略的执行力。",
-          "suggested_action": "建议加强与Best Buy的电商合作，提升品牌曝光和销售转化。"
-        }
-      ]
-    },
     {
       "name": "Amazon",
       "type": "渠道",
       "count": 4,
       "items": [
-        {
-          "title": "The $557 Back-to-School Amazon-Walmart Tug of War - PYMNTS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5\" target=\"_blank\">The $557 Back-to-School Amazon-Walmar",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5",
-          "published": "Fri, 17 Jul 2026 02:02:04 GMT",
-          "published_iso": "2026-07-17T02:02:04+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 20.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 304,
-          "display_title": "The $557 Back-to-School Amazon-Walmart...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "亚马逊与沃尔玛在返校季的竞争加剧，影响电商销售策略。",
-          "suggested_action": "加强电商平台的促销活动，以提升市场份额。"
-        },
         {
           "title": "Marketplace Briefing: What’s driving a surge in Amazon sales for 3 startups",
           "summary": "Amid a challenging macroeconomic year, Amazon has proven to be a powerful sales engine for many digitally native startups. Modern Retail spoke with three startups — Suri, P.F. Candle Co, and Pretty Tasty Tea – about what they believe is driving their surge in Amazon sales this year.",
@@ -1599,7 +1325,7 @@
           "published_iso": "2026-07-16T17:30:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 29.5,
+          "hours_since_published": 30.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1616,78 +1342,36 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊成为数字原生初创企业的重要销售渠道，需加强电商策略。",
-          "suggested_action": "优化亚马逊平台的产品展示和营销策略，提升销量。"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 4,
-      "items": [
-        {
-          "title": "For the First Time, These Shokz Bone Conduction Headphones Are Under $100 - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5\" target=\"_blank\">For the First Time, These Shokz Bone Conduction ",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNfWjJTb0NqdTR2dmZoZ2w0aV9jbUxiV1J1RXpRWTZKRG4zV1d5MWpCM2lZNGZsYV92NEpGUEtiTXpqZ012OFB6RmxMZXVURG1XckM0ZGFZSUtCd21KR1ozYUJGb3lPbnBISDVDMFdaX1FIMnE2Y1NmTXgzYU9JQVFUY0pvRzJMMXVpbTV0YzdSVU0?oc=5",
-          "published": "Thu, 16 Jul 2026 16:42:43 GMT",
-          "published_iso": "2026-07-16T16:42:43+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 30.3,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 290,
-          "display_title": "For the First Time, These Shokz Bone...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz骨传导耳机首次降价至100美元以下，吸引更多消费者关注。",
-          "suggested_action": "加大电商推广力度，利用降价信息吸引目标客户。"
+          "business_note": "亚马逊成为数字原生初创企业的重要销售引擎，需关注其成功因素。",
+          "suggested_action": "加强电商策略，借鉴成功案例提升在亚马逊的销售表现。"
         },
         {
-          "title": "Why Buy Generic Earbuds When SHOKZ's OpenRun Bone Conduction Headphones Hit an All-Time Low? - Gizmodo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1hRVkF1X2J5dGxCY1NoMTJIcmZzakROR2hwUEZLV2FiN2IyQWYzWFYwLXlmbVd6amQ3M2VJVmFVUi1xTnAzSTk2eWRyemxDVC0wbF9JbC10RFdMSmhJekVXNDBMWlRVQzY5WEpqY1dZS0JpaGExTW9XOUVSVGdPWHFxaDAyanI5Rm9JWEJ6bHU0UFVCb1lIWUM1R1hGN0FOci0wQ05QU256NDhoc0hnR20yZzZKa0tEM0c5QWt3?oc=5\" target=",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1hRVkF1X2J5dGxCY1NoMTJIcmZzakROR2hwUEZLV2FiN2IyQWYzWFYwLXlmbVd6amQ3M2VJVmFVUi1xTnAzSTk2eWRyemxDVC0wbF9JbC10RFdMSmhJekVXNDBMWlRVQzY5WEpqY1dZS0JpaGExTW9XOUVSVGdPWHFxaDAyanI5Rm9JWEJ6bHU0UFVCb1lIWUM1R1hGN0FOci0wQ05QU256NDhoc0hnR20yZzZKa0tEM0c5QWt3?oc=5",
-          "published": "Wed, 15 Jul 2026 14:10:10 GMT",
-          "published_iso": "2026-07-15T14:10:10+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 56.8,
-          "freshness_label": "近3天",
+          "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
+          "summary": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy, and B&#38;H Photo have this model on sale for $899.99 (usually $1,299.99)",
+          "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
+          "published": "2026-07-17T12:47:13-04:00",
+          "published_iso": "2026-07-17T16:47:13+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 7.3,
+          "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
+            "brands": [],
             "channels": [
-              "Target"
+              "Amazon",
+              "Best Buy"
             ],
-            "categories": [
-              "bone conduction",
-              "earbuds",
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 263,
-          "display_title": "Why Buy Generic Earbuds When SHOKZ's...",
+          "_score": 207,
+          "display_title": "Asus’ top-end 4K QD-OLED gaming monitor...",
           "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
             "🏬 平台电商"
           ],
-          "impact_area": "电商"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Asus高端游戏显示器降价，有助于提升电商销售额。",
+          "suggested_action": "加强与电商平台的合作，推广该显示器的促销活动。"
         }
       ]
     },
@@ -1697,137 +1381,223 @@
       "count": 3,
       "items": [
         {
-          "title": "The $557 Back-to-School Amazon-Walmart Tug of War - PYMNTS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5\" target=\"_blank\">The $557 Back-to-School Amazon-Walmar",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXgyMmVDZ0FWQmNNb3E1el9lblI3NUdDcHVCQXZWTjJ6QUxRYVVlSU9SRFpLSWI0M294QkJ6QUNCQmVDX0kxeWthcjJtRUtfNW1hUVY1WmFFVWdSUklaVlZiZTBGdlBWeTZ6d0JRYWNKajRvcUI2N1lTUkJKb3NXakJXczZOZExrZDUtZXQxY25NOVFLUzVKa1pIZw?oc=5",
-          "published": "Fri, 17 Jul 2026 02:02:04 GMT",
-          "published_iso": "2026-07-17T02:02:04+00:00",
-          "source": "Google News - Retail Platforms",
+          "title": "Walmart touts some of its lowest back-to-school pricing since 2019",
+          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WDZSrFcYgUyBwvli_5Vqb-uxyTP52UgqPWxLUOa9NLU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaGlsZHJlbl9zaG9wcGluZ19mb3Jfc2Nob29sX2dsdWVfc3VwcGxpZXMuanBn.webp\" /></div></figure><p>The retailer&rsquo;s value focus is similar to past years, with anoth",
+          "url": "https://www.retaildive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825412/",
+          "published": "Thu, 16 Jul 2026 11:46:00 -0400",
+          "published_iso": "2026-07-16T15:46:00+00:00",
+          "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 20.9,
+          "hours_since_published": 32.4,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 253,
+          "display_title": "Walmart touts some of its lowest...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "Walmart推出低价回校促销，可能影响电商销售策略。",
+          "suggested_action": "调整电商定价策略，增强竞争力，吸引更多消费者。"
+        },
+        {
+          "title": "Walmart US chief operating officer to depart",
+          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/AaNQKPgvH9L8xmsTnXOE43OuyEt69fQ3Ykf2J1X5DNA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg3MjQ0MzMzLmpwZw==.webp\" /></div></figure><p>Leadership shakeups are continuing at the mass retailer about five months after John Furner f",
+          "url": "https://www.retaildive.com/news/walmart-us-chief-operating-officer-depart/825549/",
+          "published": "Fri, 17 Jul 2026 12:32:00 -0400",
+          "published_iso": "2026-07-17T16:32:00+00:00",
+          "source": "Retail Dive",
+          "bucket": "channel_news",
+          "hours_since_published": 7.6,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 238,
+          "display_title": "Walmart US chief operating officer to...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "沃尔玛高管离职可能影响电商策略，需密切关注市场变化。",
+          "suggested_action": "加强与沃尔玛的沟通，调整电商策略以应对变化。"
+        }
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 2,
+      "items": [
+        {
+          "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
+          "summary": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy, and B&#38;H Photo have this model on sale for $899.99 (usually $1,299.99)",
+          "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
+          "published": "2026-07-17T12:47:13-04:00",
+          "published_iso": "2026-07-17T16:47:13+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 7.3,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Amazon",
-              "Walmart"
+              "Best Buy"
             ],
             "categories": []
           },
-          "_score": 304,
-          "display_title": "The $557 Back-to-School Amazon-Walmart...",
+          "_score": 207,
+          "display_title": "Asus’ top-end 4K QD-OLED gaming monitor...",
           "tags": [
-            "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊与沃尔玛在返校季的竞争加剧，影响电商销售策略。",
-          "suggested_action": "加强电商平台的促销活动，以提升市场份额。"
+          "business_note": "Asus高端游戏显示器降价，有助于提升电商销售额。",
+          "suggested_action": "加强与电商平台的合作，推广该显示器的促销活动。"
         },
         {
-          "title": "This Grocery Store Just Passed ALDI And Walmart For The Best Savings - Southern Living",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1jeG1NUkpYSnByMHkxVTFQQmlaUm5ubTZWNkJjN1BRUDRYSlA3Rkk5eHRrOWZLQ3ZnSmotMDRJM3UxVFhJX3ZaZWFHLVV0cDBnaXYzSFpyNXVXVHFfTExiN05oSm1mQ3k5LTFScmJzUEQ1Yi1xSThhalo0OA?oc=5\" target=\"_blank\">This Grocery Store Just Passed ALDI And Walmart For The Best Savings</a>&nbsp;&nb",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jeG1NUkpYSnByMHkxVTFQQmlaUm5ubTZWNkJjN1BRUDRYSlA3Rkk5eHRrOWZLQ3ZnSmotMDRJM3UxVFhJX3ZaZWFHLVV0cDBnaXYzSFpyNXVXVHFfTExiN05oSm1mQ3k5LTFScmJzUEQ1Yi1xSThhalo0OA?oc=5",
-          "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-          "published_iso": "2026-07-16T07:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 40.0,
-          "freshness_label": "近3天",
+          "name": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
+          "summary": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy, and B&#38;H P",
+          "date": "2026-07-17T12:47:13-04:00",
+          "published_iso": "2026-07-17T16:47:13+00:00",
+          "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
+          "source": "The Verge",
+          "_score": 107,
+          "hours_since_published": 7.3,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Walmart"
+              "Amazon",
+              "Best Buy"
             ],
             "categories": []
           },
-          "_score": 273,
-          "display_title": "This Grocery Store Just Passed ALDI And...",
+          "display_title": "Asus’ top-end 4K QD-OLED gaming monitor...",
+          "display_summary": "华硕ROG Swift 32英寸4K QD-OLED游戏显示器具备QD-OLED面板，提供深",
           "tags": [
-            "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
+          "judgement_label": "渠道动态",
+          "product_intro": "华硕ROG Swift 32英寸4K。",
           "importance": "高",
-          "business_note": "该超市在价格竞争中超越ALDI和Walmart，显示出强大的市场吸引力。",
-          "suggested_action": "加强电商平台的价格策略，提升品牌竞争力。"
+          "business_note": "Asus高端游戏显示器降价，有助于提升电商销售业绩。",
+          "suggested_action": "加强与Amazon和Best Buy的合作，推广该产品。"
         }
       ]
     },
     {
-      "name": "earbuds",
-      "type": "品类",
+      "name": "REI",
+      "type": "渠道",
       "count": 2,
       "items": [
         {
-          "title": "Why Buy Generic Earbuds When SHOKZ's OpenRun Bone Conduction Headphones Hit an All-Time Low? - Gizmodo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1hRVkF1X2J5dGxCY1NoMTJIcmZzakROR2hwUEZLV2FiN2IyQWYzWFYwLXlmbVd6amQ3M2VJVmFVUi1xTnAzSTk2eWRyemxDVC0wbF9JbC10RFdMSmhJekVXNDBMWlRVQzY5WEpqY1dZS0JpaGExTW9XOUVSVGdPWHFxaDAyanI5Rm9JWEJ6bHU0UFVCb1lIWUM1R1hGN0FOci0wQ05QU256NDhoc0hnR20yZzZKa0tEM0c5QWt3?oc=5\" target=",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1hRVkF1X2J5dGxCY1NoMTJIcmZzakROR2hwUEZLV2FiN2IyQWYzWFYwLXlmbVd6amQ3M2VJVmFVUi1xTnAzSTk2eWRyemxDVC0wbF9JbC10RFdMSmhJekVXNDBMWlRVQzY5WEpqY1dZS0JpaGExTW9XOUVSVGdPWHFxaDAyanI5Rm9JWEJ6bHU0UFVCb1lIWUM1R1hGN0FOci0wQ05QU256NDhoc0hnR20yZzZKa0tEM0c5QWt3?oc=5",
-          "published": "Wed, 15 Jul 2026 14:10:10 GMT",
-          "published_iso": "2026-07-15T14:10:10+00:00",
-          "source": "Google News - US Retail Audio",
+          "title": "Kate Spade focused on ‘reigniting the magic’ with new chief marketer",
+          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mM5_y4XuAl-yNoO9u64b5F6jpxD57H2W6sb_imvK6TE/g:nowe:0:254/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05Njc4NDY5MjguanBn.webp\" /></div></figure><p>L'Or&eacute;al veteran Allison Badea has been tapped for the role as the bran",
+          "url": "https://www.retaildive.com/news/kate-spade-names-chief-marketing-officer-allison-badea/825528/",
+          "published": "Fri, 17 Jul 2026 11:49:00 -0400",
+          "published_iso": "2026-07-17T15:49:00+00:00",
+          "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 56.8,
-          "freshness_label": "近3天",
+          "hours_since_published": 8.3,
+          "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
+            "brands": [],
             "channels": [
-              "Target"
+              "REI"
             ],
-            "categories": [
-              "bone conduction",
-              "earbuds",
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 263,
-          "display_title": "Why Buy Generic Earbuds When SHOKZ's...",
+          "_score": 200,
+          "display_title": "Kate Spade focused on ‘reigniting the...",
           "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
+            "🛒 渠道零售"
           ],
           "impact_area": "电商"
         },
         {
-          "title": "Shokz takes on jewellery earbuds with bling - pickr.com.au",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXI1OF9wbjA1OGpHelBHU2RIUGNFR1VlRDY3RG9MXzV5RXNxRDhJN0QtS2hRQmZxSDlRVkJtZ2R0cFM0Z1N2TVFIa2RTUWJaRVQwbjRmcV9sTVhQX2xpZnVxR0gyVEU4eVZGY3VXUkItWF8zWnJ6Rk92dy1JWUhCVHNRc21LQQ?oc=5\" target=\"_blank\">Shokz takes on jewellery earbuds with bling</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXI1OF9wbjA1OGpHelBHU2RIUGNFR1VlRDY3RG9MXzV5RXNxRDhJN0QtS2hRQmZxSDlRVkJtZ2R0cFM0Z1N2TVFIa2RTUWJaRVQwbjRmcV9sTVhQX2xpZnVxR0gyVEU4eVZGY3VXUkItWF8zWnJ6Rk92dy1JWUhCVHNRc21LQQ?oc=5",
-          "published": "Wed, 15 Jul 2026 22:56:40 GMT",
-          "published_iso": "2026-07-15T22:56:40+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 48.0,
+          "title": "Sephora vet to take Calvin Klein parent’s CFO seat",
+          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/A35lWLQgF8U0FpWrP3Yiw3OjqyfLEHmbfQqvQa0DSO4/g:nowe:0:275/c:1080:610/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GMjRfSkFXX1BSX25vbG9nb18zLmpwZw==.webp\" /></div></figure><p>PVH appointed Alexis Rollier to take the finance reins about eight months afte",
+          "url": "https://www.retaildive.com/news/sephora-veteran-take-calvin-klein-parents-cfo-seat/825361/",
+          "published": "Thu, 16 Jul 2026 11:01:00 -0400",
+          "published_iso": "2026-07-16T15:01:00+00:00",
+          "source": "Retail Dive",
+          "bucket": "channel_news",
+          "hours_since_published": 33.1,
           "freshness_label": "近3天",
           "monitor_hits": {
-            "brands": [
-              "Shokz"
+            "brands": [],
+            "channels": [
+              "REI"
             ],
-            "channels": [],
-            "categories": [
-              "earbuds"
-            ]
+            "categories": []
           },
-          "_score": 212,
-          "display_title": "Shokz takes on jewellery earbuds with...",
+          "_score": 177,
+          "display_title": "Sephora vet to take Calvin Klein...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🛒 渠道零售"
           ],
-          "impact_area": "品牌营销",
+          "impact_area": "电商"
+        }
+      ]
+    },
+    {
+      "name": "Sam's Club",
+      "type": "渠道",
+      "count": 1,
+      "items": [
+        {
+          "title": "Sam’s Club takes Manhattan for wellness event with creators",
+          "summary": "On Thursday, Sam's Club hosted its first-ever Sam's Wellness Club, an exclusive event bringing together creators, media and merchants at a loft event space overlooking Midtown Manhattan. Here's why the club retailer is so keen on promoting its health and wellness offerings right now.",
+          "url": "https://www.modernretail.co/marketing/sams-club-takes-manhattan-for-wellness-event-with-creators/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Fri, 17 Jul 2026 04:00:00 +0000",
+          "published_iso": "2026-07-17T04:00:00+00:00",
+          "source": "Modern Retail",
+          "bucket": "channel_news",
+          "hours_since_published": 20.1,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Sam's Club"
+            ],
+            "categories": []
+          },
+          "_score": 268,
+          "display_title": "Sam’s Club takes Manhattan for wellness...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
           "importance": "高",
-          "business_note": "Shokz推出珠宝耳塞，提升品牌形象，吸引年轻消费者。",
-          "suggested_action": "加强电商平台推广，结合时尚元素进行品牌营销。"
+          "business_note": "Sam's Club通过健康活动提升品牌形象，吸引年轻消费者关注健康产品。",
+          "suggested_action": "加强电商平台健康产品的推广，利用社交媒体扩大影响力。"
         }
       ]
     },
     {
       "name": "Sony",
       "type": "品牌",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "title": "Sony Xperia 10 VIII reveals new details in FCC filing",
@@ -1837,7 +1607,7 @@
           "published_iso": "2026-07-17T17:10:19+00:00",
           "source": "Android Authority",
           "bucket": "consumer_electronics",
-          "hours_since_published": 5.8,
+          "hours_since_published": 7.0,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1851,51 +1621,30 @@
           "tags": [
             "📱 消费电子"
           ],
-          "impact_area": "品牌营销"
-        },
-        {
-          "title": "Sydney Sweeney's 'Sleepy Hollow' Movie 'Hollow' Lands At Sony - Deadline",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0xCc3pNRm5LdV9NNjRJa21DMkN0SVdYUnZ2N0tpZ1UxZVFTTlktVFJEUThpR3hSQ1dvdlNkZUlrdUtZamtNNG0wd1JEc0RuR1RtSElDMU9oLVBvWFZ6dkVQRC1KX0tRV3Z6bmViVlpxTHppNlY1aEhGSDg4dzE1XzNnZm1pcm9fU09HYWJsNzI5aThZc09PZjI2V3lkY2M4?oc=5\" target=\"_blank\">Sydney Sweeney's 'Sleepy Hollow",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0xCc3pNRm5LdV9NNjRJa21DMkN0SVdYUnZ2N0tpZ1UxZVFTTlktVFJEUThpR3hSQ1dvdlNkZUlrdUtZamtNNG0wd1JEc0RuR1RtSElDMU9oLVBvWFZ6dkVQRC1KX0tRV3Z6bmViVlpxTHppNlY1aEhGSDg4dzE1XzNnZm1pcm9fU09HYWJsNzI5aThZc09PZjI2V3lkY2M4?oc=5",
-          "published": "Fri, 17 Jul 2026 16:00:00 GMT",
-          "published_iso": "2026-07-17T16:00:00+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 7.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
-            "channels": [],
-            "categories": []
-          },
-          "_score": 179,
-          "display_title": "Sydney Sweeney's 'Sleepy Hollow' Movie...",
-          "tags": [
-            "📱 消费电子"
-          ],
-          "impact_area": "品牌营销"
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Sony Xperia 10 VIII FCC 备案信息显示新特性，可能影响品牌形象和市场竞争力。",
+          "suggested_action": "加强品牌营销策略，提前布局Xperia 10 VIII的市场推广。"
         }
       ]
     }
   ],
   "takeaways": [
-    "亚马逊与沃尔玛的返校季促销将进一步加剧电商竞争，预计将影响消费者购买决策。",
-    "Shokz OpenRun耳机的降价可能会吸引更多年轻消费者，推动品牌在运动耳机市场的份额增长。",
-    "Best Buy与Plaud的合作将增强其在智能家居市场的竞争力，可能会吸引更多技术爱好者。",
-    "骨传导耳机市场正在快速发展，品牌之间的价格战将促使消费者更倾向于选择性价比高的产品。",
-    "新款Asus 4K QD-OLED显示器的推出有望提升高端游戏显示器市场的竞争，吸引专业玩家关注。"
+    "Asus高端4K QD-OLED显示器将提升游戏体验，可能对竞争对手造成压力。",
+    "Walmart在低价策略上持续发力，预计将进一步抢占市场份额。",
+    "TikTok测试AI形象功能，可能改变电商平台的用户互动方式。",
+    "Sam's Club在曼哈顿的扩张将增强其在高端市场的竞争力。",
+    "AWS的技术问题可能影响客户信任，促使企业重新评估云服务供应商。"
   ],
   "opportunity_signals": [
-    "随着亚马逊与沃尔玛在返校季的竞争加剧，企业应优化电商销售策略以提升市场份额。",
-    "Shokz骨传导耳机降价至100美元以下，企业可借此机会拓展年轻消费者市场。",
-    "Plaud与Best Buy的合作为品牌提供了新的曝光渠道，企业应考虑类似合作以增强市场影响力。"
+    "亚马逊作为数字原生初创企业的重要销售引擎，企业可借鉴其成功因素，优化自身电商策略以提升市场份额。",
+    "Sam's Club通过健康活动吸引年轻消费者，企业应考虑推出类似的健康产品推广活动，以增强品牌形象和客户忠诚度。",
+    "沃尔玛推出低价回校促销，可能影响市场竞争格局，企业需调整定价策略以保持竞争优势。"
   ],
   "risk_signals": [
-    "亚马逊与沃尔玛在返校季的竞争加剧，可能导致整体电商销售策略失效，需密切关注市场份额变化。",
-    "随着数字原生初创企业依赖亚马逊作为主要销售渠道，若未能优化电商策略，可能会失去重要的市场机会。",
-    "Best Buy重组高管团队虽有助于提升执行力，但若未能迅速适应市场变化，可能会影响品牌竞争力。"
+    "沃尔玛高管离职可能导致电商策略不稳定，需警惕市场竞争加剧的风险。",
+    "亚马逊作为数字原生初创企业的重要销售引擎，其成功因素变化将直接影响我们的市场份额。",
+    "低价回校促销策略可能压缩利润空间，需评估对整体电商销售策略的长期影响。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

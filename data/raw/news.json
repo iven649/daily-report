@@ -91,6 +91,15 @@
       "bucket": "consumer_electronics"
     },
     {
+      "title": "Meet the judges who will crown Australia’s next breakout startup",
+      "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+      "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "published": "Fri, 24 Jul 2026 00:05:00 +0000",
+      "published_iso": "2026-07-24T00:05:00+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
       "summary": "Shashua has been invited to take the chairman of the board seat.",
       "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
@@ -186,15 +195,6 @@
       "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
       "published": "Thu, 23 Jul 2026 17:00:00 +0000",
       "published_iso": "2026-07-23T17:00:00+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Tesla’s robotaxis are moving in reverse",
-      "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
-      "url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
-      "published": "Thu, 23 Jul 2026 16:29:59 +0000",
-      "published_iso": "2026-07-23T16:29:59+00:00",
       "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
@@ -561,96 +561,6 @@
   ],
   "channel_news": [
     {
-      "title": "Target’s Tech Chief Has a Central Role in the Retailer’s Turnaround Plan",
-      "summary": "Prat Vemana, Target&#8217;s chief information and product officer, says improved technology is a throughline in the retailer&#8217;s recovery plan after several...",
-      "url": "https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/",
-      "published": "Mon, 16 Mar 2026 19:12:35 +0000",
-      "published_iso": "2026-03-16T19:12:35+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "State lawmakers draft rounding rules as U.S. Mint stops penny production",
-      "summary": "The U.S. Mint has halted production of new pennies, prompting at least six state legislatures to introduce bills standardizing how retailers round cash transactions to the nearest nickel.",
-      "url": "https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/",
-      "published": "Mon, 16 Mar 2026 15:44:53 +0000",
-      "published_iso": "2026-03-16T15:44:53+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Top 10 Retail Tech at eTail West 2026",
-      "summary": "eTail Palm Springs remains one of the more concentrated gatherings of retail operators, growth leaders, and technology companies working inside ecommerce...",
-      "url": "https://retailwire.com/top-10-retail-tech-at-etail-west-2026/",
-      "published": "Tue, 03 Mar 2026 15:31:34 +0000",
-      "published_iso": "2026-03-03T15:31:34+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "L.L.Bean Appoints Greg Elder as CEO, Prioritizes Brand Legacy and Expansion",
-      "summary": "L.L.Bean announced Friday that Greg Elder, its chief retail officer, will become the company&#8217;s fifth president and CEO. Elder will take...",
-      "url": "https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/",
-      "published": "Sat, 10 Jan 2026 00:45:59 +0000",
-      "published_iso": "2026-01-10T00:45:59+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "“No Contract, No Coffee”: Starbucks’ Red Cup Day Turns Into “Red Cup Rebellion” as Politicians Join Boycott",
-      "summary": "Workers strike during the coffee giant's busiest promotional day, drawing support from elected officials in Seattle and New York",
-      "url": "https://retailwire.com/starbucks-red-cup-rebellion/",
-      "published": "Sat, 15 Nov 2025 16:34:48 +0000",
-      "published_iso": "2025-11-15T16:34:48+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Walmart’s Sixth CEO: John Furner to Take the Helm as McMillon Steps Down",
-      "summary": "The world's largest retailer announces a major leadership transition, marking only the sixth CEO change in its history",
-      "url": "https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/",
-      "published": "Sat, 15 Nov 2025 16:11:31 +0000",
-      "published_iso": "2025-11-15T16:11:31+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Firehouse Subs Brings on Carolina Berti as CMO for U.S. and Canada",
-      "summary": "Firehouse Subs has appointed Carolina Berti as Chief Marketing Officer for its U.S. and Canadian operations. She will oversee brand marketing,...",
-      "url": "https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/",
-      "published": "Fri, 03 Oct 2025 18:02:27 +0000",
-      "published_iso": "2025-10-03T18:02:27+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Nike at a Crossroads: Q1 2026 Results Reveal Rebound, Headwinds, and a Strategic Reset",
-      "summary": "Nike’s first-quarter fiscal 2026 results (ended August 31, 2025) painted a picture of cautious optimism for one of the world’s most...",
-      "url": "https://retailwire.com/nike-at-a-crossroads-q1-2026-results-reveal-rebound-headwinds-and-a-strategic-reset/",
-      "published": "Wed, 03 Sep 2025 13:48:00 +0000",
-      "published_iso": "2025-09-03T13:48:00+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "IKEA and Best Buy Launch Shop-in-Shop Pilot Across 10 Stores in Florida and Texas",
-      "summary": "IKEA is partnering with Best Buy to place small shops within the latter's larger stores in a pilot project.",
-      "url": "https://retailwire.com/ikea-best-buy-pilot-florida-texas/",
-      "published": "Tue, 05 Aug 2025 15:35:22 +0000",
-      "published_iso": "2025-08-05T15:35:22+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Del Monte’s Bankruptcy Filing Reflects Cans, Costs and a Changing Grocery Aisle",
-      "summary": "After 139 years on U.S. grocery shelves, legacy canned-food brand Del Monte Foods has filed for Chapter 11 bankruptcy protection, citing...",
-      "url": "https://retailwire.com/del-montes-bankruptcy-filing-reflects-cans-costs-and-a-changing-grocery-aisle/",
-      "published": "Thu, 03 Jul 2025 23:17:00 +0000",
-      "published_iso": "2025-07-03T23:17:00+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
       "title": "Marketplace Briefing: How Whatnot’s AI-powered recommendation system gives it a competitive edge",
       "summary": "Whatnot believes its recommendation systems — which now refresh in just minutes — are what set the company apart from competitors. Whatnot chief product officer Tom Verrilli spoke with Modern Retail about what makes recommendations uniquely challenging in live commerce.",
       "url": "https://www.modernretail.co/technology/marketplace-briefing-how-whatnots-ai-powered-recommendation-system-gives-it-a-competitive-edge/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -930,11 +840,11 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Man, woman wanted for $2,200 worth of tech from Huntington station Best Buy store - News12 | Long Island",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkFkajV0b0dpa00wUm1pV3ZWdXYtdXRXM2NHVml3bkJGckU3UVY5bW9GQlc4QTBLa0VWU0lsendqNE14bzN5czVBWFJQQ0s2dDBoT3hhdmtmOEF1eFB6V2NzVHBwVURXb1A0OEk5R2duNmxvNDVmcWZPNlM0TjZzZ0tkU3BrVlBtQXU5alpmVmRfNmlJNm9oY3VNUVJkeTNBN0NnUEVYVUFuX09LZTZZZksyMlIyeDNWUHBoVEFpYUQ4bkZpUmU5Rl",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkFkajV0b0dpa00wUm1pV3ZWdXYtdXRXM2NHVml3bkJGckU3UVY5bW9GQlc4QTBLa0VWU0lsendqNE14bzN5czVBWFJQQ0s2dDBoT3hhdmtmOEF1eFB6V2NzVHBwVURXb1A0OEk5R2duNmxvNDVmcWZPNlM0TjZzZ0tkU3BrVlBtQXU5alpmVmRfNmlJNm9oY3VNUVJkeTNBN0NnUEVYVUFuX09LZTZZZksyMlIyeDNWUHBoVEFpYUQ4bkZpUmU5RlNVeDVqWVhXQ1NwZU1Ha0E1UQ?oc=5",
-      "published": "Tue, 21 Jul 2026 18:38:46 GMT",
-      "published_iso": "2026-07-21T18:38:46+00:00",
+      "title": "Walmart shares its quiet plan to take down Amazon - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlNuTms4Z0xDTXI4elJjZmtwYkdxblZlOGptOUdpSUV3UFBoVWd1RzJaejJfemNCN25NQ0NHX09JMjlhdWRsd3hVS0pMa0w4Njl5Qldoa2dlS0FHekROYjY3SVRxR2lzaVFTTFprMG5Rd0pvemZXRm1pXzBLZVhVS1lPRl9xdGFYN2c?oc=5\" target=\"_blank\">Walmart shares its quiet plan to take down Amazon</a>&nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlNuTms4Z0xDTXI4elJjZmtwYkdxblZlOGptOUdpSUV3UFBoVWd1RzJaejJfemNCN25NQ0NHX09JMjlhdWRsd3hVS0pMa0w4Njl5Qldoa2dlS0FHekROYjY3SVRxR2lzaVFTTFprMG5Rd0pvemZXRm1pXzBLZVhVS1lPRl9xdGFYN2c?oc=5",
+      "published": "Thu, 23 Jul 2026 20:17:00 GMT",
+      "published_iso": "2026-07-23T20:17:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -971,15 +881,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaW5VNEZUb3NjdTFGRkJIaE10UHB5ZXh2LXVWY0QxeE1acS1EdG10TWZ5UUF4ajJmWmp5MTg0bUs1T05DczY2aUdCbE5QVU1xYWxHTEhGQ2x2TElpNmxwdFFGdFNlQnZ2dkg3MDBVME9hWGtQenFkZHR3T3YyRklka2lBUE96eE5ja3JSYw?oc=5",
       "published": "Thu, 23 Jul 2026 14:13:58 GMT",
       "published_iso": "2026-07-23T14:13:58+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "5 Soundcore Earbuds to Buy This Summer - The Gadgeteer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE90dzJBY2RvdWdzY2lsbDFReUwwZnh6dGxwTW1RNmpJeGcySGxuSzdTWkcybEVfNmdUWHJQc1J2VGFTOVdGMVBJUlVtRHE1LTgtZ0w1YXhoNXRwb29HVnJHWnd5b0V6QUxTVWZveUdJWTUxRFlfMWtVMWhYZ24tdw?oc=5\" target=\"_blank\">5 Soundcore Earbuds to Buy This Summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90dzJBY2RvdWdzY2lsbDFReUwwZnh6dGxwTW1RNmpJeGcySGxuSzdTWkcybEVfNmdUWHJQc1J2VGFTOVdGMVBJUlVtRHE1LTgtZ0w1YXhoNXRwb29HVnJHWnd5b0V6QUxTVWZveUdJWTUxRFlfMWtVMWhYZ24tdw?oc=5",
-      "published": "Sat, 18 Jul 2026 03:00:32 GMT",
-      "published_iso": "2026-07-18T03:00:32+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -1045,7 +946,16 @@
       "published_iso": "2026-07-21T20:11:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
+    },
+    {
+      "title": "These Bose headphones create a quiet bubble even in the noisiest places, now $130 off - MassLive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWpoMS1hWFdlbncwNFB6WUdGYkt2RjJhUXprMTdzb3JVQWV1cFV5czVNMExWdFBQZkxpOWtwdXhMdHdERlVmbFhYMTNveFJSQ2xTMFl2ZHZnZzhCeHlzVjhFdnpLOGhMTmxTR29qeWZtbEFZTTUySDNidkRLdEs4YmJLXzlXb0FUZVVEd0ZIQm44OXZabGR4eDV5YS1aaFB1NXlJT1dxMF9aX2VOQ01aUEhyclF3dHlxRVJUWWk5dFlsTURrdHg0R3",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWpoMS1hWFdlbncwNFB6WUdGYkt2RjJhUXprMTdzb3JVQWV1cFV5czVNMExWdFBQZkxpOWtwdXhMdHdERlVmbFhYMTNveFJSQ2xTMFl2ZHZnZzhCeHlzVjhFdnpLOGhMTmxTR29qeWZtbEFZTTUySDNidkRLdEs4YmJLXzlXb0FUZVVEd0ZIQm44OXZabGR4eDV5YS1aaFB1NXlJT1dxMF9aX2VOQ01aUEhyclF3dHlxRVJUWWk5dFlsTURrdHg0R3gxenQzRTh1SlHSAeYBQVVfeXFMUERXT0kwR3VFNTllV3BqUGtyZU16UU5hVmJJSHBQYmo2LURCNUVmalM2TnA3cFpVVXZrR2xpMk9JLVQ4enVRazdxNEYyM0Nqdi1ScjEzUGN1X1NmU05Nb0g5a1BYSUFNeVBlbUpmSXhTbVVwYWtTakMzUW9CZjY4RVhqT0pERjVyY1BvbzlKbHI4a2tJWGxLbU55VUVqdExObXlhT200dl9iRzE4dHp3R2NYRHl3S3FJdFM1TV9iTEhjZVUwQlpjTnAxX21QWXpKRTdKVGxuOUk0QUJnZEN1djI3WXJoSmc?oc=5",
+      "published": "Thu, 23 Jul 2026 19:02:00 GMT",
+      "published_iso": "2026-07-23T19:02:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1784847990
+  "fetched_at": 1784851739
 }

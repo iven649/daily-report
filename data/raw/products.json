@@ -1,6 +1,78 @@
 {
   "products": [
     {
+      "name": "Google basically confirms the Pixel 11 is getting a price hike",
+      "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, t",
+      "date": "2026-07-25T14:13:36-04:00",
+      "published_iso": "2026-07-25T18:13:36+00:00",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Synth historian Oli Freke will spend big on a good bicycle",
+      "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book",
+      "date": "2026-07-25T11:15:00-04:00",
+      "published_iso": "2026-07-25T15:15:00+00:00",
+      "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Teenage Engineering’s unique music machines are 30 percent off",
+      "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single",
+      "date": "2026-07-25T11:00:00-04:00",
+      "published_iso": "2026-07-25T15:00:00+00:00",
+      "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Warner Bros. is suing Amazon for poaching employees",
+      "summary": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that \"Amazon has chosen to ride on the coattails of other well-esta",
+      "date": "2026-07-25T10:05:12-04:00",
+      "published_iso": "2026-07-25T14:05:12+00:00",
+      "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Is this e-reader case a gun?",
+      "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun",
+      "date": "2026-07-25T09:00:00-04:00",
+      "published_iso": "2026-07-25T13:00:00+00:00",
+      "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "What Surrounds Us will make you think a lot about circles",
+      "summary": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometimes helping them joyfully meet with others. And you traverse a",
+      "date": "2026-07-25T08:00:00-04:00",
+      "published_iso": "2026-07-25T12:00:00+00:00",
+      "url": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Folding and flipping phones are getting seriously good",
+      "summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Goo",
+      "date": "2026-07-25T08:00:00-04:00",
+      "published_iso": "2026-07-25T12:00:00+00:00",
+      "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Forget expensive sleepbuds. Buy this pillow instead",
+      "summary": "Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and allow side-sleepers to doze off listenin",
+      "date": "2026-07-25T03:00:00-04:00",
+      "published_iso": "2026-07-25T07:00:00+00:00",
+      "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
       "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those pl",
       "date": "2026-07-24T18:27:46-04:00",
@@ -19,101 +91,29 @@
       "_score": 20
     },
     {
-      "name": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
-      "summary": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with products shipped after September 1st. Qualcomm claims it has \"exh",
-      "date": "2026-07-24T15:14:23-04:00",
-      "published_iso": "2026-07-24T19:14:23+00:00",
-      "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Midjourney bought the astrology app Co-Star",
-      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. ",
-      "date": "2026-07-24T15:06:58-04:00",
-      "published_iso": "2026-07-24T19:06:58+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "DJI camera clone company Xtra is halting and refunding all preorders",
-      "summary": "After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has abruptly removed the new Xtra Muse 2 Pro",
-      "date": "2026-07-24T14:27:00-04:00",
-      "published_iso": "2026-07-24T18:27:00+00:00",
-      "url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
-      "summary": "In response to a report that Nothing is planning to \"exit 12 markets as global shipments decline,\" Nothing cofounder Akis Evangelidis said the company is \"reorganizing\" and laying off some of its staff, but that \"the reported numbers are way overblown.\" Evange",
-      "date": "2026-07-24T14:10:22-04:00",
-      "published_iso": "2026-07-24T18:10:22+00:00",
-      "url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Roku raises streaming hardware prices by up to $50",
-      "summary": "Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as ",
-      "date": "2026-07-24T14:07:19-04:00",
-      "published_iso": "2026-07-24T18:07:19+00:00",
-      "url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
-      "summary": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight episodes dropping at once. We also got t",
-      "date": "2026-07-24T13:40:00-04:00",
-      "published_iso": "2026-07-24T17:40:00+00:00",
-      "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "You can’t ignore Google Zero anymore",
-      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, howev",
-      "date": "2026-07-24T13:29:48-04:00",
-      "published_iso": "2026-07-24T17:29:48+00:00",
-      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"co",
-      "date": "2026-07-24T13:00:00-04:00",
-      "published_iso": "2026-07-24T17:00:00+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-      "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
-      "date": "Fri, 24 Jul 2026 23:25:47",
-      "published_iso": "2026-07-24T23:25:47+00:00",
-      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+      "name": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+      "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+      "date": "Sat, 25 Jul 2026 20:55:11",
+      "published_iso": "2026-07-25T20:55:11+00:00",
+      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
       "source": "TechCrunch",
       "_score": 10
     },
     {
-      "name": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-      "date": "Fri, 24 Jul 2026 22:25:58",
-      "published_iso": "2026-07-24T22:25:58+00:00",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "name": "The hacker who humiliated spyware makers and was never caught",
+      "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+      "date": "Sat, 25 Jul 2026 20:24:14",
+      "published_iso": "2026-07-25T20:24:14+00:00",
+      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
       "source": "TechCrunch",
       "_score": 10
     }
   ],
-  "fetched_at": 1784938411,
+  "fetched_at": 1785020680,
   "stats": {
     "source_count": 7,
-    "raw_count": 105,
-    "deduped_count": 105,
+    "raw_count": 74,
+    "deduped_count": 74,
     "kept_count": 12
   }
 }

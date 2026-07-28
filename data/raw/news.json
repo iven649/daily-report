@@ -20,7 +20,7 @@
     },
     {
       "title": "Xbox’s huge outage even blocked games on disc",
-      "summary": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about 11PM ET, and it has also prevented people from logging in, launching apps,",
+      "summary": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about 11PM ET, and it also prevented people from logging in, launching apps, or f",
       "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
       "published": "2026-07-27T15:53:50-04:00",
       "published_iso": "2026-07-27T19:53:50+00:00",
@@ -307,8 +307,8 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "It’s not just you: There’s a major outage impacting T-Mobile, Verizon, and AT&T",
-      "summary": "It hasn't even been one week since the last T-Mobile outage.",
+      "title": "It’s not just you: There’s a major outage impacting T-Mobile (Update: Carrier statement)",
+      "summary": "AT&#038;T and Verizon may be affected too, though possibly to a lesser extent.",
       "url": "https://www.androidauthority.com/t-mobile-cellular-outage-3691641/",
       "published": "Mon, 27 Jul 2026 21:34:47 +0000",
       "published_iso": "2026-07-27T21:34:47+00:00",
@@ -406,7 +406,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Xbox games not playing for you? Here’s what’s going on",
+      "title": "Xbox games not playing for you? Here’s what’s going on (Updated)",
       "summary": "Microsoft experiences a major service outage, just days after the PlayStation Network went offline.",
       "url": "https://www.androidauthority.com/xbox-outage-3691498/",
       "published": "Mon, 27 Jul 2026 15:24:38 +0000",
@@ -569,96 +569,6 @@
     }
   ],
   "channel_news": [
-    {
-      "title": "Target’s Tech Chief Has a Central Role in the Retailer’s Turnaround Plan",
-      "summary": "Prat Vemana, Target&#8217;s chief information and product officer, says improved technology is a throughline in the retailer&#8217;s recovery plan after several...",
-      "url": "https://retailwire.com/targets-tech-chief-has-a-central-role-in-the-retailers-turnaround-plan/",
-      "published": "Mon, 16 Mar 2026 19:12:35 +0000",
-      "published_iso": "2026-03-16T19:12:35+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "State lawmakers draft rounding rules as U.S. Mint stops penny production",
-      "summary": "The U.S. Mint has halted production of new pennies, prompting at least six state legislatures to introduce bills standardizing how retailers round cash transactions to the nearest nickel.",
-      "url": "https://retailwire.com/state-lawmakers-draft-rounding-rules-as-u-s-mint-stops-penny-production/",
-      "published": "Mon, 16 Mar 2026 15:44:53 +0000",
-      "published_iso": "2026-03-16T15:44:53+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Top 10 Retail Tech at eTail West 2026",
-      "summary": "eTail Palm Springs remains one of the more concentrated gatherings of retail operators, growth leaders, and technology companies working inside ecommerce...",
-      "url": "https://retailwire.com/top-10-retail-tech-at-etail-west-2026/",
-      "published": "Tue, 03 Mar 2026 15:31:34 +0000",
-      "published_iso": "2026-03-03T15:31:34+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "L.L.Bean Appoints Greg Elder as CEO, Prioritizes Brand Legacy and Expansion",
-      "summary": "L.L.Bean announced Friday that Greg Elder, its chief retail officer, will become the company&#8217;s fifth president and CEO. Elder will take...",
-      "url": "https://retailwire.com/l-l-bean-appoints-greg-elder-as-ceo-prioritizes-brand-legacy-and-expansion/",
-      "published": "Sat, 10 Jan 2026 00:45:59 +0000",
-      "published_iso": "2026-01-10T00:45:59+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "“No Contract, No Coffee”: Starbucks’ Red Cup Day Turns Into “Red Cup Rebellion” as Politicians Join Boycott",
-      "summary": "Workers strike during the coffee giant's busiest promotional day, drawing support from elected officials in Seattle and New York",
-      "url": "https://retailwire.com/starbucks-red-cup-rebellion/",
-      "published": "Sat, 15 Nov 2025 16:34:48 +0000",
-      "published_iso": "2025-11-15T16:34:48+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Walmart’s Sixth CEO: John Furner to Take the Helm as McMillon Steps Down",
-      "summary": "The world's largest retailer announces a major leadership transition, marking only the sixth CEO change in its history",
-      "url": "https://retailwire.com/walmarts-sixth-ceo-john-furner-to-take-the-helm-as-mcmillon-steps-down/",
-      "published": "Sat, 15 Nov 2025 16:11:31 +0000",
-      "published_iso": "2025-11-15T16:11:31+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Firehouse Subs Brings on Carolina Berti as CMO for U.S. and Canada",
-      "summary": "Firehouse Subs has appointed Carolina Berti as Chief Marketing Officer for its U.S. and Canadian operations. She will oversee brand marketing,...",
-      "url": "https://retailwire.com/firehouse-subs-brings-on-carolina-berti-as-cmo-for-u-s-and-canada/",
-      "published": "Fri, 03 Oct 2025 18:02:27 +0000",
-      "published_iso": "2025-10-03T18:02:27+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Nike at a Crossroads: Q1 2026 Results Reveal Rebound, Headwinds, and a Strategic Reset",
-      "summary": "Nike’s first-quarter fiscal 2026 results (ended August 31, 2025) painted a picture of cautious optimism for one of the world’s most...",
-      "url": "https://retailwire.com/nike-at-a-crossroads-q1-2026-results-reveal-rebound-headwinds-and-a-strategic-reset/",
-      "published": "Wed, 03 Sep 2025 13:48:00 +0000",
-      "published_iso": "2025-09-03T13:48:00+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "IKEA and Best Buy Launch Shop-in-Shop Pilot Across 10 Stores in Florida and Texas",
-      "summary": "IKEA is partnering with Best Buy to place small shops within the latter's larger stores in a pilot project.",
-      "url": "https://retailwire.com/ikea-best-buy-pilot-florida-texas/",
-      "published": "Tue, 05 Aug 2025 15:35:22 +0000",
-      "published_iso": "2025-08-05T15:35:22+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "Del Monte’s Bankruptcy Filing Reflects Cans, Costs and a Changing Grocery Aisle",
-      "summary": "After 139 years on U.S. grocery shelves, legacy canned-food brand Del Monte Foods has filed for Chapter 11 bankruptcy protection, citing...",
-      "url": "https://retailwire.com/del-montes-bankruptcy-filing-reflects-cans-costs-and-a-changing-grocery-aisle/",
-      "published": "Thu, 03 Jul 2025 23:17:00 +0000",
-      "published_iso": "2025-07-03T23:17:00+00:00",
-      "source": "RetailWire",
-      "bucket": "channel_news"
-    },
     {
       "title": "The new rules of cross-border commerce after de minimis",
       "summary": "Juan Pellerano-Rendon, Chief Marketing Officer, Swap On July 1, the duty-free era of European e-commerce ended. As reported by Modern Retail, every parcel entering the European Union now owes customs duty, regardless of value. Shipments under €150 carry a €3 charge per line item, and the liability lands on brands and r",
@@ -876,15 +786,6 @@
       "bucket": "channel_news"
     },
     {
-      "title": "In Oregon, big grocery, retail companies have highest number of employees on Medicaid - Oregon Capital Chronicle",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXp6Q2xmclo5ZlBmajhZbHRXSno1SEk0RzE1MllfT3dvMFlQeW05c1VfUy1RNHZNbUNtZ3hsNGd3NXpFNktaa1dwRW1FTlloZkRyamlOTlZyWFAxbFRacXBseEp5ZnZpQWM4QnFkMXJFNWJfVjYyMFA4N1o4WjZZZ293YkZUOUY2dmEtQU51WW84d0dESUlQLVpPc0hRNWpyVTF1N3JINHBfaTdheXpCTXpGOHVvQ2c2RjZIWFdiOFVMajZQQ19WR2",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXp6Q2xmclo5ZlBmajhZbHRXSno1SEk0RzE1MllfT3dvMFlQeW05c1VfUy1RNHZNbUNtZ3hsNGd3NXpFNktaa1dwRW1FTlloZkRyamlOTlZyWFAxbFRacXBseEp5ZnZpQWM4QnFkMXJFNWJfVjYyMFA4N1o4WjZZZ293YkZUOUY2dmEtQU51WW84d0dESUlQLVpPc0hRNWpyVTF1N3JINHBfaTdheXpCTXpGOHVvQ2c2RjZIWFdiOFVMajZQQ19WR2l3?oc=5",
-      "published": "Mon, 27 Jul 2026 13:04:44 GMT",
-      "published_iso": "2026-07-27T13:04:44+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news"
-    },
-    {
       "title": "Amazon and Walmart Face a New Gatekeeper for Loyalty - PYMNTS.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHNJSnBMRnFLcHkyU2IxQVlXRjlnS01NSGlOYk9FaWtkdnJkTFVEb1lEMmQ5elZjOUNGOGRUVzJIaDdsUWFUTnlYX0k3aGRRV2ZvVGxybjZodlBmdFc5Y2pjZF9ISjFyVXJteGFqaFpmN3VTN2pMM09lSVVkUlVuWVVBVDg2OU92T01sVVphd00?oc=5\" target=\"_blank\">Amazon and Walmart Face a New Gatekeeper for Loyalty",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHNJSnBMRnFLcHkyU2IxQVlXRjlnS01NSGlOYk9FaWtkdnJkTFVEb1lEMmQ5elZjOUNGOGRUVzJIaDdsUWFUTnlYX0k3aGRRV2ZvVGxybjZodlBmdFc5Y2pjZF9ISjFyVXJteGFqaFpmN3VTN2pMM09lSVVkUlVuWVVBVDg2OU92T01sVVphd00?oc=5",
@@ -899,6 +800,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXNrSmlnbDUwa0NsUnh0OENxSkxNYjVxWFEwV1lGY2JjSFlJUGk0b0RZM2Y3UUhUNlE2bzZpeU13M0x0NllQZDF2ZTg5YldMWUpBT3ZOQ2lyVWRDMjZJWnhNMzJjTmMySHpVSmp2N05xZzlnUlExT0Z2UzVpeGlxbE1BcVJQelVoSGJabWxlNTF1aFBsRG9NYnRpRFdxcTdQZUhHMjdMeWJlcUhvR1pUVUwxR0Z4RnhSYW9Pbl8xdG1IU2c?oc=5",
       "published": "Sat, 25 Jul 2026 04:04:28 GMT",
       "published_iso": "2026-07-25T04:04:28+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news"
+    },
+    {
+      "title": "In Oregon, big grocery, retail companies have highest number of employees on Medicaid - Oregon Capital Chronicle",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXp6Q2xmclo5ZlBmajhZbHRXSno1SEk0RzE1MllfT3dvMFlQeW05c1VfUy1RNHZNbUNtZ3hsNGd3NXpFNktaa1dwRW1FTlloZkRyamlOTlZyWFAxbFRacXBseEp5ZnZpQWM4QnFkMXJFNWJfVjYyMFA4N1o4WjZZZ293YkZUOUY2dmEtQU51WW84d0dESUlQLVpPc0hRNWpyVTF1N3JINHBfaTdheXpCTXpGOHVvQ2c2RjZIWFdiOFVMajZQQ19WR2",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXp6Q2xmclo5ZlBmajhZbHRXSno1SEk0RzE1MllfT3dvMFlQeW05c1VfUy1RNHZNbUNtZ3hsNGd3NXpFNktaa1dwRW1FTlloZkRyamlOTlZyWFAxbFRacXBseEp5ZnZpQWM4QnFkMXJFNWJfVjYyMFA4N1o4WjZZZ293YkZUOUY2dmEtQU51WW84d0dESUlQLVpPc0hRNWpyVTF1N3JINHBfaTdheXpCTXpGOHVvQ2c2RjZIWFdiOFVMajZQQ19WR2l3?oc=5",
+      "published": "Mon, 27 Jul 2026 13:04:44 GMT",
+      "published_iso": "2026-07-27T13:04:44+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news"
     },
@@ -1029,15 +939,6 @@
       "bucket": "channel_news"
     },
     {
-      "title": "These Bose headphones create a quiet bubble even in the noisiest places, now $130 off - MassLive",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWpoMS1hWFdlbncwNFB6WUdGYkt2RjJhUXprMTdzb3JVQWV1cFV5czVNMExWdFBQZkxpOWtwdXhMdHdERlVmbFhYMTNveFJSQ2xTMFl2ZHZnZzhCeHlzVjhFdnpLOGhMTmxTR29qeWZtbEFZTTUySDNidkRLdEs4YmJLXzlXb0FUZVVEd0ZIQm44OXZabGR4eDV5YS1aaFB1NXlJT1dxMF9aX2VOQ01aUEhyclF3dHlxRVJUWWk5dFlsTURrdHg0R3",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWpoMS1hWFdlbncwNFB6WUdGYkt2RjJhUXprMTdzb3JVQWV1cFV5czVNMExWdFBQZkxpOWtwdXhMdHdERlVmbFhYMTNveFJSQ2xTMFl2ZHZnZzhCeHlzVjhFdnpLOGhMTmxTR29qeWZtbEFZTTUySDNidkRLdEs4YmJLXzlXb0FUZVVEd0ZIQm44OXZabGR4eDV5YS1aaFB1NXlJT1dxMF9aX2VOQ01aUEhyclF3dHlxRVJUWWk5dFlsTURrdHg0R3gxenQzRTh1SlHSAeYBQVVfeXFMUERXT0kwR3VFNTllV3BqUGtyZU16UU5hVmJJSHBQYmo2LURCNUVmalM2TnA3cFpVVXZrR2xpMk9JLVQ4enVRazdxNEYyM0Nqdi1ScjEzUGN1X1NmU05Nb0g5a1BYSUFNeVBlbUpmSXhTbVVwYWtTakMzUW9CZjY4RVhqT0pERjVyY1BvbzlKbHI4a2tJWGxLbU55VUVqdExObXlhT200dl9iRzE4dHp3R2NYRHl3S3FJdFM1TV9iTEhjZVUwQlpjTnAxX21QWXpKRTdKVGxuOUk0QUJnZEN1djI3WXJoSmc?oc=5",
-      "published": "Thu, 23 Jul 2026 19:02:00 GMT",
-      "published_iso": "2026-07-23T19:02:00+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
       "title": "The 3 Best Samsung Earbuds of 2026: Reviews - RTINGS.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yUVhiMjZuQXdqbUdFX1dFbWFWWVp1ZENDSHhJNVBuaHNJX285eFV2UFZEX2hZdXYwLWJOZmlJaXhidzA5MERyMEFETnlwRjJ3RjFpaVFreEloZHRRa1E?oc=5\" target=\"_blank\">The 3 Best Samsung Earbuds of 2026: Reviews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yUVhiMjZuQXdqbUdFX1dFbWFWWVp1ZENDSHhJNVBuaHNJX285eFV2UFZEX2hZdXYwLWJOZmlJaXhidzA5MERyMEFETnlwRjJ3RjFpaVFreEloZHRRa1E?oc=5",
@@ -1054,7 +955,16 @@
       "published_iso": "2026-07-23T09:54:54+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
+    },
+    {
+      "title": "Walmart Deals of the Day: Save $49 on a Pair of Beats’ Best Running Earbuds - CNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9WQ1luQTdiQnJMNnVYSU9EcExDR1RmRGhUNFQ4QUtLRG9XbUdyMkVqdG9ZTkpLTk4yT2ZvQUtnN2NLNHltQldDaXkwbk1pb0F6alBtclFhRXJ1dG9mNFBCSzRWZ2FURm9tZUxoVDZBc1I?oc=5\" target=\"_blank\">Walmart Deals of the Day: Save $49 on a Pair of Beats’ Best Running Earbuds</a>&nbsp;&nbsp;<font",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WQ1luQTdiQnJMNnVYSU9EcExDR1RmRGhUNFQ4QUtLRG9XbUdyMkVqdG9ZTkpLTk4yT2ZvQUtnN2NLNHltQldDaXkwbk1pb0F6alBtclFhRXJ1dG9mNFBCSzRWZ2FURm9tZUxoVDZBc1I?oc=5",
+      "published": "Tue, 21 Jul 2026 14:02:32 GMT",
+      "published_iso": "2026-07-21T14:02:32+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1785194050
+  "fetched_at": 1785197392
 }

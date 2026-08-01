@@ -101,7 +101,7 @@
     },
     {
       "name": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
       "date": "Fri, 31 Jul 2026 22:00:08",
       "published_iso": "2026-07-31T22:00:08+00:00",
       "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
@@ -109,11 +109,11 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1785539521,
+  "fetched_at": 1785543005,
   "stats": {
     "source_count": 7,
-    "raw_count": 107,
-    "deduped_count": 107,
+    "raw_count": 108,
+    "deduped_count": 108,
     "kept_count": 12
   }
 }

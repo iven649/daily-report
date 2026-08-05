@@ -19,6 +19,15 @@
       "_score": 24
     },
     {
+      "name": "Don’t screw this up, Marvel",
+      "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and hig",
+      "date": "2026-08-04T19:20:56-04:00",
+      "published_iso": "2026-08-04T23:20:56+00:00",
+      "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Now you can securely link multiple phones to one Signal account",
       "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across a",
       "date": "2026-08-04T18:02:46-04:00",
@@ -98,22 +107,13 @@
       "url": "https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad",
       "source": "The Verge",
       "_score": 20
-    },
-    {
-      "name": "T-Mobile’s $0-down financing plan bundles taxes and fees",
-      "summary": "T-Mobile is launching a new financing option that will allow you to pay for a device, taxes, and fees over 36 months. In an update on Tuesday, T-Mobile says its new Equipment Installment Plan (EIP) Flex 36 requires no upfront payment and will come with a 0 per",
-      "date": "2026-08-04T12:07:02-04:00",
-      "published_iso": "2026-08-04T16:07:02+00:00",
-      "url": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
-      "source": "The Verge",
-      "_score": 20
     }
   ],
-  "fetched_at": 1785885186,
+  "fetched_at": 1785888806,
   "stats": {
     "source_count": 7,
-    "raw_count": 110,
-    "deduped_count": 110,
+    "raw_count": 109,
+    "deduped_count": 109,
     "kept_count": 12
   }
 }

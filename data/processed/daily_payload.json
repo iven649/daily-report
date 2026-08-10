@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11 06:50:36 CST",
+  "generated_at": "2026-08-11 07:49:45 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-08-10T06:58:48+00:00",
     "source": "Google News - US Retail Audio",
     "bucket": "channel_news",
-    "hours_since_published": 15.9,
+    "hours_since_published": 16.8,
     "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
@@ -731,10 +731,10 @@
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "Apple AirPods Pro 3降价至189.99美元，电商销售机会显著。",
-    "suggested_action": "加强电商平台的促销活动，提升销量。"
+    "business_note": "Apple AirPods Pro 3降价至189.99美元，电商渠道销售机会显著。",
+    "suggested_action": "加强电商平台推广，提升销量和品牌曝光。"
   },
-  "lead_summary": "苹果AirPods Pro 3降价，将加剧市场竞争，推动电商销售增长，值得关注。",
+  "lead_summary": "Apple AirPods Pro 3降价至189.99美元，电商市场竞争加剧，",
   "headline_trio": [
     {
       "title": "Apple AirPods Pro 3 Drop to $189.99 at Amazon and Best Buy - IGN",
@@ -744,7 +744,7 @@
       "published_iso": "2026-08-10T06:58:48+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 15.9,
+      "hours_since_published": 16.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -763,36 +763,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Apple AirPods Pro 3降价至189.99美元，电商销售机会显著。",
-      "suggested_action": "加强电商平台的促销活动，提升销量。"
-    },
-    {
-      "title": "Best Buy CEO talks AI, small-format focus - Retail Customer Experience",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVV5NVd3cC1DOFRRd1BKV3hrTVhpaEhSVERPT3FDUVhNNFI4MGxySmtxZi1QWmpsVGFiSVFzNlluWXEtaTVTUjZ6WFJUckFPWm5XVUFfbk1IYUM0bmwyLXJjeXA1NFN1SEt2ZlNReUZVUlNudS1EQWJRdXd5UWRHRl9iMktycTRVMDhWbHMzMXk?oc=5\" target=\"_blank\">Best Buy CEO talks AI, small-format focus</a>&nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVV5NVd3cC1DOFRRd1BKV3hrTVhpaEhSVERPT3FDUVhNNFI4MGxySmtxZi1QWmpsVGFiSVFzNlluWXEtaTVTUjZ6WFJUckFPWm5XVUFfbk1IYUM0bmwyLXJjeXA1NFN1SEt2ZlNReUZVUlNudS1EQWJRdXd5UWRHRl9iMktycTRVMDhWbHMzMXk?oc=5",
-      "published": "Mon, 10 Aug 2026 10:00:00 GMT",
-      "published_iso": "2026-08-10T10:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 12.8,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": []
-      },
-      "_score": 288,
-      "display_title": "Best Buy CEO talks AI, small-format...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Best Buy CEO 强调 AI 和小型门店战略，将影响电商销售模式。",
-      "suggested_action": "加大对 AI 技术的投资，优化电商平台用户体验。"
+      "business_note": "Apple AirPods Pro 3降价至189.99美元，电商渠道销售机会显著。",
+      "suggested_action": "加强电商平台推广，提升销量和品牌曝光。"
     },
     {
       "title": "What happens to Bose when headphones become AI?",
@@ -802,7 +774,7 @@
       "published_iso": "2026-08-10T14:00:00+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 8.8,
+      "hours_since_published": 9.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -821,241 +793,7 @@
       "impact_area": "品牌营销",
       "importance": "高",
       "business_note": "随着AI技术的发展，Bose需调整品牌营销策略以保持竞争力。",
-      "suggested_action": "加强电商平台的AI产品推广，提升用户体验和品牌认知。"
-    }
-  ],
-  "consumer_electronics": [
-    {
-      "title": "What happens to Bose when headphones become AI?",
-      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
-      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "published": "2026-08-10T10:00:00-04:00",
-      "published_iso": "2026-08-10T14:00:00+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 8.8,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 285,
-      "display_title": "What happens to Bose when headphones...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "随着AI技术的发展，Bose需调整品牌营销策略以保持竞争力。",
-      "suggested_action": "加强电商平台的AI产品推广，提升用户体验和品牌认知。"
-    },
-    {
-      "title": "Bose’s New QuietComfort Headphones Are Truly Next Gen. Here’s What I Like About Them - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1hTQmNSVUZEVlU4QVFlS2YxeGl2Tmw0V2czeVlPdFlfdWRqMU9VdWJVTjEwaWRfN1RBYzVVd3VfQmE3OGc3QkZNa1I1WnI0QWs1ZUo2amtZb2FHUm9GVHRJWFh6Y054TkRpaUFCUDZNUERzc25zLW9zVFBsenJYN19HNTFlalFzdmlPdl9kRm5VVHA3QTNINmZWaHdTeDVrYjA4SHJrd1VZRF9UTU9aSDNrekFOQQ?oc=5\" target=\"_blank\">B",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1hTQmNSVUZEVlU4QVFlS2YxeGl2Tmw0V2czeVlPdFlfdWRqMU9VdWJVTjEwaWRfN1RBYzVVd3VfQmE3OGc3QkZNa1I1WnI0QWs1ZUo2amtZb2FHUm9GVHRJWFh6Y054TkRpaUFCUDZNUERzc25zLW9zVFBsenJYN19HNTFlalFzdmlPdl9kRm5VVHA3QTNINmZWaHdTeDVrYjA4SHJrd1VZRF9UTU9aSDNrekFOQQ?oc=5",
-      "published": "Thu, 06 Aug 2026 13:12:00 GMT",
-      "published_iso": "2026-08-06T13:12:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 105.6,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 227,
-      "display_title": "Bose’s New QuietComfort Headphones Are...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Bose新款QuietComfort耳机在市场上具有强大的竞争力，需加强品牌营销以提升知名度。",
-      "suggested_action": "建议通过电商平台加大推广力度，吸引更多消费者关注。"
-    },
-    {
-      "title": "What to expect from Google’s 2026 Pixel hardware launch event",
-      "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and pe",
-      "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
-      "published": "2026-08-10T13:30:00-04:00",
-      "published_iso": "2026-08-10T17:30:00+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 5.3,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "earbuds"
-        ]
-      },
-      "_score": 213,
-      "display_title": "What to expect from Google’s 2026 Pixel...",
-      "tags": [
-        "🎧 耳机音频",
-        "🚀 新品发布"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "谷歌即将发布新款Pixel硬件，需加强品牌营销以提升市场关注度。",
-      "suggested_action": "针对新产品发布，制定精准的电商和品牌推广策略。"
-    },
-    {
-      "title": "Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says - Reuters",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0Q2VXp6QlQ0VW13LVhHdzI5SkZFZTZHSlhialczaXc3VmRZczBHQTVZYVlYa21jMjJNOGZsSU53V3dwZ0JlaXh0cncxRnZ3NFRzQTVyZzJyenNpWm1TQjMzQmRCeXcxV2VlZGt0ZDQwQ0otbkFWSFBxTExlTVVSSEZOcU9ubW9qRmlOaTczcDFUZWVhMkJoX1ZNMXZZWEZiYVk3MWp1THZZQmNxVWFtWFdib2RCbExEdWUtUw?oc=5\" target=\"_",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0Q2VXp6QlQ0VW13LVhHdzI5SkZFZTZHSlhialczaXc3VmRZczBHQTVZYVlYa21jMjJNOGZsSU53V3dwZ0JlaXh0cncxRnZ3NFRzQTVyZzJyenNpWm1TQjMzQmRCeXcxV2VlZGt0ZDQwQ0otbkFWSFBxTExlTVVSSEZOcU9ubW9qRmlOaTczcDFUZWVhMkJoX1ZNMXZZWEZiYVk3MWp1THZZQmNxVWFtWFdib2RCbExEdWUtUw?oc=5",
-      "published": "Mon, 10 Aug 2026 03:19:08 GMT",
-      "published_iso": "2026-08-10T03:19:08+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 19.5,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Sony"
-        ],
-        "channels": [
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 211,
-      "display_title": "Sony, TSMC to spend $6.3 billion to...",
-      "tags": [
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Sony与TSMC联合投资6.3亿美元制造图像传感器，将提升品牌竞争力。",
-      "suggested_action": "加强与Target的合作，推广新产品以提升电商销售。"
-    },
-    {
-      "title": "Best drone deal: DJI Neo mini drone drops to $139 - mashable.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZktyenlyZ1pSd2w3YjBRVW9uc1VVZmhvdEY1bDdzVVRmUE8yVE4tRXptSTZCNmZhMHhSaGZ3Wl9BNHEtSUZ2TkI4WERrUVJlaDNvNkVwU0pzbHlfdnVv?oc=5\" target=\"_blank\">Best drone deal: DJI Neo mini drone drops to $139</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mashable.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZktyenlyZ1pSd2w3YjBRVW9uc1VVZmhvdEY1bDdzVVRmUE8yVE4tRXptSTZCNmZhMHhSaGZ3Wl9BNHEtSUZ2TkI4WERrUVJlaDNvNkVwU0pzbHlfdnVv?oc=5",
-      "published": "Mon, 10 Aug 2026 11:15:05 GMT",
-      "published_iso": "2026-08-10T11:15:05+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 11.6,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "DJI"
-        ],
-        "channels": [],
-        "categories": []
-      },
-      "_score": 209,
-      "display_title": "Best drone deal: DJI Neo mini drone...",
-      "tags": [
-        "🚁 无人机影像",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "DJI Neo迷你无人机降至139美元，电商销售机会显著。",
-      "suggested_action": "加大电商推广力度，吸引更多消费者关注该产品。"
-    },
-    {
-      "title": "Apple anticipates launching headphones with a camera for September under the AirPods Ultra seal - Mix Vale",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdHRPaGZjcEZ2WmVZOTQ2ajIzNzNXdzVFWFhxZ1g2LU9pRGctVXZhMUtWdl9LVlBKTEhNcXphamx1akxOODdwTVk0TldkeXBKdkJsVFpRbVk1bE9yYkhRQTl0UUdyTl9mTkd2YklyVWRzeEcyaHdEemFzS25ZUlo4eFNaYXFVb1VMcW9XX2hEdlBXNXdCNTdocTlKVkxCekI2WXBxZU9XOTlpSms2VEpVREM0bERjeUw4enMxclpLNkVsWHR6eDExUF",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdHRPaGZjcEZ2WmVZOTQ2ajIzNzNXdzVFWFhxZ1g2LU9pRGctVXZhMUtWdl9LVlBKTEhNcXphamx1akxOODdwTVk0TldkeXBKdkJsVFpRbVk1bE9yYkhRQTl0UUdyTl9mTkd2YklyVWRzeEcyaHdEemFzS25ZUlo4eFNaYXFVb1VMcW9XX2hEdlBXNXdCNTdocTlKVkxCekI2WXBxZU9XOTlpSms2VEpVREM0bERjeUw4enMxclpLNkVsWHR6eDExUFNUa1E1NDF1dFhZ0gHYAUFVX3lxTFBNSXhDZnBTSnFSM1Vkcnk0U3kyNlRHdWVkcl8xUjQ5R3V3VDFIUHlkZmEyZ1JVc3VqdUg3LW5iTDVMYmt6X1RKalVWMnN2S3FqOGhPY3Ewc3FGMWNpNjB0MTZYajJHdWtqcWVaeXcwWHI2Nl93R3FZaXk1Um5TcXFpSUtjVlFJdEhWWkU4Zk5CVWJRWEpjWl9VYWVxUWhwMWpMM245OWN1Y19UX1h5MmlTbWhHYlNwWkJkMXdERmp1RG5sRVV4eFJJaklJendnMUJUNGRia3JLcQ?oc=5",
-      "published": "Mon, 10 Aug 2026 10:14:19 GMT",
-      "published_iso": "2026-08-10T10:14:19+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 12.6,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 203,
-      "display_title": "Apple anticipates launching headphones...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🚁 无人机影像"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Apple即将推出带摄像头的AirPods Ultra耳机，可能引发市场竞争。",
-      "suggested_action": "加强电商渠道宣传，提前布局市场营销策略。"
-    }
-  ],
-  "channel_news": [
-    {
-      "title": "Apple AirPods Pro 3 Drop to $189.99 at Amazon and Best Buy - IGN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTjd5Rlh5MDBLSHhDY0FSVjhPVFUwaXBpV0NVRWdrZHR0WldTM2p0SnBCektocm5JUC1aZzhaN1BaNE5aaENXLWtaNXFtajhtWE1oeXFSNzRYbEZhdGlWVk9rREV1RG1YOUNtZ1g2bWpFcnFfNFhnRw?oc=5\" target=\"_blank\">Apple AirPods Pro 3 Drop to $189.99 at Amazon and Best Buy</a>&nbsp;&nbsp;<font color",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTjd5Rlh5MDBLSHhDY0FSVjhPVFUwaXBpV0NVRWdrZHR0WldTM2p0SnBCektocm5JUC1aZzhaN1BaNE5aaENXLWtaNXFtajhtWE1oeXFSNzRYbEZhdGlWVk9rREV1RG1YOUNtZ1g2bWpFcnFfNFhnRw?oc=5",
-      "published": "Mon, 10 Aug 2026 06:58:48 GMT",
-      "published_iso": "2026-08-10T06:58:48+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news",
-      "hours_since_published": 15.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Best Buy"
-        ],
-        "categories": []
-      },
-      "_score": 294,
-      "display_title": "Apple AirPods Pro 3 Drop to $189.99 at...",
-      "tags": [
-        "🎧 耳机音频",
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Apple AirPods Pro 3降价至189.99美元，电商销售机会显著。",
-      "suggested_action": "加强电商平台的促销活动，提升销量。"
-    },
-    {
-      "title": "Best Buy CEO talks AI, small-format focus - Retail Customer Experience",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVV5NVd3cC1DOFRRd1BKV3hrTVhpaEhSVERPT3FDUVhNNFI4MGxySmtxZi1QWmpsVGFiSVFzNlluWXEtaTVTUjZ6WFJUckFPWm5XVUFfbk1IYUM0bmwyLXJjeXA1NFN1SEt2ZlNReUZVUlNudS1EQWJRdXd5UWRHRl9iMktycTRVMDhWbHMzMXk?oc=5\" target=\"_blank\">Best Buy CEO talks AI, small-format focus</a>&nbsp;&",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVV5NVd3cC1DOFRRd1BKV3hrTVhpaEhSVERPT3FDUVhNNFI4MGxySmtxZi1QWmpsVGFiSVFzNlluWXEtaTVTUjZ6WFJUckFPWm5XVUFfbk1IYUM0bmwyLXJjeXA1NFN1SEt2ZlNReUZVUlNudS1EQWJRdXd5UWRHRl9iMktycTRVMDhWbHMzMXk?oc=5",
-      "published": "Mon, 10 Aug 2026 10:00:00 GMT",
-      "published_iso": "2026-08-10T10:00:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 12.8,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": []
-      },
-      "_score": 288,
-      "display_title": "Best Buy CEO talks AI, small-format...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Best Buy CEO 强调 AI 和小型门店战略，将影响电商销售模式。",
-      "suggested_action": "加大对 AI 技术的投资，优化电商平台用户体验。"
+      "suggested_action": "加大对AI耳机的市场推广力度，吸引年轻消费者。"
     },
     {
       "title": "Best Buy’s chief marketer exits, replaced by newcomer - Retail Dive",
@@ -1065,7 +803,7 @@
       "published_iso": "2026-08-10T16:02:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 6.8,
+      "hours_since_published": 7.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1083,7 +821,241 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "Best Buy首席营销官离职，可能影响品牌形象和电商策略。",
-      "suggested_action": "加强电商平台的品牌营销，确保市场稳定。"
+      "suggested_action": "密切关注新任营销官的战略调整，优化电商营销方案。"
+    }
+  ],
+  "consumer_electronics": [
+    {
+      "title": "What happens to Bose when headphones become AI?",
+      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "published": "2026-08-10T10:00:00-04:00",
+      "published_iso": "2026-08-10T14:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 9.8,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 285,
+      "display_title": "What happens to Bose when headphones...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "随着AI技术的发展，Bose需调整品牌营销策略以保持竞争力。",
+      "suggested_action": "加大对AI耳机的市场推广力度，吸引年轻消费者。"
+    },
+    {
+      "title": "Bose’s New QuietComfort Headphones Are Truly Next Gen. Here’s What I Like About Them - CNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1hTQmNSVUZEVlU4QVFlS2YxeGl2Tmw0V2czeVlPdFlfdWRqMU9VdWJVTjEwaWRfN1RBYzVVd3VfQmE3OGc3QkZNa1I1WnI0QWs1ZUo2amtZb2FHUm9GVHRJWFh6Y054TkRpaUFCUDZNUERzc25zLW9zVFBsenJYN19HNTFlalFzdmlPdl9kRm5VVHA3QTNINmZWaHdTeDVrYjA4SHJrd1VZRF9UTU9aSDNrekFOQQ?oc=5\" target=\"_blank\">B",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1hTQmNSVUZEVlU4QVFlS2YxeGl2Tmw0V2czeVlPdFlfdWRqMU9VdWJVTjEwaWRfN1RBYzVVd3VfQmE3OGc3QkZNa1I1WnI0QWs1ZUo2amtZb2FHUm9GVHRJWFh6Y054TkRpaUFCUDZNUERzc25zLW9zVFBsenJYN19HNTFlalFzdmlPdl9kRm5VVHA3QTNINmZWaHdTeDVrYjA4SHJrd1VZRF9UTU9aSDNrekFOQQ?oc=5",
+      "published": "Thu, 06 Aug 2026 13:12:00 GMT",
+      "published_iso": "2026-08-06T13:12:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 106.6,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 227,
+      "display_title": "Bose’s New QuietComfort Headphones Are...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Bose新款QuietComfort耳机具备先进技术，提升品牌竞争力。",
+      "suggested_action": "加强电商平台推广，提升品牌曝光和销售转化。"
+    },
+    {
+      "title": "What to expect from Google’s 2026 Pixel hardware launch event",
+      "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and pe",
+      "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+      "published": "2026-08-10T13:30:00-04:00",
+      "published_iso": "2026-08-10T17:30:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 6.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "earbuds"
+        ]
+      },
+      "_score": 213,
+      "display_title": "What to expect from Google’s 2026 Pixel...",
+      "tags": [
+        "🎧 耳机音频",
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "谷歌即将发布新款Pixel硬件，需加强品牌营销以提升市场关注度。",
+      "suggested_action": "针对新产品推出线上营销活动，吸引消费者关注和购买。"
+    },
+    {
+      "title": "Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0Q2VXp6QlQ0VW13LVhHdzI5SkZFZTZHSlhialczaXc3VmRZczBHQTVZYVlYa21jMjJNOGZsSU53V3dwZ0JlaXh0cncxRnZ3NFRzQTVyZzJyenNpWm1TQjMzQmRCeXcxV2VlZGt0ZDQwQ0otbkFWSFBxTExlTVVSSEZOcU9ubW9qRmlOaTczcDFUZWVhMkJoX1ZNMXZZWEZiYVk3MWp1THZZQmNxVWFtWFdib2RCbExEdWUtUw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0Q2VXp6QlQ0VW13LVhHdzI5SkZFZTZHSlhialczaXc3VmRZczBHQTVZYVlYa21jMjJNOGZsSU53V3dwZ0JlaXh0cncxRnZ3NFRzQTVyZzJyenNpWm1TQjMzQmRCeXcxV2VlZGt0ZDQwQ0otbkFWSFBxTExlTVVSSEZOcU9ubW9qRmlOaTczcDFUZWVhMkJoX1ZNMXZZWEZiYVk3MWp1THZZQmNxVWFtWFdib2RCbExEdWUtUw?oc=5",
+      "published": "Mon, 10 Aug 2026 03:19:08 GMT",
+      "published_iso": "2026-08-10T03:19:08+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 20.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Sony"
+        ],
+        "channels": [
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 211,
+      "display_title": "Sony, TSMC to spend $6.3 billion to...",
+      "tags": [
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Sony与TSMC联合投资63亿美元制造图像传感器，将提升产品竞争力。",
+      "suggested_action": "加强与Sony的电商合作，推动新产品上市和品牌宣传。"
+    },
+    {
+      "title": "Best drone deal: DJI Neo mini drone drops to $139 - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZktyenlyZ1pSd2w3YjBRVW9uc1VVZmhvdEY1bDdzVVRmUE8yVE4tRXptSTZCNmZhMHhSaGZ3Wl9BNHEtSUZ2TkI4WERrUVJlaDNvNkVwU0pzbHlfdnVv?oc=5\" target=\"_blank\">Best drone deal: DJI Neo mini drone drops to $139</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZktyenlyZ1pSd2w3YjBRVW9uc1VVZmhvdEY1bDdzVVRmUE8yVE4tRXptSTZCNmZhMHhSaGZ3Wl9BNHEtSUZ2TkI4WERrUVJlaDNvNkVwU0pzbHlfdnVv?oc=5",
+      "published": "Mon, 10 Aug 2026 11:15:05 GMT",
+      "published_iso": "2026-08-10T11:15:05+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 12.6,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "DJI"
+        ],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 209,
+      "display_title": "Best drone deal: DJI Neo mini drone...",
+      "tags": [
+        "🚁 无人机影像",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "DJI Neo迷你无人机降价至139美元，电商销售机会显著。",
+      "suggested_action": "加强电商推广，利用降价吸引消费者购买。"
+    },
+    {
+      "title": "Apple anticipates launching headphones with a camera for September under the AirPods Ultra seal - Mix Vale",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdHRPaGZjcEZ2WmVZOTQ2ajIzNzNXdzVFWFhxZ1g2LU9pRGctVXZhMUtWdl9LVlBKTEhNcXphamx1akxOODdwTVk0TldkeXBKdkJsVFpRbVk1bE9yYkhRQTl0UUdyTl9mTkd2YklyVWRzeEcyaHdEemFzS25ZUlo4eFNaYXFVb1VMcW9XX2hEdlBXNXdCNTdocTlKVkxCekI2WXBxZU9XOTlpSms2VEpVREM0bERjeUw4enMxclpLNkVsWHR6eDExUF",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdHRPaGZjcEZ2WmVZOTQ2ajIzNzNXdzVFWFhxZ1g2LU9pRGctVXZhMUtWdl9LVlBKTEhNcXphamx1akxOODdwTVk0TldkeXBKdkJsVFpRbVk1bE9yYkhRQTl0UUdyTl9mTkd2YklyVWRzeEcyaHdEemFzS25ZUlo4eFNaYXFVb1VMcW9XX2hEdlBXNXdCNTdocTlKVkxCekI2WXBxZU9XOTlpSms2VEpVREM0bERjeUw4enMxclpLNkVsWHR6eDExUFNUa1E1NDF1dFhZ0gHYAUFVX3lxTFBNSXhDZnBTSnFSM1Vkcnk0U3kyNlRHdWVkcl8xUjQ5R3V3VDFIUHlkZmEyZ1JVc3VqdUg3LW5iTDVMYmt6X1RKalVWMnN2S3FqOGhPY3Ewc3FGMWNpNjB0MTZYajJHdWtqcWVaeXcwWHI2Nl93R3FZaXk1Um5TcXFpSUtjVlFJdEhWWkU4Zk5CVWJRWEpjWl9VYWVxUWhwMWpMM245OWN1Y19UX1h5MmlTbWhHYlNwWkJkMXdERmp1RG5sRVV4eFJJaklJendnMUJUNGRia3JLcQ?oc=5",
+      "published": "Mon, 10 Aug 2026 10:14:19 GMT",
+      "published_iso": "2026-08-10T10:14:19+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 13.6,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 203,
+      "display_title": "Apple anticipates launching headphones...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🚁 无人机影像"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "苹果即将推出带摄像头的耳机，将提升品牌竞争力，吸引更多消费者关注。",
+      "suggested_action": "加大电商和品牌营销力度，提前布局市场宣传。"
+    }
+  ],
+  "channel_news": [
+    {
+      "title": "Apple AirPods Pro 3 Drop to $189.99 at Amazon and Best Buy - IGN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTjd5Rlh5MDBLSHhDY0FSVjhPVFUwaXBpV0NVRWdrZHR0WldTM2p0SnBCektocm5JUC1aZzhaN1BaNE5aaENXLWtaNXFtajhtWE1oeXFSNzRYbEZhdGlWVk9rREV1RG1YOUNtZ1g2bWpFcnFfNFhnRw?oc=5\" target=\"_blank\">Apple AirPods Pro 3 Drop to $189.99 at Amazon and Best Buy</a>&nbsp;&nbsp;<font color",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTjd5Rlh5MDBLSHhDY0FSVjhPVFUwaXBpV0NVRWdrZHR0WldTM2p0SnBCektocm5JUC1aZzhaN1BaNE5aaENXLWtaNXFtajhtWE1oeXFSNzRYbEZhdGlWVk9rREV1RG1YOUNtZ1g2bWpFcnFfNFhnRw?oc=5",
+      "published": "Mon, 10 Aug 2026 06:58:48 GMT",
+      "published_iso": "2026-08-10T06:58:48+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news",
+      "hours_since_published": 16.8,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 294,
+      "display_title": "Apple AirPods Pro 3 Drop to $189.99 at...",
+      "tags": [
+        "🎧 耳机音频",
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Apple AirPods Pro 3降价至189.99美元，电商渠道销售机会显著。",
+      "suggested_action": "加强电商平台推广，提升销量和品牌曝光。"
+    },
+    {
+      "title": "Best Buy’s chief marketer exits, replaced by newcomer - Retail Dive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXk0cHJPWDd3NTJsRGU0MklidGd5T05RSHdmTDlFdFA3WGd2NEFUandCcTAzTU9FNnROODBvVDdjbWZhUmN4dDNOTzQ4T0JPa3ZGOVpMbmJVbkRLeWN2Z1dhc0JOVUFuYWJZbFJDTjFiR0JZTG14cGxGcWZwaHh5VlRpNFctekdkZnc?oc=5\" target=\"_blank\">Best Buy’s chief marketer exits, replaced by newcomer</a>&nb",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXk0cHJPWDd3NTJsRGU0MklidGd5T05RSHdmTDlFdFA3WGd2NEFUandCcTAzTU9FNnROODBvVDdjbWZhUmN4dDNOTzQ4T0JPa3ZGOVpMbmJVbkRLeWN2Z1dhc0JOVUFuYWJZbFJDTjFiR0JZTG14cGxGcWZwaHh5VlRpNFctekdkZnc?oc=5",
+      "published": "Mon, 10 Aug 2026 16:02:08 GMT",
+      "published_iso": "2026-08-10T16:02:08+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 7.8,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 280,
+      "display_title": "Best Buy’s chief marketer exits...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Best Buy首席营销官离职，可能影响品牌形象和电商策略。",
+      "suggested_action": "密切关注新任营销官的战略调整，优化电商营销方案。"
     },
     {
       "title": "Amazon and Walmart Want to Beat the Consumer to Their Next Purchase - PYMNTS.com",
@@ -1093,7 +1065,7 @@
       "published_iso": "2026-08-06T18:58:14+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 99.9,
+      "hours_since_published": 100.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1111,8 +1083,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "亚马逊和沃尔玛希望在消费者购买前抢占市场，提升电商竞争力。",
-      "suggested_action": "加强电商平台的品牌营销，提升用户购买转化率。"
+      "business_note": "亚马逊和沃尔玛正积极争夺消费者的购买决策，影响电商市场格局。",
+      "suggested_action": "加强电商平台的品牌营销，提升消费者购买转化率。"
     },
     {
       "title": "Retail Roundup: 6 Commerce Media Moves from Walmart, Michaels, and 7-Eleven - ADWEEK",
@@ -1122,7 +1094,7 @@
       "published_iso": "2026-08-06T18:33:52+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 100.3,
+      "hours_since_published": 101.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1139,8 +1111,8 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Walmart在电商领域的动态将直接影响我们的市场策略和销售表现。",
-      "suggested_action": "建议加强与Walmart的合作，优化电商渠道的品牌曝光和销售策略。"
+      "business_note": "关注Walmart等零售商的电商动态，有助于提升品牌曝光和销售。",
+      "suggested_action": "加强与Walmart的合作，优化电商营销策略。"
     },
     {
       "title": "Best Buy to open immersive in-store shops dedicated to Meta AI glasses, VR headsets - chainstoreage.com",
@@ -1150,7 +1122,7 @@
       "published_iso": "2026-08-06T07:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 111.8,
+      "hours_since_published": 112.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1167,8 +1139,35 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Best Buy开设沉浸式店铺，展示Meta AI眼镜和VR头显，提升消费者体验。",
-      "suggested_action": "建议加大电商平台的Meta产品推广力度，吸引更多消费者关注。"
+      "business_note": "Best Buy开设沉浸式店铺，展示Meta AI眼镜和VR头盔，提升消费者体验。",
+      "suggested_action": "加强电商平台的Meta产品推广，吸引更多消费者关注。"
+    },
+    {
+      "title": "Foot Locker reinforces role in sneaker culture with new brand platform",
+      "summary": "<p>Chief marketer Brett O&rsquo;Brien digs into the retailer&rsquo;s &ldquo;It Always Will Be Foot Locker&rdquo; creative, which arrives as the business begins to turn around.</p>",
+      "url": "https://www.retaildive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827324/",
+      "published": "Mon, 10 Aug 2026 10:13:00 -0400",
+      "published_iso": "2026-08-10T14:13:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 9.6,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "REI"
+        ],
+        "categories": []
+      },
+      "_score": 248,
+      "display_title": "Foot Locker reinforces role in sneaker...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "Foot Locker通过新品牌平台强化了其在运动鞋文化中的地位，助力业务复苏。",
+      "suggested_action": "建议加强电商渠道的品牌营销，提升消费者参与度。"
     }
   ],
   "products": [
@@ -1180,7 +1179,7 @@
       "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
       "source": "The Verge",
       "_score": 95,
-      "hours_since_published": 8.8,
+      "hours_since_published": 9.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1192,7 +1191,7 @@
         ]
       },
       "display_title": "What happens to Bose when headphones...",
-      "display_summary": "今日采访Bose首席执行官Lila Snyder，探讨该公司60年来专注研发的成功历程及其在",
+      "display_summary": "今日采访Bose首席执行官Lila Snyder，探讨该品牌60年来在消费电子领域的研发与创",
       "tags": [
         "🎧 耳机音频"
       ],
@@ -1200,8 +1199,8 @@
       "judgement_label": "竞品观察",
       "product_intro": "今日采访Bose首席执行官Lila。",
       "importance": "高",
-      "business_note": "随着AI技术的发展，Bose需调整品牌营销策略以保持竞争力。",
-      "suggested_action": "加大对AI耳机的市场推广力度，吸引年轻消费者。"
+      "business_note": "Bose需关注AI耳机趋势，以保持品牌竞争力和市场份额。",
+      "suggested_action": "加大对AI耳机的研发投入，提升品牌营销策略。"
     },
     {
       "name": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
@@ -1211,7 +1210,7 @@
       "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 3.6,
+      "hours_since_published": 4.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1221,17 +1220,17 @@
         "categories": []
       },
       "display_title": "Costco&#8217;s great Switch 2 console...",
-      "display_summary": "任天堂Switch 2将于2026年9月1日涨价50美元，售价499.99美元。Costco",
+      "display_summary": "2026年9月1日起，任天堂Switch 2价格上涨至499.99美元，Costco会员可享",
       "tags": [
         "🏬 平台电商",
         "💰 价格促销"
       ],
       "impact_area": "电商",
       "judgement_label": "业务观察",
-      "product_intro": "任天堂Switch。",
+      "product_intro": "2026年9月1日起，任天堂Switch。",
       "importance": "高",
-      "business_note": "Costco推出的Switch 2捆绑销售将吸引大量消费者，提升电商销售额。",
-      "suggested_action": "建议加强与Costco的合作，推广Switch 2捆绑销售，提升品牌曝光。"
+      "business_note": "Costco推出Switch 2捆绑销售，吸引电商用户，提升销量。",
+      "suggested_action": "加大与Costco的合作，优化电商渠道促销策略。"
     },
     {
       "name": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
@@ -1241,7 +1240,7 @@
       "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 8.4,
+      "hours_since_published": 9.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1251,17 +1250,17 @@
         "categories": []
       },
       "display_title": "Keychron’s wireless Hall effect...",
-      "display_summary": "Keychron铝合金K2 HE键盘现价$103.99（原价$130），具可定制霍尔效应传感",
+      "display_summary": "Keychron K2 HE机械键盘现售价103.99美元（原价130美元），提供可定制霍尔",
       "tags": [
         "🏬 平台电商",
         "💰 价格促销"
       ],
       "impact_area": "电商",
       "judgement_label": "价格促销",
-      "product_intro": "Keychron铝合金K2。",
+      "product_intro": "Keychron K2。",
       "importance": "高",
       "business_note": "Keychron无线霍尔效应键盘降价，有助于提升电商销量。",
-      "suggested_action": "在电商平台上加大推广力度，吸引更多消费者关注。"
+      "suggested_action": "利用降价信息加强电商平台的营销推广。"
     },
     {
       "name": "Anker&#8217;s travel charger works in almost any country and is down to $20",
@@ -1271,7 +1270,7 @@
       "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
       "source": "The Verge",
       "_score": 61,
-      "hours_since_published": 1.5,
+      "hours_since_published": 2.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1281,16 +1280,16 @@
         ]
       },
       "display_title": "Anker&#8217;s travel charger works in...",
-      "display_summary": "安克Nano旅行适配器是夏季旅行最佳电子产品推荐之一，适合国际旅行时为手机、耳机等设备充电。",
+      "display_summary": "安克Nano旅行适配器是国际旅行必备，适合为手机、耳机和移动电源充电。",
       "tags": [
         "🎧 耳机音频"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "安克Nano旅行适配器是夏季旅行最佳电子产品推荐之一，适合国际旅行时为手机。",
+      "product_intro": "安克Nano旅行适配器是国际旅行必备，适合为手机、耳机和移动电源充电。",
       "importance": "高",
-      "business_note": "Anker的旅行充电器适用于国际旅行，提升品牌曝光和销售潜力。",
-      "suggested_action": "加强电商平台的品牌营销，推广旅行充电器的多功能性。"
+      "business_note": "Anker旅行充电器适用于多国，适合国际旅行者，提升品牌曝光。",
+      "suggested_action": "加强电商平台宣传，针对旅行用户进行品牌营销。"
     },
     {
       "name": "Mark Zuckerberg doesn’t understand how to live",
@@ -1300,7 +1299,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.8,
+      "hours_since_published": 1.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1308,16 +1307,16 @@
         "categories": []
       },
       "display_title": "Mark Zuckerberg doesn’t understand how...",
-      "display_summary": "一名攀岩者分享了他利用AI制作的激励海报，内容为一只熊在峡谷上走绳索，标语为“做酷事”。",
+      "display_summary": "一名攀岩者分享了他利用AI制作的激励海报，内容为一只熊在峡谷上走钢丝，标语为“做酷事”。",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "一名攀岩者分享了他利用AI制作的激励海报，内容为一只熊在峡谷上走绳索，标语。",
+      "product_intro": "一名攀岩者分享了他利用AI制作的激励海报，内容为一只熊在峡谷上走钢丝，标语。",
       "importance": "中",
-      "business_note": "品牌营销需关注消费者心理，提升品牌共鸣。",
-      "suggested_action": "利用AI技术创造个性化营销内容，增强用户互动。"
+      "business_note": "品牌营销需关注用户心理，提升品牌认同感。",
+      "suggested_action": "利用AI技术制作个性化营销内容，增强用户互动。"
     },
     {
       "name": "Apple will stream Friday Night Baseball live in Vision Pro",
@@ -1327,7 +1326,7 @@
       "url": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 7.8,
+      "hours_since_published": 8.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1335,16 +1334,16 @@
         "categories": []
       },
       "display_title": "Apple will stream Friday Night Baseball...",
-      "display_summary": "苹果将于8月28日开始在Apple Vision Pro上以沉浸式视频直播周五夜棒球，提供多",
+      "display_summary": "苹果将于8月28日上线Friday Night Baseball，支持Apple Visio",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "竞品观察",
-      "product_intro": "苹果将于8月28日开始在Apple Vision。",
+      "product_intro": "苹果将于8月28日上线Friday Night。",
       "importance": "高",
-      "business_note": "苹果通过Vision Pro直播体育赛事，提升品牌影响力和用户体验。",
-      "suggested_action": "加强品牌营销，利用直播吸引更多用户关注和购买Vision Pro。"
+      "business_note": "苹果通过Vision Pro直播体育赛事，提升品牌影响力和用户粘性。",
+      "suggested_action": "加大对Vision Pro的品牌营销投入，吸引更多用户关注和参与。"
     }
   ],
   "monitored_entities": [
@@ -1361,7 +1360,7 @@
           "published_iso": "2026-08-10T06:58:48+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 15.9,
+          "hours_since_published": 16.8,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1380,18 +1379,18 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Apple AirPods Pro 3降价至189.99美元，电商销售机会显著。",
-          "suggested_action": "加强电商平台的促销活动，提升销量。"
+          "business_note": "Apple AirPods Pro 3降价至189.99美元，电商渠道销售机会显著。",
+          "suggested_action": "加强电商平台推广，提升销量和品牌曝光。"
         },
         {
-          "title": "Best Buy CEO talks AI, small-format focus - Retail Customer Experience",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVV5NVd3cC1DOFRRd1BKV3hrTVhpaEhSVERPT3FDUVhNNFI4MGxySmtxZi1QWmpsVGFiSVFzNlluWXEtaTVTUjZ6WFJUckFPWm5XVUFfbk1IYUM0bmwyLXJjeXA1NFN1SEt2ZlNReUZVUlNudS1EQWJRdXd5UWRHRl9iMktycTRVMDhWbHMzMXk?oc=5\" target=\"_blank\">Best Buy CEO talks AI, small-format focus</a>&nbsp;&",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVV5NVd3cC1DOFRRd1BKV3hrTVhpaEhSVERPT3FDUVhNNFI4MGxySmtxZi1QWmpsVGFiSVFzNlluWXEtaTVTUjZ6WFJUckFPWm5XVUFfbk1IYUM0bmwyLXJjeXA1NFN1SEt2ZlNReUZVUlNudS1EQWJRdXd5UWRHRl9iMktycTRVMDhWbHMzMXk?oc=5",
-          "published": "Mon, 10 Aug 2026 10:00:00 GMT",
-          "published_iso": "2026-08-10T10:00:00+00:00",
+          "title": "Best Buy’s chief marketer exits, replaced by newcomer - Retail Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXk0cHJPWDd3NTJsRGU0MklidGd5T05RSHdmTDlFdFA3WGd2NEFUandCcTAzTU9FNnROODBvVDdjbWZhUmN4dDNOTzQ4T0JPa3ZGOVpMbmJVbkRLeWN2Z1dhc0JOVUFuYWJZbFJDTjFiR0JZTG14cGxGcWZwaHh5VlRpNFctekdkZnc?oc=5\" target=\"_blank\">Best Buy’s chief marketer exits, replaced by newcomer</a>&nb",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXk0cHJPWDd3NTJsRGU0MklidGd5T05RSHdmTDlFdFA3WGd2NEFUandCcTAzTU9FNnROODBvVDdjbWZhUmN4dDNOTzQ4T0JPa3ZGOVpMbmJVbkRLeWN2Z1dhc0JOVUFuYWJZbFJDTjFiR0JZTG14cGxGcWZwaHh5VlRpNFctekdkZnc?oc=5",
+          "published": "Mon, 10 Aug 2026 16:02:08 GMT",
+          "published_iso": "2026-08-10T16:02:08+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 12.8,
+          "hours_since_published": 7.8,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1400,16 +1399,16 @@
             ],
             "categories": []
           },
-          "_score": 288,
-          "display_title": "Best Buy CEO talks AI, small-format...",
+          "_score": 280,
+          "display_title": "Best Buy’s chief marketer exits...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Best Buy CEO 强调 AI 和小型门店战略，将影响电商销售模式。",
-          "suggested_action": "加大对 AI 技术的投资，优化电商平台用户体验。"
+          "business_note": "Best Buy首席营销官离职，可能影响品牌形象和电商策略。",
+          "suggested_action": "密切关注新任营销官的战略调整，优化电商营销方案。"
         }
       ]
     },
@@ -1426,7 +1425,7 @@
           "published_iso": "2026-08-10T06:58:48+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 15.9,
+          "hours_since_published": 16.8,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1445,8 +1444,8 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Apple AirPods Pro 3降价至189.99美元，电商销售机会显著。",
-          "suggested_action": "加强电商平台的促销活动，提升销量。"
+          "business_note": "Apple AirPods Pro 3降价至189.99美元，电商渠道销售机会显著。",
+          "suggested_action": "加强电商平台推广，提升销量和品牌曝光。"
         },
         {
           "title": "Amazon and Walmart Want to Beat the Consumer to Their Next Purchase - PYMNTS.com",
@@ -1456,7 +1455,7 @@
           "published_iso": "2026-08-06T18:58:14+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 99.9,
+          "hours_since_published": 100.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1474,8 +1473,75 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "亚马逊和沃尔玛希望在消费者购买前抢占市场，提升电商竞争力。",
-          "suggested_action": "加强电商平台的品牌营销，提升用户购买转化率。"
+          "business_note": "亚马逊和沃尔玛正积极争夺消费者的购买决策，影响电商市场格局。",
+          "suggested_action": "加强电商平台的品牌营销，提升消费者购买转化率。"
+        }
+      ]
+    },
+    {
+      "name": "Bose",
+      "type": "品牌",
+      "count": 4,
+      "items": [
+        {
+          "title": "What happens to Bose when headphones become AI?",
+          "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
+          "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+          "published": "2026-08-10T10:00:00-04:00",
+          "published_iso": "2026-08-10T14:00:00+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 9.8,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 285,
+          "display_title": "What happens to Bose when headphones...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "随着AI技术的发展，Bose需调整品牌营销策略以保持竞争力。",
+          "suggested_action": "加大对AI耳机的市场推广力度，吸引年轻消费者。"
+        },
+        {
+          "title": "Premium Bose earbuds with open-ear design get can’t miss $100 off deal at Best Buy - Cleveland.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXlHbktzaFRJZlhWREtQQ2JBUTJOS3FfXzhGZHFZclNKTHlsYXFCaUducEdBMy12ajRtOEVOTXNsWUtQNGptcHNtbjhseTR0RDhPekR1ZWRhQVQtQUlsWmdzTzNMQzlsRzVzWGY3UTlxeUhuNVN6MDZlUW90SVZEMDZqdFlWQXBGT3cyMnk5RE9qTWlKZVpGXzQ3MzdXLTU1dTZDSTExN1VDWG82X3NyN0I4aTRXRVNwNV9CaFhCaUI1S1pnaDN30g",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXlHbktzaFRJZlhWREtQQ2JBUTJOS3FfXzhGZHFZclNKTHlsYXFCaUducEdBMy12ajRtOEVOTXNsWUtQNGptcHNtbjhseTR0RDhPekR1ZWRhQVQtQUlsWmdzTzNMQzlsRzVzWGY3UTlxeUhuNVN6MDZlUW90SVZEMDZqdFlWQXBGT3cyMnk5RE9qTWlKZVpGXzQ3MzdXLTU1dTZDSTExN1VDWG82X3NyN0I4aTRXRVNwNV9CaFhCaUI1S1pnaDN30gHbAUFVX3lxTE8tMUtJS3I1VjRQaW9uc1VTWmg1UEVvSWVkRlpNZ3V0WUdIU0paS0lvTk5pdE9xcW1BZy12S2EwS29jZWkwcGVUOWZqTjJoV3ZLZksya0xUeWQ5Q2VCWWc0NVN0b3dRNV9sdTNNS0lvQ0h5aG5kdGgycWhtSmYxQ0RJSnFMMndtTno5T0wxbXcycy0tbWdpNXdfVjJnay1MWHZaZnBjRXE2dWw2NmpRMmZwTDBjNXJEVFRGRXdDR05BYUlRNGdtVlhMOW83X2JBb2xjOHpYbl9pMjhBbw?oc=5",
+          "published": "Tue, 04 Aug 2026 20:51:00 GMT",
+          "published_iso": "2026-08-04T20:51:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 147.0,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 230,
+          "display_title": "Premium Bose earbuds with open-ear...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商"
         }
       ]
     },
@@ -1492,7 +1558,7 @@
           "published_iso": "2026-08-10T14:00:00+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 8.8,
+          "hours_since_published": 9.8,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1511,7 +1577,7 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "随着AI技术的发展，Bose需调整品牌营销策略以保持竞争力。",
-          "suggested_action": "加强电商平台的AI产品推广，提升用户体验和品牌认知。"
+          "suggested_action": "加大对AI耳机的市场推广力度，吸引年轻消费者。"
         },
         {
           "title": "Bose’s New QuietComfort Headphones Are Truly Next Gen. Here’s What I Like About Them - CNET",
@@ -1521,7 +1587,7 @@
           "published_iso": "2026-08-06T13:12:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 105.6,
+          "hours_since_published": 106.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1539,145 +1605,47 @@
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Bose新款QuietComfort耳机在市场上具有强大的竞争力，需加强品牌营销以提升知名度。",
-          "suggested_action": "建议通过电商平台加大推广力度，吸引更多消费者关注。"
-        }
-      ]
-    },
-    {
-      "name": "Walmart",
-      "type": "渠道",
-      "count": 3,
-      "items": [
-        {
-          "title": "Amazon and Walmart Want to Beat the Consumer to Their Next Purchase - PYMNTS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHBTeG9MR3d0VlI3d3d1YVExQnYwdlZHNzN2dlJnQ0NYaFpNOGhmLVdYeS1SamtzUVNSdk9GMmdmWTk5WUJWMmlyZGdya0ZKRzRhM0lncm9TQUhqZ0xESEFxeUgwQ3hKeFJIazFILVQxTER3d0M1dE10cHVFM0p0T2lnZDZHY3dZaEo5Tg?oc=5\" target=\"_blank\">Amazon and Walmart Want to Beat the Consumer to Their Nex",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHBTeG9MR3d0VlI3d3d1YVExQnYwdlZHNzN2dlJnQ0NYaFpNOGhmLVdYeS1SamtzUVNSdk9GMmdmWTk5WUJWMmlyZGdya0ZKRzRhM0lncm9TQUhqZ0xESEFxeUgwQ3hKeFJIazFILVQxTER3d0M1dE10cHVFM0p0T2lnZDZHY3dZaEo5Tg?oc=5",
-          "published": "Thu, 06 Aug 2026 18:58:14 GMT",
-          "published_iso": "2026-08-06T18:58:14+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 99.9,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 274,
-          "display_title": "Amazon and Walmart Want to Beat the...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "亚马逊和沃尔玛希望在消费者购买前抢占市场，提升电商竞争力。",
-          "suggested_action": "加强电商平台的品牌营销，提升用户购买转化率。"
-        },
-        {
-          "title": "Retail Roundup: 6 Commerce Media Moves from Walmart, Michaels, and 7-Eleven - ADWEEK",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclhaU09NbVFJREdFelhYbmhGSktneVk4NG42TW55ZnhTTWgxZWoyeUxDaVNuOFRQUkx2TWYwT2RXUlZhRVhJV1ZhQXVFVDR5aVFRNzJoNm1ZT2FOVnE3X0l6aUdNQXVzQjJXZUFyMFZiMlN4TElzVm00X01HSjJSTWR3Njdoa25iT0hYTkh1X2pnaUNKQS04VkVlQzlRU3Q3ZHRfQm9DX2U?oc=5\" target=\"_blank\">Retail Roundup: 6 Co",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclhaU09NbVFJREdFelhYbmhGSktneVk4NG42TW55ZnhTTWgxZWoyeUxDaVNuOFRQUkx2TWYwT2RXUlZhRVhJV1ZhQXVFVDR5aVFRNzJoNm1ZT2FOVnE3X0l6aUdNQXVzQjJXZUFyMFZiMlN4TElzVm00X01HSjJSTWR3Njdoa25iT0hYTkh1X2pnaUNKQS04VkVlQzlRU3Q3ZHRfQm9DX2U?oc=5",
-          "published": "Thu, 06 Aug 2026 18:33:52 GMT",
-          "published_iso": "2026-08-06T18:33:52+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 100.3,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 250,
-          "display_title": "Retail Roundup: 6 Commerce Media Moves...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Walmart在电商领域的动态将直接影响我们的市场策略和销售表现。",
-          "suggested_action": "建议加强与Walmart的合作，优化电商渠道的品牌曝光和销售策略。"
-        }
-      ]
-    },
-    {
-      "name": "Bose",
-      "type": "品牌",
-      "count": 3,
-      "items": [
-        {
-          "title": "What happens to Bose when headphones become AI?",
-          "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
-          "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-          "published": "2026-08-10T10:00:00-04:00",
-          "published_iso": "2026-08-10T14:00:00+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 8.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 285,
-          "display_title": "What happens to Bose when headphones...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "随着AI技术的发展，Bose需调整品牌营销策略以保持竞争力。",
-          "suggested_action": "加强电商平台的AI产品推广，提升用户体验和品牌认知。"
-        },
-        {
-          "title": "Bose’s New QuietComfort Headphones Are Truly Next Gen. Here’s What I Like About Them - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1hTQmNSVUZEVlU4QVFlS2YxeGl2Tmw0V2czeVlPdFlfdWRqMU9VdWJVTjEwaWRfN1RBYzVVd3VfQmE3OGc3QkZNa1I1WnI0QWs1ZUo2amtZb2FHUm9GVHRJWFh6Y054TkRpaUFCUDZNUERzc25zLW9zVFBsenJYN19HNTFlalFzdmlPdl9kRm5VVHA3QTNINmZWaHdTeDVrYjA4SHJrd1VZRF9UTU9aSDNrekFOQQ?oc=5\" target=\"_blank\">B",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1hTQmNSVUZEVlU4QVFlS2YxeGl2Tmw0V2czeVlPdFlfdWRqMU9VdWJVTjEwaWRfN1RBYzVVd3VfQmE3OGc3QkZNa1I1WnI0QWs1ZUo2amtZb2FHUm9GVHRJWFh6Y054TkRpaUFCUDZNUERzc25zLW9zVFBsenJYN19HNTFlalFzdmlPdl9kRm5VVHA3QTNINmZWaHdTeDVrYjA4SHJrd1VZRF9UTU9aSDNrekFOQQ?oc=5",
-          "published": "Thu, 06 Aug 2026 13:12:00 GMT",
-          "published_iso": "2026-08-06T13:12:00+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 105.6,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 227,
-          "display_title": "Bose’s New QuietComfort Headphones Are...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Bose新款QuietComfort耳机在市场上具有强大的竞争力，需加强品牌营销以提升知名度。",
-          "suggested_action": "建议通过电商平台加大推广力度，吸引更多消费者关注。"
+          "business_note": "Bose新款QuietComfort耳机具备先进技术，提升品牌竞争力。",
+          "suggested_action": "加强电商平台推广，提升品牌曝光和销售转化。"
         }
       ]
     },
     {
       "name": "earbuds",
       "type": "品类",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "Premium Bose earbuds with open-ear design get can’t miss $100 off deal at Best Buy - Cleveland.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXlHbktzaFRJZlhWREtQQ2JBUTJOS3FfXzhGZHFZclNKTHlsYXFCaUducEdBMy12ajRtOEVOTXNsWUtQNGptcHNtbjhseTR0RDhPekR1ZWRhQVQtQUlsWmdzTzNMQzlsRzVzWGY3UTlxeUhuNVN6MDZlUW90SVZEMDZqdFlWQXBGT3cyMnk5RE9qTWlKZVpGXzQ3MzdXLTU1dTZDSTExN1VDWG82X3NyN0I4aTRXRVNwNV9CaFhCaUI1S1pnaDN30g",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXlHbktzaFRJZlhWREtQQ2JBUTJOS3FfXzhGZHFZclNKTHlsYXFCaUducEdBMy12ajRtOEVOTXNsWUtQNGptcHNtbjhseTR0RDhPekR1ZWRhQVQtQUlsWmdzTzNMQzlsRzVzWGY3UTlxeUhuNVN6MDZlUW90SVZEMDZqdFlWQXBGT3cyMnk5RE9qTWlKZVpGXzQ3MzdXLTU1dTZDSTExN1VDWG82X3NyN0I4aTRXRVNwNV9CaFhCaUI1S1pnaDN30gHbAUFVX3lxTE8tMUtJS3I1VjRQaW9uc1VTWmg1UEVvSWVkRlpNZ3V0WUdIU0paS0lvTk5pdE9xcW1BZy12S2EwS29jZWkwcGVUOWZqTjJoV3ZLZksya0xUeWQ5Q2VCWWc0NVN0b3dRNV9sdTNNS0lvQ0h5aG5kdGgycWhtSmYxQ0RJSnFMMndtTno5T0wxbXcycy0tbWdpNXdfVjJnay1MWHZaZnBjRXE2dWw2NmpRMmZwTDBjNXJEVFRGRXdDR05BYUlRNGdtVlhMOW83X2JBb2xjOHpYbl9pMjhBbw?oc=5",
+          "published": "Tue, 04 Aug 2026 20:51:00 GMT",
+          "published_iso": "2026-08-04T20:51:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 147.0,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": [
+              "open-ear",
+              "earbuds"
+            ]
+          },
+          "_score": 230,
+          "display_title": "Premium Bose earbuds with open-ear...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商"
+        },
         {
           "title": "What to expect from Google’s 2026 Pixel hardware launch event",
           "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and pe",
@@ -1686,7 +1654,7 @@
           "published_iso": "2026-08-10T17:30:00+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 5.3,
+          "hours_since_published": 6.3,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1704,31 +1672,71 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "谷歌即将发布新款Pixel硬件，需加强品牌营销以提升市场关注度。",
-          "suggested_action": "针对新产品发布，制定精准的电商和品牌推广策略。"
-        },
+          "suggested_action": "针对新产品推出线上营销活动，吸引消费者关注和购买。"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "渠道",
+      "count": 3,
+      "items": [
         {
-          "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
-          "summary": "If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer travel because it can charge up to five devices at once, yet it’s small enough [&#8",
-          "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
-          "published": "2026-08-10T17:18:15-04:00",
-          "published_iso": "2026-08-10T21:18:15+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 1.5,
-          "freshness_label": "24h内",
+          "title": "Amazon and Walmart Want to Beat the Consumer to Their Next Purchase - PYMNTS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHBTeG9MR3d0VlI3d3d1YVExQnYwdlZHNzN2dlJnQ0NYaFpNOGhmLVdYeS1SamtzUVNSdk9GMmdmWTk5WUJWMmlyZGdya0ZKRzRhM0lncm9TQUhqZ0xESEFxeUgwQ3hKeFJIazFILVQxTER3d0M1dE10cHVFM0p0T2lnZDZHY3dZaEo5Tg?oc=5\" target=\"_blank\">Amazon and Walmart Want to Beat the Consumer to Their Nex",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHBTeG9MR3d0VlI3d3d1YVExQnYwdlZHNzN2dlJnQ0NYaFpNOGhmLVdYeS1SamtzUVNSdk9GMmdmWTk5WUJWMmlyZGdya0ZKRzRhM0lncm9TQUhqZ0xESEFxeUgwQ3hKeFJIazFILVQxTER3d0M1dE10cHVFM0p0T2lnZDZHY3dZaEo5Tg?oc=5",
+          "published": "Thu, 06 Aug 2026 18:58:14 GMT",
+          "published_iso": "2026-08-06T18:58:14+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 100.8,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
-            "channels": [],
-            "categories": [
-              "earbuds"
-            ]
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
           },
-          "_score": 191,
-          "display_title": "Anker&#8217;s travel charger works in...",
+          "_score": 274,
+          "display_title": "Amazon and Walmart Want to Beat the...",
           "tags": [
-            "🎧 耳机音频"
+            "🛒 渠道零售",
+            "🏬 平台电商"
           ],
-          "impact_area": "品牌营销"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "亚马逊和沃尔玛正积极争夺消费者的购买决策，影响电商市场格局。",
+          "suggested_action": "加强电商平台的品牌营销，提升消费者购买转化率。"
+        },
+        {
+          "title": "Retail Roundup: 6 Commerce Media Moves from Walmart, Michaels, and 7-Eleven - ADWEEK",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclhaU09NbVFJREdFelhYbmhGSktneVk4NG42TW55ZnhTTWgxZWoyeUxDaVNuOFRQUkx2TWYwT2RXUlZhRVhJV1ZhQXVFVDR5aVFRNzJoNm1ZT2FOVnE3X0l6aUdNQXVzQjJXZUFyMFZiMlN4TElzVm00X01HSjJSTWR3Njdoa25iT0hYTkh1X2pnaUNKQS04VkVlQzlRU3Q3ZHRfQm9DX2U?oc=5\" target=\"_blank\">Retail Roundup: 6 Co",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclhaU09NbVFJREdFelhYbmhGSktneVk4NG42TW55ZnhTTWgxZWoyeUxDaVNuOFRQUkx2TWYwT2RXUlZhRVhJV1ZhQXVFVDR5aVFRNzJoNm1ZT2FOVnE3X0l6aUdNQXVzQjJXZUFyMFZiMlN4TElzVm00X01HSjJSTWR3Njdoa25iT0hYTkh1X2pnaUNKQS04VkVlQzlRU3Q3ZHRfQm9DX2U?oc=5",
+          "published": "Thu, 06 Aug 2026 18:33:52 GMT",
+          "published_iso": "2026-08-06T18:33:52+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 101.3,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 250,
+          "display_title": "Retail Roundup: 6 Commerce Media Moves...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "关注Walmart等零售商的电商动态，有助于提升品牌曝光和销售。",
+          "suggested_action": "加强与Walmart的合作，优化电商营销策略。"
         }
       ]
     },
@@ -1738,14 +1746,14 @@
       "count": 3,
       "items": [
         {
-          "title": "Best drone deal: DJI Neo mini drone drops to $139 - mashable.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZktyenlyZ1pSd2w3YjBRVW9uc1VVZmhvdEY1bDdzVVRmUE8yVE4tRXptSTZCNmZhMHhSaGZ3Wl9BNHEtSUZ2TkI4WERrUVJlaDNvNkVwU0pzbHlfdnVv?oc=5\" target=\"_blank\">Best drone deal: DJI Neo mini drone drops to $139</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mashable.com</font>",
+          "title": "Best drone deal: DJI Neo mini drone drops to $139 - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZktyenlyZ1pSd2w3YjBRVW9uc1VVZmhvdEY1bDdzVVRmUE8yVE4tRXptSTZCNmZhMHhSaGZ3Wl9BNHEtSUZ2TkI4WERrUVJlaDNvNkVwU0pzbHlfdnVv?oc=5\" target=\"_blank\">Best drone deal: DJI Neo mini drone drops to $139</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZktyenlyZ1pSd2w3YjBRVW9uc1VVZmhvdEY1bDdzVVRmUE8yVE4tRXptSTZCNmZhMHhSaGZ3Wl9BNHEtSUZ2TkI4WERrUVJlaDNvNkVwU0pzbHlfdnVv?oc=5",
           "published": "Mon, 10 Aug 2026 11:15:05 GMT",
           "published_iso": "2026-08-10T11:15:05+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 11.6,
+          "hours_since_published": 12.6,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1762,18 +1770,18 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "DJI Neo迷你无人机降至139美元，电商销售机会显著。",
-          "suggested_action": "加大电商推广力度，吸引更多消费者关注该产品。"
+          "business_note": "DJI Neo迷你无人机降价至139美元，电商销售机会显著。",
+          "suggested_action": "加强电商推广，利用降价吸引消费者购买。"
         },
         {
-          "title": "Audio For Any Occasion : We Review The New DJI Mic Mini 2S - Fstoppers",
+          "title": "Audio For Any Occasion : We Review The New DJI Mic Mini 2S - fstoppers.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0s1akJsWXR6VlVNOF90VFF3SGR3QUJ4RVJISTV3dGl5YlpPXzlDSWFyYnpNTjJpa2pJOXRfc1BwTjJ5NkF0eFBZOG8tcUZVN1lxRzMzWDdPNmtzSUUyRkVpTFhMRHpYZXNJMzhxam5oY2c1RlpFdUJlMnB2ZEdyZ3ZUeC1QaVU?oc=5\" target=\"_blank\">Audio For Any Occasion : We Review The New DJI Mic Mini 2S</a>&n",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0s1akJsWXR6VlVNOF90VFF3SGR3QUJ4RVJISTV3dGl5YlpPXzlDSWFyYnpNTjJpa2pJOXRfc1BwTjJ5NkF0eFBZOG8tcUZVN1lxRzMzWDdPNmtzSUUyRkVpTFhMRHpYZXNJMzhxam5oY2c1RlpFdUJlMnB2ZEdyZ3ZUeC1QaVU?oc=5",
           "published": "Thu, 06 Aug 2026 02:30:26 GMT",
           "published_iso": "2026-08-06T02:30:26+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 116.3,
+          "hours_since_published": 117.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1805,7 +1813,7 @@
           "published_iso": "2026-08-10T03:19:08+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 19.5,
+          "hours_since_published": 20.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1823,28 +1831,28 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Sony与TSMC联合投资6.3亿美元制造图像传感器，将提升品牌竞争力。",
-          "suggested_action": "加强与Target的合作，推广新产品以提升电商销售。"
+          "business_note": "Sony与TSMC联合投资63亿美元制造图像传感器，将提升产品竞争力。",
+          "suggested_action": "加强与Sony的电商合作，推动新产品上市和品牌宣传。"
         }
       ]
     }
   ],
   "takeaways": [
-    "苹果AirPods Pro 3降价至189.99美元，可能刺激市场竞争，尤其是对Bose等品牌构成压力。",
-    "Best Buy CEO谈及AI和小型门店，显示出零售商在数字化转型上的新策略，将影响未来的购物体验。",
-    "亚马逊与沃尔玛争夺市场份额，表明电商巨头在消费电子领域的竞争将更加激烈。",
-    "Bose新款QuietComfort耳机发布，若未能显著提升用户体验，可能面临销量下滑的风险。",
-    "DJI Neo迷你无人机促销活动，可能吸引更多消费者关注无人机市场，提升品牌影响力。"
+    "Apple AirPods Pro 3降价至189.99美元，将进一步加剧无线耳机市场竞争。",
+    "Best Buy高管离职可能影响其品牌形象，需密切关注后续市场策略调整。",
+    "亚马逊和沃尔玛的竞争加剧，电商平台需加强差异化服务以维持市场份额。",
+    "Bose新款耳机发布后，若未能有效吸引消费者，可能面临更大的市场压力。",
+    "2026年Google Pixel的预期更新，可能会影响安卓手机市场的竞争格局。"
   ],
   "opportunity_signals": [
-    "Apple AirPods Pro 3降价至189.99美元，电商销售机会显著，建议加大线上推广力度以提升市场份额。",
-    "Best Buy CEO强调AI和小型门店战略，需考虑调整我们的电商销售模式，以适应新趋势并提高客户体验。",
-    "随着AI技术的发展，Bose需调整品牌营销策略，建议加强与科技公司的合作，提升品牌竞争力。"
+    "随着Apple AirPods Pro 3降价至189.99美元，电商渠道的销售机会显著，建议加大在线营销投入以捕捉消费者需求。",
+    "鉴于AI技术的发展，Bose需调整品牌营销策略以保持竞争力，建议探索与AI相关的产品创新和市场推广。",
+    "Best Buy开设沉浸式店铺展示Meta AI眼镜和VR头盔，提升消费者体验，建议借鉴此模式以增强品牌互动和销售转化。"
   ],
   "risk_signals": [
-    "Apple AirPods Pro 3降价可能导致市场竞争加剧，需关注利润率下滑风险。",
-    "Best Buy首席营销官离职可能影响品牌形象，需评估对电商策略的长期影响。",
-    "亚马逊和沃尔玛在电商领域的激烈竞争可能侵蚀市场份额，需及时调整销售策略以应对。"
+    "Apple AirPods Pro 3降价至189.99美元，可能导致竞争对手加速降价，压缩利润空间。",
+    "Best Buy首席营销官离职，可能影响品牌形象和电商策略，导致市场份额下降。",
+    "亚马逊和沃尔玛争夺消费者购买决策，可能加剧市场竞争，影响我们的销售增长。"
   ],
   "feedback_items": [
     "这期日报最有价值的是哪一块？",

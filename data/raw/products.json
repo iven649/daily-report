@@ -1,6 +1,15 @@
 {
   "products": [
     {
+      "name": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp",
+      "date": "2026-08-11T18:36:35-04:00",
+      "published_iso": "2026-08-11T22:36:35+00:00",
+      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "An FCC filing points to new Sonos headphones coming soon",
       "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wirele",
       "date": "2026-08-11T17:23:30-04:00",
@@ -82,15 +91,6 @@
       "_score": 20
     },
     {
-      "name": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI mode",
-      "date": "2026-08-11T10:45:44-04:00",
-      "published_iso": "2026-08-11T14:45:44+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
       "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
       "date": "Tue, 11 Aug 2026 21:39:58",
@@ -109,7 +109,7 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1786488906,
+  "fetched_at": 1786492626,
   "stats": {
     "source_count": 7,
     "raw_count": 106,

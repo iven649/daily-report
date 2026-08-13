@@ -1,6 +1,15 @@
 {
   "products": [
     {
+      "name": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, ",
+      "date": "2026-08-13T19:13:24-04:00",
+      "published_iso": "2026-08-13T23:13:24+00:00",
+      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
       "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Andr",
       "date": "2026-08-13T17:53:04-04:00",
@@ -82,15 +91,6 @@
       "_score": 20
     },
     {
-      "name": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
-      "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But ",
-      "date": "2026-08-13T12:38:15-04:00",
-      "published_iso": "2026-08-13T16:38:15+00:00",
-      "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
       "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
       "date": "Thu, 13 Aug 2026 22:12:40",
@@ -109,7 +109,7 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1786661705,
+  "fetched_at": 1786665343,
   "stats": {
     "source_count": 7,
     "raw_count": 110,

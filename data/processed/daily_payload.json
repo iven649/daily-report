@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-19",
-  "generated_at": "2026-08-19 07:33:35 CST",
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20 06:34:28 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -16,7 +16,7 @@
       "nth": 1,
       "icon": "🛍️",
       "date": "2026-09-07",
-      "countdown": 19,
+      "countdown": 18,
       "year": 2026,
       "origin": "Labor Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -45,7 +45,7 @@
       "day": 31,
       "icon": "🎃",
       "date": "2026-10-31",
-      "countdown": 73,
+      "countdown": 72,
       "year": 2026,
       "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -74,7 +74,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 84,
+      "countdown": 83,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -101,7 +101,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 100,
+      "countdown": 99,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -120,33 +120,6 @@
   ],
   "festival_pages": [
     {
-      "slug": "qixi",
-      "name": "七夕",
-      "market": "CN",
-      "type": "traditional",
-      "priority": 2,
-      "rule": "fixed",
-      "month": 8,
-      "day": 19,
-      "icon": "💗",
-      "date": "2026-08-19",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "七夕是中国的重要节日或营销节点。",
-      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
-      "customs": [
-        "节前备货",
-        "礼赠需求",
-        "节庆促销"
-      ],
-      "consumption": [
-        "礼品零售",
-        "出行相关",
-        "节庆营销"
-      ],
-      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
-    },
-    {
       "slug": "labor-day-us",
       "name": "Labor Day",
       "market": "US",
@@ -158,7 +131,7 @@
       "nth": 1,
       "icon": "🛍️",
       "date": "2026-09-07",
-      "countdown": 19,
+      "countdown": 18,
       "year": 2026,
       "origin": "Labor Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -187,7 +160,7 @@
       "day": 25,
       "icon": "🌕",
       "date": "2026-09-25",
-      "countdown": 37,
+      "countdown": 36,
       "year": 2026,
       "origin": "中秋节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -214,7 +187,7 @@
       "day": 1,
       "icon": "🇨🇳",
       "date": "2026-10-01",
-      "countdown": 43,
+      "countdown": 42,
       "year": 2026,
       "origin": "国庆节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -241,7 +214,7 @@
       "day": 31,
       "icon": "🎃",
       "date": "2026-10-31",
-      "countdown": 73,
+      "countdown": 72,
       "year": 2026,
       "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -270,7 +243,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 84,
+      "countdown": 83,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -298,7 +271,7 @@
       "nth": 4,
       "icon": "🦃",
       "date": "2026-11-26",
-      "countdown": 99,
+      "countdown": 98,
       "year": 2026,
       "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -327,7 +300,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 100,
+      "countdown": 99,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -354,7 +327,7 @@
       "offset_days": 4,
       "icon": "💻",
       "date": "2026-11-30",
-      "countdown": 103,
+      "countdown": 102,
       "year": 2026,
       "origin": "网一是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -381,7 +354,7 @@
       "day": 12,
       "icon": "🧾",
       "date": "2026-12-12",
-      "countdown": 115,
+      "countdown": 114,
       "year": 2026,
       "origin": "双12是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -408,7 +381,7 @@
       "day": 25,
       "icon": "🎄",
       "date": "2026-12-25",
-      "countdown": 128,
+      "countdown": 127,
       "year": 2026,
       "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -437,7 +410,7 @@
       "day": 14,
       "icon": "❤️",
       "date": "2027-02-14",
-      "countdown": 179,
+      "countdown": 178,
       "year": 2027,
       "origin": "情人节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -466,7 +439,7 @@
       "day": 17,
       "icon": "🧧",
       "date": "2027-02-17",
-      "countdown": 182,
+      "countdown": 181,
       "year": 2027,
       "origin": "春节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -493,7 +466,7 @@
       "day": 3,
       "icon": "🏮",
       "date": "2027-03-03",
-      "countdown": 196,
+      "countdown": 195,
       "year": 2027,
       "origin": "元宵节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -518,7 +491,7 @@
       "rule": "easter",
       "icon": "🥚",
       "date": "2027-03-28",
-      "countdown": 221,
+      "countdown": 220,
       "year": 2027,
       "origin": "复活节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -547,7 +520,7 @@
       "day": 4,
       "icon": "🌿",
       "date": "2027-04-04",
-      "countdown": 228,
+      "countdown": 227,
       "year": 2027,
       "origin": "清明节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -574,7 +547,7 @@
       "day": 1,
       "icon": "🛠️",
       "date": "2027-05-01",
-      "countdown": 255,
+      "countdown": 254,
       "year": 2027,
       "origin": "劳动节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -602,7 +575,7 @@
       "nth": 2,
       "icon": "🌸",
       "date": "2027-05-09",
-      "countdown": 263,
+      "countdown": 262,
       "year": 2027,
       "origin": "母亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -632,7 +605,7 @@
       "nth": -1,
       "icon": "🇺🇸",
       "date": "2027-05-31",
-      "countdown": 285,
+      "countdown": 284,
       "year": 2027,
       "origin": "Memorial Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -661,7 +634,7 @@
       "day": 18,
       "icon": "📦",
       "date": "2027-06-18",
-      "countdown": 303,
+      "countdown": 302,
       "year": 2027,
       "origin": "618是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -676,6 +649,33 @@
         "库存与履约"
       ],
       "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "dragon-boat",
+      "name": "端午节",
+      "market": "CN",
+      "type": "traditional",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 6,
+      "day": 19,
+      "icon": "🚣",
+      "date": "2027-06-19",
+      "countdown": 303,
+      "year": 2027,
+      "origin": "端午节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
     }
   ],
   "us_timezones": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-08-17T17:06:05+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 30.5,
+    "hours_since_published": 53.5,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -743,7 +743,7 @@
       "published_iso": "2026-08-17T17:06:05+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 30.5,
+      "hours_since_published": 53.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -765,116 +765,62 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product</a>&nbsp;&nbsp;<font c",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5",
-      "published": "Tue, 18 Aug 2026 05:37:18 GMT",
-      "published_iso": "2026-08-18T05:37:18+00:00",
-      "source": "Google News - Competitor Watch",
+      "title": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - TechRadar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2Rk",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
+      "published": "Tue, 18 Aug 2026 11:26:37 GMT",
+      "published_iso": "2026-08-18T11:26:37+00:00",
+      "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 17.9,
-      "freshness_label": "24h内",
+      "hours_since_published": 35.1,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
-          "Bose"
+          "Shokz"
         ],
-        "channels": [],
+        "channels": [
+          "Amazon"
+        ],
         "categories": [
+          "open-ear",
           "headphone"
         ]
       },
-      "_score": 297,
-      "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
+      "_score": 322,
+      "display_title": "Save up to 30% on Shokz open-ear...",
       "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Walmart+ adds new in-store perks",
-      "summary": "<p>The retailer debuted benefits related to its photo and money centers for users of its paid membership service.</p>",
-      "url": "https://www.retaildive.com/news/walmart-plus-loyalty-program-adds-store-perks-photo-money-centers/828143/",
-      "published": "Tue, 18 Aug 2026 11:37:00 -0400",
-      "published_iso": "2026-08-18T15:37:00+00:00",
-      "source": "Retail Dive",
-      "bucket": "channel_news",
-      "hours_since_published": 7.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 286,
-      "display_title": "Walmart+ adds new in-store perks",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "🚀 新品发布"
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    }
-  ],
-  "consumer_electronics": [
+    },
     {
-      "title": "Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product</a>&nbsp;&nbsp;<font c",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5",
-      "published": "Tue, 18 Aug 2026 05:37:18 GMT",
-      "published_iso": "2026-08-18T05:37:18+00:00",
+      "title": "Beats 360 retail leak spills almost everything about the over-ear headphones - AppleInsider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnl4UzZ5V3pGOXM1eUx0YUFRUmU1b0RneHM1cXhidTgzM3ZRcE9yWkxMYlllampHRk15d1dqd1E2aFFrZmM5NFBJWjhhUHBXeGwwLUxqZFhXX2FTd0R6czRIOF8taTBvQ2V0WTRmMnVuclVFVDIwRi04THloemMtcVpFVEdiM3BlUWlDakFycE1takJMc19vbHFqbGpQVHR5U1pOelRuOWw1VW9IV3BrVUlBUThkLVhtSWJn?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnl4UzZ5V3pGOXM1eUx0YUFRUmU1b0RneHM1cXhidTgzM3ZRcE9yWkxMYlllampHRk15d1dqd1E2aFFrZmM5NFBJWjhhUHBXeGwwLUxqZFhXX2FTd0R6czRIOF8taTBvQ2V0WTRmMnVuclVFVDIwRi04THloemMtcVpFVEdiM3BlUWlDakFycE1takJMc19vbHFqbGpQVHR5U1pOelRuOWw1VW9IV3BrVUlBUThkLVhtSWJn?oc=5",
+      "published": "Wed, 19 Aug 2026 18:39:00 GMT",
+      "published_iso": "2026-08-19T18:39:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 17.9,
+      "hours_since_published": 3.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
-          "Bose"
+          "Beats"
         ],
-        "channels": [],
+        "channels": [
+          "Target"
+        ],
         "categories": [
           "headphone"
         ]
       },
       "_score": 297,
-      "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-      "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality",
-      "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-      "published": "2026-08-18T13:47:04-04:00",
-      "published_iso": "2026-08-18T17:47:04+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 5.8,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Best Buy"
-        ],
-        "categories": [
-          "earbuds"
-        ]
-      },
-      "_score": 255,
-      "display_title": "Samsung’s Galaxy Buds 3 Pro are almost...",
+      "display_title": "Beats 360 retail leak spills almost...",
       "tags": [
         "🎧 耳机音频",
         "🛒 渠道零售",
@@ -882,48 +828,87 @@
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
+    }
+  ],
+  "consumer_electronics": [
     {
-      "title": "Apple Just Leaked Camera-Equipped AirPods and They Look More Like Wearable AI Than Headphones - eCoustics",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEZkozV1hOTzI5X2NoWFhmVjBaU1VOYlNLdDI4WEZoTi1MNjF0b1VXaHhSS29BZVZMQUY1RVZNTnBOZVdnZ3FKNHBtUVVORU1oSENGbW1QclhoVmZod3hnaTdn?oc=5\" target=\"_blank\">Apple Just Leaked Camera-Equipped AirPods and They Look More Like Wearable AI Than Headphones</a>&nbsp;&nbsp;<font ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEZkozV1hOTzI5X2NoWFhmVjBaU1VOYlNLdDI4WEZoTi1MNjF0b1VXaHhSS29BZVZMQUY1RVZNTnBOZVdnZ3FKNHBtUVVORU1oSENGbW1QclhoVmZod3hnaTdn?oc=5",
-      "published": "Tue, 18 Aug 2026 18:52:16 GMT",
-      "published_iso": "2026-08-18T18:52:16+00:00",
+      "title": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - TechRadar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2Rk",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
+      "published": "Tue, 18 Aug 2026 11:26:37 GMT",
+      "published_iso": "2026-08-18T11:26:37+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 4.7,
-      "freshness_label": "24h内",
+      "hours_since_published": 35.1,
+      "freshness_label": "近3天",
       "monitor_hits": {
-        "brands": [],
-        "channels": [],
+        "brands": [
+          "Shokz"
+        ],
+        "channels": [
+          "Amazon"
+        ],
         "categories": [
-          "wearable",
+          "open-ear",
           "headphone"
         ]
       },
-      "_score": 249,
-      "display_title": "Apple Just Leaked Camera-Equipped...",
+      "_score": 322,
+      "display_title": "Save up to 30% on Shokz open-ear...",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴",
-        "🚁 无人机影像"
+        "🏬 平台电商"
       ],
-      "impact_area": "品牌营销",
+      "impact_area": "电商",
       "importance": "高",
-      "business_note": "wearable / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+      "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Why Are Bose Headphones So Expensive? - bgr.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBkcW56S3NHOUtaRE1HSDkzSXlCa3J0RHVVc05iRkU5SzJoc2dweWhQYjlvT29JN2ZuMGs1am1aN1FxeGpVX1oyME9QVmZBNjdkeGhaQ04ycjJwOUVVaVRVdzZOMGdiLVNqUjhGQlVGa2EwLTA?oc=5\" target=\"_blank\">Why Are Bose Headphones So Expensive?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkcW56S3NHOUtaRE1HSDkzSXlCa3J0RHVVc05iRkU5SzJoc2dweWhQYjlvT29JN2ZuMGs1am1aN1FxeGpVX1oyME9QVmZBNjdkeGhaQ04ycjJwOUVVaVRVdzZOMGdiLVNqUjhGQlVGa2EwLTA?oc=5",
-      "published": "Sun, 16 Aug 2026 20:47:00 GMT",
-      "published_iso": "2026-08-16T20:47:00+00:00",
+      "title": "Beats 360 retail leak spills almost everything about the over-ear headphones - AppleInsider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnl4UzZ5V3pGOXM1eUx0YUFRUmU1b0RneHM1cXhidTgzM3ZRcE9yWkxMYlllampHRk15d1dqd1E2aFFrZmM5NFBJWjhhUHBXeGwwLUxqZFhXX2FTd0R6czRIOF8taTBvQ2V0WTRmMnVuclVFVDIwRi04THloemMtcVpFVEdiM3BlUWlDakFycE1takJMc19vbHFqbGpQVHR5U1pOelRuOWw1VW9IV3BrVUlBUThkLVhtSWJn?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnl4UzZ5V3pGOXM1eUx0YUFRUmU1b0RneHM1cXhidTgzM3ZRcE9yWkxMYlllampHRk15d1dqd1E2aFFrZmM5NFBJWjhhUHBXeGwwLUxqZFhXX2FTd0R6czRIOF8taTBvQ2V0WTRmMnVuclVFVDIwRi04THloemMtcVpFVEdiM3BlUWlDakFycE1takJMc19vbHFqbGpQVHR5U1pOelRuOWw1VW9IV3BrVUlBUThkLVhtSWJn?oc=5",
+      "published": "Wed, 19 Aug 2026 18:39:00 GMT",
+      "published_iso": "2026-08-19T18:39:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 50.8,
+      "hours_since_published": 3.9,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Beats"
+        ],
+        "channels": [
+          "Target"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 297,
+      "display_title": "Beats 360 retail leak spills almost...",
+      "tags": [
+        "🎧 耳机音频",
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product - cnet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product</a>&nbsp;&nbsp;<font c",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5",
+      "published": "Tue, 18 Aug 2026 05:37:18 GMT",
+      "published_iso": "2026-08-18T05:37:18+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 41.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -934,8 +919,8 @@
           "headphone"
         ]
       },
-      "_score": 242,
-      "display_title": "Why Are Bose Headphones So Expensive?...",
+      "_score": 282,
+      "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
       "tags": [
         "🎧 耳机音频"
       ],
@@ -945,31 +930,34 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-      "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that offer \"lifelike soun",
-      "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-      "published": "2026-08-18T13:18:57-04:00",
-      "published_iso": "2026-08-18T17:18:57+00:00",
-      "source": "The Verge",
+      "title": "Beats 360 Over-Ear Headphones Leak in Retail Listings - MacRumors",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9idF9sWGdoVXBDb1B2TFJZZU5aTWxEMWZFcXlGNG41MjlLbEwySGVCRGFIcTFhMG5QYmlia3pLRHVicnUzQWd6UnVrdE5rM2RfbVo4SE8xUUo2VExYb09vdWlRbk40Z0s2N2c?oc=5\" target=\"_blank\">Beats 360 Over-Ear Headphones Leak in Retail Listings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</fo",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idF9sWGdoVXBDb1B2TFJZZU5aTWxEMWZFcXlGNG41MjlLbEwySGVCRGFIcTFhMG5QYmlia3pLRHVicnUzQWd6UnVrdE5rM2RfbVo4SE8xUUo2VExYb09vdWlRbk40Z0s2N2c?oc=5",
+      "published": "Wed, 19 Aug 2026 17:36:58 GMT",
+      "published_iso": "2026-08-19T17:36:58+00:00",
+      "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 6.2,
+      "hours_since_published": 5.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
-          "Sony"
+          "Beats"
         ],
         "channels": [],
-        "categories": []
+        "categories": [
+          "headphone"
+        ]
       },
-      "_score": 239,
-      "display_title": "PlayStation&#8217;s wireless gaming...",
+      "_score": 265,
+      "display_title": "Beats 360 Over-Ear Headphones Leak in...",
       "tags": [
-        "🚀 新品发布"
+        "🎧 耳机音频",
+        "🛒 渠道零售"
       ],
-      "impact_area": "品牌营销",
+      "impact_area": "渠道销售",
       "importance": "高",
-      "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+      "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
     },
     {
       "title": "Pixel Weavers Wireless Earbuds Best Bluetooth For Iphone 11 Custom Logo M83 ENC Wireless Earbuds Stereo Sports Earphones Noise Reduction Headset LED Digital Display Headphones M83 - Diócesis de Salamanca",
@@ -979,7 +967,7 @@
       "published_iso": "2026-08-14T09:27:56+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 110.1,
+      "hours_since_published": 133.1,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -999,6 +987,36 @@
       "importance": "高",
       "business_note": "earbuds / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "Apple Just Leaked Camera-Equipped AirPods and They Look More Like Wearable AI Than Headphones - eCoustics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEZkozV1hOTzI5X2NoWFhmVjBaU1VOYlNLdDI4WEZoTi1MNjF0b1VXaHhSS29BZVZMQUY1RVZNTnBOZVdnZ3FKNHBtUVVORU1oSENGbW1QclhoVmZod3hnaTdn?oc=5\" target=\"_blank\">Apple Just Leaked Camera-Equipped AirPods and They Look More Like Wearable AI Than Headphones</a>&nbsp;&nbsp;<font ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEZkozV1hOTzI5X2NoWFhmVjBaU1VOYlNLdDI4WEZoTi1MNjF0b1VXaHhSS29BZVZMQUY1RVZNTnBOZVdnZ3FKNHBtUVVORU1oSENGbW1QclhoVmZod3hnaTdn?oc=5",
+      "published": "Tue, 18 Aug 2026 18:52:16 GMT",
+      "published_iso": "2026-08-18T18:52:16+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 27.7,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "wearable",
+          "headphone"
+        ]
+      },
+      "_score": 234,
+      "display_title": "Apple Just Leaked Camera-Equipped...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🚁 无人机影像"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "wearable / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
@@ -1010,7 +1028,7 @@
       "published_iso": "2026-08-17T17:06:05+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 30.5,
+      "hours_since_published": 53.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1032,35 +1050,6 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Walmart+ adds new in-store perks",
-      "summary": "<p>The retailer debuted benefits related to its photo and money centers for users of its paid membership service.</p>",
-      "url": "https://www.retaildive.com/news/walmart-plus-loyalty-program-adds-store-perks-photo-money-centers/828143/",
-      "published": "Tue, 18 Aug 2026 11:37:00 -0400",
-      "published_iso": "2026-08-18T15:37:00+00:00",
-      "source": "Retail Dive",
-      "bucket": "channel_news",
-      "hours_since_published": 7.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 286,
-      "display_title": "Walmart+ adds new in-store perks",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "🚀 新品发布"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
       "title": "Costco is offering a feature to compete with Amazon - AL.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXJOT1FBTzVXZkpYcVZWdWpXZ1pvM0xTR3NxT1lDYjFMLVk0WlAzcDdYZnpBZW5MX25ybkFUbVRoNW5tUXJFUC1aWnVSUVJZMi12NWFMNVc1eUFWVG5mVE5NRXN6QVRDamRXa25xN0JqOEFTRXlfNGZmZVR4RjJNYlFLWWI1QVM4MVFJRTJqMkJWY2VWTWpJ?oc=5\" target=\"_blank\">Costco is offering a feature to compete wit",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXJOT1FBTzVXZkpYcVZWdWpXZ1pvM0xTR3NxT1lDYjFMLVk0WlAzcDdYZnpBZW5MX25ybkFUbVRoNW5tUXJFUC1aWnVSUVJZMi12NWFMNVc1eUFWVG5mVE5NRXN6QVRDamRXa25xN0JqOEFTRXlfNGZmZVR4RjJNYlFLWWI1QVM4MVFJRTJqMkJWY2VWTWpJ?oc=5",
@@ -1068,7 +1057,7 @@
       "published_iso": "2026-08-14T15:09:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 104.4,
+      "hours_since_published": 127.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1090,6 +1079,91 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
+      "title": "Best Buy: Most Canadian consumers purchase used tech - Chain Store Age",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlFsSE5fVmFqOVNmN2pQb1ROWXdlZ0tvWDkzQ2hMZ0tNY1JsVktzTndOV0J5dXhEVUhsWXk4ZVdxbC1JOFNqSEZmTTFJQ0Y1TGR2c3NSMFNkQ1htMkVlUTd3ak8talhNNDNMRGpEVzhFd0syOVowSEt4MkVwVWd6UjVhQQ?oc=5\" target=\"_blank\">Best Buy: Most Canadian consumers purchase used tech</a>&nbsp;&nbsp;<",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlFsSE5fVmFqOVNmN2pQb1ROWXdlZ0tvWDkzQ2hMZ0tNY1JsVktzTndOV0J5dXhEVUhsWXk4ZVdxbC1JOFNqSEZmTTFJQ0Y1TGR2c3NSMFNkQ1htMkVlUTd3ak8talhNNDNMRGpEVzhFd0syOVowSEt4MkVwVWd6UjVhQQ?oc=5",
+      "published": "Mon, 17 Aug 2026 17:12:43 GMT",
+      "published_iso": "2026-08-17T17:12:43+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 53.4,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 273,
+      "display_title": "Best Buy: Most Canadian consumers...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Walmart+ adds new in-store perks",
+      "summary": "<p>The retailer debuted benefits related to its photo and money centers for users of its paid membership service.</p>",
+      "url": "https://www.retaildive.com/news/walmart-plus-loyalty-program-adds-store-perks-photo-money-centers/828143/",
+      "published": "Tue, 18 Aug 2026 11:37:00 -0400",
+      "published_iso": "2026-08-18T15:37:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 31.0,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 271,
+      "display_title": "Walmart+ adds new in-store perks",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "🚀 新品发布"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Target scores major sales growth in beauty, hardlines merchandise",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BUyPFsIDrBkRc1vlD0C9YjNn0ykMzssOToNk8wxrtWU/g:nowe:121:214/c:3078:1739/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjEyNC5qcGc=.webp\" /></div></figure><p>The mass retailer saw lower sales increases in apparel and home, where executives said more",
+      "url": "https://www.retaildive.com/news/target-scores-sales-growth-beauty-hardlines-merchandise/828196/",
+      "published": "Wed, 19 Aug 2026 06:33:00 -0400",
+      "published_iso": "2026-08-19T10:33:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 12.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 270,
+      "display_title": "Target scores major sales growth in...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
       "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping - CNBC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE96dVJQbFBWV0JSa1JuWWJFZUt1WF80bW9yWU1SZmxDZFJXLU1rSjlrMG9QNHpxQnF6bUk5Yi0zMUJxWkUxeVQ0c3o3b3kwamdQS1hKTVVGOWNQUnljQWJtQXlCLThadEUxR3JrWTFUdXNrcXpoRzBCamRR0gF_QVVfeXFMTmVfWk5SaHZTX1NpM21Gb0l1R2haZ2NnVzJWNlR6dGI4UkN1ejRXYjUtUTdmazNmclIxMEdUVlVvdnJUSDRhSGt5YWxKc2",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96dVJQbFBWV0JSa1JuWWJFZUt1WF80bW9yWU1SZmxDZFJXLU1rSjlrMG9QNHpxQnF6bUk5Yi0zMUJxWkUxeVQ0c3o3b3kwamdQS1hKTVVGOWNQUnljQWJtQXlCLThadEUxR3JrWTFUdXNrcXpoRzBCamRR0gF_QVVfeXFMTmVfWk5SaHZTX1NpM21Gb0l1R2haZ2NnVzJWNlR6dGI4UkN1ejRXYjUtUTdmazNmclIxMEdUVlVvdnJUSDRhSGt5YWxKc2FqRnphZ0lfcml5WnZkV080c2lzLW51WDZ6eFl5akU1LU1wXzlCV3RtOFU5MFV4cGFPWQ?oc=5",
@@ -1097,7 +1171,7 @@
       "published_iso": "2026-08-17T15:03:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 32.5,
+      "hours_since_published": 55.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1117,76 +1191,19 @@
       "importance": "高",
       "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Costco makes a pricing promise members need to know - thestreet.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekgzVWJNczFYLWJjV2h1OHlMbGZ3cjduRTFlQWNzX19YcG5HUmFPSGMwQ09Wc2JHZ3N3OC1GS01VZFNHankwVC1Vd29YbXlEZHRiUnlNXzlFc2NjVl9qMm5sa3FDQ2szRTVZN1FDX1JZSVIwcXpHOTdqQ3hrbmRuREdyYkZIRFNCcTB3?oc=5\" target=\"_blank\">Costco makes a pricing promise members need to know</a>&nbs",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekgzVWJNczFYLWJjV2h1OHlMbGZ3cjduRTFlQWNzX19YcG5HUmFPSGMwQ09Wc2JHZ3N3OC1GS01VZFNHankwVC1Vd29YbXlEZHRiUnlNXzlFc2NjVl9qMm5sa3FDQ2szRTVZN1FDX1JZSVIwcXpHOTdqQ3hrbmRuREdyYkZIRFNCcTB3?oc=5",
-      "published": "Mon, 17 Aug 2026 12:56:43 GMT",
-      "published_iso": "2026-08-17T12:56:43+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 34.6,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 257,
-      "display_title": "Costco makes a pricing promise members...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Costco相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Best Buy Reopens In Hartsdale With New Store Location - bronx.news12.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOekNRWE5XcFprOURyN20wYjdJV2VqQlBqTXVBWkY5cGRyc2xxdWV6RlhXYmg3NGxyeGpsZnE1QlZWQXFCdFU0THdPVy1uSWVBT1Bid3FPOC1GdG1mMlIwbkRnajctYklXcjhXaVVqQk9PWW1FWEwzQVRXMjBXU3ZJWndXUEU?oc=5\" target=\"_blank\">Best Buy Reopens In Hartsdale With New Store Location</a>&nbsp;&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekNRWE5XcFprOURyN20wYjdJV2VqQlBqTXVBWkY5cGRyc2xxdWV6RlhXYmg3NGxyeGpsZnE1QlZWQXFCdFU0THdPVy1uSWVBT1Bid3FPOC1GdG1mMlIwbkRnajctYklXcjhXaVVqQk9PWW1FWEwzQVRXMjBXU3ZJWndXUEU?oc=5",
-      "published": "Sat, 15 Aug 2026 04:14:55 GMT",
-      "published_iso": "2026-08-15T04:14:55+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 91.3,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": []
-      },
-      "_score": 250,
-      "display_title": "Best Buy Reopens In Hartsdale With New...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "products": [
     {
-      "name": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - techradar.com",
+      "name": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESH",
       "date": "Tue, 18 Aug 2026 11:26:37",
       "published_iso": "2026-08-18T11:26:37+00:00",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
       "source": "Google News - Audio Wearable Watch",
-      "_score": 137,
-      "hours_since_published": 12.1,
-      "freshness_label": "24h内",
+      "_score": 122,
+      "hours_since_published": 35.1,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Shokz"
@@ -1214,14 +1231,14 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "name": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-      "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99.",
-      "date": "2026-08-18T13:47:04-04:00",
-      "published_iso": "2026-08-18T17:47:04+00:00",
-      "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+      "name": "Grab an iPad Air M4 for its lowest price since the June increase",
+      "summary": "Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new ",
+      "date": "2026-08-19T13:56:15-04:00",
+      "published_iso": "2026-08-19T17:56:15+00:00",
+      "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
       "source": "The Verge",
-      "_score": 125,
-      "hours_since_published": 5.8,
+      "_score": 99,
+      "hours_since_published": 4.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1229,140 +1246,210 @@
           "Amazon",
           "Best Buy"
         ],
-        "categories": [
-          "earbuds"
-        ]
+        "categories": []
       },
-      "display_title": "Samsung’s Galaxy Buds 3 Pro are almost...",
-      "display_summary": "If you’re looking for a feature-packed pair of",
+      "display_title": "Grab an iPad Air M4 for its lowest...",
+      "display_summary": "Almost everything with high-end memory or stor",
       "tags": [
-        "🎧 耳机音频",
-        "🛒 渠道零售",
-        "🏬 平台电商"
+        "🏬 平台电商",
+        "💰 价格促销"
       ],
       "impact_area": "电商",
       "judgement_label": "价格促销",
-      "product_intro": "If you’re looking for a。",
-      "importance": "高",
+      "product_intro": "Almost everything with high-end。",
+      "importance": "中",
       "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "name": "Samsung Galaxy Buds Able: Clip-style open earbuds are likely on the horizon - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1CY2NCR09oTy0xbE5xcnFXTHJPZ2tTR1ZZTlNGWW83NTktWDlBamhmZ1ZsRmh6bFlPekNjZ25UZjhHWElKQXRGOEkzaUxpbUhra01qTEdkUlk0a0kzNkY3UXRqY2VCMWx1T2VyLTZXdmFsN3ctRDJfYUk3WQ?oc=5\" target=\"_blank\">Samsung Galaxy Buds A",
-      "date": "Tue, 18 Aug 2026 04:20:29",
-      "published_iso": "2026-08-18T04:20:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CY2NCR09oTy0xbE5xcnFXTHJPZ2tTR1ZZTlNGWW83NTktWDlBamhmZ1ZsRmh6bFlPekNjZ25UZjhHWElKQXRGOEkzaUxpbUhra01qTEdkUlk0a0kzNkY3UXRqY2VCMWx1T2VyLTZXdmFsN3ctRDJfYUk3WQ?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 71,
-      "hours_since_published": 19.2,
+      "name": "Nielsen is leaning more on wearables to hear what people are watching",
+      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that",
+      "date": "2026-08-19T15:53:09-04:00",
+      "published_iso": "2026-08-19T19:53:09+00:00",
+      "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+      "source": "The Verge",
+      "_score": 61,
+      "hours_since_published": 2.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": [
-          "open-ear",
-          "earbuds"
+          "wearable"
         ]
       },
-      "display_title": "Samsung Galaxy Buds Able: Clip-style...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+      "display_title": "Nielsen is leaning more on wearables to...",
+      "display_summary": "In order to beef up its ability to accurately ",
       "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "行业趋势",
-      "product_intro": "<a。",
-      "importance": "中",
-      "business_note": "open-ear / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "name": "PlayStation&#8217;s wireless gaming speakers launch in November",
-      "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio",
-      "date": "2026-08-18T13:18:57-04:00",
-      "published_iso": "2026-08-18T17:18:57+00:00",
-      "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-      "source": "The Verge",
-      "_score": 69,
-      "hours_since_published": 6.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Sony"
-        ],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "PlayStation&#8217;s wireless gaming...",
-      "display_summary": "Sony's Pulse Elevate wireless gaming speakers ",
-      "tags": [
+        "🏃 运动穿戴",
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "新品发布",
-      "product_intro": "Sony's Pulse Elevate wireless gaming。",
+      "product_intro": "In order to beef up its ability to。",
       "importance": "低",
-      "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "business_note": "wearable相关趋势仍有热度，建议结合北美用户场景判断机会。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Apple squashes EU beef with new App Store rules",
-      "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps w",
-      "date": "2026-08-18T12:48:26-04:00",
-      "published_iso": "2026-08-18T16:48:26+00:00",
-      "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+      "name": "The wearable future is stuck in weird, experimental, existential limbo",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past week, I've been testing the Goo",
+      "date": "2026-08-19T14:00:00-04:00",
+      "published_iso": "2026-08-19T18:00:00+00:00",
+      "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
       "source": "The Verge",
-      "_score": 51,
-      "hours_since_published": 6.8,
+      "_score": 61,
+      "hours_since_published": 4.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
-        "categories": []
+        "categories": [
+          "wearable"
+        ]
       },
-      "display_title": "Apple squashes EU beef with new App...",
-      "display_summary": "Apple is once again overhauling App Store rule",
+      "display_title": "The wearable future is stuck in weird...",
+      "display_summary": "This is Optimizer, a weekly newsletter sent fr",
       "tags": [
-        "🛒 渠道零售"
+        "🏃 运动穿戴"
       ],
-      "impact_area": "渠道销售",
-      "judgement_label": "渠道动态",
-      "product_intro": "Apple is once again overhauling App。",
+      "impact_area": "品牌营销",
+      "judgement_label": "行业趋势",
+      "product_intro": "This is Optimizer, a weekly。",
       "importance": "低",
-      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
-      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
+      "business_note": "wearable相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor'",
-      "date": "2026-08-18T15:48:26-04:00",
-      "published_iso": "2026-08-18T19:48:26+00:00",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "name": "Watch Valve set up the Steam Frame in its own leaked videos",
+      "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardw",
+      "date": "2026-08-19T14:16:27-04:00",
+      "published_iso": "2026-08-19T18:16:27+00:00",
+      "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.8,
+      "hours_since_published": 4.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "Robin Williams’ Instagram account...",
-      "display_summary": "Robin Williams' children are taking over their",
+      "display_title": "Watch Valve set up the Steam Frame in...",
+      "display_summary": "Valve just leaked several new videos showing t",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "Robin Williams' children are taking。",
+      "product_intro": "Valve just leaked several new videos。",
+      "importance": "低",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "name": "We reviewed the new Pixel lineup, ask us anything",
+      "summary": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure. We're giving subscribers a chanc",
+      "date": "2026-08-19T12:15:00-04:00",
+      "published_iso": "2026-08-19T16:15:00+00:00",
+      "url": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 6.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "We reviewed the new Pixel lineup, ask...",
+      "display_summary": "The embargo has lifted on Google's Pixel 11 se",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "业务观察",
+      "product_intro": "The embargo has lifted on Google's。",
       "importance": "低",
       "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "monitored_entities": [
+    {
+      "name": "headphone",
+      "type": "品类",
+      "count": 8,
+      "items": [
+        {
+          "title": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2Rk",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
+          "published": "Tue, 18 Aug 2026 11:26:37 GMT",
+          "published_iso": "2026-08-18T11:26:37+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 35.1,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "open-ear",
+              "headphone"
+            ]
+          },
+          "_score": 322,
+          "display_title": "Save up to 30% on Shokz open-ear...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Beats 360 retail leak spills almost everything about the over-ear headphones - AppleInsider",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnl4UzZ5V3pGOXM1eUx0YUFRUmU1b0RneHM1cXhidTgzM3ZRcE9yWkxMYlllampHRk15d1dqd1E2aFFrZmM5NFBJWjhhUHBXeGwwLUxqZFhXX2FTd0R6czRIOF8taTBvQ2V0WTRmMnVuclVFVDIwRi04THloemMtcVpFVEdiM3BlUWlDakFycE1takJMc19vbHFqbGpQVHR5U1pOelRuOWw1VW9IV3BrVUlBUThkLVhtSWJn?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnl4UzZ5V3pGOXM1eUx0YUFRUmU1b0RneHM1cXhidTgzM3ZRcE9yWkxMYlllampHRk15d1dqd1E2aFFrZmM5NFBJWjhhUHBXeGwwLUxqZFhXX2FTd0R6czRIOF8taTBvQ2V0WTRmMnVuclVFVDIwRi04THloemMtcVpFVEdiM3BlUWlDakFycE1takJMc19vbHFqbGpQVHR5U1pOelRuOWw1VW9IV3BrVUlBUThkLVhtSWJn?oc=5",
+          "published": "Wed, 19 Aug 2026 18:39:00 GMT",
+          "published_iso": "2026-08-19T18:39:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 3.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Beats"
+            ],
+            "channels": [
+              "Target"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 297,
+          "display_title": "Beats 360 retail leak spills almost...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
     {
       "name": "Amazon",
       "type": "渠道",
@@ -1376,7 +1463,7 @@
           "published_iso": "2026-08-17T17:06:05+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 30.5,
+          "hours_since_published": 53.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1398,232 +1485,37 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Costco is offering a feature to compete with Amazon - AL.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXJOT1FBTzVXZkpYcVZWdWpXZ1pvM0xTR3NxT1lDYjFMLVk0WlAzcDdYZnpBZW5MX25ybkFUbVRoNW5tUXJFUC1aWnVSUVJZMi12NWFMNVc1eUFWVG5mVE5NRXN6QVRDamRXa25xN0JqOEFTRXlfNGZmZVR4RjJNYlFLWWI1QVM4MVFJRTJqMkJWY2VWTWpJ?oc=5\" target=\"_blank\">Costco is offering a feature to compete wit",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXJOT1FBTzVXZkpYcVZWdWpXZ1pvM0xTR3NxT1lDYjFMLVk0WlAzcDdYZnpBZW5MX25ybkFUbVRoNW5tUXJFUC1aWnVSUVJZMi12NWFMNVc1eUFWVG5mVE5NRXN6QVRDamRXa25xN0JqOEFTRXlfNGZmZVR4RjJNYlFLWWI1QVM4MVFJRTJqMkJWY2VWTWpJ?oc=5",
-          "published": "Fri, 14 Aug 2026 15:09:00 GMT",
-          "published_iso": "2026-08-14T15:09:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 104.4,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 274,
-          "display_title": "Costco is offering a feature to compete...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Costco相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "headphone",
-      "type": "品类",
-      "count": 7,
-      "items": [
-        {
-          "title": "Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5",
-          "published": "Tue, 18 Aug 2026 05:37:18 GMT",
-          "published_iso": "2026-08-18T05:37:18+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 17.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 297,
-          "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "Apple Just Leaked Camera-Equipped AirPods and They Look More Like Wearable AI Than Headphones - eCoustics",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEZkozV1hOTzI5X2NoWFhmVjBaU1VOYlNLdDI4WEZoTi1MNjF0b1VXaHhSS29BZVZMQUY1RVZNTnBOZVdnZ3FKNHBtUVVORU1oSENGbW1QclhoVmZod3hnaTdn?oc=5\" target=\"_blank\">Apple Just Leaked Camera-Equipped AirPods and They Look More Like Wearable AI Than Headphones</a>&nbsp;&nbsp;<font ",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEZkozV1hOTzI5X2NoWFhmVjBaU1VOYlNLdDI4WEZoTi1MNjF0b1VXaHhSS29BZVZMQUY1RVZNTnBOZVdnZ3FKNHBtUVVORU1oSENGbW1QclhoVmZod3hnaTdn?oc=5",
-          "published": "Tue, 18 Aug 2026 18:52:16 GMT",
-          "published_iso": "2026-08-18T18:52:16+00:00",
+          "title": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2Rk",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
+          "published": "Tue, 18 Aug 2026 11:26:37 GMT",
+          "published_iso": "2026-08-18T11:26:37+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 4.7,
-          "freshness_label": "24h内",
+          "hours_since_published": 35.1,
+          "freshness_label": "近3天",
           "monitor_hits": {
-            "brands": [],
-            "channels": [],
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [
+              "Amazon"
+            ],
             "categories": [
-              "wearable",
+              "open-ear",
               "headphone"
             ]
           },
-          "_score": 249,
-          "display_title": "Apple Just Leaked Camera-Equipped...",
+          "_score": 322,
+          "display_title": "Save up to 30% on Shokz open-ear...",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴",
-            "🚁 无人机影像"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "wearable / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
-    },
-    {
-      "name": "earbuds",
-      "type": "品类",
-      "count": 6,
-      "items": [
-        {
-          "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-          "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality",
-          "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-          "published": "2026-08-18T13:47:04-04:00",
-          "published_iso": "2026-08-18T17:47:04+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 5.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy"
-            ],
-            "categories": [
-              "earbuds"
-            ]
-          },
-          "_score": 255,
-          "display_title": "Samsung’s Galaxy Buds 3 Pro are almost...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Walmart has $180 Bluetooth earbuds with 88-hour playback time for only $21 - thestreet.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVZieW1KVUdvcmgxTmFBeGJLQ3BVSkZ3bE1xajloV0JfcC1sU0FzWHlpNDkySF9xdW9wdE1FTVNmVUM5LW1UdmhpbHp3NlRGUFYzNUQxUGJtaUhHQnJtZDF2WUZCOVhfazBXOUs5VnRRNzFHQVpidVpBcnFaMlJBb0F6TVhzLXRBaUxtSzYxU0dhWjB6WEpRZFp2TzZTOWlLZVhSVlhRQmktdw?oc=5\" target=\"_blank\">Walmart has $180 ",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVZieW1KVUdvcmgxTmFBeGJLQ3BVSkZ3bE1xajloV0JfcC1sU0FzWHlpNDkySF9xdW9wdE1FTVNmVUM5LW1UdmhpbHp3NlRGUFYzNUQxUGJtaUhHQnJtZDF2WUZCOVhfazBXOUs5VnRRNzFHQVpidVpBcnFaMlJBb0F6TVhzLXRBaUxtSzYxU0dhWjB6WEpRZFp2TzZTOWlLZVhSVlhRQmktdw?oc=5",
-          "published": "Tue, 18 Aug 2026 05:00:00 GMT",
-          "published_iso": "2026-08-18T05:00:00+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 18.6,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Walmart"
-            ],
-            "categories": [
-              "earbuds"
-            ]
-          },
-          "_score": 250,
-          "display_title": "Walmart has $180 Bluetooth earbuds with...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 4,
-      "items": [
-        {
-          "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-          "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality",
-          "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-          "published": "2026-08-18T13:47:04-04:00",
-          "published_iso": "2026-08-18T17:47:04+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 5.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy"
-            ],
-            "categories": [
-              "earbuds"
-            ]
-          },
-          "_score": 255,
-          "display_title": "Samsung’s Galaxy Buds 3 Pro are almost...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Best Buy Reopens In Hartsdale With New Store Location - bronx.news12.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOekNRWE5XcFprOURyN20wYjdJV2VqQlBqTXVBWkY5cGRyc2xxdWV6RlhXYmg3NGxyeGpsZnE1QlZWQXFCdFU0THdPVy1uSWVBT1Bid3FPOC1GdG1mMlIwbkRnajctYklXcjhXaVVqQk9PWW1FWEwzQVRXMjBXU3ZJWndXUEU?oc=5\" target=\"_blank\">Best Buy Reopens In Hartsdale With New Store Location</a>&nbsp;&nbsp",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekNRWE5XcFprOURyN20wYjdJV2VqQlBqTXVBWkY5cGRyc2xxdWV6RlhXYmg3NGxyeGpsZnE1QlZWQXFCdFU0THdPVy1uSWVBT1Bid3FPOC1GdG1mMlIwbkRnajctYklXcjhXaVVqQk9PWW1FWEwzQVRXMjBXU3ZJWndXUEU?oc=5",
-          "published": "Sat, 15 Aug 2026 04:14:55 GMT",
-          "published_iso": "2026-08-15T04:14:55+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 91.3,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 250,
-          "display_title": "Best Buy Reopens In Hartsdale With New...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
@@ -1631,7 +1523,7 @@
     {
       "name": "Walmart",
       "type": "渠道",
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "Synchrony wants your Amazon and Walmart store cards inside ChatGPT - The Next Web",
@@ -1641,7 +1533,7 @@
           "published_iso": "2026-08-17T17:06:05+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 30.5,
+          "hours_since_published": 53.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1670,8 +1562,8 @@
           "published_iso": "2026-08-18T15:37:00+00:00",
           "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 7.9,
-          "freshness_label": "24h内",
+          "hours_since_published": 31.0,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1679,7 +1571,7 @@
             ],
             "categories": []
           },
-          "_score": 286,
+          "_score": 271,
           "display_title": "Walmart+ adds new in-store perks",
           "tags": [
             "🛒 渠道零售",
@@ -1694,9 +1586,199 @@
       ]
     },
     {
-      "name": "Costco",
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 4,
+      "items": [
+        {
+          "title": "Best Buy: Most Canadian consumers purchase used tech - Chain Store Age",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlFsSE5fVmFqOVNmN2pQb1ROWXdlZ0tvWDkzQ2hMZ0tNY1JsVktzTndOV0J5dXhEVUhsWXk4ZVdxbC1JOFNqSEZmTTFJQ0Y1TGR2c3NSMFNkQ1htMkVlUTd3ak8talhNNDNMRGpEVzhFd0syOVowSEt4MkVwVWd6UjVhQQ?oc=5\" target=\"_blank\">Best Buy: Most Canadian consumers purchase used tech</a>&nbsp;&nbsp;<",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlFsSE5fVmFqOVNmN2pQb1ROWXdlZ0tvWDkzQ2hMZ0tNY1JsVktzTndOV0J5dXhEVUhsWXk4ZVdxbC1JOFNqSEZmTTFJQ0Y1TGR2c3NSMFNkQ1htMkVlUTd3ak8talhNNDNMRGpEVzhFd0syOVowSEt4MkVwVWd6UjVhQQ?oc=5",
+          "published": "Mon, 17 Aug 2026 17:12:43 GMT",
+          "published_iso": "2026-08-17T17:12:43+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 53.4,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 273,
+          "display_title": "Best Buy: Most Canadian consumers...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Best Buy Reopens In Hartsdale With New Store Location - News12 | New Jersey",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUgtZUV2ZlpYVkszRDFQNktvSWs0YVlzckk0ZHJhRFpONVd4ckkxS24tQXpDcGZ4Vl9UdmFERlpjMkVpZW42dnJTTlJibFJJUHNWUWhaX3l2ZnkxMGhlLUNQUkRtRWRBaE00dTl1U0tabTg4bHRERDcxNlp5WFRYY2d3ekdjdU5lMzRHTEhmRUhYdG4yREdMQy1RZ0JkMmpQQl9qT0FNSXVYOUdwMVRtdlNqZFV6TzA?oc=5\" target=\"_blank\">",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUgtZUV2ZlpYVkszRDFQNktvSWs0YVlzckk0ZHJhRFpONVd4ckkxS24tQXpDcGZ4Vl9UdmFERlpjMkVpZW42dnJTTlJibFJJUHNWUWhaX3l2ZnkxMGhlLUNQUkRtRWRBaE00dTl1U0tabTg4bHRERDcxNlp5WFRYY2d3ekdjdU5lMzRHTEhmRUhYdG4yREdMQy1RZ0JkMmpQQl9qT0FNSXVYOUdwMVRtdlNqZFV6TzA?oc=5",
+          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+          "published_iso": "2026-08-14T07:00:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 135.6,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 250,
+          "display_title": "Best Buy Reopens In Hartsdale With New...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商"
+        }
+      ]
+    },
+    {
+      "name": "wearable",
+      "type": "品类",
+      "count": 4,
+      "items": [
+        {
+          "title": "Apple Just Leaked Camera-Equipped AirPods and They Look More Like Wearable AI Than Headphones - eCoustics",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEZkozV1hOTzI5X2NoWFhmVjBaU1VOYlNLdDI4WEZoTi1MNjF0b1VXaHhSS29BZVZMQUY1RVZNTnBOZVdnZ3FKNHBtUVVORU1oSENGbW1QclhoVmZod3hnaTdn?oc=5\" target=\"_blank\">Apple Just Leaked Camera-Equipped AirPods and They Look More Like Wearable AI Than Headphones</a>&nbsp;&nbsp;<font ",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEZkozV1hOTzI5X2NoWFhmVjBaU1VOYlNLdDI4WEZoTi1MNjF0b1VXaHhSS29BZVZMQUY1RVZNTnBOZVdnZ3FKNHBtUVVORU1oSENGbW1QclhoVmZod3hnaTdn?oc=5",
+          "published": "Tue, 18 Aug 2026 18:52:16 GMT",
+          "published_iso": "2026-08-18T18:52:16+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 27.7,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "wearable",
+              "headphone"
+            ]
+          },
+          "_score": 234,
+          "display_title": "Apple Just Leaked Camera-Equipped...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🚁 无人机影像"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "wearable / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "Nielsen is leaning more on wearables to hear what people are watching",
+          "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the ",
+          "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+          "published": "2026-08-19T15:53:09-04:00",
+          "published_iso": "2026-08-19T19:53:09+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 2.7,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "wearable"
+            ]
+          },
+          "_score": 211,
+          "display_title": "Nielsen is leaning more on wearables to...",
+          "tags": [
+            "🏃 运动穿戴",
+            "🚀 新品发布"
+          ],
+          "impact_area": "品牌营销"
+        }
+      ]
+    },
+    {
+      "name": "Target",
       "type": "渠道",
       "count": 3,
+      "items": [
+        {
+          "title": "Beats 360 retail leak spills almost everything about the over-ear headphones - AppleInsider",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnl4UzZ5V3pGOXM1eUx0YUFRUmU1b0RneHM1cXhidTgzM3ZRcE9yWkxMYlllampHRk15d1dqd1E2aFFrZmM5NFBJWjhhUHBXeGwwLUxqZFhXX2FTd0R6czRIOF8taTBvQ2V0WTRmMnVuclVFVDIwRi04THloemMtcVpFVEdiM3BlUWlDakFycE1takJMc19vbHFqbGpQVHR5U1pOelRuOWw1VW9IV3BrVUlBUThkLVhtSWJn?oc=5\" target=\"_bl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnl4UzZ5V3pGOXM1eUx0YUFRUmU1b0RneHM1cXhidTgzM3ZRcE9yWkxMYlllampHRk15d1dqd1E2aFFrZmM5NFBJWjhhUHBXeGwwLUxqZFhXX2FTd0R6czRIOF8taTBvQ2V0WTRmMnVuclVFVDIwRi04THloemMtcVpFVEdiM3BlUWlDakFycE1takJMc19vbHFqbGpQVHR5U1pOelRuOWw1VW9IV3BrVUlBUThkLVhtSWJn?oc=5",
+          "published": "Wed, 19 Aug 2026 18:39:00 GMT",
+          "published_iso": "2026-08-19T18:39:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 3.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Beats"
+            ],
+            "channels": [
+              "Target"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 297,
+          "display_title": "Beats 360 retail leak spills almost...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Target scores major sales growth in beauty, hardlines merchandise",
+          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BUyPFsIDrBkRc1vlD0C9YjNn0ykMzssOToNk8wxrtWU/g:nowe:121:214/c:3078:1739/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjEyNC5qcGc=.webp\" /></div></figure><p>The mass retailer saw lower sales increases in apparel and home, where executives said more",
+          "url": "https://www.retaildive.com/news/target-scores-sales-growth-beauty-hardlines-merchandise/828196/",
+          "published": "Wed, 19 Aug 2026 06:33:00 -0400",
+          "published_iso": "2026-08-19T10:33:00+00:00",
+          "source": "Retail Dive",
+          "bucket": "channel_news",
+          "hours_since_published": 12.0,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 270,
+          "display_title": "Target scores major sales growth in...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "Costco",
+      "type": "渠道",
+      "count": 2,
       "items": [
         {
           "title": "Costco is offering a feature to compete with Amazon - AL.com",
@@ -1706,7 +1788,7 @@
           "published_iso": "2026-08-14T15:09:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 104.4,
+          "hours_since_published": 127.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1735,7 +1817,7 @@
           "published_iso": "2026-08-17T12:56:43+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 34.6,
+          "hours_since_published": 57.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1751,54 +1833,59 @@
             "🏬 平台电商",
             "💰 价格促销"
           ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Costco相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+          "impact_area": "电商"
         }
       ]
     },
     {
-      "name": "open-ear",
-      "type": "品类",
-      "count": 3,
+      "name": "Shokz",
+      "type": "品牌",
+      "count": 2,
       "items": [
         {
-          "title": "Samsung Galaxy Buds Able: Clip-style open earbuds are likely on the horizon - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1CY2NCR09oTy0xbE5xcnFXTHJPZ2tTR1ZZTlNGWW83NTktWDlBamhmZ1ZsRmh6bFlPekNjZ25UZjhHWElKQXRGOEkzaUxpbUhra01qTEdkUlk0a0kzNkY3UXRqY2VCMWx1T2VyLTZXdmFsN3ctRDJfYUk3WQ?oc=5\" target=\"_blank\">Samsung Galaxy Buds Able: Clip-style open earbuds are likely on the horizon</a>&n",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CY2NCR09oTy0xbE5xcnFXTHJPZ2tTR1ZZTlNGWW83NTktWDlBamhmZ1ZsRmh6bFlPekNjZ25UZjhHWElKQXRGOEkzaUxpbUhra01qTEdkUlk0a0kzNkY3UXRqY2VCMWx1T2VyLTZXdmFsN3ctRDJfYUk3WQ?oc=5",
-          "published": "Tue, 18 Aug 2026 04:20:29 GMT",
-          "published_iso": "2026-08-18T04:20:29+00:00",
+          "title": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2Rk",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
+          "published": "Tue, 18 Aug 2026 11:26:37 GMT",
+          "published_iso": "2026-08-18T11:26:37+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 19.2,
-          "freshness_label": "24h内",
+          "hours_since_published": 35.1,
+          "freshness_label": "近3天",
           "monitor_hits": {
-            "brands": [],
-            "channels": [],
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [
+              "Amazon"
+            ],
             "categories": [
               "open-ear",
-              "earbuds"
+              "headphone"
             ]
           },
-          "_score": 211,
-          "display_title": "Samsung Galaxy Buds Able: Clip-style...",
+          "_score": 322,
+          "display_title": "Save up to 30% on Shokz open-ear...",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🏃 运动穿戴",
+            "🏬 平台电商"
           ],
-          "impact_area": "品牌营销"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "name": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - techradar.com",
+          "name": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - TechRadar",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESH",
           "date": "Tue, 18 Aug 2026 11:26:37",
           "published_iso": "2026-08-18T11:26:37+00:00",
           "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
           "source": "Google News - Audio Wearable Watch",
-          "_score": 137,
-          "hours_since_published": 12.1,
-          "freshness_label": "24h内",
+          "_score": 122,
+          "hours_since_published": 35.1,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Shokz"
@@ -1826,71 +1913,6 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
-    },
-    {
-      "name": "Bose",
-      "type": "品牌",
-      "count": 2,
-      "items": [
-        {
-          "title": "Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5",
-          "published": "Tue, 18 Aug 2026 05:37:18 GMT",
-          "published_iso": "2026-08-18T05:37:18+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 17.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 297,
-          "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "Why Are Bose Headphones So Expensive? - bgr.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBkcW56S3NHOUtaRE1HSDkzSXlCa3J0RHVVc05iRkU5SzJoc2dweWhQYjlvT29JN2ZuMGs1am1aN1FxeGpVX1oyME9QVmZBNjdkeGhaQ04ycjJwOUVVaVRVdzZOMGdiLVNqUjhGQlVGa2EwLTA?oc=5\" target=\"_blank\">Why Are Bose Headphones So Expensive?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkcW56S3NHOUtaRE1HSDkzSXlCa3J0RHVVc05iRkU5SzJoc2dweWhQYjlvT29JN2ZuMGs1am1aN1FxeGpVX1oyME9QVmZBNjdkeGhaQ04ycjJwOUVVaVRVdzZOMGdiLVNqUjhGQlVGa2EwLTA?oc=5",
-          "published": "Sun, 16 Aug 2026 20:47:00 GMT",
-          "published_iso": "2026-08-16T20:47:00+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 50.8,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 242,
-          "display_title": "Why Are Bose Headphones So Expensive?...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
     }
   ],
   "takeaways": [
@@ -1900,7 +1922,7 @@
   ],
   "opportunity_signals": [
     "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-    "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。"
+    "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。"
   ],
   "risk_signals": [
     "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。",

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22 06:34:07 CST",
+  "generated_at": "2026-08-22 07:35:53 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-08-21T20:40:00+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 1.9,
+    "hours_since_published": 2.9,
     "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
@@ -743,7 +743,7 @@
       "published_iso": "2026-08-21T20:40:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 1.9,
+      "hours_since_published": 2.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -772,7 +772,7 @@
       "published_iso": "2026-08-20T18:22:30+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 28.2,
+      "hours_since_published": 29.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -803,7 +803,7 @@
       "published_iso": "2026-08-17T17:06:05+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 101.5,
+      "hours_since_published": 102.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -834,7 +834,7 @@
       "published_iso": "2026-08-18T11:26:37+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 83.1,
+      "hours_since_published": 84.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -868,7 +868,7 @@
       "published_iso": "2026-08-21T07:55:41+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 14.6,
+      "hours_since_published": 15.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -891,6 +891,35 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
+      "title": "Apple's New Beats 360 Headphones Keep Leaking - MacRumors",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5uX2IzX05zUmpEYWlIZnZYVWxRUEJ4Q3FydGIta3BzTG50eEdpLUZkLXFUREpkVDlPX1BpdDlNQWxsNU9IdHNNWTVqa05SMDFSanhtWDgzUEhja211bFFHUS1RNFEtdWlBWGplMF9Obkh3dEpBMWlKNw?oc=5\" target=\"_blank\">Apple's New Beats 360 Headphones Keep Leaking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ma",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uX2IzX05zUmpEYWlIZnZYVWxRUEJ4Q3FydGIta3BzTG50eEdpLUZkLXFUREpkVDlPX1BpdDlNQWxsNU9IdHNNWTVqa05SMDFSanhtWDgzUEhja211bFFHUS1RNFEtdWlBWGplMF9Obkh3dEpBMWlKNw?oc=5",
+      "published": "Thu, 20 Aug 2026 15:01:24 GMT",
+      "published_iso": "2026-08-20T15:01:24+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 32.6,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Beats"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 242,
+      "display_title": "Apple's New Beats 360 Headphones Keep...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Walmart will finally accept tap to pay in stores by the end of 2026",
       "summary": "Sam's Club will soon let you pay with your phone or smartwatch too.",
       "url": "https://www.engadget.com/2241608/walmart-will-finally-accept-tap-to-pay-in-stores-by-end-of-2026/",
@@ -898,7 +927,7 @@
       "published_iso": "2026-08-21T15:40:00+00:00",
       "source": "Engadget",
       "bucket": "consumer_electronics",
-      "hours_since_published": 6.9,
+      "hours_since_published": 7.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -928,7 +957,7 @@
       "published_iso": "2026-08-16T20:47:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 121.8,
+      "hours_since_published": 122.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -950,35 +979,6 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Sennheiser's new $300 earbuds have batteries you can replace yourself - Seattle Post-Intelligencer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHpCLTBFMHdtU2J1UERZV1pGdGd5bEtkR2JQNGljeE9JT180SENOM0s0MVV1c3ZUVmplSGQwVlZZcF9GX3l4cTdvTWJiLUI2RHk4MGdoY3JJQUFma0ptaUc4aHBBM08ySC1kNU9qTGRvZXRJRG10MkdaUm44WUEzY1QwTUxXVXhzNU8yMkxWTWlHakdLakE?oc=5\" target=\"_blank\">Sennheiser's new $300 earbuds have batteries",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHpCLTBFMHdtU2J1UERZV1pGdGd5bEtkR2JQNGljeE9JT180SENOM0s0MVV1c3ZUVmplSGQwVlZZcF9GX3l4cTdvTWJiLUI2RHk4MGdoY3JJQUFma0ptaUc4aHBBM08ySC1kNU9qTGRvZXRJRG10MkdaUm44WUEzY1QwTUxXVXhzNU8yMkxWTWlHakdLakE?oc=5",
-      "published": "Fri, 21 Aug 2026 19:36:23 GMT",
-      "published_iso": "2026-08-21T19:36:23+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 3.0,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Sennheiser"
-        ],
-        "channels": [],
-        "categories": [
-          "earbuds"
-        ]
-      },
-      "_score": 227,
-      "display_title": "Sennheiser's new $300 earbuds have...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
       "title": "Walmart is finally adding Apple Pay and Google Pay",
       "summary": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting August 24th, before rolling out support to all US stores by the end of 2026 and gas stations [&#823",
       "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
@@ -986,7 +986,7 @@
       "published_iso": "2026-08-21T17:01:59+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 5.5,
+      "hours_since_published": 6.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1018,7 +1018,7 @@
       "published_iso": "2026-08-21T20:40:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 1.9,
+      "hours_since_published": 2.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1047,7 +1047,7 @@
       "published_iso": "2026-08-20T18:22:30+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 28.2,
+      "hours_since_published": 29.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1078,7 +1078,7 @@
       "published_iso": "2026-08-17T17:06:05+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 101.5,
+      "hours_since_published": 102.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1107,7 +1107,7 @@
       "published_iso": "2026-08-20T13:57:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 32.6,
+      "hours_since_published": 33.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1136,7 +1136,7 @@
       "published_iso": "2026-08-20T16:07:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 30.5,
+      "hours_since_published": 31.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1164,7 +1164,7 @@
       "published_iso": "2026-08-21T18:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 4.6,
+      "hours_since_published": 5.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1194,7 +1194,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 107,
-      "hours_since_published": 83.1,
+      "hours_since_published": 84.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1230,7 +1230,7 @@
       "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
       "source": "The Verge",
       "_score": 107,
-      "hours_since_published": 5.5,
+      "hours_since_published": 6.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1261,7 +1261,7 @@
       "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
       "source": "The Verge",
       "_score": 91,
-      "hours_since_published": 4.6,
+      "hours_since_published": 5.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1292,7 +1292,7 @@
       "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.3,
+      "hours_since_published": 1.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1319,7 +1319,7 @@
       "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.3,
+      "hours_since_published": 1.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1346,7 +1346,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 1.1,
+      "hours_since_published": 2.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1380,7 +1380,7 @@
           "published_iso": "2026-08-20T18:22:30+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 28.2,
+          "hours_since_published": 29.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1411,7 +1411,7 @@
           "published_iso": "2026-08-17T17:06:05+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 101.5,
+          "hours_since_published": 102.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1435,73 +1435,9 @@
       ]
     },
     {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 5,
-      "items": [
-        {
-          "title": "Best Buy launches virtual store in Fortnite as gaming helps drive sales growth - The Business Journals",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlRiT1FONFJ3UVQ0ZmpObzBYTGw4YU9wdmtidGVSU3ljb1FnN0JLcWIzSmlxOFA5ZC1pNFZWeU9iaEVlZmZieUJKSE9XQ3VSM3RCTHkxVzJtdElVV2lRVFdPdE9yYnVjQnhqdnRyZkZTTC1JUnJLQXFRSVZEb29WOXhiZGswWGhhQ0JCT2NBVUxUaTRfMVE3UDJMNW96ZERLSkpLLQ?oc=5\" target=\"_blank\">Best Buy launches virtual",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlRiT1FONFJ3UVQ0ZmpObzBYTGw4YU9wdmtidGVSU3ljb1FnN0JLcWIzSmlxOFA5ZC1pNFZWeU9iaEVlZmZieUJKSE9XQ3VSM3RCTHkxVzJtdElVV2lRVFdPdE9yYnVjQnhqdnRyZkZTTC1JUnJLQXFRSVZEb29WOXhiZGswWGhhQ0JCT2NBVUxUaTRfMVE3UDJMNW96ZERLSkpLLQ?oc=5",
-          "published": "Fri, 21 Aug 2026 20:40:00 GMT",
-          "published_iso": "2026-08-21T20:40:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 1.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 328,
-          "display_title": "Best Buy launches virtual store in...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "🚀 新品发布"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "$100 Best Buy gift cards will be $60 at stores Saturday - The Verge",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9UYU1XbXhrQ001b1dIVlU3VEhuOWRucnRQWWgwZ1djSHVxOUxBaWRIcjJYRGZ2eXZMMFZNMnVINEdJOWszTEhYbWtibG04RTgwWUdpSU9yMmc3eTBtOFZCdFVqRE1yR01heDlYSklDRXlUb0ppeVJHekQtcEU?oc=5\" target=\"_blank\">$100 Best Buy gift cards will be $60 at stores Saturday</a>&nbsp;&nbsp;<font col",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UYU1XbXhrQ001b1dIVlU3VEhuOWRucnRQWWgwZ1djSHVxOUxBaWRIcjJYRGZ2eXZMMFZNMnVINEdJOWszTEhYbWtibG04RTgwWUdpSU9yMmc3eTBtOFZCdFVqRE1yR01heDlYSklDRXlUb0ppeVJHekQtcEU?oc=5",
-          "published": "Fri, 21 Aug 2026 18:00:00 GMT",
-          "published_iso": "2026-08-21T18:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 4.6,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 280,
-          "display_title": "$100 Best Buy gift cards will be $60 at...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
       "name": "headphone",
       "type": "品类",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "Save up to 30% on Shokz open-ear headphones at Amazon, including the 4.5-star OpenRun Pro 2 - TechRadar",
@@ -1511,7 +1447,7 @@
           "published_iso": "2026-08-18T11:26:37+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 83.1,
+          "hours_since_published": 84.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1545,7 +1481,7 @@
           "published_iso": "2026-08-21T07:55:41+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 14.6,
+          "hours_since_published": 15.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1570,6 +1506,70 @@
       ]
     },
     {
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 5,
+      "items": [
+        {
+          "title": "Best Buy launches virtual store in Fortnite as gaming helps drive sales growth - The Business Journals",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlRiT1FONFJ3UVQ0ZmpObzBYTGw4YU9wdmtidGVSU3ljb1FnN0JLcWIzSmlxOFA5ZC1pNFZWeU9iaEVlZmZieUJKSE9XQ3VSM3RCTHkxVzJtdElVV2lRVFdPdE9yYnVjQnhqdnRyZkZTTC1JUnJLQXFRSVZEb29WOXhiZGswWGhhQ0JCT2NBVUxUaTRfMVE3UDJMNW96ZERLSkpLLQ?oc=5\" target=\"_blank\">Best Buy launches virtual",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlRiT1FONFJ3UVQ0ZmpObzBYTGw4YU9wdmtidGVSU3ljb1FnN0JLcWIzSmlxOFA5ZC1pNFZWeU9iaEVlZmZieUJKSE9XQ3VSM3RCTHkxVzJtdElVV2lRVFdPdE9yYnVjQnhqdnRyZkZTTC1JUnJLQXFRSVZEb29WOXhiZGswWGhhQ0JCT2NBVUxUaTRfMVE3UDJMNW96ZERLSkpLLQ?oc=5",
+          "published": "Fri, 21 Aug 2026 20:40:00 GMT",
+          "published_iso": "2026-08-21T20:40:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 2.9,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 328,
+          "display_title": "Best Buy launches virtual store in...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "🚀 新品发布"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "$100 Best Buy gift cards will be $60 at stores Saturday - The Verge",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9UYU1XbXhrQ001b1dIVlU3VEhuOWRucnRQWWgwZ1djSHVxOUxBaWRIcjJYRGZ2eXZMMFZNMnVINEdJOWszTEhYbWtibG04RTgwWUdpSU9yMmc3eTBtOFZCdFVqRE1yR01heDlYSklDRXlUb0ppeVJHekQtcEU?oc=5\" target=\"_blank\">$100 Best Buy gift cards will be $60 at stores Saturday</a>&nbsp;&nbsp;<font col",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UYU1XbXhrQ001b1dIVlU3VEhuOWRucnRQWWgwZ1djSHVxOUxBaWRIcjJYRGZ2eXZMMFZNMnVINEdJOWszTEhYbWtibG04RTgwWUdpSU9yMmc3eTBtOFZCdFVqRE1yR01heDlYSklDRXlUb0ppeVJHekQtcEU?oc=5",
+          "published": "Fri, 21 Aug 2026 18:00:00 GMT",
+          "published_iso": "2026-08-21T18:00:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 5.6,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 280,
+          "display_title": "$100 Best Buy gift cards will be $60 at...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
       "name": "Amazon",
       "type": "渠道",
       "count": 4,
@@ -1582,7 +1582,7 @@
           "published_iso": "2026-08-20T18:22:30+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 28.2,
+          "hours_since_published": 29.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1613,7 +1613,7 @@
           "published_iso": "2026-08-17T17:06:05+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 101.5,
+          "hours_since_published": 102.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1649,7 +1649,7 @@
           "published_iso": "2026-08-20T13:57:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 32.6,
+          "hours_since_published": 33.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1678,7 +1678,7 @@
           "published_iso": "2026-08-21T15:40:00+00:00",
           "source": "Engadget",
           "bucket": "consumer_electronics",
-          "hours_since_published": 6.9,
+          "hours_since_published": 7.9,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1715,7 +1715,7 @@
           "published_iso": "2026-08-20T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 32.6,
+          "hours_since_published": 33.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1741,7 +1741,7 @@
           "published_iso": "2026-08-19T21:40:12+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 48.9,
+          "hours_since_published": 49.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1774,7 +1774,7 @@
           "published_iso": "2026-08-20T18:22:30+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 28.2,
+          "hours_since_published": 29.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1805,7 +1805,7 @@
           "published_iso": "2026-08-20T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 32.6,
+          "hours_since_published": 33.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1838,7 +1838,7 @@
           "published_iso": "2026-08-18T11:26:37+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 83.1,
+          "hours_since_published": 84.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1872,7 +1872,7 @@
           "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTGJKVC1Qdlkxam5VTlVOeWduUlpHbTFoWkdSNld2cVNMcmJad2s4S2E1dURjRkJCeTNFQUpzdl9WMlMxR1R6cHlrSnFzTXpWMlJFVnhEa3dYTE9idjlyX25aR3oweDZwQV9LT0NBdnZrU1hGQ0FYLWV4czd6VzVZRHNGa1B4Ui1IUTlrS29DRFFtQ2J2T2llTUNESHZSZHZ5Wi1DbzVzNU9hYWQxZFBBN1hyYTc1cTQzM0Y5M1pjOGgtVDVwdGN2RkFQRl9LdVdTLVhMRU9OVXJYWENGLUE5MklraTNhNFNhWkFNc3dpNXp3UHp6dUJEaWY3VXBJUkJGem1jeXNvUGJINWx3d0FfM1pab0JfclhTOUhR?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 107,
-          "hours_since_published": 83.1,
+          "hours_since_published": 84.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [

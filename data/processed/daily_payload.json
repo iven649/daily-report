@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25 06:36:50 CST",
+  "generated_at": "2026-08-25 07:37:42 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-08-24T14:14:48+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 8.4,
+    "hours_since_published": 9.4,
     "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
@@ -743,7 +743,7 @@
       "published_iso": "2026-08-24T14:14:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 8.4,
+      "hours_since_published": 9.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -772,7 +772,7 @@
       "published_iso": "2026-08-20T18:22:30+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 100.2,
+      "hours_since_published": 101.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -803,7 +803,7 @@
       "published_iso": "2026-08-21T20:40:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 73.9,
+      "hours_since_published": 75.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -827,6 +827,35 @@
   ],
   "consumer_electronics": [
     {
+      "title": "Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product - CNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product</a>&nbsp;&nbsp;<font c",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5",
+      "published": "Tue, 18 Aug 2026 05:37:18 GMT",
+      "published_iso": "2026-08-18T05:37:18+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 162.0,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 267,
+      "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Latest Beats headphones leaks and rumors: Are the Beats 360 coming? - Mashable",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zU0dQMXhjd3hYYnBQZ0x4S09OUHlUVDFpa3ZMbE5zUjJaSjJyVmstX3E0Z2hKbWoySy1JblgzaFR2aU9PWFFnTVVnUlVTTGxqVjgtLWY2VEdwSFhteDJ6QW04TQ?oc=5\" target=\"_blank\">Latest Beats headphones leaks and rumors: Are the Beats 360 coming?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zU0dQMXhjd3hYYnBQZ0x4S09OUHlUVDFpa3ZMbE5zUjJaSjJyVmstX3E0Z2hKbWoySy1JblgzaFR2aU9PWFFnTVVnUlVTTGxqVjgtLWY2VEdwSFhteDJ6QW04TQ?oc=5",
@@ -834,7 +863,7 @@
       "published_iso": "2026-08-21T19:21:53+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 75.2,
+      "hours_since_published": 76.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -863,7 +892,7 @@
       "published_iso": "2026-08-24T18:00:00+00:00",
       "source": "Engadget",
       "bucket": "consumer_electronics",
-      "hours_since_published": 4.6,
+      "hours_since_published": 5.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -890,7 +919,7 @@
       "published_iso": "2026-08-21T16:34:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 78.0,
+      "hours_since_published": 79.1,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -920,7 +949,7 @@
       "published_iso": "2026-08-21T07:55:41+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 86.7,
+      "hours_since_published": 87.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -950,7 +979,7 @@
       "published_iso": "2026-08-21T14:14:57+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 80.4,
+      "hours_since_published": 81.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -970,36 +999,6 @@
       "importance": "高",
       "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Sennheiser's new MOMENTUM True Wireless 5 earbuds give you more for the same price - SoundGuys",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNa2NIN3k1VktYRlRqU1dYOU9QeW1DaVBCQ3lIbmM1WVEtUFcxTlBFV1FGRnF5NXBkc3ZabmhjemVWam1laUxZNG1ZaDh1Q3hyLTNZQ3BuOUZIYzBPaVlTOXFhVUlveWstamN1N0dUWG5NREtJbmw5RXMzVWxnWm1UTlpB?oc=5\" target=\"_blank\">Sennheiser's new MOMENTUM True Wireless 5 earbuds give you more for the",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa2NIN3k1VktYRlRqU1dYOU9QeW1DaVBCQ3lIbmM1WVEtUFcxTlBFV1FGRnF5NXBkc3ZabmhjemVWam1laUxZNG1ZaDh1Q3hyLTNZQ3BuOUZIYzBPaVlTOXFhVUlveWstamN1N0dUWG5NREtJbmw5RXMzVWxnWm1UTlpB?oc=5",
-      "published": "Thu, 20 Aug 2026 10:00:00 GMT",
-      "published_iso": "2026-08-20T10:00:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 108.6,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Sennheiser"
-        ],
-        "channels": [],
-        "categories": [
-          "earbuds"
-        ]
-      },
-      "_score": 207,
-      "display_title": "Sennheiser's new MOMENTUM True Wireless...",
-      "tags": [
-        "🎧 耳机音频",
-        "💰 价格促销"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
@@ -1011,7 +1010,7 @@
       "published_iso": "2026-08-24T14:14:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 8.4,
+      "hours_since_published": 9.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1040,7 +1039,7 @@
       "published_iso": "2026-08-20T18:22:30+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 100.2,
+      "hours_since_published": 101.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1071,7 +1070,7 @@
       "published_iso": "2026-08-21T20:40:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 73.9,
+      "hours_since_published": 75.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1100,7 +1099,7 @@
       "published_iso": "2026-08-23T13:05:31+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 33.5,
+      "hours_since_published": 34.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1134,7 +1133,7 @@
       "published_iso": "2026-08-20T13:57:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 104.7,
+      "hours_since_published": 105.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1163,7 +1162,7 @@
       "published_iso": "2026-08-20T14:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 104.6,
+      "hours_since_published": 105.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1194,7 +1193,7 @@
       "url": "https://www.engadget.com/2232481/new-shokz-openfit-air-2-earbuds/",
       "source": "Engadget",
       "_score": 113,
-      "hours_since_published": 11.6,
+      "hours_since_published": 12.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1226,7 +1225,7 @@
       "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
       "source": "The Verge",
       "_score": 99,
-      "hours_since_published": 8.5,
+      "hours_since_published": 9.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1257,7 +1256,7 @@
       "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
       "source": "The Verge",
       "_score": 67,
-      "hours_since_published": 6.8,
+      "hours_since_published": 7.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1287,7 +1286,7 @@
       "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 2.8,
+      "hours_since_published": 3.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1314,7 +1313,7 @@
       "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.6,
+      "hours_since_published": 6.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1341,7 +1340,7 @@
       "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.9,
+      "hours_since_published": 6.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1365,7 +1364,7 @@
     {
       "name": "Target",
       "type": "渠道",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "This Week in Retail: Dollar General and Best Buy earnings and personal spending data - Retail Brew",
@@ -1375,7 +1374,7 @@
           "published_iso": "2026-08-24T14:14:48+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 8.4,
+          "hours_since_published": 9.4,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1404,7 +1403,7 @@
           "published_iso": "2026-08-20T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 104.6,
+          "hours_since_published": 105.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1433,6 +1432,35 @@
       "count": 6,
       "items": [
         {
+          "title": "Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review: A Real 2.0 Product</a>&nbsp;&nbsp;<font c",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNnVBeDFZRWFNNlhGUlRCUDRsRWFtQkIwdTVMRjVnXzJ4SXNpbFRxbmluYTZ5Q2RPMnA5ZTJTUXpZM212ZG95RnBXRUF4WXRVOHVqVEFJZmZGcFo1V0xPZlJQMjBLYjNrNDdyTXlGWkhKWE8wR1E?oc=5",
+          "published": "Tue, 18 Aug 2026 05:37:18 GMT",
+          "published_iso": "2026-08-18T05:37:18+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 162.0,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 267,
+          "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
           "title": "Latest Beats headphones leaks and rumors: Are the Beats 360 coming? - Mashable",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zU0dQMXhjd3hYYnBQZ0x4S09OUHlUVDFpa3ZMbE5zUjJaSjJyVmstX3E0Z2hKbWoySy1JblgzaFR2aU9PWFFnTVVnUlVTTGxqVjgtLWY2VEdwSFhteDJ6QW04TQ?oc=5\" target=\"_blank\">Latest Beats headphones leaks and rumors: Are the Beats 360 coming?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zU0dQMXhjd3hYYnBQZ0x4S09OUHlUVDFpa3ZMbE5zUjJaSjJyVmstX3E0Z2hKbWoySy1JblgzaFR2aU9PWFFnTVVnUlVTTGxqVjgtLWY2VEdwSFhteDJ6QW04TQ?oc=5",
@@ -1440,7 +1468,7 @@
           "published_iso": "2026-08-21T19:21:53+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 75.2,
+          "hours_since_published": 76.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1460,33 +1488,6 @@
           "importance": "高",
           "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "How to add Bluetooth to a TV that doesn't have it",
-          "summary": "Your TV may not have native Bluetooth support, but you can still stream your TV's audio to wireless headphones.",
-          "url": "https://www.engadget.com/2240323/how-to-add-bluetooth-tv-doesnt-have-it/",
-          "published": "Mon, 24 Aug 2026 18:00:00 +0000",
-          "published_iso": "2026-08-24T18:00:00+00:00",
-          "source": "Engadget",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 4.6,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 253,
-          "display_title": "How to add Bluetooth to a TV that...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
@@ -1503,7 +1504,7 @@
           "published_iso": "2026-08-20T18:22:30+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 100.2,
+          "hours_since_published": 101.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1534,7 +1535,7 @@
           "published_iso": "2026-08-23T13:05:31+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 33.5,
+          "hours_since_published": 34.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1575,7 +1576,7 @@
           "published_iso": "2026-08-24T14:14:48+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 8.4,
+          "hours_since_published": 9.4,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1604,7 +1605,7 @@
           "published_iso": "2026-08-21T20:40:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 73.9,
+          "hours_since_published": 75.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1640,7 +1641,7 @@
           "published_iso": "2026-08-20T18:22:30+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 100.2,
+          "hours_since_published": 101.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1671,7 +1672,7 @@
           "published_iso": "2026-08-20T13:57:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 104.7,
+          "hours_since_published": 105.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1707,7 +1708,7 @@
           "published_iso": "2026-08-23T13:05:31+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 33.5,
+          "hours_since_published": 34.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1741,7 +1742,7 @@
           "published_iso": "2026-08-20T10:00:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 108.6,
+          "hours_since_published": 109.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1758,10 +1759,7 @@
             "🎧 耳机音频",
             "💰 价格促销"
           ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "impact_area": "品牌营销"
         }
       ]
     },
@@ -1778,7 +1776,7 @@
           "published_iso": "2026-08-20T18:22:30+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 100.2,
+          "hours_since_published": 101.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1809,7 +1807,7 @@
           "published_iso": "2026-08-20T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 104.6,
+          "hours_since_published": 105.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1845,7 +1843,7 @@
           "published_iso": "2026-08-21T19:21:53+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 75.2,
+          "hours_since_published": 76.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1874,7 +1872,7 @@
           "published_iso": "2026-08-21T07:55:41+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 86.7,
+          "hours_since_published": 87.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [

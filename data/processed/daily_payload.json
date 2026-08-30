@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30 08:09:18 CST",
+  "generated_at": "2026-08-30 09:13:51 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-08-27T19:21:20+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 52.8,
+    "hours_since_published": 53.9,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -742,7 +742,7 @@
       "published_iso": "2026-08-27T19:21:20+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 52.8,
+      "hours_since_published": 53.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -770,7 +770,7 @@
       "published_iso": "2026-08-29T14:55:40+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 9.2,
+      "hours_since_published": 10.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -804,7 +804,7 @@
       "published_iso": "2026-08-24T14:14:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 129.9,
+      "hours_since_published": 131.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -835,7 +835,7 @@
       "published_iso": "2026-08-26T08:53:51+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 87.3,
+      "hours_since_published": 88.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -861,6 +861,35 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
+      "title": "5 Over-Ear Headphones Brands That Have Better Audio Quality Than Bose - bgr.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjNBU2JLVXJ6RnVQS2kzX3hNekdualIzT09lNlFqcGh3RDhScU5IeWRCUGs5LUxKNG9vemRaak11ZS1CR0dHTGhlUXcxLVZ0MTlwUERoMzhfVDBUbTlzbklkUl9mblVWam1HZTRSdmt5aUJhdDZRXzZDT1J2UGhab2RVMGVCaXNwZ3dIWTJDMGxHVmM3?oc=5\" target=\"_blank\">5 Over-Ear Headphones Brands That Have Better A",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjNBU2JLVXJ6RnVQS2kzX3hNekdualIzT09lNlFqcGh3RDhScU5IeWRCUGs5LUxKNG9vemRaak11ZS1CR0dHTGhlUXcxLVZ0MTlwUERoMzhfVDBUbTlzbklkUl9mblVWam1HZTRSdmt5aUJhdDZRXzZDT1J2UGhab2RVMGVCaXNwZ3dIWTJDMGxHVmM3?oc=5",
+      "published": "Wed, 26 Aug 2026 03:17:00 GMT",
+      "published_iso": "2026-08-26T03:17:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 93.9,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 257,
+      "display_title": "5 Over-Ear Headphones Brands That Have...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Add the AirPods 5, Beats 360 to Rumored Apple Headphones Coming Soon - CNET",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUpMVkhoRWxkbVZ5X2NsYVJlQS00V2RuOUVOeUlIQTJIMmtxVHV2b0cwUTlHUVFwQVdiTHJNZkpXNDI1SnlSR1ZMR3JkMWliZG9kd3BCQkFjZWFlRUpPLW9ZdG83MktWTml3RjhZUDhSamtBMWNJcWRITVpHUHBZenV5aE9seTR6Sl9UZldGZFE?oc=5\" target=\"_blank\">Add the AirPods 5, Beats 360 to Rumored Apple Headph",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUpMVkhoRWxkbVZ5X2NsYVJlQS00V2RuOUVOeUlIQTJIMmtxVHV2b0cwUTlHUVFwQVdiTHJNZkpXNDI1SnlSR1ZMR3JkMWliZG9kd3BCQkFjZWFlRUpPLW9ZdG83MktWTml3RjhZUDhSamtBMWNJcWRITVpHUHBZenV5aE9seTR6Sl9UZldGZFE?oc=5",
@@ -868,7 +897,7 @@
       "published_iso": "2026-08-25T17:46:59+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 102.4,
+      "hours_since_published": 103.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -898,7 +927,7 @@
       "published_iso": "2026-08-29T18:19:53+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 5.8,
+      "hours_since_published": 6.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -925,7 +954,7 @@
       "published_iso": "2026-08-29T19:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 5.2,
+      "hours_since_published": 6.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -953,7 +982,7 @@
       "published_iso": "2026-08-29T18:41:59+00:00",
       "source": "TechCrunch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 5.5,
+      "hours_since_published": 6.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -964,33 +993,6 @@
       },
       "_score": 197,
       "display_title": "Sony Music, Warner sue Anthropic...",
-      "tags": [
-        "📱 消费电子"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
-      "summary": "The two music publishing groups claim thousands of instances of copyright infringement.",
-      "url": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/",
-      "published": "Sat, 29 Aug 2026 18:52:22 +0000",
-      "published_iso": "2026-08-29T18:52:22+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 5.3,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Sony"
-        ],
-        "channels": [],
-        "categories": []
-      },
-      "_score": 197,
-      "display_title": "Sony and Warner sue Anthropic for...",
       "tags": [
         "📱 消费电子"
       ],
@@ -1009,7 +1011,7 @@
       "published_iso": "2026-08-27T19:21:20+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 52.8,
+      "hours_since_published": 53.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1037,7 +1039,7 @@
       "published_iso": "2026-08-29T14:55:40+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 9.2,
+      "hours_since_published": 10.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1071,7 +1073,7 @@
       "published_iso": "2026-08-24T14:14:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 129.9,
+      "hours_since_published": 131.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1100,7 +1102,7 @@
       "published_iso": "2026-08-25T20:27:52+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 99.7,
+      "hours_since_published": 100.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1129,7 +1131,7 @@
       "published_iso": "2026-08-27T13:22:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 58.8,
+      "hours_since_published": 59.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1157,7 +1159,7 @@
       "published_iso": "2026-08-28T15:27:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 32.7,
+      "hours_since_published": 33.8,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1187,7 +1189,7 @@
       "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
       "source": "The Verge",
       "_score": 92,
-      "hours_since_published": 31.1,
+      "hours_since_published": 32.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1218,7 +1220,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "source": "The Verge",
       "_score": 77,
-      "hours_since_published": 5.8,
+      "hours_since_published": 6.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1247,7 +1249,7 @@
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "source": "TechCrunch",
       "_score": 77,
-      "hours_since_published": 5.5,
+      "hours_since_published": 6.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1276,7 +1278,7 @@
       "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.2,
+      "hours_since_published": 4.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1303,7 +1305,7 @@
       "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.3,
+      "hours_since_published": 5.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1330,7 +1332,7 @@
       "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 8.1,
+      "hours_since_published": 9.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1364,7 +1366,7 @@
           "published_iso": "2026-08-27T19:21:20+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 52.8,
+          "hours_since_published": 53.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1392,7 +1394,7 @@
           "published_iso": "2026-08-24T14:14:48+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 129.9,
+          "hours_since_published": 131.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1428,7 +1430,7 @@
           "published_iso": "2026-08-29T14:55:40+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 9.2,
+          "hours_since_published": 10.3,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1462,7 +1464,7 @@
           "published_iso": "2026-08-29T18:19:53+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 5.8,
+          "hours_since_published": 6.9,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1496,7 +1498,7 @@
           "published_iso": "2026-08-29T14:55:40+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 9.2,
+          "hours_since_published": 10.3,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1530,7 +1532,7 @@
           "published_iso": "2026-08-25T20:27:52+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 99.7,
+          "hours_since_published": 100.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1566,7 +1568,7 @@
           "published_iso": "2026-08-24T14:14:48+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 129.9,
+          "hours_since_published": 131.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1595,7 +1597,7 @@
           "published_iso": "2026-08-28T15:27:00+00:00",
           "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 32.7,
+          "hours_since_published": 33.8,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1620,7 +1622,7 @@
     {
       "name": "headphone",
       "type": "品类",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "I wear Shokz headphones during all my races, and you can save £35 on two of my top budget picks at Amazon right now - TechRadar",
@@ -1630,7 +1632,7 @@
           "published_iso": "2026-08-26T08:53:51+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 87.3,
+          "hours_since_published": 88.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1656,33 +1658,32 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Add the AirPods 5, Beats 360 to Rumored Apple Headphones Coming Soon - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUpMVkhoRWxkbVZ5X2NsYVJlQS00V2RuOUVOeUlIQTJIMmtxVHV2b0cwUTlHUVFwQVdiTHJNZkpXNDI1SnlSR1ZMR3JkMWliZG9kd3BCQkFjZWFlRUpPLW9ZdG83MktWTml3RjhZUDhSamtBMWNJcWRITVpHUHBZenV5aE9seTR6Sl9UZldGZFE?oc=5\" target=\"_blank\">Add the AirPods 5, Beats 360 to Rumored Apple Headph",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUpMVkhoRWxkbVZ5X2NsYVJlQS00V2RuOUVOeUlIQTJIMmtxVHV2b0cwUTlHUVFwQVdiTHJNZkpXNDI1SnlSR1ZMR3JkMWliZG9kd3BCQkFjZWFlRUpPLW9ZdG83MktWTml3RjhZUDhSamtBMWNJcWRITVpHUHBZenV5aE9seTR6Sl9UZldGZFE?oc=5",
-          "published": "Tue, 25 Aug 2026 17:46:59 GMT",
-          "published_iso": "2026-08-25T17:46:59+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "5 Over-Ear Headphones Brands That Have Better Audio Quality Than Bose - bgr.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjNBU2JLVXJ6RnVQS2kzX3hNekdualIzT09lNlFqcGh3RDhScU5IeWRCUGs5LUxKNG9vemRaak11ZS1CR0dHTGhlUXcxLVZ0MTlwUERoMzhfVDBUbTlzbklkUl9mblVWam1HZTRSdmt5aUJhdDZRXzZDT1J2UGhab2RVMGVCaXNwZ3dIWTJDMGxHVmM3?oc=5\" target=\"_blank\">5 Over-Ear Headphones Brands That Have Better A",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjNBU2JLVXJ6RnVQS2kzX3hNekdualIzT09lNlFqcGh3RDhScU5IeWRCUGs5LUxKNG9vemRaak11ZS1CR0dHTGhlUXcxLVZ0MTlwUERoMzhfVDBUbTlzbklkUl9mblVWam1HZTRSdmt5aUJhdDZRXzZDT1J2UGhab2RVMGVCaXNwZ3dIWTJDMGxHVmM3?oc=5",
+          "published": "Wed, 26 Aug 2026 03:17:00 GMT",
+          "published_iso": "2026-08-26T03:17:00+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 102.4,
+          "hours_since_published": 93.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
-              "Beats"
+              "Bose"
             ],
             "channels": [],
             "categories": [
               "headphone"
             ]
           },
-          "_score": 227,
-          "display_title": "Add the AirPods 5, Beats 360 to Rumored...",
+          "_score": 257,
+          "display_title": "5 Over-Ear Headphones Brands That Have...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🎧 耳机音频"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
@@ -1700,7 +1701,7 @@
           "published_iso": "2026-08-25T20:27:52+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 99.7,
+          "hours_since_published": 100.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1736,7 +1737,7 @@
           "published_iso": "2026-08-26T08:53:51+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 87.3,
+          "hours_since_published": 88.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1764,38 +1765,37 @@
       ]
     },
     {
-      "name": "Beats",
+      "name": "Bose",
       "type": "品牌",
       "count": 1,
       "items": [
         {
-          "title": "Add the AirPods 5, Beats 360 to Rumored Apple Headphones Coming Soon - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUpMVkhoRWxkbVZ5X2NsYVJlQS00V2RuOUVOeUlIQTJIMmtxVHV2b0cwUTlHUVFwQVdiTHJNZkpXNDI1SnlSR1ZMR3JkMWliZG9kd3BCQkFjZWFlRUpPLW9ZdG83MktWTml3RjhZUDhSamtBMWNJcWRITVpHUHBZenV5aE9seTR6Sl9UZldGZFE?oc=5\" target=\"_blank\">Add the AirPods 5, Beats 360 to Rumored Apple Headph",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUpMVkhoRWxkbVZ5X2NsYVJlQS00V2RuOUVOeUlIQTJIMmtxVHV2b0cwUTlHUVFwQVdiTHJNZkpXNDI1SnlSR1ZMR3JkMWliZG9kd3BCQkFjZWFlRUpPLW9ZdG83MktWTml3RjhZUDhSamtBMWNJcWRITVpHUHBZenV5aE9seTR6Sl9UZldGZFE?oc=5",
-          "published": "Tue, 25 Aug 2026 17:46:59 GMT",
-          "published_iso": "2026-08-25T17:46:59+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "5 Over-Ear Headphones Brands That Have Better Audio Quality Than Bose - bgr.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjNBU2JLVXJ6RnVQS2kzX3hNekdualIzT09lNlFqcGh3RDhScU5IeWRCUGs5LUxKNG9vemRaak11ZS1CR0dHTGhlUXcxLVZ0MTlwUERoMzhfVDBUbTlzbklkUl9mblVWam1HZTRSdmt5aUJhdDZRXzZDT1J2UGhab2RVMGVCaXNwZ3dIWTJDMGxHVmM3?oc=5\" target=\"_blank\">5 Over-Ear Headphones Brands That Have Better A",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjNBU2JLVXJ6RnVQS2kzX3hNekdualIzT09lNlFqcGh3RDhScU5IeWRCUGs5LUxKNG9vemRaak11ZS1CR0dHTGhlUXcxLVZ0MTlwUERoMzhfVDBUbTlzbklkUl9mblVWam1HZTRSdmt5aUJhdDZRXzZDT1J2UGhab2RVMGVCaXNwZ3dIWTJDMGxHVmM3?oc=5",
+          "published": "Wed, 26 Aug 2026 03:17:00 GMT",
+          "published_iso": "2026-08-26T03:17:00+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 102.4,
+          "hours_since_published": 93.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
-              "Beats"
+              "Bose"
             ],
             "channels": [],
             "categories": [
               "headphone"
             ]
           },
-          "_score": 227,
-          "display_title": "Add the AirPods 5, Beats 360 to Rumored...",
+          "_score": 257,
+          "display_title": "5 Over-Ear Headphones Brands That Have...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🎧 耳机音频"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]

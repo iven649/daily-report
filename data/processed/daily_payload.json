@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04 07:58:19 CST",
+  "generated_at": "2026-09-04 08:58:34 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -705,282 +705,124 @@
     }
   ],
   "lead_story": {
-    "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - Fox Business",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYm",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYmhvSkN2bFprX2VLOFZDc1cyRS1KMWxXd3Y0b1hlb1Y3T3JjZ2x5cFRtMGtialV3bUhrRjVMZFdsSnhoNmRpMjlZUGlWSnVxalByUzIxNUZKYmk3M1E1ZmUxRFhUWFRaZVhiUl9wQVNFdUQ4N0txX1VxMzZrNlduSlp1S01QdWdYcUtRUFNGbVd5WC1NX1lpbmRYVzAya3U4NDkybGlWQ3NReERPbFR1QWFkTjFV?oc=5",
-    "published": "Wed, 02 Sep 2026 05:48:00 GMT",
-    "published_iso": "2026-09-02T05:48:00+00:00",
-    "source": "Google News - Retail Platforms",
+    "title": "Big-Box Briefing: Sam’s Club targets high-retention members with new tire benefit",
+    "summary": "The latest addition to Sam's Club's most premium membership aims to attract some of its stickiest members.",
+    "url": "https://www.modernretail.co/operations/big-box-briefing-sams-club-targets-high-retention-members-with-new-tire-benefit/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+    "published": "Thu, 03 Sep 2026 14:00:00 +0000",
+    "published_iso": "2026-09-03T14:00:00+00:00",
+    "source": "Modern Retail",
     "bucket": "channel_news",
-    "hours_since_published": 42.2,
-    "freshness_label": "近3天",
+    "hours_since_published": 11.0,
+    "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
       "channels": [
-        "Amazon",
-        "Walmart",
-        "Costco"
+        "Target",
+        "Sam's Club"
       ],
       "categories": []
     },
-    "_score": 367,
-    "display_title": "DOJ expands beef price investigation to...",
+    "_score": 264,
+    "display_title": "Big-Box Briefing: Sam’s Club targets...",
     "tags": [
       "🛒 渠道零售",
-      "🏬 平台电商",
-      "💰 价格促销"
+      "🏬 平台电商"
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+    "business_note": "北美渠道侧出现与Target / Sam's Club相关信号，优先评估对电商的影响。",
     "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
   },
   "lead_summary": "北美平台与零售动态仍是今天最值得跟进的外部信号。",
   "headline_trio": [
     {
-      "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - Fox Business",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYm",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYmhvSkN2bFprX2VLOFZDc1cyRS1KMWxXd3Y0b1hlb1Y3T3JjZ2x5cFRtMGtialV3bUhrRjVMZFdsSnhoNmRpMjlZUGlWSnVxalByUzIxNUZKYmk3M1E1ZmUxRFhUWFRaZVhiUl9wQVNFdUQ4N0txX1VxMzZrNlduSlp1S01QdWdYcUtRUFNGbVd5WC1NX1lpbmRYVzAya3U4NDkybGlWQ3NReERPbFR1QWFkTjFV?oc=5",
-      "published": "Wed, 02 Sep 2026 05:48:00 GMT",
-      "published_iso": "2026-09-02T05:48:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 42.2,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 367,
-      "display_title": "DOJ expands beef price investigation to...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - New York Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc=5",
-      "published": "Wed, 02 Sep 2026 09:48:00 GMT",
-      "published_iso": "2026-09-02T09:48:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 38.2,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 359,
-      "display_title": "DOJ expands beef price investigation to...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "DOJ Widens Meat-Pricing Probe To Walmart, Kroger, Costco And Other Major Retailers - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNdjJvZlZ5a296WVR1QkxoM3FpdTBoM1p6aTBYZUV0WjNuY1lkS3NuVU14b3AzNi1lZ2ZfSW9ndXVhQkhsVG94Mm9NSWQ0aEJFQ1VzZ0Y2NTlNZzZ0Y0dvWm5XX3ZCWEV4U1hrWDhmTXdXay1YSjFUdGJlbnFGb3czUjVYbVE0U1hNRS00S0hUS29EZldwUTFGd2hVamJPT3llTGJJZW5hRlJFOGE1SlhoWTlFUGhJUTB1Q2p0Z2Y1SDhFY19NX3BhQW",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdjJvZlZ5a296WVR1QkxoM3FpdTBoM1p6aTBYZUV0WjNuY1lkS3NuVU14b3AzNi1lZ2ZfSW9ndXVhQkhsVG94Mm9NSWQ0aEJFQ1VzZ0Y2NTlNZzZ0Y0dvWm5XX3ZCWEV4U1hrWDhmTXdXay1YSjFUdGJlbnFGb3czUjVYbVE0U1hNRS00S0hUS29EZldwUTFGd2hVamJPT3llTGJJZW5hRlJFOGE1SlhoWTlFUGhJUTB1Q2p0Z2Y1SDhFY19NX3BhQWoyVndMUQ?oc=5",
-      "published": "Thu, 03 Sep 2026 12:58:30 GMT",
-      "published_iso": "2026-09-03T12:58:30+00:00",
-      "source": "Google News - Retail Platforms",
+      "title": "Big-Box Briefing: Sam’s Club targets high-retention members with new tire benefit",
+      "summary": "The latest addition to Sam's Club's most premium membership aims to attract some of its stickiest members.",
+      "url": "https://www.modernretail.co/operations/big-box-briefing-sams-club-targets-high-retention-members-with-new-tire-benefit/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Thu, 03 Sep 2026 14:00:00 +0000",
+      "published_iso": "2026-09-03T14:00:00+00:00",
+      "source": "Modern Retail",
       "bucket": "channel_news",
       "hours_since_published": 11.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Walmart",
-          "Costco"
+          "Target",
+          "Sam's Club"
         ],
         "categories": []
       },
-      "_score": 350,
-      "display_title": "DOJ Widens Meat-Pricing Probe To...",
+      "_score": 264,
+      "display_title": "Big-Box Briefing: Sam’s Club targets...",
       "tags": [
         "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
+        "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart / Costco相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Target / Sam's Club相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "How AI is powering Target’s back-to-school push",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/FrS8G4NE-taUckYD4tlEF0-NT9lwTW1HxHsDhPHT_UA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfQmFja3RvU2Nob29sQ29sbGVnZV8yMDI2XzAxLnBuZw==.webp\" /></div></figure><p>The mass retailer is utilizing AI for wish lists and recommended actions on i",
+      "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
+      "published": "Thu, 03 Sep 2026 12:46:00 -0400",
+      "published_iso": "2026-09-03T16:46:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 8.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 238,
+      "display_title": "How AI is powering Target’s...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Walmart shoppers can now get Dunkin’ delivered alongside orders",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QcUwinxbDYTPVNWvIiX4Kucysxpzk07lvcgB9UH0Tts/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93YWxtYXJ0X2R1bmtpbi5qcGc=.webp\" /></div></figure><p>The service follows a similar announcement with Subway as the retailer aims to become a contender in the ",
+      "url": "https://www.retaildive.com/news/walmart-shoppers-dunkin-delivery-coffee/829560/",
+      "published": "Thu, 03 Sep 2026 11:58:00 -0400",
+      "published_iso": "2026-09-03T15:58:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 9.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 230,
+      "display_title": "Walmart shoppers can now get Dunkin’...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "🚀 新品发布"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "consumer_electronics": [
-    {
-      "title": "The 6 Best Bone Conduction And Open-Ear Headphones of 2026 - RTINGS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5\" target=\"_blank\">The 6 Best Bone Conduction And Open-Ear Headphones of 2026</a>&nbsp;&nbsp;<font c",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "published_iso": "2026-09-02T07:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 41.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "open-ear",
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 274,
-      "display_title": "The 6 Best Bone Conduction And Open-Ear...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "open-ear / bone conduction相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Bose QuietComfort Headphones (2nd Gen) Review - RTINGS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSk5aeExUVVlsUjBYMnJiRGRRU2JqRGRnU0NKWmx4TG1kUEhnNUhhMWxBaWFyVUJrX0hTSy0yZmtoOHl6TVptQkEySTBPbkJDbjhwM05tQUtnOU1OZXlqTm00S2dsVVVIejN6RzRma1RieENJc195eW1iam5mb0dOMlE0OFY?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review</a>&nbsp;&nbsp;<font c",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSk5aeExUVVlsUjBYMnJiRGRRU2JqRGRnU0NKWmx4TG1kUEhnNUhhMWxBaWFyVUJrX0hTSy0yZmtoOHl6TVptQkEySTBPbkJDbjhwM05tQUtnOU1OZXlqTm00S2dsVVVIejN6RzRma1RieENJc195eW1iam5mb0dOMlE0OFY?oc=5",
-      "published": "Tue, 01 Sep 2026 16:30:22 GMT",
-      "published_iso": "2026-09-01T16:30:22+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 55.5,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 252,
-      "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "You Can Replace the Battery on the New Sennheiser Momentum 5 Headphones - WIRED",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE01VEpyNm01VG10c0hMQk5CaVRaTG1nWGU3SDdIOXJXMF81aDRSTHNNd1V6Mm9ZN3hyNzZ6cnRTVTJCR3NVTllvNi01QVRLaWlCZ2IyOWRSUHZnZ2tuaDZnaw?oc=5\" target=\"_blank\">You Can Replace the Battery on the New Sennheiser Momentum 5 Headphones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</f",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01VEpyNm01VG10c0hMQk5CaVRaTG1nWGU3SDdIOXJXMF81aDRSTHNNd1V6Mm9ZN3hyNzZ6cnRTVTJCR3NVTllvNi01QVRLaWlCZ2IyOWRSUHZnZ2tuaDZnaw?oc=5",
-      "published": "Tue, 01 Sep 2026 11:00:00 GMT",
-      "published_iso": "2026-09-01T11:00:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 61.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [
-          "Sennheiser"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 252,
-      "display_title": "You Can Replace the Battery on the New...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5\" target=\"_blank\">I Ditched My Bone-Conduction Headphones for These Noise-Cancellin",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5",
-      "published": "Wed, 02 Sep 2026 19:00:36 GMT",
-      "published_iso": "2026-09-02T19:00:36+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 29.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "earbuds",
-          "headphone"
-        ]
-      },
-      "_score": 244,
-      "display_title": "I Ditched My Bone-Conduction Headphones...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "DJI Osmo 360 II review: DJI improves its excellent 360 camera without reinventing it - t3.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9PMVpVcjNoTDA5MW1LMnA1WU1hZS1kbldwT1hIblNPLTUxbWpTYWFkUURCLXlEdEJYV3RVZVB5YjczTW9xcTF0WGo5WnNKbkRIOVhhaF9EZ0pLSjNkRWYtZUNkS1pONElBZlNPOUQ2dmpiYkJ5dGc?oc=5\" target=\"_blank\">DJI Osmo 360 II review: DJI improves its excellent 360 camera without reinventing it</a>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PMVpVcjNoTDA5MW1LMnA1WU1hZS1kbldwT1hIblNPLTUxbWpTYWFkUURCLXlEdEJYV3RVZVB5YjczTW9xcTF0WGo5WnNKbkRIOVhhaF9EZ0pLSjNkRWYtZUNkS1pONElBZlNPOUQ2dmpiYkJ5dGc?oc=5",
-      "published": "Thu, 03 Sep 2026 11:00:00 GMT",
-      "published_iso": "2026-09-03T11:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 13.0,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "DJI"
-        ],
-        "channels": [
-          "REI"
-        ],
-        "categories": []
-      },
-      "_score": 221,
-      "display_title": "DJI Osmo 360 II review: DJI improves...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🚁 无人机影像"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与REI相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
     {
       "title": "Beyerdynamic's new Aventho Y headphones last up to 90 hours per charge",
       "summary": "This is especially noteworthy, as the cans cost just $150.",
@@ -989,7 +831,7 @@
       "published_iso": "2026-09-03T18:49:59+00:00",
       "source": "Engadget",
       "bucket": "consumer_electronics",
-      "hours_since_published": 5.1,
+      "hours_since_published": 6.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1007,188 +849,301 @@
       "importance": "高",
       "business_note": "headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+      "summary": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally retails between $1,300 and $1,600. This bundle [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+      "published": "2026-09-03T14:14:07-04:00",
+      "published_iso": "2026-09-03T18:14:07+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 6.7,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 207,
+      "display_title": "Samsung&#8217;s beloved Q Series sound...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Audacity's new look is finally here, along with its largest feature update in years",
+      "summary": "The popular free audio editor gets a colorful dark mode and granular editing tools.",
+      "url": "https://www.engadget.com/2250830/audacity-4-new-look-is-finally-here-along-with-its-largest-feature-update-in-years/",
+      "published": "Thu, 03 Sep 2026 23:50:08 +0000",
+      "published_iso": "2026-09-03T23:50:08+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 1.1,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 165,
+      "display_title": "Audacity's new look is finally here...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "Utah won't enforce VPN age-verification law until legal challenge resolves",
+      "summary": "The state was the first to target VPN usage in the wake of age verification laws, but an ongoing court case has put things on ice.",
+      "url": "https://www.engadget.com/2250679/utah-wont-enforce-vpn-age-verification-law-legal-challenge-resolves/",
+      "published": "Thu, 03 Sep 2026 19:45:15 +0000",
+      "published_iso": "2026-09-03T19:45:15+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 5.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 165,
+      "display_title": "Utah won't enforce VPN age-verification...",
+      "tags": [
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "The unusually muted Tesla Cybercab launch",
+      "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an [&#8",
+      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "published": "2026-09-03T20:25:06-04:00",
+      "published_iso": "2026-09-04T00:25:06+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 0.6,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 163,
+      "display_title": "The unusually muted Tesla Cybercab launch",
+      "tags": [
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "published": "2026-09-03T14:00:00-04:00",
+      "published_iso": "2026-09-03T18:00:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 7.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 163,
+      "display_title": "OpenAI’s next big AI model has ‘entered...",
+      "tags": [
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
     {
-      "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - Fox Business",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYm",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYmhvSkN2bFprX2VLOFZDc1cyRS1KMWxXd3Y0b1hlb1Y3T3JjZ2x5cFRtMGtialV3bUhrRjVMZFdsSnhoNmRpMjlZUGlWSnVxalByUzIxNUZKYmk3M1E1ZmUxRFhUWFRaZVhiUl9wQVNFdUQ4N0txX1VxMzZrNlduSlp1S01QdWdYcUtRUFNGbVd5WC1NX1lpbmRYVzAya3U4NDkybGlWQ3NReERPbFR1QWFkTjFV?oc=5",
-      "published": "Wed, 02 Sep 2026 05:48:00 GMT",
-      "published_iso": "2026-09-02T05:48:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 42.2,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 367,
-      "display_title": "DOJ expands beef price investigation to...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - New York Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc=5",
-      "published": "Wed, 02 Sep 2026 09:48:00 GMT",
-      "published_iso": "2026-09-02T09:48:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 38.2,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 359,
-      "display_title": "DOJ expands beef price investigation to...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "DOJ Widens Meat-Pricing Probe To Walmart, Kroger, Costco And Other Major Retailers - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNdjJvZlZ5a296WVR1QkxoM3FpdTBoM1p6aTBYZUV0WjNuY1lkS3NuVU14b3AzNi1lZ2ZfSW9ndXVhQkhsVG94Mm9NSWQ0aEJFQ1VzZ0Y2NTlNZzZ0Y0dvWm5XX3ZCWEV4U1hrWDhmTXdXay1YSjFUdGJlbnFGb3czUjVYbVE0U1hNRS00S0hUS29EZldwUTFGd2hVamJPT3llTGJJZW5hRlJFOGE1SlhoWTlFUGhJUTB1Q2p0Z2Y1SDhFY19NX3BhQW",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdjJvZlZ5a296WVR1QkxoM3FpdTBoM1p6aTBYZUV0WjNuY1lkS3NuVU14b3AzNi1lZ2ZfSW9ndXVhQkhsVG94Mm9NSWQ0aEJFQ1VzZ0Y2NTlNZzZ0Y0dvWm5XX3ZCWEV4U1hrWDhmTXdXay1YSjFUdGJlbnFGb3czUjVYbVE0U1hNRS00S0hUS29EZldwUTFGd2hVamJPT3llTGJJZW5hRlJFOGE1SlhoWTlFUGhJUTB1Q2p0Z2Y1SDhFY19NX3BhQWoyVndMUQ?oc=5",
-      "published": "Thu, 03 Sep 2026 12:58:30 GMT",
-      "published_iso": "2026-09-03T12:58:30+00:00",
-      "source": "Google News - Retail Platforms",
+      "title": "Big-Box Briefing: Sam’s Club targets high-retention members with new tire benefit",
+      "summary": "The latest addition to Sam's Club's most premium membership aims to attract some of its stickiest members.",
+      "url": "https://www.modernretail.co/operations/big-box-briefing-sams-club-targets-high-retention-members-with-new-tire-benefit/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Thu, 03 Sep 2026 14:00:00 +0000",
+      "published_iso": "2026-09-03T14:00:00+00:00",
+      "source": "Modern Retail",
       "bucket": "channel_news",
       "hours_since_published": 11.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Walmart",
-          "Costco"
+          "Target",
+          "Sam's Club"
         ],
         "categories": []
       },
-      "_score": 350,
-      "display_title": "DOJ Widens Meat-Pricing Probe To...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart / Costco相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Amazon and Walmart Turn Fraud Prevention Into a Retail Product - PYMNTS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQejY3OWtoN2NFN3RVRWZUWjlwZm9GRk1UREM1dDM5R1hIblc5cl9MN2JoX2pwNkNleEJoQlZvT1dpd04tWUFjdUZIR3l0akIwMUh3TjNpWm9lVVRhOWZ0Q1lSUERQM0JaaVhYd1VqZHNtckFWMVp6LS1CeThTSW52ZTVBa3RVVVRaVnJ5VDBxTTg5djYzSmg0R2dEQWNVZHV5TUJsZTNB?oc=5\" target=\"_blank\">Amazon and Walmart Turn",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQejY3OWtoN2NFN3RVRWZUWjlwZm9GRk1UREM1dDM5R1hIblc5cl9MN2JoX2pwNkNleEJoQlZvT1dpd04tWUFjdUZIR3l0akIwMUh3TjNpWm9lVVRhOWZ0Q1lSUERQM0JaaVhYd1VqZHNtckFWMVp6LS1CeThTSW52ZTVBa3RVVVRaVnJ5VDBxTTg5djYzSmg0R2dEQWNVZHV5TUJsZTNB?oc=5",
-      "published": "Thu, 03 Sep 2026 17:43:38 GMT",
-      "published_iso": "2026-09-03T17:43:38+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 6.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 342,
-      "display_title": "Amazon and Walmart Turn Fraud...",
+      "_score": 264,
+      "display_title": "Big-Box Briefing: Sam’s Club targets...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Target / Sam's Club相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Major retailers including Walmart, Publix, Kroger, Amazon and more are being investigated over meat prices - WVLT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1d1RXJGQXJVazY4ZHdEeVc1UHZ1U0ttUnFnN3RyQmhWcllXMWlNb09tckNRaXlfU21LY3N3MDh1emIwNVNfQ0RxbDExTjdnSER2bm56VW8yS0hZMlhCcGtyYjF3TERZYTZmZTNxVlJfTnZPdWY2NXJtMXJmX01nTVpoZXRIbWU2U2NlNVVjRnAzaEFNSGtudVF4cTk0YWNTM0hKbVJyWjdxcmFlT1UzZzlhbzkzSHQ5TzdSbC1pdEFyemZRRzZ2Y2",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1d1RXJGQXJVazY4ZHdEeVc1UHZ1U0ttUnFnN3RyQmhWcllXMWlNb09tckNRaXlfU21LY3N3MDh1emIwNVNfQ0RxbDExTjdnSER2bm56VW8yS0hZMlhCcGtyYjF3TERZYTZmZTNxVlJfTnZPdWY2NXJtMXJmX01nTVpoZXRIbWU2U2NlNVVjRnAzaEFNSGtudVF4cTk0YWNTM0hKbVJyWjdxcmFlT1UzZzlhbzkzSHQ5TzdSbC1pdEFyemZRRzZ2Y2hzUQ?oc=5",
-      "published": "Thu, 03 Sep 2026 21:14:00 GMT",
-      "published_iso": "2026-09-03T21:14:00+00:00",
-      "source": "Google News - Retail Platforms",
+      "title": "How AI is powering Target’s back-to-school push",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/FrS8G4NE-taUckYD4tlEF0-NT9lwTW1HxHsDhPHT_UA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfQmFja3RvU2Nob29sQ29sbGVnZV8yMDI2XzAxLnBuZw==.webp\" /></div></figure><p>The mass retailer is utilizing AI for wish lists and recommended actions on i",
+      "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
+      "published": "Thu, 03 Sep 2026 12:46:00 -0400",
+      "published_iso": "2026-09-03T16:46:00+00:00",
+      "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 2.7,
+      "hours_since_published": 8.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Amazon",
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 238,
+      "display_title": "How AI is powering Target’s...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Walmart shoppers can now get Dunkin’ delivered alongside orders",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QcUwinxbDYTPVNWvIiX4Kucysxpzk07lvcgB9UH0Tts/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93YWxtYXJ0X2R1bmtpbi5qcGc=.webp\" /></div></figure><p>The service follows a similar announcement with Subway as the retailer aims to become a contender in the ",
+      "url": "https://www.retaildive.com/news/walmart-shoppers-dunkin-delivery-coffee/829560/",
+      "published": "Thu, 03 Sep 2026 11:58:00 -0400",
+      "published_iso": "2026-09-03T15:58:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 9.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
           "Walmart"
         ],
         "categories": []
       },
-      "_score": 312,
-      "display_title": "Major retailers including Walmart...",
+      "_score": 230,
+      "display_title": "Walmart shoppers can now get Dunkin’...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商",
-        "💰 价格促销"
+        "🚀 新品发布"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Amazon, Walmart Face Data Requests in DOJ Beef Antitrust Probe - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmNSWjlXcXAzelVOTkZSQkhXZEpCeHMzQ0ZRbnd4MkZwbkFfTTFpd3ZuS0RoNnVicHNkSTNmblg1Y0hNSnZFVnU1cVNweXZUbFJzZ19qN2N3WU5Zcl9DWS1fUDhNRkVtUWhqSC1WLVJqZzA1VmxIUXZRclYwOEhISWlWdGVyU2RqdkdGemF4NmdSSWpoSTQxbTFzWXpRWjAxeF9lenRtMFphUldKMTJQem9B?oc=5\" target=\"_blank\">Amazon,",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmNSWjlXcXAzelVOTkZSQkhXZEpCeHMzQ0ZRbnd4MkZwbkFfTTFpd3ZuS0RoNnVicHNkSTNmblg1Y0hNSnZFVnU1cVNweXZUbFJzZ19qN2N3WU5Zcl9DWS1fUDhNRkVtUWhqSC1WLVJqZzA1VmxIUXZRclYwOEhISWlWdGVyU2RqdkdGemF4NmdSSWpoSTQxbTFzWXpRWjAxeF9lenRtMFphUldKMTJQem9B?oc=5",
-      "published": "Wed, 02 Sep 2026 19:52:48 GMT",
-      "published_iso": "2026-09-02T19:52:48+00:00",
-      "source": "Google News - Retail Platforms",
+      "title": "Boscov’s revamps e-commerce fulfillment operations",
+      "summary": "<p>The company expects to reduce out-of-stocks and improve the omnichannel experience for customers through a unified inventory management system, CEO Jim Boscov said.</p>",
+      "url": "https://www.retaildive.com/news/boscovs-revamps-ecommerce-fulfillment-operations/829412/",
+      "published": "Wed, 02 Sep 2026 10:44:00 -0400",
+      "published_iso": "2026-09-02T14:44:00+00:00",
+      "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 28.1,
+      "hours_since_published": 34.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
+        "channels": [],
         "categories": []
       },
-      "_score": 297,
-      "display_title": "Amazon, Walmart Face Data Requests in...",
+      "_score": 188,
+      "display_title": "Boscov’s revamps e-commerce fulfillment...",
       "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
+        "🛒 渠道零售"
       ],
-      "impact_area": "电商",
+      "impact_area": "渠道销售",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
+    },
+    {
+      "title": "Brands Briefing: Fjällräven is going beyond Kånken backpacks as it builds stores in North America",
+      "summary": "Fjällräven is opening more stores in North America, including a new retail concept with its sister brands, as it looks to solidify its place in outerwear.",
+      "url": "https://www.modernretail.co/operations/brands-briefing-fjallraven-is-going-beyond-kanken-backpacks-as-it-builds-stores-in-north-america/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Tue, 01 Sep 2026 14:00:00 +0000",
+      "published_iso": "2026-09-01T14:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 59.0,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 184,
+      "display_title": "Brands Briefing: Fjällräven is going...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
+    },
+    {
+      "title": "Hangover-prevention supplements are the hottest new wellness trend",
+      "summary": "Hangover-prevention products can now be found in places like big-box stores and fine-dining restaurants as more businesses look to cater to young drinkers who also care about wellness.",
+      "url": "https://www.modernretail.co/operations/hangover-prevention-supplements-are-the-hottest-new-wellness-trend/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Thu, 03 Sep 2026 04:00:00 +0000",
+      "published_iso": "2026-09-03T04:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 21.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 161,
+      "display_title": "Hangover-prevention supplements are the...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
     }
   ],
   "products": [
@@ -1200,7 +1155,7 @@
       "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
       "source": "The Verge",
       "_score": 99,
-      "hours_since_published": 5.7,
+      "hours_since_published": 6.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1224,35 +1179,30 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "name": "The 6 Best Bone Conduction And Open-Ear Headphones of 2026 - RTINGS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5\" target=\"_blank\">The 6 Best Bone Condu",
-      "date": "Wed, 02 Sep 2026 07:00:00",
-      "published_iso": "2026-09-02T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 74,
-      "hours_since_published": 41.0,
-      "freshness_label": "近3天",
+      "name": "The unusually muted Tesla Cybercab launch",
+      "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on ",
+      "date": "2026-09-03T20:25:06-04:00",
+      "published_iso": "2026-09-04T00:25:06+00:00",
+      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 0.6,
+      "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
-        "categories": [
-          "open-ear",
-          "bone conduction",
-          "headphone"
-        ]
+        "categories": []
       },
-      "display_title": "The 6 Best Bone Conduction And Open-Ear...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+      "display_title": "The unusually muted Tesla Cybercab launch",
+      "display_summary": "At a private, closed-door event in Austin, Tex",
       "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
+        "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
-      "judgement_label": "行业趋势",
-      "product_intro": "<a。",
-      "importance": "中",
-      "business_note": "open-ear / bone conduction相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "judgement_label": "新品发布",
+      "product_intro": "At a private, closed-door event in。",
+      "importance": "低",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
@@ -1263,7 +1213,7 @@
       "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.3,
+      "hours_since_published": 1.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1290,7 +1240,7 @@
       "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.2,
+      "hours_since_published": 4.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1317,7 +1267,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 6.0,
+      "hours_since_published": 7.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1344,7 +1294,7 @@
       "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 7.0,
+      "hours_since_published": 8.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1366,98 +1316,94 @@
   ],
   "monitored_entities": [
     {
-      "name": "headphone",
-      "type": "品类",
-      "count": 8,
+      "name": "Target",
+      "type": "渠道",
+      "count": 4,
       "items": [
         {
-          "title": "The 6 Best Bone Conduction And Open-Ear Headphones of 2026 - RTINGS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5\" target=\"_blank\">The 6 Best Bone Conduction And Open-Ear Headphones of 2026</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5",
-          "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-          "published_iso": "2026-09-02T07:00:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 41.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 274,
-          "display_title": "The 6 Best Bone Conduction And Open-Ear...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "open-ear / bone conduction相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "The best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRjhHaXV6aXFPaUNPUzNFcUQwcjhfeHRVT25kbTVwcHltaHhWWWZ0aG1ib3FIY0NYekJmeXVFZnhhajRkdWNlQjFBa1dUTWROTExoSmdwYWJNd2dORHl2cFYxeVhUTXB2cXc?oc=5\" target=\"_blank\">The best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more</a>&nbsp;&nbs",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRjhHaXV6aXFPaUNPUzNFcUQwcjhfeHRVT25kbTVwcHltaHhWWWZ0aG1ib3FIY0NYekJmeXVFZnhhajRkdWNlQjFBa1dUTWROTExoSmdwYWJNd2dORHl2cFYxeVhUTXB2cXc?oc=5",
-          "published": "Thu, 03 Sep 2026 14:48:13 GMT",
-          "published_iso": "2026-09-03T14:48:13+00:00",
-          "source": "Google News - US Retail Audio",
+          "title": "Big-Box Briefing: Sam’s Club targets high-retention members with new tire benefit",
+          "summary": "The latest addition to Sam's Club's most premium membership aims to attract some of its stickiest members.",
+          "url": "https://www.modernretail.co/operations/big-box-briefing-sams-club-targets-high-retention-members-with-new-tire-benefit/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Thu, 03 Sep 2026 14:00:00 +0000",
+          "published_iso": "2026-09-03T14:00:00+00:00",
+          "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 9.2,
+          "hours_since_published": 11.0,
           "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
+            "brands": [],
             "channels": [
-              "Costco"
+              "Target",
+              "Sam's Club"
             ],
-            "categories": [
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 272,
-          "display_title": "The best Labor Day Costco deals: Shop...",
+          "_score": 264,
+          "display_title": "Big-Box Briefing: Sam’s Club targets...",
           "tags": [
-            "🎧 耳机音频",
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
-          "impact_area": "电商"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Target / Sam's Club相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "How AI is powering Target’s back-to-school push",
+          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/FrS8G4NE-taUckYD4tlEF0-NT9lwTW1HxHsDhPHT_UA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfQmFja3RvU2Nob29sQ29sbGVnZV8yMDI2XzAxLnBuZw==.webp\" /></div></figure><p>The mass retailer is utilizing AI for wish lists and recommended actions on i",
+          "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
+          "published": "Thu, 03 Sep 2026 12:46:00 -0400",
+          "published_iso": "2026-09-03T16:46:00+00:00",
+          "source": "Retail Dive",
+          "bucket": "channel_news",
+          "hours_since_published": 8.2,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 238,
+          "display_title": "How AI is powering Target’s...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     },
     {
       "name": "Amazon",
       "type": "渠道",
-      "count": 7,
+      "count": 2,
       "items": [
         {
-          "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - Fox Business",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYm",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYmhvSkN2bFprX2VLOFZDc1cyRS1KMWxXd3Y0b1hlb1Y3T3JjZ2x5cFRtMGtialV3bUhrRjVMZFdsSnhoNmRpMjlZUGlWSnVxalByUzIxNUZKYmk3M1E1ZmUxRFhUWFRaZVhiUl9wQVNFdUQ4N0txX1VxMzZrNlduSlp1S01QdWdYcUtRUFNGbVd5WC1NX1lpbmRYVzAya3U4NDkybGlWQ3NReERPbFR1QWFkTjFV?oc=5",
-          "published": "Wed, 02 Sep 2026 05:48:00 GMT",
-          "published_iso": "2026-09-02T05:48:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 42.2,
-          "freshness_label": "近3天",
+          "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+          "summary": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally retails between $1,300 and $1,600. This bundle [&#8230;]",
+          "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+          "published": "2026-09-03T14:14:07-04:00",
+          "published_iso": "2026-09-03T18:14:07+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 6.7,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Amazon",
-              "Walmart",
-              "Costco"
+              "Best Buy"
             ],
             "categories": []
           },
-          "_score": 367,
-          "display_title": "DOJ expands beef price investigation to...",
+          "_score": 207,
+          "display_title": "Samsung&#8217;s beloved Q Series sound...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商",
@@ -1465,107 +1411,38 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - New York Post",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc=5",
-          "published": "Wed, 02 Sep 2026 09:48:00 GMT",
-          "published_iso": "2026-09-02T09:48:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 38.2,
-          "freshness_label": "近3天",
+          "name": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+          "summary": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally",
+          "date": "2026-09-03T14:14:07-04:00",
+          "published_iso": "2026-09-03T18:14:07+00:00",
+          "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+          "source": "The Verge",
+          "_score": 99,
+          "hours_since_published": 6.7,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Amazon",
-              "Walmart",
-              "Costco"
+              "Best Buy"
             ],
             "categories": []
           },
-          "_score": 359,
-          "display_title": "DOJ expands beef price investigation to...",
+          "display_title": "Samsung&#8217;s beloved Q Series sound...",
+          "display_summary": "Researching, buying, then finally assembling a",
           "tags": [
-            "🛒 渠道零售",
             "🏬 平台电商",
             "💰 价格促销"
           ],
           "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "Walmart",
-      "type": "渠道",
-      "count": 6,
-      "items": [
-        {
-          "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - Fox Business",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYm",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYmhvSkN2bFprX2VLOFZDc1cyRS1KMWxXd3Y0b1hlb1Y3T3JjZ2x5cFRtMGtialV3bUhrRjVMZFdsSnhoNmRpMjlZUGlWSnVxalByUzIxNUZKYmk3M1E1ZmUxRFhUWFRaZVhiUl9wQVNFdUQ4N0txX1VxMzZrNlduSlp1S01QdWdYcUtRUFNGbVd5WC1NX1lpbmRYVzAya3U4NDkybGlWQ3NReERPbFR1QWFkTjFV?oc=5",
-          "published": "Wed, 02 Sep 2026 05:48:00 GMT",
-          "published_iso": "2026-09-02T05:48:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 42.2,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 367,
-          "display_title": "DOJ expands beef price investigation to...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - New York Post",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc=5",
-          "published": "Wed, 02 Sep 2026 09:48:00 GMT",
-          "published_iso": "2026-09-02T09:48:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 38.2,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 359,
-          "display_title": "DOJ expands beef price investigation to...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "judgement_label": "价格促销",
+          "product_intro": "Researching, buying, then finally。",
+          "importance": "中",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
@@ -1573,91 +1450,28 @@
     {
       "name": "Best Buy",
       "type": "渠道",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "Save Up to $100 on These 7 Very Good Headphones and Earbuds at Best Buy Right Now - VICE",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQMHRhSkdRSng1Y1J0WVdXSWFWZHZsOHc0eTNuY3VaZmtELWQzRGdPY2tmNmhnWUZveDFHVFRWNDlhZWFlQ0k5eXVTZGtWOWY1N2ZKbTVsTUppUWVtaFZDXzdtdDhIZFg1WExnTjlRRE9KZjMxbW9ZX2RaQUlJWmFGLUI1NA?oc=5\" target=\"_blank\">Save Up to $100 on These 7 Very Good Headphones and Earbuds at Best B",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMHRhSkdRSng1Y1J0WVdXSWFWZHZsOHc0eTNuY3VaZmtELWQzRGdPY2tmNmhnWUZveDFHVFRWNDlhZWFlQ0k5eXVTZGtWOWY1N2ZKbTVsTUppUWVtaFZDXzdtdDhIZFg1WExnTjlRRE9KZjMxbW9ZX2RaQUlJWmFGLUI1NA?oc=5",
-          "published": "Tue, 01 Sep 2026 19:18:54 GMT",
-          "published_iso": "2026-09-01T19:18:54+00:00",
-          "source": "Google News - US Retail Audio",
-          "bucket": "channel_news",
-          "hours_since_published": 52.7,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": [
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "_score": 253,
-          "display_title": "Save Up to $100 on These 7 Very Good...",
-          "tags": [
-            "🎧 耳机音频",
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        },
-        {
-          "title": "The Best Deals From Best Buy's Labor Day Sale 2026 - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBqODhIbzR4WnpVRWMycWl2VU9ESzR5aUpYTzVDb2VDY0lCNVZhbTRxaHVRWG5zakZQTF9OY1lCRmJIWDJmOUZlQ1ZrSXVZYm9iTzExM2RvMTFYU1JVZ19lYktfYlZXcTJOc1pTVmFCRDNmLVZpYjA3WkdGLWUxZw?oc=5\" target=\"_blank\">The Best Deals From Best Buy's Labor Day Sale 2026</a>&nbsp;&nbsp;<font color",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqODhIbzR4WnpVRWMycWl2VU9ESzR5aUpYTzVDb2VDY0lCNVZhbTRxaHVRWG5zakZQTF9OY1lCRmJIWDJmOUZlQ1ZrSXVZYm9iTzExM2RvMTFYU1JVZ19lYktfYlZXcTJOc1pTVmFCRDNmLVZpYjA3WkdGLWUxZw?oc=5",
-          "published": "Thu, 03 Sep 2026 21:00:00 GMT",
-          "published_iso": "2026-09-03T21:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 3.0,
+          "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+          "summary": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally retails between $1,300 and $1,600. This bundle [&#8230;]",
+          "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+          "published": "2026-09-03T14:14:07-04:00",
+          "published_iso": "2026-09-03T18:14:07+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 6.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
+              "Amazon",
               "Best Buy"
             ],
             "categories": []
           },
-          "_score": 242,
-          "display_title": "The Best Deals From Best Buy's Labor...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "Costco",
-      "type": "渠道",
-      "count": 4,
-      "items": [
-        {
-          "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - Fox Business",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYm",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkViMEswTVdydlZvQVdaVHl5U3pUbWkxbmF0a3gzMVlsT0xqVmZNTFZNVnlhc0kzd2xicUIyS1ZiME9VanVxYUZkMjJ1TVFVeTdxeEt4ZDBFUWhzYi1FYTZXRGo4QkhnU1ByaURZU01FdGJEWDZWcjNNSW5TMXBHREpFT254VnUtd3Q1VzBXdUF4a1hGUGdCd3ZZX25XcVVDbG5RUGFscjN4dGpwbk5aeEZ5cTQtZ9IBuwFBVV95cUxNZU9TcE5zYmhvSkN2bFprX2VLOFZDc1cyRS1KMWxXd3Y0b1hlb1Y3T3JjZ2x5cFRtMGtialV3bUhrRjVMZFdsSnhoNmRpMjlZUGlWSnVxalByUzIxNUZKYmk3M1E1ZmUxRFhUWFRaZVhiUl9wQVNFdUQ4N0txX1VxMzZrNlduSlp1S01QdWdYcUtRUFNGbVd5WC1NX1lpbmRYVzAya3U4NDkybGlWQ3NReERPbFR1QWFkTjFV?oc=5",
-          "published": "Wed, 02 Sep 2026 05:48:00 GMT",
-          "published_iso": "2026-09-02T05:48:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 42.2,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 367,
-          "display_title": "DOJ expands beef price investigation to...",
+          "_score": 207,
+          "display_title": "Samsung&#8217;s beloved Q Series sound...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商",
@@ -1665,241 +1479,144 @@
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "DOJ expands beef price investigation to Walmart, Costco, Amazon and other major retailers - New York Post",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmY3OGljYXJ5RHAxc183aFlCdGtaUDVvVVRENHZ6SjViZ2x0Q19KaERyWXI5cXZ5enlBUHlSLVJ6QUxTbHJCVDVobnZjd3hLWHVWM2tNMEtLX2lFX3A4RHFja3p2Uml1NlhnZWpqUGxpNWhUM190bldwbEFxak44T3lQRElJUVh2TUNhbFdmY2hCQXR6cTFxbnNPbUxFZlBJNXJQZ1EzT2R4a01RSkdtcktNdWk3VVU3djhES0pVcnVnUjluTEE?oc=5",
-          "published": "Wed, 02 Sep 2026 09:48:00 GMT",
-          "published_iso": "2026-09-02T09:48:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 38.2,
-          "freshness_label": "近3天",
+          "name": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+          "summary": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally",
+          "date": "2026-09-03T14:14:07-04:00",
+          "published_iso": "2026-09-03T18:14:07+00:00",
+          "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+          "source": "The Verge",
+          "_score": 99,
+          "hours_since_published": 6.7,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Amazon",
-              "Walmart",
-              "Costco"
+              "Best Buy"
             ],
             "categories": []
           },
-          "_score": 359,
-          "display_title": "DOJ expands beef price investigation to...",
+          "display_title": "Samsung&#8217;s beloved Q Series sound...",
+          "display_summary": "Researching, buying, then finally assembling a",
           "tags": [
-            "🛒 渠道零售",
             "🏬 平台电商",
             "💰 价格促销"
           ],
           "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 3,
-      "items": [
-        {
-          "title": "The 6 Best Bone Conduction And Open-Ear Headphones of 2026 - RTINGS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5\" target=\"_blank\">The 6 Best Bone Conduction And Open-Ear Headphones of 2026</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5",
-          "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-          "published_iso": "2026-09-02T07:00:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 41.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 274,
-          "display_title": "The 6 Best Bone Conduction And Open-Ear...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "open-ear / bone conduction相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5\" target=\"_blank\">I Ditched My Bone-Conduction Headphones for These Noise-Cancellin",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5",
-          "published": "Wed, 02 Sep 2026 19:00:36 GMT",
-          "published_iso": "2026-09-02T19:00:36+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 29.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "_score": 244,
-          "display_title": "I Ditched My Bone-Conduction Headphones...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
-    },
-    {
-      "name": "open-ear",
-      "type": "品类",
-      "count": 2,
-      "items": [
-        {
-          "title": "The 6 Best Bone Conduction And Open-Ear Headphones of 2026 - RTINGS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5\" target=\"_blank\">The 6 Best Bone Conduction And Open-Ear Headphones of 2026</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5",
-          "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-          "published_iso": "2026-09-02T07:00:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 41.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 274,
-          "display_title": "The 6 Best Bone Conduction And Open-Ear...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "open-ear / bone conduction相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "name": "The 6 Best Bone Conduction And Open-Ear Headphones of 2026 - RTINGS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5\" target=\"_blank\">The 6 Best Bone Condu",
-          "date": "Wed, 02 Sep 2026 07:00:00",
-          "published_iso": "2026-09-02T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5",
-          "source": "Google News - Audio Wearable Watch",
-          "_score": 74,
-          "hours_since_published": 41.0,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "display_title": "The 6 Best Bone Conduction And Open-Ear...",
-          "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "judgement_label": "行业趋势",
-          "product_intro": "<a。",
+          "judgement_label": "价格促销",
+          "product_intro": "Researching, buying, then finally。",
           "importance": "中",
-          "business_note": "open-ear / bone conduction相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     },
     {
-      "name": "Bose",
-      "type": "品牌",
-      "count": 2,
+      "name": "Sam's Club",
+      "type": "渠道",
+      "count": 1,
       "items": [
         {
-          "title": "The best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRjhHaXV6aXFPaUNPUzNFcUQwcjhfeHRVT25kbTVwcHltaHhWWWZ0aG1ib3FIY0NYekJmeXVFZnhhajRkdWNlQjFBa1dUTWROTExoSmdwYWJNd2dORHl2cFYxeVhUTXB2cXc?oc=5\" target=\"_blank\">The best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more</a>&nbsp;&nbs",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRjhHaXV6aXFPaUNPUzNFcUQwcjhfeHRVT25kbTVwcHltaHhWWWZ0aG1ib3FIY0NYekJmeXVFZnhhajRkdWNlQjFBa1dUTWROTExoSmdwYWJNd2dORHl2cFYxeVhUTXB2cXc?oc=5",
-          "published": "Thu, 03 Sep 2026 14:48:13 GMT",
-          "published_iso": "2026-09-03T14:48:13+00:00",
-          "source": "Google News - US Retail Audio",
+          "title": "Big-Box Briefing: Sam’s Club targets high-retention members with new tire benefit",
+          "summary": "The latest addition to Sam's Club's most premium membership aims to attract some of its stickiest members.",
+          "url": "https://www.modernretail.co/operations/big-box-briefing-sams-club-targets-high-retention-members-with-new-tire-benefit/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Thu, 03 Sep 2026 14:00:00 +0000",
+          "published_iso": "2026-09-03T14:00:00+00:00",
+          "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 9.2,
+          "hours_since_published": 11.0,
           "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
+            "brands": [],
             "channels": [
-              "Costco"
+              "Target",
+              "Sam's Club"
             ],
-            "categories": [
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 272,
-          "display_title": "The best Labor Day Costco deals: Shop...",
+          "_score": 264,
+          "display_title": "Big-Box Briefing: Sam’s Club targets...",
           "tags": [
-            "🎧 耳机音频",
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
-          "impact_area": "电商"
-        },
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Target / Sam's Club相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "渠道",
+      "count": 1,
+      "items": [
         {
-          "title": "Bose QuietComfort Headphones (2nd Gen) Review - RTINGS.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSk5aeExUVVlsUjBYMnJiRGRRU2JqRGRnU0NKWmx4TG1kUEhnNUhhMWxBaWFyVUJrX0hTSy0yZmtoOHl6TVptQkEySTBPbkJDbjhwM05tQUtnOU1OZXlqTm00S2dsVVVIejN6RzRma1RieENJc195eW1iam5mb0dOMlE0OFY?oc=5\" target=\"_blank\">Bose QuietComfort Headphones (2nd Gen) Review</a>&nbsp;&nbsp;<font c",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSk5aeExUVVlsUjBYMnJiRGRRU2JqRGRnU0NKWmx4TG1kUEhnNUhhMWxBaWFyVUJrX0hTSy0yZmtoOHl6TVptQkEySTBPbkJDbjhwM05tQUtnOU1OZXlqTm00S2dsVVVIejN6RzRma1RieENJc195eW1iam5mb0dOMlE0OFY?oc=5",
-          "published": "Tue, 01 Sep 2026 16:30:22 GMT",
-          "published_iso": "2026-09-01T16:30:22+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 55.5,
-          "freshness_label": "近3天",
+          "title": "Walmart shoppers can now get Dunkin’ delivered alongside orders",
+          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QcUwinxbDYTPVNWvIiX4Kucysxpzk07lvcgB9UH0Tts/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93YWxtYXJ0X2R1bmtpbi5qcGc=.webp\" /></div></figure><p>The service follows a similar announcement with Subway as the retailer aims to become a contender in the ",
+          "url": "https://www.retaildive.com/news/walmart-shoppers-dunkin-delivery-coffee/829560/",
+          "published": "Thu, 03 Sep 2026 11:58:00 -0400",
+          "published_iso": "2026-09-03T15:58:00+00:00",
+          "source": "Retail Dive",
+          "bucket": "channel_news",
+          "hours_since_published": 9.0,
+          "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [
-              "Bose"
+            "brands": [],
+            "channels": [
+              "Walmart"
             ],
+            "categories": []
+          },
+          "_score": 230,
+          "display_title": "Walmart shoppers can now get Dunkin’...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "🚀 新品发布"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "headphone",
+      "type": "品类",
+      "count": 1,
+      "items": [
+        {
+          "title": "Beyerdynamic's new Aventho Y headphones last up to 90 hours per charge",
+          "summary": "This is especially noteworthy, as the cans cost just $150.",
+          "url": "https://www.engadget.com/2250621/beyerdynamics-new-aventho-y-headphones-last-up-to-90-hours-per-charge/",
+          "published": "Thu, 03 Sep 2026 18:49:59 +0000",
+          "published_iso": "2026-09-03T18:49:59+00:00",
+          "source": "Engadget",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 6.1,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
             "channels": [],
             "categories": [
               "headphone"
             ]
           },
-          "_score": 252,
-          "display_title": "Bose QuietComfort Headphones (2nd Gen)...",
+          "_score": 211,
+          "display_title": "Beyerdynamic's new Aventho Y headphones...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🎧 耳机音频"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
@@ -1911,8 +1628,8 @@
     "新品与渠道信息更适合结合价格、铺货和传播动作一起看。"
   ],
   "opportunity_signals": [
-    "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-    "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。"
+    "北美渠道侧出现与Target / Sam's Club相关信号，优先评估对电商的影响。",
+    "北美渠道侧出现与Target相关信号，优先评估对电商的影响。"
   ],
   "risk_signals": [
     "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。",

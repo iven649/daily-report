@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08 08:12:34 CST",
+  "generated_at": "2026-09-08 09:10:21 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-09-04T14:30:10+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 81.7,
+    "hours_since_published": 82.7,
     "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
@@ -745,7 +745,7 @@
       "published_iso": "2026-09-04T14:30:10+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 81.7,
+      "hours_since_published": 82.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -776,7 +776,7 @@
       "published_iso": "2026-09-02T05:48:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 138.4,
+      "hours_since_published": 139.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -807,7 +807,7 @@
       "published_iso": "2026-09-07T16:00:00+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 8.2,
+      "hours_since_published": 9.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -840,7 +840,7 @@
       "published_iso": "2026-09-07T16:00:00+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 8.2,
+      "hours_since_published": 9.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -864,6 +864,35 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
+      "title": "Sony WH-CH530 Review: These $70 Wireless Headphones Have Me Rethinking Everything - Gizmodo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpSSnNLdlRzN2o0YUxxeVM3MmYwczZNWUdqUF9jcXBVN3Vla0JZX1FSR2RERGxBcERiN040dnpzVkYtUzBEQ2RzaHFBQXNERk9OQ25WNTBGeWtNTFBreWZFLTdqVjc3dUdtSno1M0NLeERiUUp2SE1EdlBYZlRYaTlhVQ?oc=5\" target=\"_blank\">Sony WH-CH530 Review: These $70 Wireless Headphones Have Me Rethinkin",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpSSnNLdlRzN2o0YUxxeVM3MmYwczZNWUdqUF9jcXBVN3Vla0JZX1FSR2RERGxBcERiN040dnpzVkYtUzBEQ2RzaHFBQXNERk9OQ25WNTBGeWtNTFBreWZFLTdqVjc3dUdtSno1M0NLeERiUUp2SE1EdlBYZlRYaTlhVQ?oc=5",
+      "published": "Mon, 07 Sep 2026 16:00:27 GMT",
+      "published_iso": "2026-09-07T16:00:27+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 9.2,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Sony"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 277,
+      "display_title": "Sony WH-CH530 Review: These $70...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Sony Electronics Introduces WH-1000XM4C (M4 2nd Gen) Wireless Noise-Cancelling Headphones and Updates Popular Mid- and Entry-Level Wireless Headphones with WH-CH730N and WH-CH530 - PR Newswire",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcUJ5SEdQMmZSeDgyVC1mV0RVb1RLYmhFektyMVZSWThsYUpBd0RGVzY1TWFscjdMMnFnVFRrTWJYUWpLanpwMk5ia0Q3cjd6M0paNFpLUDFDZGlWNUQxS243V3JSUko3ZzJuaWthMXJhYzlXRk5ERktyOGU2cjloRW00SkY3MlNYNjAyZVJWMWRoZ2N3blVYdVNaZnlfalNGeW5TZUxaVS1zZXBxaWphYXhWT2NVNVBiNTJTNThaN2NWeVg3b3c3ZW",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcUJ5SEdQMmZSeDgyVC1mV0RVb1RLYmhFektyMVZSWThsYUpBd0RGVzY1TWFscjdMMnFnVFRrTWJYUWpLanpwMk5ia0Q3cjd6M0paNFpLUDFDZGlWNUQxS243V3JSUko3ZzJuaWthMXJhYzlXRk5ERktyOGU2cjloRW00SkY3MlNYNjAyZVJWMWRoZ2N3blVYdVNaZnlfalNGeW5TZUxaVS1zZXBxaWphYXhWT2NVNVBiNTJTNThaN2NWeVg3b3c3ZWJCX015d3NhOE9yZGZONVY5OUZLSUhLS2NCb25GaTc1dTVwVnctRHg2ZUw1NGhyUUJ1MGhoNlMxWXJuSFRQX1A4ZUNiV3FwU091S1FybDNueTVaekRrMkJLNy1DVGpNalJzRzlZSjYtaXU1ajUtaTMyVDd3U1F2WVp0RGtHdndpZGw4N1U5bXFEZw?oc=5",
@@ -871,7 +900,7 @@
       "published_iso": "2026-09-07T16:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 8.2,
+      "hours_since_published": 9.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -900,7 +929,7 @@
       "published_iso": "2026-09-07T18:30:00+00:00",
       "source": "Engadget",
       "bucket": "consumer_electronics",
-      "hours_since_published": 5.7,
+      "hours_since_published": 6.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -929,7 +958,7 @@
       "published_iso": "2026-09-01T16:30:22+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 151.7,
+      "hours_since_published": 152.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -959,7 +988,7 @@
       "published_iso": "2026-09-01T11:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 157.2,
+      "hours_since_published": 158.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -979,36 +1008,6 @@
       "importance": "高",
       "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5\" target=\"_blank\">I Ditched My Bone-Conduction Headphones for These Noise-Cancellin",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5",
-      "published": "Wed, 02 Sep 2026 19:00:36 GMT",
-      "published_iso": "2026-09-02T19:00:36+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 125.2,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "earbuds",
-          "headphone"
-        ]
-      },
-      "_score": 229,
-      "display_title": "I Ditched My Bone-Conduction Headphones...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
@@ -1020,7 +1019,7 @@
       "published_iso": "2026-09-04T14:30:10+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 81.7,
+      "hours_since_published": 82.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1051,7 +1050,7 @@
       "published_iso": "2026-09-02T05:48:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 138.4,
+      "hours_since_published": 139.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1082,7 +1081,7 @@
       "published_iso": "2026-09-03T12:58:30+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 107.2,
+      "hours_since_published": 108.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1105,14 +1104,14 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Amazon, Walmart Face Data Requests in DOJ Beef Antitrust Probe - Bloomberg.com",
+      "title": "Amazon, Walmart Face Data Requests in DOJ Beef Antitrust Probe - bloomberg.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmNSWjlXcXAzelVOTkZSQkhXZEpCeHMzQ0ZRbnd4MkZwbkFfTTFpd3ZuS0RoNnVicHNkSTNmblg1Y0hNSnZFVnU1cVNweXZUbFJzZ19qN2N3WU5Zcl9DWS1fUDhNRkVtUWhqSC1WLVJqZzA1VmxIUXZRclYwOEhISWlWdGVyU2RqdkdGemF4NmdSSWpoSTQxbTFzWXpRWjAxeF9lenRtMFphUldKMTJQem9B?oc=5\" target=\"_blank\">Amazon,",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmNSWjlXcXAzelVOTkZSQkhXZEpCeHMzQ0ZRbnd4MkZwbkFfTTFpd3ZuS0RoNnVicHNkSTNmblg1Y0hNSnZFVnU1cVNweXZUbFJzZ19qN2N3WU5Zcl9DWS1fUDhNRkVtUWhqSC1WLVJqZzA1VmxIUXZRclYwOEhISWlWdGVyU2RqdkdGemF4NmdSSWpoSTQxbTFzWXpRWjAxeF9lenRtMFphUldKMTJQem9B?oc=5",
       "published": "Wed, 02 Sep 2026 19:52:48 GMT",
       "published_iso": "2026-09-02T19:52:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 124.3,
+      "hours_since_published": 125.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1141,7 +1140,7 @@
       "published_iso": "2026-09-07T19:30:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 4.7,
+      "hours_since_published": 5.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1169,7 +1168,7 @@
       "published_iso": "2026-09-07T18:55:18+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 5.3,
+      "hours_since_published": 6.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1204,7 +1203,7 @@
       "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
       "source": "The Verge",
       "_score": 109,
-      "hours_since_published": 8.2,
+      "hours_since_published": 9.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1237,7 +1236,7 @@
       "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
       "source": "The Verge",
       "_score": 60,
-      "hours_since_published": 27.3,
+      "hours_since_published": 28.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1266,7 +1265,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 56,
-      "hours_since_published": 62.2,
+      "hours_since_published": 63.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1297,7 +1296,7 @@
       "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
       "source": "The Verge",
       "_score": 45,
-      "hours_since_published": 14.0,
+      "hours_since_published": 15.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1324,7 +1323,7 @@
       "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 12.2,
+      "hours_since_published": 13.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1352,7 +1351,7 @@
       "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
       "source": "The Verge",
       "_score": 35,
-      "hours_since_published": 4.1,
+      "hours_since_published": 5.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1376,7 +1375,7 @@
     {
       "name": "headphone",
       "type": "品类",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "Six years later, Sony revisits its legendary XM4 headphones",
@@ -1386,7 +1385,7 @@
           "published_iso": "2026-09-07T16:00:00+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 8.2,
+          "hours_since_published": 9.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1410,14 +1409,14 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Sony Electronics Introduces WH-1000XM4C (M4 2nd Gen) Wireless Noise-Cancelling Headphones and Updates Popular Mid- and Entry-Level Wireless Headphones with WH-CH730N and WH-CH530 - PR Newswire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcUJ5SEdQMmZSeDgyVC1mV0RVb1RLYmhFektyMVZSWThsYUpBd0RGVzY1TWFscjdMMnFnVFRrTWJYUWpLanpwMk5ia0Q3cjd6M0paNFpLUDFDZGlWNUQxS243V3JSUko3ZzJuaWthMXJhYzlXRk5ERktyOGU2cjloRW00SkY3MlNYNjAyZVJWMWRoZ2N3blVYdVNaZnlfalNGeW5TZUxaVS1zZXBxaWphYXhWT2NVNVBiNTJTNThaN2NWeVg3b3c3ZW",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcUJ5SEdQMmZSeDgyVC1mV0RVb1RLYmhFektyMVZSWThsYUpBd0RGVzY1TWFscjdMMnFnVFRrTWJYUWpLanpwMk5ia0Q3cjd6M0paNFpLUDFDZGlWNUQxS243V3JSUko3ZzJuaWthMXJhYzlXRk5ERktyOGU2cjloRW00SkY3MlNYNjAyZVJWMWRoZ2N3blVYdVNaZnlfalNGeW5TZUxaVS1zZXBxaWphYXhWT2NVNVBiNTJTNThaN2NWeVg3b3c3ZWJCX015d3NhOE9yZGZONVY5OUZLSUhLS2NCb25GaTc1dTVwVnctRHg2ZUw1NGhyUUJ1MGhoNlMxWXJuSFRQX1A4ZUNiV3FwU091S1FybDNueTVaekRrMkJLNy1DVGpNalJzRzlZSjYtaXU1ajUtaTMyVDd3U1F2WVp0RGtHdndpZGw4N1U5bXFEZw?oc=5",
-          "published": "Mon, 07 Sep 2026 16:00:00 GMT",
-          "published_iso": "2026-09-07T16:00:00+00:00",
+          "title": "Sony WH-CH530 Review: These $70 Wireless Headphones Have Me Rethinking Everything - Gizmodo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpSSnNLdlRzN2o0YUxxeVM3MmYwczZNWUdqUF9jcXBVN3Vla0JZX1FSR2RERGxBcERiN040dnpzVkYtUzBEQ2RzaHFBQXNERk9OQ25WNTBGeWtNTFBreWZFLTdqVjc3dUdtSno1M0NLeERiUUp2SE1EdlBYZlRYaTlhVQ?oc=5\" target=\"_blank\">Sony WH-CH530 Review: These $70 Wireless Headphones Have Me Rethinkin",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpSSnNLdlRzN2o0YUxxeVM3MmYwczZNWUdqUF9jcXBVN3Vla0JZX1FSR2RERGxBcERiN040dnpzVkYtUzBEQ2RzaHFBQXNERk9OQ25WNTBGeWtNTFBreWZFLTdqVjc3dUdtSno1M0NLeERiUUp2SE1EdlBYZlRYaTlhVQ?oc=5",
+          "published": "Mon, 07 Sep 2026 16:00:27 GMT",
+          "published_iso": "2026-09-07T16:00:27+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 8.2,
+          "hours_since_published": 9.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1428,8 +1427,8 @@
               "headphone"
             ]
           },
-          "_score": 272,
-          "display_title": "Sony Electronics Introduces WH-1000XM4C...",
+          "_score": 277,
+          "display_title": "Sony WH-CH530 Review: These $70...",
           "tags": [
             "🎧 耳机音频"
           ],
@@ -1443,7 +1442,7 @@
     {
       "name": "Sony",
       "type": "品牌",
-      "count": 6,
+      "count": 7,
       "items": [
         {
           "title": "Six years later, Sony revisits its legendary XM4 headphones",
@@ -1453,7 +1452,7 @@
           "published_iso": "2026-09-07T16:00:00+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 8.2,
+          "hours_since_published": 9.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1477,14 +1476,14 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Sony Electronics Introduces WH-1000XM4C (M4 2nd Gen) Wireless Noise-Cancelling Headphones and Updates Popular Mid- and Entry-Level Wireless Headphones with WH-CH730N and WH-CH530 - PR Newswire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcUJ5SEdQMmZSeDgyVC1mV0RVb1RLYmhFektyMVZSWThsYUpBd0RGVzY1TWFscjdMMnFnVFRrTWJYUWpLanpwMk5ia0Q3cjd6M0paNFpLUDFDZGlWNUQxS243V3JSUko3ZzJuaWthMXJhYzlXRk5ERktyOGU2cjloRW00SkY3MlNYNjAyZVJWMWRoZ2N3blVYdVNaZnlfalNGeW5TZUxaVS1zZXBxaWphYXhWT2NVNVBiNTJTNThaN2NWeVg3b3c3ZW",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcUJ5SEdQMmZSeDgyVC1mV0RVb1RLYmhFektyMVZSWThsYUpBd0RGVzY1TWFscjdMMnFnVFRrTWJYUWpLanpwMk5ia0Q3cjd6M0paNFpLUDFDZGlWNUQxS243V3JSUko3ZzJuaWthMXJhYzlXRk5ERktyOGU2cjloRW00SkY3MlNYNjAyZVJWMWRoZ2N3blVYdVNaZnlfalNGeW5TZUxaVS1zZXBxaWphYXhWT2NVNVBiNTJTNThaN2NWeVg3b3c3ZWJCX015d3NhOE9yZGZONVY5OUZLSUhLS2NCb25GaTc1dTVwVnctRHg2ZUw1NGhyUUJ1MGhoNlMxWXJuSFRQX1A4ZUNiV3FwU091S1FybDNueTVaekRrMkJLNy1DVGpNalJzRzlZSjYtaXU1ajUtaTMyVDd3U1F2WVp0RGtHdndpZGw4N1U5bXFEZw?oc=5",
-          "published": "Mon, 07 Sep 2026 16:00:00 GMT",
-          "published_iso": "2026-09-07T16:00:00+00:00",
+          "title": "Sony WH-CH530 Review: These $70 Wireless Headphones Have Me Rethinking Everything - Gizmodo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpSSnNLdlRzN2o0YUxxeVM3MmYwczZNWUdqUF9jcXBVN3Vla0JZX1FSR2RERGxBcERiN040dnpzVkYtUzBEQ2RzaHFBQXNERk9OQ25WNTBGeWtNTFBreWZFLTdqVjc3dUdtSno1M0NLeERiUUp2SE1EdlBYZlRYaTlhVQ?oc=5\" target=\"_blank\">Sony WH-CH530 Review: These $70 Wireless Headphones Have Me Rethinkin",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpSSnNLdlRzN2o0YUxxeVM3MmYwczZNWUdqUF9jcXBVN3Vla0JZX1FSR2RERGxBcERiN040dnpzVkYtUzBEQ2RzaHFBQXNERk9OQ25WNTBGeWtNTFBreWZFLTdqVjc3dUdtSno1M0NLeERiUUp2SE1EdlBYZlRYaTlhVQ?oc=5",
+          "published": "Mon, 07 Sep 2026 16:00:27 GMT",
+          "published_iso": "2026-09-07T16:00:27+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 8.2,
+          "hours_since_published": 9.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1495,8 +1494,8 @@
               "headphone"
             ]
           },
-          "_score": 272,
-          "display_title": "Sony Electronics Introduces WH-1000XM4C...",
+          "_score": 277,
+          "display_title": "Sony WH-CH530 Review: These $70...",
           "tags": [
             "🎧 耳机音频"
           ],
@@ -1520,7 +1519,7 @@
           "published_iso": "2026-09-04T14:30:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 81.7,
+          "hours_since_published": 82.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1551,7 +1550,7 @@
           "published_iso": "2026-09-02T05:48:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 138.4,
+          "hours_since_published": 139.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1589,7 +1588,7 @@
           "published_iso": "2026-09-04T14:30:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 81.7,
+          "hours_since_published": 82.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1620,7 +1619,7 @@
           "published_iso": "2026-09-02T05:48:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 138.4,
+          "hours_since_published": 139.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1658,7 +1657,7 @@
           "published_iso": "2026-09-04T14:30:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 81.7,
+          "hours_since_published": 82.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1689,7 +1688,7 @@
           "published_iso": "2026-09-02T05:48:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 138.4,
+          "hours_since_published": 139.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1727,7 +1726,7 @@
           "published_iso": "2026-09-07T16:00:00+00:00",
           "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 8.2,
+          "hours_since_published": 9.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1758,7 +1757,7 @@
           "published_iso": "2026-09-03T14:48:13+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 105.4,
+          "hours_since_published": 106.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1783,9 +1782,69 @@
       ]
     },
     {
-      "name": "earbuds",
+      "name": "bone conduction",
       "type": "品类",
       "count": 3,
+      "items": [
+        {
+          "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds - Lifehacker",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5\" target=\"_blank\">I Ditched My Bone-Conduction Headphones for These Noise-Cancellin",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5",
+          "published": "Wed, 02 Sep 2026 19:00:36 GMT",
+          "published_iso": "2026-09-02T19:00:36+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 126.2,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "earbuds",
+              "headphone"
+            ]
+          },
+          "_score": 229,
+          "display_title": "I Ditched My Bone-Conduction Headphones...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销"
+        },
+        {
+          "title": "The best bone conduction headphones for 2026 - Digital Trends",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5\" target=\"_blank\">The best bone conduction headphones for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">D",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5",
+          "published": "Sat, 05 Sep 2026 10:03:16 GMT",
+          "published_iso": "2026-09-05T10:03:16+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 63.1,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 226,
+          "display_title": "The best bone conduction headphones for...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销"
+        }
+      ]
+    },
+    {
+      "name": "earbuds",
+      "type": "品类",
+      "count": 2,
       "items": [
         {
           "title": "What's the difference between Sony WF-1000XM6 and WF-1000XM5 earbuds?",
@@ -1795,7 +1854,7 @@
           "published_iso": "2026-09-07T18:30:00+00:00",
           "source": "Engadget",
           "bucket": "consumer_electronics",
-          "hours_since_published": 5.7,
+          "hours_since_published": 6.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1824,7 +1883,7 @@
           "published_iso": "2026-09-02T19:00:36+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 125.2,
+          "hours_since_published": 126.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1837,72 +1896,6 @@
           },
           "_score": 229,
           "display_title": "I Ditched My Bone-Conduction Headphones...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 3,
-      "items": [
-        {
-          "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5\" target=\"_blank\">I Ditched My Bone-Conduction Headphones for These Noise-Cancellin",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5",
-          "published": "Wed, 02 Sep 2026 19:00:36 GMT",
-          "published_iso": "2026-09-02T19:00:36+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 125.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "_score": 229,
-          "display_title": "I Ditched My Bone-Conduction Headphones...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "The best bone conduction headphones for 2026 - Digital Trends",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5\" target=\"_blank\">The best bone conduction headphones for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">D",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5",
-          "published": "Sat, 05 Sep 2026 10:03:16 GMT",
-          "published_iso": "2026-09-05T10:03:16+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 62.2,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 226,
-          "display_title": "The best bone conduction headphones for...",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"

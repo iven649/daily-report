@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09 08:04:34 CST",
+  "generated_at": "2026-09-09 09:14:31 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-09-04T14:30:10+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 105.6,
+    "hours_since_published": 106.7,
     "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
@@ -745,7 +745,7 @@
       "published_iso": "2026-09-04T14:30:10+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 105.6,
+      "hours_since_published": 106.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -776,7 +776,7 @@
       "published_iso": "2026-09-02T05:48:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 162.3,
+      "hours_since_published": 163.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -807,7 +807,7 @@
       "published_iso": "2026-09-02T09:48:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 158.3,
+      "hours_since_published": 159.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -840,7 +840,7 @@
       "published_iso": "2026-09-07T16:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 32.1,
+      "hours_since_published": 33.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -872,7 +872,7 @@
       "published_iso": "2026-09-07T16:00:27+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 32.1,
+      "hours_since_published": 33.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -901,7 +901,7 @@
       "published_iso": "2026-09-02T07:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 161.1,
+      "hours_since_published": 162.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -931,7 +931,7 @@
       "published_iso": "2026-09-07T16:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 32.1,
+      "hours_since_published": 33.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -953,14 +953,44 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Sony’s best noise-cancelling headphones are 50% off right now - pcworld.com",
+      "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds - Lifehacker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5\" target=\"_blank\">I Ditched My Bone-Conduction Headphones for These Noise-Cancellin",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5",
+      "published": "Wed, 02 Sep 2026 19:00:36 GMT",
+      "published_iso": "2026-09-02T19:00:36+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 150.2,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "earbuds",
+          "headphone"
+        ]
+      },
+      "_score": 229,
+      "display_title": "I Ditched My Bone-Conduction Headphones...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "Sony’s best noise-cancelling headphones are 50% off right now - PCWorld",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEt4WkNzeEdNajBYa2IxVlh0Y2F6RHphU2o4SHotWVdQaGg5bzJPbUQzUHRGZExKYWJjNzVXenRSdlZNdE9SYTdLZE12bTk4VVl0WlJWVHFrczJtUml6aHJ5LUhsNXB3RVJEWlZaM3NQa2EwMDdQOEk4MFFBZ1JnZDRHYUdSTElVVUU0NEYydmptWkVIelU5YTBwVmlORXRhVURXVm9kU055LTVjRUlsWU13?oc=5\" target=\"_blank\">Sony’s ",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEt4WkNzeEdNajBYa2IxVlh0Y2F6RHphU2o4SHotWVdQaGg5bzJPbUQzUHRGZExKYWJjNzVXenRSdlZNdE9SYTdLZE12bTk4VVl0WlJWVHFrczJtUml6aHJ5LUhsNXB3RVJEWlZaM3NQa2EwMDdQOEk4MFFBZ1JnZDRHYUdSTElVVUU0NEYydmptWkVIelU5YTBwVmlORXRhVURXVm9kU055LTVjRUlsWU13?oc=5",
       "published": "Fri, 04 Sep 2026 15:11:48 GMT",
       "published_iso": "2026-09-04T15:11:48+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 104.9,
+      "hours_since_published": 106.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -980,35 +1010,6 @@
       "importance": "高",
       "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "The best bone conduction headphones for 2026 - Digital Trends",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5\" target=\"_blank\">The best bone conduction headphones for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">D",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5",
-      "published": "Sat, 05 Sep 2026 10:03:16 GMT",
-      "published_iso": "2026-09-05T10:03:16+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 86.0,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 211,
-      "display_title": "The best bone conduction headphones for...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
@@ -1020,7 +1021,7 @@
       "published_iso": "2026-09-04T14:30:10+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 105.6,
+      "hours_since_published": 106.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1051,7 +1052,7 @@
       "published_iso": "2026-09-02T05:48:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 162.3,
+      "hours_since_published": 163.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1082,7 +1083,7 @@
       "published_iso": "2026-09-02T09:48:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 158.3,
+      "hours_since_published": 159.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1113,7 +1114,7 @@
       "published_iso": "2026-09-03T12:58:30+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 131.1,
+      "hours_since_published": 132.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1143,7 +1144,7 @@
       "published_iso": "2026-09-02T19:52:48+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 148.2,
+      "hours_since_published": 149.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1165,31 +1166,36 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Aldi Vs Trader Joe's Vs Costco: The Best Grocery Store Return Policy, Hands-Down - thetakeout.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhIMXl1Z3lvM0dXbXJNa3hQVWlTbHAycmRabVI5dC10RHg1Y2prZHhiSjdKZ3pqQTBHVXZNQ2lvaHVaN1VLdDZ4eFhBeHlGR0NkUV9Sc3Q4MEN3ZExUR3BkM3NQUFBIOWpIR21CSkpFdzlCWUItNmpmUEg3Nks4WkthREM?oc=5\" target=\"_blank\">Aldi Vs Trader Joe's Vs Costco: The Best Grocery Store Return Policy",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhIMXl1Z3lvM0dXbXJNa3hQVWlTbHAycmRabVI5dC10RHg1Y2prZHhiSjdKZ3pqQTBHVXZNQ2lvaHVaN1VLdDZ4eFhBeHlGR0NkUV9Sc3Q4MEN3ZExUR3BkM3NQUFBIOWpIR21CSkpFdzlCWUItNmpmUEg3Nks4WkthREM?oc=5",
-      "published": "Tue, 08 Sep 2026 21:00:00 GMT",
-      "published_iso": "2026-09-08T21:00:00+00:00",
-      "source": "Google News - Retail Platforms",
+      "title": "Best Buy's Labor Day 2026 sale: Shop deals on Sony headphones, gaming laptops, Chromebooks - mashable.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbWVTQ1ZEeGg1bGVNZV9PbktZbU1rdmUyM2xMS2dpM3MzdGkwTTRkbE5xQjlwV0dxWmxVaHhiblNNZW9DOXFjdzJxUHNENWdlN1Y5d3VLTnRXMEpPaDZ4QXAtQV9PLUZIMUdhc0tsN0N3cUZDQmRB?oc=5\" target=\"_blank\">Best Buy's Labor Day 2026 sale: Shop deals on Sony headphones, gaming laptops, Chromebo",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbWVTQ1ZEeGg1bGVNZV9PbktZbU1rdmUyM2xMS2dpM3MzdGkwTTRkbE5xQjlwV0dxWmxVaHhiblNNZW9DOXFjdzJxUHNENWdlN1Y5d3VLTnRXMEpPaDZ4QXAtQV9PLUZIMUdhc0tsN0N3cUZDQmRB?oc=5",
+      "published": "Mon, 07 Sep 2026 12:50:27 GMT",
+      "published_iso": "2026-09-07T12:50:27+00:00",
+      "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 3.1,
-      "freshness_label": "24h内",
+      "hours_since_published": 36.4,
+      "freshness_label": "近3天",
       "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Costco"
+        "brands": [
+          "Sony"
         ],
-        "categories": []
+        "channels": [
+          "Best Buy"
+        ],
+        "categories": [
+          "headphone"
+        ]
       },
-      "_score": 280,
-      "display_title": "Aldi Vs Trader Joe's Vs Costco: The...",
+      "_score": 257,
+      "display_title": "Best Buy's Labor Day 2026 sale: Shop...",
       "tags": [
+        "🎧 耳机音频",
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Costco相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
@@ -1202,7 +1208,7 @@
       "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
       "source": "The Verge",
       "_score": 69,
-      "hours_since_published": 2.2,
+      "hours_since_published": 3.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1231,7 +1237,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15NG5lUVF6WHNhdnpFMDlEMDdVenk4LVZMS1J0eUpscEI0QklISlZiaFhEOGI1VHhEMUhfMmhTelRtRFQ0czlkNl9QcDRsMmdFNUZSOEhCOC1BT29KV2FPMnJXZ01fYXhYZEdUb1dPWjV6YWU4OF9LdDhxUQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 59,
-      "hours_since_published": 161.1,
+      "hours_since_published": 162.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1256,21 +1262,21 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+      "name": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
       "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, re",
       "date": "2026-09-08T16:46:56-04:00",
       "published_iso": "2026-09-08T20:46:56+00:00",
       "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.3,
+      "hours_since_published": 4.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "Rivian’s Also apologizes for delays in...",
+      "display_title": "Rivian spinout Also apologizes for...",
       "display_summary": "Rivian's futuristic e-bike is delayed, and cus",
       "tags": [
         "🚀 新品发布"
@@ -1290,7 +1296,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.8,
+      "hours_since_published": 5.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1317,7 +1323,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.1,
+      "hours_since_published": 6.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1344,7 +1350,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 6.6,
+      "hours_since_published": 7.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1368,7 +1374,7 @@
     {
       "name": "headphone",
       "type": "品类",
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "title": "Social media loves Sony's WH-1000XM4 headphones. Now you can love the sequel for less. - Popular Science",
@@ -1378,7 +1384,7 @@
           "published_iso": "2026-09-07T16:00:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 32.1,
+          "hours_since_published": 33.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1410,7 +1416,7 @@
           "published_iso": "2026-09-07T16:00:27+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 32.1,
+          "hours_since_published": 33.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1446,7 +1452,7 @@
           "published_iso": "2026-09-07T16:00:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 32.1,
+          "hours_since_published": 33.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1478,7 +1484,7 @@
           "published_iso": "2026-09-07T16:00:27+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 32.1,
+          "hours_since_published": 33.2,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1514,7 +1520,7 @@
           "published_iso": "2026-09-04T14:30:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 105.6,
+          "hours_since_published": 106.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1545,7 +1551,7 @@
           "published_iso": "2026-09-02T05:48:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 162.3,
+          "hours_since_published": 163.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1583,7 +1589,7 @@
           "published_iso": "2026-09-04T14:30:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 105.6,
+          "hours_since_published": 106.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1614,7 +1620,7 @@
           "published_iso": "2026-09-02T05:48:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 162.3,
+          "hours_since_published": 163.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1642,7 +1648,7 @@
     {
       "name": "Costco",
       "type": "渠道",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "title": "Trump's DOJ Expands Beef Price Probe to Walmart, Costco, Amazon and 5 Other Retail Giants — Calls it a 'Critical Concern' - Yahoo Finance",
@@ -1652,7 +1658,7 @@
           "published_iso": "2026-09-04T14:30:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 105.6,
+          "hours_since_published": 106.7,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1683,7 +1689,7 @@
           "published_iso": "2026-09-02T05:48:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 162.3,
+          "hours_since_published": 163.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1711,7 +1717,7 @@
     {
       "name": "bone conduction",
       "type": "品类",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "The 6 Best Bone Conduction And Open-Ear Headphones of 2026 - RTINGS.com",
@@ -1721,7 +1727,7 @@
           "published_iso": "2026-09-02T07:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 161.1,
+          "hours_since_published": 162.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1744,115 +1750,51 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "The best bone conduction headphones for 2026 - Digital Trends",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5\" target=\"_blank\">The best bone conduction headphones for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">D",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWjJ6YWtzRDBRWmNxS0VzbGF5R3dpckVwUU5fVEV1V2U2eTZoajF3VENLNk85bW9ZM3Fyckt4dU15bEhLZG10R283UXlsZjFkTU1OQk9OcE55cnBLMFQzdDByWnczSzlRY2lvNGNkVFVVcHExc1lfQ3NR?oc=5",
-          "published": "Sat, 05 Sep 2026 10:03:16 GMT",
-          "published_iso": "2026-09-05T10:03:16+00:00",
+          "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds - Lifehacker",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5\" target=\"_blank\">I Ditched My Bone-Conduction Headphones for These Noise-Cancellin",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5",
+          "published": "Wed, 02 Sep 2026 19:00:36 GMT",
+          "published_iso": "2026-09-02T19:00:36+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 86.0,
+          "hours_since_published": 150.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [],
             "categories": [
               "bone conduction",
+              "earbuds",
               "headphone"
             ]
           },
-          "_score": 211,
-          "display_title": "The best bone conduction headphones for...",
+          "_score": 229,
+          "display_title": "I Ditched My Bone-Conduction Headphones...",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
+          "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
-    },
-    {
-      "name": "Target",
-      "type": "渠道",
-      "count": 2,
-      "items": [
-        {
-          "title": "Social media loves Sony's WH-1000XM4 headphones. Now you can love the sequel for less. - Popular Science",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh0Ty1HbF92SGtyQlpBZVVKd1dDUURiWFY3T0Y3TjNTN21BUjZsWTE2RUpCVmFvUzNGZzNhaWhQeHBEQWMzNUZadVZmZE81c3lValRpb3Q4U0YxbWFZSlEtYmx0a2JiWEhLclBNZ0Z0enhyX3JRXzdRQW9iUTkwTUc4cFhzYzhfY2FxVld1UmVlMjgwMC1pNDJuZFd3a1gySGN0UmxURi1rS200eWE1VkpqUEg0Z2dfWWc?oc=5\" target=\"_bla",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh0Ty1HbF92SGtyQlpBZVVKd1dDUURiWFY3T0Y3TjNTN21BUjZsWTE2RUpCVmFvUzNGZzNhaWhQeHBEQWMzNUZadVZmZE81c3lValRpb3Q4U0YxbWFZSlEtYmx0a2JiWEhLclBNZ0Z0enhyX3JRXzdRQW9iUTkwTUc4cFhzYzhfY2FxVld1UmVlMjgwMC1pNDJuZFd3a1gySGN0UmxURi1rS200eWE1VkpqUEg0Z2dfWWc?oc=5",
-          "published": "Mon, 07 Sep 2026 16:00:00 GMT",
-          "published_iso": "2026-09-07T16:00:00+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 32.1,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
-            "channels": [
-              "Target"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 274,
-          "display_title": "Social media loves Sony's WH-1000XM4...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Big-Box Briefing: Sam’s Club targets high-retention members with new tire benefit",
-          "summary": "The latest addition to Sam's Club's most premium membership aims to attract some of its stickiest members.",
-          "url": "https://www.modernretail.co/operations/big-box-briefing-sams-club-targets-high-retention-members-with-new-tire-benefit/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "published": "Thu, 03 Sep 2026 14:00:00 +0000",
-          "published_iso": "2026-09-03T14:00:00+00:00",
-          "source": "Modern Retail",
-          "bucket": "channel_news",
-          "hours_since_published": 130.1,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Target",
-              "Sam's Club"
-            ],
-            "categories": []
-          },
-          "_score": 234,
-          "display_title": "Big-Box Briefing: Sam’s Club targets...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
         }
       ]
     },
     {
       "name": "Best Buy",
       "type": "渠道",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Best Buy's Labor Day 2026 sale: Shop deals on Sony headphones, gaming laptops, Chromebooks - Mashable",
+          "title": "Best Buy's Labor Day 2026 sale: Shop deals on Sony headphones, gaming laptops, Chromebooks - mashable.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbWVTQ1ZEeGg1bGVNZV9PbktZbU1rdmUyM2xMS2dpM3MzdGkwTTRkbE5xQjlwV0dxWmxVaHhiblNNZW9DOXFjdzJxUHNENWdlN1Y5d3VLTnRXMEpPaDZ4QXAtQV9PLUZIMUdhc0tsN0N3cUZDQmRB?oc=5\" target=\"_blank\">Best Buy's Labor Day 2026 sale: Shop deals on Sony headphones, gaming laptops, Chromebo",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbWVTQ1ZEeGg1bGVNZV9PbktZbU1rdmUyM2xMS2dpM3MzdGkwTTRkbE5xQjlwV0dxWmxVaHhiblNNZW9DOXFjdzJxUHNENWdlN1Y5d3VLTnRXMEpPaDZ4QXAtQV9PLUZIMUdhc0tsN0N3cUZDQmRB?oc=5",
           "published": "Mon, 07 Sep 2026 12:50:27 GMT",
           "published_iso": "2026-09-07T12:50:27+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 35.2,
+          "hours_since_published": 36.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1872,35 +1814,102 @@
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
-          "impact_area": "电商"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Best Buy’s Labor Day sale takes up to 50% off laptops, ANC headphones and printers - CNN",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXhLUmdTZXF1S09GSXhsdGVnRlBXT2lla05LZHpuOTZSOVdJZkxySE56MnVUQkxuXzRrazZlbEVHUUZ5MXZoeEtGNWFHWm96cjluby13SlZ1VmNRUXBOTVRXeFpVaTM3ZjRFZk1iQzg3MmdabXphSWU3ZlFld3RqcWt3?oc=5\" target=\"_blank\">Best Buy’s Labor Day sale takes up to 50% off laptops, ANC headphones a",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXhLUmdTZXF1S09GSXhsdGVnRlBXT2lla05LZHpuOTZSOVdJZkxySE56MnVUQkxuXzRrazZlbEVHUUZ5MXZoeEtGNWFHWm96cjluby13SlZ1VmNRUXBOTVRXeFpVaTM3ZjRFZk1iQzg3MmdabXphSWU3ZlFld3RqcWt3?oc=5",
-          "published": "Mon, 07 Sep 2026 15:00:00 GMT",
-          "published_iso": "2026-09-07T15:00:00+00:00",
-          "source": "Google News - US Retail Audio",
+          "title": "Why RGB LED TVs are a great choice this Football Season - Best Buy Corporate",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxONUViVVNIS1dXLXE3M0JHM1ZXTkNsZUVzZnhabmhuYi1wRUE2RzFab05GZ004b3NsdXFXdXhNRGpUSklGdHlKSmstVzU5aXRJeGZVaTJGQXlTVjBoamtFWEl6X0dnSmdKOUU5QXlYZ0VIRFItdTdDUE1GRVlfcjBQUVdLdXpGMDY1VFlXTG1NNEtiRWo2Mmc?oc=5\" target=\"_blank\">Why RGB LED TVs are a great choice this Foot",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONUViVVNIS1dXLXE3M0JHM1ZXTkNsZUVzZnhabmhuYi1wRUE2RzFab05GZ004b3NsdXFXdXhNRGpUSklGdHlKSmstVzU5aXRJeGZVaTJGQXlTVjBoamtFWEl6X0dnSmdKOUU5QXlYZ0VIRFItdTdDUE1GRVlfcjBQUVdLdXpGMDY1VFlXTG1NNEtiRWo2Mmc?oc=5",
+          "published": "Tue, 08 Sep 2026 16:55:09 GMT",
+          "published_iso": "2026-09-08T16:55:09+00:00",
+          "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 33.1,
-          "freshness_label": "近3天",
+          "hours_since_published": 8.3,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Best Buy"
             ],
+            "categories": []
+          },
+          "_score": 242,
+          "display_title": "Why RGB LED TVs are a great choice this...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商"
+        }
+      ]
+    },
+    {
+      "name": "earbuds",
+      "type": "品类",
+      "count": 3,
+      "items": [
+        {
+          "title": "Amazon Just Slashed $100 Off These Unique Bose Ultra Open Clip-On Earbuds - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5QaWxDUTM3ZUlrZktRdFBxX2NQWGMyNEZabm5PcDRRZTJPU093aFJ3S0F6Z3dnU2RrczNPc0FNWW1LMHVMQWtmRnpjMWRSVWc3My1vdWZJWjZQNkM1VFUzYjVNU2dPSW1lRGlBWWcydER3bXloRmc?oc=5\" target=\"_blank\">Amazon Just Slashed $100 Off These Unique Bose Ultra Open Clip-On Earbuds</a>&nbsp;&nbsp",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QaWxDUTM3ZUlrZktRdFBxX2NQWGMyNEZabm5PcDRRZTJPU093aFJ3S0F6Z3dnU2RrczNPc0FNWW1LMHVMQWtmRnpjMWRSVWc3My1vdWZJWjZQNkM1VFUzYjVNU2dPSW1lRGlBWWcydER3bXloRmc?oc=5",
+          "published": "Wed, 02 Sep 2026 18:02:00 GMT",
+          "published_iso": "2026-09-02T18:02:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 151.2,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Amazon"
+            ],
             "categories": [
-              "headphone"
+              "earbuds"
             ]
           },
-          "_score": 235,
-          "display_title": "Best Buy’s Labor Day sale takes up to...",
+          "_score": 250,
+          "display_title": "Amazon Just Slashed $100 Off These...",
           "tags": [
             "🎧 耳机音频",
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商"
+        },
+        {
+          "title": "I Ditched My Bone-Conduction Headphones for These Noise-Cancelling Running Earbuds - Lifehacker",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5\" target=\"_blank\">I Ditched My Bone-Conduction Headphones for These Noise-Cancellin",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJZMjdPTW1pLS1HLXJOak5TME9OT0doX21zdC16dl9sMHlac3VUUDM4ak9yYTkyVXFmOThyRW5fZ2JndWlVUUkxUzgtbjZtdVdlWTlZUWlvTmtoR2RSQVZBRlBxSGhJc2JQZWlFblBLN0FMaFI1cnVQQTMxZlJFSmtPMlk3UQ?oc=5",
+          "published": "Wed, 02 Sep 2026 19:00:36 GMT",
+          "published_iso": "2026-09-02T19:00:36+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 150.2,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "bone conduction",
+              "earbuds",
+              "headphone"
+            ]
+          },
+          "_score": 229,
+          "display_title": "I Ditched My Bone-Conduction Headphones...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     }

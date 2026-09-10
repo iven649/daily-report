@@ -83,7 +83,7 @@
     },
     {
       "name": "How the new Apple Watches compare to the last-gen models",
-      "summary": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at the \"Surprise and shine\" event. The new watches feature sizable improvements to the health sensors and tracking, plus the ability to recite audio transcriptions and summaries, plus a ceramic",
+      "summary": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio transcriptions and summaries, plus a",
       "date": "2026-09-09T16:42:51-04:00",
       "published_iso": "2026-09-09T20:42:51+00:00",
       "url": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
@@ -109,11 +109,11 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1788998727,
+  "fetched_at": 1789002142,
   "stats": {
     "source_count": 7,
-    "raw_count": 110,
-    "deduped_count": 110,
+    "raw_count": 109,
+    "deduped_count": 109,
     "kept_count": 12
   }
 }

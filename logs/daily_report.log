@@ -26461,3 +26461,105 @@
 2026-09-12 09:05:05 | INFO | Validation passed | date=2026-09-12, consumer=10, channel=10, products=6
 2026-09-12 09:05:05 | INFO | [DONE] validate_outputs
 2026-09-12 09:05:05 | INFO | ========== Daily report generated successfully ==========
+2026-09-13 07:56:08 | INFO | ========== Daily report job started ==========
+2026-09-13 07:56:08 | INFO | [START] fetch_news
+2026-09-13 07:56:08 | INFO | Fetching news bucket=consumer_electronics, sources=7
+2026-09-13 07:56:08 | INFO | Fetched 10 items from The Verge
+2026-09-13 07:56:08 | INFO | Fetched 12 items from TechCrunch
+2026-09-13 07:56:08 | INFO | Fetched 12 items from Engadget
+2026-09-13 07:56:08 | INFO | Fetched 12 items from Android Authority
+2026-09-13 07:56:10 | INFO | Fetched 0 items from PhoneArena
+2026-09-13 07:56:10 | INFO | Fetched 12 items from Google News - Audio Wearable Watch
+2026-09-13 07:56:11 | INFO | Fetched 12 items from Google News - Competitor Watch
+2026-09-13 07:56:11 | INFO | Bucket consumer_electronics raw=70 deduped=70
+2026-09-13 07:56:11 | INFO | Fetching news bucket=channel_news, sources=6
+2026-09-13 07:56:11 | INFO | Fetched 0 items from RetailWire
+2026-09-13 07:56:11 | INFO | Fetched 0 items from Chain Store Age
+2026-09-13 07:56:12 | INFO | Fetched 10 items from Modern Retail
+2026-09-13 07:56:12 | INFO | Fetched 10 items from Retail Dive
+2026-09-13 07:56:12 | INFO | Fetched 12 items from Google News - Retail Platforms
+2026-09-13 07:56:13 | INFO | Fetched 12 items from Google News - US Retail Audio
+2026-09-13 07:56:13 | INFO | Bucket channel_news raw=44 deduped=44
+2026-09-13 07:56:13 | INFO | Saved data/raw/news.json | consumer=70, channel=44, total=114
+2026-09-13 07:56:13 | INFO | [DONE] fetch_news
+2026-09-13 07:56:13 | INFO | [START] fetch_products
+2026-09-13 07:56:13 | INFO | Using config/product_sources.yaml -> sources.consumer_electronics (fallback)
+2026-09-13 07:56:13 | INFO | Fetching product sources: 7
+2026-09-13 07:56:13 | INFO | Fetched 10 product items from The Verge
+2026-09-13 07:56:13 | INFO | Fetched 20 product items from TechCrunch
+2026-09-13 07:56:13 | INFO | Fetched 20 product items from Engadget
+2026-09-13 07:56:14 | INFO | Fetched 24 product items from Android Authority
+2026-09-13 07:56:14 | INFO | Fetched 0 product items from PhoneArena
+2026-09-13 07:56:14 | INFO | Fetched 12 product items from Google News - Audio Wearable Watch
+2026-09-13 07:56:14 | INFO | Fetched 24 product items from Google News - Competitor Watch
+2026-09-13 07:56:14 | INFO | Saved data/raw/products.json | sources=7, raw=110, deduped=110, kept=12
+2026-09-13 07:56:14 | INFO | [DONE] fetch_products
+2026-09-13 07:56:14 | INFO | [START] detect_festivals
+2026-09-13 07:56:14 | INFO | Saved data/processed/festivals.json
+2026-09-13 07:56:14 | INFO | [DONE] detect_festivals
+2026-09-13 07:56:14 | INFO | [START] process_content
+2026-09-13 07:56:14 | INFO | Loaded raw content | consumer=70, channel=44, products=12
+2026-09-13 07:56:15 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:15 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:15 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:15 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:15 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:15 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:15 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:16 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | AI json parse failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | Takeaways generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | AI generate failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | 机会提示 generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | WARNING | 风险提示 generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************kHEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-09-13 07:56:17 | INFO | Saved data/processed/daily_payload.json | date=2026-09-13, generated_at=2026-09-13 07:56:17 CST, consumer=10, channel=10, products=6, entities=8
+2026-09-13 07:56:17 | INFO | [DONE] process_content
+2026-09-13 07:56:17 | INFO | [START] build_pages
+2026-09-13 07:56:17 | INFO | Saved docs/index.html | md5=a8412d4802
+2026-09-13 07:56:17 | INFO | Saved docs/mid-autumn.html | md5=7592ac3042
+2026-09-13 07:56:17 | INFO | Saved docs/national-day-cn.html | md5=3a6bf18c2b
+2026-09-13 07:56:17 | INFO | Saved docs/halloween.html | md5=d489e7aa8d
+2026-09-13 07:56:17 | INFO | Saved docs/double-11.html | md5=647508ef6a
+2026-09-13 07:56:17 | INFO | Saved docs/thanksgiving.html | md5=e81a6bebca
+2026-09-13 07:56:17 | INFO | Saved docs/black-friday.html | md5=9c7d56d9a9
+2026-09-13 07:56:17 | INFO | Saved docs/cyber-monday.html | md5=d65cba3456
+2026-09-13 07:56:17 | INFO | Saved docs/double-12.html | md5=b0ea42e12f
+2026-09-13 07:56:17 | INFO | Saved docs/christmas.html | md5=8a41d95268
+2026-09-13 07:56:17 | INFO | Saved docs/valentines-day.html | md5=83fe4e48bd
+2026-09-13 07:56:17 | INFO | Saved docs/spring-festival.html | md5=73e5b79c2f
+2026-09-13 07:56:17 | INFO | Saved docs/lantern-festival.html | md5=619aac5e94
+2026-09-13 07:56:17 | INFO | Saved docs/easter.html | md5=785440ea0b
+2026-09-13 07:56:17 | INFO | Saved docs/qingming.html | md5=969e10ed15
+2026-09-13 07:56:17 | INFO | Saved docs/labor-day-cn.html | md5=869a96ac04
+2026-09-13 07:56:17 | INFO | Saved docs/mothers-day.html | md5=c9cabcdf15
+2026-09-13 07:56:17 | INFO | Saved docs/memorial-day.html | md5=5770752ff8
+2026-09-13 07:56:17 | INFO | Saved docs/jd-618.html | md5=e28d39ff22
+2026-09-13 07:56:17 | INFO | Saved docs/dragon-boat.html | md5=b954adc719
+2026-09-13 07:56:17 | INFO | Saved docs/fathers-day.html | md5=cf1b56b49f
+2026-09-13 07:56:17 | INFO | Page build finished | changed_files=21
+2026-09-13 07:56:17 | INFO | [DONE] build_pages
+2026-09-13 07:56:17 | INFO | [START] validate_outputs
+2026-09-13 07:56:17 | INFO | Validation passed | date=2026-09-13, consumer=10, channel=10, products=6
+2026-09-13 07:56:17 | INFO | [DONE] validate_outputs
+2026-09-13 07:56:17 | INFO | ========== Daily report generated successfully ==========

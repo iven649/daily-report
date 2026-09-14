@@ -1,6 +1,69 @@
 {
   "products": [
     {
+      "name": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis off",
+      "date": "2026-09-13T15:41:48-04:00",
+      "published_iso": "2026-09-13T19:41:48+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Apple is reportedly working on iPhone game controllers",
+      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported fi",
+      "date": "2026-09-13T14:30:16-04:00",
+      "published_iso": "2026-09-13T18:30:16+00:00",
+      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "The Units’ Digital Stimulation is synthpunk perfection",
+      "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than ",
+      "date": "2026-09-13T13:36:10-04:00",
+      "published_iso": "2026-09-13T17:36:10+00:00",
+      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Waymo pulls over, calls cops on riders with a ghost gun",
+      "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police r",
+      "date": "2026-09-13T10:28:12-04:00",
+      "published_iso": "2026-09-13T14:28:12+00:00",
+      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+      "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospec",
+      "date": "2026-09-13T09:00:00-04:00",
+      "published_iso": "2026-09-13T13:00:00+00:00",
+      "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Your car is selling your data",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepb",
+      "date": "2026-09-13T08:00:00-04:00",
+      "published_iso": "2026-09-13T12:00:00+00:00",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Apple’s new phones are here",
+      "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been devouring ev",
+      "date": "2026-09-13T08:00:00-04:00",
+      "published_iso": "2026-09-13T12:00:00+00:00",
+      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "OpenAI’s rogue AI tried to hack another company in May",
       "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal ",
       "date": "2026-09-12T17:41:36-04:00",
@@ -28,92 +91,29 @@
       "_score": 20
     },
     {
-      "name": "Sylvan Esso think you should splurge on good-quality yogurt",
-      "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of",
-      "date": "2026-09-12T12:35:00-04:00",
-      "published_iso": "2026-09-12T16:35:00+00:00",
-      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-st",
-      "date": "2026-09-12T12:23:40-04:00",
-      "published_iso": "2026-09-12T16:23:40+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "LG responds to TV spying allegations",
-      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some rece",
-      "date": "2026-09-12T11:19:44-04:00",
-      "published_iso": "2026-09-12T15:19:44+00:00",
-      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Trump is giving data centers a pass to pollute",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - per",
-      "date": "2026-09-12T10:41:27-04:00",
-      "published_iso": "2026-09-12T14:41:27+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-      "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you d",
-      "date": "2026-09-12T09:00:00-04:00",
-      "published_iso": "2026-09-12T13:00:00+00:00",
-      "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Where to preorder the iPhone 18 Pro and Pro Max",
-      "summary": "The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural",
-      "date": "2026-09-12T08:00:00-04:00",
-      "published_iso": "2026-09-12T12:00:00+00:00",
-      "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "OpenAI just wants to win",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been ",
-      "date": "2026-09-12T07:00:00-04:00",
-      "published_iso": "2026-09-12T11:00:00+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-      "date": "Sat, 12 Sep 2026 23:25:38",
-      "published_iso": "2026-09-12T23:25:38+00:00",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "name": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "date": "Sun, 13 Sep 2026 21:30:00",
+      "published_iso": "2026-09-13T21:30:00+00:00",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
       "source": "TechCrunch",
       "_score": 10
     },
     {
-      "name": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "date": "Sat, 12 Sep 2026 20:19:16",
-      "published_iso": "2026-09-12T20:19:16+00:00",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "name": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "date": "Sun, 13 Sep 2026 20:49:38",
+      "published_iso": "2026-09-13T20:49:38+00:00",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
       "source": "TechCrunch",
       "_score": 10
     }
   ],
-  "fetched_at": 1789261098,
+  "fetched_at": 1789344317,
   "stats": {
     "source_count": 7,
-    "raw_count": 110,
-    "deduped_count": 110,
+    "raw_count": 74,
+    "deduped_count": 74,
     "kept_count": 12
   }
 }

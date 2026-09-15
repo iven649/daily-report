@@ -1,15 +1,6 @@
 {
   "products": [
     {
-      "name": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-      "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when w",
-      "date": "2026-09-14T20:13:47-04:00",
-      "published_iso": "2026-09-15T00:13:47+00:00",
-      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
       "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared",
       "date": "2026-09-14T18:59:41-04:00",
@@ -91,6 +82,15 @@
       "_score": 20
     },
     {
+      "name": "Apple releases iOS 27 with Siri AI overhaul",
+      "summary": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri AI is ava",
+      "date": "2026-09-14T13:08:49-04:00",
+      "published_iso": "2026-09-14T17:08:49+00:00",
+      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
       "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
       "date": "Mon, 14 Sep 2026 21:51:02",
@@ -109,7 +109,7 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1789432189,
+  "fetched_at": 1789435550,
   "stats": {
     "source_count": 7,
     "raw_count": 105,

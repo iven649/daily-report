@@ -10,7 +10,16 @@
       "_score": 24
     },
     {
-      "name": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
+      "name": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+      "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more acce",
+      "date": "2026-09-15T21:00:00-04:00",
+      "published_iso": "2026-09-16T01:00:00+00:00",
+      "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "AI and data centers are incredibly unpopular in every poll",
       "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data cente",
       "date": "2026-09-15T19:34:25-04:00",
       "published_iso": "2026-09-15T23:34:25+00:00",
@@ -91,29 +100,20 @@
       "_score": 20
     },
     {
-      "name": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
-      "summary": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder, the new Instax Pal 2 in",
-      "date": "2026-09-15T10:03:18-04:00",
-      "published_iso": "2026-09-15T14:03:18+00:00",
-      "url": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
-      "name": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "date": "Tue, 15 Sep 2026 21:47:38",
-      "published_iso": "2026-09-15T21:47:38+00:00",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "name": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "date": "Wed, 16 Sep 2026 00:20:39",
+      "published_iso": "2026-09-16T00:20:39+00:00",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "source": "TechCrunch",
       "_score": 10
     }
   ],
-  "fetched_at": 1789517388,
+  "fetched_at": 1789521789,
   "stats": {
     "source_count": 7,
-    "raw_count": 102,
-    "deduped_count": 101,
+    "raw_count": 103,
+    "deduped_count": 102,
     "kept_count": 12
   }
 }

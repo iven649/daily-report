@@ -2,7 +2,7 @@
   "consumer_electronics": [
     {
       "title": "Meta is making a standalone Muse AI gadget",
-      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of his Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little lanyard [&#8230;]",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
       "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
       "published": "2026-09-23T20:15:20-04:00",
       "published_iso": "2026-09-24T00:15:20+00:00",
@@ -88,6 +88,24 @@
       "published": "2026-09-23T16:30:00-04:00",
       "published_iso": "2026-09-23T20:30:00+00:00",
       "source": "The Verge",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "published": "Thu, 24 Sep 2026 01:13:32 +0000",
+      "published_iso": "2026-09-24T01:13:32+00:00",
+      "source": "TechCrunch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "published": "Thu, 24 Sep 2026 00:46:17 +0000",
+      "published_iso": "2026-09-24T00:46:17+00:00",
+      "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
     {
@@ -177,24 +195,6 @@
       "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
       "published": "Wed, 23 Sep 2026 17:44:02 +0000",
       "published_iso": "2026-09-23T17:44:02+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-      "summary": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
-      "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
-      "published": "Wed, 23 Sep 2026 17:28:38 +0000",
-      "published_iso": "2026-09-23T17:28:38+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "published": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "published_iso": "2026-09-23T17:00:00+00:00",
       "source": "TechCrunch",
       "bucket": "consumer_electronics"
     },
@@ -424,7 +424,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "‘This isn’t about putting a chatbot in your ear’: Qualcomm’s Snapdragon Sound Elite Gen 2 platform will use AI to make your next earbuds sound better than ever — and its use in ‘camera buds’ won’t be far behind - techradar.com",
+      "title": "‘This isn’t about putting a chatbot in your ear’: Qualcomm’s Snapdragon Sound Elite Gen 2 platform will use AI to make your next earbuds sound better than ever — and its use in ‘camera buds’ won’t be far behind - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxNYm1uck5vSVNRTFRWdjJvLU4yaTc3d1JNc0FCUGdURzdRakpqQ3MyMzdieGZhNmNSOVlFQWNpOXNrbU8ycjZ4NjlhUE1BVGc1MnBlZUdaNjhFczg5RkNyaG9uTko3bzRxLXlIOUNFSTZvamdrZ0t0Wl9CRXc5ZU11UGdxNGl2MUtOb25lUE9PYS1qRGF0ekxJd1NjWUpWYTIySGpaUUdpdktoNGZCcjZWeFZmT2pIa210LXZtcTdNdHU1RWhrT0Y0dG",
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNYm1uck5vSVNRTFRWdjJvLU4yaTc3d1JNc0FCUGdURzdRakpqQ3MyMzdieGZhNmNSOVlFQWNpOXNrbU8ycjZ4NjlhUE1BVGc1MnBlZUdaNjhFczg5RkNyaG9uTko3bzRxLXlIOUNFSTZvamdrZ0t0Wl9CRXc5ZU11UGdxNGl2MUtOb25lUE9PYS1qRGF0ekxJd1NjWUpWYTIySGpaUUdpdktoNGZCcjZWeFZmT2pIa210LXZtcTdNdHU1RWhrT0Y0dGViSHdQYV9kZTY5am1tYlk4ekNJcFhRYWM1SW5Ya1UzVmI1ZFN4TDkxZ3h2Zk9GZVd0Z083WWtqa1luQ1JCQnF6UWVTcktWQ0ZCR0o4V002VUdrOVpodFlXZEc2a1JZZGhibVlOVVN0ZEw3Z2liaWQ4Y2ZWUU1BUm1iOE11TmlfeHNPZGRXY2FSWTdCeGhPaDRDSEI5dzZ5SWdrMHRyZw?oc=5",
       "published": "Wed, 23 Sep 2026 19:30:01 GMT",
@@ -451,7 +451,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Beats 360 Turns Your Headphones Into a Mix-and-Match Accessory - hypebeast.com",
+      "title": "Beats 360 Turns Your Headphones Into a Mix-and-Match Accessory - Hypebeast",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHFRcTRibFpDNVQtTTlpb0Vrd1ZjNUswRDVkRl9jTG5rSmZyMU9pQ3dJYlRXMWpDMUZYMHNBSmoxRUJyNkNISFZlNUpHRWFkUHUtbTBqTUFvRVl3TWgzWEh5RnpDZms5M21KcjFmMzJDdHBrUVE2eXFLaks0aVFGZEJ4cUJiQk5B?oc=5\" target=\"_blank\">Beats 360 Turns Your Headphones Into a Mix-and-Match Accessory<",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHFRcTRibFpDNVQtTTlpb0Vrd1ZjNUswRDVkRl9jTG5rSmZyMU9pQ3dJYlRXMWpDMUZYMHNBSmoxRUJyNkNISFZlNUpHRWFkUHUtbTBqTUFvRVl3TWgzWEh5RnpDZms5M21KcjFmMzJDdHBrUVE2eXFLaks0aVFGZEJ4cUJiQk5B?oc=5",
       "published": "Wed, 23 Sep 2026 06:22:35 GMT",
@@ -465,6 +465,15 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56TUUtM2V2RWQ3WU1PUjNkdTEtcl92VTBidFhWbnpNbVNka3BoOEMwRnlBMDRXTGNRVHZlX0NJX0lmbGJxajg4RmFpdHNyQUJYUTRQanViSWdXWVpkM2NQRHc3VW9ETVoyWGU3Rjc3SlZndnJCM0E4?oc=5",
       "published": "Mon, 21 Sep 2026 10:35:28 GMT",
       "published_iso": "2026-09-21T10:35:28+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "The new Beats headphones are made for workouts - The Verge",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9fUHVoSnRGelNsY25makczeWFBanNvMjdWNEU1bi1LNUdlM0NoLU40ZDBtaWtfdDN1YTRWcFZtM1FoREpMMHdLNHpuTHFwelpZa2VBVmRMYXY4WnNmemlkdGdoMTZWdDhJZGxNdHh3ZTMzZw?oc=5\" target=\"_blank\">The new Beats headphones are made for workouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fUHVoSnRGelNsY25makczeWFBanNvMjdWNEU1bi1LNUdlM0NoLU40ZDBtaWtfdDN1YTRWcFZtM1FoREpMMHdLNHpuTHFwelpZa2VBVmRMYXY4WnNmemlkdGdoMTZWdDhJZGxNdHh3ZTMzZw?oc=5",
+      "published": "Tue, 22 Sep 2026 14:00:00 GMT",
+      "published_iso": "2026-09-22T14:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics"
     },
@@ -487,7 +496,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "The best waterproof camera in 2026: compact underwater cameras for fun and action - Digital Camera World",
+      "title": "The best waterproof camera in 2026: compact underwater cameras for fun and action - digitalcameraworld.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE13U1BSY0syWEFjWnFIM3dlZE5KaW9mRlZmRXdlU3VxMFpRaEI4UE94LXgzQWxGd0FXWUNsSVYyLVBmVGhaSzd2WkQyOUF5aWdCRzJWWlE3TlF5bHZ0SlJ6T3VuY2ZwSmppM2V4VmtrWnlBNjl2QnQxYmE1NzI?oc=5\" target=\"_blank\">The best waterproof camera in 2026: compact underwater cameras for fun and actio",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13U1BSY0syWEFjWnFIM3dlZE5KaW9mRlZmRXdlU3VxMFpRaEI4UE94LXgzQWxGd0FXWUNsSVYyLVBmVGhaSzd2WkQyOUF5aWdCRzJWWlE3TlF5bHZ0SlJ6T3VuY2ZwSmppM2V4VmtrWnlBNjl2QnQxYmE1NzI?oc=5",
       "published": "Sat, 19 Sep 2026 11:28:58 GMT",
@@ -514,16 +523,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Meta launches audio-only glasses amid backlash over its Ray-Ban collab - The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSmpaLTlrY1JBbnFqZEVIT05IbzZDOEFsa3lKMDhtampWeVQ5dzhYVTNBaXE5cTVYUnlEWGQxN2V4Y3U5eW0xdjZpY3FiR3FnR1Z5Z3hTcTVncklPSEFEM09iZmxQd0pKT21hV3BmVjVyMHpiWE5HS2phYV92RmhPNmpLZ0dHOE9QSHp1Yk9HV3gyZGs0V29zU3d2V3Ezdw?oc=5\" target=\"_blank\">Meta launches audio-only glasses ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmpaLTlrY1JBbnFqZEVIT05IbzZDOEFsa3lKMDhtampWeVQ5dzhYVTNBaXE5cTVYUnlEWGQxN2V4Y3U5eW0xdjZpY3FiR3FnR1Z5Z3hTcTVncklPSEFEM09iZmxQd0pKT21hV3BmVjVyMHpiWE5HS2phYV92RmhPNmpLZ0dHOE9QSHp1Yk9HV3gyZGs0V29zU3d2V3Ezdw?oc=5",
-      "published": "Thu, 24 Sep 2026 00:00:00 GMT",
-      "published_iso": "2026-09-24T00:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
-      "title": "Bose QuietComfort Gen 2 Review: Best for Most People? - Mark Ellis Reviews",
+      "title": "Bose QuietComfort Gen 2 Review: Best for Most People? - markellisreviews.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9nQkxUaVF0akowWmMtMVZWU0Z1SVVmNUVDRTR6aWVuVFRSMVhMdFFQUFYwNE9VOUxxTEpoYUZNR2JaR1dtSU1HRVFXLXM1R2JJV0I2ek1hU1VJUnNxcWI0YXNvcUI5OTFPNmtFQi1RckF3b0Z5a1lV?oc=5\" target=\"_blank\">Bose QuietComfort Gen 2 Review: Best for Most People?</a>&nbsp;&nbsp;<font color=\"#6f6f",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nQkxUaVF0akowWmMtMVZWU0Z1SVVmNUVDRTR6aWVuVFRSMVhMdFFQUFYwNE9VOUxxTEpoYUZNR2JaR1dtSU1HRVFXLXM1R2JJV0I2ek1hU1VJUnNxcWI0YXNvcUI5OTFPNmtFQi1RckF3b0Z5a1lV?oc=5",
       "published": "Fri, 18 Sep 2026 19:53:52 GMT",
@@ -532,7 +532,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be - techradar.com",
+      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPSGN1VXQ1cEh0SEZVQzF2R0tIVFE3a29xRUU4WGVxTE5EVURUR3ZsY2I0d0FhMjBWQnV2SUZFU3hYa0lNVjc2UzJpQTBGVXM4elhkemgyemExT0FneDhwZVJfbEdwREx6U3F6ZE03dno1TXVUSUJKYkYwUHZ5cmZxeVlob2oyN2plQ1hFSWtjXzJVU1JoRE8xTk1wUXpDOUJBREtEeWk4RDhFVHQybnBaSTJnaFlfVWIzbTlDZE1SblRDOGJfZjkyRk",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSGN1VXQ1cEh0SEZVQzF2R0tIVFE3a29xRUU4WGVxTE5EVURUR3ZsY2I0d0FhMjBWQnV2SUZFU3hYa0lNVjc2UzJpQTBGVXM4elhkemgyemExT0FneDhwZVJfbEdwREx6U3F6ZE03dno1TXVUSUJKYkYwUHZ5cmZxeVlob2oyN2plQ1hFSWtjXzJVU1JoRE8xTk1wUXpDOUJBREtEeWk4RDhFVHQybnBaSTJnaFlfVWIzbTlDZE1SblRDOGJfZjkyRkluQUdOd1BHYVdHM21WdWdBLXQ3cGExS21zUFJ2S2JuWk5VN1hNV3dyMHhqWVIwUmdYWU9HZVFMZElmREJHbVozUHJLYlcwOG1B?oc=5",
       "published": "Wed, 23 Sep 2026 13:00:00 GMT",
@@ -541,7 +541,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Introducing Beats 360: The First Customizable Over-Ear Headphone from Beats - businesswire.com",
+      "title": "Introducing Beats 360: The First Customizable Over-Ear Headphone from Beats - Business Wire",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUl9feW9YVDh2N2hKTGhxdXhxUjZiVlFwSDdEUi01aFN1YjhEZU9IUVZWTEZxNlpxeTMtdUdudjhHbGJHODZaNXpsdnNWMGtqNlhSQTlveDZld1B6bzJBMHQ4UWYtYnJMT3NQU05mbXdwNDd1MUNxejlzWVJlVnFrQTdqbzUzaDFLcWRfRXFlTjZaUkY4dTk0WjdRN3ZwSFpJVUprSzlxVW5uSzRRQmdLMWpsMU92N0lQLVJmaVZiQkd2U0J0UGZSdU",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUl9feW9YVDh2N2hKTGhxdXhxUjZiVlFwSDdEUi01aFN1YjhEZU9IUVZWTEZxNlpxeTMtdUdudjhHbGJHODZaNXpsdnNWMGtqNlhSQTlveDZld1B6bzJBMHQ4UWYtYnJMT3NQU05mbXdwNDd1MUNxejlzWVJlVnFrQTdqbzUzaDFLcWRfRXFlTjZaUkY4dTk0WjdRN3ZwSFpJVUprSzlxVW5uSzRRQmdLMWpsMU92N0lQLVJmaVZiQkd2U0J0UGZSdU82SQ?oc=5",
       "published": "Tue, 22 Sep 2026 14:00:00 GMT",
@@ -550,7 +550,7 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Garmin Fenix 9 Series In-Depth Review: Worth the Upgrade? - DC Rainmaker",
+      "title": "Garmin Fenix 9 Series In-Depth Review: Worth the Upgrade? - dcrainmaker.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2tKYVBHMHV6Z1BhdVFNbzRnRXBoMEpQSTllR3FlNmh6ZjlKVHZpZTdFOVVyMWlSV2RxN09tQWJ0dkdjdXRXMlBTclRRaEdOa0pXUTdzdkVHSjBycjA5SlZ3b0VYbjRSeHFpcHctUGJ6WTQ5UDZjWWJkS2RselVmMG1aZ3g2UFVxejE2eWFvZ2UxSlRRa2kyNUk4bw?oc=5\" target=\"_blank\">Garmin Fenix 9 Series In-Depth Review",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2tKYVBHMHV6Z1BhdVFNbzRnRXBoMEpQSTllR3FlNmh6ZjlKVHZpZTdFOVVyMWlSV2RxN09tQWJ0dkdjdXRXMlBTclRRaEdOa0pXUTdzdkVHSjBycjA5SlZ3b0VYbjRSeHFpcHctUGJ6WTQ5UDZjWWJkS2RselVmMG1aZ3g2UFVxejE2eWFvZ2UxSlRRa2kyNUk4bw?oc=5",
       "published": "Fri, 18 Sep 2026 17:29:11 GMT",
@@ -613,20 +613,20 @@
       "bucket": "consumer_electronics"
     },
     {
-      "title": "Michelle Yeoh Movie 'The Surgeon' Acquired by Sony Pictures - Deadline",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5QanUtUmdMMldScEFEUVZCSW5UYURyYTJFV09EbkE5UVdVWkRCa3djS1hrb0xZQ01EZ2NVbEFzaE1wRWUtVUgxRTdoNU43aDFzWTg0M045ckh0eFhVeFIweHpaSU9Xd09tczBHX2xvUVJ0c1VqQjFjaDJpMA?oc=5\" target=\"_blank\">Michelle Yeoh Movie 'The Surgeon' Acquired by Sony Pictures</a>&nbsp;&nbsp;<font ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QanUtUmdMMldScEFEUVZCSW5UYURyYTJFV09EbkE5UVdVWkRCa3djS1hrb0xZQ01EZ2NVbEFzaE1wRWUtVUgxRTdoNU43aDFzWTg0M045ckh0eFhVeFIweHpaSU9Xd09tczBHX2xvUVJ0c1VqQjFjaDJpMA?oc=5",
-      "published": "Tue, 22 Sep 2026 19:30:00 GMT",
-      "published_iso": "2026-09-22T19:30:00+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics"
-    },
-    {
       "title": "Kendall Jenner’s latest accessory? A pair of Beats headphones you can customize to match your look - Page Six",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3VqOW9waC1LenRYMDlaZFJQWGp3cWM2MWthU0p0Rkd2VEdmMUF4aFF3eWFPa3BqdjlMSGFCVjQ1TzlfTDBKaThjREZXVDB0bEpKZjBfM01zQXFqbkhfUDQxcWUyeTNPaFczNW9FTV9XU1lpOTNlZ29vT2ZVa2xSZmtBdnN4TGVneTFheE96TUFSOWZydGl1bTFn?oc=5\" target=\"_blank\">Kendall Jenner’s latest accessory? A pa",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3VqOW9waC1LenRYMDlaZFJQWGp3cWM2MWthU0p0Rkd2VEdmMUF4aFF3eWFPa3BqdjlMSGFCVjQ1TzlfTDBKaThjREZXVDB0bEpKZjBfM01zQXFqbkhfUDQxcWUyeTNPaFczNW9FTV9XU1lpOTNlZ29vT2ZVa2xSZmtBdnN4TGVneTFheE96TUFSOWZydGl1bTFn?oc=5",
       "published": "Tue, 22 Sep 2026 15:31:00 GMT",
       "published_iso": "2026-09-22T15:31:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics"
+    },
+    {
+      "title": "Michelle Yeoh Movie 'The Surgeon' Acquired by Sony Pictures - Deadline",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5QanUtUmdMMldScEFEUVZCSW5UYURyYTJFV09EbkE5UVdVWkRCa3djS1hrb0xZQ01EZ2NVbEFzaE1wRWUtVUgxRTdoNU43aDFzWTg0M045ckh0eFhVeFIweHpaSU9Xd09tczBHX2xvUVJ0c1VqQjFjaDJpMA?oc=5\" target=\"_blank\">Michelle Yeoh Movie 'The Surgeon' Acquired by Sony Pictures</a>&nbsp;&nbsp;<font ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QanUtUmdMMldScEFEUVZCSW5UYURyYTJFV09EbkE5UVdVWkRCa3djS1hrb0xZQ01EZ2NVbEFzaE1wRWUtVUgxRTdoNU43aDFzWTg0M045ckh0eFhVeFIweHpaSU9Xd09tczBHX2xvUVJ0c1VqQjFjaDJpMA?oc=5",
+      "published": "Tue, 22 Sep 2026 19:30:00 GMT",
+      "published_iso": "2026-09-22T19:30:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics"
     }
@@ -840,7 +840,7 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Amazon Builds Its Own Answer to Walmart’s 5,000 Stores - pymnts.com",
+      "title": "Amazon Builds Its Own Answer to Walmart’s 5,000 Stores - PYMNTS.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmtCaU5kZHQ2V3ZVQlliektYN3FfZmdoUzBtYTlKbkNNMktvd25Wa2p6SXRtWkZ4OFduSVRjLVExOTRIWEhZNmUzRlBkcEdfS1lNV0ZvVG11bjgycVNWVlF2X2k4c2oxNUxDZmpWQ1d5N1l2SktYa2ZXTWtTd2FaQS1FYTJPZlU0WTU4eEtJbndyaFZzYzBTbWdKNTgwRWNJbElwdy1RN0hjQlNsekFQaW5LbTBhZw?oc=5\" target=\"_blank\">A",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmtCaU5kZHQ2V3ZVQlliektYN3FfZmdoUzBtYTlKbkNNMktvd25Wa2p6SXRtWkZ4OFduSVRjLVExOTRIWEhZNmUzRlBkcEdfS1lNV0ZvVG11bjgycVNWVlF2X2k4c2oxNUxDZmpWQ1d5N1l2SktYa2ZXTWtTd2FaQS1FYTJPZlU0WTU4eEtJbndyaFZzYzBTbWdKNTgwRWNJbElwdy1RN0hjQlNsekFQaW5LbTBhZw?oc=5",
       "published": "Thu, 17 Sep 2026 22:16:09 GMT",
@@ -921,20 +921,20 @@
       "bucket": "channel_news"
     },
     {
+      "title": "I test noise-cancelling headphones and these 10 are the best to buy in 2026 - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUgzTVh1TTdfSVF5T1BQbEZiSkV0RUNvbDVqeXVMQmZJdmxTcDVuZkxBcVltU2JRbkhBcW1GX1Q0WGtrTHg4TXc2TzhHOU1UZ3BYcXUtaFRQRHpiaThFc0RCU1NXR05nWGRseW5sVFJiME1VTjNBem9VcHRyZm1xaVRhSENwOTg?oc=5\" target=\"_blank\">I test noise-cancelling headphones and these 10 are the best to ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUgzTVh1TTdfSVF5T1BQbEZiSkV0RUNvbDVqeXVMQmZJdmxTcDVuZkxBcVltU2JRbkhBcW1GX1Q0WGtrTHg4TXc2TzhHOU1UZ3BYcXUtaFRQRHpiaThFc0RCU1NXR05nWGRseW5sVFJiME1VTjNBem9VcHRyZm1xaVRhSENwOTg?oc=5",
+      "published": "Mon, 21 Sep 2026 09:01:27 GMT",
+      "published_iso": "2026-09-21T09:01:27+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news"
+    },
+    {
       "title": "Open Earbuds Are All I Wear Outdoors—These Are the Best - WIRED",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TEYzeXV4bWZpQmNWck5hTFhrXzhQVllOQ3EtLUJrZng3YWlDT2hMZ3FVV3F2VGZ3eERvY2lxYUx0T0FqWlVIRUE3M2JFVk9oR011a0kxdFJPQQ?oc=5\" target=\"_blank\">Open Earbuds Are All I Wear Outdoors—These Are the Best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TEYzeXV4bWZpQmNWck5hTFhrXzhQVllOQ3EtLUJrZng3YWlDT2hMZ3FVV3F2VGZ3eERvY2lxYUx0T0FqWlVIRUE3M2JFVk9oR011a0kxdFJPQQ?oc=5",
       "published": "Fri, 18 Sep 2026 09:00:00 GMT",
       "published_iso": "2026-09-18T09:00:00+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news"
-    },
-    {
-      "title": "I found the 8 best noise-cancelling earbuds in 2026 - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9pVTlxVUpodk1IMnF0Y2FVSkV2SGJ4NC1zNXpoSWhDSjhiZW1HTGZYeVIzWU50Tk9ZVE9INGpVZFJaRnlqRTZxdlFxTWp1V1V4VS00TlRyZDFxa25JNWtzczVxcVBDaHRtM0JpX1Z3UmVHcVBpdE9mWlhn?oc=5\" target=\"_blank\">I found the 8 best noise-cancelling earbuds in 2026</a>&nbsp;&nbsp;<font color=\"#6f",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pVTlxVUpodk1IMnF0Y2FVSkV2SGJ4NC1zNXpoSWhDSjhiZW1HTGZYeVIzWU50Tk9ZVE9INGpVZFJaRnlqRTZxdlFxTWp1V1V4VS00TlRyZDFxa25JNWtzczVxcVBDaHRtM0JpX1Z3UmVHcVBpdE9mWlhn?oc=5",
-      "published": "Mon, 21 Sep 2026 09:00:31 GMT",
-      "published_iso": "2026-09-21T09:00:31+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news"
     },
@@ -957,8 +957,8 @@
       "bucket": "channel_news"
     },
     {
-      "title": "The best headphones in 2026: Lab-tested by experts - SoundGuys",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE96NzVDUGZ4TWYwZ1hBcXdyd3ZZZTMxZ1lOeUp6ZE51TXlSNjNvV0ttV3cxM3ZneUstLS13QVZmQl9odHk0NTVJTXlqcHo5QnRjajZHV3JLdDN2VWc?oc=5\" target=\"_blank\">The best headphones in 2026: Lab-tested by experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoundGuys</font>",
+      "title": "The best headphones in 2026: Lab-tested by experts - soundguys.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE96NzVDUGZ4TWYwZ1hBcXdyd3ZZZTMxZ1lOeUp6ZE51TXlSNjNvV0ttV3cxM3ZneUstLS13QVZmQl9odHk0NTVJTXlqcHo5QnRjajZHV3JLdDN2VWc?oc=5\" target=\"_blank\">The best headphones in 2026: Lab-tested by experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">soundguys.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96NzVDUGZ4TWYwZ1hBcXdyd3ZZZTMxZ1lOeUp6ZE51TXlSNjNvV0ttV3cxM3ZneUstLS13QVZmQl9odHk0NTVJTXlqcHo5QnRjajZHV3JLdDN2VWc?oc=5",
       "published": "Thu, 17 Sep 2026 15:18:00 GMT",
       "published_iso": "2026-09-17T15:18:00+00:00",
@@ -975,7 +975,7 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Fender’s 1st headphones have arrived at Amazon & Walmart — and they’re selling out fast - nj.com",
+      "title": "Fender’s 1st headphones have arrived at Amazon & Walmart — and they’re selling out fast - NJ.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkFfcVVXbm9ZbnhjdHh6XzZfeGlnb0RvOGw5WndScjhnU1dhbVVsOVg4ZTZBQTZrOGZkY3U5V01Yc3gwT3NzdURsQ1BGZWN0TnVGd1RfbWhrQ20tOUl0dWRNazhCTko0ZURJOE9hLUxQZGhVempLUnBEQ3VPTHltOXFUQlhKOGFaU3prMEJpcGhHbnRCaU5FaGN2b1pkbHlyRXdiRDlVWHZoM2wzeFNhX2xIRkRnSEFpM25ULWpabmFfOU9heXBv0g",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkFfcVVXbm9ZbnhjdHh6XzZfeGlnb0RvOGw5WndScjhnU1dhbVVsOVg4ZTZBQTZrOGZkY3U5V01Yc3gwT3NzdURsQ1BGZWN0TnVGd1RfbWhrQ20tOUl0dWRNazhCTko0ZURJOE9hLUxQZGhVempLUnBEQ3VPTHltOXFUQlhKOGFaU3prMEJpcGhHbnRCaU5FaGN2b1pkbHlyRXdiRDlVWHZoM2wzeFNhX2xIRkRnSEFpM25ULWpabmFfOU9heXBv0gHbAUFVX3lxTFBMTE9FV1MwSkxxVTVXSDRfUWlaQl9Mc3A4Tkd3NU9MNXBiWUQ3eWVhdy1iamlrY0ExMHk3LWVabEFHRUQxOWtGR2tVTzBUU0NMczJOTG04cnNnZXRwX1pwTHFSZzlQeDVTRFVtdlRTczY2M21rdnNmZGRIWllKZ096UnRzQWhnZXNfdEM0OWlwWWFlSlFGa1Qxc2E0MjNBZGNuQWw2UFZXSXZLUm5uV0VSb1hEV05PVW9lNk84MGRjTTg3MGI4SVJzRld6OEN3TGhZTE5EWEd6d18xQQ?oc=5",
       "published": "Sat, 19 Sep 2026 16:05:00 GMT",
@@ -984,7 +984,7 @@
       "bucket": "channel_news"
     },
     {
-      "title": "I've picked the best noise cancelling headphones for all budgets, based on real-world testing of nearly 20 models - techradar.com",
+      "title": "I've picked the best noise cancelling headphones for all budgets, based on real-world testing of nearly 20 models - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2FERklLenBUVWlmVXNZT3FCZWNqcmt2YkZyZmZ2MXI4MW9mSTVJbkhlcmxJOHByRzVLSTlHLVh2ZF9CS29GYzdCcEVKNFV6YmxGZXVGc1ZPUlJmLVpNdDJCdWtJUTZkX2NkRGlDRGJ4TVlxcE5mRHlYdV9PeGp1Mg?oc=5\" target=\"_blank\">I've picked the best noise cancelling headphones for all budgets, based o",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2FERklLenBUVWlmVXNZT3FCZWNqcmt2YkZyZmZ2MXI4MW9mSTVJbkhlcmxJOHByRzVLSTlHLVh2ZF9CS29GYzdCcEVKNFV6YmxGZXVGc1ZPUlJmLVpNdDJCdWtJUTZkX2NkRGlDRGJ4TVlxcE5mRHlYdV9PeGp1Mg?oc=5",
       "published": "Mon, 21 Sep 2026 14:00:57 GMT",
@@ -993,7 +993,7 @@
       "bucket": "channel_news"
     },
     {
-      "title": "Samsung’s Galaxy Buds3 Pro just hit a rare low price at Best Buy — but not for long - MassLive.com",
+      "title": "Samsung’s Galaxy Buds3 Pro just hit a rare low price at Best Buy — but not for long - masslive.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQRVdwQjhKS0NMWWlyT2h0RXJiSmlwa21nSW9XUUNzeHNTQ1cwRW5lSnBiN2VLMXZGVnlKRGRfeHhFaTRYZzlYa2pfVjhpaHNGYUNFSXpGdUR1SnlKVGhDSHUxbVg4NzNpYWYxcjRIUm03a0puOUFVcDIzeHVPSWdjQnMyazlWaUtzQmNGYTVTRlpXYjkybmRRVHotUnFuZGF1MHdrNnRJRVJOUTJ1Y0ZnRVFSNklxdklXZWU0TWd5SWtReUh1b3hlTV",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRVdwQjhKS0NMWWlyT2h0RXJiSmlwa21nSW9XUUNzeHNTQ1cwRW5lSnBiN2VLMXZGVnlKRGRfeHhFaTRYZzlYa2pfVjhpaHNGYUNFSXpGdUR1SnlKVGhDSHUxbVg4NzNpYWYxcjRIUm03a0puOUFVcDIzeHVPSWdjQnMyazlWaUtzQmNGYTVTRlpXYjkybmRRVHotUnFuZGF1MHdrNnRJRVJOUTJ1Y0ZnRVFSNklxdklXZWU0TWd5SWtReUh1b3hlTV9ORnN3Zw?oc=5",
       "published": "Wed, 23 Sep 2026 17:03:00 GMT",
@@ -1020,7 +1020,7 @@
       "bucket": "channel_news"
     },
     {
-      "title": "These are the best noise canceling earbuds that are actually worth your money right now - tomsguide.com",
+      "title": "These are the best noise canceling earbuds that are actually worth your money right now - Tom's Guide",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ib3g3OW9qdFlJelo3VzhabmU4d1dtTWV5OHNMdnp6alZSeUZFWTNuRlB5VjlmTFZ4Y2dNVC03VFBwdHZ4dWNFcnY0WndZd3hPR1BJWkdoYzhNaDZNSHNZeEQzQ1ZoLXZNcUtscTZYREQ0bFNlN2g0?oc=5\" target=\"_blank\">These are the best noise canceling earbuds that are actually worth your money right now",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ib3g3OW9qdFlJelo3VzhabmU4d1dtTWV5OHNMdnp6alZSeUZFWTNuRlB5VjlmTFZ4Y2dNVC03VFBwdHZ4dWNFcnY0WndZd3hPR1BJWkdoYzhNaDZNSHNZeEQzQ1ZoLXZNcUtscTZYREQ0bFNlN2g0?oc=5",
       "published": "Tue, 22 Sep 2026 16:30:45 GMT",
@@ -1029,5 +1029,5 @@
       "bucket": "channel_news"
     }
   ],
-  "fetched_at": 1790209477
+  "fetched_at": 1790212908
 }

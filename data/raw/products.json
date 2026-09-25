@@ -10,6 +10,15 @@
       "_score": 24
     },
     {
+      "name": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the ",
+      "date": "2026-09-24T21:25:53-04:00",
+      "published_iso": "2026-09-25T01:25:53+00:00",
+      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
       "name": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
       "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the lab",
       "date": "2026-09-24T19:50:55-04:00",
@@ -91,15 +100,6 @@
       "_score": 20
     },
     {
-      "name": "Now Google Chrome shares tabs to new devices that save where you were",
-      "summary": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capabilities for Gemini in Chrome that can an",
-      "date": "2026-09-24T13:00:00-04:00",
-      "published_iso": "2026-09-24T17:00:00+00:00",
-      "url": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
-      "source": "The Verge",
-      "_score": 20
-    },
-    {
       "name": "Waymo is scaling fast. Here’s what the fleet data shows.",
       "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
       "date": "Thu, 24 Sep 2026 23:24:33",
@@ -109,7 +109,7 @@
       "_score": 10
     }
   ],
-  "fetched_at": 1790296118,
+  "fetched_at": 1790299653,
   "stats": {
     "source_count": 7,
     "raw_count": 118,

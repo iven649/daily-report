@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25 09:27:35 CST",
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26 08:32:26 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -15,7 +15,7 @@
       "day": 31,
       "icon": "🎃",
       "date": "2026-10-31",
-      "countdown": 36,
+      "countdown": 35,
       "year": 2026,
       "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -45,7 +45,7 @@
       "nth": 4,
       "icon": "🦃",
       "date": "2026-11-26",
-      "countdown": 62,
+      "countdown": 61,
       "year": 2026,
       "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -74,7 +74,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 47,
+      "countdown": 46,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -101,7 +101,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 63,
+      "countdown": 62,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -120,33 +120,6 @@
   ],
   "festival_pages": [
     {
-      "slug": "mid-autumn",
-      "name": "中秋节",
-      "market": "CN",
-      "type": "traditional",
-      "priority": 5,
-      "rule": "fixed",
-      "month": 9,
-      "day": 25,
-      "icon": "🌕",
-      "date": "2026-09-25",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "中秋节是中国的重要节日或营销节点。",
-      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
-      "customs": [
-        "节前备货",
-        "礼赠需求",
-        "节庆促销"
-      ],
-      "consumption": [
-        "礼品零售",
-        "出行相关",
-        "节庆营销"
-      ],
-      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
-    },
-    {
       "slug": "national-day-cn",
       "name": "国庆节",
       "market": "CN",
@@ -157,7 +130,7 @@
       "day": 1,
       "icon": "🇨🇳",
       "date": "2026-10-01",
-      "countdown": 6,
+      "countdown": 5,
       "year": 2026,
       "origin": "国庆节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -184,7 +157,7 @@
       "day": 31,
       "icon": "🎃",
       "date": "2026-10-31",
-      "countdown": 36,
+      "countdown": 35,
       "year": 2026,
       "origin": "万圣节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -213,7 +186,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 47,
+      "countdown": 46,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -241,7 +214,7 @@
       "nth": 4,
       "icon": "🦃",
       "date": "2026-11-26",
-      "countdown": 62,
+      "countdown": 61,
       "year": 2026,
       "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -270,7 +243,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 63,
+      "countdown": 62,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -297,7 +270,7 @@
       "offset_days": 4,
       "icon": "💻",
       "date": "2026-11-30",
-      "countdown": 66,
+      "countdown": 65,
       "year": 2026,
       "origin": "网一是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -324,7 +297,7 @@
       "day": 12,
       "icon": "🧾",
       "date": "2026-12-12",
-      "countdown": 78,
+      "countdown": 77,
       "year": 2026,
       "origin": "双12是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -351,7 +324,7 @@
       "day": 25,
       "icon": "🎄",
       "date": "2026-12-25",
-      "countdown": 91,
+      "countdown": 90,
       "year": 2026,
       "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -380,7 +353,7 @@
       "day": 14,
       "icon": "❤️",
       "date": "2027-02-14",
-      "countdown": 142,
+      "countdown": 141,
       "year": 2027,
       "origin": "情人节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -409,7 +382,7 @@
       "day": 17,
       "icon": "🧧",
       "date": "2027-02-17",
-      "countdown": 145,
+      "countdown": 144,
       "year": 2027,
       "origin": "春节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -436,7 +409,7 @@
       "day": 3,
       "icon": "🏮",
       "date": "2027-03-03",
-      "countdown": 159,
+      "countdown": 158,
       "year": 2027,
       "origin": "元宵节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -461,7 +434,7 @@
       "rule": "easter",
       "icon": "🥚",
       "date": "2027-03-28",
-      "countdown": 184,
+      "countdown": 183,
       "year": 2027,
       "origin": "复活节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -490,7 +463,7 @@
       "day": 4,
       "icon": "🌿",
       "date": "2027-04-04",
-      "countdown": 191,
+      "countdown": 190,
       "year": 2027,
       "origin": "清明节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -517,7 +490,7 @@
       "day": 1,
       "icon": "🛠️",
       "date": "2027-05-01",
-      "countdown": 218,
+      "countdown": 217,
       "year": 2027,
       "origin": "劳动节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -545,7 +518,7 @@
       "nth": 2,
       "icon": "🌸",
       "date": "2027-05-09",
-      "countdown": 226,
+      "countdown": 225,
       "year": 2027,
       "origin": "母亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -575,7 +548,7 @@
       "nth": -1,
       "icon": "🇺🇸",
       "date": "2027-05-31",
-      "countdown": 248,
+      "countdown": 247,
       "year": 2027,
       "origin": "Memorial Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -604,7 +577,7 @@
       "day": 18,
       "icon": "📦",
       "date": "2027-06-18",
-      "countdown": 266,
+      "countdown": 265,
       "year": 2027,
       "origin": "618是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -631,7 +604,7 @@
       "day": 19,
       "icon": "🚣",
       "date": "2027-06-19",
-      "countdown": 267,
+      "countdown": 266,
       "year": 2027,
       "origin": "端午节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -659,9 +632,38 @@
       "nth": 3,
       "icon": "👔",
       "date": "2027-06-20",
-      "countdown": 268,
+      "countdown": 267,
       "year": 2027,
       "origin": "父亲节是美国市场的重要节日或零售节点。",
+      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
+      "customs": [
+        "家庭消费",
+        "礼品采购",
+        "平台促销",
+        "线下零售活动"
+      ],
+      "consumption": [
+        "礼赠类消费",
+        "平台大促",
+        "家庭出行与户外",
+        "零售门店活动"
+      ],
+      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "independence-day",
+      "name": "独立日",
+      "market": "US",
+      "type": "holiday",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 7,
+      "day": 4,
+      "icon": "🎆",
+      "date": "2027-07-04",
+      "countdown": 281,
+      "year": 2027,
+      "origin": "独立日是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
       "customs": [
         "家庭消费",
@@ -705,24 +707,25 @@
     }
   ],
   "lead_story": {
-    "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - Yahoo Finance",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5\" target=\"_blank\">MobileX Expands Digital Reta",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5",
+    "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5\" target=\"_",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5",
     "published": "Tue, 22 Sep 2026 13:00:00 GMT",
     "published_iso": "2026-09-22T13:00:00+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 60.5,
-    "freshness_label": "近3天",
+    "hours_since_published": 83.5,
+    "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
       "channels": [
         "Amazon",
-        "Best Buy"
+        "Best Buy",
+        "Target"
       ],
       "categories": []
     },
-    "_score": 327,
+    "_score": 344,
     "display_title": "MobileX Expands Digital Retail Presence...",
     "tags": [
       "🛒 渠道零售",
@@ -736,24 +739,25 @@
   "lead_summary": "北美平台与零售动态仍是今天最值得跟进的外部信号。",
   "headline_trio": [
     {
-      "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5\" target=\"_blank\">MobileX Expands Digital Reta",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5",
+      "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - PR Newswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5",
       "published": "Tue, 22 Sep 2026 13:00:00 GMT",
       "published_iso": "2026-09-22T13:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 60.5,
-      "freshness_label": "近3天",
+      "hours_since_published": 83.5,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
           "Amazon",
-          "Best Buy"
+          "Best Buy",
+          "Target"
         ],
         "categories": []
       },
-      "_score": 327,
+      "_score": 344,
       "display_title": "MobileX Expands Digital Retail Presence...",
       "tags": [
         "🛒 渠道零售",
@@ -765,44 +769,44 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Amazon leads U.S. retail spending share, lags Walmart for grocery share - Talk Business & Politics",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXQ5VkxJNEk2b3FKeUtidVZqaFBaUGc1TTIyN3h2R3dkNTNVc053YVZkbU42djBka1luSFd4SUJRMXVMQXlKZktObDlxUmFTbDg2U1dRckR6ZUZBY0FLZUFlRFlGeV85ZjFjeUNxSkFOUDgxMm9FSmJGdExJMVZZUkV0N1AxN1dpMHV0WXR1WDRZUl9Kd1ZVZEk5RDcwbE1PZ0VWWXB3?oc=5\" target=\"_blank\">Amazon leads U.S. retai",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXQ5VkxJNEk2b3FKeUtidVZqaFBaUGc1TTIyN3h2R3dkNTNVc053YVZkbU42djBka1luSFd4SUJRMXVMQXlKZktObDlxUmFTbDg2U1dRckR6ZUZBY0FLZUFlRFlGeV85ZjFjeUNxSkFOUDgxMm9FSmJGdExJMVZZUkV0N1AxN1dpMHV0WXR1WDRZUl9Kd1ZVZEk5RDcwbE1PZ0VWWXB3?oc=5",
-      "published": "Fri, 18 Sep 2026 16:13:00 GMT",
-      "published_iso": "2026-09-18T16:13:00+00:00",
+      "title": "Best Buy and Amazon Expand Fire TV Partnership, Opening Fire TV Ad Inventory to Best Buy Ads - finance.yahoo.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUl4bUJwaUo4MmlwSFZXb1dUWHJ6OHZWYWRxdkdRN2Q5SThMM1phc19DMm92UUtqVGctbGdrZ1ppUmxVUTZkRTItNV9fTWluR1daY2xaOWtCOXRSSDdGTXE0RU5TQ2hiQ3YxcHQ2WFFKd0ZxaENoWC1lekJsV0V1Y0JsRjZiSXk0ZUJtRFJld2ttVXlNYmhuNXdnVQ?oc=5\" target=\"_blank\">Best Buy and Amazon Expand Fire TV Pa",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUl4bUJwaUo4MmlwSFZXb1dUWHJ6OHZWYWRxdkdRN2Q5SThMM1phc19DMm92UUtqVGctbGdrZ1ppUmxVUTZkRTItNV9fTWluR1daY2xaOWtCOXRSSDdGTXE0RU5TQ2hiQ3YxcHQ2WFFKd0ZxaENoWC1lekJsV0V1Y0JsRjZiSXk0ZUJtRFJld2ttVXlNYmhuNXdnVQ?oc=5",
+      "published": "Wed, 23 Sep 2026 11:00:00 GMT",
+      "published_iso": "2026-09-23T11:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 153.2,
-      "freshness_label": "近7天",
+      "hours_since_published": 61.5,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
           "Amazon",
-          "Walmart"
+          "Best Buy"
         ],
         "categories": []
       },
-      "_score": 320,
-      "display_title": "Amazon leads U.S. retail spending...",
+      "_score": 329,
+      "display_title": "Best Buy and Amazon Expand Fire TV...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Amazon will let sellers manage Walmart, eBay, Shopify and TikTok sales from their Amazon dashboards - GeekWire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFYyUWtnbWZUZkU4bXZNMlFVQVpOb2hiMjMxNUpxMW1MY1pxbHN1Zk5IcF95VGVCcGZoRUhzd19EYlVwaGZPejZ1d3FxeXVYOV91b3RCLVNFRGNRWkhRYnA5aWNwMTRCeTAyXzBnTVNJc08tMllPMlI3b3ctNFRMb3dEQnJPbHUyZ0dSbmhxaDQ2WkZnQ0hpb2s1Q0VhMWdxQnBrdTNHb1B3RUJxYTFfaGJENlN3dy1DaE53Y1V5OV9sLTFoNmFr?o",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFYyUWtnbWZUZkU4bXZNMlFVQVpOb2hiMjMxNUpxMW1MY1pxbHN1Zk5IcF95VGVCcGZoRUhzd19EYlVwaGZPejZ1d3FxeXVYOV91b3RCLVNFRGNRWkhRYnA5aWNwMTRCeTAyXzBnTVNJc08tMllPMlI3b3ctNFRMb3dEQnJPbHUyZ0dSbmhxaDQ2WkZnQ0hpb2s1Q0VhMWdxQnBrdTNHb1B3RUJxYTFfaGJENlN3dy1DaE53Y1V5OV9sLTFoNmFr?oc=5",
-      "published": "Thu, 24 Sep 2026 14:00:35 GMT",
-      "published_iso": "2026-09-24T14:00:35+00:00",
+      "title": "Sellers can now manage sales across Amazon, eBay, Shopify, TikTok, and Walmart from Seller Central - About Amazon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lUWUszZ0lhaXRhM0FRb2hvTjA2QlBINWhKbEcydkpSRW5uak1jeUZfVGYxUzcyRE55SDNfZHQ0UHF3OW1ab0h4TExxTG5zMmF3YTQyZlA4NWZOVXJmNnhUZC1hb1cySzdyY0NMcURIc0JoQnRKU1puYnhULXRpbkdQLUd3R1h4WDdiSlp6THBWX2doTmFQRUgxX3U?oc=5\" target=\"_blank\">Sellers can now manage sales across ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lUWUszZ0lhaXRhM0FRb2hvTjA2QlBINWhKbEcydkpSRW5uak1jeUZfVGYxUzcyRE55SDNfZHQ0UHF3OW1ab0h4TExxTG5zMmF3YTQyZlA4NWZOVXJmNnhUZC1hb1cySzdyY0NMcURIc0JoQnRKU1puYnhULXRpbkdQLUd3R1h4WDdiSlp6THBWX2doTmFQRUgxX3U?oc=5",
+      "published": "Thu, 24 Sep 2026 13:06:08 GMT",
+      "published_iso": "2026-09-24T13:06:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 11.4,
-      "freshness_label": "24h内",
+      "hours_since_published": 35.4,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -811,8 +815,8 @@
         ],
         "categories": []
       },
-      "_score": 304,
-      "display_title": "Amazon will let sellers manage Walmart...",
+      "_score": 319,
+      "display_title": "Sellers can now manage sales across...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
@@ -832,7 +836,7 @@
       "published_iso": "2026-09-21T10:29:27+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 87.0,
+      "hours_since_published": 110.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -862,7 +866,7 @@
       "published_iso": "2026-09-24T01:15:04+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 24.2,
+      "hours_since_published": 47.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -884,14 +888,14 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Kendall Jenner’s latest accessory? A pair of Beats headphones you can customize to match your look - Page Six",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3VqOW9waC1LenRYMDlaZFJQWGp3cWM2MWthU0p0Rkd2VEdmMUF4aFF3eWFPa3BqdjlMSGFCVjQ1TzlfTDBKaThjREZXVDB0bEpKZjBfM01zQXFqbkhfUDQxcWUyeTNPaFczNW9FTV9XU1lpOTNlZ29vT2ZVa2xSZmtBdnN4TGVneTFheE96TUFSOWZydGl1bTFn?oc=5\" target=\"_blank\">Kendall Jenner’s latest accessory? A pa",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3VqOW9waC1LenRYMDlaZFJQWGp3cWM2MWthU0p0Rkd2VEdmMUF4aFF3eWFPa3BqdjlMSGFCVjQ1TzlfTDBKaThjREZXVDB0bEpKZjBfM01zQXFqbkhfUDQxcWUyeTNPaFczNW9FTV9XU1lpOTNlZ29vT2ZVa2xSZmtBdnN4TGVneTFheE96TUFSOWZydGl1bTFn?oc=5",
-      "published": "Tue, 22 Sep 2026 15:31:00 GMT",
-      "published_iso": "2026-09-22T15:31:00+00:00",
+      "title": "I tried the new Beats 360 headphones. Here's what I liked - USA Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXdRRktiRjVrUW5WU3lnOUdKTnJNcy1XaklvVDZUOXdiUTVYM2g0M1pJQlJzOXNpaGFTeFF2WmQwTm5KZVczSE9UclFHQjI0MExUVzd4V0tzLXFyYXF2cENSMU1sTnEtMGVzaU9US2NhZlhJQ2pMLU5WZy1mVTdUXzZ4U09LaWY1T3BRZA?oc=5\" target=\"_blank\">I tried the new Beats 360 headphones. Here's what I liked",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXdRRktiRjVrUW5WU3lnOUdKTnJNcy1XaklvVDZUOXdiUTVYM2g0M1pJQlJzOXNpaGFTeFF2WmQwTm5KZVczSE9UclFHQjI0MExUVzd4V0tzLXFyYXF2cENSMU1sTnEtMGVzaU9US2NhZlhJQ2pMLU5WZy1mVTdUXzZ4U09LaWY1T3BRZA?oc=5",
+      "published": "Thu, 24 Sep 2026 19:17:00 GMT",
+      "published_iso": "2026-09-24T19:17:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 57.9,
+      "hours_since_published": 29.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -903,7 +907,7 @@
         ]
       },
       "_score": 250,
-      "display_title": "Kendall Jenner’s latest accessory? A...",
+      "display_title": "I tried the new Beats 360 headphones...",
       "tags": [
         "🎧 耳机音频"
       ],
@@ -920,7 +924,7 @@
       "published_iso": "2026-09-23T13:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 36.5,
+      "hours_since_published": 59.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -942,14 +946,14 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Beats 360 Turns Your Headphones Into a Mix-and-Match Accessory - hypebeast.com",
+      "title": "Beats 360 Turns Your Headphones Into a Mix-and-Match Accessory - Hypebeast",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHFRcTRibFpDNVQtTTlpb0Vrd1ZjNUswRDVkRl9jTG5rSmZyMU9pQ3dJYlRXMWpDMUZYMHNBSmoxRUJyNkNISFZlNUpHRWFkUHUtbTBqTUFvRVl3TWgzWEh5RnpDZms5M21KcjFmMzJDdHBrUVE2eXFLaks0aVFGZEJ4cUJiQk5B?oc=5\" target=\"_blank\">Beats 360 Turns Your Headphones Into a Mix-and-Match Accessory<",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHFRcTRibFpDNVQtTTlpb0Vrd1ZjNUswRDVkRl9jTG5rSmZyMU9pQ3dJYlRXMWpDMUZYMHNBSmoxRUJyNkNISFZlNUpHRWFkUHUtbTBqTUFvRVl3TWgzWEh5RnpDZms5M21KcjFmMzJDdHBrUVE2eXFLaks0aVFGZEJ4cUJiQk5B?oc=5",
-      "published": "Wed, 23 Sep 2026 06:22:35 GMT",
-      "published_iso": "2026-09-23T06:22:35+00:00",
+      "published": "Wed, 23 Sep 2026 06:23:53 GMT",
+      "published_iso": "2026-09-23T06:23:53+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 43.1,
+      "hours_since_published": 66.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -972,15 +976,15 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "The new Beats headphones are made for workouts - The Verge",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9fUHVoSnRGelNsY25makczeWFBanNvMjdWNEU1bi1LNUdlM0NoLU40ZDBtaWtfdDN1YTRWcFZtM1FoREpMMHdLNHpuTHFwelpZa2VBVmRMYXY4WnNmemlkdGdoMTZWdDhJZGxNdHh3ZTMzZw?oc=5\" target=\"_blank\">The new Beats headphones are made for workouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fUHVoSnRGelNsY25makczeWFBanNvMjdWNEU1bi1LNUdlM0NoLU40ZDBtaWtfdDN1YTRWcFZtM1FoREpMMHdLNHpuTHFwelpZa2VBVmRMYXY4WnNmemlkdGdoMTZWdDhJZGxNdHh3ZTMzZw?oc=5",
-      "published": "Tue, 22 Sep 2026 14:00:00 GMT",
-      "published_iso": "2026-09-22T14:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
+      "title": "Kendall Jenner’s latest accessory? A pair of Beats headphones you can customize to match your look - Page Six",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3VqOW9waC1LenRYMDlaZFJQWGp3cWM2MWthU0p0Rkd2VEdmMUF4aFF3eWFPa3BqdjlMSGFCVjQ1TzlfTDBKaThjREZXVDB0bEpKZjBfM01zQXFqbkhfUDQxcWUyeTNPaFczNW9FTV9XU1lpOTNlZ29vT2ZVa2xSZmtBdnN4TGVneTFheE96TUFSOWZydGl1bTFn?oc=5\" target=\"_blank\">Kendall Jenner’s latest accessory? A pa",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3VqOW9waC1LenRYMDlaZFJQWGp3cWM2MWthU0p0Rkd2VEdmMUF4aFF3eWFPa3BqdjlMSGFCVjQ1TzlfTDBKaThjREZXVDB0bEpKZjBfM01zQXFqbkhfUDQxcWUyeTNPaFczNW9FTV9XU1lpOTNlZ29vT2ZVa2xSZmtBdnN4TGVneTFheE96TUFSOWZydGl1bTFn?oc=5",
+      "published": "Tue, 22 Sep 2026 15:31:00 GMT",
+      "published_iso": "2026-09-22T15:31:00+00:00",
+      "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 59.5,
-      "freshness_label": "近3天",
+      "hours_since_published": 81.0,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
           "Beats"
@@ -990,11 +994,10 @@
           "headphone"
         ]
       },
-      "_score": 242,
-      "display_title": "The new Beats headphones are made for...",
+      "_score": 235,
+      "display_title": "Kendall Jenner’s latest accessory? A...",
       "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
+        "🎧 耳机音频"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
@@ -1004,24 +1007,25 @@
   ],
   "channel_news": [
     {
-      "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5\" target=\"_blank\">MobileX Expands Digital Reta",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5",
+      "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - PR Newswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5",
       "published": "Tue, 22 Sep 2026 13:00:00 GMT",
       "published_iso": "2026-09-22T13:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 60.5,
-      "freshness_label": "近3天",
+      "hours_since_published": 83.5,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
           "Amazon",
-          "Best Buy"
+          "Best Buy",
+          "Target"
         ],
         "categories": []
       },
-      "_score": 327,
+      "_score": 344,
       "display_title": "MobileX Expands Digital Retail Presence...",
       "tags": [
         "🛒 渠道零售",
@@ -1033,44 +1037,44 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Amazon leads U.S. retail spending share, lags Walmart for grocery share - Talk Business & Politics",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXQ5VkxJNEk2b3FKeUtidVZqaFBaUGc1TTIyN3h2R3dkNTNVc053YVZkbU42djBka1luSFd4SUJRMXVMQXlKZktObDlxUmFTbDg2U1dRckR6ZUZBY0FLZUFlRFlGeV85ZjFjeUNxSkFOUDgxMm9FSmJGdExJMVZZUkV0N1AxN1dpMHV0WXR1WDRZUl9Kd1ZVZEk5RDcwbE1PZ0VWWXB3?oc=5\" target=\"_blank\">Amazon leads U.S. retai",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXQ5VkxJNEk2b3FKeUtidVZqaFBaUGc1TTIyN3h2R3dkNTNVc053YVZkbU42djBka1luSFd4SUJRMXVMQXlKZktObDlxUmFTbDg2U1dRckR6ZUZBY0FLZUFlRFlGeV85ZjFjeUNxSkFOUDgxMm9FSmJGdExJMVZZUkV0N1AxN1dpMHV0WXR1WDRZUl9Kd1ZVZEk5RDcwbE1PZ0VWWXB3?oc=5",
-      "published": "Fri, 18 Sep 2026 16:13:00 GMT",
-      "published_iso": "2026-09-18T16:13:00+00:00",
+      "title": "Best Buy and Amazon Expand Fire TV Partnership, Opening Fire TV Ad Inventory to Best Buy Ads - finance.yahoo.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUl4bUJwaUo4MmlwSFZXb1dUWHJ6OHZWYWRxdkdRN2Q5SThMM1phc19DMm92UUtqVGctbGdrZ1ppUmxVUTZkRTItNV9fTWluR1daY2xaOWtCOXRSSDdGTXE0RU5TQ2hiQ3YxcHQ2WFFKd0ZxaENoWC1lekJsV0V1Y0JsRjZiSXk0ZUJtRFJld2ttVXlNYmhuNXdnVQ?oc=5\" target=\"_blank\">Best Buy and Amazon Expand Fire TV Pa",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUl4bUJwaUo4MmlwSFZXb1dUWHJ6OHZWYWRxdkdRN2Q5SThMM1phc19DMm92UUtqVGctbGdrZ1ppUmxVUTZkRTItNV9fTWluR1daY2xaOWtCOXRSSDdGTXE0RU5TQ2hiQ3YxcHQ2WFFKd0ZxaENoWC1lekJsV0V1Y0JsRjZiSXk0ZUJtRFJld2ttVXlNYmhuNXdnVQ?oc=5",
+      "published": "Wed, 23 Sep 2026 11:00:00 GMT",
+      "published_iso": "2026-09-23T11:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 153.2,
-      "freshness_label": "近7天",
+      "hours_since_published": 61.5,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
           "Amazon",
-          "Walmart"
+          "Best Buy"
         ],
         "categories": []
       },
-      "_score": 320,
-      "display_title": "Amazon leads U.S. retail spending...",
+      "_score": 329,
+      "display_title": "Best Buy and Amazon Expand Fire TV...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Amazon will let sellers manage Walmart, eBay, Shopify and TikTok sales from their Amazon dashboards - GeekWire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFYyUWtnbWZUZkU4bXZNMlFVQVpOb2hiMjMxNUpxMW1MY1pxbHN1Zk5IcF95VGVCcGZoRUhzd19EYlVwaGZPejZ1d3FxeXVYOV91b3RCLVNFRGNRWkhRYnA5aWNwMTRCeTAyXzBnTVNJc08tMllPMlI3b3ctNFRMb3dEQnJPbHUyZ0dSbmhxaDQ2WkZnQ0hpb2s1Q0VhMWdxQnBrdTNHb1B3RUJxYTFfaGJENlN3dy1DaE53Y1V5OV9sLTFoNmFr?o",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFYyUWtnbWZUZkU4bXZNMlFVQVpOb2hiMjMxNUpxMW1MY1pxbHN1Zk5IcF95VGVCcGZoRUhzd19EYlVwaGZPejZ1d3FxeXVYOV91b3RCLVNFRGNRWkhRYnA5aWNwMTRCeTAyXzBnTVNJc08tMllPMlI3b3ctNFRMb3dEQnJPbHUyZ0dSbmhxaDQ2WkZnQ0hpb2s1Q0VhMWdxQnBrdTNHb1B3RUJxYTFfaGJENlN3dy1DaE53Y1V5OV9sLTFoNmFr?oc=5",
-      "published": "Thu, 24 Sep 2026 14:00:35 GMT",
-      "published_iso": "2026-09-24T14:00:35+00:00",
+      "title": "Sellers can now manage sales across Amazon, eBay, Shopify, TikTok, and Walmart from Seller Central - About Amazon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lUWUszZ0lhaXRhM0FRb2hvTjA2QlBINWhKbEcydkpSRW5uak1jeUZfVGYxUzcyRE55SDNfZHQ0UHF3OW1ab0h4TExxTG5zMmF3YTQyZlA4NWZOVXJmNnhUZC1hb1cySzdyY0NMcURIc0JoQnRKU1puYnhULXRpbkdQLUd3R1h4WDdiSlp6THBWX2doTmFQRUgxX3U?oc=5\" target=\"_blank\">Sellers can now manage sales across ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lUWUszZ0lhaXRhM0FRb2hvTjA2QlBINWhKbEcydkpSRW5uak1jeUZfVGYxUzcyRE55SDNfZHQ0UHF3OW1ab0h4TExxTG5zMmF3YTQyZlA4NWZOVXJmNnhUZC1hb1cySzdyY0NMcURIc0JoQnRKU1puYnhULXRpbkdQLUd3R1h4WDdiSlp6THBWX2doTmFQRUgxX3U?oc=5",
+      "published": "Thu, 24 Sep 2026 13:06:08 GMT",
+      "published_iso": "2026-09-24T13:06:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 11.4,
-      "freshness_label": "24h内",
+      "hours_since_published": 35.4,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1079,8 +1083,8 @@
         ],
         "categories": []
       },
-      "_score": 304,
-      "display_title": "Amazon will let sellers manage Walmart...",
+      "_score": 319,
+      "display_title": "Sellers can now manage sales across...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
@@ -1098,7 +1102,7 @@
       "published_iso": "2026-09-23T21:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 28.5,
+      "hours_since_published": 51.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1127,8 +1131,8 @@
       "published_iso": "2026-09-24T13:29:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 12.0,
-      "freshness_label": "24h内",
+      "hours_since_published": 35.1,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1136,7 +1140,7 @@
         ],
         "categories": []
       },
-      "_score": 288,
+      "_score": 273,
       "display_title": "The Backroom: A status check on...",
       "tags": [
         "🛒 渠道零售",
@@ -1148,64 +1152,63 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Big-Box Briefing: Best Buy puts CTV at the center of its retail media pitch - Modern Retail",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORDBJYzl1eVpNd2ZOTWxLWm4ycWhZV0lQLTBfSkdIcWpxNXRtV0pfNVVTa1dGLXlpUU0wVXNOTWI3ZXRxVTZhb3FVZkdsMVg5WmpvM0U5RE5DbjFxd0hJWklJdzdLclRtZGZqbFIwMFMtc09NRHNCSENxNS1ZVGRIX2VJN0xiN2N3cHFiVy0zNnhNa0lMcHN3Y05ZR1VOQVkxVENIM3ZJdkoweWVHQXE2ZGxfMA?oc=5\" target=\"_blank\">Big-B",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDBJYzl1eVpNd2ZOTWxLWm4ycWhZV0lQLTBfSkdIcWpxNXRtV0pfNVVTa1dGLXlpUU0wVXNOTWI3ZXRxVTZhb3FVZkdsMVg5WmpvM0U5RE5DbjFxd0hJWklJdzdLclRtZGZqbFIwMFMtc09NRHNCSENxNS1ZVGRIX2VJN0xiN2N3cHFiVy0zNnhNa0lMcHN3Y05ZR1VOQVkxVENIM3ZJdkoweWVHQXE2ZGxfMA?oc=5",
-      "published": "Thu, 24 Sep 2026 14:04:55 GMT",
-      "published_iso": "2026-09-24T14:04:55+00:00",
-      "source": "Google News - Retail Platforms",
+      "title": "Target is opening a store in the Hamptons. It’s not red.",
+      "summary": "<p>The retailer&rsquo;s signature color is not part of the external facade of the building at its new location in Bridgehampton, New York.</p>",
+      "url": "https://www.retaildive.com/news/target-store-hamptons-bridgehampton-gray/831356/",
+      "published": "Fri, 25 Sep 2026 11:41:00 -0400",
+      "published_iso": "2026-09-25T15:41:00+00:00",
+      "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 11.4,
+      "hours_since_published": 8.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Best Buy"
+          "Target"
         ],
         "categories": []
       },
-      "_score": 280,
-      "display_title": "Big-Box Briefing: Best Buy puts CTV at...",
+      "_score": 268,
+      "display_title": "Target is opening a store in the...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "products": [
     {
-      "name": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
-      "summary": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel ",
-      "date": "2026-09-24T14:19:23-04:00",
-      "published_iso": "2026-09-24T18:19:23+00:00",
-      "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+      "name": "Sony and UMG are suing Suno again",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from Y",
+      "date": "2026-09-25T11:51:56-04:00",
+      "published_iso": "2026-09-25T15:51:56+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
       "source": "The Verge",
-      "_score": 67,
-      "hours_since_published": 7.1,
+      "_score": 77,
+      "hours_since_published": 8.7,
       "freshness_label": "24h内",
       "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart"
+        "brands": [
+          "Sony"
         ],
+        "channels": [],
         "categories": []
       },
-      "display_title": "Sadly, this $1,549 RTX 5070-equipped...",
-      "display_summary": "While PC component prices remain high, you can",
+      "display_title": "Sony and UMG are suing Suno again",
+      "display_summary": "Sony and Universal Music Group filed yet anoth",
       "tags": [
-        "🏬 平台电商",
-        "💰 价格促销"
+        "🚀 新品"
       ],
-      "impact_area": "电商",
-      "judgement_label": "价格促销",
-      "product_intro": "While PC component prices remain。",
-      "importance": "低",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+      "impact_area": "品牌营销",
+      "judgement_label": "竞品观察",
+      "product_intro": "Sony and Universal Music Group filed。",
+      "importance": "中",
+      "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
       "name": "Are Clip-On Open-Ear Headphones the Next Big Alternative to Earbuds? - PCMag Middle East",
@@ -1215,7 +1218,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWhqdVI5TE1zek5NX216UjhNZU5JZWxnNEY1bVlJazVhc05FemN0RDJqSEZ1UjI4aWdXTHUyODEtZHdzaGs3Z05pc3ppSmJ5Wk00bDRmMzJZZHRNdW90NnBuT2VHc1dwSGVkRC1GUHJxOVBlN09vSzVOY3ROZXVtc2hGeGJ3YzAwbkhESWJ1bVRBNjJYRmR3UHo0c3NWV3V6ajJfYVQ5WlZLSmc?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 59,
-      "hours_since_published": 87.0,
+      "hours_since_published": 110.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1240,112 +1243,110 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"mic",
-      "date": "2026-09-24T19:42:39-04:00",
-      "published_iso": "2026-09-24T23:42:39+00:00",
-      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-      "source": "The Verge",
-      "_score": 53,
-      "hours_since_published": 1.7,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "earbuds"
-        ]
-      },
-      "display_title": "Qualcomm’s new ‘Elite’ sound chip might...",
-      "display_summary": "What if your wireless earbuds - or audio glass",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "行业趋势",
-      "product_intro": "What if your wireless earbuds - or。",
-      "importance": "低",
-      "business_note": "earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "name": "Muse sure looks a lot like OpenClaw",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose epon",
-      "date": "2026-09-24T13:10:38-04:00",
-      "published_iso": "2026-09-24T17:10:38+00:00",
-      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "source": "The Verge",
-      "_score": 51,
-      "hours_since_published": 8.3,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "Muse sure looks a lot like OpenClaw",
-      "display_summary": "We seem to be entering into an AI agent renais",
-      "tags": [
-        "🛒 渠道零售",
-        "🚀 新品发布"
-      ],
-      "impact_area": "渠道销售",
-      "judgement_label": "渠道动态",
-      "product_intro": "We seem to be entering into an AI。",
-      "importance": "低",
-      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
-      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
-    },
-    {
-      "name": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the ",
-      "date": "2026-09-24T21:25:53-04:00",
-      "published_iso": "2026-09-25T01:25:53+00:00",
-      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "name": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+      "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even ",
+      "date": "2026-09-25T14:18:57-04:00",
+      "published_iso": "2026-09-25T18:18:57+00:00",
+      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.0,
+      "hours_since_published": 6.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "Microsoft is killing off the ‘Copilot...",
-      "display_summary": "Remember when Microsoft wanted everyone to kno",
+      "display_title": "Roku&#8217;s first OLED TVs are up to...",
+      "display_summary": "Roku recently launched its first-ever OLED TVs",
       "tags": [
-        "🚀 新品"
+        "🚀 新品发布",
+        "💰 价格促销"
       ],
       "impact_area": "品牌营销",
-      "judgement_label": "业务观察",
-      "product_intro": "Remember when Microsoft wanted。",
+      "judgement_label": "新品发布",
+      "product_intro": "Roku recently launched its first-ever。",
       "importance": "低",
       "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only ava",
-      "date": "2026-09-24T15:59:26-04:00",
-      "published_iso": "2026-09-24T19:59:26+00:00",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "name": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+      "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in pla",
+      "date": "2026-09-25T13:23:30-04:00",
+      "published_iso": "2026-09-25T17:23:30+00:00",
+      "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.5,
+      "hours_since_published": 7.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "Gemini 3.8 Live with Live Avatar gives...",
-      "display_summary": "Google's new Gemini 3.8 Live update lets users",
+      "display_title": "These camera apps give you more control...",
+      "display_summary": "One of the questionable limitations of the iPh",
+      "tags": [
+        "🚁 无人机影像"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "业务观察",
+      "product_intro": "One of the questionable limitations。",
+      "importance": "低",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "name": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus e",
+      "date": "2026-09-25T13:01:36-04:00",
+      "published_iso": "2026-09-25T17:01:36+00:00",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 7.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Tesla&#8217;s Optimus robot is going...",
+      "display_summary": "Hitting its goal of making 20,000 Optimus robo",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "Google's new Gemini 3.8 Live update。",
+      "product_intro": "Hitting its goal of making 20,000。",
+      "importance": "低",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "name": "Meta makes the Muse filesystem even more accessible",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because ",
+      "date": "2026-09-25T12:49:53-04:00",
+      "published_iso": "2026-09-25T16:49:53+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 7.7,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Meta makes the Muse filesystem even...",
+      "display_summary": "Yesterday, with a little prodding, it was disc",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "业务观察",
+      "product_intro": "Yesterday, with a little prodding, it。",
       "importance": "低",
       "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
@@ -1355,7 +1356,7 @@
     {
       "name": "headphone",
       "type": "品类",
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "title": "Are Clip-On Open-Ear Headphones the Next Big Alternative to Earbuds? - PCMag Middle East",
@@ -1365,7 +1366,7 @@
           "published_iso": "2026-09-21T10:29:27+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 87.0,
+          "hours_since_published": 110.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1395,7 +1396,7 @@
           "published_iso": "2026-09-24T01:15:04+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 24.2,
+          "hours_since_published": 47.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1421,27 +1422,28 @@
     {
       "name": "Amazon",
       "type": "渠道",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - Yahoo Finance",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5\" target=\"_blank\">MobileX Expands Digital Reta",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5",
+          "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - PR Newswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5\" target=\"_",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5",
           "published": "Tue, 22 Sep 2026 13:00:00 GMT",
           "published_iso": "2026-09-22T13:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 60.5,
-          "freshness_label": "近3天",
+          "hours_since_published": 83.5,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Amazon",
-              "Best Buy"
+              "Best Buy",
+              "Target"
             ],
             "categories": []
           },
-          "_score": 327,
+          "_score": 344,
           "display_title": "MobileX Expands Digital Retail Presence...",
           "tags": [
             "🛒 渠道零售",
@@ -1453,32 +1455,32 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Amazon leads U.S. retail spending share, lags Walmart for grocery share - Talk Business & Politics",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXQ5VkxJNEk2b3FKeUtidVZqaFBaUGc1TTIyN3h2R3dkNTNVc053YVZkbU42djBka1luSFd4SUJRMXVMQXlKZktObDlxUmFTbDg2U1dRckR6ZUZBY0FLZUFlRFlGeV85ZjFjeUNxSkFOUDgxMm9FSmJGdExJMVZZUkV0N1AxN1dpMHV0WXR1WDRZUl9Kd1ZVZEk5RDcwbE1PZ0VWWXB3?oc=5\" target=\"_blank\">Amazon leads U.S. retai",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXQ5VkxJNEk2b3FKeUtidVZqaFBaUGc1TTIyN3h2R3dkNTNVc053YVZkbU42djBka1luSFd4SUJRMXVMQXlKZktObDlxUmFTbDg2U1dRckR6ZUZBY0FLZUFlRFlGeV85ZjFjeUNxSkFOUDgxMm9FSmJGdExJMVZZUkV0N1AxN1dpMHV0WXR1WDRZUl9Kd1ZVZEk5RDcwbE1PZ0VWWXB3?oc=5",
-          "published": "Fri, 18 Sep 2026 16:13:00 GMT",
-          "published_iso": "2026-09-18T16:13:00+00:00",
+          "title": "Best Buy and Amazon Expand Fire TV Partnership, Opening Fire TV Ad Inventory to Best Buy Ads - finance.yahoo.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUl4bUJwaUo4MmlwSFZXb1dUWHJ6OHZWYWRxdkdRN2Q5SThMM1phc19DMm92UUtqVGctbGdrZ1ppUmxVUTZkRTItNV9fTWluR1daY2xaOWtCOXRSSDdGTXE0RU5TQ2hiQ3YxcHQ2WFFKd0ZxaENoWC1lekJsV0V1Y0JsRjZiSXk0ZUJtRFJld2ttVXlNYmhuNXdnVQ?oc=5\" target=\"_blank\">Best Buy and Amazon Expand Fire TV Pa",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUl4bUJwaUo4MmlwSFZXb1dUWHJ6OHZWYWRxdkdRN2Q5SThMM1phc19DMm92UUtqVGctbGdrZ1ppUmxVUTZkRTItNV9fTWluR1daY2xaOWtCOXRSSDdGTXE0RU5TQ2hiQ3YxcHQ2WFFKd0ZxaENoWC1lekJsV0V1Y0JsRjZiSXk0ZUJtRFJld2ttVXlNYmhuNXdnVQ?oc=5",
+          "published": "Wed, 23 Sep 2026 11:00:00 GMT",
+          "published_iso": "2026-09-23T11:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 153.2,
-          "freshness_label": "近7天",
+          "hours_since_published": 61.5,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Amazon",
-              "Walmart"
+              "Best Buy"
             ],
             "categories": []
           },
-          "_score": 320,
-          "display_title": "Amazon leads U.S. retail spending...",
+          "_score": 329,
+          "display_title": "Best Buy and Amazon Expand Fire TV...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
@@ -1496,7 +1498,7 @@
           "published_iso": "2026-09-24T01:15:04+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 24.2,
+          "hours_since_published": 47.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1518,14 +1520,14 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Kendall Jenner’s latest accessory? A pair of Beats headphones you can customize to match your look - Page Six",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3VqOW9waC1LenRYMDlaZFJQWGp3cWM2MWthU0p0Rkd2VEdmMUF4aFF3eWFPa3BqdjlMSGFCVjQ1TzlfTDBKaThjREZXVDB0bEpKZjBfM01zQXFqbkhfUDQxcWUyeTNPaFczNW9FTV9XU1lpOTNlZ29vT2ZVa2xSZmtBdnN4TGVneTFheE96TUFSOWZydGl1bTFn?oc=5\" target=\"_blank\">Kendall Jenner’s latest accessory? A pa",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3VqOW9waC1LenRYMDlaZFJQWGp3cWM2MWthU0p0Rkd2VEdmMUF4aFF3eWFPa3BqdjlMSGFCVjQ1TzlfTDBKaThjREZXVDB0bEpKZjBfM01zQXFqbkhfUDQxcWUyeTNPaFczNW9FTV9XU1lpOTNlZ29vT2ZVa2xSZmtBdnN4TGVneTFheE96TUFSOWZydGl1bTFn?oc=5",
-          "published": "Tue, 22 Sep 2026 15:31:00 GMT",
-          "published_iso": "2026-09-22T15:31:00+00:00",
+          "title": "I tried the new Beats 360 headphones. Here's what I liked - USA Today",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXdRRktiRjVrUW5WU3lnOUdKTnJNcy1XaklvVDZUOXdiUTVYM2g0M1pJQlJzOXNpaGFTeFF2WmQwTm5KZVczSE9UclFHQjI0MExUVzd4V0tzLXFyYXF2cENSMU1sTnEtMGVzaU9US2NhZlhJQ2pMLU5WZy1mVTdUXzZ4U09LaWY1T3BRZA?oc=5\" target=\"_blank\">I tried the new Beats 360 headphones. Here's what I liked",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXdRRktiRjVrUW5WU3lnOUdKTnJNcy1XaklvVDZUOXdiUTVYM2g0M1pJQlJzOXNpaGFTeFF2WmQwTm5KZVczSE9UclFHQjI0MExUVzd4V0tzLXFyYXF2cENSMU1sTnEtMGVzaU9US2NhZlhJQ2pMLU5WZy1mVTdUXzZ4U09LaWY1T3BRZA?oc=5",
+          "published": "Thu, 24 Sep 2026 19:17:00 GMT",
+          "published_iso": "2026-09-24T19:17:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 57.9,
+          "hours_since_published": 29.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1537,7 +1539,7 @@
             ]
           },
           "_score": 250,
-          "display_title": "Kendall Jenner’s latest accessory? A...",
+          "display_title": "I tried the new Beats 360 headphones...",
           "tags": [
             "🎧 耳机音频"
           ],
@@ -1549,9 +1551,140 @@
       ]
     },
     {
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 5,
+      "items": [
+        {
+          "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - PR Newswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5\" target=\"_",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5",
+          "published": "Tue, 22 Sep 2026 13:00:00 GMT",
+          "published_iso": "2026-09-22T13:00:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 83.5,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Best Buy",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 344,
+          "display_title": "MobileX Expands Digital Retail Presence...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Best Buy and Amazon Expand Fire TV Partnership, Opening Fire TV Ad Inventory to Best Buy Ads - finance.yahoo.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUl4bUJwaUo4MmlwSFZXb1dUWHJ6OHZWYWRxdkdRN2Q5SThMM1phc19DMm92UUtqVGctbGdrZ1ppUmxVUTZkRTItNV9fTWluR1daY2xaOWtCOXRSSDdGTXE0RU5TQ2hiQ3YxcHQ2WFFKd0ZxaENoWC1lekJsV0V1Y0JsRjZiSXk0ZUJtRFJld2ttVXlNYmhuNXdnVQ?oc=5\" target=\"_blank\">Best Buy and Amazon Expand Fire TV Pa",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUl4bUJwaUo4MmlwSFZXb1dUWHJ6OHZWYWRxdkdRN2Q5SThMM1phc19DMm92UUtqVGctbGdrZ1ppUmxVUTZkRTItNV9fTWluR1daY2xaOWtCOXRSSDdGTXE0RU5TQ2hiQ3YxcHQ2WFFKd0ZxaENoWC1lekJsV0V1Y0JsRjZiSXk0ZUJtRFJld2ttVXlNYmhuNXdnVQ?oc=5",
+          "published": "Wed, 23 Sep 2026 11:00:00 GMT",
+          "published_iso": "2026-09-23T11:00:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 61.5,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 329,
+          "display_title": "Best Buy and Amazon Expand Fire TV...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "type": "渠道",
+      "count": 4,
+      "items": [
+        {
+          "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - PR Newswire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5\" target=\"_",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS13c2RKZDlYb2FSSng4R0NTWWxaRWp1emtiMldCOHZJMTg2TWN4ajhURmNpNC1xbWcyU1o3bnNtRk5PSDk2QVI3SlhNQ3YwZm9tRjBEdFNUOHdFMGJLLXRNVHNMcVNmZXFjNTA5RkNvU1hiLXZzbDcxbTQ3OGRGVDN1VWtZZXo0YnZfaDFYZ0FyT3dqS2hNT05ObmF5Mk1KZFQzdURtZjJUVFVoWVFDZWlRY3MxWTBPOUx0OA?oc=5",
+          "published": "Tue, 22 Sep 2026 13:00:00 GMT",
+          "published_iso": "2026-09-22T13:00:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 83.5,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Best Buy",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 344,
+          "display_title": "MobileX Expands Digital Retail Presence...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "The Backroom: A status check on Target’s turnaround",
+          "summary": "<p>Since naming Michael Fiddelke CEO, the retailer has made headway on its recovery with sales and traffic growth despite the bumps along the way.</p>",
+          "url": "https://www.retaildive.com/news/podcast-the-backroom-target-turnaround-progress/831241/",
+          "published": "Thu, 24 Sep 2026 09:29:00 -0400",
+          "published_iso": "2026-09-24T13:29:00+00:00",
+          "source": "Retail Dive",
+          "bucket": "channel_news",
+          "hours_since_published": 35.1,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 273,
+          "display_title": "The Backroom: A status check on...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
       "name": "earbuds",
       "type": "品类",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "title": "Are Clip-On Open-Ear Headphones the Next Big Alternative to Earbuds? - PCMag Middle East",
@@ -1561,7 +1694,7 @@
           "published_iso": "2026-09-21T10:29:27+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 87.0,
+          "hours_since_published": 110.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1591,8 +1724,8 @@
           "published_iso": "2026-09-24T01:42:37+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 23.7,
-          "freshness_label": "24h内",
+          "hours_since_published": 46.8,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [],
@@ -1601,7 +1734,7 @@
               "headphone"
             ]
           },
-          "_score": 241,
+          "_score": 226,
           "display_title": "Qualcomm puts cameras in earbuds, adds...",
           "tags": [
             "🎧 耳机音频",
@@ -1613,186 +1746,63 @@
       ]
     },
     {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 4,
-      "items": [
-        {
-          "title": "MobileX Expands Digital Retail Presence with Best Buy and Amazon - Yahoo Finance",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5\" target=\"_blank\">MobileX Expands Digital Reta",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NoMDFSLVl0VEhJZU43bWlCWFd2aDdibi1pekE1ZGFjVmNEOFE5dXdINnpLbGtMZGUtZ1RiNThORVptZnRjZEt5UGpuQTROVlZYcy1OYUlxMmZKOXNfOEs4dlFjNnozT3JDVVBQNjBjRzhuVWFSMnNpa0dHUkw5ckM0SHFnVzFlbnltNktrRHUyZkRQOFdNdDR2ejE1b2ZMcUE?oc=5",
-          "published": "Tue, 22 Sep 2026 13:00:00 GMT",
-          "published_iso": "2026-09-22T13:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 60.5,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 327,
-          "display_title": "MobileX Expands Digital Retail Presence...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Best Buy Is Selling Amazon Fire TV Streaming Ads - ADWEEK",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXZFc2NjTXozRFFWR281YjdnZFZrUEx4SkZqbHhWMHJXb2hEdmVjQ2JEUUNCcGEweFIySWV3SzFORU9LczR5THpWS3pGZUNXYjVsNHJ2VFJkaTFFVm1kbFJVbm1NTUFOUFpTVmFSa21lVjdsUjBkd1E5eExvY2xVQ3cyWFE?oc=5\" target=\"_blank\">Best Buy Is Selling Amazon Fire TV Streaming Ads</a>&nbsp;&nbsp;<fon",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXZFc2NjTXozRFFWR281YjdnZFZrUEx4SkZqbHhWMHJXb2hEdmVjQ2JEUUNCcGEweFIySWV3SzFORU9LczR5THpWS3pGZUNXYjVsNHJ2VFJkaTFFVm1kbFJVbm1NTUFOUFpTVmFSa21lVjdsUjBkd1E5eExvY2xVQ3cyWFE?oc=5",
-          "published": "Wed, 23 Sep 2026 21:00:00 GMT",
-          "published_iso": "2026-09-23T21:00:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 28.5,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 289,
-          "display_title": "Best Buy Is Selling Amazon Fire TV...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
       "name": "Walmart",
-      "type": "渠道",
-      "count": 4,
-      "items": [
-        {
-          "title": "Amazon leads U.S. retail spending share, lags Walmart for grocery share - Talk Business & Politics",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXQ5VkxJNEk2b3FKeUtidVZqaFBaUGc1TTIyN3h2R3dkNTNVc053YVZkbU42djBka1luSFd4SUJRMXVMQXlKZktObDlxUmFTbDg2U1dRckR6ZUZBY0FLZUFlRFlGeV85ZjFjeUNxSkFOUDgxMm9FSmJGdExJMVZZUkV0N1AxN1dpMHV0WXR1WDRZUl9Kd1ZVZEk5RDcwbE1PZ0VWWXB3?oc=5\" target=\"_blank\">Amazon leads U.S. retai",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXQ5VkxJNEk2b3FKeUtidVZqaFBaUGc1TTIyN3h2R3dkNTNVc053YVZkbU42djBka1luSFd4SUJRMXVMQXlKZktObDlxUmFTbDg2U1dRckR6ZUZBY0FLZUFlRFlGeV85ZjFjeUNxSkFOUDgxMm9FSmJGdExJMVZZUkV0N1AxN1dpMHV0WXR1WDRZUl9Kd1ZVZEk5RDcwbE1PZ0VWWXB3?oc=5",
-          "published": "Fri, 18 Sep 2026 16:13:00 GMT",
-          "published_iso": "2026-09-18T16:13:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 153.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 320,
-          "display_title": "Amazon leads U.S. retail spending...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Amazon will let sellers manage Walmart, eBay, Shopify and TikTok sales from their Amazon dashboards - GeekWire",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFYyUWtnbWZUZkU4bXZNMlFVQVpOb2hiMjMxNUpxMW1MY1pxbHN1Zk5IcF95VGVCcGZoRUhzd19EYlVwaGZPejZ1d3FxeXVYOV91b3RCLVNFRGNRWkhRYnA5aWNwMTRCeTAyXzBnTVNJc08tMllPMlI3b3ctNFRMb3dEQnJPbHUyZ0dSbmhxaDQ2WkZnQ0hpb2s1Q0VhMWdxQnBrdTNHb1B3RUJxYTFfaGJENlN3dy1DaE53Y1V5OV9sLTFoNmFr?o",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFYyUWtnbWZUZkU4bXZNMlFVQVpOb2hiMjMxNUpxMW1MY1pxbHN1Zk5IcF95VGVCcGZoRUhzd19EYlVwaGZPejZ1d3FxeXVYOV91b3RCLVNFRGNRWkhRYnA5aWNwMTRCeTAyXzBnTVNJc08tMllPMlI3b3ctNFRMb3dEQnJPbHUyZ0dSbmhxaDQ2WkZnQ0hpb2s1Q0VhMWdxQnBrdTNHb1B3RUJxYTFfaGJENlN3dy1DaE53Y1V5OV9sLTFoNmFr?oc=5",
-          "published": "Thu, 24 Sep 2026 14:00:35 GMT",
-          "published_iso": "2026-09-24T14:00:35+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 11.4,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart"
-            ],
-            "categories": []
-          },
-          "_score": 304,
-          "display_title": "Amazon will let sellers manage Walmart...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "Costco",
       "type": "渠道",
       "count": 2,
       "items": [
         {
-          "title": "Amazon, Costco among companies fighting centralized tariff refund suits - cfodive.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJVaXR5QV9uMm1tZVd0TzdvTDJSM0xWZjg3MkF5My1KOXhsRkdFbE1RaU5IcTR3blVJUFdGaUE2MlBEQ1puQndhNmlGUG9oM2VjcTJtci1tYUNqMEtNcDF2eFUxUl9jV21JRmNYLWFOR1N3T0lfLU13ZDJpMFdNQkNtaWVFeFBSR1F3ejBIZWxRZ1dsQ2JuclF3T0ZqS1F5ZENzTWFkNDE?oc=5\" target=\"_blank\">Amazon, Costco among",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJVaXR5QV9uMm1tZVd0TzdvTDJSM0xWZjg3MkF5My1KOXhsRkdFbE1RaU5IcTR3blVJUFdGaUE2MlBEQ1puQndhNmlGUG9oM2VjcTJtci1tYUNqMEtNcDF2eFUxUl9jV21JRmNYLWFOR1N3T0lfLU13ZDJpMFdNQkNtaWVFeFBSR1F3ejBIZWxRZ1dsQ2JuclF3T0ZqS1F5ZENzTWFkNDE?oc=5",
-          "published": "Fri, 18 Sep 2026 20:56:20 GMT",
-          "published_iso": "2026-09-18T20:56:20+00:00",
+          "title": "Sellers can now manage sales across Amazon, eBay, Shopify, TikTok, and Walmart from Seller Central - About Amazon",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lUWUszZ0lhaXRhM0FRb2hvTjA2QlBINWhKbEcydkpSRW5uak1jeUZfVGYxUzcyRE55SDNfZHQ0UHF3OW1ab0h4TExxTG5zMmF3YTQyZlA4NWZOVXJmNnhUZC1hb1cySzdyY0NMcURIc0JoQnRKU1puYnhULXRpbkdQLUd3R1h4WDdiSlp6THBWX2doTmFQRUgxX3U?oc=5\" target=\"_blank\">Sellers can now manage sales across ",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lUWUszZ0lhaXRhM0FRb2hvTjA2QlBINWhKbEcydkpSRW5uak1jeUZfVGYxUzcyRE55SDNfZHQ0UHF3OW1ab0h4TExxTG5zMmF3YTQyZlA4NWZOVXJmNnhUZC1hb1cySzdyY0NMcURIc0JoQnRKU1puYnhULXRpbkdQLUd3R1h4WDdiSlp6THBWX2doTmFQRUgxX3U?oc=5",
+          "published": "Thu, 24 Sep 2026 13:06:08 GMT",
+          "published_iso": "2026-09-24T13:06:08+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 148.5,
+          "hours_since_published": 35.4,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "_score": 319,
+          "display_title": "Sellers can now manage sales across...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Fender’s 1st headphones have arrived at Amazon & Walmart — and they’re selling out fast - NJ.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkFfcVVXbm9ZbnhjdHh6XzZfeGlnb0RvOGw5WndScjhnU1dhbVVsOVg4ZTZBQTZrOGZkY3U5V01Yc3gwT3NzdURsQ1BGZWN0TnVGd1RfbWhrQ20tOUl0dWRNazhCTko0ZURJOE9hLUxQZGhVempLUnBEQ3VPTHltOXFUQlhKOGFaU3prMEJpcGhHbnRCaU5FaGN2b1pkbHlyRXdiRDlVWHZoM2wzeFNhX2xIRkRnSEFpM25ULWpabmFfOU9heXBv0g",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkFfcVVXbm9ZbnhjdHh6XzZfeGlnb0RvOGw5WndScjhnU1dhbVVsOVg4ZTZBQTZrOGZkY3U5V01Yc3gwT3NzdURsQ1BGZWN0TnVGd1RfbWhrQ20tOUl0dWRNazhCTko0ZURJOE9hLUxQZGhVempLUnBEQ3VPTHltOXFUQlhKOGFaU3prMEJpcGhHbnRCaU5FaGN2b1pkbHlyRXdiRDlVWHZoM2wzeFNhX2xIRkRnSEFpM25ULWpabmFfOU9heXBv0gHbAUFVX3lxTFBMTE9FV1MwSkxxVTVXSDRfUWlaQl9Mc3A4Tkd3NU9MNXBiWUQ3eWVhdy1iamlrY0ExMHk3LWVabEFHRUQxOWtGR2tVTzBUU0NMczJOTG04cnNnZXRwX1pwTHFSZzlQeDVTRFVtdlRTczY2M21rdnNmZGRIWllKZ096UnRzQWhnZXNfdEM0OWlwWWFlSlFGa1Qxc2E0MjNBZGNuQWw2UFZXSXZLUm5uV0VSb1hEV05PVW9lNk84MGRjTTg3MGI4SVJzRld6OEN3TGhZTE5EWEd6d18xQQ?oc=5",
+          "published": "Sat, 19 Sep 2026 16:05:00 GMT",
+          "published_iso": "2026-09-19T16:05:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 152.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
               "Amazon",
-              "Costco"
+              "Walmart"
             ],
-            "categories": []
+            "categories": [
+              "headphone"
+            ]
           },
-          "_score": 274,
-          "display_title": "Amazon, Costco among companies fighting...",
+          "_score": 252,
+          "display_title": "Fender’s 1st headphones have arrived at...",
           "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        },
-        {
-          "title": "Costco’s digital sales hit $33 billion in 2026, growing more than 20%",
-          "summary": "Costco's business is increasingly living beyond the doors of its core warehouses, as digital sales and partnerships with platforms like DoorDash and Uber Eats are helping it attract newer, younger customers.",
-          "url": "https://www.modernretail.co/operations/costcos-digital-sales-hit-33-billion-in-2026-growing-more-than-20/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "published": "Thu, 24 Sep 2026 21:41:10 +0000",
-          "published_iso": "2026-09-24T21:41:10+00:00",
-          "source": "Modern Retail",
-          "bucket": "channel_news",
-          "hours_since_published": 3.8,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 270,
-          "display_title": "Costco’s digital sales hit $33 billion...",
-          "tags": [
+            "🎧 耳机音频",
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
@@ -1813,7 +1823,7 @@
           "published_iso": "2026-09-21T10:29:27+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 87.0,
+          "hours_since_published": 110.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1843,7 +1853,7 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWhqdVI5TE1zek5NX216UjhNZU5JZWxnNEY1bVlJazVhc05FemN0RDJqSEZ1UjI4aWdXTHUyODEtZHdzaGs3Z05pc3ppSmJ5Wk00bDRmMzJZZHRNdW90NnBuT2VHc1dwSGVkRC1GUHJxOVBlN09vSzVOY3ROZXVtc2hGeGJ3YzAwbkhESWJ1bVRBNjJYRmR3UHo0c3NWV3V6ajJfYVQ5WlZLSmc?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 59,
-          "hours_since_published": 87.0,
+          "hours_since_published": 110.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1877,7 +1887,7 @@
   ],
   "opportunity_signals": [
     "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
-    "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。"
+    "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。"
   ],
   "risk_signals": [
     "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。",

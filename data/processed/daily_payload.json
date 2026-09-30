@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30 09:14:20 CST",
+  "generated_at": "2026-09-30 10:05:21 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -707,435 +707,407 @@
     }
   ],
   "lead_story": {
-    "title": "Target cuts prices as consumer sentiment sours",
-    "summary": "<p>With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.</p>",
-    "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
-    "published": "Tue, 29 Sep 2026 11:42:00 -0400",
-    "published_iso": "2026-09-29T15:42:00+00:00",
-    "source": "Retail Dive",
+    "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
+    "published": "Tue, 29 Sep 2026 09:08:00 GMT",
+    "published_iso": "2026-09-29T09:08:00+00:00",
+    "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 9.5,
+    "hours_since_published": 17.0,
     "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
       "channels": [
-        "Target"
+        "Walmart",
+        "Target",
+        "Costco"
       ],
       "categories": []
     },
-    "_score": 260,
-    "display_title": "Target cuts prices as consumer...",
+    "_score": 374,
+    "display_title": "Best store-brand groceries at Aldi...",
     "tags": [
       "🛒 渠道零售",
-      "🏬 平台电商",
-      "💰 价格促销"
+      "🏬 平台电商"
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+    "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
     "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
   },
   "lead_summary": "北美平台与零售动态仍是今天最值得跟进的外部信号。",
   "headline_trio": [
     {
-      "title": "Target cuts prices as consumer sentiment sours",
-      "summary": "<p>With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.</p>",
-      "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
-      "published": "Tue, 29 Sep 2026 11:42:00 -0400",
-      "published_iso": "2026-09-29T15:42:00+00:00",
-      "source": "Retail Dive",
+      "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
+      "published": "Tue, 29 Sep 2026 09:08:00 GMT",
+      "published_iso": "2026-09-29T09:08:00+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 9.5,
+      "hours_since_published": 17.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 260,
-      "display_title": "Target cuts prices as consumer...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Costco’s digital sales hit $33 billion in 2026, growing more than 20%",
-      "summary": "Costco's business is increasingly living beyond the doors of its core warehouses, as digital sales and partnerships with platforms like DoorDash and Uber Eats are helping it attract newer, younger customers.",
-      "url": "https://www.modernretail.co/operations/costcos-digital-sales-hit-33-billion-in-2026-growing-more-than-20/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Thu, 24 Sep 2026 21:41:10 +0000",
-      "published_iso": "2026-09-24T21:41:10+00:00",
-      "source": "Modern Retail",
-      "bucket": "channel_news",
-      "hours_since_published": 123.6,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
+          "Walmart",
+          "Target",
           "Costco"
         ],
         "categories": []
       },
-      "_score": 240,
-      "display_title": "Costco’s digital sales hit $33 billion...",
+      "_score": 374,
+      "display_title": "Best store-brand groceries at Aldi...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Costco相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Walmart consolidates merchant teams with focus on style",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PXYAft6uo6ugkBbJKUlFYxziiB0p_YMQ6eB90oa6s0c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWxtYXJ0X2Zhc2hpb24uanBn.webp\" /></div></figure><p>Nearly 20 years after embarking on its ill-fated, fashion-oriented &ldquo;Project Impact,&rdquo; the reta",
-      "url": "https://www.retaildive.com/news/walmart-fashion-home-beauty-merchant-teams-style-organization/831464/",
-      "published": "Mon, 28 Sep 2026 11:51:00 -0400",
-      "published_iso": "2026-09-28T15:51:00+00:00",
-      "source": "Retail Dive",
+      "title": "Best Buy and Amazon expand Fire TV partnership, opening Fire TV ad inventory to Best Buy Ads - Best Buy Corporate",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXJKMGZITlRpTl9oRGFKdzdlaFFpdVF6b1FsOG1ISHFvdnRiNkNueVZIRzVrdlZqY1NrNWhRa1Qta0hvSUs2Y2dGSFhOS1lZaGx5MUxzeEt5VDRFOXM1dkRldmI1VjBGck51ZXpfRQ?oc=5\" target=\"_blank\">Best Buy and Amazon expand Fire TV partnership, opening Fire TV ad inventory to Best Buy Ads</a>&",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXJKMGZITlRpTl9oRGFKdzdlaFFpdVF6b1FsOG1ISHFvdnRiNkNueVZIRzVrdlZqY1NrNWhRa1Qta0hvSUs2Y2dGSFhOS1lZaGx5MUxzeEt5VDRFOXM1dkRldmI1VjBGck51ZXpfRQ?oc=5",
+      "published": "Wed, 23 Sep 2026 18:33:56 GMT",
+      "published_iso": "2026-09-23T18:33:56+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 33.4,
-      "freshness_label": "近3天",
+      "hours_since_published": 151.5,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Walmart"
+          "Amazon",
+          "Best Buy"
         ],
         "categories": []
       },
-      "_score": 215,
-      "display_title": "Walmart consolidates merchant teams...",
+      "_score": 314,
+      "display_title": "Best Buy and Amazon expand Fire TV...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box - 9to5Toys",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5\" target=\"_blank\">Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5",
+      "published": "Fri, 25 Sep 2026 10:04:00 GMT",
+      "published_iso": "2026-09-25T10:04:00+00:00",
+      "source": "Google News - US Retail Audio",
+      "bucket": "channel_news",
+      "hours_since_published": 112.0,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Beats"
+        ],
+        "channels": [
+          "Amazon",
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 286,
+      "display_title": "Powerbeats Pro 2 now $50 off at Amazon...",
+      "tags": [
+        "🎧 耳机音频",
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "consumer_electronics": [
     {
-      "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-      "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game. \"Mythic Achievements have already been a",
-      "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-      "published": "2026-09-29T12:17:01-04:00",
-      "published_iso": "2026-09-29T16:17:01+00:00",
-      "source": "The Verge",
+      "title": "The New Beats 360 Are the Most Useful Headphones We’ve Tried in Years - Esquire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9sclZlWUFoanJrdnVLZi13UEFlM3E4U3ZweE5LQUxpSHlDejFKUmRGX0FZQm8wNmRscW5hVWNzS29QdEd2Tm1OMDIxUU5lV0FfaXVBNE5MMDJmOGx1aENKUUNWdGNNdEhuenBIT2RmbXhXUk1M?oc=5\" target=\"_blank\">The New Beats 360 Are the Most Useful Headphones We’ve Tried in Years</a>&nbsp;&nbsp;<font ",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sclZlWUFoanJrdnVLZi13UEFlM3E4U3ZweE5LQUxpSHlDejFKUmRGX0FZQm8wNmRscW5hVWNzS29QdEd2Tm1OMDIxUU5lV0FfaXVBNE5MMDJmOGx1aENKUUNWdGNNdEhuenBIT2RmbXhXUk1M?oc=5",
+      "published": "Tue, 29 Sep 2026 19:41:43 GMT",
+      "published_iso": "2026-09-29T19:41:43+00:00",
+      "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 9.0,
+      "hours_since_published": 6.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
-          "Sony"
+          "Beats"
         ],
-        "channels": [],
-        "categories": []
-      },
-      "_score": 207,
-      "display_title": "Xbox’s Mythic Achievements are here and...",
-      "tags": [
-        "🚀 新品发布"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-      "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says [&#8",
-      "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-      "published": "2026-09-29T18:01:00-04:00",
-      "published_iso": "2026-09-29T22:01:00+00:00",
-      "source": "The Verge",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 3.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "REI"
-        ],
-        "categories": []
-      },
-      "_score": 197,
-      "display_title": "BMW’s revamped i3 boasts up to 468...",
-      "tags": [
-        "🛒 渠道零售",
-        "🚀 新品发布",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与REI相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "How do translation earbuds actually work?",
-      "summary": "Translation earbuds are gaining momentum, but actually using them may not be quite the experience you're expecting.",
-      "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
-      "published": "Tue, 29 Sep 2026 22:00:00 +0000",
-      "published_iso": "2026-09-29T22:00:00+00:00",
-      "source": "Engadget",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 3.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
         "channels": [],
         "categories": [
-          "earbuds"
+          "headphone"
         ]
       },
-      "_score": 181,
-      "display_title": "How do translation earbuds actually work?",
+      "_score": 265,
+      "display_title": "The New Beats 360 Are the Most Useful...",
       "tags": [
         "🎧 耳机音频"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capabl",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "published": "2026-09-29T13:15:00-04:00",
-      "published_iso": "2026-09-29T17:15:00+00:00",
-      "source": "The Verge",
+      "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect - zdnet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1UxSzByLWlkOW82cHlyVUVhcXBPcjRvOFdEbHpwLU9XOFFUVm5sN2RLNzBBT2t4bnFpTjVhdnZEX3g4ODd5S01vZ2xuM0Nkb2k2ekNNWERuakVGNHZFR0dMNS1LU2V3dDdnQnJmYVpNUkJFVm1OLXZ5U3ZZd21XT09YQndRTnR6bTVRa1VFWGFiRUFZVjNXVWwwaThWNC1qbVpr?oc=5\" target=\"_blank\">Your Bose headphones are ge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1UxSzByLWlkOW82cHlyVUVhcXBPcjRvOFdEbHpwLU9XOFFUVm5sN2RLNzBBT2t4bnFpTjVhdnZEX3g4ODd5S01vZ2xuM0Nkb2k2ekNNWERuakVGNHZFR0dMNS1LU2V3dDdnQnJmYVpNUkJFVm1OLXZ5U3ZZd21XT09YQndRTnR6bTVRa1VFWGFiRUFZVjNXVWwwaThWNC1qbVpr?oc=5",
+      "published": "Mon, 28 Sep 2026 14:40:43 GMT",
+      "published_iso": "2026-09-28T14:40:43+00:00",
+      "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 8.0,
-      "freshness_label": "24h内",
+      "hours_since_published": 35.4,
+      "freshness_label": "近3天",
       "monitor_hits": {
-        "brands": [],
+        "brands": [
+          "Bose"
+        ],
         "channels": [],
-        "categories": []
+        "categories": [
+          "headphone"
+        ]
       },
-      "_score": 173,
-      "display_title": "OpenAI launches Dots, its Muse competitor",
+      "_score": 252,
+      "display_title": "Your Bose headphones are getting a...",
       "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "Bose Brought Back Wired Headphones, and Teens Are to Thank - WIRED",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGpPbnV1X0M0dmtPbmZCLUgzMVh5VE5fRVNPWmNLT3VrUGJaanRraENpQWdQcG9XcGZwTnBzYjBycndoaVV4ZnBHUXQ1czR6bjlQMTFlMk5IRVZOX0s3b3ppcjEtaDZpVkhuazNXeWdLQ0dBOUFRZUpPUWRPdkVEc2pn?oc=5\" target=\"_blank\">Bose Brought Back Wired Headphones, and Teens Are to Thank</a>&nbsp;&nb",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGpPbnV1X0M0dmtPbmZCLUgzMVh5VE5fRVNPWmNLT3VrUGJaanRraENpQWdQcG9XcGZwTnBzYjBycndoaVV4ZnBHUXQ1czR6bjlQMTFlMk5IRVZOX0s3b3ppcjEtaDZpVkhuazNXeWdLQ0dBOUFRZUpPUWRPdkVEc2pn?oc=5",
+      "published": "Mon, 28 Sep 2026 13:00:00 GMT",
+      "published_iso": "2026-09-28T13:00:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 37.1,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 242,
+      "display_title": "Bose Brought Back Wired Headphones, and...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "Bose starts adding Auracast to its headphones - The Verge",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9wZ3VyRzlTV3Zpa09zVENyNnJKWnVWeEs0SVpuQ1dNcFBYVUd2empkYWV5T1lLOGdqa3l0bU0yejYtUmZ6ZDQ2azVMWjVjRVBDLW1jc0tVaTFmTENsZ0tOTWhrVkVwQUVabDlEeW5SQk52empoWDcybk91N1hwUGM?oc=5\" target=\"_blank\">Bose starts adding Auracast to its headphones</a>&nbsp;&nbsp;<font color=\"#6",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wZ3VyRzlTV3Zpa09zVENyNnJKWnVWeEs0SVpuQ1dNcFBYVUd2empkYWV5T1lLOGdqa3l0bU0yejYtUmZ6ZDQ2azVMWjVjRVBDLW1jc0tVaTFmTENsZ0tOTWhrVkVwQUVabDlEeW5SQk52empoWDcybk91N1hwUGM?oc=5",
+      "published": "Mon, 28 Sep 2026 19:31:24 GMT",
+      "published_iso": "2026-09-28T19:31:24+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 30.6,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 242,
+      "display_title": "Bose starts adding Auracast to its...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "Bose launched wired, yes, wired, earbuds with ANC for $99 - 9to5Google",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXk2Qzg2WEsyZmVMYXpjZGJqVXh2dDlzZTFraExUU2o4RFByWUdCOHJwUnpvUUx6V1hFTk96dmFaWXBKRzdXQ3hnZEVjN0tkb0tmaTM5Y0pXd1A2VkdwU2hsSHRKX0hnckJpallCU0g0VE10YVdkczR6N2VuM3gzMUNMQ01jV0VFVm1wUHRlT1NlZw?oc=5\" target=\"_blank\">Bose launched wired, yes, wired, earbuds with ANC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXk2Qzg2WEsyZmVMYXpjZGJqVXh2dDlzZTFraExUU2o4RFByWUdCOHJwUnpvUUx6V1hFTk96dmFaWXBKRzdXQ3hnZEVjN0tkb0tmaTM5Y0pXd1A2VkdwU2hsSHRKX0hnckJpallCU0g0VE10YVdkczR6N2VuM3gzMUNMQ01jV0VFVm1wUHRlT1NlZw?oc=5",
+      "published": "Mon, 28 Sep 2026 17:07:00 GMT",
+      "published_iso": "2026-09-28T17:07:00+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 33.0,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "earbuds"
+        ]
+      },
+      "_score": 232,
+      "display_title": "Bose launched wired, yes, wired...",
+      "tags": [
+        "🎧 耳机音频",
         "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I",
-      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "published": "2026-09-29T17:49:09-04:00",
-      "published_iso": "2026-09-29T21:49:09+00:00",
-      "source": "The Verge",
+      "title": "Bose’s New $99 Wired USB-C Earbuds With ANC Just Might Make Me Ditch My Wireless Earbuds - CNET",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxORzI2SW5pVWFsYWhDV3lOU2J2ZTBvdlJpM05NX3ktV2Z6c1M2eGJwQldndU9Zb0NVZlljYWpodGJXMVVfMXpnUGQ0dXZmZTN1Y1lqQkVEaENkN2c2M2FndElTdjd2bERMU1V0NHB1dlJpYVZkVjl3Nk1qekNMc2VZUjBn?oc=5\" target=\"_blank\">Bose’s New $99 Wired USB-C Earbuds With ANC Just Might Make Me Ditch My",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzI2SW5pVWFsYWhDV3lOU2J2ZTBvdlJpM05NX3ktV2Z6c1M2eGJwQldndU9Zb0NVZlljYWpodGJXMVVfMXpnUGQ0dXZmZTN1Y1lqQkVEaENkN2c2M2FndElTdjd2bERMU1V0NHB1dlJpYVZkVjl3Nk1qekNMc2VZUjBn?oc=5",
+      "published": "Mon, 28 Sep 2026 15:04:00 GMT",
+      "published_iso": "2026-09-28T15:04:00+00:00",
+      "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 3.4,
-      "freshness_label": "24h内",
+      "hours_since_published": 35.0,
+      "freshness_label": "近3天",
       "monitor_hits": {
-        "brands": [],
+        "brands": [
+          "Bose"
+        ],
         "channels": [],
-        "categories": []
+        "categories": [
+          "earbuds"
+        ]
       },
-      "_score": 163,
-      "display_title": "Elon Musk&#8217;s AI-powered Grokipedia...",
+      "_score": 230,
+      "display_title": "Bose’s New $99 Wired USB-C Earbuds With...",
       "tags": [
-        "📱 消费电子"
+        "🎧 耳机音频"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "published": "Tue, 29 Sep 2026 17:45:51 +0000",
-      "published_iso": "2026-09-29T17:45:51+00:00",
-      "source": "TechCrunch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 7.5,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "_score": 155,
-      "display_title": "OpenAI takes on Microsoft with the...",
-      "tags": [
-        "🚀 新品发布"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
     {
-      "title": "Target cuts prices as consumer sentiment sours",
-      "summary": "<p>With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.</p>",
-      "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
-      "published": "Tue, 29 Sep 2026 11:42:00 -0400",
-      "published_iso": "2026-09-29T15:42:00+00:00",
-      "source": "Retail Dive",
+      "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
+      "published": "Tue, 29 Sep 2026 09:08:00 GMT",
+      "published_iso": "2026-09-29T09:08:00+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 9.5,
+      "hours_since_published": 17.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 260,
-      "display_title": "Target cuts prices as consumer...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Costco’s digital sales hit $33 billion in 2026, growing more than 20%",
-      "summary": "Costco's business is increasingly living beyond the doors of its core warehouses, as digital sales and partnerships with platforms like DoorDash and Uber Eats are helping it attract newer, younger customers.",
-      "url": "https://www.modernretail.co/operations/costcos-digital-sales-hit-33-billion-in-2026-growing-more-than-20/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Thu, 24 Sep 2026 21:41:10 +0000",
-      "published_iso": "2026-09-24T21:41:10+00:00",
-      "source": "Modern Retail",
-      "bucket": "channel_news",
-      "hours_since_published": 123.6,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
+          "Walmart",
+          "Target",
           "Costco"
         ],
         "categories": []
       },
-      "_score": 240,
-      "display_title": "Costco’s digital sales hit $33 billion...",
+      "_score": 374,
+      "display_title": "Best store-brand groceries at Aldi...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Costco相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Walmart consolidates merchant teams with focus on style",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PXYAft6uo6ugkBbJKUlFYxziiB0p_YMQ6eB90oa6s0c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWxtYXJ0X2Zhc2hpb24uanBn.webp\" /></div></figure><p>Nearly 20 years after embarking on its ill-fated, fashion-oriented &ldquo;Project Impact,&rdquo; the reta",
-      "url": "https://www.retaildive.com/news/walmart-fashion-home-beauty-merchant-teams-style-organization/831464/",
-      "published": "Mon, 28 Sep 2026 11:51:00 -0400",
-      "published_iso": "2026-09-28T15:51:00+00:00",
-      "source": "Retail Dive",
+      "title": "Best Buy and Amazon expand Fire TV partnership, opening Fire TV ad inventory to Best Buy Ads - Best Buy Corporate",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXJKMGZITlRpTl9oRGFKdzdlaFFpdVF6b1FsOG1ISHFvdnRiNkNueVZIRzVrdlZqY1NrNWhRa1Qta0hvSUs2Y2dGSFhOS1lZaGx5MUxzeEt5VDRFOXM1dkRldmI1VjBGck51ZXpfRQ?oc=5\" target=\"_blank\">Best Buy and Amazon expand Fire TV partnership, opening Fire TV ad inventory to Best Buy Ads</a>&",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXJKMGZITlRpTl9oRGFKdzdlaFFpdVF6b1FsOG1ISHFvdnRiNkNueVZIRzVrdlZqY1NrNWhRa1Qta0hvSUs2Y2dGSFhOS1lZaGx5MUxzeEt5VDRFOXM1dkRldmI1VjBGck51ZXpfRQ?oc=5",
+      "published": "Wed, 23 Sep 2026 18:33:56 GMT",
+      "published_iso": "2026-09-23T18:33:56+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 33.4,
-      "freshness_label": "近3天",
+      "hours_since_published": 151.5,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Walmart"
+          "Amazon",
+          "Best Buy"
         ],
         "categories": []
       },
-      "_score": 215,
-      "display_title": "Walmart consolidates merchant teams...",
+      "_score": 314,
+      "display_title": "Best Buy and Amazon expand Fire TV...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Walmart CEO addresses dynamic pricing concerns",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/YPminNixZ-Bcb71fEC1wtD3bkUJjZ6xqUMjRHypN86I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbGVjdHJvbmljX3NoZWxmX2xhYmVsX3dhbG1hcnQuanBn.webp\" /></div></figure><p>John Furner issued a letter attempting to dispel pricing concerns about digital shelf",
-      "url": "https://www.retaildive.com/news/walmart-ceo-dynamic-pricing-concerns/831490/",
-      "published": "Mon, 28 Sep 2026 12:12:00 -0400",
-      "published_iso": "2026-09-28T16:12:00+00:00",
-      "source": "Retail Dive",
+      "title": "Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box - 9to5Toys",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5\" target=\"_blank\">Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box</a>&nbsp;&nbsp;<f",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5",
+      "published": "Fri, 25 Sep 2026 10:04:00 GMT",
+      "published_iso": "2026-09-25T10:04:00+00:00",
+      "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 33.0,
-      "freshness_label": "近3天",
+      "hours_since_published": 112.0,
+      "freshness_label": "近7天",
       "monitor_hits": {
-        "brands": [],
+        "brands": [
+          "Beats"
+        ],
         "channels": [
-          "Walmart"
+          "Amazon",
+          "Best Buy"
         ],
         "categories": []
       },
-      "_score": 207,
-      "display_title": "Walmart CEO addresses dynamic pricing...",
+      "_score": 286,
+      "display_title": "Powerbeats Pro 2 now $50 off at Amazon...",
       "tags": [
+        "🎧 耳机音频",
         "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
+        "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Brands Briefing: Hanna Andersson is joining Amazon, with a 90% unique assortment",
-      "summary": "Children's clothing company Hanna Andersson is making its official debut on Amazon in October, as it seeks to meet consumers' desire for convenience.",
-      "url": "https://www.modernretail.co/operations/brands-briefing-hanna-andersson-is-joining-amazon-with-a-90-unique-assortment/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Tue, 29 Sep 2026 14:00:00 +0000",
-      "published_iso": "2026-09-29T14:00:00+00:00",
-      "source": "Modern Retail",
+      "title": "Best Buy to launch on TikTok Shop - Retail Dive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83TG1NYnhBdkY5WlMtdTBGRC1MNl90MFYtakgyamd2bHNPd0o4SWo4MWRHd3doWXFHLWVPZmpPQm5SUjNJdllXUWQ4R1o5QWlETHBwRDEwUjROa2RvcVdCT2J1Q28xU0t5MGVKNFE4cmthY052SWc?oc=5\" target=\"_blank\">Best Buy to launch on TikTok Shop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Dive</font",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83TG1NYnhBdkY5WlMtdTBGRC1MNl90MFYtakgyamd2bHNPd0o4SWo4MWRHd3doWXFHLWVPZmpPQm5SUjNJdllXUWQ4R1o5QWlETHBwRDEwUjROa2RvcVdCT2J1Q28xU0t5MGVKNFE4cmthY052SWc?oc=5",
+      "published": "Tue, 29 Sep 2026 15:08:13 GMT",
+      "published_iso": "2026-09-29T15:08:13+00:00",
+      "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 11.2,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": []
-      },
-      "_score": 202,
-      "display_title": "Brands Briefing: Hanna Andersson is...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "🚀 新品发布"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Best Buy to launch on TikTok Shop",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/yUucHuGCiMg1zM9Zwk7T0eO6kB5WB7ffh0y3QqoNNKY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQlktVGlrVG9rLVNob3AtMS0xLXRoZWdlbS1ibG9nLWRlZmF1bHQuanBn.webp\" /></div></figure><p>Customers will be able to purchase products directly through the social c",
-      "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
-      "published": "Tue, 29 Sep 2026 11:04:00 -0400",
-      "published_iso": "2026-09-29T15:04:00+00:00",
-      "source": "Retail Dive",
-      "bucket": "channel_news",
-      "hours_since_published": 10.2,
+      "hours_since_published": 11.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1144,8 +1116,8 @@
         ],
         "categories": []
       },
-      "_score": 200,
-      "display_title": "Best Buy to launch on TikTok Shop",
+      "_score": 280,
+      "display_title": "Best Buy to launch on TikTok Shop...",
       "tags": [
         "🛒 渠道零售",
         "🏬 平台电商",
@@ -1154,6 +1126,64 @@
       "impact_area": "电商",
       "importance": "高",
       "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Best Buy Is Selling Amazon Fire TV Streaming Ads - ADWEEK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXZFc2NjTXozRFFWR281YjdnZFZrUEx4SkZqbHhWMHJXb2hEdmVjQ2JEUUNCcGEweFIySWV3SzFORU9LczR5THpWS3pGZUNXYjVsNHJ2VFJkaTFFVm1kbFJVbm1NTUFOUFpTVmFSa21lVjdsUjBkd1E5eExvY2xVQ3cyWFE?oc=5\" target=\"_blank\">Best Buy Is Selling Amazon Fire TV Streaming Ads</a>&nbsp;&nbsp;<fon",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXZFc2NjTXozRFFWR281YjdnZFZrUEx4SkZqbHhWMHJXb2hEdmVjQ2JEUUNCcGEweFIySWV3SzFORU9LczR5THpWS3pGZUNXYjVsNHJ2VFJkaTFFVm1kbFJVbm1NTUFOUFpTVmFSa21lVjdsUjBkd1E5eExvY2xVQ3cyWFE?oc=5",
+      "published": "Wed, 23 Sep 2026 21:00:00 GMT",
+      "published_iso": "2026-09-23T21:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 149.1,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 274,
+      "display_title": "Best Buy Is Selling Amazon Fire TV...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Target cuts prices as consumer sentiment sours",
+      "summary": "<p>With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.</p>",
+      "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
+      "published": "Tue, 29 Sep 2026 11:42:00 -0400",
+      "published_iso": "2026-09-29T15:42:00+00:00",
+      "source": "Retail Dive",
+      "bucket": "channel_news",
+      "hours_since_published": 10.4,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 260,
+      "display_title": "Target cuts prices as consumer...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
@@ -1166,7 +1196,7 @@
       "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
       "source": "The Verge",
       "_score": 77,
-      "hours_since_published": 9.0,
+      "hours_since_published": 9.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1195,7 +1225,7 @@
       "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
       "source": "The Verge",
       "_score": 67,
-      "hours_since_published": 3.2,
+      "hours_since_published": 4.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1226,7 +1256,7 @@
       "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 2.8,
+      "hours_since_published": 3.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1253,7 +1283,7 @@
       "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.4,
+      "hours_since_published": 4.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1280,7 +1310,7 @@
       "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.4,
+      "hours_since_published": 4.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1307,7 +1337,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 7.7,
+      "hours_since_published": 8.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1329,68 +1359,401 @@
   ],
   "monitored_entities": [
     {
-      "name": "REI",
-      "type": "渠道",
-      "count": 2,
+      "name": "headphone",
+      "type": "品类",
+      "count": 7,
       "items": [
         {
-          "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-          "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says [&#8",
-          "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-          "published": "2026-09-29T18:01:00-04:00",
-          "published_iso": "2026-09-29T22:01:00+00:00",
-          "source": "The Verge",
+          "title": "The New Beats 360 Are the Most Useful Headphones We’ve Tried in Years - Esquire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9sclZlWUFoanJrdnVLZi13UEFlM3E4U3ZweE5LQUxpSHlDejFKUmRGX0FZQm8wNmRscW5hVWNzS29QdEd2Tm1OMDIxUU5lV0FfaXVBNE5MMDJmOGx1aENKUUNWdGNNdEhuenBIT2RmbXhXUk1M?oc=5\" target=\"_blank\">The New Beats 360 Are the Most Useful Headphones We’ve Tried in Years</a>&nbsp;&nbsp;<font ",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sclZlWUFoanJrdnVLZi13UEFlM3E4U3ZweE5LQUxpSHlDejFKUmRGX0FZQm8wNmRscW5hVWNzS29QdEd2Tm1OMDIxUU5lV0FfaXVBNE5MMDJmOGx1aENKUUNWdGNNdEhuenBIT2RmbXhXUk1M?oc=5",
+          "published": "Tue, 29 Sep 2026 19:41:43 GMT",
+          "published_iso": "2026-09-29T19:41:43+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 3.2,
+          "hours_since_published": 6.4,
           "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Beats"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 265,
+          "display_title": "The New Beats 360 Are the Most Useful...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect - zdnet.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1UxSzByLWlkOW82cHlyVUVhcXBPcjRvOFdEbHpwLU9XOFFUVm5sN2RLNzBBT2t4bnFpTjVhdnZEX3g4ODd5S01vZ2xuM0Nkb2k2ekNNWERuakVGNHZFR0dMNS1LU2V3dDdnQnJmYVpNUkJFVm1OLXZ5U3ZZd21XT09YQndRTnR6bTVRa1VFWGFiRUFZVjNXVWwwaThWNC1qbVpr?oc=5\" target=\"_blank\">Your Bose headphones are ge",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1UxSzByLWlkOW82cHlyVUVhcXBPcjRvOFdEbHpwLU9XOFFUVm5sN2RLNzBBT2t4bnFpTjVhdnZEX3g4ODd5S01vZ2xuM0Nkb2k2ekNNWERuakVGNHZFR0dMNS1LU2V3dDdnQnJmYVpNUkJFVm1OLXZ5U3ZZd21XT09YQndRTnR6bTVRa1VFWGFiRUFZVjNXVWwwaThWNC1qbVpr?oc=5",
+          "published": "Mon, 28 Sep 2026 14:40:43 GMT",
+          "published_iso": "2026-09-28T14:40:43+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 35.4,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 252,
+          "display_title": "Your Bose headphones are getting a...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        }
+      ]
+    },
+    {
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 6,
+      "items": [
+        {
+          "title": "Best Buy and Amazon expand Fire TV partnership, opening Fire TV ad inventory to Best Buy Ads - Best Buy Corporate",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXJKMGZITlRpTl9oRGFKdzdlaFFpdVF6b1FsOG1ISHFvdnRiNkNueVZIRzVrdlZqY1NrNWhRa1Qta0hvSUs2Y2dGSFhOS1lZaGx5MUxzeEt5VDRFOXM1dkRldmI1VjBGck51ZXpfRQ?oc=5\" target=\"_blank\">Best Buy and Amazon expand Fire TV partnership, opening Fire TV ad inventory to Best Buy Ads</a>&",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXJKMGZITlRpTl9oRGFKdzdlaFFpdVF6b1FsOG1ISHFvdnRiNkNueVZIRzVrdlZqY1NrNWhRa1Qta0hvSUs2Y2dGSFhOS1lZaGx5MUxzeEt5VDRFOXM1dkRldmI1VjBGck51ZXpfRQ?oc=5",
+          "published": "Wed, 23 Sep 2026 18:33:56 GMT",
+          "published_iso": "2026-09-23T18:33:56+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 151.5,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "REI"
+              "Amazon",
+              "Best Buy"
             ],
             "categories": []
           },
-          "_score": 197,
-          "display_title": "BMW’s revamped i3 boasts up to 468...",
+          "_score": 314,
+          "display_title": "Best Buy and Amazon expand Fire TV...",
           "tags": [
             "🛒 渠道零售",
-            "🚀 新品发布",
-            "💰 价格促销"
+            "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与REI相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "name": "BMW’s revamped i3 boasts up to 468 miles of range",
-          "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in",
-          "date": "2026-09-29T18:01:00-04:00",
-          "published_iso": "2026-09-29T22:01:00+00:00",
-          "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-          "source": "The Verge",
-          "_score": 67,
-          "hours_since_published": 3.2,
-          "freshness_label": "24h内",
+          "title": "Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box - 9to5Toys",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5\" target=\"_blank\">Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box</a>&nbsp;&nbsp;<f",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5",
+          "published": "Fri, 25 Sep 2026 10:04:00 GMT",
+          "published_iso": "2026-09-25T10:04:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 112.0,
+          "freshness_label": "近7天",
           "monitor_hits": {
-            "brands": [],
+            "brands": [
+              "Beats"
+            ],
             "channels": [
-              "REI"
+              "Amazon",
+              "Best Buy"
             ],
             "categories": []
           },
-          "display_title": "BMW’s revamped i3 boasts up to 468...",
-          "display_summary": "When BMW first announced it was reimagining th",
+          "_score": 286,
+          "display_title": "Powerbeats Pro 2 now $50 off at Amazon...",
           "tags": [
+            "🎧 耳机音频",
             "🛒 渠道零售",
-            "🚀 新品发布",
-            "💰 价格促销"
+            "🏬 平台电商"
           ],
           "impact_area": "电商",
-          "judgement_label": "渠道动态",
-          "product_intro": "When BMW first announced it was。",
-          "importance": "低",
-          "business_note": "北美渠道侧出现与REI相关信号，优先评估对电商的影响。",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "Bose",
+      "type": "品牌",
+      "count": 6,
+      "items": [
+        {
+          "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect - zdnet.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1UxSzByLWlkOW82cHlyVUVhcXBPcjRvOFdEbHpwLU9XOFFUVm5sN2RLNzBBT2t4bnFpTjVhdnZEX3g4ODd5S01vZ2xuM0Nkb2k2ekNNWERuakVGNHZFR0dMNS1LU2V3dDdnQnJmYVpNUkJFVm1OLXZ5U3ZZd21XT09YQndRTnR6bTVRa1VFWGFiRUFZVjNXVWwwaThWNC1qbVpr?oc=5\" target=\"_blank\">Your Bose headphones are ge",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1UxSzByLWlkOW82cHlyVUVhcXBPcjRvOFdEbHpwLU9XOFFUVm5sN2RLNzBBT2t4bnFpTjVhdnZEX3g4ODd5S01vZ2xuM0Nkb2k2ekNNWERuakVGNHZFR0dMNS1LU2V3dDdnQnJmYVpNUkJFVm1OLXZ5U3ZZd21XT09YQndRTnR6bTVRa1VFWGFiRUFZVjNXVWwwaThWNC1qbVpr?oc=5",
+          "published": "Mon, 28 Sep 2026 14:40:43 GMT",
+          "published_iso": "2026-09-28T14:40:43+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 35.4,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 252,
+          "display_title": "Your Bose headphones are getting a...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "Bose Brought Back Wired Headphones, and Teens Are to Thank - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGpPbnV1X0M0dmtPbmZCLUgzMVh5VE5fRVNPWmNLT3VrUGJaanRraENpQWdQcG9XcGZwTnBzYjBycndoaVV4ZnBHUXQ1czR6bjlQMTFlMk5IRVZOX0s3b3ppcjEtaDZpVkhuazNXeWdLQ0dBOUFRZUpPUWRPdkVEc2pn?oc=5\" target=\"_blank\">Bose Brought Back Wired Headphones, and Teens Are to Thank</a>&nbsp;&nb",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGpPbnV1X0M0dmtPbmZCLUgzMVh5VE5fRVNPWmNLT3VrUGJaanRraENpQWdQcG9XcGZwTnBzYjBycndoaVV4ZnBHUXQ1czR6bjlQMTFlMk5IRVZOX0s3b3ppcjEtaDZpVkhuazNXeWdLQ0dBOUFRZUpPUWRPdkVEc2pn?oc=5",
+          "published": "Mon, 28 Sep 2026 13:00:00 GMT",
+          "published_iso": "2026-09-28T13:00:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 37.1,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 242,
+          "display_title": "Bose Brought Back Wired Headphones, and...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        }
+      ]
+    },
+    {
+      "name": "Beats",
+      "type": "品牌",
+      "count": 4,
+      "items": [
+        {
+          "title": "Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box - 9to5Toys",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5\" target=\"_blank\">Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box</a>&nbsp;&nbsp;<f",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5",
+          "published": "Fri, 25 Sep 2026 10:04:00 GMT",
+          "published_iso": "2026-09-25T10:04:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 112.0,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Beats"
+            ],
+            "channels": [
+              "Amazon",
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 286,
+          "display_title": "Powerbeats Pro 2 now $50 off at Amazon...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "The New Beats 360 Are the Most Useful Headphones We’ve Tried in Years - Esquire",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9sclZlWUFoanJrdnVLZi13UEFlM3E4U3ZweE5LQUxpSHlDejFKUmRGX0FZQm8wNmRscW5hVWNzS29QdEd2Tm1OMDIxUU5lV0FfaXVBNE5MMDJmOGx1aENKUUNWdGNNdEhuenBIT2RmbXhXUk1M?oc=5\" target=\"_blank\">The New Beats 360 Are the Most Useful Headphones We’ve Tried in Years</a>&nbsp;&nbsp;<font ",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sclZlWUFoanJrdnVLZi13UEFlM3E4U3ZweE5LQUxpSHlDejFKUmRGX0FZQm8wNmRscW5hVWNzS29QdEd2Tm1OMDIxUU5lV0FfaXVBNE5MMDJmOGx1aENKUUNWdGNNdEhuenBIT2RmbXhXUk1M?oc=5",
+          "published": "Tue, 29 Sep 2026 19:41:43 GMT",
+          "published_iso": "2026-09-29T19:41:43+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 6.4,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Beats"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 265,
+          "display_title": "The New Beats 360 Are the Most Useful...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        }
+      ]
+    },
+    {
+      "name": "earbuds",
+      "type": "品类",
+      "count": 4,
+      "items": [
+        {
+          "title": "Bose launched wired, yes, wired, earbuds with ANC for $99 - 9to5Google",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXk2Qzg2WEsyZmVMYXpjZGJqVXh2dDlzZTFraExUU2o4RFByWUdCOHJwUnpvUUx6V1hFTk96dmFaWXBKRzdXQ3hnZEVjN0tkb0tmaTM5Y0pXd1A2VkdwU2hsSHRKX0hnckJpallCU0g0VE10YVdkczR6N2VuM3gzMUNMQ01jV0VFVm1wUHRlT1NlZw?oc=5\" target=\"_blank\">Bose launched wired, yes, wired, earbuds with ANC",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXk2Qzg2WEsyZmVMYXpjZGJqVXh2dDlzZTFraExUU2o4RFByWUdCOHJwUnpvUUx6V1hFTk96dmFaWXBKRzdXQ3hnZEVjN0tkb0tmaTM5Y0pXd1A2VkdwU2hsSHRKX0hnckJpallCU0g0VE10YVdkczR6N2VuM3gzMUNMQ01jV0VFVm1wUHRlT1NlZw?oc=5",
+          "published": "Mon, 28 Sep 2026 17:07:00 GMT",
+          "published_iso": "2026-09-28T17:07:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 33.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "earbuds"
+            ]
+          },
+          "_score": 232,
+          "display_title": "Bose launched wired, yes, wired...",
+          "tags": [
+            "🎧 耳机音频",
+            "🚀 新品发布"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "Bose’s New $99 Wired USB-C Earbuds With ANC Just Might Make Me Ditch My Wireless Earbuds - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxORzI2SW5pVWFsYWhDV3lOU2J2ZTBvdlJpM05NX3ktV2Z6c1M2eGJwQldndU9Zb0NVZlljYWpodGJXMVVfMXpnUGQ0dXZmZTN1Y1lqQkVEaENkN2c2M2FndElTdjd2bERMU1V0NHB1dlJpYVZkVjl3Nk1qekNMc2VZUjBn?oc=5\" target=\"_blank\">Bose’s New $99 Wired USB-C Earbuds With ANC Just Might Make Me Ditch My",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzI2SW5pVWFsYWhDV3lOU2J2ZTBvdlJpM05NX3ktV2Z6c1M2eGJwQldndU9Zb0NVZlljYWpodGJXMVVfMXpnUGQ0dXZmZTN1Y1lqQkVEaENkN2c2M2FndElTdjd2bERMU1V0NHB1dlJpYVZkVjl3Nk1qekNMc2VZUjBn?oc=5",
+          "published": "Mon, 28 Sep 2026 15:04:00 GMT",
+          "published_iso": "2026-09-28T15:04:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 35.0,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "earbuds"
+            ]
+          },
+          "_score": 230,
+          "display_title": "Bose’s New $99 Wired USB-C Earbuds With...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "type": "渠道",
+      "count": 3,
+      "items": [
+        {
+          "title": "Best Buy and Amazon expand Fire TV partnership, opening Fire TV ad inventory to Best Buy Ads - Best Buy Corporate",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXJKMGZITlRpTl9oRGFKdzdlaFFpdVF6b1FsOG1ISHFvdnRiNkNueVZIRzVrdlZqY1NrNWhRa1Qta0hvSUs2Y2dGSFhOS1lZaGx5MUxzeEt5VDRFOXM1dkRldmI1VjBGck51ZXpfRQ?oc=5\" target=\"_blank\">Best Buy and Amazon expand Fire TV partnership, opening Fire TV ad inventory to Best Buy Ads</a>&",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXJKMGZITlRpTl9oRGFKdzdlaFFpdVF6b1FsOG1ISHFvdnRiNkNueVZIRzVrdlZqY1NrNWhRa1Qta0hvSUs2Y2dGSFhOS1lZaGx5MUxzeEt5VDRFOXM1dkRldmI1VjBGck51ZXpfRQ?oc=5",
+          "published": "Wed, 23 Sep 2026 18:33:56 GMT",
+          "published_iso": "2026-09-23T18:33:56+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 151.5,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 314,
+          "display_title": "Best Buy and Amazon expand Fire TV...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box - 9to5Toys",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5\" target=\"_blank\">Powerbeats Pro 2 now $50 off at Amazon, or up to $116 off Best Buy open-box</a>&nbsp;&nbsp;<f",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5talBXdE4yOW5pQ0J4RE1LTnFRNWJMWmpKYzl4N25mMlhIY1ZwYkpNM19SaEZFNFJWZDFZU0sxdG9qZWxEbXYwOVdybDdRd2UtbHdQcjdnckNZR3ZybGU1TkZfdDVuYUJGMzlpYmh5OTlIdw?oc=5",
+          "published": "Fri, 25 Sep 2026 10:04:00 GMT",
+          "published_iso": "2026-09-25T10:04:00+00:00",
+          "source": "Google News - US Retail Audio",
+          "bucket": "channel_news",
+          "hours_since_published": 112.0,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Beats"
+            ],
+            "channels": [
+              "Amazon",
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 286,
+          "display_title": "Powerbeats Pro 2 now $50 off at Amazon...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
@@ -1401,43 +1764,45 @@
       "count": 2,
       "items": [
         {
-          "title": "Walmart consolidates merchant teams with focus on style",
-          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PXYAft6uo6ugkBbJKUlFYxziiB0p_YMQ6eB90oa6s0c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWxtYXJ0X2Zhc2hpb24uanBn.webp\" /></div></figure><p>Nearly 20 years after embarking on its ill-fated, fashion-oriented &ldquo;Project Impact,&rdquo; the reta",
-          "url": "https://www.retaildive.com/news/walmart-fashion-home-beauty-merchant-teams-style-organization/831464/",
-          "published": "Mon, 28 Sep 2026 11:51:00 -0400",
-          "published_iso": "2026-09-28T15:51:00+00:00",
-          "source": "Retail Dive",
+          "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
+          "published": "Tue, 29 Sep 2026 09:08:00 GMT",
+          "published_iso": "2026-09-29T09:08:00+00:00",
+          "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 33.4,
-          "freshness_label": "近3天",
+          "hours_since_published": 17.0,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Walmart"
+              "Walmart",
+              "Target",
+              "Costco"
             ],
             "categories": []
           },
-          "_score": 215,
-          "display_title": "Walmart consolidates merchant teams...",
+          "_score": 374,
+          "display_title": "Best store-brand groceries at Aldi...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Walmart CEO addresses dynamic pricing concerns",
-          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/YPminNixZ-Bcb71fEC1wtD3bkUJjZ6xqUMjRHypN86I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbGVjdHJvbmljX3NoZWxmX2xhYmVsX3dhbG1hcnQuanBn.webp\" /></div></figure><p>John Furner issued a letter attempting to dispel pricing concerns about digital shelf",
-          "url": "https://www.retaildive.com/news/walmart-ceo-dynamic-pricing-concerns/831490/",
-          "published": "Mon, 28 Sep 2026 12:12:00 -0400",
-          "published_iso": "2026-09-28T16:12:00+00:00",
-          "source": "Retail Dive",
+          "title": "Walmart Fall Deals event 2026: Best early alternative Prime Day sales - Mashable",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWxnaWsxUmRjUmNUWFNuNnhVTU1KenRMelkyenRLSkN2emdNbHA1d293V3EtYktGcVUxUWttbE5DMjRCRzFrNUdYZDhlSG1KOFBzb1o1TmllSXBEYmlqTm16UmIzbzFTQk5CR3VPeGR4Z2dIU3B5LVFaY3BJMDUyTTEydExGSlE?oc=5\" target=\"_blank\">Walmart Fall Deals event 2026: Best early alternative Prime Day ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWxnaWsxUmRjUmNUWFNuNnhVTU1KenRMelkyenRLSkN2emdNbHA1d293V3EtYktGcVUxUWttbE5DMjRCRzFrNUdYZDhlSG1KOFBzb1o1TmllSXBEYmlqTm16UmIzbzFTQk5CR3VPeGR4Z2dIU3B5LVFaY3BJMDUyTTEydExGSlE?oc=5",
+          "published": "Wed, 23 Sep 2026 08:44:26 GMT",
+          "published_iso": "2026-09-23T08:44:26+00:00",
+          "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 33.0,
-          "freshness_label": "近3天",
+          "hours_since_published": 161.3,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1445,88 +1810,52 @@
             ],
             "categories": []
           },
-          "_score": 207,
-          "display_title": "Walmart CEO addresses dynamic pricing...",
+          "_score": 232,
+          "display_title": "Walmart Fall Deals event 2026: Best...",
           "tags": [
+            "🎧 耳机音频",
             "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
+            "🏬 平台电商"
           ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "Sony",
-      "type": "品牌",
-      "count": 2,
-      "items": [
-        {
-          "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-          "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game. \"Mythic Achievements have already been a",
-          "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-          "published": "2026-09-29T12:17:01-04:00",
-          "published_iso": "2026-09-29T16:17:01+00:00",
-          "source": "The Verge",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 9.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
-            "channels": [],
-            "categories": []
-          },
-          "_score": 207,
-          "display_title": "Xbox’s Mythic Achievements are here and...",
-          "tags": [
-            "🚀 新品发布"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "name": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-          "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achi",
-          "date": "2026-09-29T12:17:01-04:00",
-          "published_iso": "2026-09-29T16:17:01+00:00",
-          "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-          "source": "The Verge",
-          "_score": 77,
-          "hours_since_published": 9.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
-            "channels": [],
-            "categories": []
-          },
-          "display_title": "Xbox’s Mythic Achievements are here and...",
-          "display_summary": "Microsoft is officially announcing its new Xbo",
-          "tags": [
-            "🚀 新品发布"
-          ],
-          "impact_area": "品牌营销",
-          "judgement_label": "新品发布",
-          "product_intro": "Microsoft is officially announcing。",
-          "importance": "中",
-          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "impact_area": "电商"
         }
       ]
     },
     {
       "name": "Target",
       "type": "渠道",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
+          "published": "Tue, 29 Sep 2026 09:08:00 GMT",
+          "published_iso": "2026-09-29T09:08:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 17.0,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Walmart",
+              "Target",
+              "Costco"
+            ],
+            "categories": []
+          },
+          "_score": 374,
+          "display_title": "Best store-brand groceries at Aldi...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
         {
           "title": "Target cuts prices as consumer sentiment sours",
           "summary": "<p>With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.</p>",
@@ -1535,7 +1864,7 @@
           "published_iso": "2026-09-29T15:42:00+00:00",
           "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 9.5,
+          "hours_since_published": 10.4,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1557,147 +1886,6 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
-    },
-    {
-      "name": "Costco",
-      "type": "渠道",
-      "count": 1,
-      "items": [
-        {
-          "title": "Costco’s digital sales hit $33 billion in 2026, growing more than 20%",
-          "summary": "Costco's business is increasingly living beyond the doors of its core warehouses, as digital sales and partnerships with platforms like DoorDash and Uber Eats are helping it attract newer, younger customers.",
-          "url": "https://www.modernretail.co/operations/costcos-digital-sales-hit-33-billion-in-2026-growing-more-than-20/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "published": "Thu, 24 Sep 2026 21:41:10 +0000",
-          "published_iso": "2026-09-24T21:41:10+00:00",
-          "source": "Modern Retail",
-          "bucket": "channel_news",
-          "hours_since_published": 123.6,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 240,
-          "display_title": "Costco’s digital sales hit $33 billion...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Costco相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "Amazon",
-      "type": "渠道",
-      "count": 1,
-      "items": [
-        {
-          "title": "Brands Briefing: Hanna Andersson is joining Amazon, with a 90% unique assortment",
-          "summary": "Children's clothing company Hanna Andersson is making its official debut on Amazon in October, as it seeks to meet consumers' desire for convenience.",
-          "url": "https://www.modernretail.co/operations/brands-briefing-hanna-andersson-is-joining-amazon-with-a-90-unique-assortment/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "published": "Tue, 29 Sep 2026 14:00:00 +0000",
-          "published_iso": "2026-09-29T14:00:00+00:00",
-          "source": "Modern Retail",
-          "bucket": "channel_news",
-          "hours_since_published": 11.2,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": []
-          },
-          "_score": 202,
-          "display_title": "Brands Briefing: Hanna Andersson is...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "🚀 新品发布"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 1,
-      "items": [
-        {
-          "title": "Best Buy to launch on TikTok Shop",
-          "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/yUucHuGCiMg1zM9Zwk7T0eO6kB5WB7ffh0y3QqoNNKY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQlktVGlrVG9rLVNob3AtMS0xLXRoZWdlbS1ibG9nLWRlZmF1bHQuanBn.webp\" /></div></figure><p>Customers will be able to purchase products directly through the social c",
-          "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
-          "published": "Tue, 29 Sep 2026 11:04:00 -0400",
-          "published_iso": "2026-09-29T15:04:00+00:00",
-          "source": "Retail Dive",
-          "bucket": "channel_news",
-          "hours_since_published": 10.2,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy"
-            ],
-            "categories": []
-          },
-          "_score": 200,
-          "display_title": "Best Buy to launch on TikTok Shop",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "🚀 新品发布"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "earbuds",
-      "type": "品类",
-      "count": 1,
-      "items": [
-        {
-          "title": "How do translation earbuds actually work?",
-          "summary": "Translation earbuds are gaining momentum, but actually using them may not be quite the experience you're expecting.",
-          "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
-          "published": "Tue, 29 Sep 2026 22:00:00 +0000",
-          "published_iso": "2026-09-29T22:00:00+00:00",
-          "source": "Engadget",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 3.2,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "earbuds"
-            ]
-          },
-          "_score": 181,
-          "display_title": "How do translation earbuds actually work?",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
     }
   ],
   "takeaways": [
@@ -1706,8 +1894,8 @@
     "新品与渠道信息更适合结合价格、铺货和传播动作一起看。"
   ],
   "opportunity_signals": [
-    "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
-    "北美渠道侧出现与Costco相关信号，优先评估对电商的影响。"
+    "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
+    "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。"
   ],
   "risk_signals": [
     "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。",

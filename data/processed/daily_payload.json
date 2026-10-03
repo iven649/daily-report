@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03 09:04:34 CST",
+  "generated_at": "2026-10-03 09:55:17 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -714,8 +714,8 @@
     "published_iso": "2026-10-02T01:25:16+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 23.7,
-    "freshness_label": "24h内",
+    "hours_since_published": 24.5,
+    "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
       "channels": [
@@ -725,7 +725,7 @@
       ],
       "categories": []
     },
-    "_score": 404,
+    "_score": 389,
     "display_title": "Big-Box Briefing: What to watch for as...",
     "tags": [
       "🛒 渠道零售",
@@ -746,8 +746,8 @@
       "published_iso": "2026-10-02T01:25:16+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 23.7,
-      "freshness_label": "24h内",
+      "hours_since_published": 24.5,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -757,7 +757,7 @@
         ],
         "categories": []
       },
-      "_score": 404,
+      "_score": 389,
       "display_title": "Big-Box Briefing: What to watch for as...",
       "tags": [
         "🛒 渠道零售",
@@ -769,14 +769,14 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - pnj.com",
+      "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
       "published": "Tue, 29 Sep 2026 09:10:15 GMT",
       "published_iso": "2026-09-29T09:10:15+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 87.9,
+      "hours_since_published": 88.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -806,7 +806,7 @@
       "published_iso": "2026-10-01T18:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 31.1,
+      "hours_since_published": 31.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -838,7 +838,7 @@
       "published_iso": "2026-09-30T14:20:50+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 58.7,
+      "hours_since_published": 59.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -868,7 +868,7 @@
       "published_iso": "2026-09-28T14:40:43+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 106.4,
+      "hours_since_published": 107.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -897,7 +897,7 @@
       "published_iso": "2026-09-28T17:07:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 104.0,
+      "hours_since_published": 104.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -927,7 +927,7 @@
       "published_iso": "2026-09-28T15:04:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 106.0,
+      "hours_since_published": 106.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -956,7 +956,7 @@
       "published_iso": "2026-09-28T13:26:48+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 107.6,
+      "hours_since_published": 108.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -986,7 +986,7 @@
       "published_iso": "2026-10-01T12:30:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 36.6,
+      "hours_since_published": 37.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1018,8 +1018,8 @@
       "published_iso": "2026-10-02T01:25:16+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 23.7,
-      "freshness_label": "24h内",
+      "hours_since_published": 24.5,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1029,7 +1029,7 @@
         ],
         "categories": []
       },
-      "_score": 404,
+      "_score": 389,
       "display_title": "Big-Box Briefing: What to watch for as...",
       "tags": [
         "🛒 渠道零售",
@@ -1041,14 +1041,14 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - pnj.com",
+      "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
       "published": "Tue, 29 Sep 2026 09:10:15 GMT",
       "published_iso": "2026-09-29T09:10:15+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 87.9,
+      "hours_since_published": 88.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1078,7 +1078,7 @@
       "published_iso": "2026-10-01T18:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 31.1,
+      "hours_since_published": 31.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1101,14 +1101,14 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "How Walmart, Ulta, and Amazon Are Growing in Wellness - uschamber.com",
+      "title": "How Walmart, Ulta, and Amazon Are Growing in Wellness - US Chamber",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnBZb1VCNm5nenJ5ekx1R0dsNklBSjNVVHh1ZnV5YUl0enZTY0pyR0JMdWdmU01KaWo2bU82S3dsY0lMT09OVG1fRS1lMW5pcW4xc0NjeTJSOG5HZ1E0eF9zeHJHMG5IQUxHbGdxT05ycktHc0hWQlFId0xDaW0zbUV0MnhmVGtMbk1xWUxRZw?oc=5\" target=\"_blank\">How Walmart, Ulta, and Amazon Are Growing in Wellness",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnBZb1VCNm5nenJ5ekx1R0dsNklBSjNVVHh1ZnV5YUl0enZTY0pyR0JMdWdmU01KaWo2bU82S3dsY0lMT09OVG1fRS1lMW5pcW4xc0NjeTJSOG5HZ1E0eF9zeHJHMG5IQUxHbGdxT05ycktHc0hWQlFId0xDaW0zbUV0MnhmVGtMbk1xWUxRZw?oc=5",
       "published": "Wed, 30 Sep 2026 13:03:00 GMT",
       "published_iso": "2026-09-30T13:03:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 60.0,
+      "hours_since_published": 60.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1137,7 +1137,7 @@
       "published_iso": "2026-09-30T21:07:47+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 51.9,
+      "hours_since_published": 52.8,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1160,14 +1160,14 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "The Best Grocery Store Bakery French Bread Isn't From Aldi Or Costco - tastingtable.com",
+      "title": "The Best Grocery Store Bakery French Bread Isn't From Aldi Or Costco - Tasting Table",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGhuc2tFdUE0U19jRkdoV2FRcy1EbDlqWGgtTFYyWUJ2ZnZPYkgxS21NTHRTcnNqa2ExYUVGT0dxLV9jVFhtWXlic1RkSW1PNC1nbXhoR2I1a2g0UlpINnczR2lsRlI1NjBDNWd5OFZ0VTc2NTRnbXkzak1iZGpjdkxCT1RlSkYtQTNj?oc=5\" target=\"_blank\">The Best Grocery Store Bakery French Bread Isn't From Aldi ",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGhuc2tFdUE0U19jRkdoV2FRcy1EbDlqWGgtTFYyWUJ2ZnZPYkgxS21NTHRTcnNqa2ExYUVGT0dxLV9jVFhtWXlic1RkSW1PNC1nbXhoR2I1a2g0UlpINnczR2lsRlI1NjBDNWd5OFZ0VTc2NTRnbXkzak1iZGpjdkxCT1RlSkYtQTNj?oc=5",
       "published": "Thu, 01 Oct 2026 22:00:00 GMT",
       "published_iso": "2026-10-01T22:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 27.1,
+      "hours_since_published": 27.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1197,7 +1197,7 @@
       "url": "https://www.androidauthority.com/jbl-soundgear-sense-deal-3718590/",
       "source": "Android Authority",
       "_score": 145,
-      "hours_since_published": 9.8,
+      "hours_since_published": 10.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1233,7 +1233,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXlHZkRxVUFkUzdhTlhhX2htb2trYXJRN1lQZS1abVAyVkN1SEl6MFAwc1NOWmZJbm9fYnN6Mi1HRzM4U0RDZzZsUENmWkIydVVkQk1sU0xCSFNVb29TakYxRFExazFBeUtkb2M3blNaYkpzTUlXaFBpQnhNRmljWQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 74,
-      "hours_since_published": 58.7,
+      "hours_since_published": 59.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1265,7 +1265,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS29TM0o1WDV0QS1ESnVsdF9tWWhxYWozSWtqRnEybHlhb090OUtYcHI0MUhLMU9oaklxRzR0YUQ0QTBTZEhKN2V6REVMdU1mVjVGRUFyUDM5TTE5a3E2Z1dHS01FMTEydlRhWVUtZS1Kc1kwb20zdGNWX05oR2pGaXJPRy0zUEJfa3pGT3ozQ1pQZmNPel9MSW1KUkMzbTBJdmVsTzFOUElYOFJYM1Nj?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 46,
-      "hours_since_published": 69.8,
+      "hours_since_published": 70.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1295,7 +1295,7 @@
       "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.9,
+      "hours_since_published": 4.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1322,7 +1322,7 @@
       "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.9,
+      "hours_since_published": 5.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1349,7 +1349,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 7.1,
+      "hours_since_published": 7.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1383,7 +1383,7 @@
           "published_iso": "2026-09-30T14:20:50+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 58.7,
+          "hours_since_published": 59.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1413,7 +1413,7 @@
           "published_iso": "2026-09-28T17:07:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 104.0,
+          "hours_since_published": 104.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1450,8 +1450,8 @@
           "published_iso": "2026-10-02T01:25:16+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 23.7,
-          "freshness_label": "24h内",
+          "hours_since_published": 24.5,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1461,7 +1461,7 @@
             ],
             "categories": []
           },
-          "_score": 404,
+          "_score": 389,
           "display_title": "Big-Box Briefing: What to watch for as...",
           "tags": [
             "🛒 渠道零售",
@@ -1480,7 +1480,7 @@
           "published_iso": "2026-10-01T18:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 31.1,
+          "hours_since_published": 31.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1517,8 +1517,8 @@
           "published_iso": "2026-10-02T01:25:16+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 23.7,
-          "freshness_label": "24h内",
+          "hours_since_published": 24.5,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1528,7 +1528,7 @@
             ],
             "categories": []
           },
-          "_score": 404,
+          "_score": 389,
           "display_title": "Big-Box Briefing: What to watch for as...",
           "tags": [
             "🛒 渠道零售",
@@ -1540,14 +1540,14 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - pnj.com",
+          "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
           "published": "Tue, 29 Sep 2026 09:10:15 GMT",
           "published_iso": "2026-09-29T09:10:15+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 87.9,
+          "hours_since_published": 88.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1584,7 +1584,7 @@
           "published_iso": "2026-09-30T14:20:50+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 58.7,
+          "hours_since_published": 59.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1614,7 +1614,7 @@
           "published_iso": "2026-09-28T14:40:43+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 106.4,
+          "hours_since_published": 107.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1650,7 +1650,7 @@
           "published_iso": "2026-09-28T14:40:43+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 106.4,
+          "hours_since_published": 107.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1679,7 +1679,7 @@
           "published_iso": "2026-09-28T17:07:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 104.0,
+          "hours_since_published": 104.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1716,8 +1716,8 @@
           "published_iso": "2026-10-02T01:25:16+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 23.7,
-          "freshness_label": "24h内",
+          "hours_since_published": 24.5,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1727,7 +1727,7 @@
             ],
             "categories": []
           },
-          "_score": 404,
+          "_score": 389,
           "display_title": "Big-Box Briefing: What to watch for as...",
           "tags": [
             "🛒 渠道零售",
@@ -1739,14 +1739,14 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - pnj.com",
+          "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
           "published": "Tue, 29 Sep 2026 09:10:15 GMT",
           "published_iso": "2026-09-29T09:10:15+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 87.9,
+          "hours_since_published": 88.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1783,7 +1783,7 @@
           "published_iso": "2026-09-30T14:20:50+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 58.7,
+          "hours_since_published": 59.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1813,7 +1813,7 @@
           "url": "https://www.androidauthority.com/jbl-soundgear-sense-deal-3718590/",
           "source": "Android Authority",
           "_score": 145,
-          "hours_since_published": 9.8,
+          "hours_since_published": 10.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1849,14 +1849,14 @@
       "count": 3,
       "items": [
         {
-          "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - pnj.com",
+          "title": "Best store-brand groceries at Aldi, Costco, Walmart and Target - Pensacola News Journal",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5\" ",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVYzWjRYa1FDRmNsVXdGdHpkMHQxQW5KV1ZJalljZzFMQk85VGxGbFVnazVNcEt4V1RwT2JWRHpGaDEzSTRCdmwxblZjeHZKdVRMcmtYZ0RGQlJaaXBBWXI3UDhHYlZZWWRGbkVMaTF0QWRfUTZNckVkUllNYlcwSXUweUY0R0hRUGlzbmtSTnIxbE83MXJRTG9vMElCTU9IdWJUdGRpeUhqdnpZdWl3Y2NqdDF0OGdfLVllYTNRQUxLR3M?oc=5",
           "published": "Tue, 29 Sep 2026 09:10:15 GMT",
           "published_iso": "2026-09-29T09:10:15+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 87.9,
+          "hours_since_published": 88.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1879,14 +1879,14 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "The Best Grocery Store Bakery French Bread Isn't From Aldi Or Costco - tastingtable.com",
+          "title": "The Best Grocery Store Bakery French Bread Isn't From Aldi Or Costco - Tasting Table",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGhuc2tFdUE0U19jRkdoV2FRcy1EbDlqWGgtTFYyWUJ2ZnZPYkgxS21NTHRTcnNqa2ExYUVGT0dxLV9jVFhtWXlic1RkSW1PNC1nbXhoR2I1a2g0UlpINnczR2lsRlI1NjBDNWd5OFZ0VTc2NTRnbXkzak1iZGpjdkxCT1RlSkYtQTNj?oc=5\" target=\"_blank\">The Best Grocery Store Bakery French Bread Isn't From Aldi ",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGhuc2tFdUE0U19jRkdoV2FRcy1EbDlqWGgtTFYyWUJ2ZnZPYkgxS21NTHRTcnNqa2ExYUVGT0dxLV9jVFhtWXlic1RkSW1PNC1nbXhoR2I1a2g0UlpINnczR2lsRlI1NjBDNWd5OFZ0VTc2NTRnbXkzak1iZGpjdkxCT1RlSkYtQTNj?oc=5",
           "published": "Thu, 01 Oct 2026 22:00:00 GMT",
           "published_iso": "2026-10-01T22:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 27.1,
+          "hours_since_published": 27.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],

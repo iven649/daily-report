@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05 08:46:37 CST",
+  "generated_at": "2026-10-05 09:57:33 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -714,8 +714,8 @@
     "published_iso": "2026-10-02T01:25:16+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 71.4,
-    "freshness_label": "近3天",
+    "hours_since_published": 72.5,
+    "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
       "channels": [
@@ -725,7 +725,7 @@
       ],
       "categories": []
     },
-    "_score": 389,
+    "_score": 374,
     "display_title": "Big-Box Briefing: What to watch for as...",
     "tags": [
       "🛒 渠道零售",
@@ -746,8 +746,8 @@
       "published_iso": "2026-10-02T01:25:16+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 71.4,
-      "freshness_label": "近3天",
+      "hours_since_published": 72.5,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -757,7 +757,7 @@
         ],
         "categories": []
       },
-      "_score": 389,
+      "_score": 374,
       "display_title": "Big-Box Briefing: What to watch for as...",
       "tags": [
         "🛒 渠道零售",
@@ -776,7 +776,7 @@
       "published_iso": "2026-09-29T09:10:15+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 135.6,
+      "hours_since_published": 136.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -806,7 +806,7 @@
       "published_iso": "2026-10-01T18:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 78.8,
+      "hours_since_published": 80.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -838,7 +838,7 @@
       "published_iso": "2026-10-01T16:58:37+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 79.8,
+      "hours_since_published": 81.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -864,14 +864,14 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Sennheiser’s First Momentum Headphones In Four Years Were Worth The Wait - Forbes",
+      "title": "Sennheiser’s First Momentum Headphones In Four Years Were Worth The Wait - forbes.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOcG9DSGpCRWx0RTVRZUwxMlJwcWhEeTZJVFZadGl6Z1dKcnEtczZwbjRBV3NMeHR4dGh6bGlBWWsxb0x1S0tqSVAwd1lCdDJiQnQxbmhxNGVpN3M4XzBXUnFvY3lNdWJLdHpFalJDUjA5YkRQeHBJQWlPUHZwcklmR254eUJrWnFpT2Y5aWpwUmZKU0I4UlRnZGY4aDkycS1lRmU2WXZPWHY0SzhjMldQMkxKeTBzSjJQU3k0eWhQVURRVFNX?oc=5\"",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcG9DSGpCRWx0RTVRZUwxMlJwcWhEeTZJVFZadGl6Z1dKcnEtczZwbjRBV3NMeHR4dGh6bGlBWWsxb0x1S0tqSVAwd1lCdDJiQnQxbmhxNGVpN3M4XzBXUnFvY3lNdWJLdHpFalJDUjA5YkRQeHBJQWlPUHZwcklmR254eUJrWnFpT2Y5aWpwUmZKU0I4UlRnZGY4aDkycS1lRmU2WXZPWHY0SzhjMldQMkxKeTBzSjJQU3k0eWhQVURRVFNX?oc=5",
       "published": "Sat, 03 Oct 2026 23:18:42 GMT",
       "published_iso": "2026-10-03T23:18:42+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 25.5,
+      "hours_since_published": 26.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -902,7 +902,7 @@
       "published_iso": "2026-09-30T14:20:50+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 106.4,
+      "hours_since_published": 107.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -932,7 +932,7 @@
       "published_iso": "2026-09-28T14:40:43+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 154.1,
+      "hours_since_published": 155.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -961,7 +961,7 @@
       "published_iso": "2026-10-02T11:15:10+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 61.5,
+      "hours_since_published": 62.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -983,14 +983,14 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Bose starts adding Auracast to its headphones - theverge.com",
+      "title": "Bose starts adding Auracast to its headphones - The Verge",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9wZ3VyRzlTV3Zpa09zVENyNnJKWnVWeEs0SVpuQ1dNcFBYVUd2empkYWV5T1lLOGdqa3l0bU0yejYtUmZ6ZDQ2azVMWjVjRVBDLW1jc0tVaTFmTENsZ0tOTWhrVkVwQUVabDlEeW5SQk52empoWDcybk91N1hwUGM?oc=5\" target=\"_blank\">Bose starts adding Auracast to its headphones</a>&nbsp;&nbsp;<font color=\"#6",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wZ3VyRzlTV3Zpa09zVENyNnJKWnVWeEs0SVpuQ1dNcFBYVUd2empkYWV5T1lLOGdqa3l0bU0yejYtUmZ6ZDQ2azVMWjVjRVBDLW1jc0tVaTFmTENsZ0tOTWhrVkVwQUVabDlEeW5SQk52empoWDcybk91N1hwUGM?oc=5",
       "published": "Mon, 28 Sep 2026 19:31:24 GMT",
       "published_iso": "2026-09-28T19:31:24+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 149.3,
+      "hours_since_published": 150.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1021,8 +1021,8 @@
       "published_iso": "2026-10-02T01:25:16+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 71.4,
-      "freshness_label": "近3天",
+      "hours_since_published": 72.5,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1032,7 +1032,7 @@
         ],
         "categories": []
       },
-      "_score": 389,
+      "_score": 374,
       "display_title": "Big-Box Briefing: What to watch for as...",
       "tags": [
         "🛒 渠道零售",
@@ -1051,7 +1051,7 @@
       "published_iso": "2026-09-29T09:10:15+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 135.6,
+      "hours_since_published": 136.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1081,7 +1081,7 @@
       "published_iso": "2026-10-01T18:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 78.8,
+      "hours_since_published": 80.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1111,7 +1111,7 @@
       "published_iso": "2026-10-01T18:24:23+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 78.4,
+      "hours_since_published": 79.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1140,7 +1140,7 @@
       "published_iso": "2026-10-02T15:48:06+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 57.0,
+      "hours_since_published": 58.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1170,7 +1170,7 @@
       "published_iso": "2026-10-02T21:00:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 51.8,
+      "hours_since_published": 53.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1202,7 +1202,7 @@
       "url": "https://www.androidauthority.com/jbl-soundgear-sense-deal-3718590/",
       "source": "Android Authority",
       "_score": 130,
-      "hours_since_published": 57.5,
+      "hours_since_published": 58.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1238,7 +1238,7 @@
       "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 12.2,
+      "hours_since_published": 13.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1268,7 +1268,7 @@
       "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
       "source": "The Verge",
       "_score": 67,
-      "hours_since_published": 7.5,
+      "hours_since_published": 8.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1298,7 +1298,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 64,
-      "hours_since_published": 61.5,
+      "hours_since_published": 62.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1329,7 +1329,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXlHZkRxVUFkUzdhTlhhX2htb2trYXJRN1lQZS1abVAyVkN1SEl6MFAwc1NOWmZJbm9fYnN6Mi1HRzM4U0RDZzZsUENmWkIydVVkQk1sU0xCSFNVb29TakYxRFExazFBeUtkb2M3blNaYkpzTUlXaFBpQnhNRmljWQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 59,
-      "hours_since_published": 106.4,
+      "hours_since_published": 107.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1361,7 +1361,7 @@
       "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
       "source": "The Verge",
       "_score": 53,
-      "hours_since_published": 11.8,
+      "hours_since_published": 13.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1398,8 +1398,8 @@
           "published_iso": "2026-10-02T01:25:16+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 71.4,
-          "freshness_label": "近3天",
+          "hours_since_published": 72.5,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1409,7 +1409,7 @@
             ],
             "categories": []
           },
-          "_score": 389,
+          "_score": 374,
           "display_title": "Big-Box Briefing: What to watch for as...",
           "tags": [
             "🛒 渠道零售",
@@ -1428,7 +1428,7 @@
           "published_iso": "2026-10-01T18:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 78.8,
+          "hours_since_published": 80.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1465,7 +1465,7 @@
           "published_iso": "2026-10-01T16:58:37+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 79.8,
+          "hours_since_published": 81.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1491,14 +1491,14 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Sennheiser’s First Momentum Headphones In Four Years Were Worth The Wait - Forbes",
+          "title": "Sennheiser’s First Momentum Headphones In Four Years Were Worth The Wait - forbes.com",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOcG9DSGpCRWx0RTVRZUwxMlJwcWhEeTZJVFZadGl6Z1dKcnEtczZwbjRBV3NMeHR4dGh6bGlBWWsxb0x1S0tqSVAwd1lCdDJiQnQxbmhxNGVpN3M4XzBXUnFvY3lNdWJLdHpFalJDUjA5YkRQeHBJQWlPUHZwcklmR254eUJrWnFpT2Y5aWpwUmZKU0I4UlRnZGY4aDkycS1lRmU2WXZPWHY0SzhjMldQMkxKeTBzSjJQU3k0eWhQVURRVFNX?oc=5\"",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcG9DSGpCRWx0RTVRZUwxMlJwcWhEeTZJVFZadGl6Z1dKcnEtczZwbjRBV3NMeHR4dGh6bGlBWWsxb0x1S0tqSVAwd1lCdDJiQnQxbmhxNGVpN3M4XzBXUnFvY3lNdWJLdHpFalJDUjA5YkRQeHBJQWlPUHZwcklmR254eUJrWnFpT2Y5aWpwUmZKU0I4UlRnZGY4aDkycS1lRmU2WXZPWHY0SzhjMldQMkxKeTBzSjJQU3k0eWhQVURRVFNX?oc=5",
           "published": "Sat, 03 Oct 2026 23:18:42 GMT",
           "published_iso": "2026-10-03T23:18:42+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 25.5,
+          "hours_since_published": 26.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1536,7 +1536,7 @@
           "published_iso": "2026-09-30T14:20:50+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 106.4,
+          "hours_since_published": 107.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1566,7 +1566,7 @@
           "published_iso": "2026-09-28T17:07:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 151.7,
+          "hours_since_published": 152.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1600,8 +1600,8 @@
           "published_iso": "2026-10-02T01:25:16+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 71.4,
-          "freshness_label": "近3天",
+          "hours_since_published": 72.5,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1611,7 +1611,7 @@
             ],
             "categories": []
           },
-          "_score": 389,
+          "_score": 374,
           "display_title": "Big-Box Briefing: What to watch for as...",
           "tags": [
             "🛒 渠道零售",
@@ -1630,7 +1630,7 @@
           "published_iso": "2026-09-29T09:10:15+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 135.6,
+          "hours_since_published": 136.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1667,7 +1667,7 @@
           "published_iso": "2026-10-01T16:58:37+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 79.8,
+          "hours_since_published": 81.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1700,7 +1700,7 @@
           "published_iso": "2026-09-28T14:40:43+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 154.1,
+          "hours_since_published": 155.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1736,8 +1736,8 @@
           "published_iso": "2026-10-02T01:25:16+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 71.4,
-          "freshness_label": "近3天",
+          "hours_since_published": 72.5,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1747,7 +1747,7 @@
             ],
             "categories": []
           },
-          "_score": 389,
+          "_score": 374,
           "display_title": "Big-Box Briefing: What to watch for as...",
           "tags": [
             "🛒 渠道零售",
@@ -1766,7 +1766,7 @@
           "published_iso": "2026-09-29T09:10:15+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 135.6,
+          "hours_since_published": 136.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1803,7 +1803,7 @@
           "published_iso": "2026-09-29T09:10:15+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 135.6,
+          "hours_since_published": 136.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1833,7 +1833,7 @@
           "published_iso": "2026-10-01T22:00:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 74.8,
+          "hours_since_published": 76.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1865,7 +1865,7 @@
           "published_iso": "2026-09-30T14:20:50+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 106.4,
+          "hours_since_published": 107.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1895,7 +1895,7 @@
           "url": "https://www.androidauthority.com/jbl-soundgear-sense-deal-3718590/",
           "source": "Android Authority",
           "_score": 130,
-          "hours_since_published": 57.5,
+          "hours_since_published": 58.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [

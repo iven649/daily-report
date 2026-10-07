@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07 09:25:32 CST",
+  "generated_at": "2026-10-07 10:21:02 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -714,7 +714,7 @@
     "published_iso": "2026-10-06T20:54:07+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 4.5,
+    "hours_since_published": 5.4,
     "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
@@ -746,7 +746,7 @@
       "published_iso": "2026-10-06T20:54:07+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 4.5,
+      "hours_since_published": 5.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -776,7 +776,7 @@
       "published_iso": "2026-10-01T18:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 127.4,
+      "hours_since_published": 128.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -799,34 +799,32 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "The 15 best early October Prime Day noise-cancelling headphones deals: Shop Bose, AirPods, and Sony - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkV0cmUyUGxMTkF6YkZHSkFfLWRTOFl1N09lbzIzN0RORXoySVh2MmMyVmJIT3lKTWJPcnBLb0N5S3dLMGc1bjdud0luQmduMEZ4WU9hdGdXQk5udUhDcm1JOFYzaHY1VDE3T0FTY2ZfblZETlJLSF9CNUxTT0NNU0FIQkhudHNxc0xZTXRwYjFJRm1RNVBCcg?oc=5\" target=\"_blank\">The 15 best early October Prime Day noise",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkV0cmUyUGxMTkF6YkZHSkFfLWRTOFl1N09lbzIzN0RORXoySVh2MmMyVmJIT3lKTWJPcnBLb0N5S3dLMGc1bjdud0luQmduMEZ4WU9hdGdXQk5udUhDcm1JOFYzaHY1VDE3T0FTY2ZfblZETlJLSF9CNUxTT0NNU0FIQkhudHNxc0xZTXRwYjFJRm1RNVBCcg?oc=5",
-      "published": "Tue, 06 Oct 2026 01:31:03 GMT",
-      "published_iso": "2026-10-06T01:31:03+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 23.9,
-      "freshness_label": "24h内",
+      "title": "Amazon and Walmart Want Merchants’ Software Budgets - PYMNTS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGNZUkd4REgxS1Z1UUdnQlFqbGtlcmtNaGxxR05Xb0FvakJlQWhZdlVoUnpHRy13OFFtTXRYc3hXS0dTTkVGTi1KWEd5ZS1sc1JBblJvSDBDTDFxUF9RVmdBSmFXV0x4MGR2eTR0djZiQzFELTc5cjFlelhrRWpCZm5GZjNxeXFmQ29FcE1JdG1xVjlpQ01pWU04RkhVYmJkS0lj?oc=5\" target=\"_blank\">Amazon and Walmart Want Mer",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGNZUkd4REgxS1Z1UUdnQlFqbGtlcmtNaGxxR05Xb0FvakJlQWhZdlVoUnpHRy13OFFtTXRYc3hXS0dTTkVGTi1KWEd5ZS1sc1JBblJvSDBDTDFxUF9RVmdBSmFXV0x4MGR2eTR0djZiQzFELTc5cjFlelhrRWpCZm5GZjNxeXFmQ29FcE1JdG1xVjlpQ01pWU04RkhVYmJkS0lj?oc=5",
+      "published": "Thu, 01 Oct 2026 18:24:23 GMT",
+      "published_iso": "2026-10-01T18:24:23+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 127.9,
+      "freshness_label": "近7天",
       "monitor_hits": {
-        "brands": [
-          "Bose",
-          "Sony"
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
         ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
+        "categories": []
       },
-      "_score": 309,
-      "display_title": "The 15 best early October Prime Day...",
+      "_score": 304,
+      "display_title": "Amazon and Walmart Want Merchants’...",
       "tags": [
-        "🎧 耳机音频",
-        "💰 价格促销"
+        "🛒 渠道零售",
+        "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "Bose / Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
@@ -839,8 +837,8 @@
       "published_iso": "2026-10-06T01:31:03+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 23.9,
-      "freshness_label": "24h内",
+      "hours_since_published": 24.8,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Bose",
@@ -851,7 +849,7 @@
           "headphone"
         ]
       },
-      "_score": 309,
+      "_score": 294,
       "display_title": "The 15 best early October Prime Day...",
       "tags": [
         "🎧 耳机音频",
@@ -870,7 +868,7 @@
       "published_iso": "2026-10-06T14:36:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 10.8,
+      "hours_since_published": 11.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -903,7 +901,7 @@
       "published_iso": "2026-10-03T23:18:42+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 74.1,
+      "hours_since_published": 75.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -934,7 +932,7 @@
       "published_iso": "2026-10-06T23:10:31+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 2.2,
+      "hours_since_published": 3.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -966,7 +964,7 @@
       "published_iso": "2026-09-30T14:20:50+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 155.1,
+      "hours_since_published": 156.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -996,7 +994,7 @@
       "published_iso": "2026-10-06T07:07:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 18.3,
+      "hours_since_published": 19.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1029,7 +1027,7 @@
       "published_iso": "2026-10-06T20:54:07+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 4.5,
+      "hours_since_published": 5.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1059,7 +1057,7 @@
       "published_iso": "2026-10-01T18:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 127.4,
+      "hours_since_published": 128.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1089,7 +1087,7 @@
       "published_iso": "2026-10-01T18:24:23+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 127.0,
+      "hours_since_published": 127.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1118,7 +1116,7 @@
       "published_iso": "2026-10-06T21:03:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 4.4,
+      "hours_since_published": 5.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1147,7 +1145,7 @@
       "published_iso": "2026-10-06T19:01:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 6.4,
+      "hours_since_published": 7.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1177,7 +1175,7 @@
       "published_iso": "2026-10-06T15:50:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 9.6,
+      "hours_since_published": 10.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1207,7 +1205,7 @@
       "url": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
       "source": "The Verge",
       "_score": 85,
-      "hours_since_published": 5.9,
+      "hours_since_published": 6.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1240,7 +1238,7 @@
       "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 3.4,
+      "hours_since_published": 4.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1270,7 +1268,7 @@
       "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
       "source": "The Verge",
       "_score": 75,
-      "hours_since_published": 5.4,
+      "hours_since_published": 6.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1299,7 +1297,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXlHZkRxVUFkUzdhTlhhX2htb2trYXJRN1lQZS1abVAyVkN1SEl6MFAwc1NOWmZJbm9fYnN6Mi1HRzM4U0RDZzZsUENmWkIydVVkQk1sU0xCSFNVb29TakYxRFExazFBeUtkb2M3blNaYkpzTUlXaFBpQnhNRmljWQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 59,
-      "hours_since_published": 155.1,
+      "hours_since_published": 156.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1331,7 +1329,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 49,
-      "hours_since_published": 110.2,
+      "hours_since_published": 111.1,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1362,7 +1360,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 2.0,
+      "hours_since_published": 2.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1396,7 +1394,7 @@
           "published_iso": "2026-10-01T18:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 127.4,
+          "hours_since_published": 128.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1426,7 +1424,7 @@
           "published_iso": "2026-10-01T18:24:23+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 127.0,
+          "hours_since_published": 127.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1462,8 +1460,8 @@
           "published_iso": "2026-10-06T01:31:03+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 23.9,
-          "freshness_label": "24h内",
+          "hours_since_published": 24.8,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Bose",
@@ -1474,7 +1472,7 @@
               "headphone"
             ]
           },
-          "_score": 309,
+          "_score": 294,
           "display_title": "The 15 best early October Prime Day...",
           "tags": [
             "🎧 耳机音频",
@@ -1493,7 +1491,7 @@
           "published_iso": "2026-10-06T14:36:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 10.8,
+          "hours_since_published": 11.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1533,7 +1531,7 @@
           "published_iso": "2026-10-01T18:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 127.4,
+          "hours_since_published": 128.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1563,7 +1561,7 @@
           "published_iso": "2026-10-01T18:24:23+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 127.0,
+          "hours_since_published": 127.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1599,8 +1597,8 @@
           "published_iso": "2026-10-06T01:31:03+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 23.9,
-          "freshness_label": "24h内",
+          "hours_since_published": 24.8,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Bose",
@@ -1611,7 +1609,7 @@
               "headphone"
             ]
           },
-          "_score": 309,
+          "_score": 294,
           "display_title": "The 15 best early October Prime Day...",
           "tags": [
             "🎧 耳机音频",
@@ -1630,7 +1628,7 @@
           "published_iso": "2026-10-06T23:10:31+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 2.2,
+          "hours_since_published": 3.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1666,8 +1664,8 @@
           "published_iso": "2026-10-06T01:31:03+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 23.9,
-          "freshness_label": "24h内",
+          "hours_since_published": 24.8,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Bose",
@@ -1678,7 +1676,7 @@
               "headphone"
             ]
           },
-          "_score": 309,
+          "_score": 294,
           "display_title": "The 15 best early October Prime Day...",
           "tags": [
             "🎧 耳机音频",
@@ -1697,7 +1695,7 @@
           "published_iso": "2026-10-06T14:36:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 10.8,
+          "hours_since_published": 11.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1737,7 +1735,7 @@
           "published_iso": "2026-10-06T20:54:07+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 4.5,
+          "hours_since_published": 5.4,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1767,7 +1765,7 @@
           "published_iso": "2026-10-01T18:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 127.4,
+          "hours_since_published": 128.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1804,7 +1802,7 @@
           "published_iso": "2026-09-30T14:20:50+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 155.1,
+          "hours_since_published": 156.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1834,7 +1832,7 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXlHZkRxVUFkUzdhTlhhX2htb2trYXJRN1lQZS1abVAyVkN1SEl6MFAwc1NOWmZJbm9fYnN6Mi1HRzM4U0RDZzZsUENmWkIydVVkQk1sU0xCSFNVb29TakYxRFExazFBeUtkb2M3blNaYkpzTUlXaFBpQnhNRmljWQ?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 59,
-          "hours_since_published": 155.1,
+          "hours_since_published": 156.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1873,7 +1871,7 @@
           "published_iso": "2026-09-30T14:20:50+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 155.1,
+          "hours_since_published": 156.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1903,7 +1901,7 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXlHZkRxVUFkUzdhTlhhX2htb2trYXJRN1lQZS1abVAyVkN1SEl6MFAwc1NOWmZJbm9fYnN6Mi1HRzM4U0RDZzZsUENmWkIydVVkQk1sU0xCSFNVb29TakYxRFExazFBeUtkb2M3blNaYkpzTUlXaFBpQnhNRmljWQ?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 59,
-          "hours_since_published": 155.1,
+          "hours_since_published": 156.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09 10:00:37 CST",
+  "generated_at": "2026-10-09 10:55:41 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -714,7 +714,7 @@
     "published_iso": "2026-10-08T18:16:35+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 7.7,
+    "hours_since_published": 8.7,
     "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
@@ -746,7 +746,7 @@
       "published_iso": "2026-10-08T18:16:35+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 7.7,
+      "hours_since_published": 8.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -776,7 +776,7 @@
       "published_iso": "2026-10-05T17:02:13+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 81.0,
+      "hours_since_published": 81.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -806,7 +806,7 @@
       "published_iso": "2026-10-08T16:08:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 9.9,
+      "hours_since_published": 10.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -829,6 +829,39 @@
   ],
   "consumer_electronics": [
     {
+      "title": "The Beats Studio Pro wireless headphones hit record-low price at Walmart — now 60% off - MassLive.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmhhU1htUWczcURTTmk2ZmZQbVhEcVR3S1RmbWp0RGZMV2JYd2VhOHB3dGpkdjJoYnNDQ2lWdF9INDhzOE00eDAxVlFhOXE5d0VVV0NhVFdtLTRpQTN3cDA3NGlNRTdtY1RBcU1NRWNIbVZWWEZBakVLZGl4cDlSOHZ0YU9NazJEUkRQLXFPdVV0MmU1aE52WWg4REdFdGYtc0gzM1VNLW9HLXlCcndxTjhqbUN1bnVQQnFzWDZwT0s3VG9Qa1ZwRS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmhhU1htUWczcURTTmk2ZmZQbVhEcVR3S1RmbWp0RGZMV2JYd2VhOHB3dGpkdjJoYnNDQ2lWdF9INDhzOE00eDAxVlFhOXE5d0VVV0NhVFdtLTRpQTN3cDA3NGlNRTdtY1RBcU1NRWNIbVZWWEZBakVLZGl4cDlSOHZ0YU9NazJEUkRQLXFPdVV0MmU1aE52WWg4REdFdGYtc0gzM1VNLW9HLXlCcndxTjhqbUN1bnVQQnFzWDZwT0s3VG9Qa1ZwRS1ScXJRaTNZMlE?oc=5",
+      "published": "Thu, 08 Oct 2026 20:25:00 GMT",
+      "published_iso": "2026-10-08T20:25:00+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 6.5,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Beats"
+        ],
+        "channels": [
+          "Walmart"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 299,
+      "display_title": "The Beats Studio Pro wireless...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
       "title": "Post-Prime Day Headphone Deals: Picks From Apple, Bose, Sony - CNET",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUtuSFNFU2UtcXZSa0xyWFFiREZXWXZfaXpSeHNqU3hudDFCMU1oM01HTTYtNGZQdm84cnBqdVowLTBIeGpCZFBobElEYjN2V3VQaWN1OUladFZIZXBXUGY2eEoxMVpCRzN2ZnhybXEtT3phd3YwUG5OMURQaEkybHR1dHVIWnd3UVBDaA?oc=5\" target=\"_blank\">Post-Prime Day Headphone Deals: Picks From Apple, Bose, S",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUtuSFNFU2UtcXZSa0xyWFFiREZXWXZfaXpSeHNqU3hudDFCMU1oM01HTTYtNGZQdm84cnBqdVowLTBIeGpCZFBobElEYjN2V3VQaWN1OUladFZIZXBXUGY2eEoxMVpCRzN2ZnhybXEtT3phd3YwUG5OMURQaEkybHR1dHVIWnd3UVBDaA?oc=5",
@@ -836,7 +869,7 @@
       "published_iso": "2026-10-08T15:41:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 10.3,
+      "hours_since_published": 11.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -868,7 +901,7 @@
       "published_iso": "2026-10-03T23:18:42+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 122.7,
+      "hours_since_published": 123.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -899,7 +932,7 @@
       "published_iso": "2026-10-06T14:36:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 59.4,
+      "hours_since_published": 60.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -932,7 +965,7 @@
       "published_iso": "2026-10-08T03:04:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 22.9,
+      "hours_since_published": 23.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -964,7 +997,7 @@
       "published_iso": "2026-10-07T17:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 33.0,
+      "hours_since_published": 33.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -985,35 +1018,6 @@
       "importance": "高",
       "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Stay aware of your surroundings with the best open-ear headphones - Runner's World",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjBIUnc3MURiVk9tSlE1Q0UtS3lTVzRLYTd1eG5KNnBOY2JpenJhMUNpQnlEQnZPazJMVjNHM2FBakJxSGxaUEVKSkFxLVRyS3o2TjNzQVZZZHFwa2hvNVpxd0x2SzRwMGZkZ1R4dmhtWDJmT2MxZjhscVBUR0tTaHlpNkdXdw?oc=5\" target=\"_blank\">Stay aware of your surroundings with the best open-ear headphones",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjBIUnc3MURiVk9tSlE1Q0UtS3lTVzRLYTd1eG5KNnBOY2JpenJhMUNpQnlEQnZPazJMVjNHM2FBakJxSGxaUEVKSkFxLVRyS3o2TjNzQVZZZHFwa2hvNVpxd0x2SzRwMGZkZ1R4dmhtWDJmT2MxZjhscVBUR0tTaHlpNkdXdw?oc=5",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "published_iso": "2026-10-06T07:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 67.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "open-ear",
-          "headphone"
-        ]
-      },
-      "_score": 226,
-      "display_title": "Stay aware of your surroundings with...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
@@ -1025,7 +1029,7 @@
       "published_iso": "2026-10-08T18:16:35+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 7.7,
+      "hours_since_published": 8.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1055,7 +1059,7 @@
       "published_iso": "2026-10-05T17:02:13+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 81.0,
+      "hours_since_published": 81.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1085,7 +1089,7 @@
       "published_iso": "2026-10-08T16:08:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 9.9,
+      "hours_since_published": 10.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1113,7 +1117,7 @@
       "published_iso": "2026-10-07T14:13:24+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 35.8,
+      "hours_since_published": 36.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1135,36 +1139,6 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Walmart challenges Amazon Prime Big Deal Days with $79 AirPods 4 deal - AppleInsider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTUzcWY4VTFuOUYwUnRsZDdjUm5oY3htR2hQLV92VGx5RzRpNWxJU1Q1RENMajF1bm1xaXJwSGZYVjVZUUxNd2szVlZPczl0d04yOHdkQWV2WXlxbFBSdm1rWHZGdzJYVmQtUldEeHV0Z1lEUnFmRTB2LWZJU2ZMbTNPWEsyWXgybXRaR3RRNEg5Njk5ZllweVBrc2pjbDlEMk14NHBWbThoR016akVYaw?oc=5\" target=\"_blank\">Walmart c",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTUzcWY4VTFuOUYwUnRsZDdjUm5oY3htR2hQLV92VGx5RzRpNWxJU1Q1RENMajF1bm1xaXJwSGZYVjVZUUxNd2szVlZPczl0d04yOHdkQWV2WXlxbFBSdm1rWHZGdzJYVmQtUldEeHV0Z1lEUnFmRTB2LWZJU2ZMbTNPWEsyWXgybXRaR3RRNEg5Njk5ZllweVBrc2pjbDlEMk14NHBWbThoR016akVYaw?oc=5",
-      "published": "Tue, 06 Oct 2026 19:01:00 GMT",
-      "published_iso": "2026-10-06T19:01:00+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news",
-      "hours_since_published": 55.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 279,
-      "display_title": "Walmart challenges Amazon Prime Big...",
-      "tags": [
-        "🎧 耳机音频",
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
       "title": "65+ Amazon Prime Day tech deals: Last chance to save over 50% on top products from Apple, Sony, Bose and more - NBC News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlB4V3AzT19tVGtQTm1zWlJMRzYwVGVidGdQR0d6UkNnc29MckNRT1kxQnZNVUZKUzV1YVRGM09NQUJLMUtpWEhxb1NoMzI2cTlaRjdxT1liWGVTVDBCZ1FkR2ZESXhsRjg3NmJYZWY2bkJlS3lRcXVOVFA2bUhSZTdFQnRQU21fdUgtYg?oc=5\" target=\"_blank\">65+ Amazon Prime Day tech deals: Last chance to save over",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlB4V3AzT19tVGtQTm1zWlJMRzYwVGVidGdQR0d6UkNnc29MckNRT1kxQnZNVUZKUzV1YVRGM09NQUJLMUtpWEhxb1NoMzI2cTlaRjdxT1liWGVTVDBCZ1FkR2ZESXhsRjg3NmJYZWY2bkJlS3lRcXVOVFA2bUhSZTdFQnRQU21fdUgtYg?oc=5",
@@ -1172,7 +1146,7 @@
       "published_iso": "2026-10-08T03:04:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 22.9,
+      "hours_since_published": 23.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1195,6 +1169,36 @@
       "importance": "高",
       "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Amazon vs Walmart: Who Has the Cheapest Prices? - Kiplinger",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOejV2Sm1QRVdvNklNQy1uaVJtdktWc0k4c0c2aldIaEZnYVNaOUpzNXJNa3I0dzdZcW9KMGdxUzB6U0Y0RzZSaXE3aXF3NXVkOUVlbkJYMV9nZmR5UEhGZWNKTlVXN0JDUWxfVmFfTUFxSHUwdlo4MmJLNUJDUjR3RHE2ZVphRzF1MmN6VHR5czBjY0tUdS0yN1JLU3RnV2NVYm9BQ2xiVQ?oc=5\" target=\"_blank\">Amazon vs Walmart: Wh",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejV2Sm1QRVdvNklNQy1uaVJtdktWc0k4c0c2aldIaEZnYVNaOUpzNXJNa3I0dzdZcW9KMGdxUzB6U0Y0RzZSaXE3aXF3NXVkOUVlbkJYMV9nZmR5UEhGZWNKTlVXN0JDUWxfVmFfTUFxSHUwdlo4MmJLNUJDUjR3RHE2ZVphRzF1MmN6VHR5czBjY0tUdS0yN1JLU3RnV2NVYm9BQ2xiVQ?oc=5",
+      "published": "Fri, 02 Oct 2026 15:48:06 GMT",
+      "published_iso": "2026-10-02T15:48:06+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 155.1,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 274,
+      "display_title": "Amazon vs Walmart: Who Has the Cheapest...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "products": [
@@ -1206,7 +1210,7 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMNi1LLUZudjhSS3l1MUVKcXdYN2FFbjZBaDlJQ2N4ZGFWSVN4eWFQZ18xNGxGbm9zWlRCbWZNU1lKU0ZzeGl0R1M5T1FiZUJHRUFPUXZoWWhFSE9BT0w4Zlk0NkhXZG5CenJWQzRSOUlEci03aGNXdQ?oc=5",
       "source": "Google News - Competitor Watch",
       "_score": 105,
-      "hours_since_published": 5.8,
+      "hours_since_published": 6.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1238,7 +1242,7 @@
       "url": "https://www.androidauthority.com/soundcore-aeroclip-deal-3720853/",
       "source": "Android Authority",
       "_score": 103,
-      "hours_since_published": 10.2,
+      "hours_since_published": 11.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1272,7 +1276,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjBIUnc3MURiVk9tSlE1Q0UtS3lTVzRLYTd1eG5KNnBOY2JpenJhMUNpQnlEQnZPazJMVjNHM2FBakJxSGxaUEVKSkFxLVRyS3o2TjNzQVZZZHFwa2hvNVpxd0x2SzRwMGZkZ1R4dmhtWDJmT2MxZjhscVBUR0tTaHlpNkdXdw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 56,
-      "hours_since_published": 67.0,
+      "hours_since_published": 67.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1303,7 +1307,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 49,
-      "hours_since_published": 158.8,
+      "hours_since_published": 159.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1334,7 +1338,7 @@
       "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.5,
+      "hours_since_published": 4.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1361,7 +1365,7 @@
       "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 4.6,
+      "hours_since_published": 5.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1386,7 +1390,7 @@
     {
       "name": "Amazon",
       "type": "渠道",
-      "count": 12,
+      "count": 11,
       "items": [
         {
           "title": "Walmart Defends Its Pricing as Amazon Kicks Off Holiday Sales - PYMNTS.com",
@@ -1396,7 +1400,7 @@
           "published_iso": "2026-10-08T18:16:35+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 7.7,
+          "hours_since_published": 8.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1426,7 +1430,7 @@
           "published_iso": "2026-10-05T17:02:13+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 81.0,
+          "hours_since_published": 81.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1453,8 +1457,41 @@
     {
       "name": "headphone",
       "type": "品类",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "The Beats Studio Pro wireless headphones hit record-low price at Walmart — now 60% off - MassLive.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmhhU1htUWczcURTTmk2ZmZQbVhEcVR3S1RmbWp0RGZMV2JYd2VhOHB3dGpkdjJoYnNDQ2lWdF9INDhzOE00eDAxVlFhOXE5d0VVV0NhVFdtLTRpQTN3cDA3NGlNRTdtY1RBcU1NRWNIbVZWWEZBakVLZGl4cDlSOHZ0YU9NazJEUkRQLXFPdVV0MmU1aE52WWg4REdFdGYtc0gzM1VNLW9HLXlCcndxTjhqbUN1bnVQQnFzWDZwT0s3VG9Qa1ZwRS",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmhhU1htUWczcURTTmk2ZmZQbVhEcVR3S1RmbWp0RGZMV2JYd2VhOHB3dGpkdjJoYnNDQ2lWdF9INDhzOE00eDAxVlFhOXE5d0VVV0NhVFdtLTRpQTN3cDA3NGlNRTdtY1RBcU1NRWNIbVZWWEZBakVLZGl4cDlSOHZ0YU9NazJEUkRQLXFPdVV0MmU1aE52WWg4REdFdGYtc0gzM1VNLW9HLXlCcndxTjhqbUN1bnVQQnFzWDZwT0s3VG9Qa1ZwRS1ScXJRaTNZMlE?oc=5",
+          "published": "Thu, 08 Oct 2026 20:25:00 GMT",
+          "published_iso": "2026-10-08T20:25:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 6.5,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Beats"
+            ],
+            "channels": [
+              "Walmart"
+            ],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 299,
+          "display_title": "The Beats Studio Pro wireless...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
         {
           "title": "Post-Prime Day Headphone Deals: Picks From Apple, Bose, Sony - CNET",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUtuSFNFU2UtcXZSa0xyWFFiREZXWXZfaXpSeHNqU3hudDFCMU1oM01HTTYtNGZQdm84cnBqdVowLTBIeGpCZFBobElEYjN2V3VQaWN1OUladFZIZXBXUGY2eEoxMVpCRzN2ZnhybXEtT3phd3YwUG5OMURQaEkybHR1dHVIWnd3UVBDaA?oc=5\" target=\"_blank\">Post-Prime Day Headphone Deals: Picks From Apple, Bose, S",
@@ -1463,7 +1500,7 @@
           "published_iso": "2026-10-08T15:41:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 10.3,
+          "hours_since_published": 11.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1486,37 +1523,6 @@
           "importance": "高",
           "business_note": "Bose / Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Sennheiser’s First Momentum Headphones In Four Years Were Worth The Wait - Forbes",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOcG9DSGpCRWx0RTVRZUwxMlJwcWhEeTZJVFZadGl6Z1dKcnEtczZwbjRBV3NMeHR4dGh6bGlBWWsxb0x1S0tqSVAwd1lCdDJiQnQxbmhxNGVpN3M4XzBXUnFvY3lNdWJLdHpFalJDUjA5YkRQeHBJQWlPUHZwcklmR254eUJrWnFpT2Y5aWpwUmZKU0I4UlRnZGY4aDkycS1lRmU2WXZPWHY0SzhjMldQMkxKeTBzSjJQU3k0eWhQVURRVFNX?oc=5\"",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcG9DSGpCRWx0RTVRZUwxMlJwcWhEeTZJVFZadGl6Z1dKcnEtczZwbjRBV3NMeHR4dGh6bGlBWWsxb0x1S0tqSVAwd1lCdDJiQnQxbmhxNGVpN3M4XzBXUnFvY3lNdWJLdHpFalJDUjA5YkRQeHBJQWlPUHZwcklmR254eUJrWnFpT2Y5aWpwUmZKU0I4UlRnZGY4aDkycS1lRmU2WXZPWHY0SzhjMldQMkxKeTBzSjJQU3k0eWhQVURRVFNX?oc=5",
-          "published": "Sat, 03 Oct 2026 23:18:42 GMT",
-          "published_iso": "2026-10-03T23:18:42+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 122.7,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Sennheiser",
-              "DJI"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 279,
-          "display_title": "Sennheiser’s First Momentum Headphones...",
-          "tags": [
-            "🎧 耳机音频",
-            "🚁 无人机影像"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Sennheiser / DJI相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
@@ -1533,7 +1539,7 @@
           "published_iso": "2026-10-08T18:16:35+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 7.7,
+          "hours_since_published": 8.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1563,7 +1569,7 @@
           "published_iso": "2026-10-05T17:02:13+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 81.0,
+          "hours_since_published": 81.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1600,7 +1606,7 @@
           "published_iso": "2026-10-08T15:41:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 10.3,
+          "hours_since_published": 11.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1632,7 +1638,7 @@
           "published_iso": "2026-10-08T03:04:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 22.9,
+          "hours_since_published": 23.9,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1671,7 +1677,7 @@
           "published_iso": "2026-10-08T15:41:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 10.3,
+          "hours_since_published": 11.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1703,7 +1709,7 @@
           "published_iso": "2026-10-08T03:04:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 22.9,
+          "hours_since_published": 23.9,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1742,7 +1748,7 @@
           "published_iso": "2026-10-06T07:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 67.0,
+          "hours_since_published": 67.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1758,10 +1764,7 @@
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "impact_area": "品牌营销"
         },
         {
           "name": "Bose Ultra Open Earbuds (2nd Gen) Review: The King of Clip-Ons Is Re-Crowned - Gizmodo",
@@ -1771,7 +1774,7 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMNi1LLUZudjhSS3l1MUVKcXdYN2FFbjZBaDlJQ2N4ZGFWSVN4eWFQZ18xNGxGbm9zWlRCbWZNU1lKU0ZzeGl0R1M5T1FiZUJHRUFPUXZoWWhFSE9BT0w4Zlk0NkhXZG5CenJWQzRSOUlEci03aGNXdQ?oc=5",
           "source": "Google News - Competitor Watch",
           "_score": 105,
-          "hours_since_published": 5.8,
+          "hours_since_published": 6.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1810,7 +1813,7 @@
           "published_iso": "2026-10-05T17:02:13+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 81.0,
+          "hours_since_published": 81.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1840,7 +1843,7 @@
           "published_iso": "2026-10-07T14:13:24+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 35.8,
+          "hours_since_published": 36.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1876,7 +1879,7 @@
           "published_iso": "2026-10-08T08:18:47+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 17.7,
+          "hours_since_published": 18.6,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1905,7 +1908,7 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMNi1LLUZudjhSS3l1MUVKcXdYN2FFbjZBaDlJQ2N4ZGFWSVN4eWFQZ18xNGxGbm9zWlRCbWZNU1lKU0ZzeGl0R1M5T1FiZUJHRUFPUXZoWWhFSE9BT0w4Zlk0NkhXZG5CenJWQzRSOUlEci03aGNXdQ?oc=5",
           "source": "Google News - Competitor Watch",
           "_score": 105,
-          "hours_since_published": 5.8,
+          "hours_since_published": 6.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [

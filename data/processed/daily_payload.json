@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21 08:32:11 CST",
+  "generated_at": "2026-10-21 09:32:14 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -714,7 +714,7 @@
     "published_iso": "2026-10-20T14:29:00+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 10.1,
+    "hours_since_published": 11.1,
     "freshness_label": "24h内",
     "monitor_hits": {
       "brands": [],
@@ -747,7 +747,7 @@
       "published_iso": "2026-10-20T14:29:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 10.1,
+      "hours_since_published": 11.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -778,7 +778,7 @@
       "published_iso": "2026-10-20T16:27:53+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 8.1,
+      "hours_since_published": 9.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -808,7 +808,7 @@
       "published_iso": "2026-10-20T12:59:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 11.6,
+      "hours_since_published": 12.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -833,6 +833,38 @@
   ],
   "consumer_electronics": [
     {
+      "title": "I tested over 50 wireless earbuds from Apple, Sony, Bose, Beats and more. These were the best - NBC News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTF9XZGNGWG04VlEwY1Q3STVJdW01TUhxOEhELTNieEtmeC14d3ZGQWQ2cEowdmpSZzlhQjFybXFFZmJtbzBYT1dFVWFIRm9KYXBLaHN5bGtYdUVRYzVIelF0ZF9xeF9VTFp3djd2ZURaSUVtOGxocTNVaDFRMzROZnYtWng1S0FoTTE4?oc=5\" target=\"_blank\">I tested over 50 wireless earbuds from Apple, Sony, Bose, B",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTF9XZGNGWG04VlEwY1Q3STVJdW01TUhxOEhELTNieEtmeC14d3ZGQWQ2cEowdmpSZzlhQjFybXFFZmJtbzBYT1dFVWFIRm9KYXBLaHN5bGtYdUVRYzVIelF0ZF9xeF9VTFp3djd2ZURaSUVtOGxocTNVaDFRMzROZnYtWng1S0FoTTE4?oc=5",
+      "published": "Thu, 15 Oct 2026 14:17:08 GMT",
+      "published_iso": "2026-10-15T14:17:08+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 131.3,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Bose",
+          "Sony",
+          "Beats"
+        ],
+        "channels": [],
+        "categories": [
+          "earbuds"
+        ]
+      },
+      "_score": 311,
+      "display_title": "I tested over 50 wireless earbuds from...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Bose / Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Save on some of the best bone conduction headphones — get the older and still fantastic Shokz OpenRun Pro for $70 off Amazon - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQUTBOY2V2dk05QThmR0p2SFQ3VXB2QzYwUzhxdnNlOWg1TGNYbnNPcWxIeG9Nd1FkVzE1bmFJNXVfNVo4Y0dTcnhYTXdQSUMxSXlFcnZKX19jOWlnV1lTYVBJR1BPVXZBY196RjlpTmZXRE4zcGlYMk9JRXY4eHhjdGJGZFM3UWMwclUwNHphM2FvN0hsUnJ2OFpkdm9zdzV4dFNhcUpoVlpyNHcxT1hEVVJza2poUkpxbWRMTHpaczlfcm03UHhvVW",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUTBOY2V2dk05QThmR0p2SFQ3VXB2QzYwUzhxdnNlOWg1TGNYbnNPcWxIeG9Nd1FkVzE1bmFJNXVfNVo4Y0dTcnhYTXdQSUMxSXlFcnZKX19jOWlnV1lTYVBJR1BPVXZBY196RjlpTmZXRE4zcGlYMk9JRXY4eHhjdGJGZFM3UWMwclUwNHphM2FvN0hsUnJ2OFpkdm9zdzV4dFNhcUpoVlpyNHcxT1hEVVJza2poUkpxbWRMTHpaczlfcm03UHhvVWpTa0l6MlVXMVVPVDRya0F0bDBmZDJLQnFtVklKQVJKN0NqeU5QQkQ3ZTlHR3hrUU1NRU5KVlV1Vy1vV2NJY3dqYjRT?oc=5",
@@ -840,7 +872,7 @@
       "published_iso": "2026-10-14T15:13:34+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 153.3,
+      "hours_since_published": 154.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -874,7 +906,7 @@
       "published_iso": "2026-10-16T13:40:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 106.9,
+      "hours_since_published": 107.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -897,6 +929,36 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
+      "title": "H2O Audio Unveils TRI ULTRA Series bone conduction headphones - techbuzzireland.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHhIMjVFM3VUS1hZZjkwU3k4TGhTVVJNYXZiZDVrLWc4QlRRY0ktVHBzUHhVNDdWMFpiU053TktFZXh5R2V1WVRnWjBESlhUOG1JTFFwSEc0RkRRRmlHZmI0aE5lQkNleGs3eG4zaGlUcWRISGlfRzE5RjJsdm45dFVac1NVZ1pWT1ppMFRqRUlpcU5oRHdMTk04UW9qVTJpR2dB?oc=5\" target=\"_blank\">H2O Audio Unveils TRI ULTRA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHhIMjVFM3VUS1hZZjkwU3k4TGhTVVJNYXZiZDVrLWc4QlRRY0ktVHBzUHhVNDdWMFpiU053TktFZXh5R2V1WVRnWjBESlhUOG1JTFFwSEc0RkRRRmlHZmI0aE5lQkNleGs3eG4zaGlUcWRISGlfRzE5RjJsdm45dFVac1NVZ1pWT1ppMFRqRUlpcU5oRHdMTk04UW9qVTJpR2dB?oc=5",
+      "published": "Fri, 16 Oct 2026 07:38:23 GMT",
+      "published_iso": "2026-10-16T07:38:23+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 113.9,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "bone conduction",
+          "headphone"
+        ]
+      },
+      "_score": 241,
+      "display_title": "H2O Audio Unveils TRI ULTRA Series bone...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴",
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Want an affordable yet accomplished set of Sony headphones? Then the WH-CH730N might just be perfect for you — though they’re not totally free of compromise - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5xbTR1RHFpNlcxc085MGFMbFB6YTFvRl9Rd2kzdzQ4TlYyNElneGlaMjFUNHB3RjY3WF9fR1FjY1FVbTZkUHJBOFdWNDhYemJ4UElvdXRpSTRnaU5jTy1IUVV0OV9xeXhXZmpUdHpEVnJQS21ZUDMzSVllZWNuQQ?oc=5\" target=\"_blank\">Want an affordable yet accomplished set of Sony headphones? Then the WH-CH730",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xbTR1RHFpNlcxc085MGFMbFB6YTFvRl9Rd2kzdzQ4TlYyNElneGlaMjFUNHB3RjY3WF9fR1FjY1FVbTZkUHJBOFdWNDhYemJ4UElvdXRpSTRnaU5jTy1IUVV0OV9xeXhXZmpUdHpEVnJQS21ZUDMzSVllZWNuQQ?oc=5",
@@ -904,7 +966,7 @@
       "published_iso": "2026-10-14T19:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 149.5,
+      "hours_since_published": 150.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -926,90 +988,33 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Open-Ear Headphones for Running: Why Are They So Popular in 2026? - Anker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzlSdnhiQ3RqblNNRGtYdGRMcUE2LVltM01RbmIzNVBneVgtWW1aWkI3cjA2X0xrd2w2SXFtUWdsSzRRTnRLOHJEQ1NZWUwteGxRWGhSSDhrM2xIYXVvYnlsS0k1MXBGbS1sQ2ZFV2hjeE1GdDhVTTVScFFJNHMwT0RSUDc1ejNvbkN1YnBBSGI?oc=5\" target=\"_blank\">Open-Ear Headphones for Running: Why Are They So Pop",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzlSdnhiQ3RqblNNRGtYdGRMcUE2LVltM01RbmIzNVBneVgtWW1aWkI3cjA2X0xrd2w2SXFtUWdsSzRRTnRLOHJEQ1NZWUwteGxRWGhSSDhrM2xIYXVvYnlsS0k1MXBGbS1sQ2ZFV2hjeE1GdDhVTTVScFFJNHMwT0RSUDc1ejNvbkN1YnBBSGI?oc=5",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "published_iso": "2026-10-18T07:00:00+00:00",
+      "title": "Monster Persona SE ANC Headphones Deliver Smooth, Beats Studio-Rivaling Sound And Lasting Everyday Noise Control - TechEBlog -",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0J0bVQyZkdodVBpMkFPdko0UjJkdTlCR3JIamhBc19jRndrbjFHeUg1TDlyalRENm1BM0tTRlFsMkVIR0xvZTI0akowSlNsSFBYTVhnMFJyS2NTUVFweHFoUE1QM20xUmVNLTRSSS1leG5qMXpPR29HUmdFTUxXSnk0dGVwUllHOHpvb185MzRtSDFuVV95cjZuVzg?oc=5\" target=\"_blank\">Monster Persona SE ANC Headphones De",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0J0bVQyZkdodVBpMkFPdko0UjJkdTlCR3JIamhBc19jRndrbjFHeUg1TDlyalRENm1BM0tTRlFsMkVIR0xvZTI0akowSlNsSFBYTVhnMFJyS2NTUVFweHFoUE1QM20xUmVNLTRSSS1leG5qMXpPR29HUmdFTUxXSnk0dGVwUllHOHpvb185MzRtSDFuVV95cjZuVzg?oc=5",
+      "published": "Thu, 15 Oct 2026 22:41:09 GMT",
+      "published_iso": "2026-10-15T22:41:09+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 65.5,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "open-ear",
-          "headphone"
-        ]
-      },
-      "_score": 226,
-      "display_title": "Open-Ear Headphones for Running: Why...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only - The Verge",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs3VnlXSjIxNkl1YUxEaFE4TWNHcjBjY3BjcDQzTjZNQnUtcXVWQi1Mb29CRXd3Y1d0blEybGpid1VRTGJPQzJubmN2SXRWQXpvWW9WSk92Z1F1R2k5aUViTGdLXzlCNm1vVmtmYUdtLThtaUxrMGh6NllScEZTUGdwSWtOTDBTYXMtUXhqc0ZtZnNnekNkdFRlaXd2b1ZwdVhWd1B5eTM?oc=5\" target=\"_blank\">Sony’s best noise-ca",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs3VnlXSjIxNkl1YUxEaFE4TWNHcjBjY3BjcDQzTjZNQnUtcXVWQi1Mb29CRXd3Y1d0blEybGpid1VRTGJPQzJubmN2SXRWQXpvWW9WSk92Z1F1R2k5aUViTGdLXzlCNm1vVmtmYUdtLThtaUxrMGh6NllScEZTUGdwSWtOTDBTYXMtUXhqc0ZtZnNnekNkdFRlaXd2b1ZwdVhWd1B5eTM?oc=5",
-      "published": "Mon, 19 Oct 2026 18:52:41 GMT",
-      "published_iso": "2026-10-19T18:52:41+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 29.7,
-      "freshness_label": "近3天",
+      "hours_since_published": 122.9,
+      "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
-          "Sony"
+          "Beats"
         ],
         "channels": [],
         "categories": [
-          "earbuds"
+          "headphone"
         ]
       },
-      "_score": 212,
-      "display_title": "Sony’s best noise-canceling earbuds are...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Aerofit 2 Pro Review: Are These The Ultimate Open-ear Earbuds For Active Lifestyles? - Anker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTJmb2FCd0drZVdIN2VIZVN2SUE0dXVJdFJ5RUR5ajNJb3lKLU9GVXJ0MWpCNFRsSEQ0NS1RT1RqaWRUVGhqT2N3dWYwZFQwMzFOWmRxWnQ1RElrM1psZTBDMFdzYWFIVF96NkEyXzl3elVfLVFMZ1NFQmE2c1EzZW5MUDFzaXpneHRiemxwSGcxYjI2bmF0Xw?oc=5\" target=\"_blank\">Aerofit 2 Pro Review: Are These The Ultim",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTJmb2FCd0drZVdIN2VIZVN2SUE0dXVJdFJ5RUR5ajNJb3lKLU9GVXJ0MWpCNFRsSEQ0NS1RT1RqaWRUVGhqT2N3dWYwZFQwMzFOWmRxWnQ1RElrM1psZTBDMFdzYWFIVF96NkEyXzl3elVfLVFMZ1NFQmE2c1EzZW5MUDFzaXpneHRiemxwSGcxYjI2bmF0Xw?oc=5",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "published_iso": "2026-10-18T07:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 65.5,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "open-ear",
-          "earbuds"
-        ]
-      },
-      "_score": 206,
-      "display_title": "Aerofit 2 Pro Review: Are These The...",
+      "_score": 227,
+      "display_title": "Monster Persona SE ANC Headphones...",
       "tags": [
         "🎧 耳机音频",
         "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "open-ear / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "business_note": "Beats相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
@@ -1022,7 +1027,7 @@
       "published_iso": "2026-10-20T14:29:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 10.1,
+      "hours_since_published": 11.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1053,7 +1058,7 @@
       "published_iso": "2026-10-20T16:27:53+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 8.1,
+      "hours_since_published": 9.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1083,7 +1088,7 @@
       "published_iso": "2026-10-20T12:59:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 11.6,
+      "hours_since_published": 12.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1113,7 +1118,7 @@
       "published_iso": "2026-10-16T12:45:56+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 107.8,
+      "hours_since_published": 108.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1142,7 +1147,7 @@
       "published_iso": "2026-10-20T16:26:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 8.1,
+      "hours_since_published": 9.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1172,7 +1177,7 @@
       "published_iso": "2026-10-15T18:29:28+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 126.0,
+      "hours_since_published": 127.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1203,7 +1208,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUTBOY2V2dk05QThmR0p2SFQ3VXB2QzYwUzhxdnNlOWg1TGNYbnNPcWxIeG9Nd1FkVzE1bmFJNXVfNVo4Y0dTcnhYTXdQSUMxSXlFcnZKX19jOWlnV1lTYVBJR1BPVXZBY196RjlpTmZXRE4zcGlYMk9JRXY4eHhjdGJGZFM3UWMwclUwNHphM2FvN0hsUnJ2OFpkdm9zdzV4dFNhcUpoVlpyNHcxT1hEVVJza2poUkpxbWRMTHpaczlfcm03UHhvVWpTa0l6MlVXMVVPVDRya0F0bDBmZDJLQnFtVklKQVJKN0NqeU5QQkQ3ZTlHR3hrUU1NRU5KVlV1Vy1vV2NJY3dqYjRT?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 107,
-      "hours_since_published": 153.3,
+      "hours_since_published": 154.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1239,7 +1244,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzlSdnhiQ3RqblNNRGtYdGRMcUE2LVltM01RbmIzNVBneVgtWW1aWkI3cjA2X0xrd2w2SXFtUWdsSzRRTnRLOHJEQ1NZWUwteGxRWGhSSDhrM2xIYXVvYnlsS0k1MXBGbS1sQ2ZFV2hjeE1GdDhVTTVScFFJNHMwT0RSUDc1ejNvbkN1YnBBSGI?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 88,
-      "hours_since_published": 65.5,
+      "hours_since_published": 66.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1273,7 +1278,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tQXBJRjFuYWdkVnJZTFd1dE4xUTdXd1BBRmFiemYzelhuanBzeGRnZnZXNEtsUU5CMGhfck1rU3pMYks5UU5VTm5kUjkxRVVyY0xBUk05b19QNE85aGZndTFmS0g1UzJlcm81NHpoMlE3dGRhbHQyeWM1bkQ?oc=5",
       "source": "Google News - Competitor Watch",
       "_score": 75,
-      "hours_since_published": 106.9,
+      "hours_since_published": 107.9,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1298,76 +1303,14 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Aerofit 2 Pro Review: Are These The Ultimate Open-ear Earbuds For Active Lifestyles? - Anker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTJmb2FCd0drZVdIN2VIZVN2SUE0dXVJdFJ5RUR5ajNJb3lKLU9GVXJ0MWpCNFRsSEQ0NS1RT1RqaWRUVGhqT2N3dWYwZFQwMzFOWmRxWnQ1RElrM1psZTBDMFdzYWFIVF96NkEyXzl3elVfLVFMZ1NFQmE2c1EzZW5MUDFzaXpneHRiemxwSGcxYjI2bmF0Xw?oc=",
-      "date": "Sun, 18 Oct 2026 07:00:00",
-      "published_iso": "2026-10-18T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTJmb2FCd0drZVdIN2VIZVN2SUE0dXVJdFJ5RUR5ajNJb3lKLU9GVXJ0MWpCNFRsSEQ0NS1RT1RqaWRUVGhqT2N3dWYwZFQwMzFOWmRxWnQ1RElrM1psZTBDMFdzYWFIVF96NkEyXzl3elVfLVFMZ1NFQmE2c1EzZW5MUDFzaXpneHRiemxwSGcxYjI2bmF0Xw?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 56,
-      "hours_since_published": 65.5,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "open-ear",
-          "earbuds"
-        ]
-      },
-      "display_title": "Aerofit 2 Pro Review: Are These The...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "竞品观察",
-      "product_intro": "<a。",
-      "importance": "低",
-      "business_note": "open-ear / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "name": "ELYXFUL Bone Conduction Swimming Headphones now selling for $89.95 - Technobezz",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObmVGMlBKa0RDNU5DdExQNWtOTE4xOUZuekN3dWlUblVHMUhud3NTcHBsZGZhZVlSdUpoRWpGNVZjUnVIaUFCall2OGFlamx6bktGTnJ6U1lXbVptVFVmOV9UaGxMclMtWkpZbGlBbVBYQ2FUZ0hjcGdFTUttT3RhWXIxcE4tQ1BOa2JuczZMN2VYZGxLQm8xZ1RKMz",
-      "date": "Mon, 19 Oct 2026 13:38:32",
-      "published_iso": "2026-10-19T13:38:32+00:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmVGMlBKa0RDNU5DdExQNWtOTE4xOUZuekN3dWlUblVHMUhud3NTcHBsZGZhZVlSdUpoRWpGNVZjUnVIaUFCall2OGFlamx6bktGTnJ6U1lXbVptVFVmOV9UaGxMclMtWkpZbGlBbVBYQ2FUZ0hjcGdFTUttT3RhWXIxcE4tQ1BOa2JuczZMN2VYZGxLQm8xZ1RKMzNIUQ?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 56,
-      "hours_since_published": 34.9,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "display_title": "ELYXFUL Bone Conduction Swimming...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "行业趋势",
-      "product_intro": "<a。",
-      "importance": "低",
-      "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
       "name": "7 best open earbuds of 2026: Expert tested and selected - Mashable",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBLLWc5NDZocXA3WWZKaFdBX0xUbE4taGI2d3l2OFlVbnBhVDY4TmtMV252dWxOenhnYl9hMVlHNnM0cm1PNmkxNzhncHlPQTRETy1jYVpwckZnZEY1Nmw1aFpXX2gzNmZRbDE3WE11RzNDTjA?oc=5\" target=\"_blank\">7 best open earbuds of 2026: Exp",
       "date": "Sun, 18 Oct 2026 09:00:14",
       "published_iso": "2026-10-18T09:00:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLLWc5NDZocXA3WWZKaFdBX0xUbE4taGI2d3l2OFlVbnBhVDY4TmtMV252dWxOenhnYl9hMVlHNnM0cm1PNmkxNzhncHlPQTRETy1jYVpwckZnZEY1Nmw1aFpXX2gzNmZRbDE3WE11RzNDTjA?oc=5",
-      "source": "Google News - Competitor Watch",
+      "source": "Google News - Audio Wearable Watch",
       "_score": 56,
-      "hours_since_published": 63.5,
+      "hours_since_published": 64.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1380,7 +1323,8 @@
       "display_title": "7 best open earbuds of 2026: Expert...",
       "display_summary": "<a href=\"https://news.google.com/rss/articles/",
       "tags": [
-        "🎧 耳机音频"
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "行业趋势",
@@ -1388,81 +1332,75 @@
       "importance": "低",
       "business_note": "open-ear / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "name": "Are Open-Ear Headphones Better for Your Ears? Full 2026 Guide - Anker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFBjNGNtYVpXNk5jb1A2ZGQ1c3ZIdERsOHlXWHhmMEFPcFlQUzVQb3BKMGdtTDlHeWNEZlBITkNTdmc0N2ppQ3NTZjFvM1Z2S0haT3d5OUtMTGkwUHJ6allfV0s4UkdLX3dDSEM0cFVxQllIMUgzTzBKSjFFN2Z3U2R6djhGSTg?oc=5\" target=\"_blank\">Are ",
+      "date": "Mon, 19 Oct 2026 07:03:23",
+      "published_iso": "2026-10-19T07:03:23+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFBjNGNtYVpXNk5jb1A2ZGQ1c3ZIdERsOHlXWHhmMEFPcFlQUzVQb3BKMGdtTDlHeWNEZlBITkNTdmc0N2ppQ3NTZjFvM1Z2S0haT3d5OUtMTGkwUHJ6allfV0s4UkdLX3dDSEM0cFVxQllIMUgzTzBKSjFFN2Z3U2R6djhGSTg?oc=5",
+      "source": "Google News - Audio Wearable Watch",
+      "_score": 56,
+      "hours_since_published": 42.5,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "open-ear",
+          "headphone"
+        ]
+      },
+      "display_title": "Are Open-Ear Headphones Better for Your...",
+      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "竞品观察",
+      "product_intro": "<a。",
+      "importance": "低",
+      "business_note": "open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "name": "How to Choose the Best Open-Ear Headphones for Running? - Anker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTdvdFJPeHJkUzZsTS12T1pMX1NpajExWllNTF9fS1l3UFlyY3Z5MS1kVHFiS3RqR0VuRkxfQVR6bzB4LU81Vk1FNjMxeldOcW4teVNYOG1VcU9jNmFiTFpCTkZfNEp3UWxZTnQ4ZUFVcjhaS0FxWjhISVE3dEJFakpNXzFZZjY2SXZiVENtTDJBVzhzeWNReFF3?o",
+      "date": "Sun, 18 Oct 2026 07:00:00",
+      "published_iso": "2026-10-18T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTdvdFJPeHJkUzZsTS12T1pMX1NpajExWllNTF9fS1l3UFlyY3Z5MS1kVHFiS3RqR0VuRkxfQVR6bzB4LU81Vk1FNjMxeldOcW4teVNYOG1VcU9jNmFiTFpCTkZfNEp3UWxZTnQ4ZUFVcjhaS0FxWjhISVE3dEJFakpNXzFZZjY2SXZiVENtTDJBVzhzeWNReFF3?oc=5",
+      "source": "Google News - Audio Wearable Watch",
+      "_score": 56,
+      "hours_since_published": 66.5,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "open-ear",
+          "headphone"
+        ]
+      },
+      "display_title": "How to Choose the Best Open-Ear...",
+      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "竞品观察",
+      "product_intro": "<a。",
+      "importance": "低",
+      "business_note": "open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "monitored_entities": [
     {
-      "name": "Amazon",
-      "type": "渠道",
-      "count": 9,
-      "items": [
-        {
-          "title": "Walmart is taking shots at Amazon and Costco with a new membership bundle for Sam's Club - Business Insider",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOclpKZkRfRFp3UWk0dklDWVBQOG9yVmVQNE0tX3BCTndzWWJuR3NQb2N3Xy1QYUpTMlpnbFNxbHNxZGxnencwSmoyWG9OSzdnQTFDc1BvdzlUTUJmVE96a3EySzhqRlA1TmxoV09YR0V6dl8zN0dpcUFvczdSUFFKblRuc2JNQXdzV3o0bzU2VE4?oc=5\" target=\"_blank\">Walmart is taking shots at Amazon and Costco with a ",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOclpKZkRfRFp3UWk0dklDWVBQOG9yVmVQNE0tX3BCTndzWWJuR3NQb2N3Xy1QYUpTMlpnbFNxbHNxZGxnencwSmoyWG9OSzdnQTFDc1BvdzlUTUJmVE96a3EySzhqRlA1TmxoV09YR0V6dl8zN0dpcUFvczdSUFFKblRuc2JNQXdzV3o0bzU2VE4?oc=5",
-          "published": "Tue, 20 Oct 2026 14:29:00 GMT",
-          "published_iso": "2026-10-20T14:29:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 10.1,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "Costco",
-              "Sam's Club"
-            ],
-            "categories": []
-          },
-          "_score": 446,
-          "display_title": "Walmart is taking shots at Amazon and...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime - Retail Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2otZWFoQUtaZHE1RmNweFBJc2paTEtjbF84QTJ3V3lGa0s3eDJPRGJsekhJM0JXTnMyMXVPNXRZc2JhcnA0RWhnN3d4dVVudHNQMFlLeElzZmdhVFp6UzYtZ2NVOU5Oa09rM2lRRmROTTdjUEktMmYzZVh5Z2hvR3NBR29IX3ZuNjdQdERFM0FlNk51c21fQVl3?oc=5\" target=\"_blank\">Walmart enlists Sam’s Club in latest ch",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2otZWFoQUtaZHE1RmNweFBJc2paTEtjbF84QTJ3V3lGa0s3eDJPRGJsekhJM0JXTnMyMXVPNXRZc2JhcnA0RWhnN3d4dVVudHNQMFlLeElzZmdhVFp6UzYtZ2NVOU5Oa09rM2lRRmROTTdjUEktMmYzZVh5Z2hvR3NBR29IX3ZuNjdQdERFM0FlNk51c21fQVl3?oc=5",
-          "published": "Tue, 20 Oct 2026 16:27:53 GMT",
-          "published_iso": "2026-10-20T16:27:53+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 8.1,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Walmart",
-              "Sam's Club"
-            ],
-            "categories": []
-          },
-          "_score": 374,
-          "display_title": "Walmart enlists Sam’s Club in latest...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
       "name": "headphone",
       "type": "品类",
-      "count": 8,
+      "count": 10,
       "items": [
         {
           "title": "Save on some of the best bone conduction headphones — get the older and still fantastic Shokz OpenRun Pro for $70 off Amazon - TechRadar",
@@ -1472,7 +1410,7 @@
           "published_iso": "2026-10-14T15:13:34+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 153.3,
+          "hours_since_published": 154.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1499,40 +1437,41 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Want an affordable yet accomplished set of Sony headphones? Then the WH-CH730N might just be perfect for you — though they’re not totally free of compromise - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5xbTR1RHFpNlcxc085MGFMbFB6YTFvRl9Rd2kzdzQ4TlYyNElneGlaMjFUNHB3RjY3WF9fR1FjY1FVbTZkUHJBOFdWNDhYemJ4UElvdXRpSTRnaU5jTy1IUVV0OV9xeXhXZmpUdHpEVnJQS21ZUDMzSVllZWNuQQ?oc=5\" target=\"_blank\">Want an affordable yet accomplished set of Sony headphones? Then the WH-CH730",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xbTR1RHFpNlcxc085MGFMbFB6YTFvRl9Rd2kzdzQ4TlYyNElneGlaMjFUNHB3RjY3WF9fR1FjY1FVbTZkUHJBOFdWNDhYemJ4UElvdXRpSTRnaU5jTy1IUVV0OV9xeXhXZmpUdHpEVnJQS21ZUDMzSVllZWNuQQ?oc=5",
-          "published": "Wed, 14 Oct 2026 19:00:00 GMT",
-          "published_iso": "2026-10-14T19:00:00+00:00",
-          "source": "Google News - Competitor Watch",
+          "title": "H2O Audio Unveils TRI ULTRA Series bone conduction headphones - techbuzzireland.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHhIMjVFM3VUS1hZZjkwU3k4TGhTVVJNYXZiZDVrLWc4QlRRY0ktVHBzUHhVNDdWMFpiU053TktFZXh5R2V1WVRnWjBESlhUOG1JTFFwSEc0RkRRRmlHZmI0aE5lQkNleGs3eG4zaGlUcWRISGlfRzE5RjJsdm45dFVac1NVZ1pWT1ppMFRqRUlpcU5oRHdMTk04UW9qVTJpR2dB?oc=5\" target=\"_blank\">H2O Audio Unveils TRI ULTRA",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHhIMjVFM3VUS1hZZjkwU3k4TGhTVVJNYXZiZDVrLWc4QlRRY0ktVHBzUHhVNDdWMFpiU053TktFZXh5R2V1WVRnWjBESlhUOG1JTFFwSEc0RkRRRmlHZmI0aE5lQkNleGs3eG4zaGlUcWRISGlfRzE5RjJsdm45dFVac1NVZ1pWT1ppMFRqRUlpcU5oRHdMTk04UW9qVTJpR2dB?oc=5",
+          "published": "Fri, 16 Oct 2026 07:38:23 GMT",
+          "published_iso": "2026-10-16T07:38:23+00:00",
+          "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 149.5,
+          "hours_since_published": 113.9,
           "freshness_label": "近7天",
           "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
+            "brands": [],
             "channels": [],
             "categories": [
+              "bone conduction",
               "headphone"
             ]
           },
-          "_score": 230,
-          "display_title": "Want an affordable yet accomplished set...",
+          "_score": 241,
+          "display_title": "H2O Audio Unveils TRI ULTRA Series bone...",
           "tags": [
-            "🎧 耳机音频"
+            "🎧 耳机音频",
+            "🏃 运动穿戴",
+            "🚀 新品发布"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
     {
-      "name": "Walmart",
+      "name": "Amazon",
       "type": "渠道",
-      "count": 7,
+      "count": 9,
       "items": [
         {
           "title": "Walmart is taking shots at Amazon and Costco with a new membership bundle for Sam's Club - Business Insider",
@@ -1542,7 +1481,7 @@
           "published_iso": "2026-10-20T14:29:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 10.1,
+          "hours_since_published": 11.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1573,7 +1512,75 @@
           "published_iso": "2026-10-20T16:27:53+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 8.1,
+          "hours_since_published": 9.1,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart",
+              "Sam's Club"
+            ],
+            "categories": []
+          },
+          "_score": 374,
+          "display_title": "Walmart enlists Sam’s Club in latest...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "渠道",
+      "count": 7,
+      "items": [
+        {
+          "title": "Walmart is taking shots at Amazon and Costco with a new membership bundle for Sam's Club - Business Insider",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOclpKZkRfRFp3UWk0dklDWVBQOG9yVmVQNE0tX3BCTndzWWJuR3NQb2N3Xy1QYUpTMlpnbFNxbHNxZGxnencwSmoyWG9OSzdnQTFDc1BvdzlUTUJmVE96a3EySzhqRlA1TmxoV09YR0V6dl8zN0dpcUFvczdSUFFKblRuc2JNQXdzV3o0bzU2VE4?oc=5\" target=\"_blank\">Walmart is taking shots at Amazon and Costco with a ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOclpKZkRfRFp3UWk0dklDWVBQOG9yVmVQNE0tX3BCTndzWWJuR3NQb2N3Xy1QYUpTMlpnbFNxbHNxZGxnencwSmoyWG9OSzdnQTFDc1BvdzlUTUJmVE96a3EySzhqRlA1TmxoV09YR0V6dl8zN0dpcUFvczdSUFFKblRuc2JNQXdzV3o0bzU2VE4?oc=5",
+          "published": "Tue, 20 Oct 2026 14:29:00 GMT",
+          "published_iso": "2026-10-20T14:29:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 11.1,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart",
+              "Costco",
+              "Sam's Club"
+            ],
+            "categories": []
+          },
+          "_score": 446,
+          "display_title": "Walmart is taking shots at Amazon and...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime - Retail Dive",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2otZWFoQUtaZHE1RmNweFBJc2paTEtjbF84QTJ3V3lGa0s3eDJPRGJsekhJM0JXTnMyMXVPNXRZc2JhcnA0RWhnN3d4dVVudHNQMFlLeElzZmdhVFp6UzYtZ2NVOU5Oa09rM2lRRmROTTdjUEktMmYzZVh5Z2hvR3NBR29IX3ZuNjdQdERFM0FlNk51c21fQVl3?oc=5\" target=\"_blank\">Walmart enlists Sam’s Club in latest ch",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2otZWFoQUtaZHE1RmNweFBJc2paTEtjbF84QTJ3V3lGa0s3eDJPRGJsekhJM0JXTnMyMXVPNXRZc2JhcnA0RWhnN3d4dVVudHNQMFlLeElzZmdhVFp6UzYtZ2NVOU5Oa09rM2lRRmROTTdjUEktMmYzZVh5Z2hvR3NBR29IX3ZuNjdQdERFM0FlNk51c21fQVl3?oc=5",
+          "published": "Tue, 20 Oct 2026 16:27:53 GMT",
+          "published_iso": "2026-10-20T16:27:53+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 9.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1610,7 +1617,7 @@
           "published_iso": "2026-10-16T13:40:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 106.9,
+          "hours_since_published": 107.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1633,14 +1640,14 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Open-Ear Headphones for Running: Why Are They So Popular in 2026? - Anker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzlSdnhiQ3RqblNNRGtYdGRMcUE2LVltM01RbmIzNVBneVgtWW1aWkI3cjA2X0xrd2w2SXFtUWdsSzRRTnRLOHJEQ1NZWUwteGxRWGhSSDhrM2xIYXVvYnlsS0k1MXBGbS1sQ2ZFV2hjeE1GdDhVTTVScFFJNHMwT0RSUDc1ejNvbkN1YnBBSGI?oc=5\" target=\"_blank\">Open-Ear Headphones for Running: Why Are They So Pop",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzlSdnhiQ3RqblNNRGtYdGRMcUE2LVltM01RbmIzNVBneVgtWW1aWkI3cjA2X0xrd2w2SXFtUWdsSzRRTnRLOHJEQ1NZWUwteGxRWGhSSDhrM2xIYXVvYnlsS0k1MXBGbS1sQ2ZFV2hjeE1GdDhVTTVScFFJNHMwT0RSUDc1ejNvbkN1YnBBSGI?oc=5",
-          "published": "Sun, 18 Oct 2026 07:00:00 GMT",
-          "published_iso": "2026-10-18T07:00:00+00:00",
+          "title": "Are Open-Ear Headphones Better for Your Ears? Full 2026 Guide - Anker",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFBjNGNtYVpXNk5jb1A2ZGQ1c3ZIdERsOHlXWHhmMEFPcFlQUzVQb3BKMGdtTDlHeWNEZlBITkNTdmc0N2ppQ3NTZjFvM1Z2S0haT3d5OUtMTGkwUHJ6allfV0s4UkdLX3dDSEM0cFVxQllIMUgzTzBKSjFFN2Z3U2R6djhGSTg?oc=5\" target=\"_blank\">Are Open-Ear Headphones Better for Your Ears? Full 2026 Guide</a",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFBjNGNtYVpXNk5jb1A2ZGQ1c3ZIdERsOHlXWHhmMEFPcFlQUzVQb3BKMGdtTDlHeWNEZlBITkNTdmc0N2ppQ3NTZjFvM1Z2S0haT3d5OUtMTGkwUHJ6allfV0s4UkdLX3dDSEM0cFVxQllIMUgzTzBKSjFFN2Z3U2R6djhGSTg?oc=5",
+          "published": "Mon, 19 Oct 2026 07:03:23 GMT",
+          "published_iso": "2026-10-19T07:03:23+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 65.5,
+          "hours_since_published": 42.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1651,23 +1658,52 @@
             ]
           },
           "_score": 226,
-          "display_title": "Open-Ear Headphones for Running: Why...",
+          "display_title": "Are Open-Ear Headphones Better for Your...",
           "tags": [
             "🎧 耳机音频",
             "🏃 运动穿戴"
           ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "open-ear / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "impact_area": "品牌营销"
         }
       ]
     },
     {
       "name": "earbuds",
       "type": "品类",
-      "count": 6,
+      "count": 5,
       "items": [
+        {
+          "title": "I tested over 50 wireless earbuds from Apple, Sony, Bose, Beats and more. These were the best - NBC News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTF9XZGNGWG04VlEwY1Q3STVJdW01TUhxOEhELTNieEtmeC14d3ZGQWQ2cEowdmpSZzlhQjFybXFFZmJtbzBYT1dFVWFIRm9KYXBLaHN5bGtYdUVRYzVIelF0ZF9xeF9VTFp3djd2ZURaSUVtOGxocTNVaDFRMzROZnYtWng1S0FoTTE4?oc=5\" target=\"_blank\">I tested over 50 wireless earbuds from Apple, Sony, Bose, B",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTF9XZGNGWG04VlEwY1Q3STVJdW01TUhxOEhELTNieEtmeC14d3ZGQWQ2cEowdmpSZzlhQjFybXFFZmJtbzBYT1dFVWFIRm9KYXBLaHN5bGtYdUVRYzVIelF0ZF9xeF9VTFp3djd2ZURaSUVtOGxocTNVaDFRMzROZnYtWng1S0FoTTE4?oc=5",
+          "published": "Thu, 15 Oct 2026 14:17:08 GMT",
+          "published_iso": "2026-10-15T14:17:08+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 131.3,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Bose",
+              "Sony",
+              "Beats"
+            ],
+            "channels": [],
+            "categories": [
+              "earbuds"
+            ]
+          },
+          "_score": 311,
+          "display_title": "I tested over 50 wireless earbuds from...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose / Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
         {
           "title": "Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig the Upgraded Sound - CNET",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0tQXBJRjFuYWdkVnJZTFd1dE4xUTdXd1BBRmFiemYzelhuanBzeGRnZnZXNEtsUU5CMGhfck1rU3pMYks5UU5VTm5kUjkxRVVyY0xBUk05b19QNE85aGZndTFmS0g1UzJlcm81NHpoMlE3dGRhbHQyeWM1bkQ?oc=5\" target=\"_blank\">Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig ",
@@ -1676,7 +1712,7 @@
           "published_iso": "2026-10-16T13:40:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 106.9,
+          "hours_since_published": 107.9,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1696,35 +1732,6 @@
           "impact_area": "品牌营销",
           "importance": "高",
           "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only - The Verge",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs3VnlXSjIxNkl1YUxEaFE4TWNHcjBjY3BjcDQzTjZNQnUtcXVWQi1Mb29CRXd3Y1d0blEybGpid1VRTGJPQzJubmN2SXRWQXpvWW9WSk92Z1F1R2k5aUViTGdLXzlCNm1vVmtmYUdtLThtaUxrMGh6NllScEZTUGdwSWtOTDBTYXMtUXhqc0ZtZnNnekNkdFRlaXd2b1ZwdVhWd1B5eTM?oc=5\" target=\"_blank\">Sony’s best noise-ca",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs3VnlXSjIxNkl1YUxEaFE4TWNHcjBjY3BjcDQzTjZNQnUtcXVWQi1Mb29CRXd3Y1d0blEybGpid1VRTGJPQzJubmN2SXRWQXpvWW9WSk92Z1F1R2k5aUViTGdLXzlCNm1vVmtmYUdtLThtaUxrMGh6NllScEZTUGdwSWtOTDBTYXMtUXhqc0ZtZnNnekNkdFRlaXd2b1ZwdVhWd1B5eTM?oc=5",
-          "published": "Mon, 19 Oct 2026 18:52:41 GMT",
-          "published_iso": "2026-10-19T18:52:41+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 29.7,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [
-              "Sony"
-            ],
-            "channels": [],
-            "categories": [
-              "earbuds"
-            ]
-          },
-          "_score": 212,
-          "display_title": "Sony’s best noise-canceling earbuds are...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
@@ -1742,7 +1749,7 @@
           "published_iso": "2026-10-20T14:29:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 10.1,
+          "hours_since_published": 11.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1773,7 +1780,7 @@
           "published_iso": "2026-10-20T16:27:53+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 8.1,
+          "hours_since_published": 9.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1798,6 +1805,74 @@
       ]
     },
     {
+      "name": "Sony",
+      "type": "品牌",
+      "count": 4,
+      "items": [
+        {
+          "title": "I tested over 50 wireless earbuds from Apple, Sony, Bose, Beats and more. These were the best - NBC News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTF9XZGNGWG04VlEwY1Q3STVJdW01TUhxOEhELTNieEtmeC14d3ZGQWQ2cEowdmpSZzlhQjFybXFFZmJtbzBYT1dFVWFIRm9KYXBLaHN5bGtYdUVRYzVIelF0ZF9xeF9VTFp3djd2ZURaSUVtOGxocTNVaDFRMzROZnYtWng1S0FoTTE4?oc=5\" target=\"_blank\">I tested over 50 wireless earbuds from Apple, Sony, Bose, B",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTF9XZGNGWG04VlEwY1Q3STVJdW01TUhxOEhELTNieEtmeC14d3ZGQWQ2cEowdmpSZzlhQjFybXFFZmJtbzBYT1dFVWFIRm9KYXBLaHN5bGtYdUVRYzVIelF0ZF9xeF9VTFp3djd2ZURaSUVtOGxocTNVaDFRMzROZnYtWng1S0FoTTE4?oc=5",
+          "published": "Thu, 15 Oct 2026 14:17:08 GMT",
+          "published_iso": "2026-10-15T14:17:08+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 131.3,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Bose",
+              "Sony",
+              "Beats"
+            ],
+            "channels": [],
+            "categories": [
+              "earbuds"
+            ]
+          },
+          "_score": 311,
+          "display_title": "I tested over 50 wireless earbuds from...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose / Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "Want an affordable yet accomplished set of Sony headphones? Then the WH-CH730N might just be perfect for you — though they’re not totally free of compromise - TechRadar",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5xbTR1RHFpNlcxc085MGFMbFB6YTFvRl9Rd2kzdzQ4TlYyNElneGlaMjFUNHB3RjY3WF9fR1FjY1FVbTZkUHJBOFdWNDhYemJ4UElvdXRpSTRnaU5jTy1IUVV0OV9xeXhXZmpUdHpEVnJQS21ZUDMzSVllZWNuQQ?oc=5\" target=\"_blank\">Want an affordable yet accomplished set of Sony headphones? Then the WH-CH730",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xbTR1RHFpNlcxc085MGFMbFB6YTFvRl9Rd2kzdzQ4TlYyNElneGlaMjFUNHB3RjY3WF9fR1FjY1FVbTZkUHJBOFdWNDhYemJ4UElvdXRpSTRnaU5jTy1IUVV0OV9xeXhXZmpUdHpEVnJQS21ZUDMzSVllZWNuQQ?oc=5",
+          "published": "Wed, 14 Oct 2026 19:00:00 GMT",
+          "published_iso": "2026-10-14T19:00:00+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 150.5,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 230,
+          "display_title": "Want an affordable yet accomplished set...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        }
+      ]
+    },
+    {
       "name": "Target",
       "type": "渠道",
       "count": 3,
@@ -1810,7 +1885,7 @@
           "published_iso": "2026-10-15T21:30:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 123.0,
+          "hours_since_published": 124.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1830,108 +1905,32 @@
           "impact_area": "电商"
         },
         {
-          "title": "Garmin Kansas City Marathon brings runners out for race day - KSHB 41 Kansas City",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzZtVGljNVdkT3NLbmdFYkNVcWpHMkhwandNcjAyXzluWVc1a0dEaXg2cEdXMDZjeHNIRDFnUEVJTHBaeE1ndGhSOG4xYU13SDQ1c3NFYW5lanV6cVRONktKejVKcHQ4di1Xbjc4V1hoQWpUQjJQUEtNbk5LYWlUWmpXbno3UTVROGRsSWxUM2gybUJFNEZMd19icjJsUm9RZzBpb3pkZ2JvbFRPV2xydkZMYVlOQ1Vq?oc=5\" target=\"_blank\"",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzZtVGljNVdkT3NLbmdFYkNVcWpHMkhwandNcjAyXzluWVc1a0dEaXg2cEdXMDZjeHNIRDFnUEVJTHBaeE1ndGhSOG4xYU13SDQ1c3NFYW5lanV6cVRONktKejVKcHQ4di1Xbjc4V1hoQWpUQjJQUEtNbk5LYWlUWmpXbno3UTVROGRsSWxUM2gybUJFNEZMd19icjJsUm9RZzBpb3pkZ2JvbFRPV2xydkZMYVlOQ1Vq?oc=5",
-          "published": "Sat, 17 Oct 2026 13:42:00 GMT",
-          "published_iso": "2026-10-17T13:42:00+00:00",
+          "title": "Sony Debuts $5,900 Gold-Plated Walkman Player for Audiophiles - Bloomberg.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1pZemNxOXFJenM5cDZTSTZkV3o4UkZoa3gxSVhYd0JyUXREM1I0UXBFSW9zS2I2dGhMMWVuemd4MTdOYnZYb044eG5GTlVYUEVFNHBkd21FUW1SX3VUbnZneW5Vd0hybmhjR2stODVCVWtweThDaVo2ZWpDalR5Wm9lbzFPNF9CX0QtV2NjZmhwTm5HSGxtWm4zNThfdVR3dFRqTWFtMS1IQk1zNnI3cTh5YTJyQ2lN?oc=5\" target=\"_blank\"",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1pZemNxOXFJenM5cDZTSTZkV3o4UkZoa3gxSVhYd0JyUXREM1I0UXBFSW9zS2I2dGhMMWVuemd4MTdOYnZYb044eG5GTlVYUEVFNHBkd21FUW1SX3VUbnZneW5Vd0hybmhjR2stODVCVWtweThDaVo2ZWpDalR5Wm9lbzFPNF9CX0QtV2NjZmhwTm5HSGxtWm4zNThfdVR3dFRqTWFtMS1IQk1zNnI3cTh5YTJyQ2lN?oc=5",
+          "published": "Thu, 15 Oct 2026 16:00:11 GMT",
+          "published_iso": "2026-10-15T16:00:11+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 82.8,
+          "hours_since_published": 129.5,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
-              "Garmin"
+              "Sony"
             ],
             "channels": [
               "Target"
             ],
             "categories": []
           },
-          "_score": 181,
-          "display_title": "Garmin Kansas City Marathon brings...",
+          "_score": 211,
+          "display_title": "Sony Debuts $5,900 Gold-Plated Walkman...",
           "tags": [
-            "🏃 运动穿戴",
-            "🏬 平台电商"
+            "🎧 耳机音频",
+            "🏬 平台电商",
+            "🚀 新品发布"
           ],
           "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 3,
-      "items": [
-        {
-          "title": "Save on some of the best bone conduction headphones — get the older and still fantastic Shokz OpenRun Pro for $70 off Amazon - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQUTBOY2V2dk05QThmR0p2SFQ3VXB2QzYwUzhxdnNlOWg1TGNYbnNPcWxIeG9Nd1FkVzE1bmFJNXVfNVo4Y0dTcnhYTXdQSUMxSXlFcnZKX19jOWlnV1lTYVBJR1BPVXZBY196RjlpTmZXRE4zcGlYMk9JRXY4eHhjdGJGZFM3UWMwclUwNHphM2FvN0hsUnJ2OFpkdm9zdzV4dFNhcUpoVlpyNHcxT1hEVVJza2poUkpxbWRMTHpaczlfcm03UHhvVW",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUTBOY2V2dk05QThmR0p2SFQ3VXB2QzYwUzhxdnNlOWg1TGNYbnNPcWxIeG9Nd1FkVzE1bmFJNXVfNVo4Y0dTcnhYTXdQSUMxSXlFcnZKX19jOWlnV1lTYVBJR1BPVXZBY196RjlpTmZXRE4zcGlYMk9JRXY4eHhjdGJGZFM3UWMwclUwNHphM2FvN0hsUnJ2OFpkdm9zdzV4dFNhcUpoVlpyNHcxT1hEVVJza2poUkpxbWRMTHpaczlfcm03UHhvVWpTa0l6MlVXMVVPVDRya0F0bDBmZDJLQnFtVklKQVJKN0NqeU5QQkQ3ZTlHR3hrUU1NRU5KVlV1Vy1vV2NJY3dqYjRT?oc=5",
-          "published": "Wed, 14 Oct 2026 15:13:34 GMT",
-          "published_iso": "2026-10-14T15:13:34+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 153.3,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 307,
-          "display_title": "Save on some of the best bone...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "name": "Save on some of the best bone conduction headphones — get the older and still fantastic Shokz OpenRun Pro for $70 off Amazon - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQUTBOY2V2dk05QThmR0p2SFQ3VXB2QzYwUzhxdnNlOWg1TGNYbnNPcWxIeG9Nd1FkVzE1bmFJNXVfNVo4Y0dTcnhYTXdQSUMxSXlFcnZKX19jOWlnV1lTYVBJR1BPVXZBY196RjlpTmZXRE4zcGlYMk9JRXY4eHhjdGJGZFM3UWMwclUwNHphM2FvN0hsUnJ2OFpkdm",
-          "date": "Wed, 14 Oct 2026 15:13:34",
-          "published_iso": "2026-10-14T15:13:34+00:00",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUTBOY2V2dk05QThmR0p2SFQ3VXB2QzYwUzhxdnNlOWg1TGNYbnNPcWxIeG9Nd1FkVzE1bmFJNXVfNVo4Y0dTcnhYTXdQSUMxSXlFcnZKX19jOWlnV1lTYVBJR1BPVXZBY196RjlpTmZXRE4zcGlYMk9JRXY4eHhjdGJGZFM3UWMwclUwNHphM2FvN0hsUnJ2OFpkdm9zdzV4dFNhcUpoVlpyNHcxT1hEVVJza2poUkpxbWRMTHpaczlfcm03UHhvVWpTa0l6MlVXMVVPVDRya0F0bDBmZDJLQnFtVklKQVJKN0NqeU5QQkQ3ZTlHR3hrUU1NRU5KVlV1Vy1vV2NJY3dqYjRT?oc=5",
-          "source": "Google News - Audio Wearable Watch",
-          "_score": 107,
-          "hours_since_published": 153.3,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "display_title": "Save on some of the best bone...",
-          "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "judgement_label": "渠道动态",
-          "product_intro": "<a。",
-          "importance": "中",
-          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     }

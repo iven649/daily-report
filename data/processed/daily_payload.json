@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23 08:33:39 CST",
+  "generated_at": "2026-10-23 09:27:35 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -714,7 +714,7 @@
     "published_iso": "2026-10-20T14:29:00+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 58.1,
+    "hours_since_published": 59.0,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -747,7 +747,7 @@
       "published_iso": "2026-10-20T14:29:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 58.1,
+      "hours_since_published": 59.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -771,6 +771,36 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
+      "title": "Retail bundle wars: Walmart is offering combined memberships with Sam's Club. The price point is curious - Fast Company",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5\" target=\"_blank\">Retail bundle wars: Walmart ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5",
+      "published": "Tue, 20 Oct 2026 12:59:08 GMT",
+      "published_iso": "2026-10-20T12:59:08+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 60.5,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart",
+          "Sam's Club"
+        ],
+        "categories": []
+      },
+      "_score": 345,
+      "display_title": "Retail bundle wars: Walmart is offering...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Walmart / Sam's Club相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
       "title": "Retail twist: Walmart allows outside AI agents to shop, while Amazon blocks them (WMT:NASDAQ) - Seeking Alpha",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGgtaTdwbUtCR3NKWTBIdnE2ZHQzTi0xLWdsVlJuc09aSG1DQXNpZDM0dFhiVWI4dFEtbThWVEVNMlhhOWpXVWVVRFVvTjlkQVlwV2JXMFBpLUc4SEx1MDRlNzhIbFRSVnl6Nk80Wkd3NkNJQzk4M0dsNDVLeXdmMFE2cUNfdW1XR3JnaUFXN29SUlpTZW0xSUd0M2cxV3FiNjR3Ri0wamF5ZTZVMFNTRThvcDFpb28?oc=5\" target=\"_blank\">",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGgtaTdwbUtCR3NKWTBIdnE2ZHQzTi0xLWdsVlJuc09aSG1DQXNpZDM0dFhiVWI4dFEtbThWVEVNMlhhOWpXVWVVRFVvTjlkQVlwV2JXMFBpLUc4SEx1MDRlNzhIbFRSVnl6Nk80Wkd3NkNJQzk4M0dsNDVLeXdmMFE2cUNfdW1XR3JnaUFXN29SUlpTZW0xSUd0M2cxV3FiNjR3Ri0wamF5ZTZVMFNTRThvcDFpb28?oc=5",
@@ -778,7 +808,7 @@
       "published_iso": "2026-10-22T11:14:39+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 13.3,
+      "hours_since_published": 14.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -798,70 +828,9 @@
       "importance": "高",
       "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Big-Box Briefing: How brands are juggling new marketplaces this holiday season",
-      "summary": "As more brick-and-mortar retailers launch their own third-party marketplaces, brands have more paths than ever before to reach new customers but also new systems to master. Brands and agencies sound off on what the key to success looks like on Walmart, Target and more.",
-      "url": "https://www.modernretail.co/retailers/big-box-briefing-how-brands-are-juggling-new-marketplaces-this-holiday-season/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Thu, 22 Oct 2026 14:00:00 +0000",
-      "published_iso": "2026-10-22T14:00:00+00:00",
-      "source": "Modern Retail",
-      "bucket": "channel_news",
-      "hours_since_published": 10.6,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart",
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 338,
-      "display_title": "Big-Box Briefing: How brands are...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "🚀 新品发布"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "consumer_electronics": [
-    {
-      "title": "These Shokz Bone Conduction Headphones Are $70 Off Right Now - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5\" target=\"_blank\">These Shokz Bone Conduction Headphones Are ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5",
-      "published": "Thu, 22 Oct 2026 17:30:00 GMT",
-      "published_iso": "2026-10-22T17:30:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 7.1,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 305,
-      "display_title": "These Shokz Bone Conduction Headphones...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
     {
       "title": "Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig the Upgraded Sound - CNET",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0tQXBJRjFuYWdkVnJZTFd1dE4xUTdXd1BBRmFiemYzelhuanBzeGRnZnZXNEtsUU5CMGhfck1rU3pMYks5UU5VTm5kUjkxRVVyY0xBUk05b19QNE85aGZndTFmS0g1UzJlcm81NHpoMlE3dGRhbHQyeWM1bkQ?oc=5\" target=\"_blank\">Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig ",
@@ -870,7 +839,7 @@
       "published_iso": "2026-10-16T13:40:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 154.9,
+      "hours_since_published": 155.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -900,7 +869,7 @@
       "published_iso": "2026-10-21T12:00:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 36.6,
+      "hours_since_published": 37.5,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -923,6 +892,36 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
+      "title": "Feeling the pinch? You can still get remarkably talented wireless earbuds from the likes of Sony, Apple and more - What Hi-Fi?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZkZkUldKVktfU0pwWWc1UG9EeW1MeGtKQmZUa0U1bFFFTU5Ib3lLeVBRRnAtMkNQSWUxTmNtMUR1RHJ3cF82OTkyUl9HYjNzUkZydlI3T3FfaXNTeF80MEN2aVRfbnZRX2VrN1VVQQ?oc=5\" target=\"_blank\">Feeling the pinch? You can still get remarkably talented wireless earbuds from the likes of Sony,",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZkZkUldKVktfU0pwWWc1UG9EeW1MeGtKQmZUa0U1bFFFTU5Ib3lLeVBRRnAtMkNQSWUxTmNtMUR1RHJ3cF82OTkyUl9HYjNzUkZydlI3T3FfaXNTeF80MEN2aVRfbnZRX2VrN1VVQQ?oc=5",
+      "published": "Tue, 20 Oct 2026 14:07:50 GMT",
+      "published_iso": "2026-10-20T14:07:50+00:00",
+      "source": "Google News - Audio Wearable Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 59.3,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Sony"
+        ],
+        "channels": [],
+        "categories": [
+          "earbuds"
+        ]
+      },
+      "_score": 222,
+      "display_title": "Feeling the pinch? You can still get...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only - The Verge",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs3VnlXSjIxNkl1YUxEaFE4TWNHcjBjY3BjcDQzTjZNQnUtcXVWQi1Mb29CRXd3Y1d0blEybGpid1VRTGJPQzJubmN2SXRWQXpvWW9WSk92Z1F1R2k5aUViTGdLXzlCNm1vVmtmYUdtLThtaUxrMGh6NllScEZTUGdwSWtOTDBTYXMtUXhqc0ZtZnNnekNkdFRlaXd2b1ZwdVhWd1B5eTM?oc=5\" target=\"_blank\">Sony’s best noise-ca",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs3VnlXSjIxNkl1YUxEaFE4TWNHcjBjY3BjcDQzTjZNQnUtcXVWQi1Mb29CRXd3Y1d0blEybGpid1VRTGJPQzJubmN2SXRWQXpvWW9WSk92Z1F1R2k5aUViTGdLXzlCNm1vVmtmYUdtLThtaUxrMGh6NllScEZTUGdwSWtOTDBTYXMtUXhqc0ZtZnNnekNkdFRlaXd2b1ZwdVhWd1B5eTM?oc=5",
@@ -930,7 +929,7 @@
       "published_iso": "2026-10-19T18:52:41+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 77.7,
+      "hours_since_published": 78.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -959,7 +958,7 @@
       "published_iso": "2026-10-21T22:19:48+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 26.2,
+      "hours_since_published": 27.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -986,7 +985,7 @@
       "published_iso": "2026-10-22T20:37:51+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 3.9,
+      "hours_since_published": 4.8,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1016,7 +1015,7 @@
       "published_iso": "2026-10-20T14:29:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 58.1,
+      "hours_since_published": 59.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1040,6 +1039,36 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
+      "title": "Retail bundle wars: Walmart is offering combined memberships with Sam's Club. The price point is curious - Fast Company",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5\" target=\"_blank\">Retail bundle wars: Walmart ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5",
+      "published": "Tue, 20 Oct 2026 12:59:08 GMT",
+      "published_iso": "2026-10-20T12:59:08+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 60.5,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart",
+          "Sam's Club"
+        ],
+        "categories": []
+      },
+      "_score": 345,
+      "display_title": "Retail bundle wars: Walmart is offering...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Walmart / Sam's Club相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
       "title": "Retail twist: Walmart allows outside AI agents to shop, while Amazon blocks them (WMT:NASDAQ) - Seeking Alpha",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGgtaTdwbUtCR3NKWTBIdnE2ZHQzTi0xLWdsVlJuc09aSG1DQXNpZDM0dFhiVWI4dFEtbThWVEVNMlhhOWpXVWVVRFVvTjlkQVlwV2JXMFBpLUc4SEx1MDRlNzhIbFRSVnl6Nk80Wkd3NkNJQzk4M0dsNDVLeXdmMFE2cUNfdW1XR3JnaUFXN29SUlpTZW0xSUd0M2cxV3FiNjR3Ri0wamF5ZTZVMFNTRThvcDFpb28?oc=5\" target=\"_blank\">",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGgtaTdwbUtCR3NKWTBIdnE2ZHQzTi0xLWdsVlJuc09aSG1DQXNpZDM0dFhiVWI4dFEtbThWVEVNMlhhOWpXVWVVRFVvTjlkQVlwV2JXMFBpLUc4SEx1MDRlNzhIbFRSVnl6Nk80Wkd3NkNJQzk4M0dsNDVLeXdmMFE2cUNfdW1XR3JnaUFXN29SUlpTZW0xSUd0M2cxV3FiNjR3Ri0wamF5ZTZVMFNTRThvcDFpb28?oc=5",
@@ -1047,7 +1076,7 @@
       "published_iso": "2026-10-22T11:14:39+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 13.3,
+      "hours_since_published": 14.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1076,7 +1105,7 @@
       "published_iso": "2026-10-22T14:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 10.6,
+      "hours_since_published": 11.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1106,7 +1135,7 @@
       "published_iso": "2026-10-20T21:12:17+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 51.4,
+      "hours_since_published": 52.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1136,7 +1165,7 @@
       "published_iso": "2026-10-16T12:45:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 155.8,
+      "hours_since_published": 156.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1156,35 +1185,6 @@
       "importance": "高",
       "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat - TechCrunch",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFVjb1ZFLUt6aVZJTnlORlk1Vl9YS2lRMW9UeldUdUd1OTRMWE85eDZIU0t2b21FNG82X05VZ081ckJ2T0tVbE5KRU5ZSlc0eURzR0JtZ0VSak5uWk5wN2M4U0ZlY25lYTZidl8xbUVZMFN3NVc3NEQwSWFKaVNKWmxOa1JubVg4VHQ4S0pGcVB3X0l0eGw0V3hTWXZPTmM?oc=5\" target=\"_blank\">While Amazon blocks AI agents, W",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFVjb1ZFLUt6aVZJTnlORlk1Vl9YS2lRMW9UeldUdUd1OTRMWE85eDZIU0t2b21FNG82X05VZ081ckJ2T0tVbE5KRU5ZSlc0eURzR0JtZ0VSak5uWk5wN2M4U0ZlY25lYTZidl8xbUVZMFN3NVc3NEQwSWFKaVNKWmxOa1JubVg4VHQ4S0pGcVB3X0l0eGw0V3hTWXZPTmM?oc=5",
-      "published": "Wed, 21 Oct 2026 19:30:00 GMT",
-      "published_iso": "2026-10-21T19:30:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 29.1,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 289,
-      "display_title": "While Amazon blocks AI agents, Walmart...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "products": [
@@ -1196,7 +1196,7 @@
       "url": "https://www.androidauthority.com/shokz-openrun-pro-deal-amazon-3726905/",
       "source": "Android Authority",
       "_score": 155,
-      "hours_since_published": 7.0,
+      "hours_since_published": 7.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1226,39 +1226,6 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "name": "These Shokz Bone Conduction Headphones Are $70 Off Right Now - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5\"",
-      "date": "Thu, 22 Oct 2026 17:30:00",
-      "published_iso": "2026-10-22T17:30:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 105,
-      "hours_since_published": 7.1,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "display_title": "These Shokz Bone Conduction Headphones...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "竞品观察",
-      "product_intro": "<a。",
-      "importance": "中",
-      "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
       "name": "Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig the Upgraded Sound - CNET",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0tQXBJRjFuYWdkVnJZTFd1dE4xUTdXd1BBRmFiemYzelhuanBzeGRnZnZXNEtsUU5CMGhfck1rU3pMYks5UU5VTm5kUjkxRVVyY0xBUk05b19QNE85aGZndTFmS0g1UzJlcm81NHpoMlE3dGRhbHQyeWM1bkQ?oc=5\" target=\"_blank\">Bose Ultra Open Earb",
       "date": "Fri, 16 Oct 2026 13:40:00",
@@ -1266,7 +1233,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tQXBJRjFuYWdkVnJZTFd1dE4xUTdXd1BBRmFiemYzelhuanBzeGRnZnZXNEtsUU5CMGhfck1rU3pMYks5UU5VTm5kUjkxRVVyY0xBUk05b19QNE85aGZndTFmS0g1UzJlcm81NHpoMlE3dGRhbHQyeWM1bkQ?oc=5",
       "source": "Google News - Competitor Watch",
       "_score": 75,
-      "hours_since_published": 154.9,
+      "hours_since_published": 155.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1298,7 +1265,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzlSdnhiQ3RqblNNRGtYdGRMcUE2LVltM01RbmIzNVBneVgtWW1aWkI3cjA2X0xrd2w2SXFtUWdsSzRRTnRLOHJEQ1NZWUwteGxRWGhSSDhrM2xIYXVvYnlsS0k1MXBGbS1sQ2ZFV2hjeE1GdDhVTTVScFFJNHMwT0RSUDc1ejNvbkN1YnBBSGI?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 73,
-      "hours_since_published": 113.6,
+      "hours_since_published": 114.5,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1332,7 +1299,7 @@
       "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 0.4,
+      "hours_since_published": 1.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1359,7 +1326,7 @@
       "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 1.5,
+      "hours_since_published": 2.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1374,6 +1341,33 @@
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
       "product_intro": "Spotify co-CEO Alex Norstr&#246;m。",
+      "importance": "低",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "name": "Canva’s first AI image model plans designs before generating them",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generatin",
+      "date": "2026-10-22T17:51:25-04:00",
+      "published_iso": "2026-10-22T21:51:25+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 3.6,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "Canva’s first AI image model plans...",
+      "display_summary": "Canva is diving even deeper into AI with the l",
+      "tags": [
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "新品发布",
+      "product_intro": "Canva is diving even deeper into AI。",
       "importance": "低",
       "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
@@ -1393,7 +1387,7 @@
           "published_iso": "2026-10-20T14:29:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 58.1,
+          "hours_since_published": 59.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1417,32 +1411,33 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Retail twist: Walmart allows outside AI agents to shop, while Amazon blocks them (WMT:NASDAQ) - Seeking Alpha",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGgtaTdwbUtCR3NKWTBIdnE2ZHQzTi0xLWdsVlJuc09aSG1DQXNpZDM0dFhiVWI4dFEtbThWVEVNMlhhOWpXVWVVRFVvTjlkQVlwV2JXMFBpLUc4SEx1MDRlNzhIbFRSVnl6Nk80Wkd3NkNJQzk4M0dsNDVLeXdmMFE2cUNfdW1XR3JnaUFXN29SUlpTZW0xSUd0M2cxV3FiNjR3Ri0wamF5ZTZVMFNTRThvcDFpb28?oc=5\" target=\"_blank\">",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGgtaTdwbUtCR3NKWTBIdnE2ZHQzTi0xLWdsVlJuc09aSG1DQXNpZDM0dFhiVWI4dFEtbThWVEVNMlhhOWpXVWVVRFVvTjlkQVlwV2JXMFBpLUc4SEx1MDRlNzhIbFRSVnl6Nk80Wkd3NkNJQzk4M0dsNDVLeXdmMFE2cUNfdW1XR3JnaUFXN29SUlpTZW0xSUd0M2cxV3FiNjR3Ri0wamF5ZTZVMFNTRThvcDFpb28?oc=5",
-          "published": "Thu, 22 Oct 2026 11:14:39 GMT",
-          "published_iso": "2026-10-22T11:14:39+00:00",
+          "title": "Retail bundle wars: Walmart is offering combined memberships with Sam's Club. The price point is curious - Fast Company",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5\" target=\"_blank\">Retail bundle wars: Walmart ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5",
+          "published": "Tue, 20 Oct 2026 12:59:08 GMT",
+          "published_iso": "2026-10-20T12:59:08+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 13.3,
-          "freshness_label": "24h内",
+          "hours_since_published": 60.5,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Amazon",
-              "Walmart"
+              "Walmart",
+              "Sam's Club"
             ],
             "categories": []
           },
-          "_score": 342,
-          "display_title": "Retail twist: Walmart allows outside AI...",
+          "_score": 345,
+          "display_title": "Retail bundle wars: Walmart is offering...",
           "tags": [
             "🛒 渠道零售",
-            "🏬 平台电商"
+            "🏬 平台电商",
+            "💰 价格促销"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Walmart / Sam's Club相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
@@ -1460,7 +1455,7 @@
           "published_iso": "2026-10-20T14:29:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 58.1,
+          "hours_since_published": 59.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1491,7 +1486,7 @@
           "published_iso": "2026-10-22T11:14:39+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 13.3,
+          "hours_since_published": 14.2,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1517,39 +1512,8 @@
     {
       "name": "headphone",
       "type": "品类",
-      "count": 7,
+      "count": 6,
       "items": [
-        {
-          "title": "These Shokz Bone Conduction Headphones Are $70 Off Right Now - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5\" target=\"_blank\">These Shokz Bone Conduction Headphones Are ",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5",
-          "published": "Thu, 22 Oct 2026 17:30:00 GMT",
-          "published_iso": "2026-10-22T17:30:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 7.1,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 305,
-          "display_title": "These Shokz Bone Conduction Headphones...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
         {
           "title": "Thinking of buying Sony headphones? Here's why the WH-1000XM5 deserves a closer look in 2026 - Gulf News",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY2cxZGJ0dURJbzhCNDYzUktES1BweUV3U29Ga0FJcXdFTU1USHhMQkFObkJNX3dkeGpKTEtPUWVyUWFYWDJXQ1M5NVloNW9lUmh2SkI4ZUZBSFpvX1VQVUpNOU5hak1fTDkyYkcyVXdpTEhMblZCcFBzWEluZk0tdktVdjdFemI2UWJOQlhXVWtoVlVwaFVNYTVWUEQ4UnlNc1UtWE1JRE0wSzZhandfVFo0SGNSRmpnb1lCWWJhNmNzMWVUam9obH",
@@ -1558,7 +1522,7 @@
           "published_iso": "2026-10-21T12:00:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 36.6,
+          "hours_since_published": 37.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1579,13 +1543,41 @@
           "importance": "高",
           "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "tune X3 headphones by préssec take design cues from vintage studio equipment - Designboom",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUd6SmZYY3RqQksta29HNU1idzZMRjhBSENncEIzREtMUWNrbG01LW1CNzRnZm5lM3A2LVRjY1JBRG9OWU9WaUdLYjNsdElNNXlsdzR1M3FNdy1QVjRNNHJpeWtmRHVMcWgtcVl6aTNoLW0xUlBNU3dNcTdYT0FUUWZVekJORkloOEhCcl9INFhTOEd3?oc=5\" target=\"_blank\">tune X3 headphones by préssec take design cues ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUd6SmZYY3RqQksta29HNU1idzZMRjhBSENncEIzREtMUWNrbG01LW1CNzRnZm5lM3A2LVRjY1JBRG9OWU9WaUdLYjNsdElNNXlsdzR1M3FNdy1QVjRNNHJpeWtmRHVMcWgtcVl6aTNoLW0xUlBNU3dNcTdYT0FUUWZVekJORkloOEhCcl9INFhTOEd3?oc=5",
+          "published": "Thu, 22 Oct 2026 20:37:51 GMT",
+          "published_iso": "2026-10-22T20:37:51+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 4.8,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 193,
+          "display_title": "tune X3 headphones by préssec take...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
     {
       "name": "open-ear",
       "type": "品类",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "title": "Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig the Upgraded Sound - CNET",
@@ -1595,7 +1587,7 @@
           "published_iso": "2026-10-16T13:40:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 154.9,
+          "hours_since_published": 155.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1618,37 +1610,48 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "7 best open earbuds of 2026: Expert tested and selected - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBLLWc5NDZocXA3WWZKaFdBX0xUbE4taGI2d3l2OFlVbnBhVDY4TmtMV252dWxOenhnYl9hMVlHNnM0cm1PNmkxNzhncHlPQTRETy1jYVpwckZnZEY1Nmw1aFpXX2gzNmZRbDE3WE11RzNDTjA?oc=5\" target=\"_blank\">7 best open earbuds of 2026: Expert tested and selected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLLWc5NDZocXA3WWZKaFdBX0xUbE4taGI2d3l2OFlVbnBhVDY4TmtMV252dWxOenhnYl9hMVlHNnM0cm1PNmkxNzhncHlPQTRETy1jYVpwckZnZEY1Nmw1aFpXX2gzNmZRbDE3WE11RzNDTjA?oc=5",
-          "published": "Sun, 18 Oct 2026 09:00:14 GMT",
-          "published_iso": "2026-10-18T09:00:14+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 111.6,
-          "freshness_label": "近7天",
+          "name": "Shokz OpenRun Pro headphones get a $70 Amazon discount",
+          "summary": "SHOKZ OpenRun Pro drops to $109.95 on Amazon, giving runners open-ear bone-conduction audio for less.",
+          "date": "Thu, 22 Oct 2026 17:34:02",
+          "published_iso": "2026-10-22T17:34:02+00:00",
+          "url": "https://www.androidauthority.com/shokz-openrun-pro-deal-amazon-3726905/",
+          "source": "Android Authority",
+          "_score": 155,
+          "hours_since_published": 7.9,
+          "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [],
-            "channels": [],
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [
+              "Amazon"
+            ],
             "categories": [
               "open-ear",
-              "earbuds"
+              "bone conduction",
+              "headphone"
             ]
           },
-          "_score": 181,
-          "display_title": "7 best open earbuds of 2026: Expert...",
+          "display_title": "Shokz OpenRun Pro headphones get a $70...",
+          "display_summary": "SHOKZ OpenRun Pro drops to $109.95 on Amazon, ",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🏬 平台电商",
+            "💰 价格促销"
           ],
-          "impact_area": "品牌营销"
+          "impact_area": "电商",
+          "judgement_label": "价格促销",
+          "product_intro": "SHOKZ OpenRun Pro drops to $109.95 on。",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     },
     {
       "name": "earbuds",
       "type": "品类",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "title": "Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig the Upgraded Sound - CNET",
@@ -1658,7 +1661,7 @@
           "published_iso": "2026-10-16T13:40:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 154.9,
+          "hours_since_published": 155.8,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1681,15 +1684,15 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only - The Verge",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs3VnlXSjIxNkl1YUxEaFE4TWNHcjBjY3BjcDQzTjZNQnUtcXVWQi1Mb29CRXd3Y1d0blEybGpid1VRTGJPQzJubmN2SXRWQXpvWW9WSk92Z1F1R2k5aUViTGdLXzlCNm1vVmtmYUdtLThtaUxrMGh6NllScEZTUGdwSWtOTDBTYXMtUXhqc0ZtZnNnekNkdFRlaXd2b1ZwdVhWd1B5eTM?oc=5\" target=\"_blank\">Sony’s best noise-ca",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUs3VnlXSjIxNkl1YUxEaFE4TWNHcjBjY3BjcDQzTjZNQnUtcXVWQi1Mb29CRXd3Y1d0blEybGpid1VRTGJPQzJubmN2SXRWQXpvWW9WSk92Z1F1R2k5aUViTGdLXzlCNm1vVmtmYUdtLThtaUxrMGh6NllScEZTUGdwSWtOTDBTYXMtUXhqc0ZtZnNnekNkdFRlaXd2b1ZwdVhWd1B5eTM?oc=5",
-          "published": "Mon, 19 Oct 2026 18:52:41 GMT",
-          "published_iso": "2026-10-19T18:52:41+00:00",
-          "source": "Google News - Competitor Watch",
+          "title": "Feeling the pinch? You can still get remarkably talented wireless earbuds from the likes of Sony, Apple and more - What Hi-Fi?",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZkZkUldKVktfU0pwWWc1UG9EeW1MeGtKQmZUa0U1bFFFTU5Ib3lLeVBRRnAtMkNQSWUxTmNtMUR1RHJ3cF82OTkyUl9HYjNzUkZydlI3T3FfaXNTeF80MEN2aVRfbnZRX2VrN1VVQQ?oc=5\" target=\"_blank\">Feeling the pinch? You can still get remarkably talented wireless earbuds from the likes of Sony,",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZkZkUldKVktfU0pwWWc1UG9EeW1MeGtKQmZUa0U1bFFFTU5Ib3lLeVBRRnAtMkNQSWUxTmNtMUR1RHJ3cF82OTkyUl9HYjNzUkZydlI3T3FfaXNTeF80MEN2aVRfbnZRX2VrN1VVQQ?oc=5",
+          "published": "Tue, 20 Oct 2026 14:07:50 GMT",
+          "published_iso": "2026-10-20T14:07:50+00:00",
+          "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 77.7,
-          "freshness_label": "近7天",
+          "hours_since_published": 59.3,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
               "Sony"
@@ -1699,10 +1702,78 @@
               "earbuds"
             ]
           },
-          "_score": 197,
-          "display_title": "Sony’s best noise-canceling earbuds are...",
+          "_score": 222,
+          "display_title": "Feeling the pinch? You can still get...",
           "tags": [
-            "🎧 耳机音频"
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        }
+      ]
+    },
+    {
+      "name": "Sony",
+      "type": "品牌",
+      "count": 4,
+      "items": [
+        {
+          "title": "Thinking of buying Sony headphones? Here's why the WH-1000XM5 deserves a closer look in 2026 - Gulf News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY2cxZGJ0dURJbzhCNDYzUktES1BweUV3U29Ga0FJcXdFTU1USHhMQkFObkJNX3dkeGpKTEtPUWVyUWFYWDJXQ1M5NVloNW9lUmh2SkI4ZUZBSFpvX1VQVUpNOU5hak1fTDkyYkcyVXdpTEhMblZCcFBzWEluZk0tdktVdjdFemI2UWJOQlhXVWtoVlVwaFVNYTVWUEQ4UnlNc1UtWE1JRE0wSzZhandfVFo0SGNSRmpnb1lCWWJhNmNzMWVUam9obH",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY2cxZGJ0dURJbzhCNDYzUktES1BweUV3U29Ga0FJcXdFTU1USHhMQkFObkJNX3dkeGpKTEtPUWVyUWFYWDJXQ1M5NVloNW9lUmh2SkI4ZUZBSFpvX1VQVUpNOU5hak1fTDkyYkcyVXdpTEhMblZCcFBzWEluZk0tdktVdjdFemI2UWJOQlhXVWtoVlVwaFVNYTVWUEQ4UnlNc1UtWE1JRE0wSzZhandfVFo0SGNSRmpnb1lCWWJhNmNzMWVUam9obHRuZEh1cEJwV24xckxZWGgtbzY3ajJ4aUl5cTRMTTDSAfoBQVVfeXFMTlNZLVhkWEtMbDVMZ05jUlRkV0tqZ211ZE1mZDRMWVhFOHh1SEtBM2kyTmdNMjRFTzFYT2Q4LWF2OF9uM2FTajdPSTExTTlnTk05d0llamRjbXc1OEtPQV9JcUFJd2ZDY1NGMGhVTGYzS2JCMjdFZXctamxfYlE4eG5ZWks1SDgxMEJkSUx3cmxLLWRxS2s2OEhpNnZwVkhlbHFHZDFDREF5UUZvWVBiNjdiR05wU29KU0lvZTMzQmYwTk5SZkllbjFwVVpJTkQyOXExb1FoN3Q5bXJEN043ZEJKZFJ6YkxGRzgzN0JWeG5meVN2QzQzbl9WQQ?oc=5",
+          "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+          "published_iso": "2026-10-21T12:00:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 37.5,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 250,
+          "display_title": "Thinking of buying Sony headphones?...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "Feeling the pinch? You can still get remarkably talented wireless earbuds from the likes of Sony, Apple and more - What Hi-Fi?",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZkZkUldKVktfU0pwWWc1UG9EeW1MeGtKQmZUa0U1bFFFTU5Ib3lLeVBRRnAtMkNQSWUxTmNtMUR1RHJ3cF82OTkyUl9HYjNzUkZydlI3T3FfaXNTeF80MEN2aVRfbnZRX2VrN1VVQQ?oc=5\" target=\"_blank\">Feeling the pinch? You can still get remarkably talented wireless earbuds from the likes of Sony,",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZkZkUldKVktfU0pwWWc1UG9EeW1MeGtKQmZUa0U1bFFFTU5Ib3lLeVBRRnAtMkNQSWUxTmNtMUR1RHJ3cF82OTkyUl9HYjNzUkZydlI3T3FfaXNTeF80MEN2aVRfbnZRX2VrN1VVQQ?oc=5",
+          "published": "Tue, 20 Oct 2026 14:07:50 GMT",
+          "published_iso": "2026-10-20T14:07:50+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 59.3,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
+            ],
+            "channels": [],
+            "categories": [
+              "earbuds"
+            ]
+          },
+          "_score": 222,
+          "display_title": "Feeling the pinch? You can still get...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
@@ -1724,7 +1795,7 @@
           "published_iso": "2026-10-20T14:29:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 58.1,
+          "hours_since_published": 59.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1748,184 +1819,98 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime - Grocery Dive",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWFId2FzVWpXLUd6bHJQY00zODRKTTZjNXFhZUQ3Z0FXMEhZcmRhWlJ1clFUR2Q0Ymp2UmFJVlJnWjVDblgxa2M1QlFnc0NnTjVWRk1MRW5pUVZiRVB6VTc2cEVYVU1VN2VvdGVPQ2FHZUlLMkdZTjBqMnFQY3dabEZOMk1xSGtkLWd3THcxbkNiZGZxalhxTg?oc=5\" target=\"_blank\">Walmart enlists Sam’s Club in latest chal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWFId2FzVWpXLUd6bHJQY00zODRKTTZjNXFhZUQ3Z0FXMEhZcmRhWlJ1clFUR2Q0Ymp2UmFJVlJnWjVDblgxa2M1QlFnc0NnTjVWRk1MRW5pUVZiRVB6VTc2cEVYVU1VN2VvdGVPQ2FHZUlLMkdZTjBqMnFQY3dabEZOMk1xSGtkLWd3THcxbkNiZGZxalhxTg?oc=5",
-          "published": "Tue, 20 Oct 2026 21:12:17 GMT",
-          "published_iso": "2026-10-20T21:12:17+00:00",
+          "title": "Retail bundle wars: Walmart is offering combined memberships with Sam's Club. The price point is curious - Fast Company",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5\" target=\"_blank\">Retail bundle wars: Walmart ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFBVNUR3YzlQaExIcmg5MlVqNk92dWU4bmhsdXRuWnpEWDk2eXhkZjVrRldsUEdEVzlkbEhqRnVrXzhxWlM2b2pWZ2R5V1NmTU5QZVlnd1RPck1SYmlKSkg4eHhuamNyUVVtMmxqMVlLMDJ1a0MyTS1pdU1PQWxReUt2Uk85NHYwclhvUGJGdU5MSUJiNXRRQXZiTFNHVDhMR0E?oc=5",
+          "published": "Tue, 20 Oct 2026 12:59:08 GMT",
+          "published_iso": "2026-10-20T12:59:08+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 51.4,
+          "hours_since_published": 60.5,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Amazon",
               "Walmart",
               "Sam's Club"
             ],
             "categories": []
           },
-          "_score": 321,
-          "display_title": "Walmart enlists Sam’s Club in latest...",
+          "_score": 345,
+          "display_title": "Retail bundle wars: Walmart is offering...",
           "tags": [
             "🛒 渠道零售",
-            "🏬 平台电商"
+            "🏬 平台电商",
+            "💰 价格促销"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Walmart / Sam's Club相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     },
     {
-      "name": "Shokz",
+      "name": "Bose",
       "type": "品牌",
       "count": 3,
       "items": [
         {
-          "title": "These Shokz Bone Conduction Headphones Are $70 Off Right Now - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5\" target=\"_blank\">These Shokz Bone Conduction Headphones Are ",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5",
-          "published": "Thu, 22 Oct 2026 17:30:00 GMT",
-          "published_iso": "2026-10-22T17:30:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig the Upgraded Sound - CNET",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0tQXBJRjFuYWdkVnJZTFd1dE4xUTdXd1BBRmFiemYzelhuanBzeGRnZnZXNEtsUU5CMGhfck1rU3pMYks5UU5VTm5kUjkxRVVyY0xBUk05b19QNE85aGZndTFmS0g1UzJlcm81NHpoMlE3dGRhbHQyeWM1bkQ?oc=5\" target=\"_blank\">Bose Ultra Open Earbuds (2nd Gen) Review: Affordability Is a Concern, but I Dig ",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tQXBJRjFuYWdkVnJZTFd1dE4xUTdXd1BBRmFiemYzelhuanBzeGRnZnZXNEtsUU5CMGhfck1rU3pMYks5UU5VTm5kUjkxRVVyY0xBUk05b19QNE85aGZndTFmS0g1UzJlcm81NHpoMlE3dGRhbHQyeWM1bkQ?oc=5",
+          "published": "Fri, 16 Oct 2026 13:40:00 GMT",
+          "published_iso": "2026-10-16T13:40:00+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 7.1,
-          "freshness_label": "24h内",
+          "hours_since_published": 155.8,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
-              "Shokz"
+              "Bose"
             ],
             "channels": [],
             "categories": [
-              "bone conduction",
-              "headphone"
+              "open-ear",
+              "earbuds"
             ]
           },
-          "_score": 305,
-          "display_title": "These Shokz Bone Conduction Headphones...",
+          "_score": 255,
+          "display_title": "Bose Ultra Open Earbuds (2nd Gen)...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🎧 耳机音频"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "name": "Shokz OpenRun Pro headphones get a $70 Amazon discount",
-          "summary": "SHOKZ OpenRun Pro drops to $109.95 on Amazon, giving runners open-ear bone-conduction audio for less.",
-          "date": "Thu, 22 Oct 2026 17:34:02",
-          "published_iso": "2026-10-22T17:34:02+00:00",
-          "url": "https://www.androidauthority.com/shokz-openrun-pro-deal-amazon-3726905/",
-          "source": "Android Authority",
-          "_score": 155,
-          "hours_since_published": 7.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "open-ear",
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "display_title": "Shokz OpenRun Pro headphones get a $70...",
-          "display_summary": "SHOKZ OpenRun Pro drops to $109.95 on Amazon, ",
-          "tags": [
-            "🎧 耳机音频",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "judgement_label": "价格促销",
-          "product_intro": "SHOKZ OpenRun Pro drops to $109.95 on。",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 3,
-      "items": [
-        {
-          "title": "These Shokz Bone Conduction Headphones Are $70 Off Right Now - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5\" target=\"_blank\">These Shokz Bone Conduction Headphones Are ",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTQzRHBIVXJCR2RmemNsMDYxZXVTWjlpOVgwT1R1YTl0QWZiNFE3Yl80MnlVYkdsTGdkMzdWcUNlNWNwZVZpOEp6a0NsbFA3RTdaVHpVMDg0U05SclZuWnFERWtTVmRWOWZ4Ym5aWlNnaG9yaDVjODRUbFhpa2ZsZGhpdU1GUUdnVVk3QTJIMDBmSE9rVm84?oc=5",
-          "published": "Thu, 22 Oct 2026 17:30:00 GMT",
-          "published_iso": "2026-10-22T17:30:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "Bose Buys Audio Rival Skullcandy - Engadget",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb0tIYWdpcGVqRTlGQkNGNmJWeDd4QVVTaThuWmJYTXVwNnBpb1B1Q2lpWXhKT2locHQxaE42cDZYOFpoZUQteHJzaGtaYmRMcThTS0JndkNjbTdFOXo5YThGbTRvdnFQVG9zTlBvd1NwbGl0?oc=5\" target=\"_blank\">Bose Buys Audio Rival Skullcandy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb0tIYWdpcGVqRTlGQkNGNmJWeDd4QVVTaThuWmJYTXVwNnBpb1B1Q2lpWXhKT2locHQxaE42cDZYOFpoZUQteHJzaGtaYmRMcThTS0JndkNjbTdFOXo5YThGbTRvdnFQVG9zTlBvd1NwbGl0?oc=5",
+          "published": "Wed, 21 Oct 2026 22:19:48 GMT",
+          "published_iso": "2026-10-21T22:19:48+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 7.1,
-          "freshness_label": "24h内",
+          "hours_since_published": 27.1,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
-              "Shokz"
+              "Bose"
             ],
             "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 305,
-          "display_title": "These Shokz Bone Conduction Headphones...",
+          "_score": 194,
+          "display_title": "Bose Buys Audio Rival Skullcandy...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🎧 耳机音频"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "name": "Shokz OpenRun Pro headphones get a $70 Amazon discount",
-          "summary": "SHOKZ OpenRun Pro drops to $109.95 on Amazon, giving runners open-ear bone-conduction audio for less.",
-          "date": "Thu, 22 Oct 2026 17:34:02",
-          "published_iso": "2026-10-22T17:34:02+00:00",
-          "url": "https://www.androidauthority.com/shokz-openrun-pro-deal-amazon-3726905/",
-          "source": "Android Authority",
-          "_score": 155,
-          "hours_since_published": 7.0,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "open-ear",
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "display_title": "Shokz OpenRun Pro headphones get a $70...",
-          "display_summary": "SHOKZ OpenRun Pro drops to $109.95 on Amazon, ",
-          "tags": [
-            "🎧 耳机音频",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "judgement_label": "价格促销",
-          "product_intro": "SHOKZ OpenRun Pro drops to $109.95 on。",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     }
@@ -1937,7 +1922,7 @@
   ],
   "opportunity_signals": [
     "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-    "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。"
+    "北美渠道侧出现与Walmart / Sam's Club相关信号，优先评估对电商的影响。"
   ],
   "risk_signals": [
     "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。",

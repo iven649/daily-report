@@ -1,24 +1,6 @@
 {
   "products": [
     {
-      "name": "Shokz OpenRun Air 2 Review: I Love This Lightweight Option for Open-Ear Bone Conduction Headphones - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5\" target=\"_blank\">Shokz OpenRun Air 2 Review: I Love This Lightwei",
-      "date": "Wed, 28 Oct 2026 19:30:18",
-      "published_iso": "2026-10-28T19:30:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 48
-    },
-    {
-      "name": "We've found the best open earbuds on the market, all TechRadar tested - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNQTNyRjg2Q0dQVW9HRHFhZElLYUppd2J6SEVMUFo1U3RGYkw0VndiZHVLX2F5T3RBbGJ2elNnV3JueDZwVFU0TkkweFZKZWNsbUdYV0dWdm5vSXB6UC1qTUVxUGNudzNWYUZMT1Z6M3BKemxPV25ndERHVVhwLW5qR09n?oc=5\" target=\"_blank\">We've found",
-      "date": "Wed, 28 Oct 2026 16:38:31",
-      "published_iso": "2026-10-28T16:38:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQTNyRjg2Q0dQVW9HRHFhZElLYUppd2J6SEVMUFo1U3RGYkw0VndiZHVLX2F5T3RBbGJ2elNnV3JueDZwVFU0TkkweFZKZWNsbUdYV0dWdm5vSXB6UC1qTUVxUGNudzNWYUZMT1Z6M3BKemxPV25ndERHVVhwLW5qR09n?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 24
-    },
-    {
       "name": "Shokz OpenRun Pro 2 Review: Finally, Open-Ear Headphones That Sound Good - MensXP",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBng",
       "date": "Thu, 29 Oct 2026 10:43:18",
@@ -107,13 +89,31 @@
       "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
       "source": "The Verge",
       "_score": 20
+    },
+    {
+      "name": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, m",
+      "date": "2026-10-30T11:29:02-04:00",
+      "published_iso": "2026-10-30T15:29:02+00:00",
+      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "source": "The Verge",
+      "_score": 20
+    },
+    {
+      "name": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "date": "Sat, 31 Oct 2026 01:20:05",
+      "published_iso": "2026-10-31T01:20:05+00:00",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch",
+      "_score": 10
     }
   ],
-  "fetched_at": 1793410217,
+  "fetched_at": 1793413166,
   "stats": {
     "source_count": 7,
-    "raw_count": 112,
-    "deduped_count": 112,
+    "raw_count": 105,
+    "deduped_count": 105,
     "kept_count": 12
   }
 }

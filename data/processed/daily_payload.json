@@ -1,23 +1,24 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31 10:19:30 CST",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01 08:59:10 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
     {
-      "slug": "halloween",
-      "name": "万圣节",
+      "slug": "thanksgiving",
+      "name": "感恩节",
       "market": "US",
       "type": "holiday",
-      "priority": 4,
-      "rule": "fixed",
-      "month": 10,
-      "day": 31,
-      "icon": "🎃",
-      "date": "2026-10-31",
-      "countdown": 0,
+      "priority": 5,
+      "rule": "nth_weekday",
+      "month": 11,
+      "weekday": 3,
+      "nth": 4,
+      "icon": "🦃",
+      "date": "2026-11-26",
+      "countdown": 25,
       "year": 2026,
-      "origin": "万圣节是美国市场的重要节日或零售节点。",
+      "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
       "customs": [
         "家庭消费",
@@ -34,20 +35,19 @@
       "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
     },
     {
-      "slug": "thanksgiving",
-      "name": "感恩节",
+      "slug": "christmas",
+      "name": "圣诞节",
       "market": "US",
       "type": "holiday",
       "priority": 5,
-      "rule": "nth_weekday",
-      "month": 11,
-      "weekday": 3,
-      "nth": 4,
-      "icon": "🦃",
-      "date": "2026-11-26",
-      "countdown": 26,
+      "rule": "fixed",
+      "month": 12,
+      "day": 25,
+      "icon": "🎄",
+      "date": "2026-12-25",
+      "countdown": 54,
       "year": 2026,
-      "origin": "感恩节是美国市场的重要节日或零售节点。",
+      "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
       "customs": [
         "家庭消费",
@@ -74,7 +74,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 11,
+      "countdown": 10,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -101,7 +101,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 27,
+      "countdown": 26,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -120,35 +120,6 @@
   ],
   "festival_pages": [
     {
-      "slug": "halloween",
-      "name": "万圣节",
-      "market": "US",
-      "type": "holiday",
-      "priority": 4,
-      "rule": "fixed",
-      "month": 10,
-      "day": 31,
-      "icon": "🎃",
-      "date": "2026-10-31",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "万圣节是美国市场的重要节日或零售节点。",
-      "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
-      "customs": [
-        "家庭消费",
-        "礼品采购",
-        "平台促销",
-        "线下零售活动"
-      ],
-      "consumption": [
-        "礼赠类消费",
-        "平台大促",
-        "家庭出行与户外",
-        "零售门店活动"
-      ],
-      "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
-    },
-    {
       "slug": "double-11",
       "name": "双11",
       "market": "ECOM",
@@ -159,7 +130,7 @@
       "day": 11,
       "icon": "🛒",
       "date": "2026-11-11",
-      "countdown": 11,
+      "countdown": 10,
       "year": 2026,
       "origin": "双11是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -187,7 +158,7 @@
       "nth": 4,
       "icon": "🦃",
       "date": "2026-11-26",
-      "countdown": 26,
+      "countdown": 25,
       "year": 2026,
       "origin": "感恩节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -216,7 +187,7 @@
       "offset_days": 1,
       "icon": "🖤",
       "date": "2026-11-27",
-      "countdown": 27,
+      "countdown": 26,
       "year": 2026,
       "origin": "黑五是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -243,7 +214,7 @@
       "offset_days": 4,
       "icon": "💻",
       "date": "2026-11-30",
-      "countdown": 30,
+      "countdown": 29,
       "year": 2026,
       "origin": "网一是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -270,7 +241,7 @@
       "day": 12,
       "icon": "🧾",
       "date": "2026-12-12",
-      "countdown": 42,
+      "countdown": 41,
       "year": 2026,
       "origin": "双12是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -297,7 +268,7 @@
       "day": 25,
       "icon": "🎄",
       "date": "2026-12-25",
-      "countdown": 55,
+      "countdown": 54,
       "year": 2026,
       "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -326,7 +297,7 @@
       "day": 14,
       "icon": "❤️",
       "date": "2027-02-14",
-      "countdown": 106,
+      "countdown": 105,
       "year": 2027,
       "origin": "情人节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -355,7 +326,7 @@
       "day": 17,
       "icon": "🧧",
       "date": "2027-02-17",
-      "countdown": 109,
+      "countdown": 108,
       "year": 2027,
       "origin": "春节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -382,7 +353,7 @@
       "day": 3,
       "icon": "🏮",
       "date": "2027-03-03",
-      "countdown": 123,
+      "countdown": 122,
       "year": 2027,
       "origin": "元宵节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -407,7 +378,7 @@
       "rule": "easter",
       "icon": "🥚",
       "date": "2027-03-28",
-      "countdown": 148,
+      "countdown": 147,
       "year": 2027,
       "origin": "复活节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -436,7 +407,7 @@
       "day": 4,
       "icon": "🌿",
       "date": "2027-04-04",
-      "countdown": 155,
+      "countdown": 154,
       "year": 2027,
       "origin": "清明节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -463,7 +434,7 @@
       "day": 1,
       "icon": "🛠️",
       "date": "2027-05-01",
-      "countdown": 182,
+      "countdown": 181,
       "year": 2027,
       "origin": "劳动节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -491,7 +462,7 @@
       "nth": 2,
       "icon": "🌸",
       "date": "2027-05-09",
-      "countdown": 190,
+      "countdown": 189,
       "year": 2027,
       "origin": "母亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -521,7 +492,7 @@
       "nth": -1,
       "icon": "🇺🇸",
       "date": "2027-05-31",
-      "countdown": 212,
+      "countdown": 211,
       "year": 2027,
       "origin": "Memorial Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -550,7 +521,7 @@
       "day": 18,
       "icon": "📦",
       "date": "2027-06-18",
-      "countdown": 230,
+      "countdown": 229,
       "year": 2027,
       "origin": "618是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -577,7 +548,7 @@
       "day": 19,
       "icon": "🚣",
       "date": "2027-06-19",
-      "countdown": 231,
+      "countdown": 230,
       "year": 2027,
       "origin": "端午节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -605,7 +576,7 @@
       "nth": 3,
       "icon": "👔",
       "date": "2027-06-20",
-      "countdown": 232,
+      "countdown": 231,
       "year": 2027,
       "origin": "父亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -634,7 +605,7 @@
       "day": 4,
       "icon": "🎆",
       "date": "2027-07-04",
-      "countdown": 246,
+      "countdown": 245,
       "year": 2027,
       "origin": "独立日是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -663,9 +634,36 @@
       "day": 15,
       "icon": "⚡",
       "date": "2027-07-15",
-      "countdown": 257,
+      "countdown": 256,
       "year": 2027,
       "origin": "Prime Day是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "back-to-school",
+      "name": "返校季",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 8,
+      "day": 15,
+      "icon": "🎒",
+      "date": "2027-08-15",
+      "countdown": 287,
+      "year": 2027,
+      "origin": "返校季是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
       "customs": [
         "平台大促",
@@ -714,7 +712,7 @@
     "published_iso": "2026-10-29T14:00:00+00:00",
     "source": "Modern Retail",
     "bucket": "channel_news",
-    "hours_since_published": 36.3,
+    "hours_since_published": 59.0,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -747,7 +745,7 @@
       "published_iso": "2026-10-29T14:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 36.3,
+      "hours_since_published": 59.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -778,7 +776,7 @@
       "published_iso": "2026-10-29T11:45:14+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 38.6,
+      "hours_since_published": 61.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -807,7 +805,7 @@
       "published_iso": "2026-10-26T13:49:10+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 108.5,
+      "hours_since_published": 131.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -839,7 +837,7 @@
       "published_iso": "2026-10-29T10:43:18+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 39.6,
+      "hours_since_published": 62.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -863,78 +861,44 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Bose’s new QuietComfort Ultra Headphones hit Prime Day low again",
-      "summary": "The Bose QuietComfort Ultra Headphones 2nd Gen drop to $369 on Amazon, returning to their all-time low price.",
-      "url": "https://www.androidauthority.com/quietcomfort-ultra-headphones-gen-2-deal-3730292/",
-      "published": "Fri, 30 Oct 2026 19:24:52 +0000",
-      "published_iso": "2026-10-30T19:24:52+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 6.9,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [
-          "Amazon"
-        ],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 289,
-      "display_title": "Bose’s new QuietComfort Ultra...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Sony WH-1000XM4C vs Bose QuietComfort (2nd gen): The battle of the mid-range headphones - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkVPWFF4Tm1oWE1GY29EYXIxTXhFeFdPdFJxTUQ4VmtZbXNyTG9WQ3NqU1FuZlAxWkVGaG96cnVzZkEwWENYYjVzeHhYRzY3SFJNdDhGOGN1RW9VdEFXN0dPMmFoQXU4aXV1LURTeXprN0RHcE5DZkUtWURmMlpyZ3lGQQ?oc=5\" target=\"_blank\">Sony WH-1000XM4C vs Bose QuietComfort (2nd gen): The battle of the mi",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkVPWFF4Tm1oWE1GY29EYXIxTXhFeFdPdFJxTUQ4VmtZbXNyTG9WQ3NqU1FuZlAxWkVGaG96cnVzZkEwWENYYjVzeHhYRzY3SFJNdDhGOGN1RW9VdEFXN0dPMmFoQXU4aXV1LURTeXprN0RHcE5DZkUtWURmMlpyZ3lGQQ?oc=5",
-      "published": "Sat, 24 Oct 2026 09:15:25 GMT",
-      "published_iso": "2026-10-24T09:15:25+00:00",
+      "title": "Sennheiser MOMENTUM 5 Wireless Over-the-Ear Headphones Reviewed - Future Audiophile Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjlGZFZZQXFwakdVaXIzbmtfSGg3ZXR2bVNMN3FnN1NiNk9ZZ2NlWkRwWVZrdllUbXlIXzA1MERQQWsyX2JEWWhjYUhTRzVtOURhM200bG9Nb0FhV1BDSkxnZENHdVJKcHBfelJjQWhyWU90UTVwNDktejBHbUR4LVZQU2MtcVcxa0ZEQXR4UjZ6UFFId200Qg?oc=5\" target=\"_blank\">Sennheiser MOMENTUM 5 Wireless Over-the-E",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjlGZFZZQXFwakdVaXIzbmtfSGg3ZXR2bVNMN3FnN1NiNk9ZZ2NlWkRwWVZrdllUbXlIXzA1MERQQWsyX2JEWWhjYUhTRzVtOURhM200bG9Nb0FhV1BDSkxnZENHdVJKcHBfelJjQWhyWU90UTVwNDktejBHbUR4LVZQU2MtcVcxa0ZEQXR4UjZ6UFFId200Qg?oc=5",
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "published_iso": "2026-10-27T07:00:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 161.1,
+      "hours_since_published": 114.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
-          "Bose",
-          "Sony"
+          "Sennheiser"
         ],
         "channels": [],
         "categories": [
           "headphone"
         ]
       },
-      "_score": 279,
-      "display_title": "Sony WH-1000XM4C vs Bose QuietComfort...",
+      "_score": 277,
+      "display_title": "Sennheiser MOMENTUM 5 Wireless...",
       "tags": [
         "🎧 耳机音频"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
-      "business_note": "Bose / Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Bose makes the most impressive noise-canceling headphones we've tested, and they're up to $80 off right now - Business Insider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNl9MS3JwempFMndFc0Rid0tEY3ppWHFXYVNpbEhEanFvSG0xODBwVXNOQ0ZmdldRalFhZzRwSS1RemNHZ2VMUEtGeDZQcndrRk4taTZUaW4xeGVZaTVmbmRyalkzS0FMQWlkRGZNNGhiWHFmZ2hYa3dVRWliM3NhWDFkanhjellFTjVIc0FVc3AzZGZyVmtKSTlIaVJaZG5tNFpqdFB1YllXRFlPRHZEc3V3?oc=5\" target=\"_blank\">Bose ma",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNl9MS3JwempFMndFc0Rid0tEY3ppWHFXYVNpbEhEanFvSG0xODBwVXNOQ0ZmdldRalFhZzRwSS1RemNHZ2VMUEtGeDZQcndrRk4taTZUaW4xeGVZaTVmbmRyalkzS0FMQWlkRGZNNGhiWHFmZ2hYa3dVRWliM3NhWDFkanhjellFTjVIc0FVc3AzZGZyVmtKSTlIaVJaZG5tNFpqdFB1YllXRFlPRHZEc3V3?oc=5",
-      "published": "Fri, 30 Oct 2026 21:04:00 GMT",
-      "published_iso": "2026-10-30T21:04:00+00:00",
+      "title": "Bose Is Having a Rare Sale on Its Best-Ever QuietComfort Headphones - Gear Patrol",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWh3UXVqOE5ZMDdfZWsweEN3ZkMtOXV6RkRNcnRiSHc3NmZWQmJhaGdJTk1kdjY4M0lpaFNVb0RJNDhwMzMwcXYtNEJBOTVjU2FYaThRWWVVaTI2SHVlaWYwSTRjWUtMamxLZHhHTWRCRDVvbDhGWU9uRkpOeVRDWGZhNTdocEc3?oc=5\" target=\"_blank\">Bose Is Having a Rare Sale on Its Best-Ever QuietComfort Headph",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWh3UXVqOE5ZMDdfZWsweEN3ZkMtOXV6RkRNcnRiSHc3NmZWQmJhaGdJTk1kdjY4M0lpaFNVb0RJNDhwMzMwcXYtNEJBOTVjU2FYaThRWWVVaTI2SHVlaWYwSTRjWUtMamxLZHhHTWRCRDVvbDhGWU9uRkpOeVRDWGZhNTdocEc3?oc=5",
+      "published": "Fri, 30 Oct 2026 19:49:22 GMT",
+      "published_iso": "2026-10-30T19:49:22+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 5.3,
-      "freshness_label": "24h内",
+      "hours_since_published": 29.2,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Bose"
@@ -944,8 +908,8 @@
           "headphone"
         ]
       },
-      "_score": 265,
-      "display_title": "Bose makes the most impressive...",
+      "_score": 242,
+      "display_title": "Bose Is Having a Rare Sale on Its...",
       "tags": [
         "🎧 耳机音频"
       ],
@@ -962,7 +926,7 @@
       "published_iso": "2026-10-29T21:09:34+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 29.2,
+      "hours_since_published": 51.8,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -992,8 +956,8 @@
       "published_iso": "2026-10-30T21:23:26+00:00",
       "source": "Android Authority",
       "bucket": "consumer_electronics",
-      "hours_since_published": 4.9,
-      "freshness_label": "24h内",
+      "hours_since_published": 27.6,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
           "Bose"
@@ -1003,9 +967,37 @@
         ],
         "categories": []
       },
-      "_score": 219,
+      "_score": 204,
       "display_title": "Bose SoundLink Plus drops back to its...",
       "tags": [
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Amazon made the AUX input on older Alexa devices less useful",
+      "summary": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
+      "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "published": "Sun, 01 Nov 2026 00:00:00 +0000",
+      "published_iso": "2026-11-01T00:00:00+00:00",
+      "source": "Engadget",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 1.0,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": []
+      },
+      "_score": 195,
+      "display_title": "Amazon made the AUX input on older...",
+      "tags": [
+        "🎧 耳机音频",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
@@ -1023,7 +1015,7 @@
       "published_iso": "2026-10-29T14:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 36.3,
+      "hours_since_published": 59.0,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1054,7 +1046,7 @@
       "published_iso": "2026-10-29T11:45:14+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 38.6,
+      "hours_since_published": 61.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1083,7 +1075,7 @@
       "published_iso": "2026-10-26T13:49:10+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 108.5,
+      "hours_since_published": 131.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1113,8 +1105,8 @@
       "published_iso": "2026-10-30T16:05:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 10.2,
-      "freshness_label": "24h内",
+      "hours_since_published": 32.9,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
@@ -1123,7 +1115,7 @@
         ],
         "categories": []
       },
-      "_score": 300,
+      "_score": 285,
       "display_title": "Amazon CEO says retail business is...",
       "tags": [
         "🛒 渠道零售",
@@ -1135,35 +1127,6 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Everything you need to know about Walmart's Black Friday 2026 sale: Store hours, early access, best deals - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9XTXVXSl9wQkhmNV9XbXFDc25tTWQ1UUU5YVpPb3VRTmpvQWJfem1vWnRRYlpoaGNqNW9iSkJkbFVxdmFsQ25FZWUyMGlENjlfNy1hQi1LbElHVWNTODVSbmN0NHZELU5Vd1FYT21qaHp0UUgzU1NnVWFn?oc=5\" target=\"_blank\">Everything you need to know about Walmart's Black Friday 2026 sale: Store hours, ea",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XTXVXSl9wQkhmNV9XbXFDc25tTWQ1UUU5YVpPb3VRTmpvQWJfem1vWnRRYlpoaGNqNW9iSkJkbFVxdmFsQ25FZWUyMGlENjlfNy1hQi1LbElHVWNTODVSbmN0NHZELU5Vd1FYT21qaHp0UUgzU1NnVWFn?oc=5",
-      "published": "Fri, 30 Oct 2026 19:40:53 GMT",
-      "published_iso": "2026-10-30T19:40:53+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 6.6,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 280,
-      "display_title": "Everything you need to know about...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
       "title": "FTC orders Target, Walmart to provide details in personalized pricing inquiry",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/uMXeRNUq_p73jSzJ6XecnwRBpSGug4P_K0e1oME3xCo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1MjE3MDcxLmpwZw==.webp\" /></div></figure><p>The agency sent the order to nine companies to examine how personal data is being used, even ",
       "url": "https://www.retaildive.com/news/ftc-orders-target-walmart-personalized-pricing-inquiry/873173/",
@@ -1171,7 +1134,7 @@
       "published_iso": "2026-10-29T15:49:00+00:00",
       "source": "Retail Dive",
       "bucket": "channel_news",
-      "hours_since_published": 34.5,
+      "hours_since_published": 57.2,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1192,39 +1155,37 @@
       "importance": "高",
       "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    }
-  ],
-  "products": [
+    },
     {
-      "name": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, m",
-      "date": "2026-10-30T11:29:02-04:00",
-      "published_iso": "2026-10-30T15:29:02+00:00",
-      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-      "source": "The Verge",
-      "_score": 107,
-      "hours_since_published": 10.8,
-      "freshness_label": "24h内",
+      "title": "Zip Co (ASX:ZIP) Could Be 54% Undervalued On Best Buy Store Expansion - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0tPLVhsUUxhMkQ5LTlWV0dCcjNJR012bGR4Snc1eE8wWFV0RlpkSGhBd01DQXVBb28tekFiWmgxb3F3b3hHbENqdWFteVdva3VSYkliZ2tQRkttRGQzVTA1bEg0QzIzajR0aFZUc0xzcDMzVURwamx6NG9CeHNvaHZVQTRvLUVNQTE1Mzdn?oc=5\" target=\"_blank\">Zip Co (ASX:ZIP) Could Be 54% Undervalued On Best Buy S",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0tPLVhsUUxhMkQ5LTlWV0dCcjNJR012bGR4Snc1eE8wWFV0RlpkSGhBd01DQXVBb28tekFiWmgxb3F3b3hHbENqdWFteVdva3VSYkliZ2tQRkttRGQzVTA1bEg0QzIzajR0aFZUc0xzcDMzVURwamx6NG9CeHNvaHZVQTRvLUVNQTE1Mzdn?oc=5",
+      "published": "Fri, 30 Oct 2026 00:13:00 GMT",
+      "published_iso": "2026-10-30T00:13:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 48.8,
+      "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Amazon",
           "Best Buy"
         ],
         "categories": []
       },
-      "display_title": "Google’s latest Nest Learning...",
-      "display_summary": "As the weather cools, it may be worth investin",
+      "_score": 275,
+      "display_title": "Zip Co (ASX:ZIP) Could Be 54%...",
       "tags": [
+        "🛒 渠道零售",
         "🏬 平台电商"
       ],
       "impact_area": "电商",
-      "judgement_label": "价格促销",
-      "product_intro": "As the weather cools, it may be worth。",
-      "importance": "中",
-      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
+    }
+  ],
+  "products": [
     {
       "name": "Shokz OpenRun Pro 2 Review: Finally, Open-Ear Headphones That Sound Good - MensXP",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBng",
@@ -1233,7 +1194,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBngFBVV95cUxOVEp2eUlkQjVSVnBKZFphU3Z0TWtVempKeVpBLTlQTDR2bmZsYjR4enlXbzNBdzlaMzlkYnIwQ1liN1htRzBRQTVUOVJKU25lZWJoN0VldlJiUmxuOHRCTHZ1M0FtRnhTWWlXSHJuRDZRYUNmNkdQRFNVSG91RkFEd3Z1djdEM3A2TldPS1NfNnplYmwwaUVHMWFTYmt5QQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 90,
-      "hours_since_published": 39.6,
+      "hours_since_published": 62.3,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1259,109 +1220,140 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Exclusive details about Akai’s MPC Sample Key",
-      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, T",
-      "date": "2026-10-30T17:01:32-04:00",
-      "published_iso": "2026-10-30T21:01:32+00:00",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "name": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder o",
+      "date": "2026-10-31T11:00:00-04:00",
+      "published_iso": "2026-10-31T15:00:00+00:00",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
       "source": "The Verge",
-      "_score": 43,
-      "hours_since_published": 5.3,
+      "_score": 75,
+      "hours_since_published": 10.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
-        "channels": [],
+        "channels": [
+          "Best Buy"
+        ],
         "categories": []
       },
-      "display_title": "Exclusive details about Akai’s MPC...",
-      "display_summary": "Akai teased its new MPC Sample Key on Instagra",
+      "display_title": "Best Buy is bundling a $100 gift card...",
+      "display_summary": "While the new touch-enabled MacBook Pro with t",
       "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
         "🚀 新品发布"
       ],
-      "impact_area": "品牌营销",
-      "judgement_label": "新品发布",
-      "product_intro": "Akai teased its new MPC Sample Key on。",
-      "importance": "低",
-      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+      "impact_area": "电商",
+      "judgement_label": "价格促销",
+      "product_intro": "While the new touch-enabled MacBook。",
+      "importance": "中",
+      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "name": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across",
-      "date": "2026-10-30T16:26:10-04:00",
-      "published_iso": "2026-10-30T20:26:10+00:00",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "name": "Get in the spirit with these horrors from YouTube",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone her",
+      "date": "2026-10-31T17:06:58-04:00",
+      "published_iso": "2026-10-31T21:06:58+00:00",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 5.9,
+      "hours_since_published": 3.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "The biggest names in AI are backing a...",
-      "display_summary": "OpenAI, Google, Microsoft, and Anthropic say t",
+      "display_title": "Get in the spirit with these horrors...",
+      "display_summary": "Rather than recommend a single horror film or ",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "OpenAI, Google, Microsoft, and。",
+      "product_intro": "Rather than recommend a single horror。",
       "importance": "低",
       "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt t",
-      "date": "2026-10-30T14:21:38-04:00",
-      "published_iso": "2026-10-30T18:21:38+00:00",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "name": "Keyboards of The Verge",
+      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard",
+      "date": "2026-10-31T15:30:00-04:00",
+      "published_iso": "2026-10-31T19:30:00+00:00",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 8.0,
+      "hours_since_published": 5.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "Google&#8217;s satellite AI server...",
-      "display_summary": "Google's AI chip-equipped satellite has genera",
+      "display_title": "Keyboards of The Verge",
+      "display_summary": "What is a keyboard if not the original brain-c",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "Google's AI chip-equipped satellite。",
+      "product_intro": "What is a keyboard if not the。",
       "importance": "低",
       "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they",
-      "date": "2026-10-30T13:38:04-04:00",
-      "published_iso": "2026-10-30T17:38:04+00:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "name": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering t",
+      "date": "2026-10-31T14:40:32-04:00",
+      "published_iso": "2026-10-31T18:40:32+00:00",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 8.7,
+      "hours_since_published": 6.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "Starbucks wants to use AI to show you a...",
-      "display_summary": "Starbucks could eventually show you a personal",
+      "display_title": "Binance CEO says 90 percent of stolen...",
+      "display_summary": "After hackers stole a shocking $6.3 billion fr",
       "tags": [
         "🚀 新品"
       ],
       "impact_area": "品牌营销",
       "judgement_label": "业务观察",
-      "product_intro": "Starbucks could eventually show you a。",
+      "product_intro": "After hackers stole a shocking $6.3。",
+      "importance": "低",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "name": "I built an AI Tamagotchi before Meta could",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse",
+      "date": "2026-10-31T12:05:00-04:00",
+      "published_iso": "2026-10-31T16:05:00+00:00",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "_score": 43,
+      "hours_since_published": 8.9,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "display_title": "I built an AI Tamagotchi before Meta could",
+      "display_summary": "Mark Zuckerberg's Meta made AI look so stinkin",
+      "tags": [
+        "🚀 新品"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "业务观察",
+      "product_intro": "Mark Zuckerberg's Meta made AI look。",
       "importance": "低",
       "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
@@ -1371,7 +1363,7 @@
     {
       "name": "Amazon",
       "type": "渠道",
-      "count": 7,
+      "count": 6,
       "items": [
         {
           "title": "Why Walmart Is Embracing Meta's AI Shopping Agent While Amazon Blocks It - Forbes",
@@ -1381,7 +1373,7 @@
           "published_iso": "2026-10-26T13:49:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 108.5,
+          "hours_since_published": 131.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1411,8 +1403,8 @@
           "published_iso": "2026-10-30T16:05:00+00:00",
           "source": "Retail Dive",
           "bucket": "channel_news",
-          "hours_since_published": 10.2,
-          "freshness_label": "24h内",
+          "hours_since_published": 32.9,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1421,7 +1413,7 @@
             ],
             "categories": []
           },
-          "_score": 300,
+          "_score": 285,
           "display_title": "Amazon CEO says retail business is...",
           "tags": [
             "🛒 渠道零售",
@@ -1437,7 +1429,7 @@
     {
       "name": "Best Buy",
       "type": "渠道",
-      "count": 7,
+      "count": 6,
       "items": [
         {
           "title": "Big-Box Briefing: What to watch this holiday season as Target, Walmart and more battle for sales",
@@ -1447,7 +1439,7 @@
           "published_iso": "2026-10-29T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 36.3,
+          "hours_since_published": 59.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1471,14 +1463,14 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Best Buy plans to cut Fox Point store by more than half - The Business Journals",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFQzeldiRUx0aTAwWm5uc0I4RUhEVDBBYkhCX2dHUGNwek9lUURNLXFfSWI4OW9uZ3IxLWVORXNmUFlZUl9xdVlpSXdwX2M0RmJvQmZ6YVJIdm9WdFp0T1JKSVpHOTVhTG9FSGZ3ZUtVdzM3YWlNV0ZZZDJFUVhYRVcwYmJFdEdZai1yVXFvSjV0Zw?oc=5\" target=\"_blank\">Best Buy plans to cut Fox Point store by more tha",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFQzeldiRUx0aTAwWm5uc0I4RUhEVDBBYkhCX2dHUGNwek9lUURNLXFfSWI4OW9uZ3IxLWVORXNmUFlZUl9xdVlpSXdwX2M0RmJvQmZ6YVJIdm9WdFp0T1JKSVpHOTVhTG9FSGZ3ZUtVdzM3YWlNV0ZZZDJFUVhYRVcwYmJFdEdZai1yVXFvSjV0Zw?oc=5",
-          "published": "Thu, 29 Oct 2026 19:45:00 GMT",
-          "published_iso": "2026-10-29T19:45:00+00:00",
+          "title": "Zip Co (ASX:ZIP) Could Be 54% Undervalued On Best Buy Store Expansion - Yahoo Finance",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0tPLVhsUUxhMkQ5LTlWV0dCcjNJR012bGR4Snc1eE8wWFV0RlpkSGhBd01DQXVBb28tekFiWmgxb3F3b3hHbENqdWFteVdva3VSYkliZ2tQRkttRGQzVTA1bEg0QzIzajR0aFZUc0xzcDMzVURwamx6NG9CeHNvaHZVQTRvLUVNQTE1Mzdn?oc=5\" target=\"_blank\">Zip Co (ASX:ZIP) Could Be 54% Undervalued On Best Buy S",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0tPLVhsUUxhMkQ5LTlWV0dCcjNJR012bGR4Snc1eE8wWFV0RlpkSGhBd01DQXVBb28tekFiWmgxb3F3b3hHbENqdWFteVdva3VSYkliZ2tQRkttRGQzVTA1bEg0QzIzajR0aFZUc0xzcDMzVURwamx6NG9CeHNvaHZVQTRvLUVNQTE1Mzdn?oc=5",
+          "published": "Fri, 30 Oct 2026 00:13:00 GMT",
+          "published_iso": "2026-10-30T00:13:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 30.6,
+          "hours_since_published": 48.8,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1487,13 +1479,16 @@
             ],
             "categories": []
           },
-          "_score": 273,
-          "display_title": "Best Buy plans to cut Fox Point store...",
+          "_score": 275,
+          "display_title": "Zip Co (ASX:ZIP) Could Be 54%...",
           "tags": [
             "🛒 渠道零售",
             "🏬 平台电商"
           ],
-          "impact_area": "电商"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     },
@@ -1510,7 +1505,7 @@
           "published_iso": "2026-10-29T10:43:18+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 39.6,
+          "hours_since_published": 62.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1534,42 +1529,38 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Bose’s new QuietComfort Ultra Headphones hit Prime Day low again",
-          "summary": "The Bose QuietComfort Ultra Headphones 2nd Gen drop to $369 on Amazon, returning to their all-time low price.",
-          "url": "https://www.androidauthority.com/quietcomfort-ultra-headphones-gen-2-deal-3730292/",
-          "published": "Fri, 30 Oct 2026 19:24:52 +0000",
-          "published_iso": "2026-10-30T19:24:52+00:00",
-          "source": "Android Authority",
+          "title": "Sennheiser MOMENTUM 5 Wireless Over-the-Ear Headphones Reviewed - Future Audiophile Magazine",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjlGZFZZQXFwakdVaXIzbmtfSGg3ZXR2bVNMN3FnN1NiNk9ZZ2NlWkRwWVZrdllUbXlIXzA1MERQQWsyX2JEWWhjYUhTRzVtOURhM200bG9Nb0FhV1BDSkxnZENHdVJKcHBfelJjQWhyWU90UTVwNDktejBHbUR4LVZQU2MtcVcxa0ZEQXR4UjZ6UFFId200Qg?oc=5\" target=\"_blank\">Sennheiser MOMENTUM 5 Wireless Over-the-E",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjlGZFZZQXFwakdVaXIzbmtfSGg3ZXR2bVNMN3FnN1NiNk9ZZ2NlWkRwWVZrdllUbXlIXzA1MERQQWsyX2JEWWhjYUhTRzVtOURhM200bG9Nb0FhV1BDSkxnZENHdVJKcHBfelJjQWhyWU90UTVwNDktejBHbUR4LVZQU2MtcVcxa0ZEQXR4UjZ6UFFId200Qg?oc=5",
+          "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+          "published_iso": "2026-10-27T07:00:00+00:00",
+          "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 6.9,
-          "freshness_label": "24h内",
+          "hours_since_published": 114.0,
+          "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
-              "Bose"
+              "Sennheiser"
             ],
-            "channels": [
-              "Amazon"
-            ],
+            "channels": [],
             "categories": [
               "headphone"
             ]
           },
-          "_score": 289,
-          "display_title": "Bose’s new QuietComfort Ultra...",
+          "_score": 277,
+          "display_title": "Sennheiser MOMENTUM 5 Wireless...",
           "tags": [
-            "🎧 耳机音频",
-            "🏬 平台电商",
-            "💰 价格促销"
+            "🎧 耳机音频"
           ],
-          "impact_area": "电商",
+          "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+          "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
     {
-      "name": "Walmart",
+      "name": "Target",
       "type": "渠道",
       "count": 4,
       "items": [
@@ -1581,7 +1572,7 @@
           "published_iso": "2026-10-29T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 36.3,
+          "hours_since_published": 59.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1612,7 +1603,7 @@
           "published_iso": "2026-10-26T13:49:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 108.5,
+          "hours_since_published": 131.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1637,77 +1628,7 @@
       ]
     },
     {
-      "name": "Bose",
-      "type": "品牌",
-      "count": 4,
-      "items": [
-        {
-          "title": "Bose’s new QuietComfort Ultra Headphones hit Prime Day low again",
-          "summary": "The Bose QuietComfort Ultra Headphones 2nd Gen drop to $369 on Amazon, returning to their all-time low price.",
-          "url": "https://www.androidauthority.com/quietcomfort-ultra-headphones-gen-2-deal-3730292/",
-          "published": "Fri, 30 Oct 2026 19:24:52 +0000",
-          "published_iso": "2026-10-30T19:24:52+00:00",
-          "source": "Android Authority",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 6.9,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Bose"
-            ],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 289,
-          "display_title": "Bose’s new QuietComfort Ultra...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Sony WH-1000XM4C vs Bose QuietComfort (2nd gen): The battle of the mid-range headphones - Mashable",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkVPWFF4Tm1oWE1GY29EYXIxTXhFeFdPdFJxTUQ4VmtZbXNyTG9WQ3NqU1FuZlAxWkVGaG96cnVzZkEwWENYYjVzeHhYRzY3SFJNdDhGOGN1RW9VdEFXN0dPMmFoQXU4aXV1LURTeXprN0RHcE5DZkUtWURmMlpyZ3lGQQ?oc=5\" target=\"_blank\">Sony WH-1000XM4C vs Bose QuietComfort (2nd gen): The battle of the mi",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkVPWFF4Tm1oWE1GY29EYXIxTXhFeFdPdFJxTUQ4VmtZbXNyTG9WQ3NqU1FuZlAxWkVGaG96cnVzZkEwWENYYjVzeHhYRzY3SFJNdDhGOGN1RW9VdEFXN0dPMmFoQXU4aXV1LURTeXprN0RHcE5DZkUtWURmMlpyZ3lGQQ?oc=5",
-          "published": "Sat, 24 Oct 2026 09:15:25 GMT",
-          "published_iso": "2026-10-24T09:15:25+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 161.1,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Bose",
-              "Sony"
-            ],
-            "channels": [],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 279,
-          "display_title": "Sony WH-1000XM4C vs Bose QuietComfort...",
-          "tags": [
-            "🎧 耳机音频"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Bose / Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
-    },
-    {
-      "name": "Target",
+      "name": "Walmart",
       "type": "渠道",
       "count": 3,
       "items": [
@@ -1719,7 +1640,7 @@
           "published_iso": "2026-10-29T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 36.3,
+          "hours_since_published": 59.0,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1750,7 +1671,7 @@
           "published_iso": "2026-10-26T13:49:10+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 108.5,
+          "hours_since_published": 131.2,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1787,7 +1708,7 @@
           "published_iso": "2026-10-29T10:43:18+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 39.6,
+          "hours_since_published": 62.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1818,7 +1739,7 @@
           "published_iso": "2026-10-29T21:09:34+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 29.2,
+          "hours_since_published": 51.8,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1855,7 +1776,7 @@
           "published_iso": "2026-10-29T10:43:18+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 39.6,
+          "hours_since_published": 62.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1886,7 +1807,7 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBngFBVV95cUxOVEp2eUlkQjVSVnBKZFphU3Z0TWtVempKeVpBLTlQTDR2bmZsYjR4enlXbzNBdzlaMzlkYnIwQ1liN1htRzBRQTVUOVJKU25lZWJoN0VldlJiUmxuOHRCTHZ1M0FtRnhTWWlXSHJuRDZRYUNmNkdQRFNVSG91RkFEd3Z1djdEM3A2TldPS1NfNnplYmwwaUVHMWFTYmt5QQ?oc=5",
           "source": "Google News - Audio Wearable Watch",
           "_score": 90,
-          "hours_since_published": 39.6,
+          "hours_since_published": 62.3,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1910,6 +1831,71 @@
           "importance": "中",
           "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        }
+      ]
+    },
+    {
+      "name": "Bose",
+      "type": "品牌",
+      "count": 2,
+      "items": [
+        {
+          "title": "Bose Is Having a Rare Sale on Its Best-Ever QuietComfort Headphones - Gear Patrol",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWh3UXVqOE5ZMDdfZWsweEN3ZkMtOXV6RkRNcnRiSHc3NmZWQmJhaGdJTk1kdjY4M0lpaFNVb0RJNDhwMzMwcXYtNEJBOTVjU2FYaThRWWVVaTI2SHVlaWYwSTRjWUtMamxLZHhHTWRCRDVvbDhGWU9uRkpOeVRDWGZhNTdocEc3?oc=5\" target=\"_blank\">Bose Is Having a Rare Sale on Its Best-Ever QuietComfort Headph",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWh3UXVqOE5ZMDdfZWsweEN3ZkMtOXV6RkRNcnRiSHc3NmZWQmJhaGdJTk1kdjY4M0lpaFNVb0RJNDhwMzMwcXYtNEJBOTVjU2FYaThRWWVVaTI2SHVlaWYwSTRjWUtMamxLZHhHTWRCRDVvbDhGWU9uRkpOeVRDWGZhNTdocEc3?oc=5",
+          "published": "Fri, 30 Oct 2026 19:49:22 GMT",
+          "published_iso": "2026-10-30T19:49:22+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 29.2,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "_score": 242,
+          "display_title": "Bose Is Having a Rare Sale on Its...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "Bose SoundLink Plus drops back to its all-time low on Amazon",
+          "summary": "Save $90 on the Bose SoundLink Plus as this portable speaker returns to its all-time low with big sound and phone charging.",
+          "url": "https://www.androidauthority.com/bose-soundlink-plus-deal-amazon-3730318/",
+          "published": "Fri, 30 Oct 2026 21:23:26 +0000",
+          "published_iso": "2026-10-30T21:23:26+00:00",
+          "source": "Android Authority",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 27.6,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Bose"
+            ],
+            "channels": [
+              "Amazon"
+            ],
+            "categories": []
+          },
+          "_score": 204,
+          "display_title": "Bose SoundLink Plus drops back to its...",
+          "tags": [
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     }

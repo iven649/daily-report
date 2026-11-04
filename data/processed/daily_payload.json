@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04 10:09:08 CST",
+  "generated_at": "2026-11-04 10:59:29 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-11-02T11:04:00+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 39.1,
+    "hours_since_published": 39.9,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -745,7 +745,7 @@
       "published_iso": "2026-11-02T11:04:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 39.1,
+      "hours_since_published": 39.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -776,7 +776,7 @@
       "published_iso": "2026-10-29T14:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 132.2,
+      "hours_since_published": 133.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -807,7 +807,7 @@
       "published_iso": "2026-10-29T10:43:18+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 135.4,
+      "hours_since_published": 136.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -840,7 +840,7 @@
       "published_iso": "2026-10-29T10:43:18+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 135.4,
+      "hours_since_published": 136.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -864,6 +864,35 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
+      "title": "Bowers & Wilkins Px8 S2 vs Sennheiser HDB 630: Which Premium Wireless Headphones Sound Better? - eCoustics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXVRVnhKTDh4YWJhcTZtdkljSG12bEdIdmZYLWt5U21WTFVWenBIYXk2RXZYcE1TY256VjNnYzJqcF9OVEdWbHdVQUxmUGlQbjdNV20tUW5PWEo3cldpTVVOZ1AzblJUa2lwSnF4cExvamZ3anFleEhzU3BwcWw2XzNtanFzZw?oc=5\" target=\"_blank\">Bowers & Wilkins Px8 S2 vs Sennheiser HDB 630: Which Premium Wire",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXVRVnhKTDh4YWJhcTZtdkljSG12bEdIdmZYLWt5U21WTFVWenBIYXk2RXZYcE1TY256VjNnYzJqcF9OVEdWbHdVQUxmUGlQbjdNV20tUW5PWEo3cldpTVVOZ1AzblJUa2lwSnF4cExvamZ3anFleEhzU3BwcWw2XzNtanFzZw?oc=5",
+      "published": "Sun, 01 Nov 2026 05:46:22 GMT",
+      "published_iso": "2026-11-01T05:46:22+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 69.2,
+      "freshness_label": "近3天",
+      "monitor_hits": {
+        "brands": [
+          "Sennheiser"
+        ],
+        "channels": [],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 270,
+      "display_title": "Bowers & Wilkins Px8 S2 vs Sennheiser...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Our favorite Bose headphones are already at a Cyber Monday price — they’re 53% off today - NBC News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2VjZFlpZFZWcUVDNUxWZU5GbDRRN2hFSXVqd05zQk13SlJmNllsZ192WFBHWmZoc0V5bzYwVTFERkRDV29hcDlwN1pITDVNQmhrWXhEVUszNDlXT2tBQmwzV3ZtbmtSMkc5Z1dGOUNQVzJNc1I5MmdoVGRqdS03NC1pOWtHNGdLS1lybUxYVHBJNTB4UE9iWGpfdm1mcnBiOVE?oc=5\" target=\"_blank\">Our favorite Bose headphones",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2VjZFlpZFZWcUVDNUxWZU5GbDRRN2hFSXVqd05zQk13SlJmNllsZ192WFBHWmZoc0V5bzYwVTFERkRDV29hcDlwN1pITDVNQmhrWXhEVUszNDlXT2tBQmwzV3ZtbmtSMkc5Z1dGOUNQVzJNc1I5MmdoVGRqdS03NC1pOWtHNGdLS1lybUxYVHBJNTB4UE9iWGpfdm1mcnBiOVE?oc=5",
@@ -871,7 +900,7 @@
       "published_iso": "2026-11-03T15:16:47+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 10.9,
+      "hours_since_published": 11.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -901,7 +930,7 @@
       "published_iso": "2026-11-03T14:49:32+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 11.3,
+      "hours_since_published": 12.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -924,14 +953,14 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "title": "Bose Sport Open Earbuds Review - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVG82Z2lmc0cwdnZFdGpxaXFfa0RrX2haV2ZlWTN2dXJlLUpOd0FmWkNRdnVxYU9FMUxpdVJOU2JPMW5ZOHFSa0tPd3FNWlBQNzZ3TFh1VjFHYldOZ2xHUlZBZ2Z5UUVISEFoWVVBTnJyR3M4?oc=5\" target=\"_blank\">Bose Sport Open Earbuds Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVG82Z2lmc0cwdnZFdGpxaXFfa0RrX2haV2ZlWTN2dXJlLUpOd0FmWkNRdnVxYU9FMUxpdVJOU2JPMW5ZOHFSa0tPd3FNWlBQNzZ3TFh1VjFHYldOZ2xHUlZBZ2Z5UUVISEFoWVVBTnJyR3M4?oc=5",
-      "published": "Sat, 31 Oct 2026 12:00:01 GMT",
-      "published_iso": "2026-10-31T12:00:01+00:00",
-      "source": "Google News - Competitor Watch",
+      "title": "Bose Sport Open Earbuds Review - RTINGS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUmxqejl6VmVxSlBGTVk1ZWFTNmxOZ3czdUZDM1Q3MTlURVZFdkFJNkJ3akRNWDRnOFZfdVFLRTlYMWItWEQzcU4wcW1mclloNDhnMGd5VXdSTHhWZjlGVWl0dFlkRTR1MmdUYlI2Y0VmMkE?oc=5\" target=\"_blank\">Bose Sport Open Earbuds Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUmxqejl6VmVxSlBGTVk1ZWFTNmxOZ3czdUZDM1Q3MTlURVZFdkFJNkJ3akRNWDRnOFZfdVFLRTlYMWItWEQzcU4wcW1mclloNDhnMGd5VXdSTHhWZjlGVWl0dFlkRTR1MmdUYlI2Y0VmMkE?oc=5",
+      "published": "Thu, 29 Oct 2026 07:00:00 GMT",
+      "published_iso": "2026-10-29T07:00:00+00:00",
+      "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 86.2,
+      "hours_since_published": 140.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -944,9 +973,10 @@
         ]
       },
       "_score": 255,
-      "display_title": "Bose Sport Open Earbuds Review - CNET",
+      "display_title": "Bose Sport Open Earbuds Review...",
       "tags": [
-        "🎧 耳机音频"
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
       ],
       "impact_area": "品牌营销",
       "importance": "高",
@@ -961,7 +991,7 @@
       "published_iso": "2026-10-31T00:15:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 97.9,
+      "hours_since_published": 98.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -984,35 +1014,6 @@
       "importance": "高",
       "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Bose Is Having a Rare Sale on Its Best-Ever QuietComfort Headphones - Gear Patrol",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWh3UXVqOE5ZMDdfZWsweEN3ZkMtOXV6RkRNcnRiSHc3NmZWQmJhaGdJTk1kdjY4M0lpaFNVb0RJNDhwMzMwcXYtNEJBOTVjU2FYaThRWWVVaTI2SHVlaWYwSTRjWUtMamxLZHhHTWRCRDVvbDhGWU9uRkpOeVRDWGZhNTdocEc3?oc=5\" target=\"_blank\">Bose Is Having a Rare Sale on Its Best-Ever QuietComfort Headph",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWh3UXVqOE5ZMDdfZWsweEN3ZkMtOXV6RkRNcnRiSHc3NmZWQmJhaGdJTk1kdjY4M0lpaFNVb0RJNDhwMzMwcXYtNEJBOTVjU2FYaThRWWVVaTI2SHVlaWYwSTRjWUtMamxLZHhHTWRCRDVvbDhGWU9uRkpOeVRDWGZhNTdocEc3?oc=5",
-      "published": "Fri, 30 Oct 2026 19:49:22 GMT",
-      "published_iso": "2026-10-30T19:49:22+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 102.3,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 227,
-      "display_title": "Bose Is Having a Rare Sale on Its...",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
@@ -1024,7 +1025,7 @@
       "published_iso": "2026-11-02T11:04:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 39.1,
+      "hours_since_published": 39.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1055,7 +1056,7 @@
       "published_iso": "2026-10-29T14:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 132.2,
+      "hours_since_published": 133.0,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1079,6 +1080,63 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
+      "title": "Costco vs. Sam’s Club: Here’s Which Store Has the Best Member Perks - AOL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQ3dCT1RkRzRhTlNYcTh1c3VfOTdIUy1Db2ZLWFRtNlNaTVpnVzNEZXNoYl9GeWJCam5LWFJJRjI3OGdXc1J4REJsRl9qMDlDMDB2a095aklXVFBUWVFzb3dfUjRsZHpkcWpCYXFCN0FLcG1HMnFv?oc=5\" target=\"_blank\">Costco vs. Sam’s Club: Here’s Which Store Has the Best Member Perks</a>&nbsp;&nbsp;<fon",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQ3dCT1RkRzRhTlNYcTh1c3VfOTdIUy1Db2ZLWFRtNlNaTVpnVzNEZXNoYl9GeWJCam5LWFJJRjI3OGdXc1J4REJsRl9qMDlDMDB2a095aklXVFBUWVFzb3dfUjRsZHpkcWpCYXFCN0FLcG1HMnFv?oc=5",
+      "published": "Thu, 29 Oct 2026 10:32:18 GMT",
+      "published_iso": "2026-10-29T10:32:18+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 136.5,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Costco",
+          "Sam's Club"
+        ],
+        "categories": []
+      },
+      "_score": 282,
+      "display_title": "Costco vs. Sam’s Club: Here’s Which...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Costco / Sam's Club相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Zip Co (ASX:ZIP) Could Be 54% Undervalued On Best Buy Store Expansion - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0tPLVhsUUxhMkQ5LTlWV0dCcjNJR012bGR4Snc1eE8wWFV0RlpkSGhBd01DQXVBb28tekFiWmgxb3F3b3hHbENqdWFteVdva3VSYkliZ2tQRkttRGQzVTA1bEg0QzIzajR0aFZUc0xzcDMzVURwamx6NG9CeHNvaHZVQTRvLUVNQTE1Mzdn?oc=5\" target=\"_blank\">Zip Co (ASX:ZIP) Could Be 54% Undervalued On Best Buy S",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0tPLVhsUUxhMkQ5LTlWV0dCcjNJR012bGR4Snc1eE8wWFV0RlpkSGhBd01DQXVBb28tekFiWmgxb3F3b3hHbENqdWFteVdva3VSYkliZ2tQRkttRGQzVTA1bEg0QzIzajR0aFZUc0xzcDMzVURwamx6NG9CeHNvaHZVQTRvLUVNQTE1Mzdn?oc=5",
+      "published": "Fri, 30 Oct 2026 00:13:00 GMT",
+      "published_iso": "2026-10-30T00:13:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 122.8,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 260,
+      "display_title": "Zip Co (ASX:ZIP) Could Be 54%...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
       "title": "Best Buy plans to cut Fox Point store by more than half - The Business Journals",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFQzeldiRUx0aTAwWm5uc0I4RUhEVDBBYkhCX2dHUGNwek9lUURNLXFfSWI4OW9uZ3IxLWVORXNmUFlZUl9xdVlpSXdwX2M0RmJvQmZ6YVJIdm9WdFp0T1JKSVpHOTVhTG9FSGZ3ZUtVdzM3YWlNV0ZZZDJFUVhYRVcwYmJFdEdZai1yVXFvSjV0Zw?oc=5\" target=\"_blank\">Best Buy plans to cut Fox Point store by more tha",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFQzeldiRUx0aTAwWm5uc0I4RUhEVDBBYkhCX2dHUGNwek9lUURNLXFfSWI4OW9uZ3IxLWVORXNmUFlZUl9xdVlpSXdwX2M0RmJvQmZ6YVJIdm9WdFp0T1JKSVpHOTVhTG9FSGZ3ZUtVdzM3YWlNV0ZZZDJFUVhYRVcwYmJFdEdZai1yVXFvSjV0Zw?oc=5",
@@ -1086,7 +1144,7 @@
       "published_iso": "2026-10-29T19:45:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 126.4,
+      "hours_since_published": 127.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1107,97 +1165,68 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Everything you need to know about Walmart's Black Friday 2026 sale: Store hours, early access, best deals - Mashable",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9XTXVXSl9wQkhmNV9XbXFDc25tTWQ1UUU5YVpPb3VRTmpvQWJfem1vWnRRYlpoaGNqNW9iSkJkbFVxdmFsQ25FZWUyMGlENjlfNy1hQi1LbElHVWNTODVSbmN0NHZELU5Vd1FYT21qaHp0UUgzU1NnVWFn?oc=5\" target=\"_blank\">Everything you need to know about Walmart's Black Friday 2026 sale: Store hours, ea",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XTXVXSl9wQkhmNV9XbXFDc25tTWQ1UUU5YVpPb3VRTmpvQWJfem1vWnRRYlpoaGNqNW9iSkJkbFVxdmFsQ25FZWUyMGlENjlfNy1hQi1LbElHVWNTODVSbmN0NHZELU5Vd1FYT21qaHp0UUgzU1NnVWFn?oc=5",
-      "published": "Fri, 30 Oct 2026 13:23:30 GMT",
-      "published_iso": "2026-10-30T13:23:30+00:00",
+      "title": "You Should Buy Gadgets From Anker's Official Store, Not From Amazon - Here's Why - BGR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkV6ZG9LUTh4bVlvX0ZRclRIb29xSG1NRHNCcGx0OXBXdVZGaEVSYXlXNG9PUFJfR3cweTYxMVF0bjZ0Y0U5QWNOQUszMGV0SDFlRHgtSkZiNkxZN2ZIZEJPT0trVTZlTXZMa25HWVctdWpJZ0ZnOUVXN0lQWEVlZEFRY0ZlLWlaZnVuallLVzY?oc=5\" target=\"_blank\">You Should Buy Gadgets From Anker's Official Store, ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkV6ZG9LUTh4bVlvX0ZRclRIb29xSG1NRHNCcGx0OXBXdVZGaEVSYXlXNG9PUFJfR3cweTYxMVF0bjZ0Y0U5QWNOQUszMGV0SDFlRHgtSkZiNkxZN2ZIZEJPT0trVTZlTXZMa25HWVctdWpJZ0ZnOUVXN0lQWEVlZEFRY0ZlLWlaZnVuallLVzY?oc=5",
+      "published": "Thu, 29 Oct 2026 14:47:00 GMT",
+      "published_iso": "2026-10-29T14:47:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 108.8,
+      "hours_since_published": 132.2,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
         "channels": [
-          "Walmart"
+          "Amazon"
         ],
         "categories": []
       },
       "_score": 250,
-      "display_title": "Everything you need to know about...",
+      "display_title": "You Should Buy Gadgets From Anker's...",
       "tags": [
         "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
+        "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "We're cutting our Amazon price target after a rough quarter. But it isn't all bad - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEVxNktlX1FRdjBjaWE1V3pwSDFxU2UybUJmdkxOQTM1VWtjSmRNb2p1V0ZkMkd1aWh6elRKS0hoWXdUY1NUTXRiVW1UTVlCMFdLQ2dFZ3d6QkFXVllJSzRUWFRrN3JrOHZ0cXA5RTVNb3dTSEhtLV9hTW80QTV5VlZLX1BHaENmdlFIRGY5d1dJSml5dm9oVnozTVJXeEh0Wk9IMnRnTklhaXQ4eUhVQVlqNVRzQWZtNDFDak9YSktBbmxVMDFCVA",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEVxNktlX1FRdjBjaWE1V3pwSDFxU2UybUJmdkxOQTM1VWtjSmRNb2p1V0ZkMkd1aWh6elRKS0hoWXdUY1NUTXRiVW1UTVlCMFdLQ2dFZ3d6QkFXVllJSzRUWFRrN3JrOHZ0cXA5RTVNb3dTSEhtLV9hTW80QTV5VlZLX1BHaENmdlFIRGY5d1dJSml5dm9oVnozTVJXeEh0Wk9IMnRnTklhaXQ4eUhVQVlqNVRzQWZtNDFDak9YSktBbmxVMDFCVA?oc=5",
-      "published": "Thu, 29 Oct 2026 23:05:49 GMT",
-      "published_iso": "2026-10-29T23:05:49+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 123.1,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 244,
-      "display_title": "We're cutting our Amazon price target...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Target相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Get an Early Look at Best Buy's Black Friday Deals on Headphones, Smartwatches, and More - PCMag",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXNkX2szTThsWTFnY0txcTFTVUlaNUd5cDdBR1A0M1ZZNVFwMDZFWTBQanZSdll1TlE2dkk5OVJmT214ZjJ6VUl3SmlJMU1CS05hZ0RqVFB3Q085NVZ5NEtVc0FmbWk0QjBGRjNKNHVUaU1UeE9iTFFaU0VmSGU2R2FxalI5TjJyb2c?oc=5\" target=\"_blank\">Get an Early Look at Best Buy's Black Friday Deals on Headph",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXNkX2szTThsWTFnY0txcTFTVUlaNUd5cDdBR1A0M1ZZNVFwMDZFWTBQanZSdll1TlE2dkk5OVJmT214ZjJ6VUl3SmlJMU1CS05hZ0RqVFB3Q085NVZ5NEtVc0FmbWk0QjBGRjNKNHVUaU1UeE9iTFFaU0VmSGU2R2FxalI5TjJyb2c?oc=5",
-      "published": "Mon, 02 Nov 2026 20:06:29 GMT",
-      "published_iso": "2026-11-02T20:06:29+00:00",
-      "source": "Google News - US Retail Audio",
-      "bucket": "channel_news",
-      "hours_since_published": 30.0,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 235,
-      "display_title": "Get an Early Look at Best Buy's Black...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "🛒 渠道零售"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+      "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "products": [
+    {
+      "name": "Bose Sport Open Earbuds Review - RTINGS.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUmxqejl6VmVxSlBGTVk1ZWFTNmxOZ3czdUZDM1Q3MTlURVZFdkFJNkJ3akRNWDRnOFZfdVFLRTlYMWItWEQzcU4wcW1mclloNDhnMGd5VXdSTHhWZjlGVWl0dFlkRTR1MmdUYlI2Y0VmMkE?oc=5\" target=\"_blank\">Bose Sport Open Earbuds Review</",
+      "date": "Thu, 29 Oct 2026 07:00:00",
+      "published_iso": "2026-10-29T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUmxqejl6VmVxSlBGTVk1ZWFTNmxOZ3czdUZDM1Q3MTlURVZFdkFJNkJ3akRNWDRnOFZfdVFLRTlYMWItWEQzcU4wcW1mclloNDhnMGd5VXdSTHhWZjlGVWl0dFlkRTR1MmdUYlI2Y0VmMkE?oc=5",
+      "source": "Google News - Audio Wearable Watch",
+      "_score": 75,
+      "hours_since_published": 140.0,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Bose"
+        ],
+        "channels": [],
+        "categories": [
+          "open-ear",
+          "earbuds"
+        ]
+      },
+      "display_title": "Bose Sport Open Earbuds Review...",
+      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+      "tags": [
+        "🎧 耳机音频",
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "竞品观察",
+      "product_intro": "<a。",
+      "importance": "中",
+      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
     {
       "name": "Shokz OpenRun Pro 2 Review: Finally, Open-Ear Headphones That Sound Good - MensXP",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBng",
@@ -1206,7 +1235,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBngFBVV95cUxOVEp2eUlkQjVSVnBKZFphU3Z0TWtVempKeVpBLTlQTDR2bmZsYjR4enlXbzNBdzlaMzlkYnIwQ1liN1htRzBRQTVUOVJKU25lZWJoN0VldlJiUmxuOHRCTHZ1M0FtRnhTWWlXSHJuRDZRYUNmNkdQRFNVSG91RkFEd3Z1djdEM3A2TldPS1NfNnplYmwwaUVHMWFTYmt5QQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 75,
-      "hours_since_published": 135.4,
+      "hours_since_published": 136.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1232,38 +1261,6 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
-      "name": "Bose Sport Open Earbuds Review - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVG82Z2lmc0cwdnZFdGpxaXFfa0RrX2haV2ZlWTN2dXJlLUpOd0FmWkNRdnVxYU9FMUxpdVJOU2JPMW5ZOHFSa0tPd3FNWlBQNzZ3TFh1VjFHYldOZ2xHUlZBZ2Z5UUVISEFoWVVBTnJyR3M4?oc=5\" target=\"_blank\">Bose Sport Open Earbuds Review<",
-      "date": "Sat, 31 Oct 2026 12:00:01",
-      "published_iso": "2026-10-31T12:00:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVG82Z2lmc0cwdnZFdGpxaXFfa0RrX2haV2ZlWTN2dXJlLUpOd0FmWkNRdnVxYU9FMUxpdVJOU2JPMW5ZOHFSa0tPd3FNWlBQNzZ3TFh1VjFHYldOZ2xHUlZBZ2Z5UUVISEFoWVVBTnJyR3M4?oc=5",
-      "source": "Google News - Competitor Watch",
-      "_score": 75,
-      "hours_since_published": 86.2,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Bose"
-        ],
-        "channels": [],
-        "categories": [
-          "open-ear",
-          "earbuds"
-        ]
-      },
-      "display_title": "Bose Sport Open Earbuds Review - CNET",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-      "tags": [
-        "🎧 耳机音频"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "竞品观察",
-      "product_intro": "<a。",
-      "importance": "中",
-      "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
       "name": "Walmart Has $180 Open-Ear Headphones on Sale for 83% Off - Yahoo Tech",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkYzMHhqREVucV84ZWtYMU01RHlteGlGVlBpNlpsX1ZweEk1TGJULTRnYV9xSzRZc2hNRW03c2loVHg3M3loNzNmZ2lqOGxCdEhOckxidGoxRjFqYk1mSlVJMU1rZnBFNjVEU0JHdTB5VXdIQ2t0QUF1Y09uVy1sQ1ZnTFY5TndSTjZPTGxkd1JNTldf?oc=5\" tar",
       "date": "Sat, 31 Oct 2026 00:15:00",
@@ -1271,7 +1268,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkYzMHhqREVucV84ZWtYMU01RHlteGlGVlBpNlpsX1ZweEk1TGJULTRnYV9xSzRZc2hNRW03c2loVHg3M3loNzNmZ2lqOGxCdEhOckxidGoxRjFqYk1mSlVJMU1rZnBFNjVEU0JHdTB5VXdIQ2t0QUF1Y09uVy1sQ1ZnTFY5TndSTjZPTGxkd1JNTldf?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 73,
-      "hours_since_published": 97.9,
+      "hours_since_published": 98.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1305,7 +1302,7 @@
       "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
       "source": "The Verge",
       "_score": 51,
-      "hours_since_published": 3.9,
+      "hours_since_published": 4.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1334,7 +1331,7 @@
       "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 1.4,
+      "hours_since_published": 2.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1361,7 +1358,7 @@
       "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.8,
+      "hours_since_published": 4.6,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1385,7 +1382,7 @@
     {
       "name": "headphone",
       "type": "品类",
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "title": "Shokz OpenRun Pro 2 Review: Finally, Open-Ear Headphones That Sound Good - MensXP",
@@ -1395,7 +1392,7 @@
           "published_iso": "2026-10-29T10:43:18+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 135.4,
+          "hours_since_published": 136.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1419,103 +1416,33 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Our favorite Bose headphones are already at a Cyber Monday price — they’re 53% off today - NBC News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2VjZFlpZFZWcUVDNUxWZU5GbDRRN2hFSXVqd05zQk13SlJmNllsZ192WFBHWmZoc0V5bzYwVTFERkRDV29hcDlwN1pITDVNQmhrWXhEVUszNDlXT2tBQmwzV3ZtbmtSMkc5Z1dGOUNQVzJNc1I5MmdoVGRqdS03NC1pOWtHNGdLS1lybUxYVHBJNTB4UE9iWGpfdm1mcnBiOVE?oc=5\" target=\"_blank\">Our favorite Bose headphones",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2VjZFlpZFZWcUVDNUxWZU5GbDRRN2hFSXVqd05zQk13SlJmNllsZ192WFBHWmZoc0V5bzYwVTFERkRDV29hcDlwN1pITDVNQmhrWXhEVUszNDlXT2tBQmwzV3ZtbmtSMkc5Z1dGOUNQVzJNc1I5MmdoVGRqdS03NC1pOWtHNGdLS1lybUxYVHBJNTB4UE9iWGpfdm1mcnBiOVE?oc=5",
-          "published": "Tue, 03 Nov 2026 15:16:47 GMT",
-          "published_iso": "2026-11-03T15:16:47+00:00",
+          "title": "Bowers & Wilkins Px8 S2 vs Sennheiser HDB 630: Which Premium Wireless Headphones Sound Better? - eCoustics",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXVRVnhKTDh4YWJhcTZtdkljSG12bEdIdmZYLWt5U21WTFVWenBIYXk2RXZYcE1TY256VjNnYzJqcF9OVEdWbHdVQUxmUGlQbjdNV20tUW5PWEo3cldpTVVOZ1AzblJUa2lwSnF4cExvamZ3anFleEhzU3BwcWw2XzNtanFzZw?oc=5\" target=\"_blank\">Bowers & Wilkins Px8 S2 vs Sennheiser HDB 630: Which Premium Wire",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXVRVnhKTDh4YWJhcTZtdkljSG12bEdIdmZYLWt5U21WTFVWenBIYXk2RXZYcE1TY256VjNnYzJqcF9OVEdWbHdVQUxmUGlQbjdNV20tUW5PWEo3cldpTVVOZ1AzblJUa2lwSnF4cExvamZ3anFleEhzU3BwcWw2XzNtanFzZw?oc=5",
+          "published": "Sun, 01 Nov 2026 05:46:22 GMT",
+          "published_iso": "2026-11-01T05:46:22+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 10.9,
-          "freshness_label": "24h内",
+          "hours_since_published": 69.2,
+          "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
-              "Bose"
+              "Sennheiser"
             ],
             "channels": [],
             "categories": [
               "headphone"
             ]
           },
-          "_score": 257,
-          "display_title": "Our favorite Bose headphones are...",
+          "_score": 270,
+          "display_title": "Bowers & Wilkins Px8 S2 vs Sennheiser...",
           "tags": [
-            "🎧 耳机音频",
-            "💰 价格促销"
+            "🎧 耳机音频"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
-          "business_note": "Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "Sennheiser相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
-    },
-    {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 6,
-      "items": [
-        {
-          "title": "Black Friday store hours 2026: Here's what time Walmart, Target, Best Buy, Apple, Costco and more retailers open their doors - Yahoo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNeGNvY193NkIxSFJ1Z0s3LWk5Q1RIWm9mMXphc0pMNThKUWgyWlZCRFk0NWNTeUxUankxNWllV1F4a2dxYl8zM2tmcFhaUWxkQ2tkTWdmVFBFOEE5cW9Tb3BMZEhHVUNTQU1tTl9mUFRHMHhGb094YWFCYzVTemZ1Sk9hc1FZWWpvNk15bkxjMkp6MFBDZlFKV3p3ZVNnMzF6SlRkUkNKbU5HV3ViWGc1VTcxOENhRDRILU5DdnJwMk1ubVlRUGtRbn",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeGNvY193NkIxSFJ1Z0s3LWk5Q1RIWm9mMXphc0pMNThKUWgyWlZCRFk0NWNTeUxUankxNWllV1F4a2dxYl8zM2tmcFhaUWxkQ2tkTWdmVFBFOEE5cW9Tb3BMZEhHVUNTQU1tTl9mUFRHMHhGb094YWFCYzVTemZ1Sk9hc1FZWWpvNk15bkxjMkp6MFBDZlFKV3p3ZVNnMzF6SlRkUkNKbU5HV3ViWGc1VTcxOENhRDRILU5DdnJwMk1ubVlRUGtRbnZBV0hiaVlweFpNVUJoZm14SzhGdk9BX1BpenNnb0d2bUx1dTQ0N3p5allhSVl5cXNJUzFiWFJsZVZERlQxclNlenNpUDVvNmNtQWZpOUk?oc=5",
-          "published": "Mon, 02 Nov 2026 11:04:00 GMT",
-          "published_iso": "2026-11-02T11:04:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 39.1,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "Walmart",
-              "Target",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 459,
-          "display_title": "Black Friday store hours 2026: Here's...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Big-Box Briefing: What to watch this holiday season as Target, Walmart and more battle for sales",
-          "summary": "Within the past week, nearly all the major brick-and-mortar retailers — Target, Walmart, Kohl’s, Best Buy and Macy’s, to name a few— have put out press releases trumpeting their holiday offers. We summarized the key points to watch from them.",
-          "url": "https://www.modernretail.co/marketing/big-box-briefing-what-to-watch-this-holiday-season-as-target-walmart-and-more-battle-for-sales/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-          "published_iso": "2026-10-29T14:00:00+00:00",
-          "source": "Modern Retail",
-          "bucket": "channel_news",
-          "hours_since_published": 132.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "Walmart",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 354,
-          "display_title": "Big-Box Briefing: What to watch this...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "🚀 新品发布"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     },
@@ -1532,7 +1459,7 @@
           "published_iso": "2026-10-29T10:43:18+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 135.4,
+          "hours_since_published": 136.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1556,14 +1483,14 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Bose Sport Open Earbuds Review - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVG82Z2lmc0cwdnZFdGpxaXFfa0RrX2haV2ZlWTN2dXJlLUpOd0FmWkNRdnVxYU9FMUxpdVJOU2JPMW5ZOHFSa0tPd3FNWlBQNzZ3TFh1VjFHYldOZ2xHUlZBZ2Z5UUVISEFoWVVBTnJyR3M4?oc=5\" target=\"_blank\">Bose Sport Open Earbuds Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVG82Z2lmc0cwdnZFdGpxaXFfa0RrX2haV2ZlWTN2dXJlLUpOd0FmWkNRdnVxYU9FMUxpdVJOU2JPMW5ZOHFSa0tPd3FNWlBQNzZ3TFh1VjFHYldOZ2xHUlZBZ2Z5UUVISEFoWVVBTnJyR3M4?oc=5",
-          "published": "Sat, 31 Oct 2026 12:00:01 GMT",
-          "published_iso": "2026-10-31T12:00:01+00:00",
-          "source": "Google News - Competitor Watch",
+          "title": "Bose Sport Open Earbuds Review - RTINGS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUmxqejl6VmVxSlBGTVk1ZWFTNmxOZ3czdUZDM1Q3MTlURVZFdkFJNkJ3akRNWDRnOFZfdVFLRTlYMWItWEQzcU4wcW1mclloNDhnMGd5VXdSTHhWZjlGVWl0dFlkRTR1MmdUYlI2Y0VmMkE?oc=5\" target=\"_blank\">Bose Sport Open Earbuds Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUmxqejl6VmVxSlBGTVk1ZWFTNmxOZ3czdUZDM1Q3MTlURVZFdkFJNkJ3akRNWDRnOFZfdVFLRTlYMWItWEQzcU4wcW1mclloNDhnMGd5VXdSTHhWZjlGVWl0dFlkRTR1MmdUYlI2Y0VmMkE?oc=5",
+          "published": "Thu, 29 Oct 2026 07:00:00 GMT",
+          "published_iso": "2026-10-29T07:00:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 86.2,
+          "hours_since_published": 140.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1576,9 +1503,10 @@
             ]
           },
           "_score": 255,
-          "display_title": "Bose Sport Open Earbuds Review - CNET",
+          "display_title": "Bose Sport Open Earbuds Review...",
           "tags": [
-            "🎧 耳机音频"
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
@@ -1588,7 +1516,7 @@
       ]
     },
     {
-      "name": "Walmart",
+      "name": "Best Buy",
       "type": "渠道",
       "count": 5,
       "items": [
@@ -1600,7 +1528,7 @@
           "published_iso": "2026-11-02T11:04:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 39.1,
+          "hours_since_published": 39.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1631,7 +1559,7 @@
           "published_iso": "2026-10-29T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 132.2,
+          "hours_since_published": 133.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1659,7 +1587,7 @@
     {
       "name": "Bose",
       "type": "品牌",
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "Our favorite Bose headphones are already at a Cyber Monday price — they’re 53% off today - NBC News",
@@ -1669,7 +1597,7 @@
           "published_iso": "2026-11-03T15:16:47+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 10.9,
+          "hours_since_published": 11.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1692,14 +1620,14 @@
           "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         },
         {
-          "title": "Bose Sport Open Earbuds Review - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVG82Z2lmc0cwdnZFdGpxaXFfa0RrX2haV2ZlWTN2dXJlLUpOd0FmWkNRdnVxYU9FMUxpdVJOU2JPMW5ZOHFSa0tPd3FNWlBQNzZ3TFh1VjFHYldOZ2xHUlZBZ2Z5UUVISEFoWVVBTnJyR3M4?oc=5\" target=\"_blank\">Bose Sport Open Earbuds Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YVG82Z2lmc0cwdnZFdGpxaXFfa0RrX2haV2ZlWTN2dXJlLUpOd0FmWkNRdnVxYU9FMUxpdVJOU2JPMW5ZOHFSa0tPd3FNWlBQNzZ3TFh1VjFHYldOZ2xHUlZBZ2Z5UUVISEFoWVVBTnJyR3M4?oc=5",
-          "published": "Sat, 31 Oct 2026 12:00:01 GMT",
-          "published_iso": "2026-10-31T12:00:01+00:00",
-          "source": "Google News - Competitor Watch",
+          "title": "Bose Sport Open Earbuds Review - RTINGS.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUmxqejl6VmVxSlBGTVk1ZWFTNmxOZ3czdUZDM1Q3MTlURVZFdkFJNkJ3akRNWDRnOFZfdVFLRTlYMWItWEQzcU4wcW1mclloNDhnMGd5VXdSTHhWZjlGVWl0dFlkRTR1MmdUYlI2Y0VmMkE?oc=5\" target=\"_blank\">Bose Sport Open Earbuds Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTINGS.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUmxqejl6VmVxSlBGTVk1ZWFTNmxOZ3czdUZDM1Q3MTlURVZFdkFJNkJ3akRNWDRnOFZfdVFLRTlYMWItWEQzcU4wcW1mclloNDhnMGd5VXdSTHhWZjlGVWl0dFlkRTR1MmdUYlI2Y0VmMkE?oc=5",
+          "published": "Thu, 29 Oct 2026 07:00:00 GMT",
+          "published_iso": "2026-10-29T07:00:00+00:00",
+          "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 86.2,
+          "hours_since_published": 140.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1712,9 +1640,10 @@
             ]
           },
           "_score": 255,
-          "display_title": "Bose Sport Open Earbuds Review - CNET",
+          "display_title": "Bose Sport Open Earbuds Review...",
           "tags": [
-            "🎧 耳机音频"
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
           ],
           "impact_area": "品牌营销",
           "importance": "高",
@@ -1724,71 +1653,9 @@
       ]
     },
     {
-      "name": "Amazon",
+      "name": "Walmart",
       "type": "渠道",
-      "count": 3,
-      "items": [
-        {
-          "title": "We're cutting our Amazon price target after a rough quarter. But it isn't all bad - CNBC",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEVxNktlX1FRdjBjaWE1V3pwSDFxU2UybUJmdkxOQTM1VWtjSmRNb2p1V0ZkMkd1aWh6elRKS0hoWXdUY1NUTXRiVW1UTVlCMFdLQ2dFZ3d6QkFXVllJSzRUWFRrN3JrOHZ0cXA5RTVNb3dTSEhtLV9hTW80QTV5VlZLX1BHaENmdlFIRGY5d1dJSml5dm9oVnozTVJXeEh0Wk9IMnRnTklhaXQ4eUhVQVlqNVRzQWZtNDFDak9YSktBbmxVMDFCVA",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEVxNktlX1FRdjBjaWE1V3pwSDFxU2UybUJmdkxOQTM1VWtjSmRNb2p1V0ZkMkd1aWh6elRKS0hoWXdUY1NUTXRiVW1UTVlCMFdLQ2dFZ3d6QkFXVllJSzRUWFRrN3JrOHZ0cXA5RTVNb3dTSEhtLV9hTW80QTV5VlZLX1BHaENmdlFIRGY5d1dJSml5dm9oVnozTVJXeEh0Wk9IMnRnTklhaXQ4eUhVQVlqNVRzQWZtNDFDak9YSktBbmxVMDFCVA?oc=5",
-          "published": "Thu, 29 Oct 2026 23:05:49 GMT",
-          "published_iso": "2026-10-29T23:05:49+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 123.1,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 244,
-          "display_title": "We're cutting our Amazon price target...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Target相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Expanding Amazon’s Supply Chain Capabilities for SAP Customers: Multi-Channel Fulfillment Accelerator - Amazon Web Services (AWS)",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbkplZjhZSVU0YUxYVEo3b1M1MVE5YmhieVJabEFsZW5sUk9zVHkwa2VGblp6MjNKMDhGQ1FXaXR6T2hNdndCWG4zS1JEb0x3UUtNM01qVUZKcEVEd2V4ZG1obHE2ZzgySlJFNTk0bHBJQTJxdXNBQkN1U0tvbXB4ZUJ2THBNRGhRc25IX1RmdnhHZ3pHNGI4alB0WDhfQmJFY1pvTDNnclQzYVROWVhzQy0xTGZVUnZKTHhfUk9Ca3dETTFYNUlzbE",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbkplZjhZSVU0YUxYVEo3b1M1MVE5YmhieVJabEFsZW5sUk9zVHkwa2VGblp6MjNKMDhGQ1FXaXR6T2hNdndCWG4zS1JEb0x3UUtNM01qVUZKcEVEd2V4ZG1obHE2ZzgySlJFNTk0bHBJQTJxdXNBQkN1U0tvbXB4ZUJ2THBNRGhRc25IX1RmdnhHZ3pHNGI4alB0WDhfQmJFY1pvTDNnclQzYVROWVhzQy0xTGZVUnZKTHhfUk9Ca3dETTFYNUlzbExsTjdmVVhxRzRhNzFB?oc=5",
-          "published": "Thu, 29 Oct 2026 22:55:32 GMT",
-          "published_iso": "2026-10-29T22:55:32+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 123.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon"
-            ],
-            "categories": []
-          },
-          "_score": 230,
-          "display_title": "Expanding Amazon’s Supply Chain...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商"
-        }
-      ]
-    },
-    {
-      "name": "Target",
-      "type": "渠道",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "Black Friday store hours 2026: Here's what time Walmart, Target, Best Buy, Apple, Costco and more retailers open their doors - Yahoo",
@@ -1798,7 +1665,7 @@
           "published_iso": "2026-11-02T11:04:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 39.1,
+          "hours_since_published": 39.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1829,7 +1696,7 @@
           "published_iso": "2026-10-29T14:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 132.2,
+          "hours_since_published": 133.0,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1855,73 +1722,201 @@
       ]
     },
     {
-      "name": "Shokz",
-      "type": "品牌",
+      "name": "Costco",
+      "type": "渠道",
+      "count": 4,
+      "items": [
+        {
+          "title": "Black Friday store hours 2026: Here's what time Walmart, Target, Best Buy, Apple, Costco and more retailers open their doors - Yahoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNeGNvY193NkIxSFJ1Z0s3LWk5Q1RIWm9mMXphc0pMNThKUWgyWlZCRFk0NWNTeUxUankxNWllV1F4a2dxYl8zM2tmcFhaUWxkQ2tkTWdmVFBFOEE5cW9Tb3BMZEhHVUNTQU1tTl9mUFRHMHhGb094YWFCYzVTemZ1Sk9hc1FZWWpvNk15bkxjMkp6MFBDZlFKV3p3ZVNnMzF6SlRkUkNKbU5HV3ViWGc1VTcxOENhRDRILU5DdnJwMk1ubVlRUGtRbn",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeGNvY193NkIxSFJ1Z0s3LWk5Q1RIWm9mMXphc0pMNThKUWgyWlZCRFk0NWNTeUxUankxNWllV1F4a2dxYl8zM2tmcFhaUWxkQ2tkTWdmVFBFOEE5cW9Tb3BMZEhHVUNTQU1tTl9mUFRHMHhGb094YWFCYzVTemZ1Sk9hc1FZWWpvNk15bkxjMkp6MFBDZlFKV3p3ZVNnMzF6SlRkUkNKbU5HV3ViWGc1VTcxOENhRDRILU5DdnJwMk1ubVlRUGtRbnZBV0hiaVlweFpNVUJoZm14SzhGdk9BX1BpenNnb0d2bUx1dTQ0N3p5allhSVl5cXNJUzFiWFJsZVZERlQxclNlenNpUDVvNmNtQWZpOUk?oc=5",
+          "published": "Mon, 02 Nov 2026 11:04:00 GMT",
+          "published_iso": "2026-11-02T11:04:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 39.9,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy",
+              "Walmart",
+              "Target",
+              "Costco"
+            ],
+            "categories": []
+          },
+          "_score": 459,
+          "display_title": "Black Friday store hours 2026: Here's...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Costco vs. Sam’s Club: Here’s Which Store Has the Best Member Perks - AOL.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQ3dCT1RkRzRhTlNYcTh1c3VfOTdIUy1Db2ZLWFRtNlNaTVpnVzNEZXNoYl9GeWJCam5LWFJJRjI3OGdXc1J4REJsRl9qMDlDMDB2a095aklXVFBUWVFzb3dfUjRsZHpkcWpCYXFCN0FLcG1HMnFv?oc=5\" target=\"_blank\">Costco vs. Sam’s Club: Here’s Which Store Has the Best Member Perks</a>&nbsp;&nbsp;<fon",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQ3dCT1RkRzRhTlNYcTh1c3VfOTdIUy1Db2ZLWFRtNlNaTVpnVzNEZXNoYl9GeWJCam5LWFJJRjI3OGdXc1J4REJsRl9qMDlDMDB2a095aklXVFBUWVFzb3dfUjRsZHpkcWpCYXFCN0FLcG1HMnFv?oc=5",
+          "published": "Thu, 29 Oct 2026 10:32:18 GMT",
+          "published_iso": "2026-10-29T10:32:18+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 136.5,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Costco",
+              "Sam's Club"
+            ],
+            "categories": []
+          },
+          "_score": 282,
+          "display_title": "Costco vs. Sam’s Club: Here’s Which...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Costco / Sam's Club相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "type": "渠道",
       "count": 2,
       "items": [
         {
-          "title": "Shokz OpenRun Pro 2 Review: Finally, Open-Ear Headphones That Sound Good - MensXP",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBngFBVV95cUxOVEp2eUlkQjVSVnBKZFphU3Z0TWtVempKeVpBLTlQTDR2bmZsYj",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBngFBVV95cUxOVEp2eUlkQjVSVnBKZFphU3Z0TWtVempKeVpBLTlQTDR2bmZsYjR4enlXbzNBdzlaMzlkYnIwQ1liN1htRzBRQTVUOVJKU25lZWJoN0VldlJiUmxuOHRCTHZ1M0FtRnhTWWlXSHJuRDZRYUNmNkdQRFNVSG91RkFEd3Z1djdEM3A2TldPS1NfNnplYmwwaUVHMWFTYmt5QQ?oc=5",
-          "published": "Thu, 29 Oct 2026 10:43:18 GMT",
-          "published_iso": "2026-10-29T10:43:18+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 135.4,
+          "title": "You Should Buy Gadgets From Anker's Official Store, Not From Amazon - Here's Why - BGR",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkV6ZG9LUTh4bVlvX0ZRclRIb29xSG1NRHNCcGx0OXBXdVZGaEVSYXlXNG9PUFJfR3cweTYxMVF0bjZ0Y0U5QWNOQUszMGV0SDFlRHgtSkZiNkxZN2ZIZEJPT0trVTZlTXZMa25HWVctdWpJZ0ZnOUVXN0lQWEVlZEFRY0ZlLWlaZnVuallLVzY?oc=5\" target=\"_blank\">You Should Buy Gadgets From Anker's Official Store, ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkV6ZG9LUTh4bVlvX0ZRclRIb29xSG1NRHNCcGx0OXBXdVZGaEVSYXlXNG9PUFJfR3cweTYxMVF0bjZ0Y0U5QWNOQUszMGV0SDFlRHgtSkZiNkxZN2ZIZEJPT0trVTZlTXZMa25HWVctdWpJZ0ZnOUVXN0lQWEVlZEFRY0ZlLWlaZnVuallLVzY?oc=5",
+          "published": "Thu, 29 Oct 2026 14:47:00 GMT",
+          "published_iso": "2026-10-29T14:47:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 132.2,
           "freshness_label": "近7天",
           "monitor_hits": {
-            "brands": [
-              "Shokz"
+            "brands": [],
+            "channels": [
+              "Amazon"
             ],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 285,
-          "display_title": "Shokz OpenRun Pro 2 Review: Finally...",
+          "_score": 250,
+          "display_title": "You Should Buy Gadgets From Anker's...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🛒 渠道零售",
+            "🏬 平台电商"
           ],
-          "impact_area": "品牌营销",
+          "impact_area": "电商",
           "importance": "高",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "name": "Shokz OpenRun Pro 2 Review: Finally, Open-Ear Headphones That Sound Good - MensXP",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBng",
-          "date": "Thu, 29 Oct 2026 10:43:18",
-          "published_iso": "2026-10-29T10:43:18+00:00",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFNCUHhjai04TzlqUVBVZWZOemstYkZzVGhoSkFNdTI1cGtRSFRGaHF5NFh4ckQ4dWRTYkxSMlJWQTJDUVRFaXlYVE1PZlBqelI4dEpSZDdBYnVtRFYwVWRsdlhVMFI3R2xwSnZFX0NGbjBpcWVvaHpvM2s0M2lTeG1rTjZSeVo4SUViOGhlTkItU25kZFpBSdIBngFBVV95cUxOVEp2eUlkQjVSVnBKZFphU3Z0TWtVempKeVpBLTlQTDR2bmZsYjR4enlXbzNBdzlaMzlkYnIwQ1liN1htRzBRQTVUOVJKU25lZWJoN0VldlJiUmxuOHRCTHZ1M0FtRnhTWWlXSHJuRDZRYUNmNkdQRFNVSG91RkFEd3Z1djdEM3A2TldPS1NfNnplYmwwaUVHMWFTYmt5QQ?oc=5",
-          "source": "Google News - Audio Wearable Watch",
-          "_score": 75,
-          "hours_since_published": 135.4,
-          "freshness_label": "近7天",
+          "title": "Garmin Dash Cam X110 gets a rare $50 discount on Amazon",
+          "summary": "Garmin Dash Cam X110 drops to $149.99 on Amazon with 1080p recording, GPS, voice control, and incident capture.",
+          "url": "https://www.androidauthority.com/garmin-dash-cam-x110-deal-3731325/",
+          "published": "Tue, 03 Nov 2026 17:48:57 +0000",
+          "published_iso": "2026-11-03T17:48:57+00:00",
+          "source": "Android Authority",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 9.2,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
-              "Shokz"
+              "Garmin"
             ],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "headphone"
-            ]
+            "channels": [
+              "Amazon"
+            ],
+            "categories": []
           },
-          "display_title": "Shokz OpenRun Pro 2 Review: Finally...",
-          "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+          "_score": 211,
+          "display_title": "Garmin Dash Cam X110 gets a rare $50...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🏃 运动穿戴",
+            "🏬 平台电商",
+            "💰 价格促销"
           ],
-          "impact_area": "品牌营销",
-          "judgement_label": "竞品观察",
-          "product_intro": "<a。",
-          "importance": "中",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "impact_area": "电商"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "type": "渠道",
+      "count": 2,
+      "items": [
+        {
+          "title": "Black Friday store hours 2026: Here's what time Walmart, Target, Best Buy, Apple, Costco and more retailers open their doors - Yahoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNeGNvY193NkIxSFJ1Z0s3LWk5Q1RIWm9mMXphc0pMNThKUWgyWlZCRFk0NWNTeUxUankxNWllV1F4a2dxYl8zM2tmcFhaUWxkQ2tkTWdmVFBFOEE5cW9Tb3BMZEhHVUNTQU1tTl9mUFRHMHhGb094YWFCYzVTemZ1Sk9hc1FZWWpvNk15bkxjMkp6MFBDZlFKV3p3ZVNnMzF6SlRkUkNKbU5HV3ViWGc1VTcxOENhRDRILU5DdnJwMk1ubVlRUGtRbn",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeGNvY193NkIxSFJ1Z0s3LWk5Q1RIWm9mMXphc0pMNThKUWgyWlZCRFk0NWNTeUxUankxNWllV1F4a2dxYl8zM2tmcFhaUWxkQ2tkTWdmVFBFOEE5cW9Tb3BMZEhHVUNTQU1tTl9mUFRHMHhGb094YWFCYzVTemZ1Sk9hc1FZWWpvNk15bkxjMkp6MFBDZlFKV3p3ZVNnMzF6SlRkUkNKbU5HV3ViWGc1VTcxOENhRDRILU5DdnJwMk1ubVlRUGtRbnZBV0hiaVlweFpNVUJoZm14SzhGdk9BX1BpenNnb0d2bUx1dTQ0N3p5allhSVl5cXNJUzFiWFJsZVZERlQxclNlenNpUDVvNmNtQWZpOUk?oc=5",
+          "published": "Mon, 02 Nov 2026 11:04:00 GMT",
+          "published_iso": "2026-11-02T11:04:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 39.9,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy",
+              "Walmart",
+              "Target",
+              "Costco"
+            ],
+            "categories": []
+          },
+          "_score": 459,
+          "display_title": "Black Friday store hours 2026: Here's...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Big-Box Briefing: What to watch this holiday season as Target, Walmart and more battle for sales",
+          "summary": "Within the past week, nearly all the major brick-and-mortar retailers — Target, Walmart, Kohl’s, Best Buy and Macy’s, to name a few— have put out press releases trumpeting their holiday offers. We summarized the key points to watch from them.",
+          "url": "https://www.modernretail.co/marketing/big-box-briefing-what-to-watch-this-holiday-season-as-target-walmart-and-more-battle-for-sales/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+          "published_iso": "2026-10-29T14:00:00+00:00",
+          "source": "Modern Retail",
+          "bucket": "channel_news",
+          "hours_since_published": 133.0,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Best Buy",
+              "Walmart",
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 354,
+          "display_title": "Big-Box Briefing: What to watch this...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "🚀 新品发布"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13 10:32:14 CST",
+  "generated_at": "2026-11-13 11:23:30 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-11-11T13:45:01+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 36.8,
+    "hours_since_published": 37.6,
     "freshness_label": "近3天",
     "monitor_hits": {
       "brands": [],
@@ -745,7 +745,7 @@
       "published_iso": "2026-11-11T13:45:01+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 36.8,
+      "hours_since_published": 37.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -776,7 +776,7 @@
       "published_iso": "2026-11-12T15:18:36+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 11.2,
+      "hours_since_published": 12.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -807,7 +807,7 @@
       "published_iso": "2026-11-12T18:21:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 8.2,
+      "hours_since_published": 9.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -844,7 +844,7 @@
       "published_iso": "2026-11-12T10:39:46+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 15.9,
+      "hours_since_published": 16.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -878,7 +878,7 @@
       "published_iso": "2026-11-12T12:52:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 13.7,
+      "hours_since_published": 14.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -911,7 +911,7 @@
       "published_iso": "2026-11-12T21:28:53+00:00",
       "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 5.1,
+      "hours_since_published": 5.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -942,7 +942,7 @@
       "published_iso": "2026-11-11T17:31:30+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 33.0,
+      "hours_since_published": 33.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -971,7 +971,7 @@
       "published_iso": "2026-11-09T10:45:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 87.8,
+      "hours_since_published": 88.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1000,7 +1000,7 @@
       "published_iso": "2026-11-10T13:32:00+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 61.0,
+      "hours_since_published": 61.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1031,7 +1031,7 @@
       "published_iso": "2026-11-11T13:45:01+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 36.8,
+      "hours_since_published": 37.6,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1062,7 +1062,7 @@
       "published_iso": "2026-11-12T15:18:36+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 11.2,
+      "hours_since_published": 12.1,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1093,7 +1093,7 @@
       "published_iso": "2026-11-12T18:21:00+00:00",
       "source": "Google News - US Retail Audio",
       "bucket": "channel_news",
-      "hours_since_published": 8.2,
+      "hours_since_published": 9.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1128,7 +1128,7 @@
       "published_iso": "2026-11-11T01:28:18+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 49.1,
+      "hours_since_published": 49.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1152,6 +1152,35 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
+      "title": "Here’s when the Black Friday sales start at Walmart, Target, and other retailers - The Verge",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVJVNzF2QXFhSGRzTHowQ0psOERCdzV2SDRCRzdkbE9UOHdTNkd2N1hYOXNsVUhSeW5yX2VodmstSUZoZTFpZUlmYXU4d0o5VzVpazBnd1J2U0NoVmdyUlNFOW9KcXdPcHN5UTM0UDVlWmZvaXVBaXR3bHdSTVE0amRDT3FmeURoNGxYRlZhVXd4VDQ?oc=5\" target=\"_blank\">Here’s when the Black Friday sales start at Walm",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVJVNzF2QXFhSGRzTHowQ0psOERCdzV2SDRCRzdkbE9UOHdTNkd2N1hYOXNsVUhSeW5yX2VodmstSUZoZTFpZUlmYXU4d0o5VzVpazBnd1J2U0NoVmdyUlNFOW9KcXdPcHN5UTM0UDVlWmZvaXVBaXR3bHdSTVE0amRDT3FmeURoNGxYRlZhVXd4VDQ?oc=5",
+      "published": "Mon, 09 Nov 2026 15:00:00 GMT",
+      "published_iso": "2026-11-09T15:00:00+00:00",
+      "source": "Google News - Retail Platforms",
+      "bucket": "channel_news",
+      "hours_since_published": 84.4,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Walmart",
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 312,
+      "display_title": "Here’s when the Black Friday sales...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
       "title": "I tried cheesecakes from Costco, Trader Joe's, Whole Foods, and Walmart. There's just one I'd buy again. - Business Insider",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTZlUUsza0hVcjlpcDBlX0JZWkNzdDROLWFoT3V3NmJhd3V0ak9nRTVtMVFzckpxRmVEOUJBY3lkYzNKV040TENleXVhVG5SS25yNGltbEJKQUFJTk9ldi02V25xSU55TUVVdzZ4elF2V2x3NF9weEdFdnpuajJLMFZjQnhZNGlqVXFJ?oc=5\" target=\"_blank\">I tried cheesecakes from Costco, Trader Joe's, Whole Foods,",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTZlUUsza0hVcjlpcDBlX0JZWkNzdDROLWFoT3V3NmJhd3V0ak9nRTVtMVFzckpxRmVEOUJBY3lkYzNKV040TENleXVhVG5SS25yNGltbEJKQUFJTk9ldi02V25xSU55TUVVdzZ4elF2V2x3NF9weEdFdnpuajJLMFZjQnhZNGlqVXFJ?oc=5",
@@ -1159,7 +1188,7 @@
       "published_iso": "2026-11-10T16:35:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 58.0,
+      "hours_since_published": 58.8,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1179,35 +1208,6 @@
       "importance": "高",
       "business_note": "北美渠道侧出现与Walmart / Costco相关信号，优先评估对电商的影响。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Amazon and Walmart Bring AI Agents Closer to the Purchase - PYMNTS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQb25udnBWTXJDc2RhMDkzWm16RDJvdzE4ODZCWXk4d014VUpFd2M0S3BtUjJva0JrTVlOUVZFUThhS1o2T29rdzcteGRKV3dYdEZUYlFXR0x1cnZZUnI2WUFMektKUlRaRDE5NlRzM3I3T25yZC1pSlRvOHNEY2tsR2N5ZnAweWxNd0I1QjNRTF9CbkgwVXdUUWhoOXdmbGJTS3R1TEVTaw?oc=5\" target=\"_blank\">Amazon and Walmart Br",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb25udnBWTXJDc2RhMDkzWm16RDJvdzE4ODZCWXk4d014VUpFd2M0S3BtUjJva0JrTVlOUVZFUThhS1o2T29rdzcteGRKV3dYdEZUYlFXR0x1cnZZUnI2WUFMektKUlRaRDE5NlRzM3I3T25yZC1pSlRvOHNEY2tsR2N5ZnAweWxNd0I1QjNRTF9CbkgwVXdUUWhoOXdmbGJTS3R1TEVTaw?oc=5",
-      "published": "Tue, 10 Nov 2026 09:02:03 GMT",
-      "published_iso": "2026-11-10T09:02:03+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 65.5,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 289,
-      "display_title": "Amazon and Walmart Bring AI Agents...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     }
   ],
   "products": [
@@ -1219,7 +1219,7 @@
       "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
       "source": "The Verge",
       "_score": 147,
-      "hours_since_published": 5.1,
+      "hours_since_published": 5.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1252,7 +1252,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdDRDS3QtZTBWeXBmOHJfMUlDMUJKNEdtM2JwdGVEZ19MazA5MXVVdzVQM05IVXM1SE04elNRREN4RVNrMElOZ0VWLXp0UldaUlNmb0JvRmFfYVhMQ0VwcHNKYm42S3d3QndHbVBMZTRMMFBKT3hxN01rcTFEcEpoRkI0bWU0ZjdDS1cwY29BcXhOeE9hbS1OQlczSDZlX3FrcTZ2c2ktc25GcFFIU201RzlZbjNuZjNGWDZFa0FsaUhvWmlHNE94TDh2ZHE2RFNUZUlKMGgwdU13RGxPNTFsSnFRcmVReUlleFFlRFUtRkpUc0RqOHBPRWNrWVVnaG9DQTZhTG9aaUpSeklmMUFV?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 140,
-      "hours_since_published": 15.9,
+      "hours_since_published": 16.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1288,7 +1288,7 @@
       "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
       "source": "The Verge",
       "_score": 61,
-      "hours_since_published": 2.8,
+      "hours_since_published": 3.7,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1318,7 +1318,7 @@
       "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 2.3,
+      "hours_since_published": 3.2,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1345,7 +1345,7 @@
       "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.0,
+      "hours_since_published": 3.9,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1372,7 +1372,7 @@
       "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
       "source": "The Verge",
       "_score": 43,
-      "hours_since_published": 3.1,
+      "hours_since_published": 4.0,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
@@ -1396,7 +1396,7 @@
     {
       "name": "Walmart",
       "type": "渠道",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "Black Friday store hours 2026: When are Walmart, Target, Best Buy, Apple, Costco and more retailers open for holiday shopping? - Yahoo",
@@ -1406,7 +1406,7 @@
           "published_iso": "2026-11-11T13:45:01+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 36.8,
+          "hours_since_published": 37.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1437,7 +1437,7 @@
           "published_iso": "2026-11-12T15:18:36+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 11.2,
+          "hours_since_published": 12.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1475,7 +1475,7 @@
           "published_iso": "2026-11-12T18:21:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 8.2,
+          "hours_since_published": 9.0,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1510,7 +1510,7 @@
           "published_iso": "2026-11-12T10:39:46+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 15.9,
+          "hours_since_published": 16.7,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1539,7 +1539,7 @@
       ]
     },
     {
-      "name": "Best Buy",
+      "name": "Target",
       "type": "渠道",
       "count": 7,
       "items": [
@@ -1551,7 +1551,7 @@
           "published_iso": "2026-11-11T13:45:01+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 36.8,
+          "hours_since_published": 37.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1582,7 +1582,7 @@
           "published_iso": "2026-11-12T15:18:36+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 11.2,
+          "hours_since_published": 12.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1620,7 +1620,7 @@
           "published_iso": "2026-11-12T15:18:36+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 11.2,
+          "hours_since_published": 12.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1651,7 +1651,7 @@
           "published_iso": "2026-11-12T18:21:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 8.2,
+          "hours_since_published": 9.0,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1681,7 +1681,7 @@
       ]
     },
     {
-      "name": "Target",
+      "name": "Best Buy",
       "type": "渠道",
       "count": 6,
       "items": [
@@ -1693,7 +1693,7 @@
           "published_iso": "2026-11-11T13:45:01+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 36.8,
+          "hours_since_published": 37.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1724,7 +1724,7 @@
           "published_iso": "2026-11-12T15:18:36+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 11.2,
+          "hours_since_published": 12.1,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
@@ -1762,7 +1762,7 @@
           "published_iso": "2026-11-11T13:45:01+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 36.8,
+          "hours_since_published": 37.6,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1793,7 +1793,7 @@
           "published_iso": "2026-11-11T01:28:18+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 49.1,
+          "hours_since_published": 49.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1831,7 +1831,7 @@
           "published_iso": "2026-11-12T18:21:00+00:00",
           "source": "Google News - US Retail Audio",
           "bucket": "channel_news",
-          "hours_since_published": 8.2,
+          "hours_since_published": 9.0,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1866,7 +1866,7 @@
           "published_iso": "2026-11-12T12:52:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 13.7,
+          "hours_since_published": 14.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1906,7 +1906,7 @@
           "published_iso": "2026-11-11T17:31:30+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 33.0,
+          "hours_since_published": 33.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1935,7 +1935,7 @@
           "published_iso": "2026-11-10T13:32:00+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 61.0,
+          "hours_since_published": 61.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],

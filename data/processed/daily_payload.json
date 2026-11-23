@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23 10:31:33 CST",
+  "generated_at": "2026-11-23 11:41:49 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -712,7 +712,7 @@
     "published_iso": "2026-11-17T20:20:08+00:00",
     "source": "Google News - Retail Platforms",
     "bucket": "channel_news",
-    "hours_since_published": 126.2,
+    "hours_since_published": 127.4,
     "freshness_label": "近7天",
     "monitor_hits": {
       "brands": [],
@@ -745,7 +745,7 @@
       "published_iso": "2026-11-17T20:20:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 126.2,
+      "hours_since_published": 127.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -776,7 +776,7 @@
       "published_iso": "2026-11-20T17:16:43+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 57.2,
+      "hours_since_published": 58.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -808,7 +808,7 @@
       "published_iso": "2026-11-19T05:25:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 93.1,
+      "hours_since_published": 94.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -839,7 +839,7 @@
       "published_iso": "2026-11-20T17:16:43+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 57.2,
+      "hours_since_published": 58.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -871,7 +871,7 @@
       "published_iso": "2026-11-22T10:10:56+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 16.3,
+      "hours_since_published": 17.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -903,7 +903,7 @@
       "published_iso": "2026-11-19T10:02:59+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 88.5,
+      "hours_since_published": 89.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -927,6 +927,36 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
+      "title": "My favorite Shokz open-ear headphones are $80 off for Black Friday - PCWorld",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmFwQ1BfX1dDeHVmaVpXWmZEaDJoTlpRV19nRE9aZEt6blBVYnB6RjA2bEJteTlCN3I3U0RYVk9xM0JGNXRlR1dHMzF5ZnhpZ1JzRHFxN2xEUTRVZFVuWHhvTzFOazlzVXNvQ0FBeW9FNUNKN2hxOTc2RWV6QS00TmFaajdkY3Bka2VvT29lVDFaOU1RSWNVd0lBVjRRTnlYSDlwY0I1OE0zYmZ5UFBz?oc=5\" target=\"_blank\">My favorite",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmFwQ1BfX1dDeHVmaVpXWmZEaDJoTlpRV19nRE9aZEt6blBVYnB6RjA2bEJteTlCN3I3U0RYVk9xM0JGNXRlR1dHMzF5ZnhpZ1JzRHFxN2xEUTRVZFVuWHhvTzFOazlzVXNvQ0FBeW9FNUNKN2hxOTc2RWV6QS00TmFaajdkY3Bka2VvT29lVDFaOU1RSWNVd0lBVjRRTnlYSDlwY0I1OE0zYmZ5UFBz?oc=5",
+      "published": "Thu, 19 Nov 2026 16:37:23 GMT",
+      "published_iso": "2026-11-19T16:37:23+00:00",
+      "source": "Google News - Competitor Watch",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 83.1,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Shokz"
+        ],
+        "channels": [],
+        "categories": [
+          "open-ear",
+          "headphone"
+        ]
+      },
+      "_score": 275,
+      "display_title": "My favorite Shokz open-ear headphones...",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "title": "Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look - 9to5Google",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnZ0UnBiS1l3alYtUVRFYkR1QTZ0eUppdXoxTndHZzR3TzhFcHJ5RXNJRkRVdGZSN293SzN6MnVJSFZ0b0lFX25qOUtoalY1QzJESXlyeGw4dkNtYXFBbTRJczdfcTFvc1BaZnlCT1I4cGdtYW1hLUVYNDl1M2M5QmRic1VwWm8?oc=5\" target=\"_blank\">Hands-on: Sony’s Walkman-revival USB-C headphones are back in st",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnZ0UnBiS1l3alYtUVRFYkR1QTZ0eUppdXoxTndHZzR3TzhFcHJ5RXNJRkRVdGZSN293SzN6MnVJSFZ0b0lFX25qOUtoalY1QzJESXlyeGw4dkNtYXFBbTRJczdfcTFvc1BaZnlCT1I4cGdtYW1hLUVYNDl1M2M5QmRic1VwWm8?oc=5",
@@ -934,7 +964,7 @@
       "published_iso": "2026-11-20T17:45:00+00:00",
       "source": "Google News - Competitor Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 56.8,
+      "hours_since_published": 57.9,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -963,7 +993,7 @@
       "published_iso": "2026-11-20T15:36:59+00:00",
       "source": "Google News - Audio Wearable Watch",
       "bucket": "consumer_electronics",
-      "hours_since_published": 58.9,
+      "hours_since_published": 60.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -983,36 +1013,6 @@
       "importance": "高",
       "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Free Shokz OpenRun Pro headphones when you buy another pair: Save up to $120 - ZDNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlBsY1FwYWM4Zkt1VHByVkRYS2o3TFJKZnpEYjR4Vy1ldVNYdXUwTGdDRmtrTklscTBFUE54MGZDbWtFc3oxU0l1NVBXc2VodnhMUGpsYXMzX2M1Y0Q4WGpKQXQ5bGVPRHNpTWRJN1htb2ZOeHM4b0Nkd1FBa3NqWTE3Q1hfZw?oc=5\" target=\"_blank\">Free Shokz OpenRun Pro headphones when you buy another pair: Save",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlBsY1FwYWM4Zkt1VHByVkRYS2o3TFJKZnpEYjR4Vy1ldVNYdXUwTGdDRmtrTklscTBFUE54MGZDbWtFc3oxU0l1NVBXc2VodnhMUGpsYXMzX2M1Y0Q4WGpKQXQ5bGVPRHNpTWRJN1htb2ZOeHM4b0Nkd1FBa3NqWTE3Q1hfZw?oc=5",
-      "published": "Thu, 19 Nov 2026 13:15:02 GMT",
-      "published_iso": "2026-11-19T13:15:02+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 85.3,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 227,
-      "display_title": "Free Shokz OpenRun Pro headphones when...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "channel_news": [
@@ -1024,7 +1024,7 @@
       "published_iso": "2026-11-17T20:20:08+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 126.2,
+      "hours_since_published": 127.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1055,7 +1055,7 @@
       "published_iso": "2026-11-19T05:25:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 93.1,
+      "hours_since_published": 94.3,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1084,7 +1084,7 @@
       "published_iso": "2026-11-18T10:08:00+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 112.4,
+      "hours_since_published": 113.6,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1115,7 +1115,7 @@
       "published_iso": "2026-11-20T05:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 69.5,
+      "hours_since_published": 70.7,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1144,7 +1144,7 @@
       "published_iso": "2026-11-16T09:02:40+00:00",
       "source": "Google News - Retail Platforms",
       "bucket": "channel_news",
-      "hours_since_published": 161.5,
+      "hours_since_published": 162.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1173,7 +1173,7 @@
       "published_iso": "2026-11-19T05:00:00+00:00",
       "source": "Modern Retail",
       "bucket": "channel_news",
-      "hours_since_published": 93.5,
+      "hours_since_published": 94.7,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [],
@@ -1204,7 +1204,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 108,
-      "hours_since_published": 57.2,
+      "hours_since_published": 58.4,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [
@@ -1238,7 +1238,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3ZzdoT01PMjlXeW9vTGdFZXZCRXM2dzJnRm9haVh1MldLQnVFTA?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 105,
-      "hours_since_published": 16.3,
+      "hours_since_published": 17.5,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -1272,7 +1272,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdThxQTNxaER1alBHRUkxejE3N3dKZG9sZTV3d0NSTFN6WE52TnNVNlRJczA2Z1hfVXFCU3hvRHVlSk0zV3BLQTFkUXBLa0pMZm84LTVTMjZZNjlaZmZSUGhrS1dGYUxTYmx5aGViZXVEb3ZUQmhTdDhhNnhwOXRCNnd3ei1FMlQ1bGhuRm1ON1Brb0xQd3pWeGk5ejNpN2NYaEs2c2tMbkc0dVE5ajgtOFVEUUZiX0NCb2VFR2U3aWhGWDV5ZDdFci1wRDAtWnFTbjNhWQ?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 83,
-      "hours_since_published": 83.2,
+      "hours_since_published": 84.4,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1305,7 +1305,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjRkN3kyR1FQRmMwXy1Ld2c3SGFCc1pfRHEtXy1WZDVjVk4xTlQ2UlYwNERHaklpNnRPNVgwWWZiSGJrRlFpejNod3F6OHpHTG5PTThLVE1sQUNoTUZIOFZGRVBZSFhvZEw5cGQ4WEVKUTkxX3dGc1pVTk9iNWU1OUVva0NWa0RwZkVCbW5oOXo4UThyRmx2QWJuVFM5S2UxNjBkeVdGRHhHdw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 75,
-      "hours_since_published": 84.6,
+      "hours_since_published": 85.8,
       "freshness_label": "近7天",
       "monitor_hits": {
         "brands": [
@@ -1331,6 +1331,38 @@
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     },
     {
+      "name": "My favorite Shokz open-ear headphones are $80 off for Black Friday - PCWorld",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmFwQ1BfX1dDeHVmaVpXWmZEaDJoTlpRV19nRE9aZEt6blBVYnB6RjA2bEJteTlCN3I3U0RYVk9xM0JGNXRlR1dHMzF5ZnhpZ1JzRHFxN2xEUTRVZFVuWHhvTzFOazlzVXNvQ0FBeW9FNUNKN2hxOTc2RWV6QS00TmFaajdkY3Bka2VvT29lVDFaOU1RSWNVd0lBVj",
+      "date": "Thu, 19 Nov 2026 16:37:23",
+      "published_iso": "2026-11-19T16:37:23+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmFwQ1BfX1dDeHVmaVpXWmZEaDJoTlpRV19nRE9aZEt6blBVYnB6RjA2bEJteTlCN3I3U0RYVk9xM0JGNXRlR1dHMzF5ZnhpZ1JzRHFxN2xEUTRVZFVuWHhvTzFOazlzVXNvQ0FBeW9FNUNKN2hxOTc2RWV6QS00TmFaajdkY3Bka2VvT29lVDFaOU1RSWNVd0lBVjRRTnlYSDlwY0I1OE0zYmZ5UFBz?oc=5",
+      "source": "Google News - Competitor Watch",
+      "_score": 75,
+      "hours_since_published": 83.1,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [
+          "Shokz"
+        ],
+        "channels": [],
+        "categories": [
+          "open-ear",
+          "headphone"
+        ]
+      },
+      "display_title": "My favorite Shokz open-ear headphones...",
+      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+      "tags": [
+        "🎧 耳机音频"
+      ],
+      "impact_area": "品牌营销",
+      "judgement_label": "竞品观察",
+      "product_intro": "<a。",
+      "importance": "中",
+      "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
       "name": "The best bone conduction headphones 2026: enjoy your music without blocking out the world - TechRadar",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5\" target=\"_blank\">The best bone conduction headphones 2",
       "date": "Fri, 20 Nov 2026 15:36:59",
@@ -1338,7 +1370,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
       "source": "Google News - Audio Wearable Watch",
       "_score": 64,
-      "hours_since_published": 58.9,
+      "hours_since_published": 60.1,
       "freshness_label": "近3天",
       "monitor_hits": {
         "brands": [],
@@ -1360,40 +1392,13 @@
       "importance": "低",
       "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "name": "We haven’t seen the last of the major tech outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intell",
-      "date": "2026-11-22T17:48:02-05:00",
-      "published_iso": "2026-11-22T22:48:02+00:00",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "source": "The Verge",
-      "_score": 43,
-      "hours_since_published": 3.7,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": []
-      },
-      "display_title": "We haven’t seen the last of the major...",
-      "display_summary": "Over the last week or so, we have seen a natio",
-      "tags": [
-        "🚀 新品"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "重大事件",
-      "product_intro": "Over the last week or so, we have。",
-      "importance": "低",
-      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "monitored_entities": [
     {
       "name": "headphone",
       "type": "品类",
-      "count": 14,
+      "count": 16,
       "items": [
         {
           "title": "Shokz OpenRun Air 2 Review: I Love This Lightweight Option for Open-Ear Bone Conduction Headphones - Lifehacker",
@@ -1403,7 +1408,7 @@
           "published_iso": "2026-11-20T17:16:43+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 57.2,
+          "hours_since_published": 58.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1435,7 +1440,7 @@
           "published_iso": "2026-11-22T10:10:56+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 16.3,
+          "hours_since_published": 17.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1464,7 +1469,7 @@
     {
       "name": "Shokz",
       "type": "品牌",
-      "count": 7,
+      "count": 9,
       "items": [
         {
           "title": "Shokz OpenRun Air 2 Review: I Love This Lightweight Option for Open-Ear Bone Conduction Headphones - Lifehacker",
@@ -1474,7 +1479,7 @@
           "published_iso": "2026-11-20T17:16:43+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 57.2,
+          "hours_since_published": 58.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1506,7 +1511,7 @@
           "published_iso": "2026-11-22T10:10:56+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 16.3,
+          "hours_since_published": 17.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1529,6 +1534,75 @@
           "importance": "高",
           "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "open-ear",
+      "type": "品类",
+      "count": 6,
+      "items": [
+        {
+          "title": "Shokz OpenRun Air 2 Review: I Love This Lightweight Option for Open-Ear Bone Conduction Headphones - Lifehacker",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5\" target=\"_blank\">Shokz OpenRun Air 2 Review: I Love This Lightweight Option for Open-Ear Bone Conduction Headphones</a>&nbsp;",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5",
+          "published": "Fri, 20 Nov 2026 17:16:43 GMT",
+          "published_iso": "2026-11-20T17:16:43+00:00",
+          "source": "Google News - Audio Wearable Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 58.4,
+          "freshness_label": "近3天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "bone conduction",
+              "headphone"
+            ]
+          },
+          "_score": 348,
+          "display_title": "Shokz OpenRun Air 2 Review: I Love This...",
+          "tags": [
+            "🎧 耳机音频",
+            "🏃 运动穿戴"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+        },
+        {
+          "title": "My favorite Shokz open-ear headphones are $80 off for Black Friday - PCWorld",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmFwQ1BfX1dDeHVmaVpXWmZEaDJoTlpRV19nRE9aZEt6blBVYnB6RjA2bEJteTlCN3I3U0RYVk9xM0JGNXRlR1dHMzF5ZnhpZ1JzRHFxN2xEUTRVZFVuWHhvTzFOazlzVXNvQ0FBeW9FNUNKN2hxOTc2RWV6QS00TmFaajdkY3Bka2VvT29lVDFaOU1RSWNVd0lBVjRRTnlYSDlwY0I1OE0zYmZ5UFBz?oc=5\" target=\"_blank\">My favorite",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmFwQ1BfX1dDeHVmaVpXWmZEaDJoTlpRV19nRE9aZEt6blBVYnB6RjA2bEJteTlCN3I3U0RYVk9xM0JGNXRlR1dHMzF5ZnhpZ1JzRHFxN2xEUTRVZFVuWHhvTzFOazlzVXNvQ0FBeW9FNUNKN2hxOTc2RWV6QS00TmFaajdkY3Bka2VvT29lVDFaOU1RSWNVd0lBVjRRTnlYSDlwY0I1OE0zYmZ5UFBz?oc=5",
+          "published": "Thu, 19 Nov 2026 16:37:23 GMT",
+          "published_iso": "2026-11-19T16:37:23+00:00",
+          "source": "Google News - Competitor Watch",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 83.1,
+          "freshness_label": "近7天",
+          "monitor_hits": {
+            "brands": [
+              "Shokz"
+            ],
+            "channels": [],
+            "categories": [
+              "open-ear",
+              "headphone"
+            ]
+          },
+          "_score": 275,
+          "display_title": "My favorite Shokz open-ear headphones...",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "importance": "高",
+          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
@@ -1545,7 +1619,7 @@
           "published_iso": "2026-11-20T17:16:43+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 57.2,
+          "hours_since_published": 58.4,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [
@@ -1577,7 +1651,7 @@
           "published_iso": "2026-11-22T10:10:56+00:00",
           "source": "Google News - Audio Wearable Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 16.3,
+          "hours_since_published": 17.5,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1604,78 +1678,9 @@
       ]
     },
     {
-      "name": "Best Buy",
-      "type": "渠道",
-      "count": 4,
-      "items": [
-        {
-          "title": "Black Friday store hours 2026: When do doors open at Walmart, Target, Kohl's, Best Buy, Costco and other retailers? - Yahoo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNTDNYam1xT2pYRmg2QmxkUFgzSlc4YVB5QnJZX2M5V1pUbjJ6cmo1X29EWXdUcFh3SXJRQ2xCV29YNjJPYi1JVzAtLXBBTUFsZVBGUTZuaGZPUnJ1eGk1OEVSWEFNd1owa3AtS1gtVWdFWUl3ejhDQ05kaHdzeUtNUGZRT3RCTklkcEtRcWtvc2tldF9IZDhEN2s3MXduWEc2YWEwU0ZWRV9jaTg2YVlmSmZseDVaMTY4bWNTMktoMV9qdjVwNUx5dm",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTDNYam1xT2pYRmg2QmxkUFgzSlc4YVB5QnJZX2M5V1pUbjJ6cmo1X29EWXdUcFh3SXJRQ2xCV29YNjJPYi1JVzAtLXBBTUFsZVBGUTZuaGZPUnJ1eGk1OEVSWEFNd1owa3AtS1gtVWdFWUl3ejhDQ05kaHdzeUtNUGZRT3RCTklkcEtRcWtvc2tldF9IZDhEN2s3MXduWEc2YWEwU0ZWRV9jaTg2YVlmSmZseDVaMTY4bWNTMktoMV9qdjVwNUx5dmJ5MXFoMW5UNDd1WEdvQk5FdnFuWWZiWWY4elVsVEZ4bmdKX3QzSEtRMDlMOGR6QVV6YlpiUno3VXBHS1Q4UlZNdw?oc=5",
-          "published": "Tue, 17 Nov 2026 20:20:08 GMT",
-          "published_iso": "2026-11-17T20:20:08+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 126.2,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "Walmart",
-              "Target",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 444,
-          "display_title": "Black Friday store hours 2026: When do...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Black Friday 2026: Early deals at Target, Best Buy, Amazon - The Providence Journal",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPNGpMN0dpS2MzbzJ6c0JUTWZTX1Ezb0E5TWl5Q0VqZXZHVlY3Mlk1LTgtSHIyWlZaa3Z5RTdrRS1tb0F0NVdjN2Z5S3pUaUJjNGZpMkxmeFFNUDJuUzF3dkhZTnBkcHFTUnJtQUh4dWx0WTgwTElubDRyM2hLcHBsLU1wbU9VaXNpMUxlaGVYejB3UExhQXhyaW1VZ0dNbFpKam9ENjZ2LUtIYzh1cW1XRnR1SVVjeDBDaEs3M0lZSjRPbDk0RDlDX1",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNGpMN0dpS2MzbzJ6c0JUTWZTX1Ezb0E5TWl5Q0VqZXZHVlY3Mlk1LTgtSHIyWlZaa3Z5RTdrRS1tb0F0NVdjN2Z5S3pUaUJjNGZpMkxmeFFNUDJuUzF3dkhZTnBkcHFTUnJtQUh4dWx0WTgwTElubDRyM2hLcHBsLU1wbU9VaXNpMUxlaGVYejB3UExhQXhyaW1VZ0dNbFpKam9ENjZ2LUtIYzh1cW1XRnR1SVVjeDBDaEs3M0lZSjRPbDk0RDlDX1V1WTlNQy1kaENnbGVKY1o4cWZIR1pPUTNObFFyY3F1am54ZkJYTS0xcEhhR2VITGh6bGZjek1wN1pB?oc=5",
-          "published": "Wed, 18 Nov 2026 10:08:00 GMT",
-          "published_iso": "2026-11-18T10:08:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 112.4,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Amazon",
-              "Best Buy",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 306,
-          "display_title": "Black Friday 2026: Early deals at...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
       "name": "Walmart",
       "type": "渠道",
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "Black Friday store hours 2026: When do doors open at Walmart, Target, Kohl's, Best Buy, Costco and other retailers? - Yahoo",
@@ -1685,7 +1690,7 @@
           "published_iso": "2026-11-17T20:20:08+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 126.2,
+          "hours_since_published": 127.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1716,7 +1721,7 @@
           "published_iso": "2026-11-20T05:00:00+00:00",
           "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 69.5,
+          "hours_since_published": 70.7,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [],
@@ -1752,7 +1757,7 @@
           "published_iso": "2026-11-19T05:25:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 93.1,
+          "hours_since_published": 94.3,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1781,7 +1786,7 @@
           "published_iso": "2026-11-18T10:08:00+00:00",
           "source": "Google News - Retail Platforms",
           "bucket": "channel_news",
-          "hours_since_published": 112.4,
+          "hours_since_published": 113.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
@@ -1807,75 +1812,71 @@
       ]
     },
     {
-      "name": "open-ear",
-      "type": "品类",
-      "count": 4,
+      "name": "Best Buy",
+      "type": "渠道",
+      "count": 3,
       "items": [
         {
-          "title": "Shokz OpenRun Air 2 Review: I Love This Lightweight Option for Open-Ear Bone Conduction Headphones - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5\" target=\"_blank\">Shokz OpenRun Air 2 Review: I Love This Lightweight Option for Open-Ear Bone Conduction Headphones</a>&nbsp;",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5",
-          "published": "Fri, 20 Nov 2026 17:16:43 GMT",
-          "published_iso": "2026-11-20T17:16:43+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 57.2,
-          "freshness_label": "近3天",
+          "title": "Black Friday store hours 2026: When do doors open at Walmart, Target, Kohl's, Best Buy, Costco and other retailers? - Yahoo",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNTDNYam1xT2pYRmg2QmxkUFgzSlc4YVB5QnJZX2M5V1pUbjJ6cmo1X29EWXdUcFh3SXJRQ2xCV29YNjJPYi1JVzAtLXBBTUFsZVBGUTZuaGZPUnJ1eGk1OEVSWEFNd1owa3AtS1gtVWdFWUl3ejhDQ05kaHdzeUtNUGZRT3RCTklkcEtRcWtvc2tldF9IZDhEN2s3MXduWEc2YWEwU0ZWRV9jaTg2YVlmSmZseDVaMTY4bWNTMktoMV9qdjVwNUx5dm",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTDNYam1xT2pYRmg2QmxkUFgzSlc4YVB5QnJZX2M5V1pUbjJ6cmo1X29EWXdUcFh3SXJRQ2xCV29YNjJPYi1JVzAtLXBBTUFsZVBGUTZuaGZPUnJ1eGk1OEVSWEFNd1owa3AtS1gtVWdFWUl3ejhDQ05kaHdzeUtNUGZRT3RCTklkcEtRcWtvc2tldF9IZDhEN2s3MXduWEc2YWEwU0ZWRV9jaTg2YVlmSmZseDVaMTY4bWNTMktoMV9qdjVwNUx5dmJ5MXFoMW5UNDd1WEdvQk5FdnFuWWZiWWY4elVsVEZ4bmdKX3QzSEtRMDlMOGR6QVV6YlpiUno3VXBHS1Q4UlZNdw?oc=5",
+          "published": "Tue, 17 Nov 2026 20:20:08 GMT",
+          "published_iso": "2026-11-17T20:20:08+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 127.4,
+          "freshness_label": "近7天",
           "monitor_hits": {
-            "brands": [
-              "Shokz"
+            "brands": [],
+            "channels": [
+              "Best Buy",
+              "Walmart",
+              "Target",
+              "Costco"
             ],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "bone conduction",
-              "headphone"
-            ]
+            "categories": []
           },
-          "_score": 348,
-          "display_title": "Shokz OpenRun Air 2 Review: I Love This...",
+          "_score": 444,
+          "display_title": "Black Friday store hours 2026: When do...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🛒 渠道零售",
+            "🏬 平台电商"
           ],
-          "impact_area": "品牌营销",
+          "impact_area": "电商",
           "importance": "高",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "name": "Shokz OpenRun Air 2 Review: I Love This Lightweight Option for Open-Ear Bone Conduction Headphones - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5\" target=\"_blank\">Shokz OpenRun Air 2 Review: I Love This Lightwei",
-          "date": "Fri, 20 Nov 2026 17:16:43",
-          "published_iso": "2026-11-20T17:16:43+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGI4c1oxMkVCOE0wQ3lEU2pwWmhBTTNxTVQwemhvNnNzZldlZkNwWG5ZZ3BPNERnQzF3S2FKRkpreVdqSDNRR2U1dk9qQ1c2amJOeWstNGdpS0RhNUxFUFBtcjhjbjQ?oc=5",
-          "source": "Google News - Audio Wearable Watch",
-          "_score": 108,
-          "hours_since_published": 57.2,
-          "freshness_label": "近3天",
+          "title": "Black Friday 2026: Early deals at Target, Best Buy, Amazon - The Providence Journal",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPNGpMN0dpS2MzbzJ6c0JUTWZTX1Ezb0E5TWl5Q0VqZXZHVlY3Mlk1LTgtSHIyWlZaa3Z5RTdrRS1tb0F0NVdjN2Z5S3pUaUJjNGZpMkxmeFFNUDJuUzF3dkhZTnBkcHFTUnJtQUh4dWx0WTgwTElubDRyM2hLcHBsLU1wbU9VaXNpMUxlaGVYejB3UExhQXhyaW1VZ0dNbFpKam9ENjZ2LUtIYzh1cW1XRnR1SVVjeDBDaEs3M0lZSjRPbDk0RDlDX1",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNGpMN0dpS2MzbzJ6c0JUTWZTX1Ezb0E5TWl5Q0VqZXZHVlY3Mlk1LTgtSHIyWlZaa3Z5RTdrRS1tb0F0NVdjN2Z5S3pUaUJjNGZpMkxmeFFNUDJuUzF3dkhZTnBkcHFTUnJtQUh4dWx0WTgwTElubDRyM2hLcHBsLU1wbU9VaXNpMUxlaGVYejB3UExhQXhyaW1VZ0dNbFpKam9ENjZ2LUtIYzh1cW1XRnR1SVVjeDBDaEs3M0lZSjRPbDk0RDlDX1V1WTlNQy1kaENnbGVKY1o4cWZIR1pPUTNObFFyY3F1am54ZkJYTS0xcEhhR2VITGh6bGZjek1wN1pB?oc=5",
+          "published": "Wed, 18 Nov 2026 10:08:00 GMT",
+          "published_iso": "2026-11-18T10:08:00+00:00",
+          "source": "Google News - Retail Platforms",
+          "bucket": "channel_news",
+          "hours_since_published": 113.6,
+          "freshness_label": "近7天",
           "monitor_hits": {
-            "brands": [
-              "Shokz"
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Best Buy",
+              "Target"
             ],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "bone conduction",
-              "headphone"
-            ]
+            "categories": []
           },
-          "display_title": "Shokz OpenRun Air 2 Review: I Love This...",
-          "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+          "_score": 306,
+          "display_title": "Black Friday 2026: Early deals at...",
           "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "💰 价格促销"
           ],
-          "impact_area": "品牌营销",
-          "judgement_label": "竞品观察",
-          "product_intro": "<a。",
-          "importance": "中",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     },
@@ -1892,7 +1893,7 @@
           "published_iso": "2026-11-19T10:02:59+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 88.5,
+          "hours_since_published": 89.6,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [
@@ -1923,7 +1924,7 @@
           "published_iso": "2026-11-20T17:45:00+00:00",
           "source": "Google News - Competitor Watch",
           "bucket": "consumer_electronics",
-          "hours_since_published": 56.8,
+          "hours_since_published": 57.9,
           "freshness_label": "近3天",
           "monitor_hits": {
             "brands": [

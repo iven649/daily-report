@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27 12:59:36 CST",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28 11:50:25 CST",
   "market_focus": "美国优先，中国次之",
   "openai_enabled": true,
   "festival_cards": [
@@ -15,7 +15,7 @@
       "day": 25,
       "icon": "🎄",
       "date": "2026-12-25",
-      "countdown": 28,
+      "countdown": 27,
       "year": 2026,
       "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -44,7 +44,7 @@
       "day": 14,
       "icon": "❤️",
       "date": "2027-02-14",
-      "countdown": 79,
+      "countdown": 78,
       "year": 2027,
       "origin": "情人节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -63,33 +63,6 @@
       "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
     },
     {
-      "slug": "black-friday",
-      "name": "黑五",
-      "market": "ECOM",
-      "type": "campaign",
-      "priority": 5,
-      "rule": "relative_to",
-      "ref_slug": "thanksgiving",
-      "offset_days": 1,
-      "icon": "🖤",
-      "date": "2026-11-27",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "黑五是重要的电商营销节点。",
-      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
-      "customs": [
-        "平台大促",
-        "价格竞争",
-        "流量冲刺"
-      ],
-      "consumption": [
-        "折扣活动",
-        "广告投放",
-        "库存与履约"
-      ],
-      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
-    },
-    {
       "slug": "cyber-monday",
       "name": "网一",
       "market": "ECOM",
@@ -100,63 +73,7 @@
       "offset_days": 4,
       "icon": "💻",
       "date": "2026-11-30",
-      "countdown": 3,
-      "year": 2026,
-      "origin": "网一是重要的电商营销节点。",
-      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
-      "customs": [
-        "平台大促",
-        "价格竞争",
-        "流量冲刺"
-      ],
-      "consumption": [
-        "折扣活动",
-        "广告投放",
-        "库存与履约"
-      ],
-      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
-    }
-  ],
-  "festival_pages": [
-    {
-      "slug": "black-friday",
-      "name": "黑五",
-      "market": "ECOM",
-      "type": "campaign",
-      "priority": 5,
-      "rule": "relative_to",
-      "ref_slug": "thanksgiving",
-      "offset_days": 1,
-      "icon": "🖤",
-      "date": "2026-11-27",
-      "countdown": 0,
-      "year": 2026,
-      "origin": "黑五是重要的电商营销节点。",
-      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
-      "customs": [
-        "平台大促",
-        "价格竞争",
-        "流量冲刺"
-      ],
-      "consumption": [
-        "折扣活动",
-        "广告投放",
-        "库存与履约"
-      ],
-      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
-    },
-    {
-      "slug": "cyber-monday",
-      "name": "网一",
-      "market": "ECOM",
-      "type": "campaign",
-      "priority": 5,
-      "rule": "relative_to",
-      "ref_slug": "thanksgiving",
-      "offset_days": 4,
-      "icon": "💻",
-      "date": "2026-11-30",
-      "countdown": 3,
+      "countdown": 2,
       "year": 2026,
       "origin": "网一是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -183,7 +100,63 @@
       "day": 12,
       "icon": "🧾",
       "date": "2026-12-12",
-      "countdown": 15,
+      "countdown": 14,
+      "year": 2026,
+      "origin": "双12是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    }
+  ],
+  "festival_pages": [
+    {
+      "slug": "cyber-monday",
+      "name": "网一",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 5,
+      "rule": "relative_to",
+      "ref_slug": "thanksgiving",
+      "offset_days": 4,
+      "icon": "💻",
+      "date": "2026-11-30",
+      "countdown": 2,
+      "year": 2026,
+      "origin": "网一是重要的电商营销节点。",
+      "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
+      "customs": [
+        "平台大促",
+        "价格竞争",
+        "流量冲刺"
+      ],
+      "consumption": [
+        "折扣活动",
+        "广告投放",
+        "库存与履约"
+      ],
+      "holiday": "属于营销节点，具体强度以平台和品牌策略为准。"
+    },
+    {
+      "slug": "double-12",
+      "name": "双12",
+      "market": "ECOM",
+      "type": "campaign",
+      "priority": 4,
+      "rule": "fixed",
+      "month": 12,
+      "day": 12,
+      "icon": "🧾",
+      "date": "2026-12-12",
+      "countdown": 14,
       "year": 2026,
       "origin": "双12是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -210,7 +183,7 @@
       "day": 25,
       "icon": "🎄",
       "date": "2026-12-25",
-      "countdown": 28,
+      "countdown": 27,
       "year": 2026,
       "origin": "圣诞节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -239,7 +212,7 @@
       "day": 14,
       "icon": "❤️",
       "date": "2027-02-14",
-      "countdown": 79,
+      "countdown": 78,
       "year": 2027,
       "origin": "情人节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -268,7 +241,7 @@
       "day": 17,
       "icon": "🧧",
       "date": "2027-02-17",
-      "countdown": 82,
+      "countdown": 81,
       "year": 2027,
       "origin": "春节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -295,7 +268,7 @@
       "day": 3,
       "icon": "🏮",
       "date": "2027-03-03",
-      "countdown": 96,
+      "countdown": 95,
       "year": 2027,
       "origin": "元宵节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -320,7 +293,7 @@
       "rule": "easter",
       "icon": "🥚",
       "date": "2027-03-28",
-      "countdown": 121,
+      "countdown": 120,
       "year": 2027,
       "origin": "复活节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -349,7 +322,7 @@
       "day": 4,
       "icon": "🌿",
       "date": "2027-04-04",
-      "countdown": 128,
+      "countdown": 127,
       "year": 2027,
       "origin": "清明节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -376,7 +349,7 @@
       "day": 1,
       "icon": "🛠️",
       "date": "2027-05-01",
-      "countdown": 155,
+      "countdown": 154,
       "year": 2027,
       "origin": "劳动节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -404,7 +377,7 @@
       "nth": 2,
       "icon": "🌸",
       "date": "2027-05-09",
-      "countdown": 163,
+      "countdown": 162,
       "year": 2027,
       "origin": "母亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -434,7 +407,7 @@
       "nth": -1,
       "icon": "🇺🇸",
       "date": "2027-05-31",
-      "countdown": 185,
+      "countdown": 184,
       "year": 2027,
       "origin": "Memorial Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -463,7 +436,7 @@
       "day": 18,
       "icon": "📦",
       "date": "2027-06-18",
-      "countdown": 203,
+      "countdown": 202,
       "year": 2027,
       "origin": "618是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -490,7 +463,7 @@
       "day": 19,
       "icon": "🚣",
       "date": "2027-06-19",
-      "countdown": 204,
+      "countdown": 203,
       "year": 2027,
       "origin": "端午节是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -518,7 +491,7 @@
       "nth": 3,
       "icon": "👔",
       "date": "2027-06-20",
-      "countdown": 205,
+      "countdown": 204,
       "year": 2027,
       "origin": "父亲节是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -547,7 +520,7 @@
       "day": 4,
       "icon": "🎆",
       "date": "2027-07-04",
-      "countdown": 219,
+      "countdown": 218,
       "year": 2027,
       "origin": "独立日是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -576,7 +549,7 @@
       "day": 15,
       "icon": "⚡",
       "date": "2027-07-15",
-      "countdown": 230,
+      "countdown": 229,
       "year": 2027,
       "origin": "Prime Day是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -603,7 +576,7 @@
       "day": 15,
       "icon": "🎒",
       "date": "2027-08-15",
-      "countdown": 261,
+      "countdown": 260,
       "year": 2027,
       "origin": "返校季是重要的电商营销节点。",
       "story": "建议关注价格带变化、平台规则、广告竞争与库存节奏。",
@@ -630,7 +603,7 @@
       "day": 19,
       "icon": "💗",
       "date": "2027-08-19",
-      "countdown": 265,
+      "countdown": 264,
       "year": 2027,
       "origin": "七夕是中国的重要节日或营销节点。",
       "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
@@ -658,7 +631,7 @@
       "nth": 1,
       "icon": "🛍️",
       "date": "2027-09-06",
-      "countdown": 283,
+      "countdown": 282,
       "year": 2027,
       "origin": "Labor Day是美国市场的重要节日或零售节点。",
       "story": "建议重点关注零售节奏、礼赠需求、平台流量与线下客流变化。",
@@ -675,6 +648,33 @@
         "零售门店活动"
       ],
       "holiday": "具体活动强度以当年零售商、平台和品牌节奏为准。"
+    },
+    {
+      "slug": "mid-autumn",
+      "name": "中秋节",
+      "market": "CN",
+      "type": "traditional",
+      "priority": 5,
+      "rule": "fixed",
+      "month": 9,
+      "day": 25,
+      "icon": "🌕",
+      "date": "2027-09-25",
+      "countdown": 301,
+      "year": 2027,
+      "origin": "中秋节是中国的重要节日或营销节点。",
+      "story": "可作为出海品牌供应链、内容营销和市场情绪的参考。",
+      "customs": [
+        "节前备货",
+        "礼赠需求",
+        "节庆促销"
+      ],
+      "consumption": [
+        "礼品零售",
+        "出行相关",
+        "节庆营销"
+      ],
+      "holiday": "当前页面以北美业务为主，中国节点仅作辅助参考。"
     }
   ],
   "us_timezones": [
@@ -704,265 +704,48 @@
     }
   ],
   "lead_story": {
-    "title": "Black Friday store hours 2026: When do major retailers like Walmart, Target, Kohl's, Macy's, Best Buy, Costco open for shopping? - Yahoo",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucG",
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucGJvdGIyaG9IYnBpVVg5OG5DRU9KSklrNUZWckNWR2dscWxlXzhCSEJvYlkyTEowMjFuN3pCSFRVSkNrWmktdjdJM3c4UkI2TDJaa3NibWtq?oc=5",
-    "published": "Mon, 23 Nov 2026 23:09:51 GMT",
-    "published_iso": "2026-11-23T23:09:51+00:00",
-    "source": "Google News - Retail Platforms",
-    "bucket": "channel_news",
-    "hours_since_published": 77.8,
-    "freshness_label": "近7天",
+    "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+    "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, B",
+    "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+    "published": "2026-11-27T18:32:00-05:00",
+    "published_iso": "2026-11-27T23:32:00+00:00",
+    "source": "The Verge",
+    "bucket": "consumer_electronics",
+    "hours_since_published": 4.3,
+    "freshness_label": "24h内",
     "monitor_hits": {
-      "brands": [],
-      "channels": [
-        "Best Buy",
-        "Walmart",
-        "Target",
-        "Costco"
+      "brands": [
+        "Sony"
       ],
-      "categories": []
+      "channels": [
+        "Amazon"
+      ],
+      "categories": [
+        "headphone"
+      ]
     },
-    "_score": 444,
-    "display_title": "Black Friday store hours 2026: When do...",
+    "_score": 309,
+    "display_title": "Sony’s 1000XM4C headphones are a Black...",
     "tags": [
-      "🛒 渠道零售",
+      "🎧 耳机音频",
       "🏬 平台电商"
     ],
     "impact_area": "电商",
     "importance": "高",
-    "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
+    "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
     "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
   },
   "lead_summary": "北美平台与零售动态仍是今天最值得跟进的外部信号。",
   "headline_trio": [
     {
-      "title": "Black Friday store hours 2026: When do major retailers like Walmart, Target, Kohl's, Macy's, Best Buy, Costco open for shopping? - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucG",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucGJvdGIyaG9IYnBpVVg5OG5DRU9KSklrNUZWckNWR2dscWxlXzhCSEJvYlkyTEowMjFuN3pCSFRVSkNrWmktdjdJM3c4UkI2TDJaa3NibWtq?oc=5",
-      "published": "Mon, 23 Nov 2026 23:09:51 GMT",
-      "published_iso": "2026-11-23T23:09:51+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 77.8,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy",
-          "Walmart",
-          "Target",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 444,
-      "display_title": "Black Friday store hours 2026: When do...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Why Walmart and Amazon keep expanding subscription partnerships - Chain Store Age",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5\" target=\"_blank\">Why Walmart and Amazon keep expanding subscripti",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5",
-      "published": "Fri, 20 Nov 2026 13:34:03 GMT",
-      "published_iso": "2026-11-20T13:34:03+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 159.4,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 342,
-      "display_title": "Why Walmart and Amazon keep expanding...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Alabama Black Friday 2026: What times do Walmart, Target, Best Buy open? - AL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE5LZHZId1NkQVprbUZPQkxTOWx3ZmN6OTNVMWcwNlEwTXZrSHRDS0YyWVpVMWxQVDVCRC1KRHVmM3N0cmZsX0hJbklXRUZZbDQ0djNDbllXbU5CN0lEZ2xNSW1uU2E0Nktkd29DT3daRjlzbUlFVkNiNTduV1VwOFFzREZXU2R6b3E2cUZENnM2Q19qUlZ2NmdmTHRPRjBzUnJVR0kyS1HSAbwBQVVfeXFMTXBLRWZkQU56OUpXVEs1NE5jVi1HSG",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE5LZHZId1NkQVprbUZPQkxTOWx3ZmN6OTNVMWcwNlEwTXZrSHRDS0YyWVpVMWxQVDVCRC1KRHVmM3N0cmZsX0hJbklXRUZZbDQ0djNDbllXbU5CN0lEZ2xNSW1uU2E0Nktkd29DT3daRjlzbUlFVkNiNTduV1VwOFFzREZXU2R6b3E2cUZENnM2Q19qUlZ2NmdmTHRPRjBzUnJVR0kyS1HSAbwBQVVfeXFMTXBLRWZkQU56OUpXVEs1NE5jVi1HSG5tNy15dTZ0SWlNNlJReHVFYktzczlsdW1WYTVKTGQxZHVRRWxkdVpZWmtydDZFRHBSUWhPcVdlSXd6QmM0ZkluVzlPVEJtWURLUFBRQlpoMFZYaE54THJaUVNKOHNmdXR2dkZFdFo3WFNQRnpVa2VTbzZOaUxjSU9pdmNSUGRTLVJrSEI2NER2ejRPVUtOQ0R2RWRxN3dBejFHTHhJd1o?oc=5",
-      "published": "Wed, 25 Nov 2026 15:14:00 GMT",
-      "published_iso": "2026-11-25T15:14:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 37.8,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy",
-          "Walmart",
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 321,
-      "display_title": "Alabama Black Friday 2026: What times...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    }
-  ],
-  "consumer_electronics": [
-    {
-      "title": "Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5\" target=\"_blank\">Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5",
-      "published": "Mon, 23 Nov 2026 22:00:00 GMT",
-      "published_iso": "2026-11-23T22:00:00+00:00",
-      "source": "Google News - Audio Wearable Watch",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, B",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "published": "2026-11-27T18:32:00-05:00",
+      "published_iso": "2026-11-27T23:32:00+00:00",
+      "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 79.0,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz",
-          "Bose"
-        ],
-        "channels": [],
-        "categories": [
-          "open-ear",
-          "earbuds"
-        ]
-      },
-      "_score": 297,
-      "display_title": "Best Open Earbuds for 2026: Top Picks...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "Shokz / Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "These Beats Solo 4 Headphones Are 50% Off at Walmart for Black Friday - Lifehacker",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQR05aNmdqTUJzMEtjRGU3M1FfdkEwcHp5T0ZKZ0xDbmdQNUtJZlpKVnBYSmdMZzJ6SUFDaFdoelR5T1Z5LTQtV1lLRGl6WXBhZlVNekhWVWM5eXB0Y0VMUk1kTHBsRDcxS3JOcTcxOTFjSHBlYldGVjl3RnlRWXd1R1lCUzBmUjlaLVE?oc=5\" target=\"_blank\">These Beats Solo 4 Headphones Are 50% Off at Walmart for Bla",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR05aNmdqTUJzMEtjRGU3M1FfdkEwcHp5T0ZKZ0xDbmdQNUtJZlpKVnBYSmdMZzJ6SUFDaFdoelR5T1Z5LTQtV1lLRGl6WXBhZlVNekhWVWM5eXB0Y0VMUk1kTHBsRDcxS3JOcTcxOTFjSHBlYldGVjl3RnlRWXd1R1lCUzBmUjlaLVE?oc=5",
-      "published": "Fri, 27 Nov 2026 02:14:51 GMT",
-      "published_iso": "2026-11-27T02:14:51+00:00",
-      "source": "Google News - Competitor Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 2.7,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [
-          "Beats"
-        ],
-        "channels": [
-          "Walmart"
-        ],
-        "categories": [
-          "headphone"
-        ]
-      },
-      "_score": 289,
-      "display_title": "These Beats Solo 4 Headphones Are 50%...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "There are loads of Shokz bone conduction headphones deals this Black Friday — here are the best I've seen from $90 - Tom's Guide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3Zz",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3ZzdoT01PMjlXeW9vTGdFZXZCRXM2dzJnRm9haVh1MldLQnVFTA?oc=5",
-      "published": "Sun, 22 Nov 2026 10:10:56 GMT",
-      "published_iso": "2026-11-22T10:10:56+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 114.8,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "_score": 275,
-      "display_title": "There are loads of Shokz bone...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "The best running headphones 2026: find your match, from earbuds to bone conduction - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVE5UWndiS3ZEdnNDNklwNUhRcHJDTGlVS2JBMVBMWDdvUnQxQ2tObjB0X3ZuSWZ2aWhwaWRqYnJJRXFsZjgzelZkZTg5b25hcDdUaktTblBibHgzc25KX2d3ODk?oc=5\" target=\"_blank\">The best running headphones 2026: find your match, from earbuds to bone conduction</a>&nbsp;&nbsp;<font color=\"#",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVE5UWndiS3ZEdnNDNklwNUhRcHJDTGlVS2JBMVBMWDdvUnQxQ2tObjB0X3ZuSWZ2aWhwaWRqYnJJRXFsZjgzelZkZTg5b25hcDdUaktTblBibHgzc25KX2d3ODk?oc=5",
-      "published": "Tue, 24 Nov 2026 14:52:15 GMT",
-      "published_iso": "2026-11-24T14:52:15+00:00",
-      "source": "Google News - Audio Wearable Watch",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 62.1,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "earbuds",
-          "headphone"
-        ]
-      },
-      "_score": 274,
-      "display_title": "The best running headphones 2026: find...",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "importance": "高",
-      "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "title": "Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds",
-      "summary": "Sony's low-latency gaming earbuds are 38% off on Amazon in all three colors, matching their lowest price.",
-      "url": "https://www.androidauthority.com/sony-inzone-buds-black-friday-deal-3739518/",
-      "published": "Thu, 26 Nov 2026 17:59:58 +0000",
-      "published_iso": "2026-11-26T17:59:58+00:00",
-      "source": "Android Authority",
-      "bucket": "consumer_electronics",
-      "hours_since_published": 11.0,
+      "hours_since_published": 4.3,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
@@ -972,15 +755,14 @@
           "Amazon"
         ],
         "categories": [
-          "earbuds"
+          "headphone"
         ]
       },
-      "_score": 259,
-      "display_title": "Game anywhere with $92 off Sony’s...",
+      "_score": 309,
+      "display_title": "Sony’s 1000XM4C headphones are a Black...",
       "tags": [
         "🎧 耳机音频",
-        "🏬 平台电商",
-        "💰 价格促销"
+        "🏬 平台电商"
       ],
       "impact_area": "电商",
       "importance": "高",
@@ -988,15 +770,504 @@
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look - 9to5Google",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPOEotRzZEbUdjV0cyRGQ0Um1Ob1RtdzlMb25VMFZQeEtVNVl2Tnd6aFZpblpVdzd0LVRReGlDTy1XZlVLLXhadVVYa2EwVE9jTDJOVmZsbmViY2R4dzE5XzVmWGo2WVVrS2JJWkNUVzVkeXpseFZCS0tMcjFGWjUtUl9Ib2FOVm8?oc=5\" target=\"_blank\">Hands-on: Sony’s Walkman-revival USB-C headphones are back in st",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOEotRzZEbUdjV0cyRGQ0Um1Ob1RtdzlMb25VMFZQeEtVNVl2Tnd6aFZpblpVdzd0LVRReGlDTy1XZlVLLXhadVVYa2EwVE9jTDJOVmZsbmViY2R4dzE5XzVmWGo2WVVrS2JJWkNUVzVkeXpseFZCS0tMcjFGWjUtUl9Ib2FOVm8?oc=5",
-      "published": "Tue, 24 Nov 2026 18:41:00 GMT",
-      "published_iso": "2026-11-24T18:41:00+00:00",
-      "source": "Google News - Competitor Watch",
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "published": "2026-11-27T17:30:00-05:00",
+      "published_iso": "2026-11-27T22:30:00+00:00",
+      "source": "The Verge",
       "bucket": "consumer_electronics",
-      "hours_since_published": 58.3,
-      "freshness_label": "近3天",
+      "hours_since_published": 5.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 209,
+      "display_title": "The new iPad Mini is getting its first...",
+      "tags": [
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99",
+      "summary": "Save $350 on the 51mm Garmin fenix 8 Pro, which adds LTE and satellite messaging to Garmin's rugged AMOLED watch.",
+      "url": "https://www.androidauthority.com/garmin-fenix-8-pro-51mm-deal-3741055/",
+      "published": "Fri, 27 Nov 2026 21:30:50 +0000",
+      "published_iso": "2026-11-27T21:30:50+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 6.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Garmin"
+        ],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 209,
+      "display_title": "Garmin’s fenix 8 Pro smartwatch drops...",
+      "tags": [
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Garmin相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    }
+  ],
+  "consumer_electronics": [
+    {
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, B",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "published": "2026-11-27T18:32:00-05:00",
+      "published_iso": "2026-11-27T23:32:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 4.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Sony"
+        ],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": [
+          "headphone"
+        ]
+      },
+      "_score": 309,
+      "display_title": "Sony’s 1000XM4C headphones are a Black...",
+      "tags": [
+        "🎧 耳机音频",
+        "🏬 平台电商"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "published": "2026-11-27T17:30:00-05:00",
+      "published_iso": "2026-11-27T22:30:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 5.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "_score": 209,
+      "display_title": "The new iPad Mini is getting its first...",
+      "tags": [
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99",
+      "summary": "Save $350 on the 51mm Garmin fenix 8 Pro, which adds LTE and satellite messaging to Garmin's rugged AMOLED watch.",
+      "url": "https://www.androidauthority.com/garmin-fenix-8-pro-51mm-deal-3741055/",
+      "published": "Fri, 27 Nov 2026 21:30:50 +0000",
+      "published_iso": "2026-11-27T21:30:50+00:00",
+      "source": "Android Authority",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 6.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Garmin"
+        ],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 209,
+      "display_title": "Garmin’s fenix 8 Pro smartwatch drops...",
+      "tags": [
+        "🏃 运动穿戴"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "Garmin相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    },
+    {
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "published": "2026-11-27T22:30:00-05:00",
+      "published_iso": "2026-11-28T03:30:00+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 0.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 207,
+      "display_title": "The M5 MacBook Air just got its biggest...",
+      "tags": [
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "The absolute best Black Friday deals you can still get",
+      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "published": "2026-11-27T22:28:32-05:00",
+      "published_iso": "2026-11-28T03:28:32+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 0.4,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": [
+          "earbuds"
+        ]
+      },
+      "_score": 201,
+      "display_title": "The absolute best Black Friday deals...",
+      "tags": [
+        "🎧 耳机音频",
+        "🛒 渠道零售",
+        "🚀 新品发布"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's calle",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "published": "2026-11-27T19:02:49-05:00",
+      "published_iso": "2026-11-28T00:02:49+00:00",
+      "source": "The Verge",
+      "bucket": "consumer_electronics",
+      "hours_since_published": 3.8,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 167,
+      "display_title": "This purple electric Chinese minivan...",
+      "tags": [
+        "🚀 新品发布"
+      ],
+      "impact_area": "品牌营销",
+      "importance": "高",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
+    }
+  ],
+  "channel_news": [
+    {
+      "title": "How Dibs Beauty uses heat maps to optimize its Ulta Beauty presence",
+      "summary": "Selling exclusively through Ulta Beauty and direct-to-consumer, Dibs Beauty has set up heat maps that track individual product sales based on where they sit on its in-store endcaps, as well as overall retail sales by U.S. region, down to the county. Doing so has resulted in “at least” a double-digit lift in cost-effici",
+      "url": "https://www.modernretail.co/operations/how-dibs-beauty-uses-heat-maps-to-optimize-its-ulta-beauty-presence/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Mon, 23 Nov 2026 17:05:05 +0000",
+      "published_iso": "2026-11-23T17:05:05+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 106.8,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 199,
+      "display_title": "How Dibs Beauty uses heat maps to...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
+    },
+    {
+      "title": "Best Buy sales outperform even as computing gets more expensive",
+      "summary": "As memory prices crept up, Best Buy’s computing sales held the line this quarter, propped up by horsepower needs for gaming and artificial intelligence.",
+      "url": "https://www.modernretail.co/operations/best-buy-customers-undeterred-by-rising-prices/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Tue, 24 Nov 2026 18:28:03 +0000",
+      "published_iso": "2026-11-24T18:28:03+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 81.4,
+      "freshness_label": "近7天",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "_score": 192,
+      "display_title": "Best Buy sales outperform even as...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Big-Box Briefing: Target faces off with Trader Joe’s, Quince and HomeGoods",
+      "summary": "Target’s third-quarter earnings, released on Wednesday, gave investors confidence that it’s finding its footing under CEO Michael Fiddelke, who stepped into the role in February. But analysts’ praise for the retailer’s performance has come with caveats.",
+      "url": "https://www.modernretail.co/operations/big-box-briefing-targets-retail-reset-means-facing-off-with-trader-joes-quince-and-homegoods/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Fri, 20 Nov 2026 14:30:00 +0000",
+      "published_iso": "2026-11-20T14:30:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 181.3,
+      "freshness_label": "较早内容",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Target"
+        ],
+        "categories": []
+      },
+      "_score": 180,
+      "display_title": "Big-Box Briefing: Target faces off with...",
+      "tags": [
+        "🛒 渠道零售",
+        "🏬 平台电商",
+        "🚀 新品发布"
+      ],
+      "impact_area": "电商",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "title": "Brands and retailers are taking a full-funnel approach to Reddit holiday advertising this BFCM",
+      "summary": "Advertisers have run ads on Reddit for years, but more and more, they're using the platform as a full-funnel tool for the holidays. Here's how American Eagle, Lowe's, Kohl's and others are approaching Reddit ads this season.",
+      "url": "https://www.modernretail.co/marketing/brands-and-retailers-are-taking-a-full-funnel-approach-to-reddit-holiday-advertising-this-bfcm/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Fri, 27 Nov 2026 05:00:00 +0000",
+      "published_iso": "2026-11-27T05:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 22.8,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 179,
+      "display_title": "Brands and retailers are taking a...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
+    },
+    {
+      "title": "How Ring Concierge is using the loose diamond social media trend to funnel buyers to its own channels",
+      "summary": "Online diamond and jewelry brand Ring Concierge saw the appeal of the loose diamond trend for its customers, but wanted to offer something that was more intentional, more trustworthy and not tied to another platform like TikTok or eBay.",
+      "url": "https://www.modernretail.co/marketing/how-ring-concierge-is-using-the-loose-diamond-social-media-trend-to-funnel-buyers-to-its-own-channels/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Fri, 27 Nov 2026 05:00:00 +0000",
+      "published_iso": "2026-11-27T05:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 22.8,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 163,
+      "display_title": "How Ring Concierge is using the loose...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
+    },
+    {
+      "title": "On is making a bigger play for American shoppers, one store at a time",
+      "summary": "Swiss sportswear brand On is gearing up for a bigger U.S. retail push, with nine new stateside stores in 2026 alone.",
+      "url": "https://www.modernretail.co/operations/on-is-making-a-bigger-play-for-american-shoppers-one-store-at-a-time/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "published": "Fri, 20 Nov 2026 05:00:00 +0000",
+      "published_iso": "2026-11-20T05:00:00+00:00",
+      "source": "Modern Retail",
+      "bucket": "channel_news",
+      "hours_since_published": 190.8,
+      "freshness_label": "较早内容",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [],
+        "categories": []
+      },
+      "_score": 157,
+      "display_title": "On is making a bigger play for American...",
+      "tags": [
+        "🛒 渠道零售"
+      ],
+      "impact_area": "渠道销售",
+      "importance": "高",
+      "business_note": "该条内容与渠道销售相关，建议作为北美业务观察样本继续跟踪。",
+      "suggested_action": "跟进渠道伙伴与零售侧变化，评估是否影响铺货与合作沟通。"
+    }
+  ],
+  "products": [
+    {
+      "name": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon",
+      "summary": "Shokz's open-ear earbuds with Dolby Audio and wireless charging are 50% off, matching their lowest price.",
+      "date": "Fri, 27 Nov 2026 14:28:44",
+      "published_iso": "2026-11-27T14:28:44+00:00",
+      "url": "https://www.androidauthority.com/shokz-openfit-2-plus-deal-3740882/",
+      "source": "Android Authority",
+      "_score": 145,
+      "hours_since_published": 13.4,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [
+          "Shokz"
+        ],
+        "channels": [
+          "Amazon"
+        ],
+        "categories": [
+          "open-ear",
+          "earbuds"
+        ]
+      },
+      "display_title": "Shokz OpenFit 2 Plus open-ear earbuds...",
+      "display_summary": "Shokz's open-ear earbuds with Dolby Audio and ",
+      "tags": [
+        "🎧 耳机音频",
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "judgement_label": "渠道动态",
+      "product_intro": "Shokz's open-ear earbuds with Dolby。",
+      "importance": "高",
+      "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "name": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, w",
+      "date": "2026-11-27T22:30:00-05:00",
+      "published_iso": "2026-11-28T03:30:00+00:00",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "_score": 107,
+      "hours_since_published": 0.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Best Buy"
+        ],
+        "categories": []
+      },
+      "display_title": "The M5 MacBook Air just got its biggest...",
+      "display_summary": "If you’ve been holding off on buying a new Mac",
+      "tags": [
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "judgement_label": "价格促销",
+      "product_intro": "If you’ve been holding off on buying。",
+      "importance": "中",
+      "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "name": "The new iPad Mini is getting its first major discount for Black Friday",
+      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are bo",
+      "date": "2026-11-27T17:30:00-05:00",
+      "published_iso": "2026-11-27T22:30:00+00:00",
+      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "source": "The Verge",
+      "_score": 99,
+      "hours_since_published": 5.3,
+      "freshness_label": "24h内",
+      "monitor_hits": {
+        "brands": [],
+        "channels": [
+          "Amazon",
+          "Walmart"
+        ],
+        "categories": []
+      },
+      "display_title": "The new iPad Mini is getting its first...",
+      "display_summary": "We were big fans of Apple’s new iPad Mini when",
+      "tags": [
+        "🏬 平台电商",
+        "💰 价格促销"
+      ],
+      "impact_area": "电商",
+      "judgement_label": "价格促销",
+      "product_intro": "We were big fans of Apple’s new iPad。",
+      "importance": "中",
+      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+    },
+    {
+      "name": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently",
+      "date": "2026-11-27T18:32:00-05:00",
+      "published_iso": "2026-11-27T23:32:00+00:00",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "_score": 87,
+      "hours_since_published": 4.3,
+      "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [
           "Sony"
@@ -1006,509 +1277,125 @@
           "headphone"
         ]
       },
-      "_score": 250,
-      "display_title": "Hands-on: Sony’s Walkman-revival USB-C...",
+      "display_title": "Sony’s 1000XM4C headphones are a Black...",
+      "display_summary": "Instead of purely looking forward with its hea",
       "tags": [
         "🎧 耳机音频"
       ],
       "impact_area": "品牌营销",
-      "importance": "高",
+      "judgement_label": "竞品观察",
+      "product_intro": "Instead of purely looking forward。",
+      "importance": "中",
       "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    }
-  ],
-  "channel_news": [
-    {
-      "title": "Black Friday store hours 2026: When do major retailers like Walmart, Target, Kohl's, Macy's, Best Buy, Costco open for shopping? - Yahoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucG",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucGJvdGIyaG9IYnBpVVg5OG5DRU9KSklrNUZWckNWR2dscWxlXzhCSEJvYlkyTEowMjFuN3pCSFRVSkNrWmktdjdJM3c4UkI2TDJaa3NibWtq?oc=5",
-      "published": "Mon, 23 Nov 2026 23:09:51 GMT",
-      "published_iso": "2026-11-23T23:09:51+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 77.8,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy",
-          "Walmart",
-          "Target",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "_score": 444,
-      "display_title": "Black Friday store hours 2026: When do...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "title": "Why Walmart and Amazon keep expanding subscription partnerships - Chain Store Age",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5\" target=\"_blank\">Why Walmart and Amazon keep expanding subscripti",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5",
-      "published": "Fri, 20 Nov 2026 13:34:03 GMT",
-      "published_iso": "2026-11-20T13:34:03+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 159.4,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Amazon",
-          "Walmart"
-        ],
-        "categories": []
-      },
-      "_score": 342,
-      "display_title": "Why Walmart and Amazon keep expanding...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Alabama Black Friday 2026: What times do Walmart, Target, Best Buy open? - AL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE5LZHZId1NkQVprbUZPQkxTOWx3ZmN6OTNVMWcwNlEwTXZrSHRDS0YyWVpVMWxQVDVCRC1KRHVmM3N0cmZsX0hJbklXRUZZbDQ0djNDbllXbU5CN0lEZ2xNSW1uU2E0Nktkd29DT3daRjlzbUlFVkNiNTduV1VwOFFzREZXU2R6b3E2cUZENnM2Q19qUlZ2NmdmTHRPRjBzUnJVR0kyS1HSAbwBQVVfeXFMTXBLRWZkQU56OUpXVEs1NE5jVi1HSG",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE5LZHZId1NkQVprbUZPQkxTOWx3ZmN6OTNVMWcwNlEwTXZrSHRDS0YyWVpVMWxQVDVCRC1KRHVmM3N0cmZsX0hJbklXRUZZbDQ0djNDbllXbU5CN0lEZ2xNSW1uU2E0Nktkd29DT3daRjlzbUlFVkNiNTduV1VwOFFzREZXU2R6b3E2cUZENnM2Q19qUlZ2NmdmTHRPRjBzUnJVR0kyS1HSAbwBQVVfeXFMTXBLRWZkQU56OUpXVEs1NE5jVi1HSG5tNy15dTZ0SWlNNlJReHVFYktzczlsdW1WYTVKTGQxZHVRRWxkdVpZWmtydDZFRHBSUWhPcVdlSXd6QmM0ZkluVzlPVEJtWURLUFBRQlpoMFZYaE54THJaUVNKOHNmdXR2dkZFdFo3WFNQRnpVa2VTbzZOaUxjSU9pdmNSUGRTLVJrSEI2NER2ejRPVUtOQ0R2RWRxN3dBejFHTHhJd1o?oc=5",
-      "published": "Wed, 25 Nov 2026 15:14:00 GMT",
-      "published_iso": "2026-11-25T15:14:00+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 37.8,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy",
-          "Walmart",
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 321,
-      "display_title": "Alabama Black Friday 2026: What times...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Best Black Friday deals launch at Walmart and Target as stores prepare for holiday shoppers - 6abc Philadelphia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlQ4b0lSS1ZPTV9fMV84NGdRby16WUZMTk1sUlVVd2RRbXpNU1JVS1pWaktfcHFKWDNQRW9aVWM4dXFKOFZkYm4zaVV3NUw2X19TMGVRVmpubHlYbTlFTU5iVXRQTzVzdTVNUUwxcTRudjl4YXZPcWdtbHJ3YjdXcTJvTDRrX20xbl9YNzZGRjg0SHoxeXM1MDlIaHdZeEpnQ2F0OFVYaG1DMlVOeHfSAbMBQVVfeXFMUEExOEk0cmVQTE1QM2Jtd0",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlQ4b0lSS1ZPTV9fMV84NGdRby16WUZMTk1sUlVVd2RRbXpNU1JVS1pWaktfcHFKWDNQRW9aVWM4dXFKOFZkYm4zaVV3NUw2X19TMGVRVmpubHlYbTlFTU5iVXRQTzVzdTVNUUwxcTRudjl4YXZPcWdtbHJ3YjdXcTJvTDRrX20xbl9YNzZGRjg0SHoxeXM1MDlIaHdZeEpnQ2F0OFVYaG1DMlVOeHfSAbMBQVVfeXFMUEExOEk0cmVQTE1QM2Jtd0JKU0wwbDdQalZDRkdXRWxpSHJ3eHlYTTVXeHRta0hZLUJjbkhXVWhvZ1NwbjdiU1k5eml6OWhLVUliamtMaFhkaklDb0VYU0c4MHhxOUh1UV9HaG9STmxNUkRxS3MtUXkxbGdXblZoU0M1UlBGRVM5ZGxUdlR2aFFFaC1WdFA3ZFlCMFItbkw0WC1CRW10ZU01cDdLR003U0FQLUE?oc=5",
-      "published": "Thu, 26 Nov 2026 14:25:43 GMT",
-      "published_iso": "2026-11-26T14:25:43+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 14.6,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart",
-          "Target"
-        ],
-        "categories": []
-      },
-      "_score": 312,
-      "display_title": "Best Black Friday deals launch at...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "🚀 新品发布"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart / Target相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Walmart’s convenience lures high-income shoppers",
-      "summary": "For years, Walmart has won on cost. But as the retailer shows payoff from its e-commerce operations, its new membership bundle combining Walmart+ and Sam’s Club Plus programs appeals to shoppers who can pay for efficiency.",
-      "url": "https://www.modernretail.co/operations/walmarts-convenience-lures-high-income-shoppers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-      "published": "Fri, 20 Nov 2026 05:00:00 +0000",
-      "published_iso": "2026-11-20T05:00:00+00:00",
-      "source": "Modern Retail",
-      "bucket": "channel_news",
-      "hours_since_published": 168.0,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Walmart",
-          "Sam's Club"
-        ],
-        "categories": []
-      },
-      "_score": 280,
-      "display_title": "Walmart’s convenience lures high-income...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Walmart / Sam's Club相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "title": "Black Friday Store Hours 2026: Here’s When Doors Open at Best Buy, Kohl’s, Macy’s and More - TODAY.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjduQXZuNVdBOU5VS0RVemJzSkZwWEFMdFRGV3o1SE80dmFsaE1PQUlDaXFMdkRfVnM3RUxvekNvbk0tNXJwQWZPYVVEN0tUT2FTWWIzcXlsdFQ5Q29kcnlGdk9WWVBOR2R6eDlYbUZRRFkya001SGo5XzRzR29oZnR3?oc=5\" target=\"_blank\">Black Friday Store Hours 2026: Here’s When Doors Open at Best Buy, Kohl",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjduQXZuNVdBOU5VS0RVemJzSkZwWEFMdFRGV3o1SE80dmFsaE1PQUlDaXFMdkRfVnM3RUxvekNvbk0tNXJwQWZPYVVEN0tUT2FTWWIzcXlsdFQ5Q29kcnlGdk9WWVBOR2R6eDlYbUZRRFkya001SGo5XzRzR29oZnR3?oc=5",
-      "published": "Thu, 26 Nov 2026 20:00:41 GMT",
-      "published_iso": "2026-11-26T20:00:41+00:00",
-      "source": "Google News - Retail Platforms",
-      "bucket": "channel_news",
-      "hours_since_published": 9.0,
-      "freshness_label": "24h内",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [
-          "Best Buy"
-        ],
-        "categories": []
-      },
-      "_score": 280,
-      "display_title": "Black Friday Store Hours 2026: Here’s...",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商"
-      ],
-      "impact_area": "电商",
-      "importance": "高",
-      "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    }
-  ],
-  "products": [
-    {
-      "name": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the ",
-      "date": "2026-11-26T12:07:00-05:00",
-      "published_iso": "2026-11-26T17:07:00+00:00",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "name": "The absolute best Black Friday deals you can still get",
+      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal ",
+      "date": "2026-11-27T22:28:32-05:00",
+      "published_iso": "2026-11-28T03:28:32+00:00",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
       "source": "The Verge",
-      "_score": 107,
-      "hours_since_published": 11.9,
+      "_score": 61,
+      "hours_since_published": 0.4,
       "freshness_label": "24h内",
       "monitor_hits": {
         "brands": [],
-        "channels": [
-          "Amazon",
-          "Costco"
-        ],
-        "categories": []
-      },
-      "display_title": "The MacBook Neo is receiving a rare...",
-      "display_summary": "If you’re looking for a new laptop or a gift f",
-      "tags": [
-        "🛒 渠道零售",
-        "🏬 平台电商",
-        "💰 价格促销"
-      ],
-      "impact_area": "电商",
-      "judgement_label": "价格促销",
-      "product_intro": "If you’re looking for a new laptop or。",
-      "importance": "中",
-      "business_note": "北美渠道侧出现与Amazon / Costco相关信号，优先评估对电商的影响。",
-      "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-    },
-    {
-      "name": "Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple - CNET",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5\" target=\"_blank\">Best Open Earbuds for 2026: Top Picks Fro",
-      "date": "Mon, 23 Nov 2026 22:00:00",
-      "published_iso": "2026-11-23T22:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 97,
-      "hours_since_published": 79.0,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz",
-          "Bose"
-        ],
         "channels": [],
         "categories": [
-          "open-ear",
           "earbuds"
         ]
       },
-      "display_title": "Best Open Earbuds for 2026: Top Picks...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
+      "display_title": "The absolute best Black Friday deals...",
+      "display_summary": "Black Friday is nearly over, but many of this ",
       "tags": [
         "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "竞品观察",
-      "product_intro": "<a。",
-      "importance": "中",
-      "business_note": "Shokz / Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "name": "There are loads of Shokz bone conduction headphones deals this Black Friday — here are the best I've seen from $90 - Tom's Guide",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0",
-      "date": "Sun, 22 Nov 2026 10:10:56",
-      "published_iso": "2026-11-22T10:10:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3ZzdoT01PMjlXeW9vTGdFZXZCRXM2dzJnRm9haVh1MldLQnVFTA?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 75,
-      "hours_since_published": 114.8,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [
-          "Shokz"
-        ],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "display_title": "There are loads of Shokz bone...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴",
-        "💰 价格促销"
+        "🛒 渠道零售",
+        "🚀 新品发布"
       ],
       "impact_area": "电商",
       "judgement_label": "价格促销",
-      "product_intro": "<a。",
-      "importance": "中",
-      "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+      "product_intro": "Black Friday is nearly over, but many。",
+      "importance": "低",
+      "business_note": "earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
       "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
     },
     {
-      "name": "The best running headphones 2026: find your match, from earbuds to bone conduction - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVE5UWndiS3ZEdnNDNklwNUhRcHJDTGlVS2JBMVBMWDdvUnQxQ2tObjB0X3ZuSWZ2aWhwaWRqYnJJRXFsZjgzelZkZTg5b25hcDdUaktTblBibHgzc25KX2d3ODk?oc=5\" target=\"_blank\">The best running headphones 2026: find your match, f",
-      "date": "Tue, 24 Nov 2026 14:52:15",
-      "published_iso": "2026-11-24T14:52:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVE5UWndiS3ZEdnNDNklwNUhRcHJDTGlVS2JBMVBMWDdvUnQxQ2tObjB0X3ZuSWZ2aWhwaWRqYnJJRXFsZjgzelZkZTg5b25hcDdUaktTblBibHgzc25KX2d3ODk?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 74,
-      "hours_since_published": 62.1,
-      "freshness_label": "近3天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "earbuds",
-          "headphone"
-        ]
-      },
-      "display_title": "The best running headphones 2026: find...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "行业趋势",
-      "product_intro": "<a。",
-      "importance": "中",
-      "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "name": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a fe",
-      "date": "2026-11-26T14:00:00-05:00",
-      "published_iso": "2026-11-26T19:00:00+00:00",
-      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "name": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can g",
+      "date": "2026-11-27T19:02:49-05:00",
+      "published_iso": "2026-11-28T00:02:49+00:00",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
       "source": "The Verge",
-      "_score": 69,
-      "hours_since_published": 10.0,
+      "_score": 47,
+      "hours_since_published": 3.8,
       "freshness_label": "24h内",
       "monitor_hits": {
-        "brands": [
-          "Garmin"
-        ],
+        "brands": [],
         "channels": [],
         "categories": []
       },
-      "display_title": "The Garmin Forerunner 265S is down to...",
-      "display_summary": "The Forerunner 265S may not be the newest or f",
+      "display_title": "This purple electric Chinese minivan...",
+      "display_summary": "Electric minivans could be the ultimate in uti",
       "tags": [
-        "🏃 运动穿戴",
-        "💰 价格促销"
+        "🚀 新品发布"
       ],
       "impact_area": "品牌营销",
-      "judgement_label": "竞品观察",
-      "product_intro": "The Forerunner 265S may not be the。",
+      "judgement_label": "新品发布",
+      "product_intro": "Electric minivans could be the。",
       "importance": "低",
-      "business_note": "Garmin相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-      "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-    },
-    {
-      "name": "The best bone conduction headphones 2026: enjoy your music without blocking out the world - TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5\" target=\"_blank\">The best bone conduction headphones 2",
-      "date": "Fri, 20 Nov 2026 15:36:59",
-      "published_iso": "2026-11-20T15:36:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aFJyNzJWWGZseVV5MHU0Z3JfbDB4d3dZaWVaT0FHTlhnaHd3cWxlY0VGM0tpb1VCeFR0M1FZUGp3STdfNHVXV095aXQtcmUzbzJpTDlvT3pnWTB2MnBJa05jeVdEWktEUEp5ZTFCaw?oc=5",
-      "source": "Google News - Audio Wearable Watch",
-      "_score": 49,
-      "hours_since_published": 157.4,
-      "freshness_label": "近7天",
-      "monitor_hits": {
-        "brands": [],
-        "channels": [],
-        "categories": [
-          "bone conduction",
-          "headphone"
-        ]
-      },
-      "display_title": "The best bone conduction headphones...",
-      "display_summary": "<a href=\"https://news.google.com/rss/articles/",
-      "tags": [
-        "🎧 耳机音频",
-        "🏃 运动穿戴"
-      ],
-      "impact_area": "品牌营销",
-      "judgement_label": "行业趋势",
-      "product_intro": "<a。",
-      "importance": "低",
-      "business_note": "bone conduction / headphone相关趋势仍有热度，建议结合北美用户场景判断机会。",
+      "business_note": "该条内容与品牌营销相关，建议作为北美业务观察样本继续跟踪。",
       "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
     }
   ],
   "monitored_entities": [
     {
-      "name": "headphone",
-      "type": "品类",
-      "count": 10,
-      "items": [
-        {
-          "title": "These Beats Solo 4 Headphones Are 50% Off at Walmart for Black Friday - Lifehacker",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQR05aNmdqTUJzMEtjRGU3M1FfdkEwcHp5T0ZKZ0xDbmdQNUtJZlpKVnBYSmdMZzJ6SUFDaFdoelR5T1Z5LTQtV1lLRGl6WXBhZlVNekhWVWM5eXB0Y0VMUk1kTHBsRDcxS3JOcTcxOTFjSHBlYldGVjl3RnlRWXd1R1lCUzBmUjlaLVE?oc=5\" target=\"_blank\">These Beats Solo 4 Headphones Are 50% Off at Walmart for Bla",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR05aNmdqTUJzMEtjRGU3M1FfdkEwcHp5T0ZKZ0xDbmdQNUtJZlpKVnBYSmdMZzJ6SUFDaFdoelR5T1Z5LTQtV1lLRGl6WXBhZlVNekhWVWM5eXB0Y0VMUk1kTHBsRDcxS3JOcTcxOTFjSHBlYldGVjl3RnlRWXd1R1lCUzBmUjlaLVE?oc=5",
-          "published": "Fri, 27 Nov 2026 02:14:51 GMT",
-          "published_iso": "2026-11-27T02:14:51+00:00",
-          "source": "Google News - Competitor Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 2.7,
-          "freshness_label": "24h内",
-          "monitor_hits": {
-            "brands": [
-              "Beats"
-            ],
-            "channels": [
-              "Walmart"
-            ],
-            "categories": [
-              "headphone"
-            ]
-          },
-          "_score": 289,
-          "display_title": "These Beats Solo 4 Headphones Are 50%...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "There are loads of Shokz bone conduction headphones deals this Black Friday — here are the best I've seen from $90 - Tom's Guide",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3Zz",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3ZzdoT01PMjlXeW9vTGdFZXZCRXM2dzJnRm9haVh1MldLQnVFTA?oc=5",
-          "published": "Sun, 22 Nov 2026 10:10:56 GMT",
-          "published_iso": "2026-11-22T10:10:56+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 114.8,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 275,
-          "display_title": "There are loads of Shokz bone...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "💰 价格促销"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        }
-      ]
-    },
-    {
-      "name": "Walmart",
+      "name": "Amazon",
       "type": "渠道",
       "count": 7,
       "items": [
         {
-          "title": "Black Friday store hours 2026: When do major retailers like Walmart, Target, Kohl's, Macy's, Best Buy, Costco open for shopping? - Yahoo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucG",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucGJvdGIyaG9IYnBpVVg5OG5DRU9KSklrNUZWckNWR2dscWxlXzhCSEJvYlkyTEowMjFuN3pCSFRVSkNrWmktdjdJM3c4UkI2TDJaa3NibWtq?oc=5",
-          "published": "Mon, 23 Nov 2026 23:09:51 GMT",
-          "published_iso": "2026-11-23T23:09:51+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 77.8,
-          "freshness_label": "近7天",
+          "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, B",
+          "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "published": "2026-11-27T18:32:00-05:00",
+          "published_iso": "2026-11-27T23:32:00+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 4.3,
+          "freshness_label": "24h内",
           "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "Walmart",
-              "Target",
-              "Costco"
+            "brands": [
+              "Sony"
             ],
-            "categories": []
+            "channels": [
+              "Amazon"
+            ],
+            "categories": [
+              "headphone"
+            ]
           },
-          "_score": 444,
-          "display_title": "Black Friday store hours 2026: When do...",
+          "_score": 309,
+          "display_title": "Sony’s 1000XM4C headphones are a Black...",
           "tags": [
-            "🛒 渠道零售",
+            "🎧 耳机音频",
             "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Why Walmart and Amazon keep expanding subscription partnerships - Chain Store Age",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5\" target=\"_blank\">Why Walmart and Amazon keep expanding subscripti",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5",
-          "published": "Fri, 20 Nov 2026 13:34:03 GMT",
-          "published_iso": "2026-11-20T13:34:03+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 159.4,
-          "freshness_label": "近7天",
+          "title": "The new iPad Mini is getting its first major discount for Black Friday",
+          "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and [&#8230;]",
+          "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+          "published": "2026-11-27T17:30:00-05:00",
+          "published_iso": "2026-11-27T22:30:00+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 5.3,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1517,11 +1404,11 @@
             ],
             "categories": []
           },
-          "_score": 342,
-          "display_title": "Why Walmart and Amazon keep expanding...",
+          "_score": 209,
+          "display_title": "The new iPad Mini is getting its first...",
           "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
+            "🏬 平台电商",
+            "💰 价格促销"
           ],
           "impact_area": "电商",
           "importance": "高",
@@ -1533,67 +1420,64 @@
     {
       "name": "Best Buy",
       "type": "渠道",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "Black Friday store hours 2026: When do major retailers like Walmart, Target, Kohl's, Macy's, Best Buy, Costco open for shopping? - Yahoo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucG",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucGJvdGIyaG9IYnBpVVg5OG5DRU9KSklrNUZWckNWR2dscWxlXzhCSEJvYlkyTEowMjFuN3pCSFRVSkNrWmktdjdJM3c4UkI2TDJaa3NibWtq?oc=5",
-          "published": "Mon, 23 Nov 2026 23:09:51 GMT",
-          "published_iso": "2026-11-23T23:09:51+00:00",
-          "source": "Google News - Retail Platforms",
+          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+          "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest [&#8230;]",
+          "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+          "published": "2026-11-27T22:30:00-05:00",
+          "published_iso": "2026-11-28T03:30:00+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 0.3,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Best Buy"
+            ],
+            "categories": []
+          },
+          "_score": 207,
+          "display_title": "The M5 MacBook Air just got its biggest...",
+          "tags": [
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Amazon / Best Buy相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "title": "Best Buy sales outperform even as computing gets more expensive",
+          "summary": "As memory prices crept up, Best Buy’s computing sales held the line this quarter, propped up by horsepower needs for gaming and artificial intelligence.",
+          "url": "https://www.modernretail.co/operations/best-buy-customers-undeterred-by-rising-prices/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Tue, 24 Nov 2026 18:28:03 +0000",
+          "published_iso": "2026-11-24T18:28:03+00:00",
+          "source": "Modern Retail",
           "bucket": "channel_news",
-          "hours_since_published": 77.8,
+          "hours_since_published": 81.4,
           "freshness_label": "近7天",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Best Buy",
-              "Walmart",
-              "Target",
-              "Costco"
+              "Best Buy"
             ],
             "categories": []
           },
-          "_score": 444,
-          "display_title": "Black Friday store hours 2026: When do...",
+          "_score": 192,
+          "display_title": "Best Buy sales outperform even as...",
           "tags": [
             "🛒 渠道零售",
-            "🏬 平台电商"
+            "🏬 平台电商",
+            "💰 价格促销"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "Alabama Black Friday 2026: What times do Walmart, Target, Best Buy open? - AL.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE5LZHZId1NkQVprbUZPQkxTOWx3ZmN6OTNVMWcwNlEwTXZrSHRDS0YyWVpVMWxQVDVCRC1KRHVmM3N0cmZsX0hJbklXRUZZbDQ0djNDbllXbU5CN0lEZ2xNSW1uU2E0Nktkd29DT3daRjlzbUlFVkNiNTduV1VwOFFzREZXU2R6b3E2cUZENnM2Q19qUlZ2NmdmTHRPRjBzUnJVR0kyS1HSAbwBQVVfeXFMTXBLRWZkQU56OUpXVEs1NE5jVi1HSG",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE5LZHZId1NkQVprbUZPQkxTOWx3ZmN6OTNVMWcwNlEwTXZrSHRDS0YyWVpVMWxQVDVCRC1KRHVmM3N0cmZsX0hJbklXRUZZbDQ0djNDbllXbU5CN0lEZ2xNSW1uU2E0Nktkd29DT3daRjlzbUlFVkNiNTduV1VwOFFzREZXU2R6b3E2cUZENnM2Q19qUlZ2NmdmTHRPRjBzUnJVR0kyS1HSAbwBQVVfeXFMTXBLRWZkQU56OUpXVEs1NE5jVi1HSG5tNy15dTZ0SWlNNlJReHVFYktzczlsdW1WYTVKTGQxZHVRRWxkdVpZWmtydDZFRHBSUWhPcVdlSXd6QmM0ZkluVzlPVEJtWURLUFBRQlpoMFZYaE54THJaUVNKOHNmdXR2dkZFdFo3WFNQRnpVa2VTbzZOaUxjSU9pdmNSUGRTLVJrSEI2NER2ejRPVUtOQ0R2RWRxN3dBejFHTHhJd1o?oc=5",
-          "published": "Wed, 25 Nov 2026 15:14:00 GMT",
-          "published_iso": "2026-11-25T15:14:00+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 37.8,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "Walmart",
-              "Target"
-            ],
-            "categories": []
-          },
-          "_score": 321,
-          "display_title": "Alabama Black Friday 2026: What times...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
+          "business_note": "北美渠道侧出现与Best Buy相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
@@ -1601,156 +1485,90 @@
     {
       "name": "earbuds",
       "type": "品类",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5\" target=\"_blank\">Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5",
-          "published": "Mon, 23 Nov 2026 22:00:00 GMT",
-          "published_iso": "2026-11-23T22:00:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "The absolute best Black Friday deals you can still get",
+          "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber [&#8230;]",
+          "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "published": "2026-11-27T22:28:32-05:00",
+          "published_iso": "2026-11-28T03:28:32+00:00",
+          "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 79.0,
-          "freshness_label": "近7天",
+          "hours_since_published": 0.4,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [],
+            "categories": [
+              "earbuds"
+            ]
+          },
+          "_score": 201,
+          "display_title": "The absolute best Black Friday deals...",
+          "tags": [
+            "🎧 耳机音频",
+            "🛒 渠道零售",
+            "🚀 新品发布"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "name": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon",
+          "summary": "Shokz's open-ear earbuds with Dolby Audio and wireless charging are 50% off, matching their lowest price.",
+          "date": "Fri, 27 Nov 2026 14:28:44",
+          "published_iso": "2026-11-27T14:28:44+00:00",
+          "url": "https://www.androidauthority.com/shokz-openfit-2-plus-deal-3740882/",
+          "source": "Android Authority",
+          "_score": 145,
+          "hours_since_published": 13.4,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
-              "Shokz",
-              "Bose"
+              "Shokz"
             ],
-            "channels": [],
+            "channels": [
+              "Amazon"
+            ],
             "categories": [
               "open-ear",
               "earbuds"
             ]
           },
-          "_score": 297,
-          "display_title": "Best Open Earbuds for 2026: Top Picks...",
+          "display_title": "Shokz OpenFit 2 Plus open-ear earbuds...",
+          "display_summary": "Shokz's open-ear earbuds with Dolby Audio and ",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz / Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "The best running headphones 2026: find your match, from earbuds to bone conduction - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVE5UWndiS3ZEdnNDNklwNUhRcHJDTGlVS2JBMVBMWDdvUnQxQ2tObjB0X3ZuSWZ2aWhwaWRqYnJJRXFsZjgzelZkZTg5b25hcDdUaktTblBibHgzc25KX2d3ODk?oc=5\" target=\"_blank\">The best running headphones 2026: find your match, from earbuds to bone conduction</a>&nbsp;&nbsp;<font color=\"#",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVE5UWndiS3ZEdnNDNklwNUhRcHJDTGlVS2JBMVBMWDdvUnQxQ2tObjB0X3ZuSWZ2aWhwaWRqYnJJRXFsZjgzelZkZTg5b25hcDdUaktTblBibHgzc25KX2d3ODk?oc=5",
-          "published": "Tue, 24 Nov 2026 14:52:15 GMT",
-          "published_iso": "2026-11-24T14:52:15+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 62.1,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "_score": 274,
-          "display_title": "The best running headphones 2026: find...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        }
-      ]
-    },
-    {
-      "name": "bone conduction",
-      "type": "品类",
-      "count": 6,
-      "items": [
-        {
-          "title": "There are loads of Shokz bone conduction headphones deals this Black Friday — here are the best I've seen from $90 - Tom's Guide",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3Zz",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3ZzdoT01PMjlXeW9vTGdFZXZCRXM2dzJnRm9haVh1MldLQnVFTA?oc=5",
-          "published": "Sun, 22 Nov 2026 10:10:56 GMT",
-          "published_iso": "2026-11-22T10:10:56+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 114.8,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
-            ],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "headphone"
-            ]
-          },
-          "_score": 275,
-          "display_title": "There are loads of Shokz bone...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴",
+            "🏬 平台电商",
             "💰 价格促销"
           ],
           "impact_area": "电商",
+          "judgement_label": "渠道动态",
+          "product_intro": "Shokz's open-ear earbuds with Dolby。",
           "importance": "高",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "The best running headphones 2026: find your match, from earbuds to bone conduction - TechRadar",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVE5UWndiS3ZEdnNDNklwNUhRcHJDTGlVS2JBMVBMWDdvUnQxQ2tObjB0X3ZuSWZ2aWhwaWRqYnJJRXFsZjgzelZkZTg5b25hcDdUaktTblBibHgzc25KX2d3ODk?oc=5\" target=\"_blank\">The best running headphones 2026: find your match, from earbuds to bone conduction</a>&nbsp;&nbsp;<font color=\"#",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZVE5UWndiS3ZEdnNDNklwNUhRcHJDTGlVS2JBMVBMWDdvUnQxQ2tObjB0X3ZuSWZ2aWhwaWRqYnJJRXFsZjgzelZkZTg5b25hcDdUaktTblBibHgzc25KX2d3ODk?oc=5",
-          "published": "Tue, 24 Nov 2026 14:52:15 GMT",
-          "published_iso": "2026-11-24T14:52:15+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 62.1,
-          "freshness_label": "近3天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [],
-            "categories": [
-              "bone conduction",
-              "earbuds",
-              "headphone"
-            ]
-          },
-          "_score": 274,
-          "display_title": "The best running headphones 2026: find...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "bone conduction / earbuds相关趋势仍有热度，建议结合北美用户场景判断机会。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
     {
-      "name": "Amazon",
+      "name": "Walmart",
       "type": "渠道",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "Why Walmart and Amazon keep expanding subscription partnerships - Chain Store Age",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5\" target=\"_blank\">Why Walmart and Amazon keep expanding subscripti",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzVHRmQ3Y2JBUU0zVC1NZTZSMmhYY2RyRXhxVnBmc2htQ2h1MS1ZTkFIYndKOXdadVNUZmlnYTA1a01lYlNoandMY29CSDBsZTNWU2tqak44c0gzclZoY2QwbGVVUVk3MzdCV05vYkNPdGdsMEd1OHNHSTNaWHNZX1BiVmJINzU1S0c4NHA3R2lxRnc?oc=5",
-          "published": "Fri, 20 Nov 2026 13:34:03 GMT",
-          "published_iso": "2026-11-20T13:34:03+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 159.4,
-          "freshness_label": "近7天",
+          "title": "The new iPad Mini is getting its first major discount for Black Friday",
+          "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and [&#8230;]",
+          "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+          "published": "2026-11-27T17:30:00-05:00",
+          "published_iso": "2026-11-27T22:30:00+00:00",
+          "source": "The Verge",
+          "bucket": "consumer_electronics",
+          "hours_since_published": 5.3,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
@@ -1759,11 +1577,11 @@
             ],
             "categories": []
           },
-          "_score": 342,
-          "display_title": "Why Walmart and Amazon keep expanding...",
+          "_score": 209,
+          "display_title": "The new iPad Mini is getting its first...",
           "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
+            "🏬 平台电商",
+            "💰 价格促销"
           ],
           "impact_area": "电商",
           "importance": "高",
@@ -1771,14 +1589,52 @@
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         },
         {
-          "title": "Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds",
-          "summary": "Sony's low-latency gaming earbuds are 38% off on Amazon in all three colors, matching their lowest price.",
-          "url": "https://www.androidauthority.com/sony-inzone-buds-black-friday-deal-3739518/",
-          "published": "Thu, 26 Nov 2026 17:59:58 +0000",
-          "published_iso": "2026-11-26T17:59:58+00:00",
-          "source": "Android Authority",
+          "name": "The new iPad Mini is getting its first major discount for Black Friday",
+          "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are bo",
+          "date": "2026-11-27T17:30:00-05:00",
+          "published_iso": "2026-11-27T22:30:00+00:00",
+          "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+          "source": "The Verge",
+          "_score": 99,
+          "hours_since_published": 5.3,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Amazon",
+              "Walmart"
+            ],
+            "categories": []
+          },
+          "display_title": "The new iPad Mini is getting its first...",
+          "display_summary": "We were big fans of Apple’s new iPad Mini when",
+          "tags": [
+            "🏬 平台电商",
+            "💰 价格促销"
+          ],
+          "impact_area": "电商",
+          "judgement_label": "价格促销",
+          "product_intro": "We were big fans of Apple’s new iPad。",
+          "importance": "中",
+          "business_note": "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        }
+      ]
+    },
+    {
+      "name": "Sony",
+      "type": "品牌",
+      "count": 2,
+      "items": [
+        {
+          "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, B",
+          "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "published": "2026-11-27T18:32:00-05:00",
+          "published_iso": "2026-11-27T23:32:00+00:00",
+          "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 11.0,
+          "hours_since_published": 4.3,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
@@ -1788,156 +1644,188 @@
               "Amazon"
             ],
             "categories": [
-              "earbuds"
+              "headphone"
             ]
           },
-          "_score": 259,
-          "display_title": "Game anywhere with $92 off Sony’s...",
+          "_score": 309,
+          "display_title": "Sony’s 1000XM4C headphones are a Black...",
           "tags": [
             "🎧 耳机音频",
-            "🏬 平台电商",
-            "💰 价格促销"
+            "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
           "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "name": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently",
+          "date": "2026-11-27T18:32:00-05:00",
+          "published_iso": "2026-11-27T23:32:00+00:00",
+          "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "_score": 87,
+          "hours_since_published": 4.3,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "display_title": "Sony’s 1000XM4C headphones are a Black...",
+          "display_summary": "Instead of purely looking forward with its hea",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "judgement_label": "竞品观察",
+          "product_intro": "Instead of purely looking forward。",
+          "importance": "中",
+          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
     {
-      "name": "Shokz",
-      "type": "品牌",
-      "count": 4,
+      "name": "headphone",
+      "type": "品类",
+      "count": 2,
       "items": [
         {
-          "title": "Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple - CNET",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5\" target=\"_blank\">Best Open Earbuds for 2026: Top Picks From Bose, Shokz and Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdllISnRoUnhBZXB4MWl4cmQtSm5yS0h6Q3ltQWxhVzlGY0dZcEZKYU04S3d6VjVld0ZCTmZXSUZ3VXY0M3pXZEhCX1hfSXRvLVFXeEZsVktRV29DTlV6ak1fdENuMWtkVWoxOA?oc=5",
-          "published": "Mon, 23 Nov 2026 22:00:00 GMT",
-          "published_iso": "2026-11-23T22:00:00+00:00",
-          "source": "Google News - Audio Wearable Watch",
+          "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, B",
+          "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "published": "2026-11-27T18:32:00-05:00",
+          "published_iso": "2026-11-27T23:32:00+00:00",
+          "source": "The Verge",
           "bucket": "consumer_electronics",
-          "hours_since_published": 79.0,
-          "freshness_label": "近7天",
+          "hours_since_published": 4.3,
+          "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [
-              "Shokz",
-              "Bose"
+              "Sony"
             ],
-            "channels": [],
-            "categories": [
-              "open-ear",
-              "earbuds"
-            ]
-          },
-          "_score": 297,
-          "display_title": "Best Open Earbuds for 2026: Top Picks...",
-          "tags": [
-            "🎧 耳机音频",
-            "🏃 运动穿戴"
-          ],
-          "impact_area": "品牌营销",
-          "importance": "高",
-          "business_note": "Shokz / Bose相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
-          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
-        },
-        {
-          "title": "There are loads of Shokz bone conduction headphones deals this Black Friday — here are the best I've seen from $90 - Tom's Guide",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3Zz",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm1mdkQ3UzRIT2EtOV82WlpsTExOeFdhMDl5bVRqVW5RZTVDanRfQW9tdlEwanY3anVnWXY0SWhsVFhuNW9BU0NERGhMWjZvN19QUGpMUjBpV2dQaXhlaEV5X3gwZjRfQS14eXVDekRkTk5NY09Zckozek5lMWlkSmwzQ3VwSmF5ajdBcUxIcVd5ZDYwaGJkUkx1S0htTHd0ZC10M2xEbWFfN2owZmo4c1dMeVlBcUlMamE0T01jR0t2TWNKLUw3ZzdoT01PMjlXeW9vTGdFZXZCRXM2dzJnRm9haVh1MldLQnVFTA?oc=5",
-          "published": "Sun, 22 Nov 2026 10:10:56 GMT",
-          "published_iso": "2026-11-22T10:10:56+00:00",
-          "source": "Google News - Audio Wearable Watch",
-          "bucket": "consumer_electronics",
-          "hours_since_published": 114.8,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [
-              "Shokz"
+            "channels": [
+              "Amazon"
             ],
-            "channels": [],
             "categories": [
-              "bone conduction",
               "headphone"
             ]
           },
-          "_score": 275,
-          "display_title": "There are loads of Shokz bone...",
+          "_score": 309,
+          "display_title": "Sony’s 1000XM4C headphones are a Black...",
           "tags": [
             "🎧 耳机音频",
-            "🏃 运动穿戴",
-            "💰 价格促销"
+            "🏬 平台电商"
           ],
           "impact_area": "电商",
           "importance": "高",
-          "business_note": "Shokz相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "business_note": "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
           "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
+        },
+        {
+          "name": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently",
+          "date": "2026-11-27T18:32:00-05:00",
+          "published_iso": "2026-11-27T23:32:00+00:00",
+          "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "_score": 87,
+          "hours_since_published": 4.3,
+          "freshness_label": "24h内",
+          "monitor_hits": {
+            "brands": [
+              "Sony"
+            ],
+            "channels": [],
+            "categories": [
+              "headphone"
+            ]
+          },
+          "display_title": "Sony’s 1000XM4C headphones are a Black...",
+          "display_summary": "Instead of purely looking forward with its hea",
+          "tags": [
+            "🎧 耳机音频"
+          ],
+          "impact_area": "品牌营销",
+          "judgement_label": "竞品观察",
+          "product_intro": "Instead of purely looking forward。",
+          "importance": "中",
+          "business_note": "Sony相关动态值得纳入北美竞品观察，关注品牌动作与市场声量。",
+          "suggested_action": "关注品牌话题和竞品动作，必要时补充传播与产品卖点分析。"
         }
       ]
     },
     {
       "name": "Costco",
       "type": "渠道",
-      "count": 3,
+      "count": 1,
       "items": [
         {
-          "title": "Black Friday store hours 2026: When do major retailers like Walmart, Target, Kohl's, Macy's, Best Buy, Costco open for shopping? - Yahoo",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucG",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3JSYl9VOUN1TmhPWk0xMzVPMFJUallPRklTSDRLVzZoT2RVR0FndVFQbHctN2NQLTEtMmw1WEY5cFlMUExvWE5FY2VyUHI4UkNuZU1iZ2FhUWFzUU9CcUROcGZKNVNjcjhXdXdLNnEzSzN0LWZPbWJkREpPLVVRb2w2UnZUV1BIX3RzSm0zQUdHeXBDcFJjSHpjSk5ZQXRQZlB4RWZMX0NOUFRiY3VhVlBNaU9ZVVFYZFNPUDZZM1R5ZWZldmtucGJvdGIyaG9IYnBpVVg5OG5DRU9KSklrNUZWckNWR2dscWxlXzhCSEJvYlkyTEowMjFuN3pCSFRVSkNrWmktdjdJM3c4UkI2TDJaa3NibWtq?oc=5",
-          "published": "Mon, 23 Nov 2026 23:09:51 GMT",
-          "published_iso": "2026-11-23T23:09:51+00:00",
-          "source": "Google News - Retail Platforms",
-          "bucket": "channel_news",
-          "hours_since_published": 77.8,
-          "freshness_label": "近7天",
-          "monitor_hits": {
-            "brands": [],
-            "channels": [
-              "Best Buy",
-              "Walmart",
-              "Target",
-              "Costco"
-            ],
-            "categories": []
-          },
-          "_score": 444,
-          "display_title": "Black Friday store hours 2026: When do...",
-          "tags": [
-            "🛒 渠道零售",
-            "🏬 平台电商"
-          ],
-          "impact_area": "电商",
-          "importance": "高",
-          "business_note": "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
-          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
-        },
-        {
-          "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-          "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is [&#8230;]",
-          "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-          "published": "2026-11-26T12:07:00-05:00",
-          "published_iso": "2026-11-26T17:07:00+00:00",
-          "source": "The Verge",
+          "title": "5 Costco Electronics With Deep Discounts For Black Friday 2026",
+          "summary": "Costco members can get some pretty great deals this weekend.",
+          "url": "https://www.engadget.com/2329581/costco-electronics-deep-discounts-black-friday-2026/",
+          "published": "Fri, 27 Nov 2026 16:51:43 +0000",
+          "published_iso": "2026-11-27T16:51:43+00:00",
+          "source": "Engadget",
           "bucket": "consumer_electronics",
-          "hours_since_published": 11.9,
+          "hours_since_published": 11.0,
           "freshness_label": "24h内",
           "monitor_hits": {
             "brands": [],
             "channels": [
-              "Amazon",
               "Costco"
             ],
             "categories": []
           },
-          "_score": 207,
-          "display_title": "The MacBook Neo is receiving a rare...",
+          "_score": 157,
+          "display_title": "5 Costco Electronics With Deep...",
           "tags": [
-            "🛒 渠道零售",
             "🏬 平台电商",
             "💰 价格促销"
           ],
           "impact_area": "电商"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "type": "渠道",
+      "count": 1,
+      "items": [
+        {
+          "title": "Big-Box Briefing: Target faces off with Trader Joe’s, Quince and HomeGoods",
+          "summary": "Target’s third-quarter earnings, released on Wednesday, gave investors confidence that it’s finding its footing under CEO Michael Fiddelke, who stepped into the role in February. But analysts’ praise for the retailer’s performance has come with caveats.",
+          "url": "https://www.modernretail.co/operations/big-box-briefing-targets-retail-reset-means-facing-off-with-trader-joes-quince-and-homegoods/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "published": "Fri, 20 Nov 2026 14:30:00 +0000",
+          "published_iso": "2026-11-20T14:30:00+00:00",
+          "source": "Modern Retail",
+          "bucket": "channel_news",
+          "hours_since_published": 181.3,
+          "freshness_label": "较早内容",
+          "monitor_hits": {
+            "brands": [],
+            "channels": [
+              "Target"
+            ],
+            "categories": []
+          },
+          "_score": 180,
+          "display_title": "Big-Box Briefing: Target faces off with...",
+          "tags": [
+            "🛒 渠道零售",
+            "🏬 平台电商",
+            "🚀 新品发布"
+          ],
+          "impact_area": "电商",
+          "importance": "高",
+          "business_note": "北美渠道侧出现与Target相关信号，优先评估对电商的影响。",
+          "suggested_action": "关注平台价格、流量和活动节奏，必要时补充竞品页面巡检。"
         }
       ]
     }
@@ -1948,7 +1836,7 @@
     "新品与渠道信息更适合结合价格、铺货和传播动作一起看。"
   ],
   "opportunity_signals": [
-    "北美渠道侧出现与Best Buy / Walmart相关信号，优先评估对电商的影响。",
+    "北美渠道侧出现与Amazon相关信号，优先评估对电商的影响。",
     "北美渠道侧出现与Amazon / Walmart相关信号，优先评估对电商的影响。"
   ],
   "risk_signals": [
